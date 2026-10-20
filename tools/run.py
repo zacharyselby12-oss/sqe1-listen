@@ -69,14 +69,14 @@ def requests_needed(words, voices):
     return words // 20 + 5                                      # line by line: about one request per turn
 
 
-def render_queued(index, voices, now, fake, config=None):
-    """Render every queued episode. Returns (failed ids, daily-limit message or None)."""
+def render_queued(index, voices, now, fake, config=None, only_pilots=False, voice_note=None):
+    """Render every queued episode (or only the pilots). Returns (failed ids, daily-limit message or None)."""
     failed = []
     cap = int((config or {}).get("speechRequestsPerDay", 100))
     reserve = int((config or {}).get("speechRequestsReserve", 10))
     used = (load("reports/speech-requests.json", {"days": {}}) or {"days": {}})["days"].get(pacific_day(now), 0)
     for ep in index["episodes"]:
-        if ep.get("status") != "queued":
+        if ep.get("status") != "queued" or (only_pilots and not ep.get("pilot")):
             continue
         if not fake:
             try:
@@ -97,6 +97,10 @@ def render_queued(index, voices, now, fake, config=None):
                       renderedHash=script_hash(text), renderedAt=now.isoformat(timespec="seconds"),
                       voices=voices.get("mode", "pair") + ":" + voices["lead"]["voice"] + "+" + voices["second"]["voice"])
             ep.pop("lastError", None)
+            if voice_note:
+                ep["voiceNote"] = voice_note
+            else:
+                ep.pop("voiceNote", None)
             if ep.get("pilot") and not ep.get("approved"):
                 ep["status"] = "review"
             else:
@@ -134,8 +138,9 @@ def review_page(index):
     rows = []
     for ep in index["episodes"]:
         if ep.get("status") == "review":
-            rows.append("<section><h2>%s</h2><ul>%s</ul><audio controls preload=\"none\" src=\"../%s\"></audio>"
+            rows.append("<section><h2>%s</h2>%s<ul>%s</ul><audio controls preload=\"none\" src=\"../%s\"></audio>"
                         "</section>" % (escape(ep["title"]),
+                                        ("<p><small>%s</small></p>" % escape(ep["voiceNote"])) if ep.get("voiceNote") else "",
                                         "".join("<li>%s</li>" % escape(l) for l in ep.get("recap", [])),
                                         escape(ep["audio"])))
     if not rows:
@@ -190,6 +195,19 @@ def note_requests(now, quota_message=None):
         log.pop("limitHit", None)               # a new Google day: the limit has reset
     path.parent.mkdir(parents=True, exist_ok=True)
     save("reports/speech-requests.json", log)
+
+
+def provisional_voices(prov, audition_out):
+    """The first candidate in prov["order"] that worked in the latest voice test: (id, voices, note) or None."""
+    rep = audition_out / "report.json"
+    if not rep.exists():
+        return None
+    results = {r["id"]: r for r in json.loads(rep.read_text(encoding="utf-8"))}
+    for cid in prov.get("order", []):
+        r = results.get(str(cid))
+        if r and r.get("ok") and r.get("voices"):
+            return str(cid), r["voices"], r.get("note", "")
+    return None
 
 
 def main():
@@ -279,6 +297,19 @@ def main():
     if voices and not voices.get("pending"):
         more, quota_msg = render_queued(index, voices, now, fake, config)
         failed += more
+    elif voices and voices.get("provisional") and any(e.get("status") == "queued" and e.get("pilot")
+                                                       for e in index["episodes"]):
+        # Voices not chosen yet: make the pilots with the first voice from the test that worked, so Zac can hear a
+        # whole episode. Nothing goes into the feed until he approves.
+        pick = provisional_voices(voices["provisional"], audition_out)
+        if pick:
+            cid, pv, note = pick
+            print("pilots use voice %s from the test for now: %s" % (cid, note), flush=True)
+            more, quota_msg = render_queued(index, pv, now, fake, config, only_pilots=True,
+                                            voice_note="Voice %s from the voice test (%s). It can be changed." % (cid, note))
+            failed += more
+        else:
+            print("no voice from the test worked yet: the pilots wait", flush=True)
     elif any(e.get("status") == "queued" for e in index["episodes"]):
         print("voices not chosen yet: episodes stay queued")
     settle(index, now)

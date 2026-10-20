@@ -4,6 +4,9 @@
   registry.py add-episode --unit U --id ID --script scripts/ID.txt --guide-hash H [--pilot]
                           [--supersedes OLD] [--hold REASON] [--checks TEXT] [--check-json FILE]
   registry.py add-replay  --episode ID --reason TEXT [--id RID] [--pub ISO]
+  registry.py replace-script ID --script scripts/ID.txt --guide-hash H [--checks TEXT] [--check-json FILE]
+                                    # a rewritten script for an episode never published
+  registry.py requeue ID            # make an unpublished episode again (for example with another voice)
   registry.py approve ID            # pilots: let the episode go into the feed
   registry.py retire ID             # take an episode out of the feed
   registry.py show
@@ -67,6 +70,50 @@ def add_episode(a):
     print("added", a.id, ep["status"])
 
 
+def replace_script(a):
+    """Swap in a new script for an episode that has never been published (for example a rewritten pilot)."""
+    idx = load()
+    ep = next((e for e in idx["episodes"] if e["id"] == a.id), None)
+    if not ep:
+        raise SystemExit("no such episode: " + a.id)
+    if ep.get("status") not in ("queued", "held", "review"):
+        raise SystemExit("only an unpublished episode can have its script replaced (this one is %s)" % ep.get("status"))
+    path = ROOT / a.script
+    text = path.read_text(encoding="utf-8")
+    made = now_iso()
+    text = add_header_fields(text, id=a.id, unit=ep["unitId"], guide_hash=a.guide_hash, made=made)
+    path.write_text(text, encoding="utf-8")
+    meta = parse(text)["meta"]
+    ep.update(title=meta.get("title", ep["title"]), guideHash=a.guide_hash, script=a.script,
+              scriptHash=script_hash(text), recap=meta.get("recap", []), madeAt=made, status="queued",
+              approved=False, checks=a.checks or "")
+    for k in ("holdReason", "lastError", "renderTries", "renderedHash", "renderedAt", "voices", "voiceNote",
+              "bytes", "seconds", "words"):
+        ep.pop(k, None)
+    if a.check_json and Path(a.check_json).exists():
+        cj = json.loads(Path(a.check_json).read_text(encoding="utf-8"))
+        ep["omittedStarred"] = len(cj.get("coverage", []))
+        ep["banterLines"] = cj.get("banter_lines")
+    save(idx)
+    print("replaced script of", a.id, "-> queued")
+
+
+def requeue(a):
+    """Make an unpublished episode again (for example with a different voice)."""
+    idx = load()
+    ep = next((e for e in idx["episodes"] if e["id"] == a.id), None)
+    if not ep:
+        raise SystemExit("no such episode: " + a.id)
+    if ep.get("status") not in ("review", "held", "queued"):
+        raise SystemExit("only an unpublished episode can be remade this way (this one is %s)" % ep.get("status"))
+    ep["status"] = "queued"
+    ep["approved"] = False
+    for k in ("lastError", "renderTries", "holdReason"):
+        ep.pop(k, None)
+    save(idx)
+    print("requeued", a.id)
+
+
 def add_replay(a):
     idx = load()
     ep = next((e for e in idx["episodes"] if e["id"] == a.episode), None)
@@ -119,6 +166,16 @@ def main():
     p.add_argument("--id")
     p.add_argument("--pub")
     p.set_defaults(fn=add_replay)
+    p = sub.add_parser("replace-script")
+    p.add_argument("id")
+    p.add_argument("--script", required=True)
+    p.add_argument("--guide-hash", required=True)
+    p.add_argument("--checks")
+    p.add_argument("--check-json")
+    p.set_defaults(fn=replace_script)
+    p = sub.add_parser("requeue")
+    p.add_argument("id")
+    p.set_defaults(fn=requeue)
     p = sub.add_parser("approve")
     p.add_argument("id")
     p.set_defaults(fn=lambda a: set_flag(a, approved=True))

@@ -2,6 +2,26 @@
   "pending": true,
   "model": "gemini-3.8-flash-tts",
   "mode": "pair",
-  "lead": {"name": "Will", "voice": "Achird"},
-  "second": {"name": "Hannah", "voice": "Callirrhoe"}
+  "lead": {
+    "name": "Will",
+    "voice": "Achird"
+  },
+  "second": {
+    "name": "Hannah",
+    "voice": "Callirrhoe"
+  },
+  "provisional": {
+    "order": [
+      "7",
+      "1",
+      "5",
+      "3",
+      "2",
+      "4",
+      "6",
+      "8",
+      "9"
+    ],
+    "why": "Until Zac picks: the pilots use the first voice from the latest voice test that worked, in this order."
+  }
 }
