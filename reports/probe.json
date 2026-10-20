@@ -1,0 +1,14 @@
+[
+ {
+  "variant": "V1 prebuilt Puck, plain text",
+  "audio_seconds": 6.6,
+  "ok": true,
+  "seconds": 4.2
+ },
+ {
+  "variant": "V2 designed woman (id), plain text",
+  "audio_seconds": 6.96,
+  "ok": true,
+  "seconds": 4.3
+ }
+]
