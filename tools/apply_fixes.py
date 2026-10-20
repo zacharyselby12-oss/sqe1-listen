@@ -33,7 +33,8 @@ def main():
             lines[idx[0] + 1:idx[0] + 1] = new
             print("added:", pr.get("type"), "| after", target[:60])
             continue
-        if len(idx) != 1 or not (fix.lower() == "delete" or TURN.match(fix)):
+        header_line = target.startswith("- ") and fix.startswith("- ")   # a header recap line
+        if len(idx) != 1 or not (fix.lower() == "delete" or TURN.match(fix) or header_line):
             left.append(pr)
             continue
         if fix.lower() == "delete":
