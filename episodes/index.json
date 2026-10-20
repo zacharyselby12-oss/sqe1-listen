@@ -27,23 +27,23 @@
     {
       "id": "dr-ws06",
       "unitId": "u-bpp-DR-06",
-      "title": "DR WS06 · Disclosure and Privilege",
+      "title": "DR WS06 · Disclosure and privilege",
       "guideHash": "1ec1ce8829",
       "script": "scripts/dr-ws06.txt",
-      "scriptHash": "76459c9e57b0",
+      "scriptHash": "1c774bbdaa63",
       "audio": "audio/dr-ws06.mp3",
       "recap": [
-        "An adverse document must always be listed. Privilege or disproportionality can stop only inspection, and harm to the case is never a ground to withhold it.",
-        "Intermediate and multi-track claims without personal injury use a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs.",
-        "Not listed means specific disclosure. Listed but refused as disproportionate means specific inspection. For pre-action and non-party disclosure, the respondent generally gets its costs, even though it loses.",
-        "Without prejudice offers are never shown on liability, unless there's a concluded settlement or impropriety. And the duty to preserve documents starts once litigation is contemplated."
+        "An adverse document must always be listed. Harm to your own case is never a ground to withhold, and privilege or disproportionality can stop only inspection.",
+        "Intermediate and multi-track claims without personal injury get a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs, for example standard disclosure.",
+        "Never listed means specific disclosure. Listed but inspection refused as disproportionate means specific inspection.",
+        "Pre-action and non-party disclosure: the respondent generally gets its costs of the application and of complying, even though it loses."
       ],
-      "madeAt": "2026-10-20T16:04:52+00:00",
+      "madeAt": "2026-10-20T22:48:28+00:00",
       "status": "queued",
       "pilot": true,
       "approved": false,
-      "checks": "code ok; Opus check (2 fixes applied); Opus line-by-line pass 109/109",
-      "omittedStarred": 5,
+      "checks": "code ok; Opus accuracy check (5 fixes applied); Opus line-by-line check: 290 lines, 0 problems, nothing missing",
+      "omittedStarred": 0,
       "banterLines": 0
     }
   ],

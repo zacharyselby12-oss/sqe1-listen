@@ -2,137 +2,321 @@
 id: dr-ws06
 unit: u-bpp-DR-06
 guide_hash: 1ec1ce8829
-made: 2026-10-20T16:04:52+00:00
-title: DR WS06 · Disclosure and Privilege
+made: 2026-10-20T22:48:28+00:00
+title: DR WS06 · Disclosure and privilege
 recap:
-- An adverse document must always be listed. Privilege or disproportionality can stop only inspection, and harm to the case is never a ground to withhold it.
-- Intermediate and multi-track claims without personal injury use a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs.
-- Not listed means specific disclosure. Listed but refused as disproportionate means specific inspection. For pre-action and non-party disclosure, the respondent generally gets its costs, even though it loses.
-- Without prejudice offers are never shown on liability, unless there's a concluded settlement or impropriety. And the duty to preserve documents starts once litigation is contemplated.
+- An adverse document must always be listed. Harm to your own case is never a ground to withhold, and privilege or disproportionality can stop only inspection.
+- Intermediate and multi-track claims without personal injury get a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs, for example standard disclosure.
+- Never listed means specific disclosure. Listed but inspection refused as disproportionate means specific inspection.
+- Pre-action and non-party disclosure: the respondent generally gets its costs of the application and of complying, even though it loses.
 invented:
-- Kestrel Fabrics
-- Nadia
-- Joss
-- Harbour Paints
-- Gwen
-- Calder Bakeries
-- Northway
-- Quayside Supplies
-- Dunmore Logistics
-- Colm
-- Elena
-- Dev
-- Marlowe Tiles
+- Imran
+- Halden Motors
+- Brightwell Ltd
+- Hamza
+- Sam
+- Rosa
+- Yusuf
+- Nia
+- Corvin Ltd
+- Lena
+- Ashby Builders
+- Tregear Haulage
+- Penhale Ltd
+- Wexley Ltd
+- Kofi
+- Mira
 ---
 ## Rule
-Will: Welcome back, Hannah. Today is disclosure, the stage where you tell the other side about the documents that hurt you.
-Hannah: Charming. So how much must I tell them?
-Will: That depends on the track and the court. On the small claims track, Part 31 doesn't apply, and the parties exchange the documents they rely on. In the Business and Property Courts, unless excluded, Practice Direction 57AD applies instead of Part 31.
-Will: Intermediate and multi-track claims without personal injury use a disclosure report, then the court chooses from a menu of orders, including train of inquiry. Fast track and personal injury claims get whatever the court directs, for example standard disclosure.
-Hannah: What's train of inquiry, exactly?
-Will: Documents that merely lead to lines of inquiry. Standard disclosure doesn't cover them. You need that menu option, or specific disclosure.
-Hannah: Right. What does standard disclosure catch?
-Will: First, is it a document? Anything in which information of any description is recorded, so emails, texts, voicemail and deleted files count.
-Will: Second, is it, or has it been, in the party's control? That's physical possession, a right to possession, or a right to inspect or take copies.
-Will: Third, does it fall within standard disclosure? That covers documents the party relies on, documents that adversely affect its own or another party's case, and documents that support another party's case.
-Hannah (puzzled): Hang on. My own bad documents? Surely "commercially damaging" is a magic password.
-Will (deadpan): It isn't a password at all. Harm to the client's case is never a ground to withhold. An adverse document must always be listed.
-Hannah: So what can I actually keep back?
-Will: Privilege and disproportionality can stop only inspection, never the listing. Disclosure means stating that a document exists or has existed. Inspection is the separate right to see it.
-Hannah: And who signs the disclosure statement? The solicitor?
-Will: The party, not normally the solicitor. It covers the extent of the search and certifies the party understands the duty and has carried it out.
-Will: You explain the duty. If the client refuses to disclose, you stop acting without revealing the confidential information. Carrying on would mislead the court.
-Hannah: Any numbers I should carry around?
-Will: Three, each involving 7 days. After written notice, permit inspection within 7 days of receiving it. Supply copies within 7 days of the request, if the requester undertakes to pay reasonable copying costs.
-Will: The third: authenticity is deemed admitted unless a notice to prove is served by the later of the witness statement deadline and 7 days after disclosure.
-Hannah: What if a document that clearly exists never turns up?
-Will: Ask one question: was it ever listed? If never, seek specific disclosure, which can reach train-of-inquiry documents. If listed but inspection was refused as disproportionate, seek specific inspection.
-Will: You usually ask for voluntary disclosure first, then apply by Part 23 notice, specifying the documents or classes, with supporting evidence.
-Hannah: What if the claim hasn't started yet?
-Will: Pre-action disclosure has four conditions. The respondent and the applicant are each likely to be parties. The documents would fall within the respondent's standard disclosure. And early disclosure is desirable.
-Hannah: And how likely is "likely"?
-Will: May well be a party. Not more probable than not. That's Black and Sumitomo.
-Will: After issue, non-party disclosure needs two things: documents likely to support the applicant or adversely affect another party, and disclosure necessary to dispose fairly or save costs.
-Hannah: And in both, the loser pays the costs, presumably?
-Will: Not here. The respondent generally gets its costs of the application and of complying, even though it loses. The court may order otherwise, for example for unreasonable opposition or a protocol failure.
-Hannah: And a wrongdoer I can't even name?
-Will: Then seek a Norwich Pharmacal order against an innocent third party mixed up in the wrong. Not pre-action disclosure.
-Will: Electronic documents meet the same test as paper. Practice Direction 31B applies to multi-track claims, or likely ones, unless the court orders otherwise, and governs how the search is done, not what must be disclosed.
-Will: As soon as litigation is contemplated, the lawyer must tell the client to preserve disclosable documents, including electronic data a routine retention policy would otherwise delete.
-Hannah (teasing): So the office shredder goes quiet, and so does the auto-delete.
-Will: <laugh> Quite. Destroying or failing to preserve them risks adverse inferences, strike-out or costs sanctions. A solicitor involved in the destruction breaches the duty not to misuse or tamper with evidence, and must refuse.
-Hannah: Now privilege, my favourite way of saying no.
-Will: Legal advice privilege covers confidential client and lawyer communications for the dominant purpose of legal advice. Litigation privilege covers confidential communications between lawyer and client, or either and a third party, for the dominant purpose of litigation that is in progress or reasonably in contemplation.
-Hannah: And privileged means hidden completely?
-Will: No. A privileged document is still listed, with the ground stated. Only inspection is withheld. Confidential isn't privileged: if it's within the order, it's disclosed and inspected.
-Hannah: Last one. What about without prejudice?
-Will: It covers communications made in a genuine attempt to settle an existing dispute, whatever the heading says. It can't be shown on liability, except to prove a settlement or where there's an impropriety. Offers marked without prejudice save as to costs, and Part 36 offers, count only on costs.
+Will (warm): Right. Little scene. Your client's own email is a disaster for his case. Does it go on the list?
+Hannah (sceptical): Course not. It's commercially damaging. You withhold it and sleep fine.
+Will (dry): <short pause> You don't sleep fine, because you're wrong. Harm to the client's case is never a ground to withhold. An adverse document must be listed.
+Hannah (groaning): Even the one that sinks him.
+Will: Even that one. Privilege or disproportionality can stop only inspection. The document still gets listed. Keep hold of that, it keeps coming back. But first, which regime are we even in?
+Hannah (amused): Go on, sort me into a box.
+Will (brisk): Four boxes. Small claims track: Part 31 doesn't apply at all. The parties just exchange the documents they rely on.
+Hannah: Lovely and light. Next?
+Will: Business and Property Courts, unless the claim's excluded. That's practice direction 57AD, not Part 31.
+Hannah (wary): And everything else?
+Will (brisk): Two boxes, and the exam loves them. Intermediate track or multi-track, no personal injury: a disclosure report, then the court chooses from a menu. Fast track, or personal injury: the court orders disclosure as it directs. Standard disclosure, for example.
+Hannah (thinking aloud): So intermediate track defaults to standard disclosure. I'd have bet money on that.
+Will (dry): That's the trap. The old standard-disclosure default has been omitted. On the intermediate track the court must make an order about disclosure when it gives directions. Only fast track and personal injury claims follow the standard pattern.
+Hannah (wary): And a multi-track personal injury claim?
+Will: Personal injury, so it gets whatever the court directs. No report, no menu. The report and menu are for intermediate and multi-track claims without personal injury.
+Hannah (teasing): Right. So what's on this menu? I want to order.
+Will (amused): Six dishes. A, dispense with disclosure.
+Hannah (laughing): The cheap one.
+Will: B, documents relied on, plus specific requests. C, issue by issue. D, train of inquiry. E, standard disclosure. F, any other order.
+Hannah (thoughtful): So standard disclosure is one dish out of six.
+Will (brisk): And here's the starred bit. Standard disclosure does not cover train-of-inquiry documents. For those you need menu order D, or specific disclosure.
+Hannah (wary): So what makes it a train-of-inquiry document?
+Will: It merely leads to lines of inquiry. If that's all it does, standard disclosure doesn't cover it.
+Hannah (teasing): Train of inquiry, please. The standard one.
+Will: <laugh> No. That's D. E won't serve it to you.
+Will: The court applies the overriding objective, limiting disclosure to what is necessary. It can direct searches, lists, format, even staged disclosure. It may dispense with or limit standard disclosure, and the parties can agree in writing to do so.
+Hannah (wary): And if someone ignores the order?
+Will: That can lead to an unless order. The sanction then applies automatically, and the defaulter has to seek relief from sanctions.
+Hannah (wry): So the defaulter's the one on their knees.
+Will: Relief from sanctions, yes. That's on them.
+Hannah: Back to the Business and Property Courts. What does 57AD actually do?
+Will (brisk): Initial Disclosure first: key documents, with the statements of case. Then Extended Disclosure under Models A to E, with court approval. Parties must disclose known adverse documents. And it excludes Part 8, IPEC, Admiralty, competition, and fixed or capped costs cases.
+Hannah (thinking aloud): Models. Let me guess. A's the smallest. Known adverse only?
+Will: Yes. B, key documents plus known adverse. C, request-led. D, narrow search.
+Hannah (pleased): And E is the big one.
+Will: Wide search. Train of inquiry.
+Will (brisk): Right. Standard disclosure, properly. Step one: is it a document?
+Hannah: Paper. Contracts, letters, that sort of thing.
+Will (dry): Wider. Anything in which information of any description is recorded. Emails, texts, voicemail, metadata, deleted files.
+Hannah (pleased): So WhatsApp messages count.
+Will (amused): They do. Group chat and all.
+Hannah (groaning): Marvellous. <sigh> My dignity's gone.
+Will (brisk): Step two: is it, or has it been, in the party's control? Physical possession, a right to possession, or a right to inspect or take copies. Any one will do.
+Hannah: What about papers held by an agent, or an accountant, or a former employee?
+Will: Within the duty only if the party has possession, a right to possession, or a right to inspect or copy them. Same three.
+Hannah: Fair. Step three?
+Will (teasing): Does it fall within standard disclosure? Five kinds. Have a go.
+Hannah: Documents I rely on.
+Will: One.
+Hannah: Ones that hurt my own case.
+Will: Adversely affect your own case. Two.
+Hannah: Ones that hurt the other side's.
+Will: Adversely affect another party's case. Three.
+Hannah (thinking aloud): And the ones that help them. Support another party's case.
+Will: Four. One left.
+Hannah (laughing): No idea.
+Will (deadpan): Documents a practice direction requires. And any one of the five is enough.
+Will (brisk): Step four: would a reasonable search find it? Look at the number of documents, the nature and complexity of the proceedings, the ease and expense of retrieval, and the significance of likely finds.
+Hannah (thoughtful): Reasonable, not exhaustive.
+Will: Right. And any limit on the search, say a category or a date you didn't search, must be stated in the disclosure statement.
+Will (brisk): Step five. If it passes, list it. Form N265. Only then do you ask whether inspection can be withheld.
+Hannah (thoughtful): So disclosure and inspection aren't the same thing.
+Will (warm): Starred. Disclosure means stating that a document exists or has existed. Inspection is the separate right to see it. And inspection can be withheld in only three cases. The document is no longer in your control. Privilege, or another right or duty to withhold. Or disproportionality.
+Hannah (wry): Disproportionality sounds like a lovely excuse.
+Will (dry): Narrow excuse. It covers only a category or class of adverse or supporting documents. It must be stated in the disclosure statement. And it never covers documents relied on.
+Hannah (pleased): So never the ones I'm relying on.
+Will: Never.
+Hannah (wary): Do I list every photocopy of the contract?
+Will (brisk): One copy only. Except a copy whose marking or modification is relied on, adverse or supportive. That's a separate document.
+Hannah (thinking aloud): So if someone scribbled on my copy...
+Will: If the scribble is relied on, or adverse, or supportive, that copy is its own document. Hold that for the exam bit.
+Hannah: Who signs all this off?
+Will (deadpan): The party signs the disclosure statement. Not normally the solicitor. It covers the extent of the search, and certifies the party understands the duty and has carried it out. Don't muddle it with a statement of truth on a statement of case.
+Hannah: And for a company?
+Will: The signatory gives their name and position, and explains why they're the appropriate person.
+Hannah (wary): What if it's untrue?
+Will: Making, or causing, a false disclosure statement without an honest belief in its truth is contempt of court.
+Will (quietly): Your side of it, as the solicitor. Explain the duty to the client. If the client refuses to disclose, you stop acting, without revealing the confidential information. Carrying on would mislead the court.
+Hannah (dry): So "just don't mention it" isn't an option.
+Will: Not remotely.
+Will (brisk): Consequences and numbers. A document not disclosed, or not offered for inspection, can be relied on only with the court's permission. On written notice, the disclosing party must allow inspection within 7 days of receiving it. Ask for copies, with an undertaking to pay reasonable copying costs, and they must be supplied within 7 days of receiving the request.
+Hannah (wry): Seven and seven. What about authenticity?
+Will (amused): Another 7. To dispute a disclosed document's authenticity, serve a notice to prove by the later of the witness statement deadline and 7 days after disclosure. Otherwise authenticity is deemed admitted.
+Hannah (thoughtful): The later of the two. Right.
+Will: The duty also continues until the proceedings end. Find a document later and you notify every party immediately, by supplemental list. And disclosed documents can be used only in these proceedings, unless they're read or referred to at a public hearing, the court permits, or the discloser and owner agree.
+Hannah (sceptical): So when can I actually refuse to show a listed document?
+Will (warm): Privilege's the big one. And a starred point first: privileged documents must still be disclosed. You list them in the part for documents you object to producing, and you state the ground. You just don't produce them for inspection.
+Hannah (relieved): Right. Listing versus inspection again.
+Will: Same split. Legal advice privilege first. A confidential client–lawyer communication, with the lawyer acting as such, for the dominant purpose of legal advice. Whether or not litigation is contemplated.
+Hannah (wary): All of that needed.
+Will: All of it. Lawyers acting as such means solicitors, barristers, in-house and foreign lawyers. Statutory extensions cover patent and trade mark attorneys and licensed conveyancers.
+Hannah: My accountant gives brilliant tax advice. Surely that's—
+Will: No. Legal advice from other professionals, accountants advising on tax law for example, is not covered by legal advice privilege. That's the Prudential case. And an accountant's report written to the client before any dispute has neither privilege.
+Hannah (teasing): What about something that already existed? I send my lawyer the contract. Now it's privileged.
+Will (dry): Trap. Pre-existing documents, contracts, invoices, board minutes, do not become privileged by being sent to a lawyer.
+Hannah (groaning): <sigh> Shame. I had a plan.
+Will (deadpan): And no privilege for communications made to further a crime or fraud. Plus, once privileged, always privileged, including in later proceedings, unless waived.
+Will: For a company, the client is only the employees authorised to seek and receive the advice. Fact-gathering from other employees or third parties is not covered by legal advice privilege. That's Three Rivers number five. And legal advice includes advice on what should prudently be done in the legal context. That's number six.
+Hannah (thoughtful): So not every member of staff is the client.
+Will: Only the authorised ones.
+Will (brisk): Litigation privilege. A confidential communication between lawyer and client, or either of them and a third party, for the dominant purpose of litigation. The litigation must be in progress or reasonably in contemplation, and it must be adversarial.
+Hannah (thinking aloud): How likely is reasonably in contemplation?
+Will: A real likelihood, not a mere possibility. That's Philip Morris. And adversarial, not merely investigative. A purely fact-finding regulatory inquiry doesn't count.
+Hannah (brisk): Right, so an expert's report to my solicitor is legal advice privilege.
+Will (brisk): No. Third-party communications can only be protected by litigation privilege. Expert reports and witness interview notes made for the litigation are covered, but by that one. If a third party is involved, or litigation has to be in contemplation, only litigation privilege can apply.
+Hannah: What if a document does two jobs?
+Will: Dominant purpose. A dual-purpose document is privileged only if litigation was the dominant purpose. In Waugh, an accident report made equally for safety and litigation was not privileged.
+Hannah (sceptical): Equally. So a tie loses.
+Will: <short pause> Dominant means dominant. Equal isn't enough.
+Will (brisk): And if it isn't privileged, there are other grounds. Self-incrimination: a document need not be produced if it would tend to expose the party, or its spouse or civil partner, to proceedings for a UK criminal offence or penalty.
+Hannah (wary): And public interest immunity?
+Will (dry): Different beast. You apply without notice for an order permitting you to withhold disclosure, not merely inspection, because disclosure would damage the public interest. So it can keep the document off the list. Privilege and self-incrimination only stop inspection. Privileged documents are still listed.
+Hannah: Any other right to withhold?
+Will: Any other claimed right or duty to withhold inspection must be stated in the list with its grounds. The other side can challenge it.
+Hannah (wary): What if it's just confidential? The client's secrets.
+Will (deadpan): Confidentiality is not privilege. Paragraph 6.3 of the SRA code: a confidential but non-privileged document must be disclosed and inspected if it's within the order.
+Hannah (pleased): So "confidential, so withheld" is out.
+Will: Out.
+Will (brisk): Waiver. Who can waive? Legal professional privilege belongs to the client. Only the client, or a lawyer with the client's authority, can waive it. Without prejudice protection is different. It belongs jointly to the negotiating parties, and it's waived only with both parties' consent.
+Hannah: Client alone, versus both sides together. And if I only mention a privileged document?
+Will (warm): Starred. A mere mention doesn't waive privilege. Deploying it, by relying on its contents, waives it and allows inspection.
+Hannah (teasing): And if I only show the good bit?
+Will (dry): Collateral waiver. No cherry-picking. Waiving part of a document, or some communications on an issue, may waive the rest on the same subject matter. Parts on a separate subject stay privileged.
+Hannah (wary): What if I show it to my insurer?
+Will (brisk): Limited waiver. Show a document in confidence to a third party, an insurer, a regulator, an auditor, for a limited purpose, and privilege isn't waived against the world. Partial disclosure to the opponent spreads. Confidential sharing for a limited purpose doesn't.
+Hannah (wary): And if my side lets the other side inspect a privileged document by mistake? Waived, surely.
+Will: Trap. A mistake doesn't waive it. Inadvertent disclosure: the document may be used only with the court's permission, and the court will usually restrain use if the mistake would have been obvious to a reasonable solicitor.
+Hannah: And if I'm the solicitor who gets it?
+Will: An obviously mistaken privileged document? You must not take unfair advantage. Stop reading, tell the sender and return it.
+Hannah (wry): So no gleeful forwarding.
+Will: Definitely not. Deployment is deliberate reliance on the contents. A mistake is an error.
+Will: Separate rule, similar word. A party may inspect a document mentioned in a statement of case, witness statement, witness summary or affidavit. For one mentioned in an expert's report, it has to apply.
+Hannah (groaning): Of course it does.
+Will: Two more routes to waiver. Sue your former solicitor, or otherwise put your legal advice in issue, and privilege is impliedly waived in the communications relevant to the claim. And expert shopping, the Edwards-Tubb case: permission to change expert is usually conditional on disclosing the first expert's report.
+Hannah: So you can't quietly bin the expert who said no.
+Will: Right. The court will usually require the first report to be disclosed.
+Hannah (brisk): Right. Missing documents. How do I get them?
+Will: One question first. Was the document ever listed?
+Hannah: If it wasn't, I want it disclosed. Specific disclosure.
+Will (pleased): Spot on. And if it was listed, but they've refused inspection as disproportionate?
+Hannah (thinking aloud): Then it's the inspection I'm after. Specific inspection.
+Will: That's it. The trap is swapping them. Specific inspection for a document never listed fails, because inspection orders need a listed document.
+Will: Usually you ask the other side to disclose voluntarily first. Then a Part 23 notice, specifying the documents or classes, supported by evidence. The court weighs all the circumstances and the overriding objective.
+Hannah (thinking aloud): And the evidence has to show they exist, I suppose.
+Will: Nearly. It explains why they're believed to exist, are in the respondent's control, and should be disclosed.
+Hannah: And what can the order do?
+Will: Require disclosure of specified documents or classes. A search to a stated extent. Disclosure of whatever that search finds. And if the respondent has failed adequately to comply, the court usually orders what is needed to ensure compliance.
+Will: Starred bit: the order may extend to train-of-inquiry documents, beyond standard disclosure.
+Hannah (thinking aloud): So specific goes further than standard.
+Will: It can. Standard disclosure cannot reach train of inquiry. Specific disclosure can.
+Hannah: Against who, though?
+Will: Specific disclosure lies against a party after issue. Pre-action disclosure comes before issue. Non-party disclosure lies against a non-party.
+Hannah: And if I only want information, not a document?
+Will: Part 18 request. That seeks clarification or information about any matter in dispute, not documents. Using Part 18 to get documents is the trap.
+Will (brisk): Pre-action disclosure. Four conditions, and you need all four. One: the respondent is likely to be a party.
+Hannah (brisk): Two, the applicant too.
+Will: Three?
+Hannah: The documents are the sort that would come out in disclosure anyway.
+Will: Within the respondent's standard disclosure, yes. Four?
+Hannah (thinking aloud): Getting them early is a good idea.
+Will: Early disclosure is desirable, to dispose fairly of the case, resolve it without proceedings, or save costs. Any one of those three will do.
+Hannah (thoughtful): And likely means more probable than not.
+Will: Trap. Likely means may well be a party. That's Black and Sumitomo. More probable than not is too high a threshold.
+Hannah (groaning): <sigh> Always a catch.
+Will (dry): Another one. Meet all four and the court still keeps a discretion. For example, to refuse a fishing exercise, or where the protocol wasn't used first.
+Hannah (wry): And the loser pays costs, presumably.
+Will (amused): Trap again. The respondent generally gets its costs of the application and of complying, even though it loses. The court may order otherwise, for example for unreasonable opposition or a protocol failure.
+Hannah (incredulous): So it's the opposite of costs follow the event.
+Will: The general rule here is the reverse, yes.
+Will (brisk): Mechanics. Part 23 notice with evidence. The order specifies the documents or classes, and requires the respondent to identify documents no longer in its control or withheld. It may require an account of lost documents, and may fix the time and place.
+Hannah: And non-party disclosure?
+Will: After issue. Two limbs, and you need both. The documents are likely to support the applicant or adversely affect another party. And disclosure is necessary to dispose fairly or save costs.
+Hannah: Same paperwork, I'd guess.
+Will: Nearly. Part 23 notice with evidence, served on the non-party as respondent and on anyone else the court directs. The order specifies the documents and requires the non-party to say which are no longer controlled or withheld. And the same costs rule: the respondent generally gets its costs.
+Hannah (wary): Is that the same as a witness summons?
+Will: No. Non-party disclosure is ordered before trial. With a witness summons to produce documents, they're produced at a hearing.
+Will (brisk): One more. A platform holds the details of an unknown poster. Pre-action disclosure against the platform?
+Hannah (sceptical): Why not? It's got the documents.
+Will: The platform isn't a likely party. To identify an unknown wrongdoer from an innocent third party mixed up in the wrong, you seek a Norwich Pharmacal order, not rule 31.16.
+Hannah (pleased): So a likely party, pre-action. Innocent but tangled up, Norwich Pharmacal.
+Will: Tangled up in the wrong of an unknown wrongdoer, yes.
+Hannah: Where do phones and servers fit into all this?
+Will: Electronic disclosure. Step one: is it an electronic document? That includes documents on laptops, phones, memory sticks, servers and back-up systems, deleted documents and metadata. Plus emails, texts, voicemail, word-processed files and databases.
+Hannah (groaning): Back-ups and deleted files too. Brutal.
+Will: Step two: is the claim on, or likely on, the multi-track? Then practice direction 31B applies unless the court orders otherwise.
+Hannah: And 31B tells me what I have to disclose.
+Will (warm): Look-alike alert. No. It governs how the search and exchange are done, not what must be disclosed. What depends on standard disclosure or the menu order made. Same disclosure test as paper.
+Hannah (thinking aloud): So emails only need disclosing if somebody specifically asks.
+Will: Trap. Electronic documents meet the same test as paper ones.
+Will (brisk): Now the starred one. As soon as litigation is contemplated, the lawyer must tell the client to preserve disclosable documents. That includes electronic data a routine retention policy would otherwise delete.
+Hannah: So switch the auto-delete off.
+Will: Suspend routine deletion, yes.
+Hannah (thinking aloud): Starting when proceedings are issued.
+Will: Trap. It starts once litigation is contemplated, for example on a letter of claim.
+Hannah (wary): And if the client deletes anyway?
+Will: Destroying or failing to preserve documents once litigation is contemplated risks adverse inferences, strike-out or costs sanctions.
+Hannah: And the solicitor, if they help?
+Will: A solicitor involved in the destruction breaches the duty not to misuse or tamper with evidence, and must refuse to take part. That's paragraph 2.1 of the SRA code.
+Will (brisk): Before the first case management conference, on a multi-track claim with electronic documents, the parties discuss it. Five topics.
+Hannah: Categories of document.
+Will: One.
+Hannah: Systems, where it's all stored.
+Will: Systems and storage. Two.
+Hannah: Search scope?
+Will: Date ranges, custodians, keywords. Then preservation, and format. They may also exchange an Electronic Documents Questionnaire, verified by a statement of truth.
+Will: Reasonable search, electronic edition. The number of documents, the nature and complexity of the case, and ease and expense of retrieval, meaning accessibility, location, cost of recovery and likelihood of alteration.
+Hannah: And how much the finds matter.
+Will: Significance, yes. Plus whether the documents are available from other sources. So it may be reasonable not to search some sources, such as back-up tapes, if that's stated in the disclosure statement.
+Hannah (pleased): As long as I say so in the statement.
+Will: Keyword and automated searches are allowed if appropriate and, if possible, agreed. They may need supplementing, and the keywords used should be stated.
+Will (warm): Last piece. Settlement talk. Was the communication part of without prejudice negotiations? Then it can't be shown to the court on liability.
+Hannah (sceptical): And anything stamped without prejudice counts.
+Will (dry): Label's not decisive. Substance governs. It's a written or oral communication made in a genuine attempt to settle an existing dispute. That's Rush and Tompkins. It can't be put before the court as evidence, for example of an admission.
+Hannah: So an unheaded settlement letter is protected, and a headed one that just restates my claim isn't.
+Will: That's it. Genuine attempt to settle an existing dispute, whatever the heading. Without prejudice versus open correspondence.
+Hannah (wry): Exceptions, then. There'll be exceptions.
+Will (dry): Starred: it's admissible to prove the negotiations resulted in a settlement. The fuller list comes from Unilever and Procter and Gamble. It's also admissible to decide whether a settlement was concluded, its terms, and its interpretation. And to set a settlement aside for misrepresentation, fraud or undue influence.
+Hannah: What about someone being dodgy in the negotiations?
+Will: That's the impropriety exception. Where exclusion would cloak perjury, blackmail or other unambiguous impropriety.
+Hannah: Go on.
+Will: Then to found an estoppel. And to explain delay or apparent acquiescence, or on an issue unconnected with the truth of what was said, mitigation for example.
+Hannah (groaning): That's a long list.
+Will: And one more, on costs. Material marked without prejudice save as to costs may be seen on costs once liability and quantum are decided.
+Hannah (thoughtful): So the offer marked save as to costs.
+Will: Never on liability. Offers marked save as to costs, and Part 36 offers, count only on costs. A plain without prejudice offer isn't considered on costs.
 ## Exam mode
-Will: Right, exam mode. I give you a scenario, you answer, and I show you where the trap is.
-Hannah: Go on then. Do your worst.
-Will: First, three County Court claims. An £80,000 contract claim on the intermediate track. A £20,000 road accident personal injury claim on the fast track. And a £300,000 clinical negligence personal injury claim on the multi-track. Which follow the disclosure report and menu procedure?
-Hannah: <short pause> The intermediate one and the multi-track one. So the £80,000 claim and the £300,000 claim.
-Will: Close. The report and menu apply to intermediate and multi-track claims without personal injury. The £300,000 claim is multi-track, but it includes personal injury, so it fails.
-Hannah: So only the £80,000 contract claim. What happens to the injury claims?
-Will: Both get disclosure as the court directs, for example standard disclosure. And here's the trap: the intermediate track doesn't default to standard disclosure. Only fast track and personal injury claims follow that pattern.
-Will: Next. Kestrel Fabrics is the claimant. Its agent holds the original contract. Kestrel keeps a photocopy, on which its director Nadia wrote "they never agreed clause 9". That note undermines Kestrel's pleaded case. What must Kestrel disclose under standard disclosure?
-Hannah: Just the photocopy. The agent has the original, so that's not Kestrel's problem, and it's one copy only anyway.
-Will: Two deciding facts. The agent's holding gives Kestrel a right to possession of the original, so it's in Kestrel's control. And the note adversely affects Kestrel's own case, so the annotated copy is a separate document.
-Hannah: So both, even though Nadia's note is damaging?
-Will: Both the original and the annotated copy. "One copy only" fails because of that marking, and damage to Kestrel's case is never a ground to withhold.
-Will: Now Joss, who is suing Harbour Paints over a faulty batch. After standard disclosure, Harbour's list has no emails among its sales staff about that batch. But a customer complaint shows such emails were exchanged. What should Joss apply for?
-Hannah: Specific inspection. The emails clearly exist, so she wants to inspect them.
-Will: That's the look-alike. Specific inspection is for a document that was listed but withheld as disproportionate. These emails were never listed.
-Hannah (relieved): Of course. Specific inspection needs a listed document, and these were never listed. So specific disclosure?
-Will: Of that class of emails, by Part 23 notice, with evidence. Joss should usually ask Harbour to disclose voluntarily first. The evidence must show the emails exist and are in Harbour's control, and here, that's the customer complaint.
-Hannah: Could Joss just send a Part 18 request for them instead?
-Will: No. A Part 18 request seeks information, not documents.
-Will: Next. Gwen wants to sue Calder Bakeries. Before issuing, she wants delivery records held by Calder's former haulier, Northway. Northway won't be a party and played no part in any wrong. Can she get an order now?
-Hannah: Pre-action disclosure. It's before issue, and Northway holds the records.
-Will: Pre-action disclosure needs a respondent who is likely to be a party. Northway won't be.
-Hannah: Then Norwich Pharmacal, for a third party holding the records.
-Will: That's for an innocent third party mixed up in the wrong of an unknown wrongdoer. Northway isn't mixed up in any wrong.
-Hannah: So Gwen is stuck? That seems unfair.
-Will: Not for long. No order now. She issues against Calder, then applies for non-party disclosure, which needs started proceedings.
-Will: Quayside Supplies defends a multi-track supply claim. Its live email server holds the relevant period's emails. Back-up tapes cover the same period, would be very expensive to restore, and would largely duplicate the server. Must Quayside restore and search the tapes?
-Hannah: Yes. Back-ups are documents, so they have to be searched.
-Will: <short pause> That's the trap. Back-ups are documents, yes, but that only tells you what counts as a document. How far the search must go is a different question.
-Hannah (mock-horrified): <sigh> Oh no. So what decides it here?
-Will: The cost of recovery, and availability from another source. A reasonable search, not an exhaustive one.
-Hannah: A reasonable search, not an archaeological dig. <laugh>
-Will: Exactly. Quayside may reasonably decide not to search the tapes, but it must state that in its disclosure statement.
-Hannah: And did its duty to preserve begin when the claim was issued?
-Will: No. It begins once litigation is contemplated, for example on a letter of claim.
-Will: Dunmore Logistics has no dispute yet. Its general counsel asks warehouse supervisor Colm, who isn't authorised to seek legal advice, to email an account of a forklift incident. Months later, a letter of claim arrives. Dunmore's solicitors then interview Colm to prepare the defence. Is either communication privileged?
-Hannah: Both. Lawyers asked for the email, and lawyers ran the interview.
-Will: Only the interview, and only by litigation privilege. The earlier email has no privilege.
-Hannah: But the general counsel asked for it!
-Will: A lawyer's request doesn't make an unauthorised employee the client. For a company, the client is only the employees authorised to seek and receive the advice. The email is fact-gathering, and no litigation was then contemplated.
-Will: The later interview is a third-party communication, for the dominant purpose of litigation, with litigation by then reasonably in contemplation. Third-party communications can only be protected by litigation privilege.
-Will: Elena's witness statement says she "acted on counsel's advice of 3 May" and quotes its favourable conclusion. Her opponent asks to inspect the advice. Is the opponent entitled to?
-Hannah: Yes. She quoted the conclusion, so she's relied on it.
-Will: Spot on. Quoting and relying on the contents deploys the advice, and deploying it waives privilege and allows inspection.
-Hannah: And if she'd only said she acted on counsel's advice, without quoting it?
-Will: A mere mention of a privileged document doesn't waive privilege. And she can't cherry-pick the helpful part.
-Hannah (thoughtful): So name-dropping is fine, quoting is not.
-Will: Name-drop away, as long as she doesn't rely on its contents.
-Will: Last scenario. Before trial, Marlowe Tiles made Dev a written offer of £30,000, marked "without prejudice save as to costs". Dev rejected it. At trial, Dev wants to tell the judge the offer shows Marlowe accepts it's liable. Can he?
-Hannah: Yes. Nobody offers £30,000 unless they know they're in trouble.
-Will: That's exactly the argument the rule shuts out. Without prejudice negotiations can't be shown on liability. This offer can be shown only when the court decides costs.
-Hannah: Surely there are exceptions to that rule?
-Will: Check whether the negotiations resulted in a settlement, or included an impropriety. No settlement was reached and nothing improper was said, so neither applies.
-Hannah: What about a Part 36 offer, or a plain without prejudice one?
-Will: Only offers marked without prejudice save as to costs, and Part 36 offers, are considered on costs. A plain without prejudice offer isn't.
-Will: Three quick look-alikes to finish. A document mentioned in a witness statement, against one mentioned in an expert's report.
-Hannah: Same right to see both?
-Will: No. The first carries a right to inspect. The second needs an application.
-Hannah: And a privileged document the other side lets me inspect by mistake?
-Will: Using it needs the court's permission. And a solicitor who gets an obviously mistaken privileged document must stop reading, tell the sender and return it.
-Hannah: And a report made equally for safety and for litigation?
-Will: Not privileged. A dual-purpose document is privileged only if litigation was the dominant purpose.
-Hannah (brisk): Right. Recap, before my brain gives out?
+Will (brisk): Exam hat on. Three County Court claims. Sam's £80,000 contract claim, on the intermediate track. Rosa's £20,000 road accident personal injury claim, on the fast track. Yusuf's £300,000 clinical negligence personal injury claim, on the multi-track. Which follows the disclosure report and menu?
+Hannah (thinking aloud): Sam's, obviously. And Yusuf's, because it's multi-track.
+Will: Half right. The report and menu are for intermediate and multi-track claims without personal injury. Yusuf's includes personal injury, so it fails.
+Hannah: And Rosa's is fast track, so out as well.
+Will: Both personal injury claims get disclosure as the court directs, standard disclosure for example. Only Sam's.
+Will: Next. Brightwell Ltd is the claimant, and standard disclosure has been ordered. Its agent holds the original contract. Brightwell keeps a photocopy on which its director, Hamza, wrote "they never agreed clause 9". That note undermines Brightwell's pleaded case. What must it disclose?
+Hannah (brisk): The original. One copy only, so not the photocopy.
+Will (amused): Close. <short pause> But both. The agent's holding gives Brightwell a right to possession of the original. And one copy only fails, because the marking adversely affects Brightwell's own case. The annotated copy is a separate document.
+Hannah (groaning): Hamza's handwriting strikes again. <sigh>
+Will: Nia sues Corvin Ltd. After standard disclosure, Corvin's list has no emails among its sales staff about a faulty batch. But a customer complaint shows such emails were exchanged. What should Nia apply for?
+Hannah (brisk): Specific inspection. Get the emails out of them.
+Will: They were never listed, so specific inspection doesn't fit. Specific disclosure of that class of emails, by Part 23 notice with evidence. She must specify the class and show the emails exist and are in Corvin's control.
+Hannah (amused): And the customer complaint is the evidence.
+Will: Yes.
+Will: Lena wants delivery records held by the former haulier of Ashby Builders, Tregear Haulage. She hasn't issued against Ashby yet. Tregear won't be a party and played no part in any wrong. Can she get an order now?
+Hannah (brisk): Pre-action disclosure. Tregear's got the records.
+Will: That needs a respondent likely to be a party. Tregear isn't.
+Hannah (thinking aloud): Then Norwich Pharmacal.
+Will: That needs a third party mixed up in a wrong. Tregear played no part in any wrong. So the answer's no. Lena should issue against Ashby, then apply for non-party disclosure.
+Will: Penhale Ltd defends a multi-track supply claim. Its live email server holds the relevant period's emails. Back-up tapes cover the same period, would be very expensive to restore, and would largely duplicate the server. Must Penhale restore and search them?
+Hannah (sceptical): They're documents. So yes.
+Will (dry): Not necessarily. Penhale may reasonably decide not to search them, but it must state that in its disclosure statement. The deciding facts are cost of recovery and availability from another source.
+Hannah (thoughtful): They are documents. It's how far the search goes that's reasonable.
+Will: Reasonable, not exhaustive.
+Will: Wexley Ltd. No dispute exists. Its general counsel asks a warehouse supervisor, Kofi, to email an account of a forklift incident. Kofi isn't authorised to seek legal advice. Months later a letter of claim arrives. Wexley's solicitors then interview Kofi to prepare the defence. Is either communication privileged?
+Hannah (wary): Both. Lawyers were involved each time.
+Will: <short pause> Only the interview after the letter of claim, by litigation privilege. The email has none.
+Hannah: Why not the email?
+Will: Kofi isn't the client. So the email is fact-gathering outside legal advice privilege, and no litigation was then contemplated. A lawyer's request doesn't make an unauthorised employee the client. The interview came after the letter of claim, so litigation was reasonably in contemplation, and it's a third-party communication for the dominant purpose of litigation.
+Hannah: Third party, so only litigation privilege could ever work.
+Will: Right.
+Will: Mira's witness statement says she "acted on counsel's advice of 3 May" and quotes its favourable conclusion. The other side asks to inspect the advice. Entitled?
+Hannah (thoughtful): A mere mention doesn't waive privilege. So no.
+Will (amused): She didn't just mention it. She quoted the conclusion and relied on it. That deploys the advice, so privilege is waived and they can inspect.
+Hannah: And she can't keep the helpful bit and hide the rest.
+Will: No cherry-picking.
+Will: Last one. Imran sues Halden Motors. Before trial, Halden offered £30,000 in writing, marked without prejudice save as to costs. Imran said no. At trial he wants to tell the judge the offer shows Halden accepts it's liable. Can he?
+Hannah (teasing): It's an admission. Obviously.
+Will (brisk): Not on liability. It can be shown only when the court decides costs. Without prejudice negotiations can't be shown on liability. And the settlement and impropriety exceptions don't apply: no settlement was reached and nothing improper was said.
+Hannah (groaning): So the judge hears about it later, on costs.
+Will (brisk): Quick-fire. I say the tempting wrong answer, you put it right. It's privileged, so leave it off the list.
+Hannah (brisk): No. It's listed, ground stated. Only inspection is withheld.
+Will (warm): So what can keep a document off the list?
+Hannah (pleased): Public interest immunity. Without notice application.
+Will (deadpan): Specific disclosure cannot exceed standard disclosure.
+Hannah (thinking aloud): True. Specific is a subset of... hang on.
+Will: <short pause> It can. Specific disclosure reaches train-of-inquiry documents. Standard disclosure can't.
+Hannah (laughing): Walked straight into that one.
+Will (deadpan): The solicitor signs the disclosure statement.
+Hannah: The party does. Not normally the solicitor.
+Will: The duty to preserve documents starts once proceedings are issued.
+Hannah (wary): Earlier. As soon as litigation is contemplated, a letter of claim for example. Auto-deleting data included.
+Will: A document mentioned in an expert's report. Can I just inspect it, like one mentioned in a witness statement?
+Hannah (sceptical): Same thing, surely.
+Will: No. The witness statement mention carries a right to inspect. The expert's report one needs an application.
+Hannah (groaning): Always the little look-alikes.
+Will (amused): Documents produced at a hearing. Non-party disclosure, or a witness summons?
+Hannah: Witness summons. Non-party disclosure is ordered before trial.
+Will (dry): Last check. The damaging email. Withhold it?
+Hannah (laughing): List it. And sleep fine.
 ## Recap
-Will: An adverse document must always be listed. Privilege or disproportionality can stop only inspection, and harm to the case is never a ground to withhold it.
-Hannah: Intermediate and multi-track claims without personal injury use a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs.
-Will: Not listed means specific disclosure. Listed but refused as disproportionate means specific inspection. For pre-action and non-party disclosure, the respondent generally gets its costs, even though it loses.
-Hannah: Without prejudice offers are never shown on liability, unless there's a concluded settlement or impropriety. And the duty to preserve documents starts once litigation is contemplated.
+Will (warm): Right. Wrapping up.
+Hannah: An adverse document must always be listed. Harm to your own case is never a ground to withhold, and privilege or disproportionality can stop only inspection.
+Will: Intermediate and multi-track claims without personal injury get a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs, for example standard disclosure.
+Hannah (brisk): Never listed means specific disclosure. Listed but inspection refused as disproportionate means specific inspection.
+Will: Pre-action and non-party disclosure: the respondent generally gets its costs of the application and of complying, even though it loses.
