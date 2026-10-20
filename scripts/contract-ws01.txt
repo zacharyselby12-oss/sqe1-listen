@@ -1,0 +1,154 @@
+---
+id: contract-ws01
+unit: u-bpp-Contract-01
+guide_hash: 2cf2dfd237
+made: 2026-10-20T15:57:52+00:00
+title: Contract WS01 · Contract Formation
+recap:
+- Shop displays and ordinary adverts are invitations to treat. An advert is an offer only if it's unilateral, and the performer must have known of it.
+- A counter-offer destroys the original offer, but a mere question leaves it open. An offer can be revoked before acceptance, even if promised open, unless the offeree gave consideration.
+- A posted acceptance takes effect on posting, but a revocation takes effect only on receipt. The postal rule is lost where the offer requires the acceptance to be received.
+- A vague key term, or an essential term left to be agreed with no machinery, means no contract. A meaningless subsidiary term is severed. A lock-out needs a definite period and consideration.
+invented:
+- Imogen
+- Rafi
+- Delroy
+- Aled
+- Beth
+- Noor
+- Felix
+- Wen
+- Omar
+- Tessa
+- Hugo
+- Wendy
+- Gareth
+- Yusuf
+- Gwen
+- Hamid
+- Rosa
+- Sunil
+- Pia
+- Quinn
+---
+## Rule
+Will: Today, Hannah, we're asking when a chat turns into a contract. There are four checkpoints, and a deal must clear them all.
+Hannah: Right. Assume I know nothing.
+Will: One, is there an offer, or only an invitation to treat? Two, is it still open? Three, was it accepted properly? Four, are the terms certain enough to enforce?
+Hannah: So what counts as an offer?
+Will: A statement of willingness to be bound on definite terms as soon as it's accepted. It's judged objectively, so private intentions don't count.
+Will: Goods on display in a shop or shop window are an invitation to treat. The customer makes the offer at the till, and the shop accepts or refuses. That's the Boots case.
+Hannah: So the price label is less a promise, more a suggestion with a sticker on.
+Will: <laugh> Quite. Ordinary adverts are invitations to treat too.
+Hannah: So is no advert ever an offer?
+Will: Only a unilateral one. Clear terms showing intention to be bound by performance, such as a reward or a deposited sum. That's Carlill, the smoke ball case.
+Hannah: What about invitations to tender?
+Will: If tenders are solicited from a defined group under a clear procedure, the inviter impliedly promises to consider every conforming tender submitted on time. It doesn't promise to accept one.
+Will: Checkpoint two. A rejection ends an offer once it's communicated, and a counter-offer is a rejection.
+Hannah: What counts as a counter-offer?
+Will: A reply that adds or changes terms. It rejects and destroys the original offer, which can't be accepted later.
+Hannah: And if I only ask a question about the terms?
+Will: A mere request for information isn't a counter-offer. The offer stays open.
+Hannah: So a counter-offer burns the offer down, and a question just knocks on the door.
+Will: <laugh> Neatly put. Time can end an offer too. If it states a time limit, it lapses when that time expires, and a later acceptance makes no contract.
+Hannah: And if it states no time?
+Will: Then it lapses after a reasonable time, judged by its subject matter. Five months was too long for shares. The clock starts when the offer is made.
+Will: Revocation next. An offeror can revoke at any time before acceptance, even after promising to keep the offer open.
+Hannah: That sounds harsh on the offeree.
+Will: Except where the offeree gave consideration for the promise. That's an option. And a revocation only works once it's received.
+Hannah: Any other exception to revoking?
+Will: One. Once the offeree has started to perform a unilateral offer, it can't be revoked. The offeree must be allowed to complete.
+Will: Checkpoint three, acceptance. It must be an unqualified agreement to all the terms, made knowing of the offer and in response to it. That's the mirror image rule.
+Hannah: What if I just stay silent?
+Will: Silence isn't acceptance, even if the offeror says it will be.
+Hannah: But doing something can count?
+Will: Yes. Acting in a way that objectively shows you accept the offered terms, like trading on an unsigned draft.
+Will: Method matters too. Use the prescribed one, or another that's no less advantageous to the offeror, unless the offeror made clear only that method will do.
+Hannah: And must the offeror actually hear about it?
+Will: Acceptance must be communicated, meaning actually received. The exceptions are the postal rule, and a unilateral offer, which is accepted by completing performance with no notice needed. But the performer must have known of the offer when acting. Motive is otherwise irrelevant.
+Hannah: Now the postal rule, please.
+Will: Where using the post is reasonable, a letter of acceptance takes effect when properly posted, meaning correctly addressed and stamped, even if it's delayed or lost. That's Adams and Lindsell.
+Hannah: So acceptance by post works on posting, but revocation works on receipt.
+Will: The postal rule never applies to revocation. And it's lost where the offer expressly or impliedly excludes it. "Notice in writing to" the offeror means actual receipt.
+Will: It's lost too where using the post is unreasonable, for example where the offer implies a prompt reply. And where the offeree misaddresses the letter.
+Hannah: What about phone or email?
+Will: Instantaneous acceptances, such as phone or email, take effect when and where the offeror receives them. Outside business hours, that's generally when the office next opens, depending on intentions, business practice and risk.
+Will: Checkpoint four, certainty. If a key term is too vague for the court to give it a meaning, there's no contract. And an essential term, like price, left to be agreed with no machinery to fix it isn't binding.
+Hannah: So one vague phrase can sink the whole deal?
+Will: Only a key term. A meaningless subsidiary term is severed, and the rest stands.
+Will: Machinery in the contract to fix the term, like arbitration, makes the agreement binding. And a sale contract silent on price has a reasonable price implied, under the Sale of Goods Act.
+Hannah: What about promises to negotiate?
+Will: An agreement to negotiate in good faith is unenforceable. But a lock-out, a promise not to negotiate with others, is enforceable only if it's for a definite period and supported by consideration.
+## Exam mode
+Will: Right, exam mode. Scenario one. Imogen emails Rafi an offer to sell him her canoe. The email says acceptance must be received by her by 5pm Friday.
+Will: On Thursday, Rafi posts a correctly addressed, stamped letter of acceptance. It arrives on Monday. Is there a contract?
+Hannah: Yes. He posted it on Thursday, so the contract was made on Thursday.
+Will: That's the tempting answer, and it's wrong.
+Hannah (mock-horrified): Already? I haven't even warmed up.
+Will: The deciding fact is the wording. The offer required acceptance to be received by Imogen, and that excludes the postal rule.
+Will: Posting wasn't enough. Nothing reached her before the offer lapsed at 5pm Friday, so there's no contract.
+Hannah: So "received by" is the phrase to circle.
+Will: Yes. "Notice in writing to" works the same way. It means actual receipt.
+Will: Scenario two. Delroy spots a kettle on a shelf in a hardware shop, with a price label on it. He takes it to the till, and the cashier refuses to sell it at that price. Must the shop sell?
+Hannah: Yes. The label is a promise at that price.
+Will: Tempting. But goods on display are an invitation to treat. Delroy makes the offer at the till, and the shop can accept or refuse.
+Hannah: So when would an advert bind the advertiser?
+Will: Only when it's unilateral. A promise to pay anyone who does a stated act, with intention to be bound shown, such as a deposited sum.
+Will: Scenario three. A museum advertises a reward for anyone who returns its lost brass key, and says the money is deposited at a bank. Aled returns the key, but he never saw the advert and knew nothing of any reward. Can he claim?
+Hannah: Yes. He did exactly what the advert asked.
+Will: He did, but the performer must have known of the offer when acting. Aled didn't, so there's no claim.
+Will: Now change the facts. Beth is the finder instead. She has seen the advert, but she returns the key only because she adores the curator. Can she claim?
+Hannah: No. She wasn't after the reward.
+Will (deadpan): Wrong way round. She knew of the offer, and motive is otherwise irrelevant. Returning the key completed the performance, and no notice of acceptance was needed.
+Hannah: So knowledge decides it, not motive.
+Will: Exactly. Knowledge, not motive, decides.
+Will: Scenario four. Noor offers to sell Felix her piano. Felix replies asking whether the delivery date can vary. Then he tells her, "I accept." Is there a contract?
+Hannah: <short pause> Yes. His first reply only asked a question, so the offer stayed open.
+Will: Good. A mere request for information isn't a counter-offer. His unqualified acceptance makes the contract.
+Hannah: And if he'd first said, "Yes, but only with free delivery"?
+Will: Then he adds a term. That's a counter-offer, which rejects and destroys the original. Felix couldn't accept the original offer afterwards.
+Will: Scenario five. Wen offers by letter to sell Omar her bookcase. Her letter says nothing about how to reply, and using the post is reasonable. She changes her mind and posts a letter withdrawing the offer.
+Will: Before that letter reaches him, Omar posts a correctly addressed, stamped acceptance. Is there a contract?
+Hannah: No. Wen sent her revocation first.
+Will: That's the trap. A posted acceptance takes effect on posting. A revocation takes effect only on receipt.
+Will: Omar's acceptance took effect when he posted it, before Wen's letter reached him. So there is a contract.
+Hannah: So the postal rule helps the acceptance, never the revocation.
+Will: Exactly. Now a variation. Before Omar accepts, a reliable third party tells him Wen has withdrawn the offer. Wen never authorised that person to say so.
+Hannah (puzzled): Then it doesn't count, surely. She didn't authorise it.
+Will: It counts. A revocation needs only a reliable source. An acceptance passed on by a third party is different. That binds only if the offeree authorised that person.
+Will: Scenario six. Tessa offers to sell Hugo her telescope and promises to keep the offer open while he thinks. Hugo gives her nothing for that promise. Tessa then revokes, and Hugo receives the revocation. After that, Hugo says he accepts. Is there a contract?
+Hannah: Yes. She promised to keep it open.
+Will: Tempting. But an offer may be revoked any time before acceptance, even if promised open, unless the offeree gave consideration for the promise. Hugo gave nothing.
+Will: And the revocation reached Hugo first, so there's no contract.
+Hannah: And if Hugo had paid Tessa for the promise?
+Will: Then it's an option, and the promise binds. It turns on whether the offeree gave consideration, or the promise was by deed.
+Will: Scenario seven. Wendy pays Gareth £1,000. In return, Gareth promises that for 21 days he won't talk to any other buyer about his bakery. And that both will "negotiate in good faith" towards a sale.
+Will: On day 12, Gareth sells the bakery to Yusuf. Can Wendy sue, and on which promise?
+Hannah: <short pause> She can't. Promises to negotiate in good faith are unenforceable, so the whole thing fails.
+Will: Half right. The good faith promise is unenforceable, and it adds nothing. But the lock-out is a separate promise.
+Will: It's for a definite period, 21 days, and Wendy gave consideration, the £1,000. So she can sue for breach of the lock-out.
+Hannah (teasing): So the lock-out is a bouncer with a stopwatch, and the good faith promise is a request to be nice.
+Will: <laugh> And only the bouncer is enforceable.
+Will: Scenario eight. Gwen and Hamid agree that Gwen will sell Hamid her tractor, with the price "to be agreed" later. The contract has no arbitration clause and no other machinery to fix the price. Is the agreement binding?
+Hannah (relieved): Finally, one I know. No, an essential term is left to be agreed.
+Will: Right. With no machinery to fix it, an agreement to agree an essential term isn't binding.
+Hannah: And if the contract simply said nothing about price?
+Will: Different. A sale contract silent on price has a reasonable price implied, under the Sale of Goods Act.
+Will: So the trap is saying the whole deal fails every time. It fails where the price is left to be agreed with no machinery.
+Hannah: And if one phrase is meaningless gibberish?
+Will: A meaningless subsidiary term is severed, and the rest stands. A vague key term would be fatal.
+Will: Scenario nine. Rosa is an auctioneer, and she announces that a clock is being sold without reserve. Sunil is the highest genuine bidder, but Rosa refuses to sell it to him. The hammer never falls. What can Sunil claim, and against whom?
+Hannah: He can make the owner hand over the clock. He was the top bidder.
+Will: Not quite. The bid is the offer, and the auctioneer accepts on the fall of the hammer. It never fell, so there's no sale.
+Will: Rosa is liable to Sunil on a collateral contract. His claim is for damages against the auctioneer. He doesn't get the clock.
+Will: Scenario ten. Two companies keep swapping standard terms. The supplier sends its form, the buyer replies with its own, and the supplier sends its own again. Then the buyer takes delivery of the goods. Whose terms apply?
+Hannah: The supplier's second form. The last shot wins.
+Will: Right. Each new form is a counter-offer. The contract is usually on the last form sent before the other side accepts by words or conduct, and taking goods is conduct.
+Will: Last one. Pia and Quinn each write to the other, offering to swap their sheds on identical terms. The letters cross in the post. Is there a contract?
+Hannah (puzzled): Yes. They obviously agree on everything.
+Will: No. Identical cross-offers make no contract. Neither is an acceptance, because acceptance must respond to a known offer.
+## Recap
+Will: Shop displays and ordinary adverts are invitations to treat. An advert is an offer only if it's unilateral, and the performer must have known of it.
+Hannah: A counter-offer destroys the original offer, but a mere question leaves it open. An offer can be revoked before acceptance, even if promised open, unless the offeree gave consideration.
+Will: A posted acceptance takes effect on posting, but a revocation takes effect only on receipt. The postal rule is lost where the offer requires the acceptance to be received.
+Hannah: A vague key term, or an essential term left to be agreed with no machinery, means no contract. A meaningless subsidiary term is severed. A lock-out needs a definite period and consideration.

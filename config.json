@@ -1,0 +1,41 @@
+{
+  "paused": false,
+  "show": {
+    "title": "SQE1 Listen",
+    "description": "Two friends talk through each SQE1 workshop: the rule first, then exam mode, then a short recap. A private study feed.",
+    "author": "SQE1 Listen",
+    "language": "en-gb"
+  },
+  "base_url": "",
+  "timezone": "Europe/London",
+  "maxNewPerWeek": 8,
+  "maxReplaysPerWeek": 10,
+  "moduleNames": {
+    "Public1": "Public 1",
+    "Public2": "Public 2"
+  },
+  "papers": {
+    "FLK1": {
+      "date": "2027-01-11",
+      "modules": [
+        "BLP",
+        "DR",
+        "Contract",
+        "Tort",
+        "Public1",
+        "Public2"
+      ]
+    },
+    "FLK2": {
+      "date": "2027-01-18",
+      "modules": [
+        "PP",
+        "WAE",
+        "CLP",
+        "Criminal",
+        "Land",
+        "Trusts"
+      ]
+    }
+  }
+}

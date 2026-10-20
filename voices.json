@@ -1,0 +1,7 @@
+{
+  "pending": true,
+  "model": "gemini-3.8-flash-tts",
+  "mode": "pair",
+  "lead": {"name": "Will", "voice": "Achird"},
+  "second": {"name": "Hannah", "voice": "Callirrhoe"}
+}

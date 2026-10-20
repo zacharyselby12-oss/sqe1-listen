@@ -1,0 +1,147 @@
+"""Voice audition: render the approved sample's opening in several voice pairs.
+
+audition/candidates.json:
+  {"candidates": [
+     {"id": "A", "label": "...", "kind": "pair",    "lead": "Achird", "second": "Callirrhoe"},
+     {"id": "C", "label": "...", "kind": "library", "lead": {"gender": "male", "pick": 0},
+                                                      "second": {"gender": "female", "pick": 0}},
+     {"id": "D", "label": "...", "kind": "design",  "lead":   {"gender": "male",   "prompt": "..."},
+                                                      "second": {"gender": "female", "prompt": "..."}}]}
+
+kind "pair": two prebuilt voices, one two-speaker request per chunk.
+kind "library": British voices found with voices.list(), rendered line by line.
+kind "design": voices made from a text description (voices.create), rendered line by line.
+A candidate that fails is reported in words on the page; the others still run.
+"""
+import json
+import os
+import sys
+import traceback
+from html import escape
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+import render  # noqa: E402
+from scriptfmt import parse  # noqa: E402
+
+
+def list_british(cl, gender, want_conversational=True):
+    """Return British English library voices (list of dicts) for a gender, best guess first."""
+    found, seen = [], set()
+    for kw in ({"language_code": ["en-GB"]}, {"region_code": ["GB"]}, {"accent": ["British"]}):
+        token = None
+        while True:
+            args = dict(kw, gender=[gender], page_size=100)
+            if token:
+                args["page_token"] = token
+            res = cl.voices.list(**args)
+            for v in (res.voices or []):
+                vid = getattr(v, "id", None)
+                if vid and vid not in seen:
+                    seen.add(vid)
+                    found.append({k: getattr(v, k, None) for k in
+                                  ("id", "display_name", "accent", "gender", "language_code", "persona",
+                                   "context", "description", "type")})
+            token = getattr(res, "next_page_token", None)
+            if not token:
+                break
+        if found:
+            break
+
+    def rank(v):
+        ctx = (v.get("context") or "").lower()
+        return (0 if "conversation" in ctx else 1 if "narrat" in ctx or "audiobook" in ctx else 2)
+
+    return sorted(found, key=rank) if want_conversational else found
+
+
+def design_voice(cl, spec, name):
+    v = cl.voices.create(
+        store=True,
+        voice={"type": "prompted", "display_name": name, "gender": spec.get("gender", "female"),
+               "language_code": "en-GB", "region_code": "GB", "accent": "British",
+               "prompted": {"input": spec["prompt"]}},
+    )
+    return v.id
+
+
+def resolve(cand, cl, log):
+    """Return a voices dict for render.render_pcm, plus notes about which voices were used."""
+    kind = cand["kind"]
+    if kind == "pair":
+        return ({"mode": "pair", "lead": {"name": "Will", "voice": cand["lead"]},
+                 "second": {"name": "Hannah", "voice": cand["second"]}},
+                "prebuilt: Will = %s, Hannah = %s" % (cand["lead"], cand["second"]))
+    picked = {}
+    for role in ("lead", "second"):
+        spec = cand[role]
+        if kind == "library":
+            vs = list_british(cl, spec["gender"])
+            if not vs:
+                raise RuntimeError("no British %s voices found in the library" % spec["gender"])
+            v = vs[min(spec.get("pick", 0), len(vs) - 1)]
+            picked[role] = (v["id"], "%s (%s, %s)" % (v.get("display_name") or v["id"], v.get("accent"),
+                                                      v.get("persona")))
+        else:
+            vid = design_voice(cl, spec, "SQE1 Listen %s %s" % (cand["id"], role))
+            picked[role] = (vid, "designed: " + spec["prompt"][:80])
+    voices = {"mode": "line", "lead": {"name": "Will", "voice": picked["lead"][0]},
+              "second": {"name": "Hannah", "voice": picked["second"][0]}}
+    note = "Will = %s; Hannah = %s" % (picked["lead"][1], picked["second"][1])
+    return voices, note, {"lead": picked["lead"][0], "second": picked["second"][0]}
+
+
+def run(root, out_dir, fake=False, log=print):
+    root, out_dir = Path(root), Path(out_dir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+    cands = json.load(open(root / "audition" / "candidates.json", encoding="utf-8"))["candidates"]
+    sample = parse((root / "audition" / "sample.txt").read_text(encoding="utf-8"))
+    cl = None if fake else render.client()
+    results = []
+    for cand in cands:
+        r = {"id": cand["id"], "label": cand["label"], "ok": False}
+        try:
+            log("candidate %s: %s" % (cand["id"], cand["label"]))
+            res = resolve(cand, cl, log)
+            voices, note = res[0], res[1]
+            if len(res) > 2:
+                r["voiceIds"] = res[2]
+            pcm = render.render_pcm(sample["turns"], voices, fake=fake, log=log)
+            render.encode_mp3(pcm, out_dir / ("pair-%s.mp3" % cand["id"]), "Voice audition " + cand["id"])
+            r.update(ok=True, note=note, voices=voices, audio="pair-%s.mp3" % cand["id"])
+        except Exception as e:  # noqa: BLE001
+            r["error"] = "%s: %s" % (type(e).__name__, str(e)[:300])
+            log("  FAILED: " + r["error"])
+            traceback.print_exc()
+        results.append(r)
+    (out_dir / "report.json").write_text(json.dumps(results, indent=2), encoding="utf-8")
+    page(out_dir, results)
+    return results
+
+
+def page(out_dir, results):
+    rows = []
+    for r in results:
+        if r["ok"]:
+            rows.append("<section><h2>Pair %s</h2><p>%s</p><p><small>%s</small></p>"
+                        "<audio controls preload=\"none\" src=\"%s\"></audio></section>"
+                        % (escape(r["id"]), escape(r["label"]), escape(r["note"]), escape(r["audio"])))
+        else:
+            rows.append("<section><h2>Pair %s</h2><p>%s</p><p><strong>Did not work:</strong> %s</p></section>"
+                        % (escape(r["id"]), escape(r["label"]), escape(r.get("error", ""))))
+    html = ("<!doctype html><html lang=\"en-GB\"><head><meta charset=\"utf-8\">"
+            "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
+            "<meta name=\"robots\" content=\"noindex\"><title>Voice audition</title>"
+            "<style>body{font:18px/1.5 system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}"
+            "section{border:2px solid #333;border-radius:8px;padding:1rem;margin:1rem 0}"
+            "audio{width:100%}</style></head><body><h1>Voice audition</h1>"
+            "<p>Same opening, different voices. Listen to each, then tell Claude the letter you like best "
+            "(and say if you want a different man or woman from the same group).</p>"
+            + "".join(rows) + "</body></html>")
+    (Path(out_dir) / "index.html").write_text(html, encoding="utf-8")
+
+
+if __name__ == "__main__":
+    fake = "--fake" in sys.argv
+    out = sys.argv[1] if len(sys.argv) > 1 and not sys.argv[1].startswith("--") else "_site/audition"
+    run(".", out, fake=fake)

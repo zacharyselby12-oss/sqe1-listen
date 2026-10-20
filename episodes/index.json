@@ -1,0 +1,49 @@
+{
+  "episodes": [
+    {
+      "id": "contract-ws01",
+      "unitId": "u-bpp-Contract-01",
+      "title": "Contract WS01 · Contract Formation",
+      "guideHash": "2cf2dfd237",
+      "script": "scripts/contract-ws01.txt",
+      "scriptHash": "83a5dbbb2e74",
+      "audio": "audio/contract-ws01.mp3",
+      "recap": [
+        "Shop displays and ordinary adverts are invitations to treat. An advert is an offer only if it's unilateral, and the performer must have known of it.",
+        "A counter-offer destroys the original offer, but a mere question leaves it open. An offer can be revoked before acceptance, even if promised open, unless the offeree gave consideration.",
+        "A posted acceptance takes effect on posting, but a revocation takes effect only on receipt. The postal rule is lost where the offer requires the acceptance to be received.",
+        "A vague key term, or an essential term left to be agreed with no machinery, means no contract. A meaningless subsidiary term is severed. A lock-out needs a definite period and consideration."
+      ],
+      "madeAt": "2026-10-20T15:57:52+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok; Opus check (1 fix applied); Opus line-by-line pass 118/118",
+      "omittedStarred": 0,
+      "banterLines": 0
+    },
+    {
+      "id": "dr-ws06",
+      "unitId": "u-bpp-DR-06",
+      "title": "DR WS06 · Disclosure and Privilege",
+      "guideHash": "1ec1ce8829",
+      "script": "scripts/dr-ws06.txt",
+      "scriptHash": "76459c9e57b0",
+      "audio": "audio/dr-ws06.mp3",
+      "recap": [
+        "An adverse document must always be listed. Privilege or disproportionality can stop only inspection, and harm to the case is never a ground to withhold it.",
+        "Intermediate and multi-track claims without personal injury use a disclosure report, then the menu. Fast track and personal injury claims get whatever the court directs.",
+        "Not listed means specific disclosure. Listed but refused as disproportionate means specific inspection. For pre-action and non-party disclosure, the respondent generally gets its costs, even though it loses.",
+        "Without prejudice offers are never shown on liability, unless there's a concluded settlement or impropriety. And the duty to preserve documents starts once litigation is contemplated."
+      ],
+      "madeAt": "2026-10-20T16:04:52+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok; Opus check (2 fixes applied); Opus line-by-line pass 109/109",
+      "omittedStarred": 5,
+      "banterLines": 0
+    }
+  ],
+  "replays": []
+}
