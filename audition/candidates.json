@@ -82,6 +82,97 @@
     "id": "en-gb-advisor-1",
     "name": "Authoritative Advisor 1, professional yet approachable"
    }
+  },
+  {
+   "id": "H",
+   "label": "A warm, lively, easily amused man (designed, light London accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "name": "designed: warm, lively, easily amused",
+    "prompt": "A warm, expressive British man with a light London accent. He is lively and easily amused, with plenty of natural variation in pitch and a smile in his voice, but he keeps an unhurried, measured pace. Sounds like a witty friend explaining something over a drink."
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
+  },
+  {
+   "id": "I",
+   "label": "A dry, wry, understated man (designed, clear southern English accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "name": "designed: dry, wry, understated",
+    "prompt": "A British man with a clear southern English accent and a wry, understated manner. Dry humour comes through in his tone, with a raised-eyebrow delivery and natural pauses before a punchline. Expressive but calm, measured and unhurried."
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
+  },
+  {
+   "id": "J",
+   "label": "A warm, rich radio-presenter voice (designed, standard English accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "name": "designed: warm, rich radio presenter",
+    "prompt": "A British radio presenter with a warm, rich, mid-to-low voice and a standard English accent. Engaging and expressive: he emphasises key words, changes pace for effect and savours a punchline, but is calm and measured overall."
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
+  },
+  {
+   "id": "K",
+   "label": "A quick-witted, animated man who thinks out loud (designed, soft London accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "name": "designed: quick-witted, animated",
+    "prompt": "A quick-witted British man with a soft London accent. Animated and curious, he thinks out loud, sounds genuinely amused, and varies his pitch and pace naturally. Moderate pace, friendly and conversational."
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
+  },
+  {
+   "id": "L",
+   "label": "Google library voice: a conversational, slightly dry, warm man (Bristol accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-advisor-10",
+    "name": "library voice Authoritative Advisor 10 (Bristol English): conversational, slightly dry humour, warm"
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
+  },
+  {
+   "id": "M",
+   "label": "Google library voice: a professional yet approachable man (Winchester accent)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-training-10",
+    "name": "library voice Training Voiceover 10 (Winchester English): professional yet approachable"
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "the woman from pair D (designed, bright and playful)"
+   }
   }
- ]
+ ],
+ "intro": "Round 2. Same woman in every pair (the one from D that you liked), so you are only judging the man. New, more natural script. Listen to each and tell Claude your favourite letter or two."
 }

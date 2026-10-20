@@ -1,13 +1,17 @@
-Will: Welcome back. Today, Hannah, we're doing one of the great dramas of contract law.
-Hannah: Is it a drama, though, Will? It's letters.
-Will: It's letters, a van, and a man who changes his mind. <laugh> Acceptance: when does it actually take effect?
-Hannah: Go on then. Start me from scratch.
-Will: The basic rule: acceptance only counts once it's communicated to the person who made the offer. Silence doesn't do it. Neither does a letter sitting in your drawer.
-Hannah: Fair. You can't accept by thinking about it really hard.
-Will: Sadly not. But there's one big exception: the postal rule. Where it's reasonable to accept by post, acceptance takes effect the moment the letter is posted, as long as it's properly stamped and addressed.
-Hannah: Posted, not received?
-Will: Posted. That's the rule from Adams and Lindsell.
-Hannah: And if the letter gets lost?
-Will: Still a contract. That's the Household Fire case.
-Hannah: So the contract exists while the letter is stuck in a sorting office in Swindon.
-Will: Exactly. Royal Mail holds your contract hostage, but it's still a contract.
+Will (warm): Right. Hannah. Quick one before we start.
+Hannah (wary): Oh no. Is this a trick one?
+Will (amused): A little bit. You post a letter accepting my offer. The post office loses it. It never arrives. Is there a contract?
+Hannah (incredulous): No! Surely not. I never even told you!
+Will: <short pause> Yes. There is.
+Hannah (laughing): Get out.
+Will (laughing): No, honestly! It's the postal rule. If post is a sensible way to accept, the acceptance takes effect the moment the letter's posted. Not when it lands. When it goes in the box.
+Hannah (thinking aloud): Hang on, that's bonkers. So the contract exists while the letter's just... sat in a sorting office in Swindon.
+Will: Sat in Swindon. Yes. And the law basically shrugs and says, well, you did everything you could. <laugh>
+Hannah (sceptical): Okay. And the normal rule is what, then?
+Will (brisk): The normal rule is that acceptance has to actually reach the person who made the offer. Silence doesn't count. A letter in your drawer doesn't count.
+Hannah (dry): So I can't accept by thinking about it really hard.
+Will: Sadly not. But you can switch the postal rule off. If my offer says, "your acceptance must reach me", then posting isn't enough.
+Hannah (relieved): Oh, that's fair. So it's only the default.
+Will: Only the default, yes. And here's the sting. If I want to take my offer back, that only works once you actually receive my letter. Posting it doesn't help me.
+Hannah (mock-outraged): So posting helps the person accepting, but never the person withdrawing?
+Will (amused): <short pause> Exactly that.

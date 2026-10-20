@@ -102,36 +102,40 @@ def resolve(cand, cl, log):
     picked = {}
     for role in ("lead", "second"):
         spec = cand[role]
-        if kind == "library" and spec.get("id"):
+        if spec.get("id"):  # a voice we already have (a library voice, or one designed earlier)
             picked[role] = (spec["id"], spec.get("name") or spec["id"])
-        elif kind == "library":
+        elif spec.get("prompt"):  # a voice designed from a description
+            try:
+                vid = design_voice(cl, spec, "SQE1 Listen %s %s" % (cand["id"], role))
+            except Exception as e:  # noqa: BLE001
+                raise RuntimeError("could not design the %s voice (%s): %s" % (role, spec["gender"], str(e)[:200])) from e
+            picked[role] = (vid, spec.get("name") or ("designed: " + spec["prompt"][:80]))
+        else:  # the first British library voice for that gender
             vs = list_british(cl, spec["gender"])
             if not vs:
                 raise RuntimeError("no British %s voices found in the library" % spec["gender"])
             v = vs[min(spec.get("pick", 0), len(vs) - 1)]
             picked[role] = (v["id"], "%s (%s, %s)" % (v.get("display_name") or v["id"], v.get("accent"),
                                                       v.get("persona")))
-        else:
-            try:
-                vid = design_voice(cl, spec, "SQE1 Listen %s %s" % (cand["id"], role))
-            except Exception as e:  # noqa: BLE001
-                raise RuntimeError("could not design the %s voice (%s): %s" % (role, spec["gender"], str(e)[:200])) from e
-            picked[role] = (vid, "designed: " + spec["prompt"][:80])
     voices = {"mode": "line", "lead": {"name": "Will", "voice": picked["lead"][0]},
               "second": {"name": "Hannah", "voice": picked["second"][0]}}
     note = "Will = %s; Hannah = %s" % (picked["lead"][1], picked["second"][1])
     return voices, note, {"lead": picked["lead"][0], "second": picked["second"][0]}
 
 
-def run(root, out_dir, fake=False, log=print, only=None, dump=False):
+def run(root, out_dir, fake=False, log=print, only=None, dump=False, fresh=False):
     """only: list of candidate ids to (re)run; the others keep their result from the earlier report.json."""
     root, out_dir = Path(root), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
-    cands = json.load(open(root / "audition" / "candidates.json", encoding="utf-8"))["candidates"]
+    cfile = json.load(open(root / "audition" / "candidates.json", encoding="utf-8"))
+    cands, intro = cfile["candidates"], cfile.get("intro")
     sample = parse((root / "audition" / "sample.txt").read_text(encoding="utf-8"))
     cl = None if fake else render.client()
     earlier = {}
-    if only and (out_dir / "report.json").exists():
+    if fresh:  # a new round: the old clips and results are dropped from the page
+        for f in out_dir.glob("pair-*.mp3"):
+            f.unlink()
+    elif only and (out_dir / "report.json").exists():
         earlier = {r["id"]: r for r in json.load(open(out_dir / "report.json", encoding="utf-8"))}
     if dump and cl is not None:
         try:
@@ -160,11 +164,11 @@ def run(root, out_dir, fake=False, log=print, only=None, dump=False):
             traceback.print_exc()
         results.append(r)
     (out_dir / "report.json").write_text(json.dumps(results, indent=2), encoding="utf-8")
-    page(out_dir, results)
+    page(out_dir, results, intro)
     return results
 
 
-def page(out_dir, results):
+def page(out_dir, results, intro=None):
     rows = []
     for r in results:
         if r["ok"]:
@@ -180,8 +184,8 @@ def page(out_dir, results):
             "<style>body{font:18px/1.5 system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}"
             "section{border:2px solid #333;border-radius:8px;padding:1rem;margin:1rem 0}"
             "audio{width:100%}</style></head><body><h1>Voice audition</h1>"
-            "<p>Same opening, different voices. Listen to each, then tell Claude the letter you like best "
-            "(and say if you want a different man or woman from the same group).</p>"
+            "<p>" + escape(intro or "Same opening, different voices. Listen to each, then tell Claude the letter you like best "
+            "(and say if you want a different man or woman from the same group).") + "</p>"
             + "".join(rows) + "</body></html>")
     (Path(out_dir) / "index.html").write_text(html, encoding="utf-8")
 
