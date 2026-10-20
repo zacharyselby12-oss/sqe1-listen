@@ -52,6 +52,36 @@
     "gender": "female",
     "prompt": "A friendly British woman with a bright, quick voice and a light London accent. Natural and conversational."
    }
+  },
+  {
+   "id": "F",
+   "label": "British library voices (Winchester English), one line at a time: a 31-year-old radio-host man and a 26-year-old friendly woman",
+   "kind": "library",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-podcaster-1",
+    "name": "Podcaster 1, radio host, intimate talk-show voice"
+   },
+   "second": {
+    "gender": "female",
+    "id": "en-gb-commercial-5",
+    "name": "Commercial Voiceover 5, clear and friendly"
+   }
+  },
+  {
+   "id": "G",
+   "label": "British library voices (Winchester English), one line at a time: a 24-year-old clear, direct man and a 30-year-old approachable woman",
+   "kind": "library",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-training-3",
+    "name": "Training Voiceover 3, objective, direct and helpful"
+   },
+   "second": {
+    "gender": "female",
+    "id": "en-gb-advisor-1",
+    "name": "Authoritative Advisor 1, professional yet approachable"
+   }
   }
  ]
 }
