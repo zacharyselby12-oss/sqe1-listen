@@ -3,6 +3,34 @@
   {
    "type": "prompted",
    "accent": "British",
+   "display_name": "SQE1 Listen K lead",
+   "expire_time": "2027-10-20T21:06:23.192929Z",
+   "gender": "male",
+   "id": "voice_dtpeewbon22n",
+   "language_code": "en-GB",
+   "model": "models/gemini-3.8-flash-tts",
+   "prompted": {
+    "input": "A quick-witted British man with a soft London accent. Animated and curious, he thinks out loud, sounds genuinely amused, and varies his pitch and pace naturally. Moderate pace, friendly and conversational."
+   },
+   "region_code": "GB"
+  },
+  {
+   "type": "prompted",
+   "accent": "British",
+   "display_name": "SQE1 Listen I lead",
+   "expire_time": "2027-10-20T21:06:01.986908Z",
+   "gender": "male",
+   "id": "voice_7636x92kz2nd",
+   "language_code": "en-GB",
+   "model": "models/gemini-3.8-flash-tts",
+   "prompted": {
+    "input": "A British man with a clear southern English accent and a wry, understated manner. Dry humour comes through in his tone, with a raised-eyebrow delivery and natural pauses before a punchline. Expressive but calm, measured and unhurried."
+   },
+   "region_code": "GB"
+  },
+  {
+   "type": "prompted",
+   "accent": "British",
    "display_name": "SQE1 Listen H lead",
    "expire_time": "2027-10-20T20:09:50.005181Z",
    "gender": "male",
