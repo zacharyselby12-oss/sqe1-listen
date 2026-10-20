@@ -5,8 +5,10 @@ voices.json:
    "lead":   {"name": "Will",   "voice": "<prebuilt name or voice_... id>"},
    "second": {"name": "Hannah", "voice": "<prebuilt name or voice_... id>"}}
 
-mode "pair": two prebuilt voices, one multi-speaker request per chunk of the script.
-mode "line": any voices (library or designed), one request per turn, stitched with short gaps.
+mode "pair": the two voices (a built-in name, a library id like en-gb-podcaster-4, or a designed voice_... id),
+             one two-speaker request per chunk of about 380 words: about 6 requests for an episode.
+mode "line": one request per turn, stitched with short gaps: about 110 requests for an episode, which does not fit
+             Google's limit of 100 requests a day, so it is only for tiny tests.
 """
 import base64
 import io
@@ -233,8 +235,8 @@ def render_pcm(turns, voices, fake=False, log=print):
     parts = []
     if voices.get("mode", "pair") == "pair":
         cl = None if fake else client()
-        cfg = {"speakers": [{"speaker": lead["name"], "voice": lead["voice"]},
-                            {"speaker": second["name"], "voice": second["voice"]}]}
+        cfg = [{"speaker": lead["name"], "voice": lead["voice"]},
+               {"speaker": second["name"], "voice": second["voice"]}]   # Google's documented shape for two voices
         groups = chunks(turns, PAIR_CHUNK_WORDS)
         for i, g in enumerate(groups, 1):
             n = sum(words(t["text"]) for t in g)

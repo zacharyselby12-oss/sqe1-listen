@@ -117,7 +117,7 @@ def resolve(cand, cl, log):
             v = vs[min(spec.get("pick", 0), len(vs) - 1)]
             picked[role] = (v["id"], "%s (%s, %s)" % (v.get("display_name") or v["id"], v.get("accent"),
                                                       v.get("persona")))
-    voices = {"mode": "line", "lead": {"name": "Will", "voice": picked["lead"][0]},
+    voices = {"mode": cand.get("mode", "pair"), "lead": {"name": "Will", "voice": picked["lead"][0]},
               "second": {"name": "Hannah", "voice": picked["second"][0]}}
     note = "Will = %s; Hannah = %s" % (picked["lead"][1], picked["second"][1])
     return voices, note, {"lead": picked["lead"][0], "second": picked["second"][0]}

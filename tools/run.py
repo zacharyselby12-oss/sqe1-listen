@@ -24,7 +24,7 @@ sys.path.insert(0, str(Path(__file__).parent))
 import audition  # noqa: E402
 import feed  # noqa: E402
 import render  # noqa: E402
-from scriptfmt import parse, script_hash  # noqa: E402
+from scriptfmt import parse, script_hash, total_words  # noqa: E402
 
 
 def load(p, default=None):
@@ -62,12 +62,33 @@ def base_url(config):
     return "https://example.invalid/sqe1-listen"
 
 
-def render_queued(index, voices, now, fake):
+def requests_needed(words, voices):
+    """About how many speech requests an episode of this length takes."""
+    if voices.get("mode", "pair") == "pair":
+        return -(-words // render.PAIR_CHUNK_WORDS) + 2       # chunks, plus two spare for a retry
+    return words // 20 + 5                                      # line by line: about one request per turn
+
+
+def render_queued(index, voices, now, fake, config=None):
     """Render every queued episode. Returns (failed ids, daily-limit message or None)."""
     failed = []
+    cap = int((config or {}).get("speechRequestsPerDay", 100))
+    reserve = int((config or {}).get("speechRequestsReserve", 10))
+    used = (load("reports/speech-requests.json", {"days": {}}) or {"days": {}})["days"].get(pacific_day(now), 0)
     for ep in index["episodes"]:
         if ep.get("status") != "queued":
             continue
+        if not fake:
+            try:
+                words = total_words(parse((ROOT / ep["script"]).read_text(encoding="utf-8"))["turns"])
+            except Exception:  # noqa: BLE001
+                words = 2300
+            need = requests_needed(words, voices)
+            left = cap - reserve - used - render.REQUESTS["sent"]
+            if need > left:
+                ep["lastError"] = "waiting for Google's daily speech allowance (needs about %d, %d left today)" % (need, max(left, 0))
+                print("  %s: %s" % (ep["id"], ep["lastError"]), flush=True)
+                return failed, "daily allowance reached: " + ep["lastError"]
         try:
             text = (ROOT / ep["script"]).read_text(encoding="utf-8")
             print("rendering %s (%s)" % (ep["id"], ep["title"]), flush=True)
@@ -200,6 +221,12 @@ def main():
         gh_output(failed="")
         return 0
     audition_out = ROOT / "audition" / "out"
+    if req.get("dumpOnly") and req.get("id") != done.get("id") and not fake:
+        print("saving the list of voices (no speech is made)", flush=True)
+        audition.dump_library(render.client(), audition_out, print)   # asks Google for the voice list only
+        save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"), "dumpOnly": True})
+        gh_output(failed="")
+        return 0
     if req.get("id") and req.get("id") != done.get("id"):
         print("running voice audition", req["id"], flush=True)
         results = audition.run(ROOT, audition_out, fake=fake, only=req.get("only"), dump=bool(req.get("dumpLibrary")),
@@ -220,7 +247,7 @@ def main():
             ep["status"] = "queued"
     quota_msg = None
     if voices and not voices.get("pending"):
-        more, quota_msg = render_queued(index, voices, now, fake)
+        more, quota_msg = render_queued(index, voices, now, fake, config)
         failed += more
     elif any(e.get("status") == "queued" for e in index["episodes"]):
         print("voices not chosen yet: episodes stay queued")

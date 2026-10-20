@@ -100,7 +100,7 @@ def main():
     print("pair request path:", path)
     print(json.dumps(body, indent=1)[:900])
     assert body["response_format"] == {"type": "audio"}
-    assert body["generation_config"]["speech_config"]["speakers"] == [
+    assert body["generation_config"]["speech_config"] == [
         {"speaker": "Will", "voice": "Puck"}, {"speaker": "Hannah", "voice": "Kore"}]
     assert body["input"][0]["type"] == "user_input"
     first = body["input"][0]["content"][0]
