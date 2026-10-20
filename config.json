@@ -38,7 +38,7 @@
       ]
     }
   },
-  "speechPausedUntil": "2026-10-21T07:05:00Z",
+  "speechPausedUntil": "2026-10-21T07:01:00Z",
   "speechRequestsPerDay": 100,
   "speechRequestsReserve": 10
 }

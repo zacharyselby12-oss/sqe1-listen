@@ -241,11 +241,41 @@ def render_pcm(turns, voices, fake=False, log=print):
         cfg = [{"speaker": lead["name"], "voice": lead["voice"]},
                {"speaker": second["name"], "voice": second["voice"]}]   # Google's documented shape for two voices
         groups = chunks(turns, PAIR_CHUNK_WORDS)
-        for i, g in enumerate(groups, 1):
+        suffix = voices.get("styleSuffix", "")
+
+        def one_chunk(i_g):
+            i, g = i_g
             n = sum(words(t["text"]) for t in g)
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
-            pcm = fake_pcm(n) if fake else _checked(cl, model, _pair_content(g, voices.get("styleSuffix", "")), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
-            parts += [pcm, silence(GAP_CHUNK)]
+            if fake:
+                return i, fake_pcm(n)
+            return i, _checked(cl, model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
+
+        # a few chunks at a time, so an episode takes minutes rather than a quarter of an hour; order is kept
+        ABORT.clear()
+        done, failure, quota = {}, None, None
+        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("PAIR_WORKERS", "3")))
+        futs = {ex.submit(one_chunk, it): it[0] for it in enumerate(groups, 1)}
+        for f in as_completed(futs):
+            if f.cancelled():
+                continue
+            try:
+                i, pcm = f.result()
+                done[i] = pcm
+            except Exception as e:  # noqa: BLE001
+                if isinstance(e, QuotaExhausted) and quota is None:
+                    quota = e
+                if failure is None:
+                    failure = "chunk %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
+                ABORT.set()
+                ex.shutdown(wait=False, cancel_futures=True)
+        ex.shutdown(wait=True)
+        if quota is not None:
+            raise quota
+        if failure:
+            raise RuntimeError("could not make the audio. First failure was " + failure)
+        for i in range(1, len(groups) + 1):
+            parts += [done[i], silence(GAP_CHUNK)]
     else:
         cl = None if fake else client()
 
