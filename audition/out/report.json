@@ -60,7 +60,45 @@
   {
     "id": "D",
     "label": "British voices designed from a description, one line at a time",
-    "ok": false,
-    "error": "BadRequestError: Error code: 400 - {'error': {'code': 400, 'message': 'Generated voice prompt was flagged by safety policies.', 'status': 'INVALID_ARGUMENT'}}"
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_f2g29r754dls",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = designed: A warm, relaxed British man with a light London accent and a dry sense of humour; Hannah = designed: A bright, quick British woman with a light London accent. Curious and playful: s",
+    "voices": {
+      "mode": "line",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_f2g29r754dls"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-D.mp3"
+  },
+  {
+    "id": "E",
+    "label": "British voices designed from a plainer description, one line at a time",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_rgqanariij21",
+      "second": "voice_7k6ruyt2iwyh"
+    },
+    "note": "Will = designed: A friendly British man with a warm, relaxed voice and a light London accent. Cle; Hannah = designed: A friendly British woman with a bright, quick voice and a light London accent. N",
+    "voices": {
+      "mode": "line",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_rgqanariij21"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7k6ruyt2iwyh"
+      }
+    },
+    "audio": "pair-E.mp3"
   }
 ]
