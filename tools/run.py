@@ -191,4 +191,11 @@ def main():
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    try:
+        code = main()
+    finally:
+        try:
+            render.save_trace(ROOT / "reports" / "last-run-trace.txt")
+        except Exception as e:  # noqa: BLE001
+            print("could not save the trace: %s" % e)
+    sys.exit(code)

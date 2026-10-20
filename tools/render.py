@@ -55,9 +55,27 @@ def client():
     return genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
+TRACE = []  # (seconds since start, text) for every API attempt; saved by run.py so slow runs can be understood
+_T0 = time.time()
+
+
+def trace(msg):
+    line = "%7.1fs %s" % (time.time() - _T0, msg)
+    TRACE.append(line)
+    print("  [trace] " + line, flush=True)
+
+
+def save_trace(path):
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text("\n".join(TRACE) + "\n", encoding="utf-8")
+
+
 def _call(cl, model, content, speech_config, tries=7):
     delay, no_audio = 8, 0
+    who = (content[0].get("text") or "")[:28].replace("\n", " ")
     for i in range(tries):
+        t_start = time.time()
         try:
             it = cl.interactions.create(
                 model=model,
@@ -77,9 +95,11 @@ def _call(cl, model, content, speech_config, tries=7):
                 continue
             data = audio.data
             raw = base64.b64decode(data) if isinstance(data, str) else data
+            trace("ok %.1fs try %d: %s" % (time.time() - t_start, i + 1, who))
             return wav_to_pcm(raw)
         except Exception as e:  # noqa: BLE001
             msg = str(e)
+            trace("error after %.1fs try %d: %s | %s" % (time.time() - t_start, i + 1, who, msg[:140].replace("\n", " ")))
             transient = any(x in msg for x in ("429", "500", "502", "503", "504", "RESOURCE_EXHAUSTED",
                                                "UNAVAILABLE", "timed out", "Timeout", "ConnectError"))
             if i == tries - 1 or not transient:

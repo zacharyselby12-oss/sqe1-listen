@@ -104,7 +104,8 @@ def main():
         {"speaker": "Will", "voice": "Puck"}, {"speaker": "Hannah", "voice": "Kore"}]
     assert body["input"][0]["type"] == "user_input"
     first = body["input"][0]["content"][0]
-    assert first["annotations"][0] == {"type": "speech_metadata", "speaker": "Will"}
+    ann0 = first["annotations"][0]  # the audition sample may give the first line a mood, so only the speaker is fixed
+    assert ann0["type"] == "speech_metadata" and ann0["speaker"] == "Will", ann0
     n_pair = len(CAPTURED)
     # line mode with a designed-voice-style id
     v2 = {"mode": "line", "lead": {"name": "Will", "voice": "voice_abc123"}, "second": {"name": "Hannah", "voice": "Kore"}}

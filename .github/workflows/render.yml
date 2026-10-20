@@ -57,11 +57,11 @@ jobs:
         run: python tools/run.py
 
       - name: Save new audio and episode list
-        if: steps.run.outputs.skipped != 'true'
+        if: always() && steps.run.outputs.skipped != 'true'
         run: |
           git config user.name "sqe1-listen[bot]"
           git config user.email "sqe1-listen-bot@users.noreply.github.com"
-          git add -A audio episodes audition
+          git add -A audio episodes audition reports
           if git diff --cached --quiet; then
             echo "nothing new to save"
           else
