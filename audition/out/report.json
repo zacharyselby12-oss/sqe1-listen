@@ -1,0 +1,66 @@
+[
+  {
+    "id": "A",
+    "label": "Two standard voices: a friendly man and an easy-going woman (Achird and Callirrhoe)",
+    "ok": true,
+    "note": "prebuilt: Will = Achird, Hannah = Callirrhoe",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "Achird"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "Callirrhoe"
+      }
+    },
+    "audio": "pair-A.mp3"
+  },
+  {
+    "id": "B",
+    "label": "Two standard voices: a clear, informative man and a breezy woman (Charon and Aoede)",
+    "ok": true,
+    "note": "prebuilt: Will = Charon, Hannah = Aoede",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "Charon"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "Aoede"
+      }
+    },
+    "audio": "pair-B.mp3"
+  },
+  {
+    "id": "C",
+    "label": "British voices from Google's voice library, one line at a time",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-assistant-10",
+      "second": "en-gb-assistant-1"
+    },
+    "note": "Will = Digital Assistant 10 (Winchester English, Companion & Peer / Digital Assistant (Parent)); Hannah = Digital Assistant 1 (Winchester English, Companion & Peer / Digital Assistant (Sibling))",
+    "voices": {
+      "mode": "line",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-assistant-10"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-assistant-1"
+      }
+    },
+    "audio": "pair-C.mp3"
+  },
+  {
+    "id": "D",
+    "label": "British voices designed from a description, one line at a time",
+    "ok": false,
+    "error": "BadRequestError: Error code: 400 - {'error': {'code': 400, 'message': 'Generated voice prompt was flagged by safety policies.', 'status': 'INVALID_ARGUMENT'}}"
+  }
+]
