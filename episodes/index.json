@@ -3,22 +3,24 @@
     {
       "id": "contract-ws01",
       "unitId": "u-bpp-Contract-01",
-      "title": "Contract WS01 · Contract Formation",
+      "title": "Contract WS01 · Contract formation",
       "guideHash": "2cf2dfd237",
       "script": "scripts/contract-ws01.txt",
-      "scriptHash": "83a5dbbb2e74",
+      "scriptHash": "a464949372ae",
       "audio": "audio/contract-ws01.mp3",
       "recap": [
-        "Shop displays and ordinary adverts are invitations to treat. An advert is an offer only if it's unilateral, and the performer must have known of it.",
-        "A counter-offer destroys the original offer, but a mere question leaves it open. An offer can be revoked before acceptance, even if promised open, unless the offeree gave consideration.",
-        "A posted acceptance takes effect on posting, but a revocation takes effect only on receipt. The postal rule is lost where the offer requires the acceptance to be received.",
-        "A vague key term, or an essential term left to be agreed with no machinery, means no contract. A meaningless subsidiary term is severed. A lock-out needs a definite period and consideration."
+        "Shop displays and ordinary adverts are invitations to treat, so the customer makes the offer; only a unilateral advert, like a reward, is an offer.",
+        "A reply that changes the terms is a counter-offer and destroys the offer; a mere question leaves it open.",
+        "A posted acceptance takes effect on posting, unless the offer requires actual receipt, post is unreasonable or the letter is misaddressed; a revocation takes effect only on receipt.",
+        "An offer can be revoked any time before acceptance, even if promised open, unless the offeree gave consideration or has started to perform a unilateral offer; the performer must have known of the offer, and motive does not matter.",
+        "A vague key term, or an essential term left to be agreed with no machinery, means no contract; a meaningless subsidiary term is severed, and silence on price gets a reasonable price.",
+        "A lock-out binds only if it is for a definite period and supported by consideration; a promise to negotiate in good faith is unenforceable."
       ],
-      "madeAt": "2026-10-20T15:57:52+00:00",
+      "madeAt": "2026-10-20T22:47:58+00:00",
       "status": "queued",
       "pilot": true,
       "approved": false,
-      "checks": "code ok; Opus check (1 fix applied); Opus line-by-line pass 118/118",
+      "checks": "code ok; Opus accuracy check (4 fixes applied); Opus line-by-line check: 304 lines, nothing missing, 5 wording fixes from it applied",
       "omittedStarred": 0,
       "banterLines": 0
     },
