@@ -55,6 +55,33 @@ def list_british(cl, gender, want_conversational=True):
     return sorted(found, key=rank) if want_conversational else found
 
 
+def dump_library(cl, out_dir, log=print):
+    """Save everything Google says about its British library voices, so a person (or Claude) can choose well."""
+    out = {}
+    for gender in ("male", "female"):
+        rows, seen, token = [], set(), None
+        while True:
+            args = dict(language_code=["en-GB"], gender=[gender], page_size=100)
+            if token:
+                args["page_token"] = token
+            res = cl.voices.list(**args)
+            for v in (res.voices or []):
+                if getattr(v, "id", None) in seen:
+                    continue
+                seen.add(v.id)
+                try:
+                    rows.append(v.model_dump(mode="json", exclude_none=True))
+                except Exception:  # noqa: BLE001
+                    rows.append({k: str(getattr(v, k, None)) for k in ("id", "display_name", "persona", "context", "description")})
+            token = getattr(res, "next_page_token", None)
+            if not token:
+                break
+        out[gender] = rows
+        log("library: %d British %s voices" % (len(rows), gender))
+    Path(out_dir).mkdir(parents=True, exist_ok=True)
+    (Path(out_dir) / "library-voices.json").write_text(json.dumps(out, indent=1, ensure_ascii=False), encoding="utf-8")
+
+
 def design_voice(cl, spec, name):
     v = cl.voices.create(
         store=True,
@@ -75,7 +102,9 @@ def resolve(cand, cl, log):
     picked = {}
     for role in ("lead", "second"):
         spec = cand[role]
-        if kind == "library":
+        if kind == "library" and spec.get("id"):
+            picked[role] = (spec["id"], spec.get("name") or spec["id"])
+        elif kind == "library":
             vs = list_british(cl, spec["gender"])
             if not vs:
                 raise RuntimeError("no British %s voices found in the library" % spec["gender"])
@@ -83,7 +112,10 @@ def resolve(cand, cl, log):
             picked[role] = (v["id"], "%s (%s, %s)" % (v.get("display_name") or v["id"], v.get("accent"),
                                                       v.get("persona")))
         else:
-            vid = design_voice(cl, spec, "SQE1 Listen %s %s" % (cand["id"], role))
+            try:
+                vid = design_voice(cl, spec, "SQE1 Listen %s %s" % (cand["id"], role))
+            except Exception as e:  # noqa: BLE001
+                raise RuntimeError("could not design the %s voice (%s): %s" % (role, spec["gender"], str(e)[:200])) from e
             picked[role] = (vid, "designed: " + spec["prompt"][:80])
     voices = {"mode": "line", "lead": {"name": "Will", "voice": picked["lead"][0]},
               "second": {"name": "Hannah", "voice": picked["second"][0]}}
@@ -91,14 +123,27 @@ def resolve(cand, cl, log):
     return voices, note, {"lead": picked["lead"][0], "second": picked["second"][0]}
 
 
-def run(root, out_dir, fake=False, log=print):
+def run(root, out_dir, fake=False, log=print, only=None, dump=False):
+    """only: list of candidate ids to (re)run; the others keep their result from the earlier report.json."""
     root, out_dir = Path(root), Path(out_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
     cands = json.load(open(root / "audition" / "candidates.json", encoding="utf-8"))["candidates"]
     sample = parse((root / "audition" / "sample.txt").read_text(encoding="utf-8"))
     cl = None if fake else render.client()
+    earlier = {}
+    if only and (out_dir / "report.json").exists():
+        earlier = {r["id"]: r for r in json.load(open(out_dir / "report.json", encoding="utf-8"))}
+    if dump and cl is not None:
+        try:
+            dump_library(cl, out_dir, log)
+        except Exception as e:  # noqa: BLE001
+            log("  library list failed: %s: %s" % (type(e).__name__, str(e)[:200]))
     results = []
     for cand in cands:
+        if only and cand["id"] not in only:
+            if cand["id"] in earlier:
+                results.append(earlier[cand["id"]])
+            continue
         r = {"id": cand["id"], "label": cand["label"], "ok": False}
         try:
             log("candidate %s: %s" % (cand["id"], cand["label"]))

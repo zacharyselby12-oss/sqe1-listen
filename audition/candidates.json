@@ -1,14 +1,57 @@
 {
-  "candidates": [
-    {"id": "A", "label": "Two standard voices: a friendly man and an easy-going woman (Achird and Callirrhoe)",
-     "kind": "pair", "lead": "Achird", "second": "Callirrhoe"},
-    {"id": "B", "label": "Two standard voices: a clear, informative man and a breezy woman (Charon and Aoede)",
-     "kind": "pair", "lead": "Charon", "second": "Aoede"},
-    {"id": "C", "label": "British voices from Google's voice library, one line at a time",
-     "kind": "library", "lead": {"gender": "male", "pick": 0}, "second": {"gender": "female", "pick": 0}},
-    {"id": "D", "label": "British voices designed from a description, one line at a time",
-     "kind": "design",
-     "lead": {"gender": "male", "prompt": "A warm, relaxed British man in his early thirties with a light London accent and a dry sense of humour. He sounds like a friendly law graduate explaining something to a friend: clear, unhurried, with a smile in his voice."},
-     "second": {"gender": "female", "prompt": "A bright, quick British woman in her late twenties with a light London accent. She is curious and teasing, asks sharp questions, and has a little laugh in her voice. Natural and conversational, never stiff."}}
-  ]
+ "candidates": [
+  {
+   "id": "A",
+   "label": "Two standard voices: a friendly man and an easy-going woman (Achird and Callirrhoe)",
+   "kind": "pair",
+   "lead": "Achird",
+   "second": "Callirrhoe"
+  },
+  {
+   "id": "B",
+   "label": "Two standard voices: a clear, informative man and a breezy woman (Charon and Aoede)",
+   "kind": "pair",
+   "lead": "Charon",
+   "second": "Aoede"
+  },
+  {
+   "id": "C",
+   "label": "British voices from Google's voice library, one line at a time",
+   "kind": "library",
+   "lead": {
+    "gender": "male",
+    "pick": 0
+   },
+   "second": {
+    "gender": "female",
+    "pick": 0
+   }
+  },
+  {
+   "id": "D",
+   "label": "British voices designed from a description, one line at a time",
+   "kind": "design",
+   "lead": {
+    "gender": "male",
+    "prompt": "A warm, relaxed British man with a light London accent and a dry sense of humour. Clear and unhurried, like a friendly law graduate explaining something to a friend."
+   },
+   "second": {
+    "gender": "female",
+    "prompt": "A bright, quick British woman with a light London accent. Curious and playful: she asks sharp questions and has a little laugh in her voice. Natural and conversational, never stiff."
+   }
+  },
+  {
+   "id": "E",
+   "label": "British voices designed from a plainer description, one line at a time",
+   "kind": "design",
+   "lead": {
+    "gender": "male",
+    "prompt": "A friendly British man with a warm, relaxed voice and a light London accent. Clear and unhurried."
+   },
+   "second": {
+    "gender": "female",
+    "prompt": "A friendly British woman with a bright, quick voice and a light London accent. Natural and conversational."
+   }
+  }
+ ]
 }

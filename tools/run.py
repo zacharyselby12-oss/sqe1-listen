@@ -165,7 +165,7 @@ def main():
     audition_out = ROOT / "audition" / "out"
     if req.get("id") and req.get("id") != done.get("id"):
         print("running voice audition", req["id"], flush=True)
-        results = audition.run(ROOT, audition_out, fake=fake)
+        results = audition.run(ROOT, audition_out, fake=fake, only=req.get("only"), dump=bool(req.get("dumpLibrary")))
         save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"),
                                     "ok": [r["id"] for r in results if r["ok"]],
                                     "failed": [r["id"] for r in results if not r["ok"]]})
