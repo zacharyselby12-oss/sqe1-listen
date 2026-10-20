@@ -23,7 +23,9 @@ Flag a problem when you find:
   as at 11 September 2026. Report it; do not "fix" it.
 Be strict, but invent no problems: a paraphrase that keeps the meaning is fine.
 Also note (these do not fail the episode): COVERAGE, up to 5 starred lines or "turns on" items the episode leaves
-out; BANTER, the number of lines that teach nothing if more than about 1 in 10.
+out; BANTER, the number of lines that teach nothing if more than about 1 in 10 (quick reactions that keep the
+conversation moving, such as "Right.", "Hang on." or "Ha, fair.", do not count, and nor does casual wording of a
+rule that stays exactly the source's: judge the rule underneath, not the register).
 
 Reply with JSON only:
 {"verdict": "pass" or "fail",

@@ -1,37 +1,48 @@
-STYLE REFERENCE ONLY (approved by Zac). Do not reuse its jokes, lines or facts.
-
-Will: Welcome back. Today, Hannah, we're doing one of the great dramas of contract law.
-Hannah: Is it a drama, though, Will? It's letters.
-Will: It's letters, a van, and a man who changes his mind. <laugh> Acceptance: when does it actually take effect?
-Hannah: Go on then. Start me from scratch.
-Will: The basic rule: acceptance only counts once it's communicated to the person who made the offer. Silence doesn't do it. Neither does a letter sitting in your drawer.
-Hannah: Fair. You can't accept by thinking about it really hard.
-Will: Sadly not. But there's one big exception: the postal rule. Where it's reasonable to accept by post, acceptance takes effect the moment the letter is posted, as long as it's properly stamped and addressed.
-Hannah: Posted, not received?
-Will: Posted. That's the rule from Adams and Lindsell.
-Hannah: And if the letter gets lost?
-Will: Still a contract. That's the Household Fire case.
-Hannah: So the contract exists while the letter is stuck in a sorting office in Swindon.
-Will: Exactly. Royal Mail holds your contract hostage, but it's still a contract.
-Hannah: And the other way round? Can you withdraw an offer by post too?
-Will: You can try, but withdrawing an offer only counts when it actually reaches the other side. Posting it isn't enough.
-Hannah: So acceptance: on posting. Withdrawal: on arrival.
-Will: That's the whole topic in a sentence. Now, how would the examiners get us?
-Hannah: Ooh. Exam mode.
-Will: Exam mode. Ash offers to sell Ben his van, by letter. On Monday, Ben posts his acceptance. On Tuesday, Ash posts a letter withdrawing the offer, and it arrives on Wednesday. Ben's acceptance only arrives on Thursday. Is there a contract?
-Hannah: <short pause> No. Ash's withdrawal got there first.
-Will: And that is exactly the answer they want you to pick.
-Hannah: Oh no.
-Will: The contract was made on Monday, when Ben posted his acceptance. By Tuesday, there was nothing left to withdraw.
-Hannah: So it's not a race to the letterbox.
-Will: Not once acceptance is posted. The deciding fact is the posting date. Find it first.
-Hannah: Right. What else do they hide?
-Will: Two classics. First, the offer's own wording. If Ash had said, "your acceptance must reach me", the postal rule is switched off, and acceptance only counts when it arrives.
-Hannah: So read the offer like a suspicious landlord.
-Will: <laugh> Always. Second, email. People assume the postal rule covers it.
-Hannah: I would. It's basically a letter.
-Will: It's not treated like one. A phone acceptance counts when it's heard, and email is generally treated the same way: when it's received.
-Hannah: Recap, then?
-Will: Acceptance by post: on posting, even if it's lost. Withdrawing an offer: on arrival. Phone or email: on receipt.
-Hannah: And if the offer says acceptance must reach them?
-Will: Then it must reach them.
+---
+title: Contract WS01 · Postal rule (style sample only)
+recap:
+- A posted acceptance takes effect when it is posted, even if the letter is lost.
+- An offer can switch the postal rule off by requiring acceptance to reach the offeror.
+- Withdrawing an offer only works when the withdrawal reaches the other person.
+invented:
+- Swindon
+- Ash
+- Ben
+- Monday
+- Tuesday
+- Wednesday
+---
+## Rule
+Will (warm): Right. Hannah. Quick one before we start.
+Hannah (wary): Oh no. Is this a trick one?
+Will (amused): A little bit. You post a letter accepting my offer. The post office loses it. It never arrives. Is there a contract?
+Hannah (incredulous): No! Surely not. I never even told you!
+Will: <short pause> Yes. There is.
+Hannah (laughing): Get out.
+Will (laughing): No, honestly! It's the postal rule. If post is a sensible way to accept, the acceptance takes effect the moment the letter's posted. Not when it lands. When it goes in the box.
+Hannah (thinking aloud): Hang on, that's bonkers. So the contract exists while the letter's just... sat in a sorting office in Swindon.
+Will: Sat in Swindon. Yes. And the law basically shrugs and says, well, you did everything you could. <laugh>
+Hannah (sceptical): Okay. And the normal rule is what, then?
+Will (brisk): The normal rule is that acceptance has to actually reach the person who made the offer. Silence doesn't count. A letter in your drawer doesn't count.
+Hannah (dry): So I can't accept by thinking about it really hard.
+Will: Sadly not. But you can switch the postal rule off. If my offer says, "your acceptance must reach me", then posting isn't enough.
+Hannah (relieved): Oh, that's fair. So it's only the default.
+Will: Only the default, yes. And here's the sting. If I want to take my offer back, that only works once you actually receive my letter. Posting it doesn't help me.
+Hannah (mock-outraged): So posting helps the person accepting, but never the person withdrawing?
+Will (amused): <short pause> Exactly that.
+## Exam mode
+Will (brisk): Okay, exam hat on. Ash posts a letter on Monday, accepting Ben's offer. On Tuesday, Ben phones Ash and withdraws the offer. The letter lands on Wednesday. Is there a contract?
+Hannah (thinking aloud): Hmm. Ben withdrew first. So... no? He got in before the letter arrived.
+Will: That's the trap. A withdrawal only works when it reaches the other person. But Ash accepted on Monday, the moment he posted. So by Tuesday there's already a contract.
+Hannah (groaning): Ugh. I always want the arrival to count.
+Will (dry): Everyone does. Two dates, that's all. When was it posted, and when did the withdrawal land? Posting first, contract made.
+Hannah: And what if Ben's offer had said "acceptance must reach me"?
+Will (pleased): Ooh, good. Then posting isn't enough. The postal rule's off, so the acceptance only counts when the letter reaches Ben on Wednesday.
+Hannah (catching on): And by then the phone call on Tuesday has already withdrawn the offer.
+Will: So, no contract. One sentence in the offer flips the whole answer.
+Hannah (thoughtful): Right. I'll be reading the offer for that sentence first.
+## Recap
+Will (warm): Three things to take away.
+Hannah: One. A posted acceptance works on posting, even if the letter's lost.
+Will: Two. An offer can switch that off, by saying the acceptance has to reach the person.
+Hannah (brisk): Three. Withdrawing an offer only works once the withdrawal reaches the other side.
