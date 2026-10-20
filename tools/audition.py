@@ -96,9 +96,12 @@ def resolve(cand, cl, log):
     """Return a voices dict for render.render_pcm, plus notes about which voices were used."""
     kind = cand["kind"]
     if kind == "pair":
-        return ({"mode": "pair", "lead": {"name": "Will", "voice": cand["lead"]},
-                 "second": {"name": "Hannah", "voice": cand["second"]}},
-                "prebuilt: Will = %s, Hannah = %s" % (cand["lead"], cand["second"]))
+        v = {"mode": "pair", "lead": {"name": "Will", "voice": cand["lead"]},
+             "second": {"name": "Hannah", "voice": cand["second"]}}
+        if cand.get("styleSuffix"):
+            v["styleSuffix"] = cand["styleSuffix"]
+        return (v, "standard voices: Will = %s, Hannah = %s%s" % (
+            cand["lead"], cand["second"], (" (asked for: %s)" % cand["styleSuffix"]) if cand.get("styleSuffix") else ""))
     picked = {}
     for role in ("lead", "second"):
         spec = cand[role]
@@ -183,11 +186,11 @@ def page(out_dir, results, intro=None):
     rows = []
     for r in results:
         if r["ok"]:
-            rows.append("<section><h2>Pair %s</h2><p>%s</p><p><small>%s</small></p>"
+            rows.append("<section><h2>Voice %s</h2><p>%s</p><p><small>%s</small></p>"
                         "<audio controls preload=\"none\" src=\"%s\"></audio></section>"
                         % (escape(r["id"]), escape(r["label"]), escape(r["note"]), escape(r["audio"])))
         else:
-            rows.append("<section><h2>Pair %s</h2><p>%s</p><p><strong>Did not work:</strong> %s</p></section>"
+            rows.append("<section><h2>Voice %s</h2><p>%s</p><p><strong>Did not work:</strong> %s</p></section>"
                         % (escape(r["id"]), escape(r["label"]), escape(r.get("error", ""))))
     html = ("<!doctype html><html lang=\"en-GB\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">"
@@ -195,8 +198,7 @@ def page(out_dir, results, intro=None):
             "<style>body{font:18px/1.5 system-ui,sans-serif;max-width:40rem;margin:2rem auto;padding:0 1rem}"
             "section{border:2px solid #333;border-radius:8px;padding:1rem;margin:1rem 0}"
             "audio{width:100%}</style></head><body><h1>Voice audition</h1>"
-            "<p>" + escape(intro or "Same opening, different voices. Listen to each, then tell Claude the letter you like best "
-            "(and say if you want a different man or woman from the same group).") + "</p>"
+            "<p>" + escape(intro or "Same opening, different voices. Listen to each, then tell Claude the number you like best.") + "</p>"
             + "".join(rows) + "</body></html>")
     (Path(out_dir) / "index.html").write_text(html, encoding="utf-8")
 

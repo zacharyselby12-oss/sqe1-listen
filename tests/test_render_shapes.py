@@ -129,7 +129,17 @@ def main():
     assert all(r["ok"] for r in res), res
     new = CAPTURED[n_before:]
     created = [c for c in new if c[0].startswith("/v1beta/voices") and c[1]]
-    print("voices.create bodies:", json.dumps(created[0][1])[:400])
+    if created:
+        print("voices.create bodies:", json.dumps(created[0][1])[:400])
+    pair_bodies = [c[1] for c in new if c[1] and "generation_config" in c[1]]
+    for b in pair_bodies:   # every audition request is now one two-voice request with a speaker on every line
+        sc = b["generation_config"]["speech_config"]
+        assert isinstance(sc, list) and len(sc) == 2 and all("speaker" in x for x in sc), sc
+        assert all(a.get("speaker") for item in b["input"][0]["content"] for a in item.get("annotations", [])), b
+    print("audition requests:", len(pair_bodies))
+    nine = [b for b in pair_bodies if b["generation_config"]["speech_config"][0]["voice"] == "Umbriel"]
+    assert nine and all("southern English accent" in a.get("style", "") for item in nine[0]["input"][0]["content"]
+                        for a in item["annotations"]), "the back-up voice should carry the accent instruction"
     assert (ROOT / "tmp" / "aud" / "index.html").exists()
     srv.shutdown()
     print("ALL OK")

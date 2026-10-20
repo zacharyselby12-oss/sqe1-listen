@@ -207,12 +207,15 @@ def _checked(cl, model, content, speech_config, n_words, label, limit=None):
     raise RuntimeError("%s: audio length %.1fs never matched %d words" % (label, last or 0, n_words))
 
 
-def _pair_content(turns):
+def _pair_content(turns, suffix=""):
+    """One text block per turn, each with its speaker and mood. `suffix` is added to every mood (for example an
+    accent instruction when a built-in voice is used)."""
     out = []
     for t in turns:
         ann = {"type": "speech_metadata", "speaker": t["who"]}
-        if t["style"]:
-            ann["style"] = t["style"]
+        style = ", ".join(x for x in (t["style"], suffix) if x)
+        if style:
+            ann["style"] = style
         out.append({"type": "text", "text": t["text"], "annotations": [ann]})
     return out
 
@@ -241,7 +244,7 @@ def render_pcm(turns, voices, fake=False, log=print):
         for i, g in enumerate(groups, 1):
             n = sum(words(t["text"]) for t in g)
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
-            pcm = fake_pcm(n) if fake else _checked(cl, model, _pair_content(g), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
+            pcm = fake_pcm(n) if fake else _checked(cl, model, _pair_content(g, voices.get("styleSuffix", "")), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
             parts += [pcm, silence(GAP_CHUNK)]
     else:
         cl = None if fake else client()

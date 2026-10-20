@@ -16,6 +16,8 @@ on:
       - ".github/workflows/render.yml"
   schedule:
     - cron: "5 21 * * 6"
+    - cron: "20 7 21 10 *"    # one-off: 08:20 London on 21 Oct 2026, after Google's daily limit resets (voice test)
+    - cron: "50 8 21 10 *"    # one-off second try in case the first is late; it does nothing if the test already ran
   workflow_dispatch:
 
 permissions:

@@ -213,6 +213,17 @@ def main():
 
     req = load("audition/request.json", {}) or {}
     done = load("audition/done.json", {}) or {}
+    paused_until = config.get("speechPausedUntil")
+    if paused_until and now < datetime.fromisoformat(paused_until.replace("Z", "+00:00")) and not fake:
+        # Google's daily limit is used up: no speech is attempted, the site is rebuilt as it is
+        print("speech paused until %s (Google's daily limit); nothing is spoken in this run" % paused_until, flush=True)
+        settle(index, now)
+        save("episodes/index.json", index)
+        build_site(index, config, site, base_url(config))
+        if (ROOT / "audition" / "out").exists():
+            shutil.copytree(ROOT / "audition" / "out", site / "audition")
+        gh_output(failed="")
+        return 0
     if req.get("probe") and req.get("id") != done.get("id") and not fake:
         import probe  # a quick test of what Google accepts, written to reports/probe.json
         print("running the quick probe", flush=True)
@@ -244,7 +255,9 @@ def main():
         save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"), "dumpOnly": True})
         gh_output(failed="")
         return 0
-    if req.get("id") and req.get("id") != done.get("id"):
+    if req.get("notBefore") and now < datetime.fromisoformat(req["notBefore"].replace("Z", "+00:00")):
+        print("the voice audition waits until %s" % req["notBefore"], flush=True)
+    elif req.get("id") and req.get("id") != done.get("id"):
         print("running voice audition", req["id"], flush=True)
         results = audition.run(ROOT, audition_out, fake=fake, only=req.get("only"), dump=bool(req.get("dumpLibrary")),
                                  fresh=bool(req.get("fresh")))
