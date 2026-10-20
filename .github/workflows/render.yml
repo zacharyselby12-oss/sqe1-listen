@@ -1,0 +1,87 @@
+name: Render and publish
+
+# Runs when scripts, the episode list, the voices or the audition request change,
+# and once on Saturday evening (after Shabbat) to catch anything queued while it was paused.
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - "episodes/index.json"
+      - "voices.json"
+      - "config.json"
+      - "audition/request.json"
+      - "audition/candidates.json"
+      - "tools/**"
+      - ".github/workflows/render.yml"
+  schedule:
+    - cron: "5 21 * * 6"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: sqe1-listen
+  cancel-in-progress: false
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install ffmpeg and Python packages
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          pip install -r requirements.txt
+
+      - name: Render audio and build the site
+        id: run
+        continue-on-error: true
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python tools/run.py
+
+      - name: Save new audio and episode list
+        if: steps.run.outputs.skipped != 'true'
+        run: |
+          git config user.name "sqe1-listen[bot]"
+          git config user.email "sqe1-listen-bot@users.noreply.github.com"
+          git add -A audio episodes audition
+          if git diff --cached --quiet; then
+            echo "nothing new to save"
+          else
+            git commit -q -m "Render: new audio and episode list"
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" || true
+            git push -q origin "HEAD:${GITHUB_REF_NAME}"
+          fi
+
+      - uses: actions/configure-pages@v5
+        if: steps.run.outputs.skipped != 'true'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: steps.run.outputs.skipped != 'true'
+        with:
+          path: _site
+
+      - id: deployment
+        if: steps.run.outputs.skipped != 'true'
+        uses: actions/deploy-pages@v4
+
+      - name: Fail the run if any episode failed to render
+        if: steps.run.outcome == 'failure'
+        run: |
+          echo "Some episodes failed: ${{ steps.run.outputs.failed }}"
+          exit 1
