@@ -1,5 +1,5 @@
 {
- "intro": "Round 3. Voices 1 to 8 all use the woman from D that you liked, so you are only judging the man. New, more natural script. Listen to each and tell Claude your favourite number or two. Voice 9 is a back-up idea with a different woman.",
+ "intro": "Round 3. Voices 1 to 8 all use the woman from D that you liked, so you are only judging the man. Voice 9 is a back-up idea with standard voices. Voices 10 to 12 are three other women (all with the man from voice 1), in case you want to change her. New, more natural script, spoken as one conversation. Tell Claude your favourite man and, if you like, a different woman.",
  "candidates": [
   {
    "id": "1",
@@ -128,6 +128,51 @@
    "lead": "Umbriel",
    "second": "Zephyr",
    "styleSuffix": "speaks with a southern English accent, British not American"
+  },
+  {
+   "id": "10",
+   "label": "Different woman: conversational, slightly dry humour, warm (Google library, southern English)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-advisor-10",
+    "name": "library voice Authoritative Advisor 10 (Bristol English), the man from voice 1"
+   },
+   "second": {
+    "gender": "female",
+    "id": "en-gb-csagent-4",
+    "name": "library voice Call Center Agent 4 (Winchester English): conversational, slightly dry humour, warm"
+   }
+  },
+  {
+   "id": "11",
+   "label": "Different woman: engaging and empathic (Google library, southern English)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-advisor-10",
+    "name": "library voice Authoritative Advisor 10 (Bristol English), the man from voice 1"
+   },
+   "second": {
+    "gender": "female",
+    "id": "en-gb-commercial-9",
+    "name": "library voice Commercial Voiceover 9 (Winchester English): engaging and empathic"
+   }
+  },
+  {
+   "id": "12",
+   "label": "Different woman: warm and engaging (Google library, southern English)",
+   "kind": "mix",
+   "lead": {
+    "gender": "male",
+    "id": "en-gb-advisor-10",
+    "name": "library voice Authoritative Advisor 10 (Bristol English), the man from voice 1"
+   },
+   "second": {
+    "gender": "female",
+    "id": "en-gb-tutor-7",
+    "name": "library voice Tutor 7 (Winchester English): warm and engaging"
+   }
   }
  ]
 }

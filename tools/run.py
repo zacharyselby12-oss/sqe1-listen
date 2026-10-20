@@ -70,11 +70,17 @@ def requests_needed(words, voices):
 
 
 def render_queued(index, voices, now, fake, config=None, only_pilots=False, voice_note=None):
-    """Render every queued episode (or only the pilots). Returns (failed ids, daily-limit message or None)."""
-    failed = []
+    """Render queued episodes (or only the pilots), two at a time. Returns (failed ids, daily-limit message or None).
+
+    Before starting, the episodes are counted against what is left of Google's daily speech allowance: those that
+    fit are made, the rest stay queued for the next run."""
+    from concurrent.futures import ThreadPoolExecutor
+    failed, note = [], None
     cap = int((config or {}).get("speechRequestsPerDay", 100))
     reserve = int((config or {}).get("speechRequestsReserve", 10))
     used = (load("reports/speech-requests.json", {"days": {}}) or {"days": {}})["days"].get(pacific_day(now), 0)
+    left = cap - reserve - used - render.REQUESTS["sent"]
+    todo = []
     for ep in index["episodes"]:
         if ep.get("status") != "queued" or (only_pilots and not ep.get("pilot")):
             continue
@@ -84,15 +90,26 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
             except Exception:  # noqa: BLE001
                 words = 2300
             need = requests_needed(words, voices)
-            left = cap - reserve - used - render.REQUESTS["sent"]
             if need > left:
                 ep["lastError"] = "waiting for Google's daily speech allowance (needs about %d, %d left today)" % (need, max(left, 0))
                 print("  %s: %s" % (ep["id"], ep["lastError"]), flush=True)
-                return failed, "daily allowance reached: " + ep["lastError"]
+                note = note or ("daily allowance reached: " + ep["lastError"])
+                continue
+            left -= need
+        todo.append(ep)
+
+    def make(ep):
         try:
             text = (ROOT / ep["script"]).read_text(encoding="utf-8")
             print("rendering %s (%s)" % (ep["id"], ep["title"]), flush=True)
-            info = render.render_script(text, voices, ROOT / ep["audio"], ep["title"], fake=fake)
+            return ep, text, render.render_script(text, voices, ROOT / ep["audio"], ep["title"], fake=fake), None
+        except Exception as e:  # noqa: BLE001
+            return ep, None, None, e
+
+    with ThreadPoolExecutor(max_workers=int(os.environ.get("EPISODE_WORKERS", "2"))) as ex:
+        results = list(ex.map(make, todo))
+    for ep, text, info, err in results:   # bookkeeping in one place, in episode order
+        if err is None:
             ep.update(bytes=info["bytes"], seconds=info["seconds"], words=info["words"],
                       renderedHash=script_hash(text), renderedAt=now.isoformat(timespec="seconds"),
                       voices=voices.get("mode", "pair") + ":" + voices["lead"]["voice"] + "+" + voices["second"]["voice"])
@@ -106,20 +123,20 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
             else:
                 ep["status"] = "published"
                 ep["pubDate"] = ep.get("pubDate") or now.isoformat(timespec="seconds")
-        except render.QuotaExhausted as e:
+        elif isinstance(err, render.QuotaExhausted):
             # not the episode's fault: it stays queued and is tried again after Google's limit resets
             ep["lastError"] = "waiting for Google's daily speech limit to reset"
-            print("  STOPPED: %s" % e, flush=True)
-            return failed, str(e)
-        except Exception as e:  # noqa: BLE001
-            ep["lastError"] = "%s: %s" % (type(e).__name__, str(e)[:300])
+            print("  STOPPED: %s" % err, flush=True)
+            note = str(err)
+        else:
+            ep["lastError"] = "%s: %s" % (type(err).__name__, str(err)[:300])
             ep["renderTries"] = ep.get("renderTries", 0) + 1
             failed.append(ep["id"])
             print("  FAILED %s (try %d): %s" % (ep["id"], ep["renderTries"], ep["lastError"]), flush=True)
             if ep["renderTries"] >= 3:
                 ep["status"] = "held"
                 ep["holdReason"] = "audio failed 3 times: " + ep["lastError"]
-    return failed, None
+    return failed, note
 
 
 def settle(index, now):
