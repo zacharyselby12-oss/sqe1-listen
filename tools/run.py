@@ -221,6 +221,23 @@ def main():
         gh_output(failed="")
         return 0
     audition_out = ROOT / "audition" / "out"
+    if req.get("designOnly") and req.get("id") != done.get("id") and not fake:
+        # make the voices listed in audition/design.json (no speech is made) and remember their ids
+        print("designing voices (no speech is made)", flush=True)
+        spec = load("audition/design.json", {"voices": []})
+        cl = render.client()
+        made = load("audition/designed.json", {}) or {}
+        for v in spec["voices"]:
+            if v["key"] in made:
+                continue
+            made[v["key"]] = {"id": audition.design_voice(cl, v, v.get("name") or ("SQE1 Listen " + v["key"])),
+                              "prompt": v["prompt"]}
+            print("  designed %s -> %s" % (v["key"], made[v["key"]]["id"]), flush=True)
+        save("audition/designed.json", made)
+        audition.dump_library(cl, audition_out, print)
+        save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"), "designOnly": True})
+        gh_output(failed="")
+        return 0
     if req.get("dumpOnly") and req.get("id") != done.get("id") and not fake:
         print("saving the list of voices (no speech is made)", flush=True)
         audition.dump_library(render.client(), audition_out, print)   # asks Google for the voice list only
