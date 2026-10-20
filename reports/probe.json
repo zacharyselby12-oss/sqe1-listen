@@ -1,14 +1,68 @@
 [
  {
-  "variant": "V1 prebuilt Puck, plain text",
-  "audio_seconds": 6.6,
+  "variant": "C1 control: designed woman, plain text",
+  "ok": false,
+  "seconds": 55,
+  "error": "HUNG: no answer from Google after 55 seconds"
+ },
+ {
+  "variant": "L1 style only, no speaker (the case that hung), config without name",
+  "ok": false,
+  "seconds": 55,
+  "error": "HUNG: no answer from Google after 55 seconds"
+ },
+ {
+  "variant": "L2 speaker + style, config without name",
+  "ok": false,
+  "seconds": 55,
+  "error": "HUNG: no answer from Google after 55 seconds"
+ },
+ {
+  "variant": "L3 speaker + style, config with the same name",
+  "ok": false,
+  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
+  "seconds": 0.6
+ },
+ {
+  "variant": "L4 speaker only (no style), config with name",
+  "ok": false,
+  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
+  "seconds": 0.6
+ },
+ {
+  "variant": "L5 speaker + style, config as {speakers:[..]} dict",
+  "ok": false,
+  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
+  "seconds": 0.6
+ },
+ {
+  "variant": "L6 library man, speaker + style, config with name",
+  "ok": false,
+  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
+  "seconds": 0.6
+ },
+ {
+  "variant": "T1 tags <short pause> and <laugh> in the text, plain",
+  "ok": false,
+  "seconds": 55,
+  "error": "HUNG: no answer from Google after 55 seconds"
+ },
+ {
+  "variant": "T2 tags + speaker + style, config with name",
+  "ok": false,
+  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
+  "seconds": 0.6
+ },
+ {
+  "variant": "P1 two prebuilt voices, speaker + style per turn, list config",
+  "audio_seconds": 4.48,
   "ok": true,
   "seconds": 4.2
  },
  {
-  "variant": "V2 designed woman (id), plain text",
-  "audio_seconds": 6.96,
-  "ok": true,
-  "seconds": 4.3
+  "variant": "P2 two prebuilt voices, speaker + style per turn, dict config",
+  "ok": false,
+  "seconds": 55,
+  "error": "HUNG: no answer from Google after 55 seconds"
  }
 ]
