@@ -63,6 +63,7 @@ def base_url(config):
 
 
 def render_queued(index, voices, now, fake):
+    """Render every queued episode. Returns (failed ids, daily-limit message or None)."""
     failed = []
     for ep in index["episodes"]:
         if ep.get("status") != "queued":
@@ -80,6 +81,11 @@ def render_queued(index, voices, now, fake):
             else:
                 ep["status"] = "published"
                 ep["pubDate"] = ep.get("pubDate") or now.isoformat(timespec="seconds")
+        except render.QuotaExhausted as e:
+            # not the episode's fault: it stays queued and is tried again after Google's limit resets
+            ep["lastError"] = "waiting for Google's daily speech limit to reset"
+            print("  STOPPED: %s" % e, flush=True)
+            return failed, str(e)
         except Exception as e:  # noqa: BLE001
             ep["lastError"] = "%s: %s" % (type(e).__name__, str(e)[:300])
             ep["renderTries"] = ep.get("renderTries", 0) + 1
@@ -88,7 +94,7 @@ def render_queued(index, voices, now, fake):
             if ep["renderTries"] >= 3:
                 ep["status"] = "held"
                 ep["holdReason"] = "audio failed 3 times: " + ep["lastError"]
-    return failed
+    return failed, None
 
 
 def settle(index, now):
@@ -141,6 +147,30 @@ def build_site(index, config, site, burl):
     return n
 
 
+PACIFIC = ZoneInfo("America/Los_Angeles")   # Google's daily limits reset at midnight here
+
+
+def pacific_day(now):
+    return now.astimezone(PACIFIC).date().isoformat()
+
+
+def note_requests(now, quota_message=None):
+    """Keep a tally of speech requests per Google day (Pacific time), so a run can see how many are left."""
+    path = ROOT / "reports" / "speech-requests.json"
+    log = load("reports/speech-requests.json", {"days": {}}) or {"days": {}}
+    day = pacific_day(now)
+    if render.REQUESTS["sent"]:
+        log["days"][day] = log["days"].get(day, 0) + render.REQUESTS["sent"]
+    for old_day in sorted(log["days"])[:-14]:   # keep two weeks
+        log["days"].pop(old_day)
+    if quota_message:
+        log["limitHit"] = {"day": day, "at": now.isoformat(timespec="seconds"), "message": quota_message[:600]}
+    elif log.get("limitHit", {}).get("day") != day:
+        log.pop("limitHit", None)               # a new Google day: the limit has reset
+    path.parent.mkdir(parents=True, exist_ok=True)
+    save("reports/speech-requests.json", log)
+
+
 def main():
     fake = "--fake" in sys.argv
     now = datetime.now(timezone.utc)
@@ -174,6 +204,12 @@ def main():
         print("running voice audition", req["id"], flush=True)
         results = audition.run(ROOT, audition_out, fake=fake, only=req.get("only"), dump=bool(req.get("dumpLibrary")),
                                  fresh=bool(req.get("fresh")))
+        quota_msg = next((r.get("quota") for r in results if r.get("quota")), None)
+        if quota_msg:   # do not mark the round as done: it is run again after the limit resets
+            note_requests(now, quota_msg)
+            gh_output(failed="", quota="hit")
+            print("Google's daily speech limit is used up; the audition will be run again later.", flush=True)
+            return 0
         save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"),
                                     "ok": [r["id"] for r in results if r["ok"]],
                                     "failed": [r["id"] for r in results if not r["ok"]]})
@@ -182,8 +218,10 @@ def main():
         if ep.get("status") in ("published", "review") and not (ROOT / ep["audio"]).exists():
             print("audio missing for %s: it will be rendered again" % ep["id"])
             ep["status"] = "queued"
+    quota_msg = None
     if voices and not voices.get("pending"):
-        failed += render_queued(index, voices, now, fake)
+        more, quota_msg = render_queued(index, voices, now, fake)
+        failed += more
     elif any(e.get("status") == "queued" for e in index["episodes"]):
         print("voices not chosen yet: episodes stay queued")
     settle(index, now)
@@ -193,7 +231,11 @@ def main():
     if audition_out.exists():
         shutil.copytree(audition_out, site / "audition")
     print("site built: %d feed items" % n)
-    gh_output(failed=",".join(failed))
+    if not fake:
+        note_requests(now, quota_msg)
+    if quota_msg:
+        print("Google's daily speech limit is used up; the rest waits for the next run after it resets.", flush=True)
+    gh_output(failed=",".join(failed), quota="hit" if quota_msg else "")
     return 1 if failed else 0
 
 

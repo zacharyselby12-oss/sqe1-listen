@@ -51,9 +51,26 @@ def wav_to_pcm(data):
         return w.readframes(w.getnframes())
 
 
-def client():
+def client(base_url=None):
+    """The Google client, with its own silent retrying switched off.
+
+    Left on, the library obeys a "come back in N seconds" answer for as long as Google says. When the daily limit
+    for speech is used up, Google says "come back in hours", so a request just sat there (this is what froze the
+    runs on 20 Oct). With it off, the answer arrives at once and render.py decides what to do.
+    """
     from google import genai
-    return genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    if base_url:  # only used by the tests, to point at a pretend server
+        from google.genai import types
+        cl = genai.Client(api_key=os.environ.get("GEMINI_API_KEY", "test"),
+                          http_options=types.HttpOptions(base_url=base_url))
+    else:
+        cl = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+    try:
+        cfg = cl.interactions.sdk_configuration
+        cfg.retry_config.max_retries = 0
+    except Exception as e:  # noqa: BLE001
+        print("  warning: could not switch off the library's own retrying (%s)" % e, flush=True)
+    return cl
 
 
 TRACE_FILE = Path(__file__).resolve().parent.parent / "reports" / "last-run-trace.txt"
@@ -78,6 +95,14 @@ def save_trace(path):
     path.write_text("\n".join(TRACE) + "\n", encoding="utf-8")
 
 
+class QuotaExhausted(RuntimeError):
+    """Google's daily limit for speech requests is used up. Nothing more can be made until it resets
+    (midnight in California, which is 08:00 in London)."""
+
+
+REQUESTS = {"sent": 0}       # how many speech requests this run has sent to Google (counted even if they fail)
+_COUNT_LOCK = threading.Lock()
+
 ABORT = threading.Event()   # set when one line has failed for good, so the others stop waiting
 LINE_LIMIT = 60             # seconds one single-line request may take before we give up on it
 CHUNK_LIMIT = 240           # seconds one two-voice chunk (about 380 words) may take
@@ -89,6 +114,8 @@ def _create_guarded(cl, kwargs, limit):
     The library's own time limit did not stop a request that hung, so this one is ours: it always ends.
     """
     box = {}
+    with _COUNT_LOCK:
+        REQUESTS["sent"] += 1
 
     def go():
         try:
@@ -146,6 +173,10 @@ def _call(cl, model, content, speech_config, limit=None):
             trace("error after %.1fs try %d: %s | %s" % (time.time() - t_start, i + 1, who, msg[:160].replace("\n", " ")))
             if "stopped: another line" in msg or "no audio came back three" in msg:
                 raise
+            low = msg.lower()
+            if ("429" in msg or "resource_exhausted" in low or "ratelimit" in low) and (
+                    "per_day" in low or "perday" in low or "requests per day" in low):
+                raise QuotaExhausted("Google's daily limit for speech requests is used up: " + msg[:350]) from e
             if "HUNG" in msg:
                 hung += 1
                 if hung >= 2:
@@ -223,7 +254,7 @@ def render_pcm(turns, voices, fake=False, log=print):
 
         log("  %d turns, line by line" % len(turns))
         ABORT.clear()
-        results, failure = {}, None
+        results, failure, quota = {}, None, None
         ex = ThreadPoolExecutor(max_workers=int(os.environ.get("TTS_WORKERS", "3")))
         futs = {ex.submit(one, it): it[0] for it in enumerate(turns, 1)}
         for f in as_completed(futs):
@@ -233,11 +264,15 @@ def render_pcm(turns, voices, fake=False, log=print):
                 idx, pcm = f.result()
                 results[idx] = pcm
             except Exception as e:  # noqa: BLE001
+                if isinstance(e, QuotaExhausted) and quota is None:
+                    quota = e
                 if failure is None:   # the first real failure; later ones are just lines told to stop
                     failure = "line %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
                 ABORT.set()
                 ex.shutdown(wait=False, cancel_futures=True)
         ex.shutdown(wait=True)
+        if quota is not None:
+            raise quota
         if failure:
             raise RuntimeError("could not make the audio. First failure was " + failure)
         for idx in range(1, len(turns) + 1):

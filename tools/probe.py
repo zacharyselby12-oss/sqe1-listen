@@ -36,53 +36,46 @@ def _interactions(cl, content, cfg):
     return {"ok": True, "audio_seconds": round(len(render.wav_to_pcm(raw)) / 2 / render.RATE, 2)}
 
 
+def _full_error(e):
+    out = {"ok": False, "error": "%s: %s" % (type(e).__name__, str(e)[:3000])}
+    resp = getattr(e, "response", None)
+    if resp is not None:
+        try:
+            out["headers"] = {k: v for k, v in dict(resp.headers).items()
+                              if k.lower() in ("retry-after", "retry-after-ms", "x-ratelimit-reset", "date")}
+        except Exception:  # noqa: BLE001
+            pass
+    for attr in ("details", "body", "status", "code"):
+        v = getattr(e, attr, None)
+        if v is not None:
+            out[attr] = str(v)[:1500]
+    return out
+
+
 def l1(cl):
-    n = 0
-    for _m in cl.models.list(config={"page_size": 5}):
-        n += 1
-        if n >= 5:
-            break
-    return {"ok": True, "detail": "listed %d models" % n}
+    try:
+        return _interactions(cl, [{"type": "text", "text": LINE}], [{"voice": "Puck"}])
+    except Exception as e:  # noqa: BLE001
+        return _full_error(e)
 
 
 def l2(cl):
-    res = cl.voices.list(language_code=["en-GB"], page_size=1)
-    return {"ok": True, "detail": "voice list answered, %d voice(s)" % len(res.voices or [])}
-
-
-def l3(cl):
-    r = cl.models.generate_content(model="gemini-3.8-flash", contents="Reply with the single word OK.")
-    return {"ok": True, "detail": "text model said %r" % (str(r.text)[:40],)}
-
-
-def t1(cl):
-    return _interactions(cl, [{"type": "text", "text": LINE}], [{"voice": "Puck"}])
-
-
-def t2(cl):
     from google.genai import types
-    r = cl.models.generate_content(
-        model="gemini-3.8-flash-tts", contents=LINE,
-        config=types.GenerateContentConfig(
-            response_modalities=["AUDIO"],
-            speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
-                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name="Puck")))))
-    part = r.candidates[0].content.parts[0]
-    blob = part.inline_data
-    return {"ok": bool(blob and blob.data), "detail": "older route: %s, %d bytes" % (blob.mime_type, len(blob.data or b""))}
+    try:
+        r = cl.models.generate_content(
+            model="gemini-3.8-flash-tts", contents=LINE,
+            config=types.GenerateContentConfig(
+                response_modalities=["AUDIO"],
+                speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
+                    prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name="Puck")))))
+        blob = r.candidates[0].content.parts[0].inline_data
+        return {"ok": bool(blob and blob.data), "detail": "older route worked: %d bytes" % len(blob.data or b"")}
+    except Exception as e:  # noqa: BLE001
+        return _full_error(e)
 
 
-def t3(cl):
-    return _interactions(cl, [{"type": "text", "text": LINE, "annotations": [
-        {"type": "speech_metadata", "speaker": "Hannah", "style": "thinking aloud"}]}], [{"voice": "Puck"}])
-
-
-LANES = [("L", [("L1 can we list Google's models (key + network)", l1),
-                ("L2 can we list the voice library", l2),
-                ("L3 does the ordinary text model answer", l3)]),
-         ("T", [("T1 speech, plain, built-in voice Puck (worked before)", t1),
-                ("T2 speech, plain, Puck, through Google's older route", t2),
-                ("T3 speech, Puck, speaker + mood label", t3)])]
+LANES = [("Q", [("Q1 speech request, new route (full error text)", l1),
+                ("Q2 speech request, older route (full error text)", l2)])]
 
 
 def _one(cl, fn, box):

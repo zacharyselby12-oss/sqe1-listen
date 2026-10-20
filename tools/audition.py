@@ -143,12 +143,18 @@ def run(root, out_dir, fake=False, log=print, only=None, dump=False, fresh=False
         except Exception as e:  # noqa: BLE001
             log("  library list failed: %s: %s" % (type(e).__name__, str(e)[:200]))
     results = []
+    quota_msg = None
     for cand in cands:
         if only and cand["id"] not in only:
             if cand["id"] in earlier:
                 results.append(earlier[cand["id"]])
             continue
         r = {"id": cand["id"], "label": cand["label"], "ok": False}
+        if quota_msg:   # Google's daily limit is used up: do not even try the rest
+            r["error"] = "not tried: Google's daily limit for speech requests was used up (it resets at 08:00 London)"
+            r["quota"] = quota_msg
+            results.append(r)
+            continue
         try:
             log("candidate %s: %s" % (cand["id"], cand["label"]))
             res = resolve(cand, cl, log)
@@ -158,6 +164,11 @@ def run(root, out_dir, fake=False, log=print, only=None, dump=False, fresh=False
             pcm = render.render_pcm(sample["turns"], voices, fake=fake, log=log)
             render.encode_mp3(pcm, out_dir / ("pair-%s.mp3" % cand["id"]), "Voice audition " + cand["id"])
             r.update(ok=True, note=note, voices=voices, audio="pair-%s.mp3" % cand["id"])
+        except render.QuotaExhausted as e:
+            quota_msg = str(e)
+            r["error"] = "Google's daily limit for speech requests was used up (it resets at 08:00 London)"
+            r["quota"] = quota_msg
+            log("  STOPPED: " + quota_msg)
         except Exception as e:  # noqa: BLE001
             r["error"] = "%s: %s" % (type(e).__name__, str(e)[:300])
             log("  FAILED: " + r["error"])
