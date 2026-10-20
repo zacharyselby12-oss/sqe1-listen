@@ -40,5 +40,19 @@
   },
   "speechPausedUntil": "2026-10-21T07:01:00Z",
   "speechRequestsPerDay": 100,
-  "speechRequestsReserve": 10
+  "speechRequestsReserve": 10,
+  "areaNames": {
+    "BLP": "Business Law and Practice",
+    "DR": "Dispute Resolution",
+    "Contract": "Contract",
+    "Tort": "Tort",
+    "Public1": "Public 1",
+    "Public2": "Public 2",
+    "PP": "Property Practice",
+    "WAE": "Wills and Administration of Estates",
+    "CLP": "Criminal Practice",
+    "Criminal": "Criminal Law",
+    "Land": "Land Law",
+    "Trusts": "Trusts"
+  }
 }

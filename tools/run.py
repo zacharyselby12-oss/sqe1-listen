@@ -163,13 +163,17 @@ def build_site(index, config, site, burl):
             shutil.copy2(ROOT / ep["audio"], site / ep["audio"])
     if (ROOT / "cover.png").exists():
         shutil.copy2(ROOT / "cover.png", site / "cover.png")
-    n = feed.build(index, config, burl, site / "feed.xml")
+    if (ROOT / "covers").exists():
+        shutil.copytree(ROOT / "covers", site / "covers")
+    counts = feed.build_all(index, config, burl, site)
+    n = counts["all"]
     (site / "review").mkdir()
     (site / "review" / "index.html").write_text(review_page(index), encoding="utf-8")
     (site / "index.html").write_text(
         "<!doctype html><html lang=\"en-GB\"><head><meta charset=\"utf-8\"><meta name=\"robots\" "
         "content=\"noindex\"><title>SQE1 Listen</title></head><body><h1>SQE1 Listen</h1>"
-        "<p>Private podcast feed: <a href=\"feed.xml\">feed.xml</a></p></body></html>", encoding="utf-8")
+        "<p>Private podcast. <a href=\"subscribe/\">Add it to Apple Podcasts</a> (everything, or one show per area of law).</p>"
+        "<p><a href=\"review/\">Episodes waiting for review</a> &middot; <a href=\"audition/\">Voice test</a></p></body></html>", encoding="utf-8")
     return n
 
 
