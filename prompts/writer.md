@@ -69,6 +69,8 @@ From the EPISODE SOURCE, the episode must cover:
 - every TRAP, every LOOK-ALIKE, every NUMBER and every "what the exam question turns on" item.
 Non-starred details: include any that is an exception or qualification to a rule the episode mentions; others only
 where they fit naturally. Before you finish, go through the source item by item and tick each one off against the script.
+Covering everything is not the same as giving everything equal time. The exam comes first: spend the most time on
+what the exam question turns on, the traps, the look-alikes and the starred points. Cover the rest briefly, but exactly.
 
 ## Shape: as long as full coverage takes, usually 2,500 to 4,500 words (15 to 30 minutes); never padded
 1. `## Rule`: the overall rule, as if learning it from scratch. A one-line hook (a little scene or a question, not
