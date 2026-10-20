@@ -100,5 +100,49 @@
       }
     },
     "audio": "pair-E.mp3"
+  },
+  {
+    "id": "F",
+    "label": "British library voices (Winchester English), one line at a time: a 31-year-old radio-host man and a 26-year-old friendly woman",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-podcaster-1",
+      "second": "en-gb-commercial-5"
+    },
+    "note": "Will = Podcaster 1, radio host, intimate talk-show voice; Hannah = Commercial Voiceover 5, clear and friendly",
+    "voices": {
+      "mode": "line",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-podcaster-1"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-commercial-5"
+      }
+    },
+    "audio": "pair-F.mp3"
+  },
+  {
+    "id": "G",
+    "label": "British library voices (Winchester English), one line at a time: a 24-year-old clear, direct man and a 30-year-old approachable woman",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-training-3",
+      "second": "en-gb-advisor-1"
+    },
+    "note": "Will = Training Voiceover 3, objective, direct and helpful; Hannah = Authoritative Advisor 1, professional yet approachable",
+    "voices": {
+      "mode": "line",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-training-3"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-advisor-1"
+      }
+    },
+    "audio": "pair-G.mp3"
   }
 ]
