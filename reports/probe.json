@@ -1,68 +1,114 @@
 [
  {
-  "variant": "C1 control: designed woman, plain text",
+  "variant": "A1 built-in voice, plain (control)",
   "ok": false,
-  "seconds": 55,
-  "error": "HUNG: no answer from Google after 55 seconds"
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 0.5
  },
  {
-  "variant": "L1 style only, no speaker (the case that hung), config without name",
+  "variant": "B1 British library man, plain (control)",
   "ok": false,
-  "seconds": 55,
-  "error": "HUNG: no answer from Google after 55 seconds"
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 0.5
  },
  {
-  "variant": "L2 speaker + style, config without name",
+  "variant": "A2 built-in voice, mood only (no speaker)",
   "ok": false,
-  "seconds": 55,
-  "error": "HUNG: no answer from Google after 55 seconds"
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 40.5
  },
  {
-  "variant": "L3 speaker + style, config with the same name",
+  "variant": "B2 designed woman, plain (control)",
   "ok": false,
-  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
-  "seconds": 0.6
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 40.5
  },
  {
-  "variant": "L4 speaker only (no style), config with name",
+  "variant": "A3 built-in voice, speaker + mood",
   "ok": false,
-  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
-  "seconds": 0.6
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 80.5
  },
  {
-  "variant": "L5 speaker + style, config as {speakers:[..]} dict",
+  "variant": "B3 British library man, mood only (no speaker)",
   "ok": false,
-  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
-  "seconds": 0.6
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 80.5
  },
  {
-  "variant": "L6 library man, speaker + style, config with name",
+  "variant": "A4 built-in voice, <short pause> and <laugh> tags, plain",
   "ok": false,
-  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
-  "seconds": 0.6
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 120.5
  },
  {
-  "variant": "T1 tags <short pause> and <laugh> in the text, plain",
+  "variant": "B4 British library man, speaker + mood",
   "ok": false,
-  "seconds": 55,
-  "error": "HUNG: no answer from Google after 55 seconds"
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 120.6
  },
  {
-  "variant": "T2 tags + speaker + style, config with name",
+  "variant": "A5 two built-in voices, speaker + mood, list config",
   "ok": false,
-  "error": "BadRequestError: Error code: 400 - {'error': {'message': '* GenerateContentRequest.generation_config.speech_config.multi_speaker_voice_config.speaker_voice_configs: the number of speaker_voice_configs must equal 2.\\n', 'code': 'invalid_request'}}",
-  "seconds": 0.6
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 160.5
  },
  {
-  "variant": "P1 two prebuilt voices, speaker + style per turn, list config",
-  "audio_seconds": 4.48,
-  "ok": true,
-  "seconds": 4.2
+  "variant": "B5 British library man, tags, plain",
+  "ok": false,
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 160.6
  },
  {
-  "variant": "P2 two prebuilt voices, speaker + style per turn, dict config",
+  "variant": "A6 two built-in voices, speaker + mood, dict config",
   "ok": false,
-  "seconds": 55,
-  "error": "HUNG: no answer from Google after 55 seconds"
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 200.6
+ },
+ {
+  "variant": "B6 designed woman, mood only (no speaker)",
+  "ok": false,
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 200.6
+ },
+ {
+  "variant": "A7 two built-in voices, speaker only, dict config (round-1 shape)",
+  "ok": false,
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "A",
+  "started": 240.6
+ },
+ {
+  "variant": "B7 designed woman, speaker + mood",
+  "ok": false,
+  "seconds": 40,
+  "error": "HUNG: no answer from Google after 40 seconds",
+  "lane": "B",
+  "started": 240.6
  }
 ]
