@@ -162,6 +162,13 @@ def main():
 
     req = load("audition/request.json", {}) or {}
     done = load("audition/done.json", {}) or {}
+    if req.get("probe") and req.get("id") != done.get("id") and not fake:
+        import probe  # a quick test of what Google accepts, written to reports/probe.json
+        print("running the quick probe", flush=True)
+        probe.run(ROOT / "reports" / "probe.json")
+        save("audition/done.json", {"id": req["id"], "at": now.isoformat(timespec="seconds"), "probe": True})
+        gh_output(failed="")
+        return 0
     audition_out = ROOT / "audition" / "out"
     if req.get("id") and req.get("id") != done.get("id"):
         print("running voice audition", req["id"], flush=True)

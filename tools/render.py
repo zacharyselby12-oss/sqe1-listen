@@ -55,6 +55,7 @@ def client():
     return genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 
+TRACE_FILE = Path(__file__).resolve().parent.parent / "reports" / "last-run-trace.txt"
 TRACE = []  # (seconds since start, text) for every API attempt; saved by run.py so slow runs can be understood
 _T0 = time.time()
 
@@ -63,6 +64,11 @@ def trace(msg):
     line = "%7.1fs %s" % (time.time() - _T0, msg)
     TRACE.append(line)
     print("  [trace] " + line, flush=True)
+    try:
+        with open(TRACE_FILE, "a", encoding="utf-8") as f:
+            f.write(line + "\n")
+    except OSError:
+        pass
 
 
 def save_trace(path):
