@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-"""Quick check of what Google's speech service accepts.
+"""Quick check of what Google's service is doing right now.
 
-Two lanes run side by side. Inside a lane the requests go one after another, each with a hard time limit,
-so one stuck request cannot hide the others. Lane A uses two of Google's own built-in voices. Lane B uses
-a British library voice and the woman we designed. The same shapes are tried in both lanes, so the results show
-whether a hang comes from the voice type, from the mood label, from the tags or from sending many at once.
+Lane L (no speech made): can we reach Google and use the key at all?
+Lane T (speech): the known-good plain request, the same request through Google's older route, then the mood label.
+Each request has a hard time limit and runs in its own helper thread, so a stuck request cannot hide the others.
 
 Writes reports/probe.json after every request.
 Run by tools/run.py when audition/request.json has "probe": true.
@@ -19,101 +18,93 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 import render  # noqa: E402
 
-HANNAH = "voice_7hvws5hbx3yt"   # designed woman from audition pair D
-LIBRARY_MAN = "en-gb-advisor-10"
 LINE = "Hang on, that's bonkers. So the contract exists while the letter's just sat in a sorting office."
-TAGGED = "<short pause> Sat in Swindon. Yes. And the law basically shrugs and says, well, you did everything you could. <laugh>"
-LIMIT = 40
+LIMIT = 30
 _LOCK = threading.Lock()
+_T0 = time.time()
 
 
-def ann(speaker=None, style=None):
-    a = {"type": "speech_metadata"}
-    if speaker:
-        a["speaker"] = speaker
-    if style:
-        a["style"] = style
-    return a
+def _interactions(cl, content, cfg):
+    it = cl.interactions.create(model="gemini-3.8-flash-tts", input=[{"type": "user_input", "content": content}],
+                                response_format={"type": "audio"}, generation_config={"speech_config": cfg},
+                                timeout=LIMIT)
+    audio = getattr(it, "output_audio", None)
+    data = getattr(audio, "data", None) if audio is not None else None
+    if not data:
+        return {"ok": False, "error": "no audio; text=%r" % (str(getattr(it, "output_text", ""))[:200],)}
+    raw = base64.b64decode(data) if isinstance(data, str) else data
+    return {"ok": True, "audio_seconds": round(len(render.wav_to_pcm(raw)) / 2 / render.RATE, 2)}
 
 
-def text(t, *anns):
-    item = {"type": "text", "text": t}
-    if anns:
-        item["annotations"] = list(anns)
-    return item
+def l1(cl):
+    n = 0
+    for _m in cl.models.list(config={"page_size": 5}):
+        n += 1
+        if n >= 5:
+            break
+    return {"ok": True, "detail": "listed %d models" % n}
 
 
-def lane_a():
-    one = [{"voice": "Puck"}]
-    pair_turns = [text("Right. Quick one before we start.", ann("Will", "warm, dry")),
-                  text("Oh no. Is this a trick one?", ann("Hannah", "wary"))]
-    pair_turns_plain = [text("Right. Quick one before we start.", ann("Will")),
-                        text("Oh no. Is this a trick one?", ann("Hannah"))]
-    two_list = [{"speaker": "Will", "voice": "Puck"}, {"speaker": "Hannah", "voice": "Kore"}]
-    two_dict = {"speakers": [{"speaker": "Will", "voice": "Puck"}, {"speaker": "Hannah", "voice": "Kore"}]}
-    return [
-        ("A1 built-in voice, plain (control)", [text(LINE)], one),
-        ("A2 built-in voice, mood only (no speaker)", [text(LINE, ann(None, "thinking aloud"))], one),
-        ("A3 built-in voice, speaker + mood", [text(LINE, ann("Hannah", "thinking aloud"))], one),
-        ("A4 built-in voice, <short pause> and <laugh> tags, plain", [text(TAGGED)], one),
-        ("A5 two built-in voices, speaker + mood, list config", pair_turns, two_list),
-        ("A6 two built-in voices, speaker + mood, dict config", pair_turns, two_dict),
-        ("A7 two built-in voices, speaker only, dict config (round-1 shape)", pair_turns_plain, two_dict),
-    ]
+def l2(cl):
+    res = cl.voices.list(language_code=["en-GB"], page_size=1)
+    return {"ok": True, "detail": "voice list answered, %d voice(s)" % len(res.voices or [])}
 
 
-def lane_b():
-    lib = [{"voice": LIBRARY_MAN}]
-    des = [{"voice": HANNAH}]
-    return [
-        ("B1 British library man, plain (control)", [text(LINE)], lib),
-        ("B2 designed woman, plain (control)", [text(LINE)], des),
-        ("B3 British library man, mood only (no speaker)", [text(LINE, ann(None, "dry, amused"))], lib),
-        ("B4 British library man, speaker + mood", [text(LINE, ann("Will", "dry, amused"))], lib),
-        ("B5 British library man, tags, plain", [text(TAGGED)], lib),
-        ("B6 designed woman, mood only (no speaker)", [text(LINE, ann(None, "thinking aloud"))], des),
-        ("B7 designed woman, speaker + mood", [text(LINE, ann("Hannah", "thinking aloud"))], des),
-    ]
+def l3(cl):
+    r = cl.models.generate_content(model="gemini-3.8-flash", contents="Reply with the single word OK.")
+    return {"ok": True, "detail": "text model said %r" % (str(r.text)[:40],)}
 
 
-def _one(cl, name, content, cfg, box):
+def t1(cl):
+    return _interactions(cl, [{"type": "text", "text": LINE}], [{"voice": "Puck"}])
+
+
+def t2(cl):
+    from google.genai import types
+    r = cl.models.generate_content(
+        model="gemini-3.8-flash-tts", contents=LINE,
+        config=types.GenerateContentConfig(
+            response_modalities=["AUDIO"],
+            speech_config=types.SpeechConfig(voice_config=types.VoiceConfig(
+                prebuilt_voice_config=types.PrebuiltVoiceConfig(voice_name="Puck")))))
+    part = r.candidates[0].content.parts[0]
+    blob = part.inline_data
+    return {"ok": bool(blob and blob.data), "detail": "older route: %s, %d bytes" % (blob.mime_type, len(blob.data or b""))}
+
+
+def t3(cl):
+    return _interactions(cl, [{"type": "text", "text": LINE, "annotations": [
+        {"type": "speech_metadata", "speaker": "Hannah", "style": "thinking aloud"}]}], [{"voice": "Puck"}])
+
+
+LANES = [("L", [("L1 can we list Google's models (key + network)", l1),
+                ("L2 can we list the voice library", l2),
+                ("L3 does the ordinary text model answer", l3)]),
+         ("T", [("T1 speech, plain, built-in voice Puck (worked before)", t1),
+                ("T2 speech, plain, Puck, through Google's older route", t2),
+                ("T3 speech, Puck, speaker + mood label", t3)])]
+
+
+def _one(cl, fn, box):
     t0 = time.time()
-    r = {"variant": name}
     try:
-        it = cl.interactions.create(model="gemini-3.8-flash-tts",
-                                    input=[{"type": "user_input", "content": content}],
-                                    response_format={"type": "audio"},
-                                    generation_config={"speech_config": cfg}, timeout=LIMIT)
-        audio = getattr(it, "output_audio", None)
-        data = getattr(audio, "data", None) if audio is not None else None
-        if data:
-            raw = base64.b64decode(data) if isinstance(data, str) else data
-            r["audio_seconds"] = round(len(render.wav_to_pcm(raw)) / 2 / render.RATE, 2)
-            r["ok"] = True
-        else:
-            r["ok"] = False
-            r["error"] = "no audio; text=%r" % (str(getattr(it, "output_text", ""))[:200],)
+        r = fn(cl)
     except Exception as e:  # noqa: BLE001
-        r["ok"] = False
-        r["error"] = "%s: %s" % (type(e).__name__, str(e)[:400])
+        r = {"ok": False, "error": "%s: %s" % (type(e).__name__, str(e)[:400])}
     r["seconds"] = round(time.time() - t0, 1)
     box.append(r)
 
 
-def _lane(cl, label, variants, results, out_path, log):
-    for name, content, cfg in variants:
+def _lane(cl, label, items, results, out_path, log):
+    for name, fn in items:
         box = []
-        th = threading.Thread(target=_one, args=(cl, name, content, cfg, box), daemon=True)
+        th = threading.Thread(target=_one, args=(cl, fn, box), daemon=True)
         t0 = time.time()
         th.start()
         th.join(LIMIT)
-        if box:
-            r = box[0]
-        else:
-            r = {"variant": name, "ok": False, "seconds": LIMIT,
-                 "error": "HUNG: no answer from Google after %d seconds" % LIMIT}
-        r["lane"] = label
-        r["started"] = round(t0 - _T0, 1)
+        r = box[0] if box else {"ok": False, "seconds": LIMIT,
+                                "error": "HUNG: no answer from Google after %d seconds" % LIMIT}
+        r.update(variant=name, lane=label, started=round(t0 - _T0, 1))
         with _LOCK:
             results.append(r)
             log("%s -> %s" % (name, {k: v for k, v in r.items() if k != "variant"}))
@@ -122,20 +113,17 @@ def _lane(cl, label, variants, results, out_path, log):
             sys.stdout.flush()
 
 
-_T0 = time.time()
-
-
 def run(out_path, log=print):
     global _T0
     _T0 = time.time()
     cl = render.client()
     results = []
-    lanes = [threading.Thread(target=_lane, args=(cl, "A", lane_a(), results, out_path, log), daemon=True),
-             threading.Thread(target=_lane, args=(cl, "B", lane_b(), results, out_path, log), daemon=True)]
+    lanes = [threading.Thread(target=_lane, args=(cl, label, items, results, out_path, log), daemon=True)
+             for label, items in LANES]
     for th in lanes:
         th.start()
     for th in lanes:
-        th.join(7 * LIMIT + 30)
+        th.join(3 * LIMIT + 20)
     return results
 
 
