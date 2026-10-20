@@ -16,9 +16,10 @@ import os
 import struct
 import subprocess
 import sys
+import threading
 import time
 import wave
-from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).parent))
@@ -67,7 +68,7 @@ def trace(msg):
     try:
         with open(TRACE_FILE, "a", encoding="utf-8") as f:
             f.write(line + "\n")
-    except OSError:
+    except Exception:  # noqa: BLE001  (a log problem must never stop the work)
         pass
 
 
@@ -77,57 +78,99 @@ def save_trace(path):
     path.write_text("\n".join(TRACE) + "\n", encoding="utf-8")
 
 
-def _call(cl, model, content, speech_config, tries=7):
-    delay, no_audio = 8, 0
+ABORT = threading.Event()   # set when one line has failed for good, so the others stop waiting
+LINE_LIMIT = 60             # seconds one single-line request may take before we give up on it
+CHUNK_LIMIT = 240           # seconds one two-voice chunk (about 380 words) may take
+
+
+def _create_guarded(cl, kwargs, limit):
+    """Call Google in a helper thread and stop waiting after `limit` seconds.
+
+    The library's own time limit did not stop a request that hung, so this one is ours: it always ends.
+    """
+    box = {}
+
+    def go():
+        try:
+            box["it"] = cl.interactions.create(**kwargs)
+        except BaseException as e:  # noqa: BLE001
+            box["err"] = e
+
+    th = threading.Thread(target=go, daemon=True)
+    th.start()
+    end = time.time() + limit
+    while th.is_alive():
+        th.join(0.5)
+        if ABORT.is_set():
+            raise RuntimeError("stopped: another line already failed")
+        if time.time() > end:
+            raise TimeoutError("HUNG: no answer from Google after %d seconds" % limit)
+    if "err" in box:
+        raise box["err"]
+    return box["it"]
+
+
+def _call(cl, model, content, speech_config, limit=None):
+    """One request, with sensible retries: busy/overloaded answers are retried with a pause,
+    a request that hangs is tried once more, anything else (a rejected request) stops at once."""
+    limit = limit or LINE_LIMIT
+    delay, no_audio, hung = 5, 0, 0
     who = (content[0].get("text") or "")[:28].replace("\n", " ")
-    for i in range(tries):
+    for i in range(6):
+        if ABORT.is_set():
+            raise RuntimeError("stopped: another line already failed")
         t_start = time.time()
         try:
-            it = cl.interactions.create(
+            it = _create_guarded(cl, dict(
                 model=model,
                 input=[{"type": "user_input", "content": content}],
                 response_format={"type": "audio"},
                 generation_config={"speech_config": speech_config},
-                timeout=300,
-            )
+                timeout=limit,
+            ), limit)
             audio = getattr(it, "output_audio", None)
             if audio is None or not getattr(audio, "data", None):
                 no_audio += 1
+                trace("no audio try %d: %s" % (i + 1, who))
                 if no_audio >= 3:
                     raise RuntimeError("no audio came back three times (%s)"
                                        % (str(getattr(it, "output_text", "") or "")[:120] or "no text either"))
-                print("  no audio came back, trying again", flush=True)
-                time.sleep(4)
+                time.sleep(3)
                 continue
             data = audio.data
             raw = base64.b64decode(data) if isinstance(data, str) else data
             trace("ok %.1fs try %d: %s" % (time.time() - t_start, i + 1, who))
             return wav_to_pcm(raw)
         except Exception as e:  # noqa: BLE001
-            msg = str(e)
-            trace("error after %.1fs try %d: %s | %s" % (time.time() - t_start, i + 1, who, msg[:140].replace("\n", " ")))
-            transient = any(x in msg for x in ("429", "500", "502", "503", "504", "RESOURCE_EXHAUSTED",
-                                               "UNAVAILABLE", "timed out", "Timeout", "ConnectError"))
-            if i == tries - 1 or not transient:
+            msg = "%s: %s" % (type(e).__name__, str(e))
+            trace("error after %.1fs try %d: %s | %s" % (time.time() - t_start, i + 1, who, msg[:160].replace("\n", " ")))
+            if "stopped: another line" in msg or "no audio came back three" in msg:
                 raise
-            print("  retry in %ds (%s)" % (delay, msg[:90]), flush=True)
+            if "HUNG" in msg:
+                hung += 1
+                if hung >= 2:
+                    raise
+                continue
+            busy = any(x in msg for x in ("429", "500", "502", "503", "504", "RESOURCE_EXHAUSTED", "UNAVAILABLE",
+                                          "ConnectError", "ConnectionReset", "RemoteProtocolError"))
+            if not busy or i == 5:
+                raise
             time.sleep(delay)
-            delay = min(delay * 2, 90)
-    raise RuntimeError("no audio after %d tries" % tries)
+            delay = min(delay * 2, 40)
+    raise RuntimeError("no audio after several tries")
 
 
-def _checked(cl, model, content, speech_config, n_words, label):
+def _checked(cl, model, content, speech_config, n_words, label, limit=None):
     """Call the API and make sure the audio length is plausible for the words sent."""
     expect = max(1.0, n_words / WORDS_PER_SEC)
     last = None
     for attempt in range(3):
-        pcm = _call(cl, model, content, speech_config)
+        pcm = _call(cl, model, content, speech_config, limit)
         dur = len(pcm) / 2 / RATE
         last = dur
         if 0.6 * expect <= dur <= 2.2 * expect:
             return pcm
-        print("  %s: odd length %.1fs for %d words (expected about %.1fs), retrying" % (label, dur, n_words, expect),
-              flush=True)
+        trace("odd length %.1fs for %d words (expected about %.1fs): %s" % (dur, n_words, expect, label))
     raise RuntimeError("%s: audio length %.1fs never matched %d words" % (label, last or 0, n_words))
 
 
@@ -165,7 +208,7 @@ def render_pcm(turns, voices, fake=False, log=print):
         for i, g in enumerate(groups, 1):
             n = sum(words(t["text"]) for t in g)
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
-            pcm = fake_pcm(n) if fake else _checked(cl, model, _pair_content(g), cfg, n, "chunk %d" % i)
+            pcm = fake_pcm(n) if fake else _checked(cl, model, _pair_content(g), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
             parts += [pcm, silence(GAP_CHUNK)]
     else:
         cl = None if fake else client()
@@ -179,8 +222,24 @@ def render_pcm(turns, voices, fake=False, log=print):
             return idx, _checked(cl, model, _line_content(t), cfg, n, "turn %d" % idx)
 
         log("  %d turns, line by line" % len(turns))
-        with ThreadPoolExecutor(max_workers=int(os.environ.get("TTS_WORKERS", "3"))) as ex:
-            results = dict(ex.map(one, list(enumerate(turns, 1))))
+        ABORT.clear()
+        results, failure = {}, None
+        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("TTS_WORKERS", "3")))
+        futs = {ex.submit(one, it): it[0] for it in enumerate(turns, 1)}
+        for f in as_completed(futs):
+            if f.cancelled():
+                continue
+            try:
+                idx, pcm = f.result()
+                results[idx] = pcm
+            except Exception as e:  # noqa: BLE001
+                if failure is None:   # the first real failure; later ones are just lines told to stop
+                    failure = "line %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
+                ABORT.set()
+                ex.shutdown(wait=False, cancel_futures=True)
+        ex.shutdown(wait=True)
+        if failure:
+            raise RuntimeError("could not make the audio. First failure was " + failure)
         for idx in range(1, len(turns) + 1):
             parts += [results[idx], silence(GAP_TURN)]
     return b"".join(parts)

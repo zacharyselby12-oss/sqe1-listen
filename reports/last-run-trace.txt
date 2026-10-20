@@ -1,0 +1,194 @@
+    1.6s ok 1.1s try 1: Right. Hannah. Quick one bef
+    1.8s ok 0.1s try 1: Right. Hannah. Quick one bef
+    1.8s ok 0.2s try 1: Oh no. Is this a trick one?
+    1.9s ok 0.2s try 1: A little bit. You post a let
+    1.9s ok 0.1s try 1: No! Surely not. I never even
+    4.7s ok 0.7s try 1: Right. Hannah. Quick one bef
+    7.1s ok 0.8s try 1: Right. Hannah. Quick one bef
+    9.2s ok 0.1s try 1: Oh no. Is this a trick one?
+    9.1s ok 0.1s try 1: Right. Hannah. Quick one bef
+    9.2s ok 0.1s try 1: A little bit. You post a let
+    9.3s ok 0.1s try 1: <short pause> Yes. There is.
+    9.3s ok 0.1s try 1: No! Surely not. I never even
+    9.3s ok 0.1s try 1: Get out.
+    9.5s ok 0.2s try 1: Sat in Swindon. Yes. And the
+    9.5s ok 0.2s try 1: No, honestly! It's the posta
+    9.5s ok 0.2s try 1: Hang on, that's bonkers. So 
+    9.7s ok 0.1s try 1: Okay. And the normal rule is
+    9.7s ok 0.1s try 1: The normal rule is that acce
+    9.7s ok 0.2s try 1: So I can't accept by thinkin
+    9.8s ok 0.2s try 1: Oh, that's fair. So it's onl
+    9.9s ok 0.2s try 1: Sadly not. But you can switc
+    9.9s ok 0.2s try 1: Only the default, yes. And h
+   10.0s ok 0.1s try 1: <short pause> Exactly that.
+   10.0s ok 0.1s try 1: So posting helps the person 
+   12.0s ok 0.1s try 1: Right. Hannah. Quick one bef
+   12.1s ok 0.1s try 1: Oh no. Is this a trick one?
+   12.2s ok 0.1s try 1: No! Surely not. I never even
+   12.2s ok 0.1s try 1: <short pause> Yes. There is.
+   12.2s ok 0.2s try 1: A little bit. You post a let
+   12.3s ok 0.1s try 1: Get out.
+   12.4s ok 0.2s try 1: No, honestly! It's the posta
+   12.4s ok 0.2s try 1: Hang on, that's bonkers. So 
+   12.5s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   12.5s ok 0.1s try 1: Okay. And the normal rule is
+   12.6s ok 0.2s try 1: So I can't accept by thinkin
+   12.7s ok 0.2s try 1: The normal rule is that acce
+   12.7s ok 0.1s try 1: Oh, that's fair. So it's onl
+   12.8s ok 0.3s try 1: Sadly not. But you can switc
+   12.9s ok 0.1s try 1: So posting helps the person 
+   12.9s ok 0.1s try 1: <short pause> Exactly that.
+   12.9s ok 0.2s try 1: Only the default, yes. And h
+   14.9s ok 0.1s try 1: Right. Hannah. Quick one bef
+   14.9s ok 0.1s try 1: Oh no. Is this a trick one?
+   15.0s ok 0.1s try 1: No! Surely not. I never even
+   15.0s ok 0.2s try 1: A little bit. You post a let
+   15.0s ok 0.1s try 1: <short pause> Yes. There is.
+   15.1s ok 0.1s try 1: Get out.
+   15.3s ok 0.3s try 1: No, honestly! It's the posta
+   15.3s ok 0.3s try 1: Hang on, that's bonkers. So 
+   15.3s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   15.4s ok 0.1s try 1: Okay. And the normal rule is
+   15.6s ok 0.2s try 1: So I can't accept by thinkin
+   15.6s ok 0.3s try 1: The normal rule is that acce
+   15.7s ok 0.3s try 1: Sadly not. But you can switc
+   15.8s ok 0.2s try 1: Oh, that's fair. So it's onl
+   15.8s ok 0.2s try 1: Only the default, yes. And h
+   15.9s ok 0.1s try 1: <short pause> Exactly that.
+   15.9s ok 0.1s try 1: So posting helps the person 
+   18.1s ok 0.1s try 1: Right. Hannah. Quick one bef
+   18.1s ok 0.1s try 1: Oh no. Is this a trick one?
+   18.2s ok 0.2s try 1: A little bit. You post a let
+   18.2s ok 0.1s try 1: No! Surely not. I never even
+   18.2s ok 0.1s try 1: <short pause> Yes. There is.
+   18.3s ok 0.1s try 1: Get out.
+   18.5s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   18.5s ok 0.2s try 1: Hang on, that's bonkers. So 
+   18.6s ok 0.4s try 1: No, honestly! It's the posta
+   18.5s ok 0.1s try 1: Okay. And the normal rule is
+   18.7s ok 0.1s try 1: So I can't accept by thinkin
+   18.7s ok 0.2s try 1: The normal rule is that acce
+   18.8s ok 0.2s try 1: Sadly not. But you can switc
+   18.9s ok 0.2s try 1: Oh, that's fair. So it's onl
+   19.0s ok 0.2s try 1: So posting helps the person 
+   19.0s ok 0.3s try 1: Only the default, yes. And h
+   19.0s ok 0.0s try 1: <short pause> Exactly that.
+   21.0s ok 0.1s try 1: Oh no. Is this a trick one?
+   21.0s ok 0.2s try 1: A little bit. You post a let
+   21.0s ok 0.2s try 1: Right. Hannah. Quick one bef
+   21.1s ok 0.1s try 1: Get out.
+   21.1s ok 0.1s try 1: No! Surely not. I never even
+   21.1s ok 0.1s try 1: <short pause> Yes. There is.
+   21.3s ok 0.2s try 1: Hang on, that's bonkers. So 
+   21.3s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   21.3s ok 0.3s try 1: No, honestly! It's the posta
+   21.4s ok 0.1s try 1: Okay. And the normal rule is
+   21.5s ok 0.1s try 1: So I can't accept by thinkin
+   21.5s ok 0.1s try 1: Sadly not. But you can switc
+   21.5s ok 0.2s try 1: The normal rule is that acce
+   21.7s ok 0.2s try 1: So posting helps the person 
+   21.7s ok 0.2s try 1: Only the default, yes. And h
+   21.7s ok 0.2s try 1: Oh, that's fair. So it's onl
+   21.7s ok 0.0s try 1: <short pause> Exactly that.
+   23.6s ok 0.1s try 1: Right. Hannah. Quick one bef
+   23.7s ok 0.1s try 1: Oh no. Is this a trick one?
+   23.7s ok 0.2s try 1: A little bit. You post a let
+   23.7s ok 0.1s try 1: <short pause> Yes. There is.
+   23.7s ok 0.1s try 1: No! Surely not. I never even
+   23.8s ok 0.1s try 1: Get out.
+   24.0s ok 0.2s try 1: Hang on, that's bonkers. So 
+   24.0s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   24.1s ok 0.3s try 1: No, honestly! It's the posta
+   24.1s ok 0.1s try 1: Okay. And the normal rule is
+   24.2s ok 0.2s try 1: So I can't accept by thinkin
+   24.2s ok 0.2s try 1: The normal rule is that acce
+   24.3s ok 0.2s try 1: Sadly not. But you can switc
+   24.4s ok 0.2s try 1: Oh, that's fair. So it's onl
+   24.5s ok 0.2s try 1: Only the default, yes. And h
+   24.5s ok 0.2s try 1: So posting helps the person 
+   24.5s ok 0.0s try 1: <short pause> Exactly that.
+   26.5s ok 0.1s try 1: Right. Hannah. Quick one bef
+   26.5s ok 0.1s try 1: Oh no. Is this a trick one?
+   26.6s ok 0.1s try 1: No! Surely not. I never even
+   26.6s ok 0.0s try 1: <short pause> Yes. There is.
+   26.6s ok 0.2s try 1: A little bit. You post a let
+   26.7s ok 0.1s try 1: Get out.
+   26.9s ok 0.2s try 1: Hang on, that's bonkers. So 
+   26.9s ok 0.3s try 1: No, honestly! It's the posta
+   26.9s ok 0.1s try 1: Sat in Swindon. Yes. And the
+   27.0s ok 0.1s try 1: Okay. And the normal rule is
+   27.1s ok 0.1s try 1: So I can't accept by thinkin
+   27.1s ok 0.2s try 1: The normal rule is that acce
+   27.1s ok 0.0s try 1: Oh, that's fair. So it's onl
+   27.2s ok 0.2s try 1: Sadly not. But you can switc
+   27.4s ok 0.1s try 1: <short pause> Exactly that.
+   27.4s ok 0.2s try 1: Only the default, yes. And h
+   27.4s ok 0.2s try 1: So posting helps the person 
+   29.5s ok 0.1s try 1: Right. Hannah. Quick one bef
+   29.5s ok 0.1s try 1: Oh no. Is this a trick one?
+   29.6s ok 0.1s try 1: No! Surely not. I never even
+   29.6s ok 0.1s try 1: <short pause> Yes. There is.
+   29.6s ok 0.2s try 1: A little bit. You post a let
+   29.7s ok 0.1s try 1: Get out.
+   29.9s ok 0.3s try 1: Hang on, that's bonkers. So 
+   29.9s ok 0.3s try 1: No, honestly! It's the posta
+   30.0s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   30.0s ok 0.1s try 1: Okay. And the normal rule is
+   30.2s ok 0.2s try 1: So I can't accept by thinkin
+   30.3s ok 0.3s try 1: The normal rule is that acce
+   30.3s ok 0.2s try 1: Sadly not. But you can switc
+   30.4s ok 0.2s try 1: Oh, that's fair. So it's onl
+   30.5s ok 0.1s try 1: <short pause> Exactly that.
+   30.5s ok 0.2s try 1: Only the default, yes. And h
+   30.5s ok 0.2s try 1: So posting helps the person 
+   32.5s ok 0.1s try 1: Oh no. Is this a trick one?
+   32.5s ok 0.1s try 1: Right. Hannah. Quick one bef
+   32.5s ok 0.2s try 1: A little bit. You post a let
+   32.6s ok 0.1s try 1: No! Surely not. I never even
+   32.6s ok 0.1s try 1: <short pause> Yes. There is.
+   32.6s ok 0.1s try 1: Get out.
+   32.8s ok 0.2s try 1: Hang on, that's bonkers. So 
+   32.8s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   32.8s ok 0.2s try 1: No, honestly! It's the posta
+   32.9s ok 0.1s try 1: Okay. And the normal rule is
+   33.0s ok 0.2s try 1: The normal rule is that acce
+   33.0s ok 0.1s try 1: So I can't accept by thinkin
+   33.1s ok 0.2s try 1: Sadly not. But you can switc
+   33.1s ok 0.1s try 1: Oh, that's fair. So it's onl
+   33.2s ok 0.1s try 1: <short pause> Exactly that.
+   33.2s ok 0.1s try 1: So posting helps the person 
+   33.3s ok 0.2s try 1: Only the default, yes. And h
+   35.3s ok 0.1s try 1: Right. Hannah. Quick one bef
+   35.3s ok 0.1s try 1: Oh no. Is this a trick one?
+   35.3s ok 0.2s try 1: A little bit. You post a let
+   35.3s ok 0.1s try 1: <short pause> Yes. There is.
+   35.4s ok 0.2s try 1: No! Surely not. I never even
+   35.4s ok 0.1s try 1: Get out.
+   35.6s ok 0.2s try 1: Hang on, that's bonkers. So 
+   35.6s ok 0.3s try 1: No, honestly! It's the posta
+   35.6s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   35.8s ok 0.1s try 1: So I can't accept by thinkin
+   35.8s ok 0.2s try 1: Okay. And the normal rule is
+   35.8s ok 0.1s try 1: The normal rule is that acce
+   36.0s ok 0.2s try 1: Oh, that's fair. So it's onl
+   36.0s ok 0.2s try 1: Sadly not. But you can switc
+   36.1s ok 0.1s try 1: <short pause> Exactly that.
+   36.1s ok 0.1s try 1: So posting helps the person 
+   36.1s ok 0.3s try 1: Only the default, yes. And h
+   38.2s ok 0.1s try 1: Oh no. Is this a trick one?
+   38.2s ok 0.1s try 1: Right. Hannah. Quick one bef
+   38.3s ok 0.1s try 1: No! Surely not. I never even
+   38.3s ok 0.2s try 1: A little bit. You post a let
+   38.3s ok 0.1s try 1: <short pause> Yes. There is.
+   38.3s ok 0.1s try 1: Get out.
+   38.5s ok 0.2s try 1: Hang on, that's bonkers. So 
+   38.5s ok 0.2s try 1: Sat in Swindon. Yes. And the
+   38.5s ok 0.2s try 1: No, honestly! It's the posta
+   38.7s ok 0.1s try 1: So I can't accept by thinkin
+   38.7s ok 0.2s try 1: Okay. And the normal rule is
+   38.7s ok 0.2s try 1: The normal rule is that acce
+   38.8s ok 0.1s try 1: Oh, that's fair. So it's onl
+   38.8s ok 0.2s try 1: Sadly not. But you can switc
+   39.0s ok 0.1s try 1: <short pause> Exactly that.
+   39.0s ok 0.2s try 1: Only the default, yes. And h
+   39.0s ok 0.1s try 1: So posting helps the person 
