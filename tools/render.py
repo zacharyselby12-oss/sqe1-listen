@@ -110,7 +110,7 @@ LINE_LIMIT = 60             # seconds one single-line request may take before we
 CHUNK_LIMIT = 420           # seconds one two-voice chunk (about 380 words, 2 to 3 minutes of speech) may take
 
 
-def _create_guarded(cl, kwargs, limit):
+def _create_guarded(cl, kwargs, limit, abort=None):
     """Call Google in a helper thread and stop waiting after `limit` seconds.
 
     The library's own time limit did not stop a request that hung, so this one is ours: it always ends.
@@ -128,9 +128,10 @@ def _create_guarded(cl, kwargs, limit):
     th = threading.Thread(target=go, daemon=True)
     th.start()
     end = time.time() + limit
+    abort = abort or ABORT
     while th.is_alive():
         th.join(0.5)
-        if ABORT.is_set():
+        if abort.is_set():
             raise RuntimeError("stopped: another line already failed")
         if time.time() > end:
             raise TimeoutError("HUNG: no answer from Google after %d seconds" % limit)
@@ -139,14 +140,15 @@ def _create_guarded(cl, kwargs, limit):
     return box["it"]
 
 
-def _call(cl, model, content, speech_config, limit=None):
+def _call(cl, model, content, speech_config, limit=None, abort=None):
     """One request, with sensible retries: busy/overloaded answers are retried with a pause,
     a request that hangs is tried once more, anything else (a rejected request) stops at once."""
     limit = limit or LINE_LIMIT
     delay, no_audio, hung = 5, 0, 0
     who = (content[0].get("text") or "")[:28].replace("\n", " ")
+    abort = abort or ABORT
     for i in range(6):
-        if ABORT.is_set():
+        if abort.is_set():
             raise RuntimeError("stopped: another line already failed")
         t_start = time.time()
         try:
@@ -156,7 +158,7 @@ def _call(cl, model, content, speech_config, limit=None):
                 response_format={"type": "audio"},
                 generation_config={"speech_config": speech_config},
                 timeout=limit,
-            ), limit)
+            ), limit, abort)
             audio = getattr(it, "output_audio", None)
             if audio is None or not getattr(audio, "data", None):
                 no_audio += 1
@@ -193,12 +195,12 @@ def _call(cl, model, content, speech_config, limit=None):
     raise RuntimeError("no audio after several tries")
 
 
-def _checked(cl, model, content, speech_config, n_words, label, limit=None):
+def _checked(cl, model, content, speech_config, n_words, label, limit=None, abort=None):
     """Call the API and make sure the audio length is plausible for the words sent."""
     expect = max(1.0, n_words / WORDS_PER_SEC)
     last = None
     for attempt in range(3):
-        pcm = _call(cl, model, content, speech_config, limit)
+        pcm = _call(cl, model, content, speech_config, limit, abort)
         dur = len(pcm) / 2 / RATE
         last = dur
         if 0.6 * expect <= dur <= 2.2 * expect:
@@ -236,6 +238,7 @@ def render_pcm(turns, voices, fake=False, log=print):
         if t["who"] not in vmap:
             raise ValueError("unknown speaker %r (expected %s)" % (t["who"], list(vmap)))
     parts = []
+    abort = threading.Event()   # this piece of work only: a failure here never stops other work running alongside
     if voices.get("mode", "pair") == "pair":
         cl = None if fake else client()
         cfg = [{"speaker": lead["name"], "voice": lead["voice"]},
@@ -249,12 +252,11 @@ def render_pcm(turns, voices, fake=False, log=print):
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
             if fake:
                 return i, fake_pcm(n)
-            return i, _checked(cl, model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT)
+            return i, _checked(cl, model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
 
         # a few chunks at a time, so an episode takes minutes rather than a quarter of an hour; order is kept
-        ABORT.clear()
         done, failure, quota = {}, None, None
-        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("PAIR_WORKERS", "3")))
+        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("PAIR_WORKERS", "4")))
         futs = {ex.submit(one_chunk, it): it[0] for it in enumerate(groups, 1)}
         for f in as_completed(futs):
             if f.cancelled():
@@ -267,7 +269,7 @@ def render_pcm(turns, voices, fake=False, log=print):
                     quota = e
                 if failure is None:
                     failure = "chunk %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
-                ABORT.set()
+                abort.set()
                 ex.shutdown(wait=False, cancel_futures=True)
         ex.shutdown(wait=True)
         if quota is not None:
@@ -285,10 +287,9 @@ def render_pcm(turns, voices, fake=False, log=print):
             if fake:
                 return idx, fake_pcm(n)
             cfg = [{"voice": vmap[t["who"]]}]
-            return idx, _checked(cl, model, _line_content(t), cfg, n, "turn %d" % idx)
+            return idx, _checked(cl, model, _line_content(t), cfg, n, "turn %d" % idx, None, abort)
 
         log("  %d turns, line by line" % len(turns))
-        ABORT.clear()
         results, failure, quota = {}, None, None
         ex = ThreadPoolExecutor(max_workers=int(os.environ.get("TTS_WORKERS", "3")))
         futs = {ex.submit(one, it): it[0] for it in enumerate(turns, 1)}
@@ -303,7 +304,7 @@ def render_pcm(turns, voices, fake=False, log=print):
                     quota = e
                 if failure is None:   # the first real failure; later ones are just lines told to stop
                     failure = "line %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
-                ABORT.set()
+                abort.set()
                 ex.shutdown(wait=False, cancel_futures=True)
         ex.shutdown(wait=True)
         if quota is not None:

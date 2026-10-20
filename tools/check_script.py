@@ -220,8 +220,8 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
     if not meta.get("title"):
         errors.append("header: title missing")
     recap = meta.get("recap")
-    if not isinstance(recap, list) or not 3 <= len(recap) <= 4:
-        errors.append("header: recap must list 3 or 4 lines")
+    if not isinstance(recap, list) or not 3 <= len(recap) <= 6:
+        errors.append("header: recap must list 3 to 6 lines")
     invented = meta.get("invented") or []
     if isinstance(invented, str):
         invented = [invented]
@@ -279,10 +279,12 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
         errors.append("figures not in the guide: %s" % sorted(unknown, key=float))
     # names
     guide_tokens = lower_tokens(guide_text)
+    guide_tokens |= {p for t in list(guide_tokens) for p in re.split(r"[-']", t) if p}   # "Edwards-Tubb" -> edwards, tubb
     guide_upper = set(re.findall(r"\b[A-Z]{2,}[0-9]?\b", guide_text))
     inv_tokens = set()
     for item in invented:
         inv_tokens |= lower_tokens(str(item))
+    inv_tokens |= {p for t in list(inv_tokens) for p in re.split(r"[-']", t) if p}
     script_lower = lower_tokens(" ".join(w for w in re.findall(r"\b[a-z][a-z']*\b", body)))
     speaker_l = {s.lower() for s in speakers}
     unknown_names = set()
