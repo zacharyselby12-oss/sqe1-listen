@@ -16,7 +16,8 @@ down what you decided in the report, and carry on. If something blocks you, put 
   **`model: "opus"` does every accuracy check.** Each helper gets only the files it needs and nothing else.
 - **Pause switch:** if `config.json` in the repo has `"paused": true`, stop at once and say so (Zac or the set-up chat uses
   this when his weekly usage is high). Check it right after cloning.
-- If the extra message at the end of the prompt says **DRY RUN**: do steps 1 to 3 and 8 only. No helpers, no commit, no push.
+- If the extra message at the end of the prompt says **DRY RUN**: do steps 1 to 3 and 8 only. No helpers. The only
+  commit is the dry-run report (step 8).
 
 ## 1. Set up
 1. ToolSearch `select:ArtifactData` to load it. If it will not load, stop and say so.
@@ -77,4 +78,9 @@ Write `reports/<yyyy-mm-dd>.md` and print the same text as your final message, i
 Commit the report with step 6 (write it before committing).
 
 ## 8. Dry run
-Stop after step 3. Report what the plan would do (new episodes, replays, skipped) and what you used. Nothing is committed.
+Stop after step 3. Report what the plan would do (new episodes, replays, skipped with reasons) and what you used
+(tool calls, roughly; no helpers are used in a dry run). Also say whether every step worked (ArtifactData loaded,
+the repo attached and cloned, every app read, pick.py ran) and anything odd.
+Write that report to `reports/dry-run-<yyyy-mm-dd>.md` (titles, ids, counts and reasons only: no guide text), then
+`git add reports/dry-run-*.md && git commit -m "Dry run report" && git push origin HEAD`. Commit nothing else.
+Print the same text as your final message.
