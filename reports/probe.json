@@ -1,114 +1,50 @@
 [
  {
-  "variant": "A1 built-in voice, plain (control)",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
+  "ok": true,
+  "detail": "listed 5 models",
+  "seconds": 0.2,
+  "variant": "L1 can we list Google's models (key + network)",
+  "lane": "L",
+  "started": 0.3
+ },
+ {
+  "ok": true,
+  "detail": "voice list answered, 1 voice(s)",
+  "seconds": 0.3,
+  "variant": "L2 can we list the voice library",
+  "lane": "L",
   "started": 0.5
  },
  {
-  "variant": "B1 British library man, plain (control)",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 0.5
+  "ok": true,
+  "detail": "text model said 'OK'",
+  "seconds": 2.0,
+  "variant": "L3 does the ordinary text model answer",
+  "lane": "L",
+  "started": 0.8
  },
  {
-  "variant": "A2 built-in voice, mood only (no speaker)",
   "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 40.5
+  "seconds": 30,
+  "error": "HUNG: no answer from Google after 30 seconds",
+  "variant": "T1 speech, plain, built-in voice Puck (worked before)",
+  "lane": "T",
+  "started": 0.3
  },
  {
-  "variant": "B2 designed woman, plain (control)",
   "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 40.5
+  "error": "ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_requests_per_model_per_day",
+  "seconds": 0.1,
+  "variant": "T2 speech, plain, Puck, through Google's older route",
+  "lane": "T",
+  "started": 30.3
  },
  {
-  "variant": "A3 built-in voice, speaker + mood",
   "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 80.5
- },
- {
-  "variant": "B3 British library man, mood only (no speaker)",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 80.5
- },
- {
-  "variant": "A4 built-in voice, <short pause> and <laugh> tags, plain",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 120.5
- },
- {
-  "variant": "B4 British library man, speaker + mood",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 120.6
- },
- {
-  "variant": "A5 two built-in voices, speaker + mood, list config",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 160.5
- },
- {
-  "variant": "B5 British library man, tags, plain",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 160.6
- },
- {
-  "variant": "A6 two built-in voices, speaker + mood, dict config",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 200.6
- },
- {
-  "variant": "B6 designed woman, mood only (no speaker)",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 200.6
- },
- {
-  "variant": "A7 two built-in voices, speaker only, dict config (round-1 shape)",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "A",
-  "started": 240.6
- },
- {
-  "variant": "B7 designed woman, speaker + mood",
-  "ok": false,
-  "seconds": 40,
-  "error": "HUNG: no answer from Google after 40 seconds",
-  "lane": "B",
-  "started": 240.6
+  "seconds": 30,
+  "error": "HUNG: no answer from Google after 30 seconds",
+  "variant": "T3 speech, Puck, speaker + mood label",
+  "lane": "T",
+  "started": 30.5
  }
 ]
