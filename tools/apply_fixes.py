@@ -3,7 +3,8 @@
 
   python tools/apply_fixes.py script.txt check.json
 
-For every problem whose "line" matches a script line exactly, the line is replaced by "fix" ("delete" removes it).
+For every problem whose "line" matches a script line exactly, the line is replaced by "fix" ("delete" removes it;
+"ADD: <line(s)>" inserts new lines after it, for an omission).
 Prints what was applied and what could not be matched (those need the reviser helper). Exit 0 if every problem was
 applied, 1 if some were not. The script must then be code-checked and checked by Opus again.
 """
@@ -24,6 +25,14 @@ def main():
         target = (pr.get("line") or "").strip()
         fix = (pr.get("fix") or "").strip()
         idx = [i for i, l in enumerate(lines) if l.strip() == target]
+        if fix.upper().startswith("ADD:"):   # an omission: insert the new line(s) after the target line
+            new = [x.strip() for x in fix[4:].strip().split("\n") if x.strip()]
+            if len(idx) != 1 or not new or not all(TURN.match(x) for x in new):
+                left.append(pr)
+                continue
+            lines[idx[0] + 1:idx[0] + 1] = new
+            print("added:", pr.get("type"), "| after", target[:60])
+            continue
         if len(idx) != 1 or not (fix.lower() == "delete" or TURN.match(fix)):
             left.append(pr)
             continue

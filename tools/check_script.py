@@ -20,8 +20,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from scriptfmt import ALLOWED_TAGS, TAG_RE, parse, strip_tags, tags_used, words  # noqa: E402
 
 SECTIONS = ["rule", "exam mode", "recap"]
-WORD_LIMITS = (1700, 2500)
-SECTION_WARN = {"rule": (500, 1000), "exam mode": (700, 1400), "recap": (70, 220)}
+WORD_LIMITS = (1700, 5200)   # long enough to cover every main point; never padded
+SECTION_WARN = {"rule": (500, 2600), "exam mode": (700, 2600), "recap": (70, 320)}
 MAX_TAGS_PER_WORD = 1 / 80.0
 
 UNITS = r"(?:days?|weeks?|months?|years?|hours?|minutes?|working|business|per|cent|percent|pounds?|pence|p|%)"

@@ -33,13 +33,19 @@ Both are British, relaxed and witty, friends rather than lecturers. They talk to
   longer riff of up to 60 words when Will is explaining. Two or three lines in a row from one speaker is normal; four
   is the most. Do not let every Hannah line be a question and every Will line an answer.
 - Talk, don't write. Contractions everywhere. Fragments. Starting with "So", "Right", "Okay", "Look", "I mean",
-  "Honestly", "Basically". Hedges: "kind of", "I think". Self-corrections: "Well, no — sort of." Trailing off with
-  "..." and breaking in with a dash. Rhetorical questions. Understatement.
-- Say it with a picture, not a definition. Start from a small scene or a stake ("you post a letter, the post office
-  loses it, is there a contract?"), then give the rule. Rules arrive as what happens, not as a numbered list.
-- Never read a list out. If there are three or more items, make it a back-and-forth: Will gives one, Hannah guesses
-  the next, he confirms or corrects. Avoid "first, second, third", "the test has three parts", "it is important to
-  note", "great question", "exactly" as the start of every answer, and one speaker repeating the other's sentence.
+  "Honestly", "Basically". Rhetorical questions. Understatement. Trailing off with "..." and breaking in with a dash.
+- But the natural touches never touch the law. Never hedge a legal rule or figure: "I think", "kind of", "sort of",
+  "roughly" are only for chat, or for a guess that is corrected straight away. A self-correction always ends on the
+  exact rule. An interrupted line never leaves a rule half-said: someone finishes it.
+- Say it with a picture, then the rule. Start from a small scene or a stake ("you post a letter, the post office
+  loses it, is there a contract?"), and then always state the rule in the source's own terms. A picture or analogy
+  never replaces the rule, and never makes it sound wider or narrower than it is.
+- Never read a list out, but never drop an item either. If a test has three or more elements, make it a
+  back-and-forth (Will gives one, Hannah guesses the next, he confirms or corrects), say every element, and say
+  whether all of them are needed or any one is enough. Avoid "first, second, third", "it is important to note",
+  "great question", "exactly" as the start of every answer, and one speaker repeating the other's sentence.
+- When Hannah guesses wrong, Will corrects her at once (in the next line or two) with the exact rule. Never leave a
+  wrong answer standing, and never end a section on one.
 - Let them have feelings about the law: groan at a nasty exception, enjoy a neat rule, admit the one they always
   muddle (only a muddle the source itself supports, such as a look-alike pair in the source).
 - Humour: dry, observational, understated; a running joke that comes back once or twice; teasing between friends.
@@ -54,17 +60,25 @@ Stiff, then natural (neutral example, not law):
            Will: Then you've got no table. It just lapses. You'd turn up in your nice shirt and nothing.
            Hannah (groaning): That is horribly plausible.
 
-## Shape: about 2,000 to 2,300 words (12 to 15 minutes)
-1. `## Rule` (about 5 min, 650 to 900 words). The overall rule, as if learning it from scratch. A one-line hook (a
-   little scene or a question, not "welcome to the show"), then the test of each section, the main details (starred
-   lines first: they matter most), the numbers (time limits, amounts) and what each rule leads to. Do not list
-   everything; choose what an SQE1 question turns on.
-2. `## Exam mode` (about 7 to 8 min, 1,000 to 1,350 words). MCQ-style scenarios, trigger facts, common mistakes and
-   look-alikes. Prefer the source's own APPLY scenarios and LOOK-ALIKES (they are already checked): retell them with
-   invented names and places, keeping every fact that decides the answer exactly as the source has it. Each
-   scenario: Will gives it, Hannah answers (sometimes wrongly), Will gives the deciding fact, the right answer and why.
-   Use the "what the exam question turns on" lines and the traps.
-3. `## Recap` (about 1 min, 80 to 150 words). 3 or 4 quick lines, each one rule or trap, said like friends wrapping
+## Cover everything that matters (the most important rule after accuracy)
+A rule without its exceptions leaves the listener with a false impression, so nothing important is left out.
+From the EPISODE SOURCE, the episode must cover:
+- every TEST element of every section, saying whether all elements are needed or any one is enough;
+- every starred detail;
+- every exception, condition, limit, time limit and "unless" attached to any rule the episode states;
+- every TRAP, every LOOK-ALIKE, every NUMBER and every "what the exam question turns on" item.
+Non-starred details: include any that is an exception or qualification to a rule the episode mentions; others only
+where they fit naturally. Before you finish, go through the source item by item and tick each one off against the script.
+
+## Shape: as long as full coverage takes, usually 2,500 to 4,500 words (15 to 30 minutes); never padded
+1. `## Rule`: the overall rule, as if learning it from scratch. A one-line hook (a little scene or a question, not
+   "welcome to the show"), then each section's test, its details (starred first), the numbers (time limits, amounts),
+   the exceptions, and what each rule leads to.
+2. `## Exam mode`: MCQ-style scenarios, trigger facts, common mistakes and look-alikes. Use every APPLY scenario in the
+   source (they are already checked): retell them with invented names and places, keeping every fact that decides the
+   answer exactly as the source has it. Then make sure every trap and every look-alike has come up. Each scenario:
+   Will gives it, Hannah answers (sometimes wrongly), Will gives the deciding fact, the right answer and why.
+3. `## Recap` (about 1 to 2 min). 4 to 6 quick lines, each one rule, exception or trap, said like friends wrapping
    up, not a reading. The same lines go in the header under `recap:`.
 
 ## Hard rules (a program checks these before anyone listens)
@@ -88,7 +102,8 @@ recap:
 - <line 1>
 - <line 2>
 - <line 3>
-- <optional line 4>
+- <line 4>
+- <optional lines 5 and 6>
 invented:
 - <each invented name, place, brand, amount, date>
 ---
@@ -114,9 +129,10 @@ Hannah: ...
 
 ## Before you finish
 Run: python tools/check_script.py {OUT_PATH} {GUIDE_TEXT}
-Fix every ERROR it prints and run it again until it says OK. Then reread your script twice: once as a strict marker
-(is each legal statement in the source?) and once as a listener (would two real friends say this? where does it
-sound read out?). Reply with the single word: done
+Fix every ERROR it prints and run it again until it says OK. Then reread your script three times: once as a strict
+marker (is each legal statement in the source?), once against the source item by item (is every test element,
+starred detail, exception, trap, look-alike and number covered?), and once as a listener (would two real friends say
+this? where does it sound read out?). Reply with the single word: done
 If an ERROR remains that you are sure is a false alarm (for example a name that really is in the source under another
 spelling), do not twist the script to please the program: reply "done, with errors:" and list them, so the check can be
 improved. Never silence a check by deleting a true statement or adding a name to `invented:` that is not invented.

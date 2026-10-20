@@ -73,8 +73,8 @@ Write `reports/<yyyy-mm-dd>.md` and print the same text as your final message, i
 - New episodes (title), replays (title and why), held episodes (title and why), skipped counts by reason.
 - What you used: number of helpers (Sonnet / Opus), rounds of fixing, and the tools you called (rough count).
 - Anything odd, and anything Zac should decide.
-- Starred details left out of an episode to keep it near 14 minutes: put only the COUNT per episode in the report file.
-  The checker's sentences about them are guide content: show them in your final message only, never in a file in the repo.
+- Episodes cover every main point (test elements, starred details, exceptions, traps, look-alikes, numbers): any
+  omission fails the checks. If an episode is held for an omission, say which item in your final message only.
 Commit the report with step 6 (write it before committing).
 
 ## 8. Dry run
