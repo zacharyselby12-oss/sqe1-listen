@@ -60,7 +60,38 @@
       "renderedAt": "2026-10-21T08:38:57+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "pubDate": "2026-10-21T09:12:59+00:00",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws06-e54197d2.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws06-e54197d2.mp3",
+      "supersededBy": "dr-ws06-v2"
+    },
+    {
+      "id": "dr-ws06-v2",
+      "unitId": "u-bpp-DR-06",
+      "title": "DR WS06 · Disclosure and privilege",
+      "guideHash": "1ec1ce8829",
+      "script": "scripts/dr-ws06-v2.txt",
+      "scriptHash": "3319d8a9e820",
+      "audio": "audio/dr-ws06-v2.mp3",
+      "recap": [
+        "Regime: intermediate and multi-track claims without personal injury get a disclosure report, then the menu, while fast track and personal injury claims get whatever the court directs, for example standard disclosure.",
+        "Disclose and list: an adverse document must always be listed, harm to your case is never a ground to withhold, and the duty to preserve starts once litigation is contemplated.",
+        "Inspection: privilege or disproportionality can stop only inspection, a privileged document is still listed, and relying on its contents waives privilege while a mere mention does not.",
+        "Missing documents: never listed means specific disclosure, listed but inspection refused as disproportionate means specific inspection, and in pre-action and non-party disclosure the respondent generally gets its costs even though it loses.",
+        "Settlement: without prejudice offers are never shown on liability, and only offers marked save as to costs, and Part 36 offers, count on costs."
+      ],
+      "map": [
+        "Which disclosure regime applies?",
+        "What must be disclosed and listed?",
+        "Can inspection be refused, or privilege lost?",
+        "How do I get missing documents?",
+        "Can a settlement offer be shown?"
+      ],
+      "summary": "Fix the regime, list what standard disclosure catches however damaging, withhold inspection only on proper grounds, choose the right route to missing documents, and keep without prejudice offers away from liability.",
+      "madeAt": "2026-10-21T12:16:55+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 4 fixes, each verified by Opus against the guide.",
+      "supersedes": "dr-ws06"
     }
   ],
   "replays": []
