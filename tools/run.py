@@ -120,7 +120,9 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
     cap = int((config or {}).get("speechRequestsPerDay", 100))
     reserve = int((config or {}).get("speechRequestsReserve", 10))
     log = load("reports/speech-requests.json", {"days": {}}) or {"days": {}}
-    used = max(log["days"].get(pacific_day(now), 0), rolling_requests(log, now))   # Google may count either way
+    # Google's daily limit resets at midnight Pacific: its own refusal on 21 Oct said "retry in 16h25m" at 14:34 UTC,
+    # i.e. at 07:00 UTC. So only today's Google day counts (a rolling 24 hours would block the morning after a busy day).
+    used = log["days"].get(pacific_day(now), 0)
     left = cap - reserve - used - render.REQUESTS["sent"]
     todo = []
     for ep in index["episodes"]:

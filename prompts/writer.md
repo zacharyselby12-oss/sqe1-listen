@@ -190,3 +190,11 @@ friends say this? where does it sound read out?). Reply with the single word: do
 If an ERROR remains that you are sure is a false alarm (for example a name that really is in the source under another
 spelling), do not twist the script to please the program: reply "done, with errors:" and list them, so the check can be
 improved. Never silence a check by deleting a true statement or adding a name to `invented:` that is not invented.
+
+## Notes from the last writers (the code check has been improved since)
+- Years and section or rule numbers the source itself gives pass the code check (source years show as a warning: keep
+  only dates a rule turns on, never a statute or case year).
+- Write acronyms plainly (CPR, CGT, SDLT, IHT), never letter-spaced. Turn-initial words and contractions ("You'd",
+  "That's") don't count as names.
+- The Rule section may run to about 4,000 words; the whole script stays within 1,700 to 5,600 words. Stop revising once
+  the check passes and your rereads are done.

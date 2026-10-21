@@ -4,16 +4,19 @@
   python tools/pick.py --data DIR [--registry episodes/index.json] [--config config.json]
                        [--now ISO] [--out plan.json]
 
-DIR holds the files that ArtifactData saved with out_dir (data/users/me/library/{units,guides,builds,board}
-and data/users/me/mcqrules/entries). Nothing here calls an AI: the choice is plain rules.
+DIR holds the files that ArtifactData saved with out_dir (data/users/me/library/{units,guides,builds,board},
+data/users/me/library/cpoints/cpo-order and data/users/me/mcqrules/entries). Nothing here calls an AI: the choice is
+plain rules.
 
 New episodes (at most config.maxNewPerDay in any 20 hours, so Google's daily speech allowance is enough, and at most
 config.maxNewPerWeek in any 7 days, which keeps Claude usage in check), in this order:
-  1. class between 3 days ago and 7 days ahead      (upcoming or just-held workshops)
-  2. on Zac's revision list, config.reviseNext       (in the order listed)
-  3. studied in the last 14 days
-  4. a topic of the workshop has 2+ misses/confusions in the last 14 days
-  5. everything else whose guide is applied          (course order: module, then workshop number)
+  1. class between 3 days ago and 7 days ahead      (upcoming or just-held workshops; earliest class first)
+  2. on his revision plan: Zac's own list, config.reviseNext (in the order listed), then the workshops the app's own
+     order (cpo-order) puts on his study plan for the next 7 days (in the app's order)
+  3. class 8 to 14 days ahead                         (made early, so it is ready well before the class)
+  4. studied in the last 14 days
+  5. a topic of the workshop has 2+ misses/confusions in the last 14 days
+  6. everything else whose guide is applied          (the app's order where it has one, then module and number)
 A workshop qualifies only if its v3 guide is applied in the live app: guide.v3, guide.conv.ver == "v3" and
 builds/b-<unit> has status "applied", ver "v3" and the same run as the guide. A workshop is (re)made when it has
 no episode yet, or when the guide's content hash differs from the one its episode was made from.
@@ -58,6 +61,14 @@ def applied_v3(guide, build):
         and build.get("run") == conv.get("run") and bool(conv.get("run"))
 
 
+def load_order(data):
+    """The app's own priority order (library/cpoints/cpo-order, written by the app since 21 Oct 2026): unit id ->
+    {tier, rank, due}. Its tier 2 is "on his study plan in the next 7 days". Empty if it wasn't saved."""
+    for d in load_all(data, "**/library/cpoints/cpo-order.json"):
+        return {u["id"]: u for u in d.get("units", []) if isinstance(u, dict) and u.get("id")}
+    return {}
+
+
 def slug(unit):
     return "%s-ws%02d" % (str(unit.get("module", "x")).lower(), int(unit.get("ws") or 0))
 
@@ -85,6 +96,7 @@ def pick(data, registry, config, now):
     cap_day = config.get("maxNewPerDay", 5)
     cap_rep = config.get("maxReplaysPerWeek", 10)
     revise = [r["unitId"] if isinstance(r, dict) else r for r in config.get("reviseNext", [])]
+    order = load_order(data)
 
     classes = {}
     for b in board:
@@ -122,6 +134,7 @@ def pick(data, registry, config, now):
                 continue  # already made (or held) for this exact guide
             remake = True
         cls = classes.get(uid)
+        o = order.get(uid) or {}
         studied = dt(unit.get("studiedAt")) if unit.get("studied") else None
         n = topic_events(unit)
         tier, why, key = None, "", None
@@ -131,15 +144,21 @@ def pick(data, registry, config, now):
         elif uid in revise:
             tier, why = 2, "on your revision list"
             key = (0, revise.index(uid))
+        elif o.get("tier") == 2:
+            tier, why = 2, "on your study plan this week (the app's order)"
+            key = (1, int(o.get("rank") or 999))
+        elif cls and now < cls <= now + timedelta(days=14):
+            tier, why = 3, "class on %s" % cls.date().isoformat()
+            key = (0, (cls - now).total_seconds())
         elif studied and studied >= d14:
-            tier, why = 3, "studied on %s" % studied.date().isoformat()
+            tier, why = 4, "studied on %s" % studied.date().isoformat()
             key = (0, -studied.timestamp())
         elif n >= 2:
-            tier, why = 4, "%d misses/confusions in 14 days" % n
+            tier, why = 5, "%d misses/confusions in 14 days" % n
             key = (0, -n)
         else:
-            tier, why = 5, "guide applied (no episode yet)"
-            key = (str(unit.get("module")), int(unit.get("ws") or 0))
+            tier, why = 6, "guide applied (no episode yet)"
+            key = (int(o.get("rank") or 999), str(unit.get("module")), int(unit.get("ws") or 0))
         cands.append({"unitId": uid, "id": slug(unit) + ("-r%d" % (_remakes(registry, uid) + 2) if remake else ""),
                       "titlePrefix": prefix(unit, names), "workshop": g.get("workshop"), "tier": tier,
                       "reason": why, "guideHash": h, "remake": remake,
