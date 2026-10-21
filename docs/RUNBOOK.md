@@ -45,9 +45,9 @@ If a call fails, retry once; if it still fails, report it and stop.
 ## 3. Plan
 `python3 tools/pick.py --data /tmp/sqe1/data --out /tmp/sqe1/plan.json` and read plan.json (it holds no guide text).
 It lists `newEpisodes`, `replays` and `skipped` with reasons. It already applies: only workshops whose v3 guide is applied
-in the live app; the priority order (1. a class from 3 days ago to 7 days ahead, earliest first; 2. his revision plan:
-config.json `reviseNext`, then the app's own study plan for the next 7 days; 3. a class 8 to 14 days ahead; 4. studied
-in the last 14 days; 5. two or more misses; 6. any other applied guide); at most `maxNewPerDay` new episodes a day and
+in the live app; the priority order (1. a class in the next 7 days, earliest first; 2. his revision plan: config.json `reviseNext`, then
+the app's own study plan for the next 7 days; 3. a class 7 to 14 days ahead; 4. a class held in the last 3 days;
+5. studied in the last 14 days; 6. two or more misses; 7. any other applied guide); at most `maxNewPerDay` new episodes a day and
 `maxNewPerWeek` a week; at most 10 replays a week.
 If `newEpisodes` and `replays` are both empty, skip to step 7 and write a one-line report: nothing new today.
 Take the new episodes in the plan's order, as many as fit today: each costs about 25 speech requests (see

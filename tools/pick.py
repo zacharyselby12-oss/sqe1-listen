@@ -10,13 +10,14 @@ plain rules.
 
 New episodes (at most config.maxNewPerDay in any 20 hours, so Google's daily speech allowance is enough, and at most
 config.maxNewPerWeek in any 7 days, which keeps Claude usage in check), in this order:
-  1. class between 3 days ago and 7 days ahead      (upcoming or just-held workshops; earliest class first)
+  1. class in the next 7 days                        (earliest class first: ideally ready 3 days before it)
   2. on his revision plan: Zac's own list, config.reviseNext (in the order listed), then the workshops the app's own
      order (cpo-order) puts on his study plan for the next 7 days (in the app's order)
-  3. class 8 to 14 days ahead                         (made early, so it is ready well before the class)
-  4. studied in the last 14 days
-  5. a topic of the workshop has 2+ misses/confusions in the last 14 days
-  6. everything else whose guide is applied          (the app's order where it has one, then module and number)
+  3. class 7 to 14 days ahead                         (made early, so it is ready well before the class)
+  4. class held in the last 3 days                    (for review; most recent first)
+  5. studied in the last 14 days
+  6. a topic of the workshop has 2+ misses/confusions in the last 14 days
+  7. everything else whose guide is applied          (the app's order where it has one, then module and number)
 A workshop qualifies only if its v3 guide is applied in the live app: guide.v3, guide.conv.ver == "v3" and
 builds/b-<unit> has status "applied", ver "v3" and the same run as the guide. A workshop is (re)made when it has
 no episode yet, or when the guide's content hash differs from the one its episode was made from.
@@ -138,9 +139,9 @@ def pick(data, registry, config, now):
         studied = dt(unit.get("studiedAt")) if unit.get("studied") else None
         n = topic_events(unit)
         tier, why, key = None, "", None
-        if cls and now - timedelta(days=3) <= cls <= now + timedelta(days=7):
+        if cls and now <= cls <= now + timedelta(days=7):
             tier, why = 1, "class on %s" % cls.date().isoformat()
-            key = (0 if cls >= now else 1, abs((cls - now).total_seconds()))
+            key = (0, (cls - now).total_seconds())
         elif uid in revise:
             tier, why = 2, "on your revision list"
             key = (0, revise.index(uid))
@@ -150,14 +151,17 @@ def pick(data, registry, config, now):
         elif cls and now < cls <= now + timedelta(days=14):
             tier, why = 3, "class on %s" % cls.date().isoformat()
             key = (0, (cls - now).total_seconds())
+        elif cls and now - timedelta(days=3) <= cls < now:
+            tier, why = 4, "class held on %s" % cls.date().isoformat()
+            key = (0, (now - cls).total_seconds())
         elif studied and studied >= d14:
-            tier, why = 4, "studied on %s" % studied.date().isoformat()
+            tier, why = 5, "studied on %s" % studied.date().isoformat()
             key = (0, -studied.timestamp())
         elif n >= 2:
-            tier, why = 5, "%d misses/confusions in 14 days" % n
+            tier, why = 6, "%d misses/confusions in 14 days" % n
             key = (0, -n)
         else:
-            tier, why = 6, "guide applied (no episode yet)"
+            tier, why = 7, "guide applied (no episode yet)"
             key = (int(o.get("rank") or 999), str(unit.get("module")), int(unit.get("ws") or 0))
         cands.append({"unitId": uid, "id": slug(unit) + ("-r%d" % (_remakes(registry, uid) + 2) if remake else ""),
                       "titlePrefix": prefix(unit, names), "workshop": g.get("workshop"), "tier": tier,
