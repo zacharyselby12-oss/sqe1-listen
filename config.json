@@ -54,7 +54,7 @@
     "Land": "Land Law",
     "Trusts": "Trusts"
   },
-  "maxNewPerDay": 5,
+  "maxNewPerDay": 3,
   "reviseNext": [
     {
       "unitId": "u-bpp-Contract-06",

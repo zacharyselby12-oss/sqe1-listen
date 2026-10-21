@@ -63,8 +63,10 @@ the app's own study plan for the next 7 days; 3. a class 7 to 14 days ahead; 4. 
 `maxNewPerWeek` a week, and Zac's usage plan near the end of his week (config.json `dayLimits` and `notBefore`: on such
 a day only his list, classes and his study plan are made); at most 10 replays a week.
 If `newEpisodes` and `replays` are both empty, skip to step 7 and write a one-line report: nothing new today.
-Take the new episodes in the plan's order, as many as fit today: each costs about 25 speech requests (see
-reports/speech-requests.json; Google allows 100 a day) and a share of Zac's weekly Claude usage.
+Take the new episodes in the plan's order, as many as fit today. Count today's queued audio first. Each episode costs one
+speech request per 380 words of script (today's 5,000-5,600-word scripts: about 15), plus about 5 for retries, so budget
+20 each against reports/speech-requests.json (90 usable of Google's 100 a day); start one only if the rest of today's
+allowance covers it, otherwise leave it for the next reset. It also costs a share of Zac's weekly Claude usage.
 
 ## 4. Each new episode, at most 2 at a time
 **Around Shabbat.** Friday: start a new episode only before 11:00 London and push everything by 13:15, so its audio is
