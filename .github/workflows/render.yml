@@ -17,7 +17,7 @@ on:
   schedule:
     - cron: "5 21 * * 6"
     - cron: "20 8 * * *"      # every day after Google's daily reset: makes any episode left waiting for speech allowance
-    - cron: "*/30 7-22 * * *" # every half hour in the day: an episode cut short by Google's limit carries on by itself
+    - cron: "*/30 * * * *"    # every half hour, day and night: an episode cut short by Google's limit carries on by itself (and Saturday night's run can use Saturday's allowance until Google's reset on Sunday morning)
   workflow_dispatch:
 
 permissions:
@@ -39,7 +39,9 @@ jobs:
       - uses: actions/checkout@v4
       - id: todo
         run: |
-          if [ "${{ github.event_name }}" = "schedule" ] && ! python3 -c "import json,sys; d=json.load(open('episodes/index.json')); sys.exit(0 if any(e.get('status') == 'queued' for e in d.get('episodes', [])) else 1)"; then
+          if python3 -c "from datetime import datetime; from zoneinfo import ZoneInfo; import sys; t=datetime.now(ZoneInfo('Europe/London')); m=t.hour*60+t.minute; sys.exit(0 if (t.weekday()==4 and m>=14*60) or (t.weekday()==5 and m<20*60) else 1)"; then
+            echo "go=false" >> "$GITHUB_OUTPUT"; echo "Shabbat: nothing runs until Saturday 20:00"
+          elif [ "${{ github.event_name }}" = "schedule" ] && ! python3 -c "import json,sys; d=json.load(open('episodes/index.json')); sys.exit(0 if any(e.get('status') == 'queued' for e in d.get('episodes', [])) else 1)"; then
             echo "go=false" >> "$GITHUB_OUTPUT"; echo "nothing is waiting"
           else
             echo "go=true" >> "$GITHUB_OUTPUT"
@@ -100,8 +102,14 @@ jobs:
           path: chunk-cache
           key: chunks-${{ github.run_id }}
 
+      - name: Still before Shabbat?
+        id: quiet
+        if: always()
+        run: |
+          python3 -c "from datetime import datetime; from zoneinfo import ZoneInfo; t=datetime.now(ZoneInfo('Europe/London')); m=t.hour*60+t.minute; print('shabbat=' + ('true' if (t.weekday()==4 and m>=14*60) or (t.weekday()==5 and m<20*60) else 'false'))" >> "$GITHUB_OUTPUT"
+
       - name: Save new audio and episode list
-        if: always() && steps.run.outputs.skipped != 'true'
+        if: always() && steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
         run: |
           git config user.name "sqe1-listen[bot]"
           git config user.email "sqe1-listen-bot@users.noreply.github.com"
@@ -115,15 +123,15 @@ jobs:
           fi
 
       - uses: actions/configure-pages@v5
-        if: steps.run.outputs.skipped != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
 
       - uses: actions/upload-pages-artifact@v3
-        if: steps.run.outputs.skipped != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
         with:
           path: _site
 
       - id: deployment
-        if: steps.run.outputs.skipped != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
         uses: actions/deploy-pages@v4
 
       - name: Fail the run if any episode failed to render

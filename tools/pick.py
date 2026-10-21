@@ -10,6 +10,7 @@ plain rules.
 
 New episodes (at most config.maxNewPerDay in any 20 hours, so Google's daily speech allowance is enough, and at most
 config.maxNewPerWeek in any 7 days, which keeps Claude usage in check), in this order:
+  0. Zac's own "do these first" list, config.firstUp (in the order listed)
   1. class in the next 7 days                        (earliest class first: ideally ready 3 days before it)
   2. on his revision plan: Zac's own list, config.reviseNext (in the order listed), then the workshops the app's own
      order (cpo-order) puts on his study plan for the next 7 days (in the app's order)
@@ -104,6 +105,7 @@ def pick(data, registry, config, now):
     not_before = config.get("notBefore") or {}                 # ... and workshops held until a given time
     cap_rep = config.get("maxReplaysPerWeek", 10)
     revise = [r["unitId"] if isinstance(r, dict) else r for r in config.get("reviseNext", [])]
+    first = [r["unitId"] if isinstance(r, dict) else r for r in config.get("firstUp", [])]
     order = load_order(data)
 
     classes = {}
@@ -150,7 +152,10 @@ def pick(data, registry, config, now):
         studied = dt(unit.get("studiedAt")) if unit.get("studied") else None
         n = topic_events(unit)
         tier, why, key = None, "", None
-        if cls and now <= cls <= now + timedelta(days=7):
+        if uid in first:
+            tier, why = 0, "you asked for this first"
+            key = (0, first.index(uid))
+        elif cls and now <= cls <= now + timedelta(days=7):
             tier, why = 1, "class on %s" % cls.date().isoformat()
             key = (0, (cls - now).total_seconds())
         elif uid in revise:
@@ -180,6 +185,11 @@ def pick(data, registry, config, now):
                       "supersedes": cur["id"] if cur and cur.get("status") in ("published", "review") else None,
                       "guideWords": None, "_key": key})
     cands.sort(key=lambda c: (c["tier"], c["_key"]))
+    if day_plan:   # a day in Zac's usage plan is kept for what matters most: his list, classes and his study plan
+        top = int(config.get("planTiersMax", 3))
+        for c in [c for c in cands if c["tier"] > top]:
+            skipped.append({"unitId": c["unitId"], "why": "kept for a later day (Zac's usage plan)"})
+        cands = [c for c in cands if c["tier"] <= top]
     made7 = sum(1 for e in registry.get("episodes", [])
                 if dt(e.get("madeAt")) and dt(e["madeAt"]) >= now - timedelta(days=7))
     # (a day in Zac's usage plan counts what was made since that London day began; otherwise any 20 hours)

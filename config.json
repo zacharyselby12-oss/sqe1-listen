@@ -78,11 +78,19 @@
     }
   ],
   "dayLimits": {
-    "2026-10-22": 1,
-    "2026-10-23": 0
+    "2026-10-22": 2,
+    "2026-10-23": 1,
+    "2026-10-24": 3,
+    "2026-10-25": 1,
+    "2026-10-26": 0
   },
   "notBefore": {
     "u-bpp-BLP-06": "2026-10-26T14:00:00+00:00"
   },
-  "usageNote": "21 Oct 16:45: Zac at 70-80% of his week. Thu 22: one new episode (DR WS07); Fri 23: none (his rule: about 75-78% by Saturday night, then up to about 95% before the Monday 14:00 reset); BLP WS06 after that reset."
+  "usageNote": "21 Oct 17:00, Zac: Contract WS06, 07 and 08 before next week's workshops; up to 85% of his week by Saturday night this week (then up to about 95% before the Monday 14:00 reset). Plan, at about 2.5% an episode: Thu 2, Fri 1 (published before 14:00), Sat 20:05 3 (Saturday's otherwise unused Google allowance), Sun 1, Mon 0; BLP WS06 after the reset.",
+  "firstUp": [
+    "u-bpp-Contract-06",
+    "u-bpp-Contract-07",
+    "u-bpp-Contract-08"
+  ]
 }

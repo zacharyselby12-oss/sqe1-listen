@@ -1,4 +1,4 @@
-# Runbook: the daily producer run (08:05 London, Sunday to Friday, just after Google's daily speech reset)
+# Runbook: the producer run (08:05 London Sunday to Friday, just after Google's daily speech reset; 20:05 Saturday)
 
 For Claude. Since 21 Oct 2026 the run happens in the set-up chat: a one-off scheduled wake-up delivers it there each
 morning, and each run books the next ones (step 0; Zac agreed to this on 21 Oct). A fresh scheduled session can attach
@@ -24,7 +24,7 @@ blocks you, put it in the report and stop that item.
 
 ## 0. Keep the wake-ups going (first thing, every run)
 So that one failed run never breaks the chain, each run makes sure the next TWO run times are booked:
-1. `python3 tools/next_runs.py` prints them (08:05 London, Sunday to Friday, in UTC).
+1. `python3 tools/next_runs.py` prints them in UTC (08:05 London Sunday to Friday; 20:05 on Saturday, after Shabbat).
 2. `list_triggers` (enabled true; page through it): the bookings are one-off scheduled tasks named "SQE1 Listen: daily
    run" with a run_once_at. For each printed time with no booking within 10 minutes of it, call `send_later` (at = that
    time, name "SQE1 Listen: daily run", initiation "human_schedule", message = the text of docs/WAKEUP.txt).
@@ -57,15 +57,21 @@ If a call fails, retry once; if it still fails, report it and stop.
 ## 3. Plan
 `python3 tools/pick.py --data /tmp/sqe1/data --out /tmp/sqe1/plan.json` and read plan.json (it holds no guide text).
 It lists `newEpisodes`, `replays` and `skipped` with reasons. It already applies: only workshops whose v3 guide is applied
-in the live app; the priority order (1. a class in the next 7 days, earliest first; 2. his revision plan: config.json `reviseNext`, then
+in the live app; the priority order (0. Zac's own list, config.json `firstUp`; 1. a class in the next 7 days, earliest first; 2. his revision plan: config.json `reviseNext`, then
 the app's own study plan for the next 7 days; 3. a class 7 to 14 days ahead; 4. a class held in the last 3 days;
 5. studied in the last 14 days; 6. two or more misses; 7. any other applied guide); at most `maxNewPerDay` new episodes a day and
-`maxNewPerWeek` a week; at most 10 replays a week.
+`maxNewPerWeek` a week, and Zac's usage plan near the end of his week (config.json `dayLimits` and `notBefore`: on such
+a day only his list, classes and his study plan are made); at most 10 replays a week.
 If `newEpisodes` and `replays` are both empty, skip to step 7 and write a one-line report: nothing new today.
 Take the new episodes in the plan's order, as many as fit today: each costs about 25 speech requests (see
 reports/speech-requests.json; Google allows 100 a day) and a share of Zac's weekly Claude usage.
 
 ## 4. Each new episode, at most 2 at a time
+**Around Shabbat.** Friday: start a new episode only before 11:00 London and push everything by 13:15, so its audio is
+published before 14:00; one not finished by then waits, unpublished, for the Saturday-night run. Saturday 20:05: that
+run uses Saturday's Google allowance, which lasts until Google's reset on Sunday morning (07:00 or 08:00 London), so
+push by about 05:00. Nothing renders or publishes from Friday 14:00 to Saturday 20:00 (the workflow checks).
+
 a. Extract: `python3 tools/guide_extract.py /tmp/sqe1/data/data/users/me/library/guides/<unitId>.json /tmp/sqe1/src/<id>.txt`.
    It prints `<hash> <words>`. The hash must equal the plan's `guideHash`; if not, hold the episode (the guide changed mid-run).
 b. Parts: up to about 7,500 source words is one episode. Longer: two parts, `<id>-p1` and `<id>-p2`, splitting the

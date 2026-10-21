@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
-"""The next daily-run times (08:05 London, Sunday to Friday) in UTC, for booking the run's wake-ups.
+"""The next run times in UTC, for booking the run's wake-ups: 08:05 London Sunday to Friday (just after Google's daily
+speech reset), and 20:05 on Saturday, after Shabbat, to use Saturday's Google allowance, which would otherwise go unused.
 
   python3 tools/next_runs.py [--from ISO] [--n 2]
 
-Prints one RFC3339 UTC time per line, the first --n run times after --from (default: now). Saturdays are skipped
-(Shabbat). 08:05 London is always after Google's daily speech reset (midnight Pacific: 07:00 or 08:00 London).
+Prints one RFC3339 UTC time per line, the first --n run times after --from (default: now). 08:05 London is always after
+Google's daily reset (midnight Pacific: 07:00 or 08:00 London); Saturday's allowance lasts until then on Sunday.
 """
 import argparse
 from datetime import datetime, time, timedelta, timezone
@@ -16,8 +17,8 @@ LONDON = ZoneInfo("Europe/London")
 def next_runs(now, n=2):
     out, d = [], now.astimezone(LONDON).date()
     while len(out) < n:
-        t = datetime.combine(d, time(8, 5), tzinfo=LONDON)
-        if t > now and t.weekday() != 5:
+        t = datetime.combine(d, time(20, 5) if d.weekday() == 5 else time(8, 5), tzinfo=LONDON)
+        if t > now:
             out.append(t.astimezone(timezone.utc))
         d += timedelta(days=1)
     return out
