@@ -1,148 +1,263 @@
 [
   {
-    "id": "A",
-    "label": "Two standard voices: a friendly man and an easy-going woman (Achird and Callirrhoe)",
-    "ok": true,
-    "note": "prebuilt: Will = Achird, Hannah = Callirrhoe",
-    "voices": {
-      "mode": "pair",
-      "lead": {
-        "name": "Will",
-        "voice": "Achird"
-      },
-      "second": {
-        "name": "Hannah",
-        "voice": "Callirrhoe"
-      }
-    },
-    "audio": "pair-A.mp3"
-  },
-  {
-    "id": "B",
-    "label": "Two standard voices: a clear, informative man and a breezy woman (Charon and Aoede)",
-    "ok": true,
-    "note": "prebuilt: Will = Charon, Hannah = Aoede",
-    "voices": {
-      "mode": "pair",
-      "lead": {
-        "name": "Will",
-        "voice": "Charon"
-      },
-      "second": {
-        "name": "Hannah",
-        "voice": "Aoede"
-      }
-    },
-    "audio": "pair-B.mp3"
-  },
-  {
-    "id": "C",
-    "label": "British voices from Google's voice library, one line at a time",
+    "id": "1",
+    "label": "Google library voice, Bristol accent: conversational, slightly dry, warm",
     "ok": true,
     "voiceIds": {
-      "lead": "en-gb-assistant-10",
-      "second": "en-gb-assistant-1"
-    },
-    "note": "Will = Digital Assistant 10 (Winchester English, Companion & Peer / Digital Assistant (Parent)); Hannah = Digital Assistant 1 (Winchester English, Companion & Peer / Digital Assistant (Sibling))",
-    "voices": {
-      "mode": "line",
-      "lead": {
-        "name": "Will",
-        "voice": "en-gb-assistant-10"
-      },
-      "second": {
-        "name": "Hannah",
-        "voice": "en-gb-assistant-1"
-      }
-    },
-    "audio": "pair-C.mp3"
-  },
-  {
-    "id": "D",
-    "label": "British voices designed from a description, one line at a time",
-    "ok": true,
-    "voiceIds": {
-      "lead": "voice_f2g29r754dls",
+      "lead": "en-gb-advisor-10",
       "second": "voice_7hvws5hbx3yt"
     },
-    "note": "Will = designed: A warm, relaxed British man with a light London accent and a dry sense of humour; Hannah = designed: A bright, quick British woman with a light London accent. Curious and playful: s",
+    "note": "Will = library voice Authoritative Advisor 10 (Bristol English): conversational, slightly dry humour, warm; Hannah = the woman from pair D (designed, bright and playful)",
     "voices": {
-      "mode": "line",
+      "mode": "pair",
       "lead": {
         "name": "Will",
-        "voice": "voice_f2g29r754dls"
+        "voice": "en-gb-advisor-10"
       },
       "second": {
         "name": "Hannah",
         "voice": "voice_7hvws5hbx3yt"
       }
     },
-    "audio": "pair-D.mp3"
+    "audio": "pair-1.mp3"
   },
   {
-    "id": "E",
-    "label": "British voices designed from a plainer description, one line at a time",
+    "id": "2",
+    "label": "Google library voice, southern English accent: relaxed, a bit older",
     "ok": true,
     "voiceIds": {
-      "lead": "voice_rgqanariij21",
-      "second": "voice_7k6ruyt2iwyh"
+      "lead": "en-gb-tutor-8",
+      "second": "voice_7hvws5hbx3yt"
     },
-    "note": "Will = designed: A friendly British man with a warm, relaxed voice and a light London accent. Cle; Hannah = designed: A friendly British woman with a bright, quick voice and a light London accent. N",
+    "note": "Will = library voice Tutor 8 (Winchester English): relaxed; Hannah = the woman from pair D (designed, bright and playful)",
     "voices": {
-      "mode": "line",
+      "mode": "pair",
       "lead": {
         "name": "Will",
-        "voice": "voice_rgqanariij21"
+        "voice": "en-gb-tutor-8"
       },
       "second": {
         "name": "Hannah",
-        "voice": "voice_7k6ruyt2iwyh"
+        "voice": "voice_7hvws5hbx3yt"
       }
     },
-    "audio": "pair-E.mp3"
+    "audio": "pair-2.mp3"
   },
   {
-    "id": "F",
-    "label": "British library voices (Winchester English), one line at a time: a 31-year-old radio-host man and a 26-year-old friendly woman",
+    "id": "3",
+    "label": "Google library voice, southern English accent: confident and clear",
     "ok": true,
     "voiceIds": {
-      "lead": "en-gb-podcaster-1",
-      "second": "en-gb-commercial-5"
+      "lead": "en-gb-tutor-14",
+      "second": "voice_7hvws5hbx3yt"
     },
-    "note": "Will = Podcaster 1, radio host, intimate talk-show voice; Hannah = Commercial Voiceover 5, clear and friendly",
+    "note": "Will = library voice Tutor 14 (Winchester English): confident and clear; Hannah = the woman from pair D (designed, bright and playful)",
     "voices": {
-      "mode": "line",
+      "mode": "pair",
       "lead": {
         "name": "Will",
-        "voice": "en-gb-podcaster-1"
+        "voice": "en-gb-tutor-14"
       },
       "second": {
         "name": "Hannah",
-        "voice": "en-gb-commercial-5"
+        "voice": "voice_7hvws5hbx3yt"
       }
     },
-    "audio": "pair-F.mp3"
+    "audio": "pair-3.mp3"
   },
   {
-    "id": "G",
-    "label": "British library voices (Winchester English), one line at a time: a 24-year-old clear, direct man and a 30-year-old approachable woman",
+    "id": "4",
+    "label": "Google library voice, southern English accent: friendly and approachable",
     "ok": true,
     "voiceIds": {
-      "lead": "en-gb-training-3",
-      "second": "en-gb-advisor-1"
+      "lead": "en-gb-assistant-2",
+      "second": "voice_7hvws5hbx3yt"
     },
-    "note": "Will = Training Voiceover 3, objective, direct and helpful; Hannah = Authoritative Advisor 1, professional yet approachable",
+    "note": "Will = library voice Digital Assistant 2 (Winchester English): professional yet approachable; Hannah = the woman from pair D (designed, bright and playful)",
     "voices": {
-      "mode": "line",
+      "mode": "pair",
       "lead": {
         "name": "Will",
-        "voice": "en-gb-training-3"
+        "voice": "en-gb-assistant-2"
       },
       "second": {
         "name": "Hannah",
-        "voice": "en-gb-advisor-1"
+        "voice": "voice_7hvws5hbx3yt"
       }
     },
-    "audio": "pair-G.mp3"
+    "audio": "pair-4.mp3"
+  },
+  {
+    "id": "5",
+    "label": "Designed voice: warm, expressive, lively, easily amused (light London accent)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_p70qfayud7ri",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = designed: warm, expressive, lively, easily amused; Hannah = the woman from pair D (designed, bright and playful)",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_p70qfayud7ri"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-5.mp3"
+  },
+  {
+    "id": "6",
+    "label": "Designed voice: same description as 5, a different take on it",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_3zuxo49od8e1",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = designed: warm, expressive, lively (second take); Hannah = the woman from pair D (designed, bright and playful)",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_3zuxo49od8e1"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-6.mp3"
+  },
+  {
+    "id": "7",
+    "label": "Designed voice: dry, wry, understated (clear southern English accent)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_7636x92kz2nd",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = designed: dry, wry, understated; Hannah = the woman from pair D (designed, bright and playful)",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_7636x92kz2nd"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-7.mp3"
+  },
+  {
+    "id": "8",
+    "label": "Designed voice: quick-witted, animated, thinks out loud (soft London accent)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_dtpeewbon22n",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = designed: quick-witted, animated; Hannah = the woman from pair D (designed, bright and playful)",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_dtpeewbon22n"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-8.mp3"
+  },
+  {
+    "id": "9",
+    "label": "Back-up idea: two of Google's standard voices, asked to use a southern English accent",
+    "ok": true,
+    "note": "standard voices: Will = Umbriel, Hannah = Zephyr (asked for: speaks with a southern English accent, British not American)",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "Umbriel"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "Zephyr"
+      },
+      "styleSuffix": "speaks with a southern English accent, British not American"
+    },
+    "audio": "pair-9.mp3"
+  },
+  {
+    "id": "10",
+    "label": "Different woman: conversational, slightly dry humour, warm (Google library, southern English)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-advisor-10",
+      "second": "en-gb-csagent-4"
+    },
+    "note": "Will = library voice Authoritative Advisor 10 (Bristol English), the man from voice 1; Hannah = library voice Call Center Agent 4 (Winchester English): conversational, slightly dry humour, warm",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-advisor-10"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-csagent-4"
+      }
+    },
+    "audio": "pair-10.mp3"
+  },
+  {
+    "id": "11",
+    "label": "Different woman: engaging and empathic (Google library, southern English)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-advisor-10",
+      "second": "en-gb-commercial-9"
+    },
+    "note": "Will = library voice Authoritative Advisor 10 (Bristol English), the man from voice 1; Hannah = library voice Commercial Voiceover 9 (Winchester English): engaging and empathic",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-advisor-10"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-commercial-9"
+      }
+    },
+    "audio": "pair-11.mp3"
+  },
+  {
+    "id": "12",
+    "label": "Different woman: warm and engaging (Google library, southern English)",
+    "ok": true,
+    "voiceIds": {
+      "lead": "en-gb-advisor-10",
+      "second": "en-gb-tutor-7"
+    },
+    "note": "Will = library voice Authoritative Advisor 10 (Bristol English), the man from voice 1; Hannah = library voice Tutor 7 (Winchester English): warm and engaging",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "en-gb-advisor-10"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "en-gb-tutor-7"
+      }
+    },
+    "audio": "pair-12.mp3"
   }
 ]
