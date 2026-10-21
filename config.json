@@ -39,7 +39,7 @@
     }
   },
   "speechRequestsPerDay": 100,
-  "speechRequestsReserve": 10,
+  "speechRequestsReserve": 3,
   "areaNames": {
     "BLP": "Business Law and Practice",
     "DR": "Dispute Resolution",
