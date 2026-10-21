@@ -1,1 +1,5 @@
-
+    0.7s chunk 1: reused from an earlier run
+    0.7s chunk 2: reused from an earlier run
+    0.7s chunk 3: reused from an earlier run
+    1.7s chunk 4: own process failed after 1.0s (attempt 1): r speech requests is used up: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retry in 15h12m12s or upgrade your tier at https://ai.dev/rate-limit.', 'code': 'too_many_requests'}} | REQUESTS 1
+    1.7s chunk 5: own process failed after 1.0s (attempt 1): r speech requests is used up: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retry in 15h12m12s or upgrade your tier at https://ai.dev/rate-limit.', 'code': 'too_many_requests'}} | REQUESTS 1
