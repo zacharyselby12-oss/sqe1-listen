@@ -49,6 +49,13 @@ jobs:
           sudo apt-get install -y -qq ffmpeg
           pip install -r requirements.txt
 
+      - name: Bring back chunks made by earlier runs
+        uses: actions/cache/restore@v4
+        with:
+          path: chunk-cache
+          key: chunks-${{ github.run_id }}
+          restore-keys: chunks-
+
       - name: Render audio and build the site
         id: run
         continue-on-error: true
@@ -58,7 +65,22 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           TTS_WORKERS: "5"
           ISOLATE_CHUNKS: "1"      # each two-voice chunk in its own process, killed if it hangs
+          CHUNK_CACHE_DIR: chunk-cache   # chunks already made are reused when a run is cut short
         run: python tools/run.py
+
+      - name: Keep made chunks for the next run (the last two days only)
+        if: always()
+        run: |
+          mkdir -p chunk-cache
+          find chunk-cache -type f -mtime +2 -delete || true
+          du -sh chunk-cache || true
+
+      - name: Save the chunk store
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: chunk-cache
+          key: chunks-${{ github.run_id }}
 
       - name: Save new audio and episode list
         if: always() && steps.run.outputs.skipped != 'true'

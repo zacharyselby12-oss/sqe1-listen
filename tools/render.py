@@ -304,15 +304,36 @@ def render_pcm(turns, voices, fake=False, log=print):
         groups = chunks(turns, int(voices.get("chunkWords") or PAIR_CHUNK_WORDS))   # voices.json can set bigger chunks
         suffix = voices.get("styleSuffix", "")
 
+        cache_dir = os.environ.get("CHUNK_CACHE_DIR")
+
         def one_chunk(i_g):
             i, g = i_g
             n = sum(words(t["text"]) for t in g)
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
             if fake:
                 return i, fake_pcm(n)
+            content = _pair_content(g, suffix)
+            cached = None
+            if cache_dir:   # a chunk made in an earlier run (same words, voices and model) is reused, not re-requested
+                import hashlib
+                key = hashlib.sha256(json.dumps([model, cfg, content], sort_keys=True).encode("utf-8")).hexdigest()[:32]
+                cached = Path(cache_dir) / (key + ".pcm")
+                if cached.exists() and cached.stat().st_size > 0:
+                    trace("chunk %d: reused from an earlier run" % i)
+                    return i, cached.read_bytes()
             if os.environ.get("ISOLATE_CHUNKS") == "1":
-                return i, _checked_isolated(model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
-            return i, _checked(cl, model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
+                pcm = _checked_isolated(model, content, cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
+            else:
+                pcm = _checked(cl, model, content, cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
+            if cached is not None:
+                try:
+                    cached.parent.mkdir(parents=True, exist_ok=True)
+                    tmp = cached.with_suffix(".part")
+                    tmp.write_bytes(pcm)
+                    tmp.replace(cached)
+                except OSError:
+                    pass
+            return i, pcm
 
         # a few chunks at a time, so an episode takes minutes rather than a quarter of an hour; order is kept
         done, failure, quota = {}, None, None
@@ -329,8 +350,8 @@ def render_pcm(turns, voices, fake=False, log=print):
                     quota = e
                 if failure is None:
                     failure = "chunk %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
-                abort.set()
-                ex.shutdown(wait=False, cancel_futures=True)
+                abort.set()   # the other chunks stop at their next check; never cancel futures here: a future
+                              # cancelled by shutdown(cancel_futures=True) never wakes as_completed, which then hangs
         ex.shutdown(wait=True)
         if quota is not None:
             raise quota
@@ -364,8 +385,8 @@ def render_pcm(turns, voices, fake=False, log=print):
                     quota = e
                 if failure is None:   # the first real failure; later ones are just lines told to stop
                     failure = "line %d: %s: %s" % (futs[f], type(e).__name__, str(e)[:300])
-                abort.set()
-                ex.shutdown(wait=False, cancel_futures=True)
+                abort.set()   # the other chunks stop at their next check; never cancel futures here: a future
+                              # cancelled by shutdown(cancel_futures=True) never wakes as_completed, which then hangs
         ex.shutdown(wait=True)
         if quota is not None:
             raise quota
