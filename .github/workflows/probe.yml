@@ -1,0 +1,39 @@
+name: probe
+on:
+  workflow_dispatch:
+    inputs:
+      script:
+        description: "script to test"
+        default: "scripts/pp-ws06-p1.txt"
+      chunk:
+        description: "chunk number"
+        default: "1"
+permissions:
+  contents: write
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    environment:
+      name: github-pages
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Time one short line and one two-voice chunk
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          timeout 120 python tools/probe.py reports/probe.json || true
+          timeout 420 python tools/probe_pair.py "${{ inputs.script }}" "${{ inputs.chunk }}" reports/probe-pair.json || true
+      - name: Save the result
+        run: |
+          git config user.name "sqe1-listen[bot]"
+          git config user.email "sqe1-listen-bot@users.noreply.github.com"
+          git add reports/probe.json reports/probe-pair.json || true
+          git commit -q -m "Probe result" || exit 0
+          git pull -q --rebase origin main || true
+          git push -q origin HEAD:main
