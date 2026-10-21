@@ -262,7 +262,7 @@ def render_pcm(turns, voices, fake=False, log=print):
         cl = None if fake else client()
         cfg = [{"speaker": lead["name"], "voice": lead["voice"]},
                {"speaker": second["name"], "voice": second["voice"]}]   # Google's documented shape for two voices
-        groups = chunks(turns, PAIR_CHUNK_WORDS)
+        groups = chunks(turns, int(voices.get("chunkWords") or PAIR_CHUNK_WORDS))   # voices.json can set bigger chunks
         suffix = voices.get("styleSuffix", "")
 
         def one_chunk(i_g):

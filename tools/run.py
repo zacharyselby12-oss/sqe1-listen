@@ -104,7 +104,8 @@ def store_audio(ep, voices_text):
 def requests_needed(words, voices):
     """About how many speech requests an episode of this length takes."""
     if voices.get("mode", "pair") == "pair":
-        return -(-words // render.PAIR_CHUNK_WORDS) + 2       # chunks, plus two spare for a retry
+        size = int(voices.get("chunkWords") or render.PAIR_CHUNK_WORDS)
+        return -(-words // size) + 2                          # chunks, plus two spare for a retry
     return words // 20 + 5                                      # line by line: about one request per turn
 
 
