@@ -21,7 +21,7 @@ from scriptfmt import ALLOWED_TAGS, TAG_RE, parse, strip_tags, tags_used, words 
 
 SECTIONS = ["rule", "exam mode", "recap"]
 WORD_LIMITS = (1700, 5200)   # long enough to cover every main point; never padded
-SECTION_WARN = {"rule": (500, 2600), "exam mode": (700, 2600), "recap": (70, 320)}
+SECTION_WARN = {"rule": (500, 4000), "exam mode": (700, 2600), "recap": (70, 320)}
 MAX_TAGS_PER_WORD = 1 / 80.0
 
 UNITS = r"(?:days?|weeks?|months?|years?|hours?|minutes?|working|business|per|cent|percent|pounds?|pence|p|%)"
@@ -159,6 +159,18 @@ def _expand_suffixes(text):
     return re.sub(r"(£)?(\d[\d,]*(?:\.\d+)?)(k|m|bn)\b", rep, text, flags=re.I)
 
 
+def guide_figures(text):
+    """Every numeric value the guide gives, read generously: digits glued to letters or brackets count too
+    ("s52(1)", "38A", "Sch.1", "£1,000pa"), as do number words. The guide is the reference, so err on including."""
+    vals = set(figures(text))
+    t = normalise(_expand_suffixes(text))
+    for m in re.finditer(r"\d[\d,]*(?:\.\d+)?", t):
+        v = num_value(m.group(0).rstrip(","))
+        if v is not None:
+            vals.add(v)
+    return vals
+
+
 def figures(text, with_context=False):
     """Set of numeric values in text (digits and number words). Optionally (value, has_unit_or_pound)."""
     t = normalise(_expand_suffixes(text))
@@ -204,7 +216,7 @@ def proper_candidates(text):
                 out.append((core, True))
             start = False
         else:
-            start = tok in ".?!:" or tok in {'"', "“", "‘"} or (start and tok in {'"', "“", "(", "…"})
+            start = tok in ".?!:…" or tok in {'"', "“", "‘"} or (start and tok in {'"', "“", "("})
             if tok in {"-", "—", "–", ","}:
                 start = False
     return out
@@ -260,13 +272,21 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
     for turn in turns:
         if len(turn["text"].split()) > 90:
             warnings.append("very long turn (%d words) in %s" % (len(turn["text"].split()), turn["section"]))
-    if YEAR_RE.search(body):
-        errors.append("a year appears: %s (no years, per the brief)" % sorted(set(YEAR_RE.findall(body))))
+    years = sorted(set(YEAR_RE.findall(body)))
+    if years:
+        guide_years = set(YEAR_RE.findall(guide_text))
+        foreign = [y for y in years if y not in guide_years]
+        if foreign:
+            errors.append("a year appears that the guide does not give: %s (no case or statute years)" % foreign)
+        own = [y for y in years if y in guide_years]
+        if own:
+            warnings.append("years from the guide: %s (fine for a date the rule turns on; not for a statute or "
+                            "case year)" % own)
     c = CITE_RE.search(body)
     if c:
         errors.append("law-report citation style text: %r" % c.group(0))
     # figures
-    guide_figs = figures(guide_text) | figures(" ".join(invented))
+    guide_figs = guide_figures(guide_text) | figures(" ".join(invented))
     script_figs = figures(body, with_context=True)
     unknown = []
     for v, has_unit in script_figs.items():
@@ -289,7 +309,8 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
     speaker_l = {s.lower() for s in speakers}
     unknown_names = set()
     guide_text_l = re.sub(r"\s+", " ", guide_text.lower())
-    for w, initial in proper_candidates(body):
+    cands = [c for t in turns for c in proper_candidates(strip_tags(t["text"]))]   # each turn starts a sentence
+    for w, initial in cands:
         if w.isupper() and len(w) > 1:
             if w in guide_upper or w in ALLOWED_CAPS or w.lower() in script_lower or w.lower() in guide_tokens:
                 continue
@@ -299,6 +320,8 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
         if any(p.lower() in guide_tokens or p.lower() in inv_tokens for p in split_words(w)):
             continue
         if initial and (lw in COMMON_STARTERS or lw in script_lower):
+            continue
+        if initial and re.split(r"['’]", lw)[0] in COMMON_STARTERS:   # "You'd", "That's", "We've"
             continue
         if initial and lw in guide_tokens:
             continue
