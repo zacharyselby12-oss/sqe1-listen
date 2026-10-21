@@ -1,1 +1,14 @@
 
+   28.4s ok 27.3s try 1: Right. Picture a client with
+   29.3s ok 28.3s try 1: A licence. It says so at the
+   57.5s ok 28.2s try 1: So we know what we've got. Q
+   57.6s ok 29.2s try 1: Third check, old or new, whi
+   84.4s ok 26.9s try 1: Hang on, so the tenant's stu
+   86.2s ok 28.6s try 1: Does it change when the tena
+  115.3s ok 30.9s try 1: That's the trap. The duty to
+  115.5s ok 29.3s try 1: Often reserved as rent, so f
+  142.1s ok 26.9s try 1: Last, three bits on a review
+  144.6s ok 29.1s try 1: Then a written application b
+  144.9s error after 0.3s try 1: <breath> Last one. Question  | RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retr
+  145.1s error after 3.0s try 1: Then every condition must be | RuntimeError: stopped: another line already failed
+  145.4s error after 0.5s try 1: Over 3 years, not 7. At 3 ye | RuntimeError: stopped: another line already failed
