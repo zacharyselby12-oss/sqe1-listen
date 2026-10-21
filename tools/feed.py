@@ -156,7 +156,7 @@ def subscribe_page(config, base_url, counts, out):
     def block(label, path, n, note=""):
         url = "%s/%s" % (base_url, path)
         return ("<section><h2>%s</h2><p>%s</p>"
-                "<p><a class=\"btn\" href=\"podcasts://%s/%s\">Open in Apple Podcasts</a></p>"
+                "<p><a class=\"btn\" href=\"podcast://%s/%s\">Open in Apple Podcasts</a></p>"
                 "<p><input readonly value=\"%s\" aria-label=\"Feed address\"> "
                 "<button onclick=\"navigator.clipboard.writeText('%s');this.textContent='Copied'\">Copy link</button></p>"
                 "</section>" % (escape(label), escape("%d episode%s%s" % (n, "" if n == 1 else "s", note)),
@@ -175,11 +175,12 @@ def subscribe_page(config, base_url, counts, out):
             "input{width:100%;font-size:14px;padding:.4rem}.btn{display:inline-block;border:2px solid #333;border-radius:8px;"
             "padding:.5rem 1rem;text-decoration:none;font-weight:bold}button{font-size:16px;margin-top:.4rem}</style></head>"
             "<body><h1>Add SQE1 Listen to Apple Podcasts</h1>"
-            "<p>On your iPhone, tap <strong>Open in Apple Podcasts</strong>, then <strong>Follow</strong>.</p>"
-            "<p>If that button does nothing: tap <strong>Copy link</strong>. Open Apple Podcasts, go to "
-            "<strong>Library</strong>, tap the <strong>three dots</strong> at the top right, choose "
-            "<strong>Follow a Show by URL</strong>, paste, and tap <strong>Follow</strong>. On a Mac: in the Podcasts app, "
-            "<strong>File</strong>, then <strong>Follow a Show by URL</strong>.</p>"
+            "<p><strong>The sure way, on your iPhone:</strong> tap <strong>Copy link</strong> under the show you want. "
+            "Open Apple Podcasts, go to <strong>Library</strong>, tap the <strong>three dots</strong> at the top right, "
+            "choose <strong>Follow a Show by URL</strong>, paste, and tap <strong>Follow</strong>. "
+            "On a Mac: in the Podcasts app, <strong>File</strong>, then <strong>Follow a Show by URL</strong>.</p>"
+            "<p>The quick way: tap <strong>Open in Apple Podcasts</strong>, then <strong>Follow</strong>. "
+            "If it says it cannot connect, use the sure way.</p>"
             + "".join(rows)
             + ("<p>Areas with no episodes yet (each appears here once its first episode is out): %s.</p>"
                % escape(", ".join(waiting)) if waiting else "")
