@@ -2,9 +2,10 @@
 
 You write ONE episode of "SQE1 Listen", a private study podcast for Zac, a law student preparing for SQE1
 (law of England and Wales). Two friends who both know the topic talk it through, for a walk or the gym.
-The only thing that matters to the listener is that it is accurate AND that it sounds like two real people
-talking, not a lesson being read out. Zac's verdict on an earlier draft: "robotic, not how actual people talk".
-Fix that, without ever bending the law.
+Three things matter to the listener: it is accurate, it is easy to follow, and it sounds like two real people
+talking, not a lesson being read out. Zac's verdicts on earlier drafts: "robotic, not how actual people talk", and
+"an overwhelming list of facts; impossible to understand or pick anything out of". Fix both, without ever bending
+the law.
 
 Files you may read (nothing else):
 - the EPISODE SOURCE: {GUIDE_TEXT}
@@ -19,10 +20,11 @@ yours, but a scenario's outcome must follow from the source's rule alone.
 
 ## The presenters
 - Will knows the material best. Dry, warm, quick to laugh at himself. Explains with pictures and examples, lets
-  Hannah finish her guess before he corrects it. Speaks first.
+  Hannah finish her guess before he corrects it. Speaks first, and keeps the episode on its map.
 - Hannah is sharp, quick and playful. She is NOT a student feeding prompts. She reacts, guesses, objects, sums up in
   her own words, teases Will, and sometimes gets there first. Often she makes statements, not questions. Sometimes
-  she falls for the tempting wrong answer so Will can show the deciding fact.
+  she falls for the tempting wrong answer so Will can show the deciding fact. She says the key rule back in her own
+  words, and if Will piles on detail too fast she pulls him back ("hang on, where does that fit?").
 Both are British, relaxed and witty, friends rather than lecturers. They talk to each other, never to "listeners".
 
 ## Sound like two real friends talking (the most important part)
@@ -49,8 +51,10 @@ Both are British, relaxed and witty, friends rather than lecturers. They talk to
   never replaces the rule, and never makes it sound wider or narrower than it is.
 - Never read a list out, but never drop an item either. If a test has three or more elements, make it a
   back-and-forth (Will gives one, Hannah guesses the next, he confirms or corrects), say every element, and say
-  whether all of them are needed or any one is enough. Avoid "first, second, third", "it is important to note",
-  "great question", "exactly" as the start of every answer, and one speaker repeating the other's sentence.
+  whether all of them are needed or any one is enough. Say how many there are before you start ("three conditions,
+  and you need all three") and wrap up in one line after. Number the map's questions ("question two") and use the
+  numbers as signposts; otherwise avoid "first, second, third", "it is important to note", "great question", "exactly"
+  as the start of every answer, and one speaker repeating the other's sentence.
 - When Hannah guesses wrong, Will corrects her at once (in the next line or two) with the exact rule. Never leave a
   wrong answer standing, and never end a section on one.
 - Let them have feelings about the law: groan at a nasty exception, enjoy a neat rule, admit the one they always
@@ -80,16 +84,50 @@ where they fit naturally. Before you finish, go through the source item by item 
 Covering everything is not the same as giving everything equal time. The exam comes first: spend the most time on
 what the exam question turns on, the traps, the look-alikes and the starred points. Cover the rest briefly, but exactly.
 
-## Shape: as long as full coverage takes, usually 2,500 to 4,500 words (15 to 30 minutes); never padded
-1. `## Rule`: the overall rule, as if learning it from scratch. A one-line hook (a little scene or a question, not
-   "welcome to the show"), then each section's test, its details (starred first), the numbers (time limits, amounts),
-   the exceptions, and what each rule leads to.
-2. `## Exam mode`: MCQ-style scenarios, trigger facts, common mistakes and look-alikes. Use every APPLY scenario in the
-   source (they are already checked): retell them with invented names and places, keeping every fact that decides the
-   answer exactly as the source has it. Then make sure every trap and every look-alike has come up. Each scenario:
-   Will gives it, Hannah answers (sometimes wrongly), Will gives the deciding fact, the right answer and why.
-3. `## Recap` (about 1 to 2 min). 4 to 6 quick lines, each one rule, exception or trap, said like friends wrapping
-   up, not a reading. The same lines go in the header under `recap:`.
+## Make it easy to follow (as important as covering everything)
+A listener cannot see headings or scroll back, so a stream of facts, however accurate, is impossible to take in.
+Every fact must arrive with its place in the bigger picture.
+1. Before writing, build the MAP: the 3 to 6 questions a solicitor, or an exam question, asks about this topic, in the
+   order they are asked, built from the source's sections, TESTs and "what the exam question turns on". Every section
+   you cover must hang from one of them. It goes in the header under `map:`, one short line per question, in order.
+2. Open with why it matters and then the map, all within the first minute: a quick scene showing what goes wrong for a
+   client, then Will gives the map in plain words ("four questions, always in this order") and Hannah says it back.
+3. Take one question at a time, in map order. For each one:
+   - signpost it and link it to the last one ("So it's a lease. Question two: is it a legal lease?");
+   - give the core rule in one or two plain sentences BEFORE any detail;
+   - say why it matters, where the source gives a reason or a consequence (what goes wrong if you get it wrong);
+   - then the details, each tied to the rule it changes and to when it applies ("that's the exception to the deed
+     rule", "this only matters if the lease is over seven years"). Never a fact on its own: if you can't say where it
+     fits, move it to where it does fit;
+   - introduce three or more small details on one point as a group ("three bits of small print, all about timing"),
+     then give them;
+   - close with a one-line takeaway, often Hannah putting it in her own words: saying it back is how it sticks.
+4. A section that doesn't fit the map (a sale topic in a lease workshop, say) is a short, clearly labelled detour:
+   "one detour first, nothing to do with leases".
+5. Time follows the exam: starred points, traps and what the exam turns on get an example each; minor details get a
+   sentence each, but they still get said.
+6. Numbers: say each number where its rule is, then all of them once more in a quick numbers round at the end of Rule.
+
+A map and signposts (neutral example, not law):
+  Will: Getting a parcel back to the shop is always three questions, in this order: can it go back at all, who pays
+        the postage, and when do you get your money.
+  Hannah: So: allowed, postage, refund. In that order.
+  ...
+  Will: So it can go back. Question two, then: who pays to send it?
+  ...
+  Hannah: Right, so the shop pays only if the thing was faulty. Otherwise it's on me.
+  Will: That's question two. And the last one is the one people get wrong: when the money actually comes back.
+
+## Shape: as long as full coverage takes (usually 2,500 to 5,000 words, 15 to 35 minutes); never padded
+1. `## Rule`: the opening and the map, then the map's questions one at a time as above, then the numbers round.
+2. `## Exam mode`: practise walking the map on MCQ-style scenarios. Use every APPLY scenario in the source (they are
+   already checked): retell each with invented names and places, keeping every fact that decides the answer exactly as
+   the source has it. Then make sure every trap and every look-alike has come up. Each scenario: Will gives it; Hannah
+   works through it out loud, saying which question of the map it turns on (sometimes taking the tempting wrong turn);
+   Will gives the deciding fact, the right answer and why.
+3. `## Recap` (1 to 2 minutes): the map once more, one line per question with its key rule or trap (the same 3 to 6
+   lines go in the header under `recap:`). The episode's very last line is Will summing up the whole episode in ONE
+   sentence of at most 40 words (the same sentence goes in the header under `summary:`).
 
 ## Hard rules (a program checks these before anyone listens)
 - Every figure (days, months, amounts, percentages, section numbers) must be in the source, exactly as stated.
@@ -108,12 +146,17 @@ what the exam question turns on, the traps, the look-alikes and the starred poin
 ```
 ---
 title: {TITLE_PREFIX} · <2 to 4 word topic>
+map:
+- <question 1, a few words>
+- <question 2>
+- <question 3>
+- <optional questions 4 to 6>
 recap:
 - <line 1>
 - <line 2>
 - <line 3>
-- <line 4>
-- <optional lines 5 and 6>
+- <optional lines 4 to 6>
+summary: <the one-sentence summary, word for word as Will says it last>
 invented:
 - <each invented name, place, brand, amount, date>
 ---
@@ -141,8 +184,9 @@ Hannah: ...
 Run: python tools/check_script.py {OUT_PATH} {GUIDE_TEXT}
 Fix every ERROR it prints and run it again until it says OK. Then reread your script three times: once as a strict
 marker (is each legal statement in the source?), once against the source item by item (is every test element,
-starred detail, exception, trap, look-alike and number covered?), and once as a listener (would two real friends say
-this? where does it sound read out?). Reply with the single word: done
+starred detail, exception, trap, look-alike and number covered?), and once as a student hearing it for the first time
+(at every point, can you tell which question of the map you are on and why this fact matters there? would two real
+friends say this? where does it sound read out?). Reply with the single word: done
 If an ERROR remains that you are sure is a false alarm (for example a name that really is in the source under another
 spelling), do not twist the script to please the program: reply "done, with errors:" and list them, so the check can be
 improved. Never silence a check by deleting a true statement or adding a name to `invented:` that is not invented.

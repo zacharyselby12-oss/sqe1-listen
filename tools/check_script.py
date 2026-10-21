@@ -20,8 +20,8 @@ sys.path.insert(0, str(Path(__file__).parent))
 from scriptfmt import ALLOWED_TAGS, TAG_RE, parse, strip_tags, tags_used, words  # noqa: E402
 
 SECTIONS = ["rule", "exam mode", "recap"]
-WORD_LIMITS = (1700, 5200)   # long enough to cover every main point; never padded
-SECTION_WARN = {"rule": (500, 4000), "exam mode": (700, 2600), "recap": (70, 320)}
+WORD_LIMITS = (1700, 5600)   # long enough to cover every main point; never padded
+SECTION_WARN = {"rule": (500, 4000), "exam mode": (700, 2600), "recap": (70, 420)}
 MAX_TAGS_PER_WORD = 1 / 80.0
 
 UNITS = r"(?:days?|weeks?|months?|years?|hours?|minutes?|working|business|per|cent|percent|pounds?|pence|p|%)"
@@ -234,6 +234,17 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
     recap = meta.get("recap")
     if not isinstance(recap, list) or not 3 <= len(recap) <= 6:
         errors.append("header: recap must list 3 to 6 lines")
+    mp = meta.get("map")
+    if not isinstance(mp, list) or not 3 <= len(mp) <= 6:
+        errors.append("header: map must list 3 to 6 questions, in order")
+    summary = meta.get("summary")
+    if not isinstance(summary, str) or not summary.strip():
+        errors.append("header: summary (one sentence) missing")
+    else:
+        if len(summary.split()) > 45:
+            errors.append("header: summary has %d words (at most 40)" % len(summary.split()))
+        if len(re.findall(r"[.!?](?:\s|$)", summary.strip())) > 1:
+            errors.append("header: summary must be ONE sentence")
     invented = meta.get("invented") or []
     if isinstance(invented, str):
         invented = [invented]
@@ -245,6 +256,13 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
     secs = [s.strip().lower() for s in sc["sections"]]
     if secs != SECTIONS:
         errors.append("sections must be exactly: Rule, Exam mode, Recap (found %s)" % sc["sections"])
+    if isinstance(summary, str) and summary.strip():
+        rec_turns = [t for t in turns if t["section"].strip().lower() == "recap"]
+        last = rec_turns[-1] if rec_turns else (turns[-1] if turns else None)
+        want = set(re.findall(r"[a-z0-9]+", summary.lower()))
+        got = set(re.findall(r"[a-z0-9]+", strip_tags(last["text"]).lower())) if last else set()
+        if last is None or turns[-1] is not last or (want and len(want & got) / len(want) < 0.7):
+            errors.append("the episode's last line must be the one-sentence summary (header summary:)")
     total = sum(words(t["text"]) for t in turns)
     stats["words"] = total
     stats["minutes_at_2.6_wps"] = round(total / 2.6 / 60, 1)

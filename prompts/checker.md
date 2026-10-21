@@ -18,7 +18,8 @@ Flag a problem when you find:
 - SCENARIO: an invented scenario whose answer is not what the source's rule gives, that lacks a fact needed to reach
   the answer, or contains a fact that would change it.
 - NUMBERS: a figure attached to the wrong rule.
-- RECAP: the header recap and the spoken recap disagree, or a recap line is inaccurate.
+- RECAP: the header recap and the spoken recap disagree, or a recap line, a map line or the one-sentence summary
+  (header `map:` and `summary:`, and the episode's last line) is inaccurate or claims more than the source.
 - HEDGE: a legal rule or figure stated with "I think", "kind of", "sort of", "roughly" or similar and not then
   stated exactly; a wrong guess left uncorrected; a rule left half-said by an interruption.
 - OMISSION: anything the episode must cover but does not: a TEST element of any section (or whether all elements are
