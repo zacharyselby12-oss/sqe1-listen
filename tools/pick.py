@@ -18,7 +18,8 @@ config.maxNewPerWeek in any 7 days, which keeps Claude usage in check), in this 
   5. studied in the last 14 days
   6. a topic of the workshop has 2+ misses/confusions in the last 14 days
   7. everything else whose guide is applied          (the app's order where it has one, then module and number)
-A workshop qualifies only if its v3 guide is applied in the live app: guide.v3, guide.conv.ver == "v3" and
+config.dayLimits {"yyyy-mm-dd": n} lowers a London day's limit and config.notBefore {unitId: ISO time} holds a workshop
+until then (Zac's usage plan near the end of his week). A workshop qualifies only if its v3 guide is applied in the live app: guide.v3, guide.conv.ver == "v3" and
 builds/b-<unit> has status "applied", ver "v3" and the same run as the guide. A workshop is (re)made when it has
 no episode yet, or when the guide's content hash differs from the one its episode was made from.
 
@@ -31,6 +32,7 @@ import json
 import sys
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 sys.path.insert(0, str(Path(__file__).parent))
 from guide_extract import source_hash  # noqa: E402
@@ -95,6 +97,11 @@ def pick(data, registry, config, now):
     names = config.get("moduleNames", {})
     cap_new = config.get("maxNewPerWeek", 15)
     cap_day = config.get("maxNewPerDay", 5)
+    day = now.astimezone(ZoneInfo("Europe/London")).date().isoformat()
+    day_plan = day in (config.get("dayLimits") or {})          # Zac's usage plan: a lower limit for a given day
+    if day_plan:
+        cap_day = int(config["dayLimits"][day])
+    not_before = config.get("notBefore") or {}                 # ... and workshops held until a given time
     cap_rep = config.get("maxReplaysPerWeek", 10)
     revise = [r["unitId"] if isinstance(r, dict) else r for r in config.get("reviseNext", [])]
     order = load_order(data)
@@ -134,6 +141,10 @@ def pick(data, registry, config, now):
             if cur.get("guideHash") == h:
                 continue  # already made (or held) for this exact guide
             remake = True
+        nb = dt(not_before.get(uid))
+        if nb and now < nb:
+            skipped.append({"unitId": uid, "why": "held until %s (Zac's usage plan)" % nb.isoformat()})
+            continue
         cls = classes.get(uid)
         o = order.get(uid) or {}
         studied = dt(unit.get("studiedAt")) if unit.get("studied") else None
@@ -171,13 +182,17 @@ def pick(data, registry, config, now):
     cands.sort(key=lambda c: (c["tier"], c["_key"]))
     made7 = sum(1 for e in registry.get("episodes", [])
                 if dt(e.get("madeAt")) and dt(e["madeAt"]) >= now - timedelta(days=7))
+    # (a day in Zac's usage plan counts what was made since that London day began; otherwise any 20 hours)
+    day_start = (datetime.combine(now.astimezone(ZoneInfo("Europe/London")).date(), datetime.min.time(),
+                                  tzinfo=ZoneInfo("Europe/London")) if day_plan else now - timedelta(hours=20))
     made_day = sum(1 for e in registry.get("episodes", [])
-                   if dt(e.get("madeAt")) and dt(e["madeAt"]) >= now - timedelta(hours=20))
+                   if dt(e.get("madeAt")) and dt(e["madeAt"]) >= day_start)
     room_week, room_day = max(0, cap_new - made7), max(0, cap_day - made_day)
     room = min(room_week, room_day)
     chosen = cands[:room]
     for c in cands[room:]:
-        why = ("over today's limit of %d new episodes (Google's speech allowance): it is made on the next run" % cap_day
+        why = ("over today's limit of %d new episodes (%s): it is made on a later run"
+               % (cap_day, "Zac's usage plan" if day_plan else "Google's speech allowance")
                if room_day < room_week else "over the weekly limit of %d new episodes" % cap_new)
         skipped.append({"unitId": c["unitId"], "why": why})
     for c in chosen:

@@ -1,14 +1,17 @@
 # Runbook: the daily producer run (08:05 London, Sunday to Friday, just after Google's daily speech reset)
 
-For Claude. Since 21 Oct 2026 the run happens in the set-up chat, when a scheduled wake-up booked with Zac's agreement
-delivers it there (a fresh scheduled session can attach this repo but can't push to it). Follow this exactly. It runs
+For Claude. Since 21 Oct 2026 the run happens in the set-up chat: a one-off scheduled wake-up delivers it there each
+morning, and each run books the next ones (step 0; Zac agreed to this on 21 Oct). A fresh scheduled session can attach
+this repo but can't push to it, and the service doesn't allow a repeating wake-up into a chat linked to his computer.
+Follow this exactly. It runs
 unattended, so do not ask questions: decide, write down what you decided in the report, and carry on. If something
 blocks you, put it in the report and stop that item.
 
 ## Rules that never bend
 - **App data is read only.** Use ArtifactData `get`, `list` or `query` only. Never `set`, `update`, `delete` or `batch`.
   App: the artifact address in the wake-up message (it is not stored in this repo). Never send Zac's email address anywhere.
-- **Never touch the nightly task** (trig_017R1xLboYnY13nu1KNBg5gY) or the app's code. Create no new scheduled tasks.
+- **Never touch the nightly task** (trig_017R1xLboYnY13nu1KNBg5gY) or the app's code. The only scheduled tasks a run
+  creates are its own next wake-ups (step 0).
 - **Shabbat:** if it is Friday after 14:00 or Saturday before 20:00 in London, stop at once and say nothing.
 - **Never push guides.** Guide files and their extracts stay under /tmp. Only scripts, the episode list and reports go to GitHub.
 - **You never read a guide into your own context.** Only the helpers read the extract text. You may print counts, hashes and
@@ -17,7 +20,16 @@ blocks you, put it in the report and stop that item.
 - Helpers (Agent tool): fresh and short-lived, at most 2 at a time. `model: "sonnet"` writes and revises.
   **`model: "opus"` does every accuracy check** (two per episode, below). Each helper gets only the files it needs.
 - **Pause switch:** if `config.json` has `"paused": true`, stop at once and say so (used when Zac's weekly usage is high).
-- If the message says **DRY RUN**: do steps 1 to 3 and 8 only. No helpers. The only commit is the dry-run report.
+- If the message says **DRY RUN**: do steps 1 to 3 and 8 only (not step 0). No helpers. The only commit is the dry-run report.
+
+## 0. Keep the wake-ups going (first thing, every run)
+So that one failed run never breaks the chain, each run makes sure the next TWO run times are booked:
+1. `python3 tools/next_runs.py` prints them (08:05 London, Sunday to Friday, in UTC).
+2. `list_triggers` (enabled true; page through it): the bookings are one-off scheduled tasks named "SQE1 Listen: daily
+   run" with a run_once_at. For each printed time with no booking within 10 minutes of it, call `send_later` (at = that
+   time, name "SQE1 Listen: daily run", initiation "human_schedule", message = the text of docs/WAKEUP.txt).
+3. If reports/<today, yyyy-mm-dd>.md already exists, today's run has been done: stop here.
+To stop the daily run, Zac switches off the booked wake-ups (or asks this chat to), and sets config.json "paused": true.
 
 ## 1. Set up
 1. ToolSearch `select:ArtifactData` to load it. If it will not load, stop and say so.
