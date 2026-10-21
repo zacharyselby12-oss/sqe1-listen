@@ -1,0 +1,311 @@
+---
+id: pp-ws06-p2
+unit: u-bpp-PP-06
+guide_hash: f6b6c2cd57
+made: 2026-10-21T12:30:20+00:00
+title: PP WS06 · Part 2 of 2 · From grant to surrender
+map:
+- Can we validly grant it?
+- What is the tenant taking on?
+- What happens before completion?
+- If it goes wrong, who pays and how much?
+- How does the lease end?
+recap:
+- Over 3 years needs a deed, 3 years or less skips it only if it is in possession, at the best rent reasonably obtainable, with no premium, and 7 years is only the registration line.
+- On an open contract the tenant cannot call for the freehold title unless the grant triggers compulsory first registration, but under the Standard Conditions the landlord must deduce title enabling absolute title on a lease over 7 years.
+- Contracting out needs a simple declaration if the warning notice is at least 14 days before the tenant is bound and a statutory declaration if less, and the tenant is bound by the lease or the agreement for lease, whichever comes first.
+- A variation without the guarantor's consent releases the guarantor unless it is plainly insubstantial or the guarantee preserves liability, and repair damages are capped at the loss to the reversion, not the cost of the works.
+- Keys alone are not a surrender, because the landlord must accept unequivocally.
+summary: Grant by deed unless every short-lease condition is met, check the title and building, contract out before the tenant is bound, remember repair damages stop at the loss to the reversion, and never treat keys alone as surrender.
+invented:
+- Farah
+- Joel
+- Lincoln
+- Marta
+- Swansea
+- Rashid
+- Imogen
+- Tessa
+- Colin
+- Gareth
+- Naomi
+---
+## Rule
+Will (warm): Right, Hannah. Three bad days. A tenant finds the landlord's bank can take the building free of her lease, because the mortgage needed the bank's consent and nobody asked. A landlord finds his tenant has security of tenure after all, because the paperwork came too late. And a tenant hands back her keys, thinks she's free, and is sued for rent three months later.
+Hannah (dry): Cheerful. Is there a pattern?
+Will (amused): There is. Every lease goes through the same five questions, always in this order. One: can we validly grant it? Two: what is the tenant taking on? Three: what has to happen before completion? Four: if the tenant defaults, who pays, and how much? Five: how does the lease end?
+Hannah (thinking aloud): So grant, check, complete, chase, end.
+Will (pleased): That's the map. This is part two of two, from drafting the lease to surrender. The deposit, what a lease is and the covenants were part one.
+Hannah: Fine. Question one, then.
+Will (warm): Question one has four little checks. Say you've found a unit for your cheese shop. The landlord's solicitor drafts the lease, and any agreement for lease, and yours approves or amends. Check one: is it a lease at all? That needs exclusive possession for a term certain, so sole use of the place for a fixed period. It matters because a licence creates no estate and gives no security of tenure.
+Hannah (sceptical): And if the draft is headed "licence"? The landlord gets to call it what he likes, surely.
+Will (dry): Other way round. The label decides nothing. If you get sole use of a locked unit for a fixed term, that's a lease whatever the front page says. That's Street and Mountford.
+Hannah (teasing): So I could call it a banana agreement and it's still a lease.
+Will (laughing): You could. <laugh> The facts beat the label. Rent is usual but not essential, that's Ashburn Anstalt and Arnold. Without exclusive possession, though, it's only a licence.
+Hannah (thoughtful): Okay, it's a lease. Check two: is it a legal one?
+Will (brisk): Here's the rule in one breath. More than 3 years needs a deed to create a legal estate, that's section 52 of the Law of Property Act. Then there's a short-lease exception from the deed, with four conditions that must all be met. And over 7 years the lease must also be registered.
+Hannah (wry): And I always muddle those. Seven for the deed, three for registration?
+Will (laughing): Other way round, and the exam knows you muddle them. 3 years is the deed line. 7 years is only the registration line.
+Hannah: Right. So a 5-year lease, we both sign it, but nobody makes it a deed.
+Will: Then it isn't a legal lease. If the signed writing complies with section 2 of the 1989 Act, you have an equitable lease instead, because equity treats as done what ought to be done. That's Walsh and Lonsdale.
+Hannah (wary): And if I move in and pay rent as well?
+Will: Keep two things apart. The equitable lease comes from the signed writing. An implied legal periodic tenancy comes from going into possession and paying rent the landlord accepts.
+Hannah (groaning): And I bet the 3-year exception has a catch.
+Will: Four conditions, and you need all four. The term can't be more than 3 years. What would you add?
+Hannah (thinking aloud): That it's a normal deal? Not a mate's-rates rent?
+Will (pleased): Yes, the best rent reasonably obtainable. Next?
+Hannah: No lump sum to get in. No premium.
+Will: No premium. And the last one is that it takes effect in possession. Your cheese shop starts straight away, so that one's met.
+Hannah: All four, then.
+Will: Yes, not any one of them. That's section 54(2). Meet them and the lease can be oral or in writing, with no deed. Miss any one, say there's a premium, and you're outside section 54(2), so a deed is needed.
+Hannah (dry): And a contract to grant the lease, before the lease itself?
+Will: That has to satisfy section 2: in writing, containing all the agreed terms, and signed by or on behalf of both parties. The exception is a contract for a short lease within section 54(2), which section 2(5)(a) excepts.
+Hannah: So a proper short lease dodges the deed and the formal contract.
+Will: If it meets all four conditions, yes. And one registration point: a lease granted out of a registered title for more than 7 years has to carry the prescribed clauses, LR1 to LR14, at its start, so HM Land Registry can register it.
+Hannah (thoughtful): Okay. Check three: what's actually in the document?
+Will: Eight headings. The parties and the parcels, defined precisely, including which structural parts are included, especially in a multi-let building. The term, and the rent with its review. And then easements, reservations, covenants and provisos.
+Hannah (wry): Easements and reservations. Aren't those the same thing?
+Will (amused): They point in opposite directions. Easements are granted to the tenant: access, services, parking, signs. Rights reserved to the landlord include entry to inspect and repair, and services. The provisos include the forfeiture clause, which is the re-entry clause.
+Hannah: And who signs?
+Will: It's engrossed in two parts. The landlord signs the lease, the tenant and any guarantor sign the counterpart, and they're exchanged on completion.
+Hannah (thinking aloud): What if I later sublet the shop?
+Will (quietly): That's a starred one. An underlease must be shorter than the head lease, by at least one day. Sub-grant the whole of what's left of your term and it operates as an assignment.
+Hannah (dry): Another label that doesn't help.
+Will: Not a bit. An assignment passes the whole remaining term, so the assignee becomes the landlord's tenant, while an underletting carves a shorter lease out of your term, so you become the subtenant's landlord.
+Will: An underlease also has to be consistent with the head lease in three ways: covenants at least as onerous, a use the head lease permits, and the head landlord's consent where it's required.
+Hannah: Three things, all looking up at the head lease.
+Will: Yes. One last drafting point: a business lease is otherwise protected under Part II of the Landlord and Tenant Act, unless it's contracted out, and that's question three. Now check four: is there a gap between agreeing the terms and being able to grant the lease?
+Hannah (thinking aloud): Like the building not being finished yet.
+Will (pleased): That's the classic: the landlord has to do building or fit-out works first. Other typical conditions are planning permission, or a superior landlord's or lender's consent. With a gap, they sign an agreement for lease first, with the agreed form of lease annexed, and once the condition is satisfied both sides are bound to complete the lease in that form.
+Hannah: And with no gap, there's no agreement for lease.
+Will: Right. They simply complete the lease after the pre-exchange steps.
+Hannah (brisk): Question one in my words, then. The deed line is 3 years, not 7, and 3 years or less only skips the deed if all four conditions are met.
+Will (warm): That's question one.
+Hannah (pleased): One down. Question two.
+Will (warm): What is the tenant taking on? Two halves. The title first, then the building and the bills.
+Hannah (wary): I assume the tenant can demand to see the landlord's freehold title. It's what the shop sits on.
+Will (amused): Not on an open contract. The tenant, or an undertenant, can't call for the freehold title. That's section 44(2).
+Hannah (sceptical): There's always an exception.
+Will: One. Where the grant triggers compulsory first registration, which is section 44(4A).
+Hannah (dry): So otherwise, tough luck.
+Will: On an open contract, yes. But under the Standard Conditions, where the lease exceeds 7 years, the landlord must deduce title enabling absolute title, and in practice that means the superior, freehold title. And in any event, a tenant should insist on deduction.
+Will: And here's why that matters. If the freehold is registered or deduced, you get absolute leasehold. If the superior title isn't deduced and it's unregistered, you only get good leasehold, which many lenders and buyers won't accept.
+Hannah (groaning): "Good" being the disappointing one.
+Will (laughing): Yes, annoyingly.
+Hannah: And once we've got the title, what are we hunting for?
+Will: Four checks, and you do all four. The obvious one first: does the landlord own the property, and can it grant the lease?
+Hannah: Then whether the easements the tenant needs actually exist.
+Will: Yes. Next?
+Hannah: Restrictive covenants, in case they stop the intended use.
+Will: Right, and properly protected covenants on the freehold bind the tenant. The fourth is the nasty one.
+Hannah: The mortgage.
+Will (deadpan): Whether the mortgagee has to consent. Picture the landlord's bank with a mortgage over the building. Mortgages usually exclude the statutory leasing power, so without the bank's consent the lease binds the landlord only, and the lender can take possession free of it.
+Hannah (incredulous): So I'd be holding a lease the bank can just ignore.
+Will (dry): The lender can take possession free of it, yes. Which is why you ask first.
+Hannah: And if I'm taking an underlease, I'd want the head lease.
+Will: You would, to check alienation and user covenants, rent review and forfeiture risk. And the head landlord's consent and, ideally, the freehold title, because the underlease falls if the head lease is forfeited.
+Hannah (brisk): Right, second half. The building and the bills.
+Will: And the rule here is bleak. The landlord gives no implied warranty that the premises are fit for purpose, or that your intended use has planning permission. That's Hill and Harris.
+Hannah (sceptical): But if the lease lets me run a cheese shop, then planning must be sorted.
+Will (dry): No. Permitting a use is not a warranty that the use has planning permission. So you survey the premises and check the planning and building regulation history, and a tenant taking on repairing liability especially needs a building survey.
+Hannah (wry): So all the homework is mine.
+Will (amused): All of it. It starts with the usual searches, as on a freehold purchase: local authority, drainage and water, environmental, and others according to location, all proportionate to the lease's length and value.
+Hannah: And then the enquiries.
+Will: CPSE one, the general ones, and CPSE three, the supplemental ones on the grant of a lease, aimed at what the tenant will bear. Four headings. Go on.
+Hannah: The service charge, budgets and accounts. Insurance. The state of the building and any disputes... and business rates?
+Will (pleased): Business rates, as an outgoing. That's the four.
+Hannah: Anything on energy?
+Will: Yes. The EPC must be provided to a prospective tenant, and you check the MEES rating. Two rules, one for a new lease and one for a lease already running.
+Hannah: New lease first.
+Will: On grant, a landlord must not grant a new lease of non-domestic premises rated F or G, which is below E, unless a valid exemption is registered. E is the minimum, so E-rated premises may be let.
+Hannah (wary): And a lease that's already running?
+Will: Since 1 April 2023, a landlord must not continue to let non-domestic premises rated F or G unless an exemption is registered. Either way, a breach doesn't invalidate the lease. It exposes the landlord to civil penalties.
+Hannah (thoughtful): Question two in my words. On an open contract the tenant can't call for the freehold title unless the grant triggers compulsory first registration, but under the Standard Conditions over 7 years the landlord has to deduce it. And the landlord gives no implied warranty about fitness or planning.
+Will (pleased): That's question two.
+Hannah (brisk): Question three.
+Will (warm): What happens before completion? Three jobs: the searches, the contracting-out paperwork, and the lender and the money. Searches first, and which one you make depends on the landlord's title.
+Hannah (wary): So an OS1 for a registered title, I'm guessing.
+Will: If the lease is registrable, so more than 7 years, and the landlord's title is registered, yes. You make an OS1 official search with priority, instead of a non-priority search. That gives the tenant priority for its application to register, for 30 working days from the search.
+Hannah (thinking aloud): And if the landlord's title isn't registered, it's a different search altogether.
+Will: A K15 land charges search against the landlord. That's the trap: unregistered means K15, not OS1. And a company landlord needs a company search, plus any searches the tenant's lender requires.
+Hannah (groaning): Now contracting out, which I will never remember.
+Will (laughing): You will by the end. Here's the stake. A business lease is protected under Part II of the Landlord and Tenant Act unless it's contracted out, which takes it outside the security of tenure sections, sections 24 to 28. The warning notice and the declaration both have to be completed before the tenant is bound, and the lease has to refer to them.
+Hannah: Refer to what, exactly?
+Will: Three things: the notice, the declaration, and the agreement to exclude, either in the lease or endorsed on it. Miss those references and the tenancy is protected.
+Hannah (teasing): And the declaration comes in two flavours, depending on time.
+Will: Go on.
+Hannah (thoughtful): A simple one if there's plenty of time, and a statutory one if there isn't.
+Will (laughing): That's it, and the line is 14 days. I'll admit I always stop and think which side gets which. If the warning notice was served at least 14 days before the tenant is bound, the tenant signs a simple declaration.
+Hannah: And less than that, it's the statutory one.
+Will: Yes, a statutory declaration, made before an independent solicitor or another person authorised to administer oaths.
+Hannah (wary): And "bound" is when the tenant signs the lease?
+Will: The test is when it's bound, by the lease or by an agreement for lease, whichever comes first. So a notice served after the agreement for lease is too late.
+Hannah (groaning): Even if completion's still weeks off?
+Will: <short pause> Even 20 days before completion.
+Hannah (incredulous): Oh, that's harsh.
+Will: It's the classic trap, because the tenant was already bound at the agreement for lease.
+Hannah (relieved): Is that everything?
+Will: One job left, the lender and the money. You meet the lender's requirements, which means a report on title or certificate of title, and the mortgage deed signed. Then there's the completion statement. What goes in that?
+Hannah: Any premium, for a start.
+Will: Yes, plus the first rent, apportioned from the rent commencement date to the next payment date, and any other sums reserved as rent.
+Hannah (brisk): Question three in my words. OS1 if the lease is registrable and the landlord's title is registered, K15 if the landlord's title isn't registered. And for contracting out, count the days from the warning notice to when the tenant is bound, which is the agreement for lease if there is one.
+Will (pleased): And 14 days or more means simple, less means statutory. That's question three.
+Will (warm): Question four: when the tenant defaults, who pays, and how much? Two halves. First, who the landlord can chase, then how much it can claim. Guarantors first. Read the guarantee: is the guarantor liable as guarantor and also under an indemnity?
+Hannah (thoughtful): Which makes it primary liability.
+Will: Yes. And can the landlord sue the guarantor without first suing the tenant?
+Hannah: If the guarantee says so, surely.
+Will: Yes, if the guarantee so provides.
+Hannah (wary): Then the real question is how the guarantor wriggles free.
+Will: Three ways, and any one of them is enough. Have a guess at the first.
+Hannah (thinking aloud): If the lease changes behind its back. A variation.
+Will: Yes. A variation of the lease, or the landlord giving the tenant time, without the guarantor's consent, releases the guarantor. There are two exceptions: the variation is plainly insubstantial, or the guarantee preserves liability, which most do.
+Hannah: And the second?
+Will: That's only for a new lease, meaning one granted on or after 1 January 1996, and not under a pre-1996 agreement, option or court order. If the tenant lawfully assigns it, the tenant is released and the guarantor goes at the same time. That's section 24(2) of the Landlord and Tenant Covenants Act.
+Hannah (wary): And the third?
+Will (dry): It's for a former tenant's guarantor. The landlord needs a section 17 notice within 6 months of the sum falling due, and with no notice in time, there's no recovery. That guarantor also isn't liable for increases from later variations the landlord could have refused, which is section 18 of the same Act.
+Hannah (wary): So what does a careful landlord do?
+Will: A well-drafted guarantee obliges the guarantor to take a new lease if the lease is disclaimed on the tenant's insolvency. That one's starred.
+Hannah (wry): So the guarantor ends up with the keys. <sigh> Lovely.
+Will: Or the landlord takes a rent deposit instead, and that's the look-alike. It can draw on the deposit for arrears or other defaults without any court proceedings, and the tenant tops it up. With a guarantee, it has to sue the guarantor.
+Hannah: How big is the deposit?
+Will: No prescribed amount. It's commonly between 3 and 12 months' rent, depending on covenant strength, plus VAT where the landlord has opted to tax. The tenant gets it back at the end of the term, on lawful assignment, or when it meets agreed financial tests.
+Hannah (deadpan): And who does it protect?
+Will: That depends on how it's held. Charged to the landlord, it protects the landlord if the tenant becomes insolvent, and that charge isn't registrable at Companies House. Held in a separate account on trust for the tenant, it protects the tenant if the landlord becomes insolvent.
+Hannah (brisk): Right. How much can the landlord claim?
+Will: Start with which covenant was broken. If it's repair, the cap in section 18, subsection 1, of the 1927 Act applies. Other breaches, like user or alienation, give ordinary contract loss to the reversion.
+Hannah (thinking aloud): And the cap is the cost of the works, presumably.
+Will (warm): Not the cost, and that's the starred bit. Repair damages are capped at the diminution in value of the landlord's reversion.
+Hannah: So even if the repairs cost a fortune...
+Will: Still capped at the diminution. And at term end, if the premises are to be pulled down or structurally altered at or shortly after the end of the term, so the repairs would be valueless, the damages are nil.
+Hannah (incredulous): Nil? Even though the tenant let it rot?
+Will (dry): <short pause> Nil, because the repairs would be valueless.
+Hannah: Is mid-term any different?
+Will: It comes down to whether the lease is still running. Mid-term there's a leave procedure under the Leasehold Property Repairs Act. For a lease of 7 years or more with 3 years or more unexpired, the landlord serves a section 146 notice, the tenant has 28 days to serve a counter-notice, and if it does so in time, the landlord needs the court's leave.
+Hannah (sceptical): That's about forfeiture, surely.
+Will: Forfeiture and damages claims, which is the bit people forget. With less than 3 years unexpired, no leave is needed.
+Hannah: And at the end of the term?
+Will: The dilapidations Pre-Action Protocol: the landlord's schedule of dilapidations, a quantified demand, the tenant's response and the section 18 valuation.
+Hannah (pleased): So mid-term, on a lease of 7 years or more with 3 or more left, a counter-notice in time means leave, and at the end it's the protocol.
+Hannah: What about the other direction, the tenant suing the landlord?
+Will: Say for repair or quiet enjoyment. The damages put the tenant where it would have been if the covenant had been performed, including loss of use and the cost of alternative accommodation. And the tenant may set off the cost of repairs against the rent, which is Lee-Parker and Izzet, unless the lease excludes set-off.
+Hannah (teasing): So a "without deduction or set-off" clause kills it.
+Will: Yes, that kind of clause excludes it.
+Hannah (brisk): Question four in my words. A variation behind the guarantor's back releases it, unless it's plainly insubstantial or the guarantee preserves liability. And repair damages stop at the loss to the reversion, not the cost of the works.
+Will (pleased): That's question four.
+Hannah (brisk): Last one.
+Will (warm): How does it end? Two halves again: the lease running out, then the tenant handing it back. Running out first, which is effluxion of time. A fixed term ends automatically at contractual expiry, and at common law no notice is needed.
+Hannah (wry): Easy. Next.
+Will (amused): Not so fast, because for a business lease there's a catch. Effluxion ends it only if it's contracted out, or the tenant isn't in business occupation at the contractual expiry date. That's sections 38A and 27(1A).
+Hannah (thinking aloud): So if it's not contracted out and the tenant's still trading...
+Will: Then it's protected under Part II, and it continues under section 24 on the same terms. It hasn't ended at all. From there it ends only as the Act allows, and there are five routes. I'll start you off: a section 25 notice.
+Hannah: Then a section 26 request, I suppose.
+Will: Yes, and the tenant's own section 27 notice.
+Hannah: And surrender, and forfeiture, obviously.
+Will: Those two as well. Five, and any one of them will do.
+Hannah (wary): Hang on. Say it was contracted out and the tenant just stays on, paying rent. Is that tenant stuck outside the Act?
+Will: Depends on the facts. If the landlord accepts that rent, holding over may create an implied periodic tenancy, and that one is protected, because it isn't contracted out. But if the parties are still negotiating a new lease, a tenancy at will is more likely, and that's outside the Act. The continuing negotiations are the deciding fact.
+Hannah: And a periodic tenancy that's already running?
+Will: No effluxion there. It ends by notice to quit. Unless the lease says otherwise, a yearly tenancy needs at least half a year's notice, expiring at the end of a completed year. Other periodic tenancies need at least one full period's notice, expiring at the end of a period.
+Hannah (wary): And if the place is a wreck when the lease runs out, the landlord forfeits.
+Will: No. Once the lease has ended there's nothing left to forfeit. It claims terminal dilapidations, capped at the diminution in the reversion's value, and nil if demolition or structural alteration makes the repairs valueless.
+Hannah (dry): Anything residential?
+Will: One detour, nothing to do with business leases. From 1 May 2026, under the Renters' Rights Act, private-sector assured tenancies in England are periodic and assured shorthold tenancies are abolished, so fixed terms no longer end by effluxion.
+Hannah (relieved): Second half, surrender. I hand the keys back and I'm free.
+Will (dry): Not on your own. Both parties have to agree, and a landlord can't be forced to accept a surrender.
+Hannah (mock-outraged): That's rude.
+Will (amused): It's the rule. A surrender is the tenant giving up the lease to its immediate landlord, who accepts it, so the lease is absorbed by the reversion and ends. A break clause is the look-alike, because one party exercises that unilaterally.
+Hannah: So how's it done?
+Will: An express surrender is by deed. A contract to surrender has to satisfy section 2: in writing, signed by both parties, containing all the terms. A letter or email alone isn't enough.
+Hannah: And with no deed at all?
+Will: That's the starred one, surrender by operation of law, where the conduct of both sides is unequivocally inconsistent with the lease continuing. No deed needed. The tenant returns the keys and leaves, for example, and the landlord accepts by re-letting, changing the locks or taking possession.
+Hannah (thoughtful): But I handed the keys back.
+Will: Keys alone aren't enough. The landlord has to accept.
+Hannah: And what does a surrender release? Everything?
+Will (dry): Future obligations. The tenant and guarantor remain liable for breaches before the surrender unless the deed releases them, and deeds usually contain mutual releases.
+Hannah: What about a subtenant underneath all this?
+Will: Any underlease survives. If the head lease is surrendered, the undertenant becomes the head landlord's direct tenant on the underlease terms. If the head lease is forfeited instead, the underlease ends, subject to relief.
+Hannah (deadpan): And for a protected lease, I assume the 14 days is back.
+Will: It is. An agreement to surrender a protected lease, for example under an offer-back clause, is void unless the warning notice was served at least 14 days before the tenant is bound, with a simple declaration, or a statutory declaration is made if it was less. That's section 38A(2).
+Hannah: Whereas just handing over a deed...
+Will: An immediate surrender by deed, with no prior binding agreement, needs no procedure. And for a registered lease, you apply to HM Land Registry to close the leasehold title and cancel the notice on the landlord's title.
+Hannah (brisk): Question five in my words. A protected tenant who's still trading doesn't leave at expiry, and keys alone never surrender a lease, because the landlord has to accept.
+Will (pleased): That's the map done.
+Hannah (wry): Numbers round, then. I've been dreading this.
+Will (brisk): I say the number, you say its job. 3 years, and 7 years.
+Hannah (pleased): The deed line and the registration line. See, I've learned. Seven is also the prescribed clauses, the OS1 search, and the Standard Conditions deducing title.
+Will: One day.
+Hannah: An underlease must be shorter than the head lease by at least that.
+Will: F or G, E, and 1 April 2023.
+Hannah: No new lease of F or G without an exemption, E is the minimum, and since 1 April 2023 no continuing to let F or G without one.
+Will: 30 working days.
+Hannah: OS1 priority.
+Will: 14 days.
+Hannah: Simple declaration if the warning notice is at least 14 days before the tenant is bound, statutory if less. Same line for agreeing to surrender a protected lease.
+Will: 1 January 1996.
+Hannah: The date of grant, not the date of assignment. Before it, or under a pre-1996 agreement, option or court order, the original tenant stays liable for the whole term. From it, a new lease, so the tenant is released on a lawful assignment, subject to an authorised guarantee agreement, and the guarantor with it.
+Will: 6 months, and 3 to 12 months.
+Hannah: The section 17 notice for a former tenant's guarantor, and what a rent deposit commonly is, though there's no prescribed amount.
+Will: 7, 3 and 28.
+Hannah: A lease of 7 years or more, 3 or more unexpired, and 28 days for the counter-notice, so the landlord needs leave.
+Will: Half a year, and 1 May 2026.
+Hannah (brisk): Notice to quit a yearly tenancy, and assured shorthold tenancies abolished.
+Will (warm): Nicely done.
+## Exam mode
+Will (brisk): Exam hat on. Tell me which question of the map each one turns on, then the answer.
+Hannah (pleased): Deal.
+Will: Farah grants Joel a 2-year lease of a shop in Lincoln. It starts immediately, by a signed written document that isn't a deed, and Joel pays Farah a £5,000 premium. Is Joel's lease legal?
+Hannah (thinking aloud): Question one, the grant. Under 3 years, so the short-lease exception applies and he needs no deed. Yes, it's legal.
+Will: <short pause> That's the trap. The exception needs all four conditions, and the premium takes this lease outside section 54(2). So a deed is needed.
+Hannah (groaning): "Under 3 years never needs a deed." Such a comfortable wrong answer.
+Will (dry): It is. Take the premium out, and as long as the rent is the best reasonably obtainable, it can be oral or in writing, and the contract is outside section 2 as well.
+Will: Joel then grants a sublease of the whole of what's left of his term. An underlease?
+Hannah (wry): Not if it's the whole of what's left. An underlease has to be shorter than the head lease by at least one day, so that operates as an assignment.
+Will (pleased): Good. And if the landlord and tenant have agreed everything, with nothing to build and no consent to wait for, do they need an agreement for lease?
+Hannah: Probably, to lock the deal in.
+Will: No. That's for a gap or a condition, and with neither they just complete the lease.
+Will (brisk): Marta is about to take a 15-year lease of a warehouse in Swansea. The landlord's freehold is registered and mortgaged, and the charge excludes the statutory leasing power. The contract incorporates the Standard Conditions. What should Marta's solicitor require?
+Hannah (wary): Question two, the title. Not much, I'd say, because on an open contract a tenant can't call for the freehold title.
+Will: That's the tempting error. This contract incorporates the Standard Conditions, and for a lease over 7 years they require the landlord to deduce title enabling absolute title. So the solicitor requires deduction of the freehold title. And because the charge excludes the leasing power, the lender's consent too, otherwise the lease would bind the landlord but not the lender.
+Will: Next. Rashid has been in a warehouse for years under a 15-year lease. A new EPC rates it G, and no exemption is registered. Rashid wants out and says the lease is void. Is it?
+Hannah (sceptical): Still question two. You can't let G premises, so... void?
+Will: That confuses a regulatory breach with the lease's validity. Since 1 April 2023, MEES bars continuing to let F or G premises without a registered exemption, but the lease continues. The landlord is in breach and faces civil penalties.
+Will (brisk): Imogen's landlord serves the warning notice on Monday. Eight days later Imogen swears a statutory declaration before an independent solicitor, and the lease, which refers to both, is completed the following day. There's no agreement for lease. Is it contracted out?
+Hannah (wary): Question three, contracting out. Less than 14 days, so no.
+Will: That's the wrong turn everyone takes. The notice was served less than 14 days before she was bound, so she needed a statutory declaration. She made one in time, and the lease refers to both. So yes, it's contracted out.
+Hannah (pleased): So under 14 days doesn't kill it. It only changes the declaration.
+Will: Right. Now flip it. This time there's an agreement for lease signed before any notice goes out, and the notice is served 20 days before completion.
+Hannah (groaning): Too late. She was already bound by the agreement for lease.
+Will: Even 20 days before completion. So count the days to when the tenant is bound, and check for an agreement for lease first.
+Will (brisk): Tessa's lease has a guarantor, Colin, and nothing in his guarantee preserves his liability if the lease is varied. The landlord and Tessa agree a substantially higher rent partway through, and nobody asks Colin. Is Colin liable for the higher rent?
+Hannah (deadpan): Question four, who pays. He guaranteed the lease, so he's liable.
+Will: Not liable. A variation agreed without the guarantor releases it, unless the guarantee preserves liability, which most do, or the change is plainly insubstantial. So check whether the question gives you either of those.
+Will: Second one. Tessa lawfully assigns a new lease. Is Colin still on the hook?
+Hannah (thinking aloud): Same guarantee, so... yes?
+Will: No. On a lawful assignment of a new lease the tenant is released, and the guarantor goes with it. That's section 24(2).
+Will: Now the money. A 10-year lease ends, the landlord's schedule prices the repairs at £120,000, and a valuer says the reversion is worth £70,000 less because of the disrepair. The landlord intends to re-let without demolition. How much can it recover?
+Hannah (pleased): Question four again, how much. £120,000, which is what the repairs cost.
+Will: At most £70,000. The section 18, subsection 1, cap is the diminution in value of the reversion. The cost of the works is only evidence of loss, not the measure where the cap bites.
+Hannah (groaning): And if the repairs were £200,000, but the landlord plans to demolish?
+Will: Nothing. The landlord recovers at most the loss to the reversion, and nothing if it will demolish.
+Hannah: Different direction. The landlord's failed to repair, so the tenant deducts the repair cost from the rent.
+Will: That's set-off, Lee-Parker and Izzet, and it works unless the lease excludes it. A "without deduction or set-off" clause does exclude it.
+Will (brisk): Gareth's contracted-out 5-year lease expires. He stays on, paying monthly rent the landlord accepts, while heads of terms for a new lease are still being negotiated. Is he protected by the Act?
+Hannah: Question five, how it ends. Rent paid and accepted creates an implied periodic tenancy, and that's protected, so yes.
+Will: Tempting, but the deciding fact is the continuing negotiations. Courts infer a tenancy at will while new terms are being discussed, and that's outside the Act. So probably not.
+Hannah: And if the lease hadn't been contracted out, and he's still trading at expiry?
+Will: Then it hasn't ended. He holds on under section 24. And once a lease has really ended, the landlord can't forfeit for disrepair, because there's no lease left. It claims terminal dilapidations.
+Will (brisk): Last scenario. Naomi posts her keys back to the landlord and leaves. The landlord keeps the keys but does nothing else for three months, then sues for rent. Has the lease been surrendered?
+Hannah (pleased): Still question five. She handed the keys back and the landlord kept them, so yes.
+Will: <short pause> No. Surrender by operation of law needs the landlord's unequivocal acceptance: re-letting, changing the locks, taking possession. Merely holding the keys isn't acceptance, so Naomi remains liable for rent.
+Hannah (sceptical): And I suppose she couldn't just leave when she liked, if there's no break clause.
+Will: Right. Without a break clause, surrender needs the landlord's agreement. And even a deed doesn't wipe out the past: surrender releases future obligations only, unless the deed says otherwise.
+Hannah: One more. The head lease is surrendered, and I'd say the subtenant goes down with it.
+Will (dry): <short pause> Opposite. The underlease survives, and the undertenant becomes the head landlord's direct tenant on the underlease terms. It's forfeiture of the head lease that ends the underlease, subject to relief.
+## Recap
+Will (warm): Right, the map one last time.
+Hannah (brisk): One, the grant. Over 3 years needs a deed, 3 years or less skips it only if it is in possession, at the best rent reasonably obtainable, with no premium, and 7 years is only the registration line.
+Will: Two, what the tenant is taking on. On an open contract the tenant cannot call for the freehold title unless the grant triggers compulsory first registration, but under the Standard Conditions the landlord must deduce title enabling absolute title on a lease over 7 years.
+Hannah (dry): Three, before completion. Contracting out needs a simple declaration if the warning notice is at least 14 days before the tenant is bound and a statutory declaration if less, and the tenant is bound by the lease or the agreement for lease, whichever comes first.
+Will: Four, who pays and how much. A variation without the guarantor's consent releases the guarantor unless it is plainly insubstantial or the guarantee preserves liability, and repair damages are capped at the loss to the reversion, not the cost of the works.
+Hannah (pleased): Five, how it ends. Keys alone are not a surrender, because the landlord must accept unequivocally.
+Will (warm): Grant by deed unless every short-lease condition is met, check the title and building, contract out before the tenant is bound, remember repair damages stop at the loss to the reversion, and never treat keys alone as surrender.
