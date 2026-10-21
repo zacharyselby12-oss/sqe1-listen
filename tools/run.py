@@ -14,7 +14,7 @@ import json
 import os
 import shutil
 import sys
-from datetime import datetime, timezone
+from datetime import timedelta, datetime, timezone
 from html import escape
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -119,7 +119,8 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
     failed, note = [], None
     cap = int((config or {}).get("speechRequestsPerDay", 100))
     reserve = int((config or {}).get("speechRequestsReserve", 10))
-    used = (load("reports/speech-requests.json", {"days": {}}) or {"days": {}})["days"].get(pacific_day(now), 0)
+    log = load("reports/speech-requests.json", {"days": {}}) or {"days": {}}
+    used = max(log["days"].get(pacific_day(now), 0), rolling_requests(log, now))   # Google may count either way
     left = cap - reserve - used - render.REQUESTS["sent"]
     todo = []
     for ep in index["episodes"]:
@@ -131,7 +132,9 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
             except Exception:  # noqa: BLE001
                 words = 2300
             need = requests_needed(words, voices)
-            if need > left:
+            if os.environ.get("CHUNK_CACHE_DIR") and voices.get("mode", "pair") == "pair":
+                need = 1 if not limit_hit_recently(now) else need   # pieces are kept: start if anything is left
+            if need > left or (need == 1 and left <= 0):
                 ep["lastError"] = "waiting for Google's daily speech allowance (needs about %d, %d left today)" % (need, max(left, 0))
                 print("  %s: %s" % (ep["id"], ep["lastError"]), flush=True)
                 note = note or ("daily allowance reached: " + ep["lastError"])
@@ -250,6 +253,21 @@ def pacific_day(now):
     return now.astimezone(PACIFIC).date().isoformat()
 
 
+def rolling_requests(log, now):
+    """Speech requests recorded in the last 24 hours (Google's daily limit behaves like a rolling window)."""
+    cutoff = now - timedelta(hours=24)
+    return sum(n for at, n in log.get("recent", []) if datetime.fromisoformat(at) >= cutoff)
+
+
+def limit_hit_recently(now, minutes=20):
+    """True if Google refused for its daily limit within the last few minutes (so a scheduled retry waits)."""
+    hit = (load("reports/speech-requests.json", {}) or {}).get("limitHit") or {}
+    try:
+        return now - datetime.fromisoformat(hit["at"]) < timedelta(minutes=minutes)
+    except (KeyError, ValueError, TypeError):
+        return False
+
+
 def note_requests(now, quota_message=None):
     """Keep a tally of speech requests per Google day (Pacific time), so a run can see how many are left."""
     path = ROOT / "reports" / "speech-requests.json"
@@ -257,6 +275,9 @@ def note_requests(now, quota_message=None):
     day = pacific_day(now)
     if render.REQUESTS["sent"]:
         log["days"][day] = log["days"].get(day, 0) + render.REQUESTS["sent"]
+        log.setdefault("recent", []).append([now.isoformat(timespec="seconds"), render.REQUESTS["sent"]])
+    cutoff = now - timedelta(hours=48)
+    log["recent"] = [r for r in log.get("recent", []) if datetime.fromisoformat(r[0]) >= cutoff]
     for old_day in sorted(log["days"])[:-14]:   # keep two weeks
         log["days"].pop(old_day)
     if quota_message:
@@ -293,8 +314,13 @@ def main():
         print("Shabbat: nothing rendered or published.")
         gh_output(skipped="true", failed="")
         return 0
-    gh_output(skipped="false")
     index = load("episodes/index.json", {"episodes": [], "replays": []})
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not any(
+            e.get("status") == "queued" for e in index.get("episodes", [])):
+        print("scheduled check: nothing is waiting, so nothing to do")
+        gh_output(skipped="true", failed="")
+        return 0
+    gh_output(skipped="false")
     voices = load("voices.json")
     site = ROOT / (os.environ.get("SITE_DIR") or "_site")
     failed = []

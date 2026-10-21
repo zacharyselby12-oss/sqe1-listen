@@ -17,6 +17,7 @@ on:
   schedule:
     - cron: "5 21 * * 6"
     - cron: "20 8 * * *"      # every day after Google's daily reset: makes any episode left waiting for speech allowance
+    - cron: "*/30 7-22 * * *" # every half hour in the day: an episode cut short by Google's limit carries on by itself
   workflow_dispatch:
 
 permissions:
@@ -29,7 +30,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    # a scheduled run with nothing waiting stops here: no runner set-up, no deployment
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.todo.outputs.go }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: todo
+        run: |
+          if [ "${{ github.event_name }}" = "schedule" ] && ! python3 -c "import json,sys; d=json.load(open('episodes/index.json')); sys.exit(0 if any(e.get('status') == 'queued' for e in d.get('episodes', [])) else 1)"; then
+            echo "go=false" >> "$GITHUB_OUTPUT"; echo "nothing is waiting"
+          else
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          fi
+
   render:
+    needs: check
+    if: needs.check.outputs.go == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 150
     environment:
@@ -76,7 +94,7 @@ jobs:
           du -sh chunk-cache || true
 
       - name: Save the chunk store
-        if: always()
+        if: always() && steps.run.outputs.skipped != 'true'
         uses: actions/cache/save@v4
         with:
           path: chunk-cache
