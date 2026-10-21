@@ -84,13 +84,22 @@ def picker():
         plan = pick.pick(d, reg, cfg, NOW)
         new = {c["id"]: c for c in plan["newEpisodes"]}
         print("new:", [(c["id"], c["tier"]) for c in plan["newEpisodes"]])
-        assert list(new) == ["dr-ws06", "pp-ws01-r2", "wae-ws01"], list(new)
+        assert list(new) == ["dr-ws06", "pp-ws01-r2", "wae-ws01", "blp-ws06"], list(new)
         assert new["pp-ws01-r2"]["supersedes"] == "pp-ws01" and new["pp-ws01-r2"]["remake"]
-        assert new["dr-ws06"]["tier"] == 1 and new["pp-ws01-r2"]["tier"] == 2 and new["wae-ws01"]["tier"] == 3
+        assert [new[k]["tier"] for k in new] == [1, 3, 4, 5], [new[k]["tier"] for k in new]
         assert not any(c["unitId"] == "u-bpp-Tort-01" for c in plan["newEpisodes"])
         reasons = {s["unitId"]: s["why"] for s in plan["skipped"]}
         assert "not applied" in reasons["u-bpp-Tort-01"]
-        assert "no class within 7 days" in reasons["u-bpp-BLP-06"]
+
+        # the revision list comes straight after classes
+        rv = pick.pick(d, reg, dict(cfg, reviseNext=["u-bpp-WAE-01"]), NOW)
+        assert [c["id"] for c in rv["newEpisodes"]] == ["dr-ws06", "wae-ws01", "pp-ws01-r2", "blp-ws06"]
+        assert rv["newEpisodes"][1]["tier"] == 2
+
+        # the daily limit: two allowed today, the rest wait for the next run
+        two = pick.pick(d, reg, dict(cfg, maxNewPerDay=2), NOW)
+        assert [c["id"] for c in two["newEpisodes"]] == ["dr-ws06", "pp-ws01-r2"]
+        assert any("today's limit" in s["why"] for s in two["skipped"])
 
         reps = {r["episodeId"]: r for r in plan["replays"]}
         print("replays:", [(r["episodeId"], r["reason"]) for r in plan["replays"]])
@@ -123,7 +132,7 @@ def picker():
         # cap of 1: only the top tier is chosen, the rest are listed as skipped with the reason
         one = pick.pick(d, reg, dict(cfg, maxNewPerWeek=1), NOW)
         assert [c["id"] for c in one["newEpisodes"]] == ["dr-ws06"]
-        assert any("weekly cap" in s["why"] for s in one["skipped"])
+        assert any("weekly limit" in s["why"] for s in one["skipped"])
 
         # a second remake gets the next number
         reg3 = json.loads(json.dumps(reg))

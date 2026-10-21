@@ -8,7 +8,7 @@
   },
   "base_url": "",
   "timezone": "Europe/London",
-  "maxNewPerWeek": 8,
+  "maxNewPerWeek": 15,
   "maxReplaysPerWeek": 10,
   "moduleNames": {
     "Public1": "Public 1",
@@ -38,7 +38,6 @@
       ]
     }
   },
-  "speechPausedUntil": "2026-10-21T07:01:00Z",
   "speechRequestsPerDay": 100,
   "speechRequestsReserve": 10,
   "areaNames": {
@@ -54,5 +53,28 @@
     "Criminal": "Criminal Law",
     "Land": "Land Law",
     "Trusts": "Trusts"
-  }
+  },
+  "maxNewPerDay": 5,
+  "reviseNext": [
+    {
+      "unitId": "u-bpp-Contract-06",
+      "note": "Zac revises Contract WS06-10 in late October 2026"
+    },
+    {
+      "unitId": "u-bpp-Contract-07",
+      "note": "Zac revises Contract WS06-10 in late October 2026"
+    },
+    {
+      "unitId": "u-bpp-Contract-08",
+      "note": "Zac revises Contract WS06-10 in late October 2026"
+    },
+    {
+      "unitId": "u-bpp-Contract-09",
+      "note": "Zac revises Contract WS06-10 in late October 2026"
+    },
+    {
+      "unitId": "u-bpp-Contract-10",
+      "note": "Zac revises Contract WS06-10 in late October 2026"
+    }
+  ]
 }

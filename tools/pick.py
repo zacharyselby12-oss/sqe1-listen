@@ -7,10 +7,13 @@
 DIR holds the files that ArtifactData saved with out_dir (data/users/me/library/{units,guides,builds,board}
 and data/users/me/mcqrules/entries). Nothing here calls an AI: the choice is plain rules.
 
-New episodes (at most config.maxNewPerWeek in any 7 days), in this order:
+New episodes (at most config.maxNewPerDay in any 20 hours, so Google's daily speech allowance is enough, and at most
+config.maxNewPerWeek in any 7 days, which keeps Claude usage in check), in this order:
   1. class between 3 days ago and 7 days ahead      (upcoming or just-held workshops)
-  2. studied in the last 14 days
-  3. a topic of the workshop has 2+ misses/confusions in the last 14 days
+  2. on Zac's revision list, config.reviseNext       (in the order listed)
+  3. studied in the last 14 days
+  4. a topic of the workshop has 2+ misses/confusions in the last 14 days
+  5. everything else whose guide is applied          (course order: module, then workshop number)
 A workshop qualifies only if its v3 guide is applied in the live app: guide.v3, guide.conv.ver == "v3" and
 builds/b-<unit> has status "applied", ver "v3" and the same run as the guide. A workshop is (re)made when it has
 no episode yet, or when the guide's content hash differs from the one its episode was made from.
@@ -78,8 +81,10 @@ def pick(data, registry, config, now):
     board = load_all(data, "**/library/board/*.json")
     entries = load_all(data, "**/mcqrules/entries/*.json")
     names = config.get("moduleNames", {})
-    cap_new = config.get("maxNewPerWeek", 8)
+    cap_new = config.get("maxNewPerWeek", 15)
+    cap_day = config.get("maxNewPerDay", 5)
     cap_rep = config.get("maxReplaysPerWeek", 10)
+    revise = [r["unitId"] if isinstance(r, dict) else r for r in config.get("reviseNext", [])]
 
     classes = {}
     for b in board:
@@ -123,16 +128,18 @@ def pick(data, registry, config, now):
         if cls and now - timedelta(days=3) <= cls <= now + timedelta(days=7):
             tier, why = 1, "class on %s" % cls.date().isoformat()
             key = (0 if cls >= now else 1, abs((cls - now).total_seconds()))
+        elif uid in revise:
+            tier, why = 2, "on your revision list"
+            key = (0, revise.index(uid))
         elif studied and studied >= d14:
-            tier, why = 2, "studied on %s" % studied.date().isoformat()
+            tier, why = 3, "studied on %s" % studied.date().isoformat()
             key = (0, -studied.timestamp())
         elif n >= 2:
-            tier, why = 3, "%d misses/confusions in 14 days" % n
+            tier, why = 4, "%d misses/confusions in 14 days" % n
             key = (0, -n)
-        if tier is None:
-            skipped.append({"unitId": uid, "why": "applied, but no class within 7 days, not studied in 14 days, "
-                                                  "fewer than 2 misses/confusions"})
-            continue
+        else:
+            tier, why = 5, "guide applied (no episode yet)"
+            key = (str(unit.get("module")), int(unit.get("ws") or 0))
         cands.append({"unitId": uid, "id": slug(unit) + ("-r%d" % (_remakes(registry, uid) + 2) if remake else ""),
                       "titlePrefix": prefix(unit, names), "workshop": g.get("workshop"), "tier": tier,
                       "reason": why, "guideHash": h, "remake": remake,
@@ -141,10 +148,15 @@ def pick(data, registry, config, now):
     cands.sort(key=lambda c: (c["tier"], c["_key"]))
     made7 = sum(1 for e in registry.get("episodes", [])
                 if dt(e.get("madeAt")) and dt(e["madeAt"]) >= now - timedelta(days=7))
-    room = max(0, cap_new - made7)
+    made_day = sum(1 for e in registry.get("episodes", [])
+                   if dt(e.get("madeAt")) and dt(e["madeAt"]) >= now - timedelta(hours=20))
+    room_week, room_day = max(0, cap_new - made7), max(0, cap_day - made_day)
+    room = min(room_week, room_day)
     chosen = cands[:room]
     for c in cands[room:]:
-        skipped.append({"unitId": c["unitId"], "why": "over the weekly cap of %d new episodes" % cap_new})
+        why = ("over today's limit of %d new episodes (Google's speech allowance): it is made on the next run" % cap_day
+               if room_day < room_week else "over the weekly limit of %d new episodes" % cap_new)
+        skipped.append({"unitId": c["unitId"], "why": why})
     for c in chosen:
         c.pop("_key", None)
 
@@ -152,7 +164,8 @@ def pick(data, registry, config, now):
     remade = {c["supersedes"] for c in chosen if c.get("supersedes")}
     replays = [r for r in replays if r["episodeId"] not in remade]  # its audio is about to be replaced
     return {"now": now.isoformat(timespec="seconds"), "newEpisodes": chosen, "replays": replays,
-            "skipped": skipped, "counts": {"newInLast7Days": made7, "capNew": cap_new, "capReplays": cap_rep,
+            "skipped": skipped, "counts": {"newInLast7Days": made7, "newToday": made_day, "capNew": cap_new,
+                                           "capDay": cap_day, "capReplays": cap_rep,
                                            "eligibleNew": len(cands), "unitsSeen": len(units)}}
 
 

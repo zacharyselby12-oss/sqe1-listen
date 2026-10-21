@@ -1,4 +1,4 @@
-# Runbook: the Sunday and Wednesday producer run
+# Runbook: the daily producer run (about 08:10 London, after Google's daily speech reset)
 
 For Claude, in a fresh scheduled session. Follow it exactly. It runs unattended, so do not ask questions: decide, write
 down what you decided in the report, and carry on. If something blocks you, put it in the report and stop that item.
@@ -12,7 +12,7 @@ down what you decided in the report, and carry on. If something blocks you, put 
 - **You never read a guide into your own context.** Only the helpers read the extract text. You may print counts, hashes and
   check results, but never guide text.
 - **SRA sample questions** are never used, reworded or imitated (nobody should fetch them).
-- Helpers (Agent tool): fresh and short-lived, at most 3 at a time. `model: "sonnet"` writes and revises.
+- Helpers (Agent tool): fresh and short-lived, at most 2 at a time. `model: "sonnet"` writes and revises.
   **`model: "opus"` does every accuracy check.** Each helper gets only the files it needs and nothing else.
 - **Pause switch:** if `config.json` in the repo has `"paused": true`, stop at once and say so (Zac or the set-up chat uses
   this when his weekly usage is high). Check it right after cloning.
@@ -40,9 +40,12 @@ If a call fails, retry once; if it still fails, report it and stop.
 ## 3. Plan
 `python tools/pick.py --data /tmp/sqe1/data --out /tmp/sqe1/plan.json` and read plan.json (it holds no guide text).
 It lists `newEpisodes`, `replays` and `skipped` with reasons. It already applies: only workshops whose v3 guide is applied
-in the live app; at most 8 new episodes a week; at most 10 replays a week.
+in the live app; the priority order (class within 7 days, then Zac's revision list in config.json `reviseNext`, then
+studied in 14 days, then 2+ misses, then any other applied guide); at most `maxNewPerDay` new episodes a day (Google's
+speech allowance) and `maxNewPerWeek` a week (Zac's Claude usage); at most 10 replays a week.
+If `newEpisodes` and `replays` are both empty, skip to step 7 and write a one-line report: nothing new today.
 
-## 4. Each new episode (steps a to g), at most 3 at a time
+## 4. Each new episode (steps a to g), at most 2 at a time
 a. Extract: `python tools/guide_extract.py /tmp/sqe1/data/data/users/me/library/guides/<unitId>.json /tmp/sqe1/src/<id>.txt`.
    It prints `<hash> <words>`. The hash must equal the plan's `guideHash`; if not, hold the episode (the guide changed mid-run).
 b. Writer (Sonnet helper): give it prompts/writer.md with the placeholders filled ({GUIDE_TEXT} = /tmp/sqe1/src/<id>.txt,
@@ -71,7 +74,8 @@ The push starts GitHub Actions, which makes the audio and updates the feed (abou
 ## 7. Report
 Write `reports/<yyyy-mm-dd>.md` and print the same text as your final message, in plain British English:
 - New episodes (title), replays (title and why), held episodes (title and why), skipped counts by reason.
-- What you used: number of helpers (Sonnet / Opus), rounds of fixing, and the tools you called (rough count).
+- What you used: number of helpers (Sonnet / Opus) and their token counts, rounds of fixing, and the tools you called
+  (rough count). Also the speech requests used today (reports/speech-requests.json).
 - Anything odd, and anything Zac should decide.
 - Episodes cover every main point (test elements, starred details, exceptions, traps, look-alikes, numbers): any
   omission fails the checks. If an episode is held for an omission, say which item in your final message only.
