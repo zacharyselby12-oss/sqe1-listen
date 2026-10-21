@@ -1,10 +1,10 @@
 {
   "days": {
-    "2026-10-21": 75
+    "2026-10-21": 79
   },
   "limitHit": {
     "day": "2026-10-21",
-    "at": "2026-10-21T12:39:58+00:00",
-    "message": "daily allowance reached: waiting for Google's daily speech allowance (needs about 18, 15 left today)"
+    "at": "2026-10-21T14:33:58+00:00",
+    "message": "Google's daily limit for speech requests is used up (chunk 4)"
   }
 }
