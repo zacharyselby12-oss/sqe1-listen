@@ -52,10 +52,12 @@ jobs:
       - name: Render audio and build the site
         id: run
         continue-on-error: true
+        timeout-minutes: 35        # a stuck run still saves its trace (the next steps always run)
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GH_TOKEN: ${{ github.token }}
           TTS_WORKERS: "5"
+          ISOLATE_CHUNKS: "1"      # each two-voice chunk in its own process, killed if it hangs
         run: python tools/run.py
 
       - name: Save new audio and episode list

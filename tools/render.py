@@ -227,6 +227,45 @@ def _checked(cl, model, content, speech_config, n_words, label, limit=None, abor
     raise RuntimeError("%s: audio length %.1fs never matched %d words" % (label, last or 0, n_words))
 
 
+def _checked_isolated(model, content, speech_config, n_words, label, limit, abort=None):
+    """_checked in a separate process with a hard time limit: a hung or runaway request is killed outright, and the
+    process is tried once more. Its speech requests are added to this run's count."""
+    import shutil
+    import tempfile
+    d = Path(tempfile.mkdtemp(prefix="chunk-"))
+    (d / "in.json").write_text(json.dumps({"model": model, "content": content, "cfg": speech_config, "n": n_words,
+                                           "label": label, "limit": limit}), encoding="utf-8")
+    hard = 2 * limit + 60
+    try:
+        for attempt in (1, 2):
+            if (abort or ABORT).is_set():
+                raise RuntimeError("stopped: another line already failed")
+            t0 = time.time()
+            try:
+                r = subprocess.run([sys.executable, str(Path(__file__).with_name("chunk_one.py")), str(d / "in.json"),
+                                    str(d / "out.pcm")], capture_output=True, text=True, timeout=hard)
+            except subprocess.TimeoutExpired:
+                with _COUNT_LOCK:
+                    REQUESTS["sent"] += 1
+                trace("%s: own process killed after %ds (attempt %d)" % (label, hard, attempt))
+                continue
+            out = (r.stdout or "") + (r.stderr or "")[-600:]
+            for ln in out.splitlines():
+                if ln.startswith("REQUESTS "):
+                    with _COUNT_LOCK:
+                        REQUESTS["sent"] += int(ln.split()[1])
+            if r.returncode == 0 and (d / "out.pcm").exists():
+                trace("%s: ok in own process, %.1fs (attempt %d)" % (label, time.time() - t0, attempt))
+                return (d / "out.pcm").read_bytes()
+            trace("%s: own process failed after %.1fs (attempt %d): %s" % (label, time.time() - t0, attempt,
+                                                                          out.strip().replace("\n", " | ")[-300:]))
+            if r.returncode == 3:
+                raise QuotaExhausted("Google's daily limit for speech requests is used up (%s)" % label)
+        raise RuntimeError("%s: no audio after two tries in its own process" % label)
+    finally:
+        shutil.rmtree(d, ignore_errors=True)
+
+
 def _pair_content(turns, suffix=""):
     """One text block per turn, each with its speaker and mood. `suffix` is added to every mood (for example an
     accent instruction when a built-in voice is used)."""
@@ -271,6 +310,8 @@ def render_pcm(turns, voices, fake=False, log=print):
             log("  chunk %d/%d (%d words)" % (i, len(groups), n))
             if fake:
                 return i, fake_pcm(n)
+            if os.environ.get("ISOLATE_CHUNKS") == "1":
+                return i, _checked_isolated(model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
             return i, _checked(cl, model, _pair_content(g, suffix), cfg, n, "chunk %d" % i, CHUNK_LIMIT, abort)
 
         # a few chunks at a time, so an episode takes minutes rather than a quarter of an hour; order is kept
