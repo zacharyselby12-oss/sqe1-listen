@@ -1,7 +1,7 @@
 # Runbook: the daily producer run (08:05 London, Sunday to Friday, just after Google's daily speech reset)
 
-For Claude. Since 21 Oct 2026 the run happens in the set-up chat: a standing scheduled wake-up delivers it there every
-morning (a fresh scheduled session can attach this repo but can't push to it). Follow this exactly. It runs
+For Claude. Since 21 Oct 2026 the run happens in the set-up chat, when a scheduled wake-up booked with Zac's agreement
+delivers it there (a fresh scheduled session can attach this repo but can't push to it). Follow this exactly. It runs
 unattended, so do not ask questions: decide, write down what you decided in the report, and carry on. If something
 blocks you, put it in the report and stop that item.
 
