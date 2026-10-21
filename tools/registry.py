@@ -50,7 +50,8 @@ def add_episode(a):
     path.write_text(text, encoding="utf-8")
     ep = {"id": a.id, "unitId": a.unit, "title": meta.get("title", a.id), "guideHash": a.guide_hash,
           "script": a.script, "scriptHash": script_hash(text), "audio": "audio/%s.mp3" % a.id,
-          "recap": meta.get("recap", []), "madeAt": made,
+          "recap": meta.get("recap", []), "map": meta.get("map") or [], "summary": meta.get("summary") or "",
+          "madeAt": made,
           "status": "held" if a.hold else "queued", "pilot": bool(a.pilot), "approved": False,
           "checks": a.checks or ""}
     if a.hold:
@@ -85,7 +86,8 @@ def replace_script(a):
     path.write_text(text, encoding="utf-8")
     meta = parse(text)["meta"]
     ep.update(title=meta.get("title", ep["title"]), guideHash=a.guide_hash, script=a.script,
-              scriptHash=script_hash(text), recap=meta.get("recap", []), madeAt=made, status="queued",
+              scriptHash=script_hash(text), recap=meta.get("recap", []), map=meta.get("map") or [],
+              summary=meta.get("summary") or "", madeAt=made, status="queued",
               approved=False, checks=a.checks or "")
     for k in ("holdReason", "lastError", "renderTries", "renderedHash", "renderedAt", "voices", "voiceNote",
               "bytes", "seconds", "words"):

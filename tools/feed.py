@@ -46,6 +46,12 @@ def _text(parent, tag, text, **attrs):
 def _notes(ep, replay_reason=None):
     lines = list(ep.get("recap") or [])
     body = "\n".join("• " + l for l in lines) if lines else ep["title"]
+    mp = [m for m in (ep.get("map") or []) if isinstance(m, str) and m.strip()]
+    if mp:
+        body = "The questions, in order:\n%s\n\nKey points:\n%s" % (
+            "\n".join("%d. %s" % (i + 1, m) for i, m in enumerate(mp)), body)
+    if isinstance(ep.get("summary"), str) and ep["summary"].strip():
+        body = ep["summary"].strip() + "\n\n" + body
     if replay_reason:
         body = "Replay (%s).\n%s" % (replay_reason, body)
     return body
