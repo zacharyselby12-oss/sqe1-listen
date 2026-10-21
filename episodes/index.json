@@ -125,10 +125,18 @@
       ],
       "summary": "Grant by deed unless every short-lease condition is met, check the title and building, contract out before the tenant is bound, remember repair damages stop at the loss to the reversion, and never treat keys alone as surrender.",
       "madeAt": "2026-10-21T12:30:20+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
-      "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 10 fixes, each verified by Opus against the guide."
+      "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 10 fixes, each verified by Opus against the guide.",
+      "bytes": 17392525,
+      "seconds": 2174,
+      "words": 5640,
+      "renderedHash": "c17fd788be8f",
+      "renderedAt": "2026-10-21T12:30:57+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws06-p2-6b3f8420.mp3",
+      "pubDate": "2026-10-21T12:30:57+00:00"
     }
   ],
   "replays": []
