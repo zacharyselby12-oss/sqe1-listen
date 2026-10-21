@@ -7,7 +7,7 @@
 2. Voice audition, if audition/request.json has a new id.
 3. Render every episode with status "queued" (pilots go to "review" until approved).
 4. Publish approved pilots, retire superseded episodes.
-5. Build _site: feed.xml, audio, cover, index page, review page, audition page.
+5. Build _site: feeds, cover, index page, review page, audition page. Audio lives in the repo's audio release.
 Writes episodes/index.json back. Sets GitHub outputs "skipped" and "failed".
 """
 import json
@@ -62,6 +62,41 @@ def base_url(config):
     return "https://example.invalid/sqe1-listen"
 
 
+AUDIO_RELEASE = "audio"   # episode MP3s live as files of this GitHub release, not in the repo or the website
+
+
+def upload_audio(path, asset_name):
+    """Put an MP3 in the repo's "audio" release and return its public address (None outside GitHub Actions)."""
+    import subprocess
+    import tempfile
+    repo = os.environ.get("GITHUB_REPOSITORY")
+    if not repo or not shutil.which("gh"):
+        return None
+    if subprocess.run(["gh", "release", "view", AUDIO_RELEASE, "--repo", repo], capture_output=True).returncode != 0:
+        subprocess.run(["gh", "release", "create", AUDIO_RELEASE, "--repo", repo, "--title", "Episode audio",
+                        "--notes", "Audio files for the SQE1 Listen feed. Please do not delete.", "--latest=false"],
+                       check=True, capture_output=True)
+    with tempfile.TemporaryDirectory() as d:
+        tmp = Path(d) / asset_name
+        shutil.copy2(path, tmp)
+        subprocess.run(["gh", "release", "upload", AUDIO_RELEASE, str(tmp), "--repo", repo, "--clobber"],
+                       check=True, capture_output=True)
+    return "https://github.com/%s/releases/download/%s/%s" % (repo, AUDIO_RELEASE, asset_name)
+
+
+def store_audio(ep, voices_text):
+    """Upload the episode's MP3 under a name that changes whenever the script or the voices change."""
+    import hashlib
+    local = ROOT / ep["audio"]
+    if not local.exists():
+        return
+    tag = hashlib.sha256(((ep.get("renderedHash") or ep.get("scriptHash") or "") + voices_text).encode()).hexdigest()[:8]
+    url = upload_audio(local, "%s-%s.mp3" % (ep["id"], tag))
+    if url:
+        ep["audioUrl"] = url
+        print("  audio stored: %s" % url, flush=True)
+
+
 def requests_needed(words, voices):
     """About how many speech requests an episode of this length takes."""
     if voices.get("mode", "pair") == "pair":
@@ -113,6 +148,12 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
             ep.update(bytes=info["bytes"], seconds=info["seconds"], words=info["words"],
                       renderedHash=script_hash(text), renderedAt=now.isoformat(timespec="seconds"),
                       voices=voices.get("mode", "pair") + ":" + voices["lead"]["voice"] + "+" + voices["second"]["voice"])
+            ep.pop("audioUrl", None)
+            if not fake:
+                try:
+                    store_audio(ep, ep["voices"])
+                except Exception as e:  # noqa: BLE001
+                    print("  could not store the audio of %s yet: %s" % (ep["id"], e), flush=True)
             ep.pop("lastError", None)
             if voice_note:
                 ep["voiceNote"] = voice_note
@@ -155,11 +196,11 @@ def review_page(index):
     rows = []
     for ep in index["episodes"]:
         if ep.get("status") == "review":
-            rows.append("<section><h2>%s</h2>%s<ul>%s</ul><audio controls preload=\"none\" src=\"../%s\"></audio>"
+            rows.append("<section><h2>%s</h2>%s<ul>%s</ul><audio controls preload=\"none\" src=\"%s\"></audio>"
                         "</section>" % (escape(ep["title"]),
                                         ("<p><small>%s</small></p>" % escape(ep["voiceNote"])) if ep.get("voiceNote") else "",
                                         "".join("<li>%s</li>" % escape(l) for l in ep.get("recap", [])),
-                                        escape(ep["audio"])))
+                                        escape(ep.get("audioUrl") or "../" + ep["audio"])))
     if not rows:
         rows = ["<p>Nothing waiting for review.</p>"]
     return ("<!doctype html><html lang=\"en-GB\"><head><meta charset=\"utf-8\">"
@@ -176,8 +217,8 @@ def build_site(index, config, site, burl):
         shutil.rmtree(site)
     (site / "audio").mkdir(parents=True)
     for ep in index["episodes"]:
-        if ep.get("status") in ("published", "review") and (ROOT / ep["audio"]).exists():
-            shutil.copy2(ROOT / ep["audio"], site / ep["audio"])
+        if ep.get("status") in ("published", "review") and not ep.get("audioUrl") and (ROOT / ep["audio"]).exists():
+            shutil.copy2(ROOT / ep["audio"], site / ep["audio"])   # only until it is stored in the release
     if (ROOT / "cover.png").exists():
         shutil.copy2(ROOT / "cover.png", site / "cover.png")
     if (ROOT / "covers").exists():
@@ -310,8 +351,15 @@ def main():
                                     "ok": [r["id"] for r in results if r["ok"]],
                                     "failed": [r["id"] for r in results if not r["ok"]]})
 
-    for ep in index["episodes"]:  # self-heal: an episode whose audio file is missing is made again
-        if ep.get("status") in ("published", "review") and not (ROOT / ep["audio"]).exists():
+    for ep in index["episodes"]:  # audio made before the release storage existed: move it there
+        if (ep.get("status") in ("published", "review") and not ep.get("audioUrl") and (ROOT / ep["audio"]).exists()
+                and not fake):
+            try:
+                store_audio(ep, ep.get("voices", ""))
+            except Exception as e:  # noqa: BLE001
+                print("  could not store the audio of %s yet: %s" % (ep["id"], e), flush=True)
+    for ep in index["episodes"]:  # self-heal: an episode whose audio is nowhere is made again
+        if ep.get("status") in ("published", "review") and not ep.get("audioUrl") and not (ROOT / ep["audio"]).exists():
             print("audio missing for %s: it will be rendered again" % ep["id"])
             ep["status"] = "queued"
     quota_msg = None

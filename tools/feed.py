@@ -117,7 +117,7 @@ def build(index, config, base_url, out_path, area=None):
         _text(item, "title", it["title"])
         _text(item, "description", it["notes"])
         _text(item, q("itunes", "summary"), it["notes"])
-        ET.SubElement(item, "enclosure", {"url": "%s/%s" % (base_url, e["audio"]),
+        ET.SubElement(item, "enclosure", {"url": e.get("audioUrl") or "%s/%s" % (base_url, e["audio"]),
                                           "length": str(e.get("bytes", 0)), "type": "audio/mpeg"})
         _text(item, "guid", it["guid"], isPermaLink="false")
         _text(item, "pubDate", format_datetime(it["pub"]))
