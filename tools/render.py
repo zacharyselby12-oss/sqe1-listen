@@ -115,7 +115,7 @@ _COUNT_LOCK = threading.Lock()
 
 ABORT = threading.Event()   # set when one line has failed for good, so the others stop waiting
 LINE_LIMIT = 60             # seconds one single-line request may take before we give up on it
-CHUNK_LIMIT = 180           # seconds one two-voice chunk (about 380 words, 2 to 3 minutes of speech) may take;
+CHUNK_LIMIT = 300           # seconds one two-voice chunk (about 380 words, 2 to 3 minutes of speech) may take;
                             # a normal answer takes about 30 seconds
 
 
