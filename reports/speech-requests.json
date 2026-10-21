@@ -4,8 +4,8 @@
   },
   "limitHit": {
     "day": "2026-10-21",
-    "at": "2026-10-21T15:47:46+00:00",
-    "message": "Google's daily limit for speech requests is used up (chunk 4)"
+    "at": "2026-10-21T15:55:43+00:00",
+    "message": "daily allowance reached: waiting for Google's daily speech allowance (needs about 18, 5 left today)"
   },
   "recent": [
     [

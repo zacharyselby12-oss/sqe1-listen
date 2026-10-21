@@ -168,7 +168,7 @@
       "pilot": false,
       "approved": false,
       "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 16 fixes plus 2 edits, each verified by Opus against the guide. One guide error avoided (s 19(1A) grounds need not be in the lease).",
-      "lastError": "waiting for Google's daily speech limit to reset"
+      "lastError": "waiting for Google's daily speech allowance (needs about 18, 5 left today)"
     }
   ],
   "replays": []
