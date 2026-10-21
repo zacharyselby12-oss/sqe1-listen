@@ -47,7 +47,7 @@
         "Pre-action and non-party disclosure: the respondent generally gets its costs of the application and of complying, even though it loses."
       ],
       "madeAt": "2026-10-20T22:48:28+00:00",
-      "status": "published",
+      "status": "superseded",
       "pilot": true,
       "approved": true,
       "checks": "code ok; Opus accuracy check (5 fixes applied); Opus line-by-line check: 290 lines, 0 problems, nothing missing",
@@ -87,11 +87,19 @@
       ],
       "summary": "Fix the regime, list what standard disclosure catches however damaging, withhold inspection only on proper grounds, choose the right route to missing documents, and keep without prejudice offers away from liability.",
       "madeAt": "2026-10-21T12:16:55+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 4 fixes, each verified by Opus against the guide.",
-      "supersedes": "dr-ws06"
+      "supersedes": "dr-ws06",
+      "bytes": 17999794,
+      "seconds": 2250,
+      "words": 5504,
+      "renderedHash": "3319d8a9e820",
+      "renderedAt": "2026-10-21T12:17:42+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws06-v2-abffec5e.mp3",
+      "pubDate": "2026-10-21T12:17:42+00:00"
     }
   ],
   "replays": []
