@@ -115,6 +115,13 @@ def build(index, config, base_url, out_path, area=None):
     _text(ch, q("itunes", "type"), kind)   # an area is "serial": Apple Podcasts lists it in workshop order
     _text(ch, q("itunes", "block"), "Yes")  # private: never listed in Apple's directory
     items = [it for it in items_for(index) if area is None or area_of(it["ep"])[0] == area]
+    number = {}
+    if area:   # course order inside an area: workshop, then part ("-p1", "-p2"), numbered 1, 2, 3 ...
+        def course_key(it):
+            m = re.search(r"-p(\d+)(?:$|-)", it["ep"]["id"])
+            return (area_of(it["ep"])[1] or 0, int(m.group(1)) if m else 0, it["ep"]["id"])
+        full = sorted((it for it in items if not it["replay"]), key=course_key)
+        number = {it["guid"]: i + 1 for i, it in enumerate(full)}
     if items:
         _text(ch, "lastBuildDate", format_datetime(items[0]["pub"]))
     for it in items:
@@ -132,9 +139,8 @@ def build(index, config, base_url, out_path, area=None):
             _text(item, q("itunes", "episodeType"), "bonus")
         else:
             _text(item, q("itunes", "episodeType"), "full")
-            ws = area_of(e)[1]
-            if area and ws:
-                _text(item, q("itunes", "episode"), str(ws))   # workshop number, so the area is in course order
+            if area and it["guid"] in number:
+                _text(item, q("itunes", "episode"), str(number[it["guid"]]))   # course order: workshop, then part
         _text(item, q("itunes", "explicit"), "false")
     ET.indent(rss, space="  ")
     out_path = Path(out_path)
