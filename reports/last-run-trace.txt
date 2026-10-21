@@ -1,1 +1,5 @@
-
+    1.0s chunk 1: reused from an earlier run
+    1.0s chunk 2: reused from an earlier run
+    1.0s chunk 3: reused from an earlier run
+    2.4s chunk 5: own process failed after 1.4s (attempt 1): or speech requests is used up: RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retry in 14h32m5s or upgrade your tier at https://ai.dev/rate-limit.', 'code': 'too_many_requests'}} | REQUESTS 1
+   29.1s chunk 4: ok in own process, 28.1s (attempt 1)
