@@ -12,3 +12,12 @@
   144.9s error after 0.3s try 1: <breath> Last one. Question  | RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retr
   145.1s error after 3.0s try 1: Then every condition must be | RuntimeError: stopped: another line already failed
   145.4s error after 0.5s try 1: Over 3 years, not 7. At 3 ye | RuntimeError: stopped: another line already failed
+   26.1s ok 24.9s try 1: A licence. It says so at the
+   28.2s ok 27.0s try 1: Right. Picture a client with
+   52.5s ok 26.4s try 1: Third check, old or new, whi
+   56.5s ok 28.3s try 1: So we know what we've got. Q
+   78.2s ok 25.7s try 1: Hang on, so the tenant's stu
+   84.0s ok 27.5s try 1: Does it change when the tena
+   84.1s error after 0.1s try 1: Often reserved as rent, so f | RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 100 requests per day on Tier 1). Please retr
+   84.2s error after 6.0s try 1: That's the trap. The duty to | RuntimeError: stopped: another line already failed
+   84.2s error after 0.1s try 1: Last, three bits on a review | RuntimeError: stopped: another line already failed
