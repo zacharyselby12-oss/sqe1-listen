@@ -343,13 +343,13 @@ def encode_mp3(pcm, out_path, title, artist="SQE1 Listen", album="SQE1 Listen"):
            "-c:a", "libmp3lame", "-b:a", "64k", "-id3v2_version", "3",
            "-metadata", "title=" + title, "-metadata", "artist=" + artist, "-metadata", "album=" + album,
            str(out_path)]
-    subprocess.run(cmd, input=pcm, check=True)
+    subprocess.run(cmd, input=pcm, check=True, timeout=1200)   # never hang a run on the encoder
     return out_path
 
 
 def duration(path):
     r = subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", str(path)],
-                       capture_output=True, text=True, check=True)
+                       capture_output=True, text=True, check=True, timeout=120)
     return float(r.stdout.strip())
 
 

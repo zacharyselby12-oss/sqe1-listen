@@ -71,20 +71,21 @@ def upload_audio(path, asset_name):
     repo = os.environ.get("GITHUB_REPOSITORY")
     if not repo or not shutil.which("gh"):
         return None
-    if subprocess.run(["gh", "release", "view", AUDIO_RELEASE, "--repo", repo], capture_output=True).returncode != 0:
+    if subprocess.run(["gh", "release", "view", AUDIO_RELEASE, "--repo", repo], capture_output=True,
+                      timeout=90).returncode != 0:
         subprocess.run(["gh", "release", "create", AUDIO_RELEASE, "--repo", repo, "--title", "Episode audio",
                         "--notes", "Audio files for the SQE1 Listen feed. Please do not delete.", "--latest=false"],
-                       check=True, capture_output=True)
+                       check=True, capture_output=True, timeout=90)
     rel = json.loads(subprocess.run(["gh", "api", "repos/%s/releases/tags/%s" % (repo, AUDIO_RELEASE)],
-                                    check=True, capture_output=True, text=True).stdout)
+                                    check=True, capture_output=True, text=True, timeout=90).stdout)
     for a in rel.get("assets", []):   # same name again (a remake): replace it
         if a.get("name") == asset_name:
             subprocess.run(["gh", "api", "-X", "DELETE", "repos/%s/releases/assets/%s" % (repo, a["id"])],
-                           check=True, capture_output=True)
+                           check=True, capture_output=True, timeout=90)
     # uploaded with the MP3 type, so podcast apps are told it is audio
     subprocess.run(["gh", "api", "-X", "POST", "-H", "Content-Type: audio/mpeg", "--input", str(path),
                     "https://uploads.github.com/repos/%s/releases/%s/assets?name=%s" % (repo, rel["id"], asset_name)],
-                   check=True, capture_output=True)
+                   check=True, capture_output=True, timeout=600)   # an upload that stalls must not hang the run
     return "https://github.com/%s/releases/download/%s/%s" % (repo, AUDIO_RELEASE, asset_name)
 
 
