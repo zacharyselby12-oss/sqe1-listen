@@ -256,7 +256,7 @@ def render_pcm(turns, voices, fake=False, log=print):
 
         # a few chunks at a time, so an episode takes minutes rather than a quarter of an hour; order is kept
         done, failure, quota = {}, None, None
-        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("PAIR_WORKERS", "4")))
+        ex = ThreadPoolExecutor(max_workers=int(os.environ.get("PAIR_WORKERS", "2")))
         futs = {ex.submit(one_chunk, it): it[0] for it in enumerate(groups, 1)}
         for f in as_completed(futs):
             if f.cancelled():
