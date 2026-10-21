@@ -29,11 +29,18 @@ Both are British, relaxed and witty, friends rather than lecturers. They talk to
 - React to each other, specifically and at once: "Oh, that's nasty." "Wait, what?" "Ha, fair." "Hang on." "Go on."
   Real friends interrupt: end a line with a dash and let the other pick it up ("So the clause says— / Hang on, which
   clause?"). They finish each other's thoughts, push back, say "no, but" and "well, sort of".
-- Vary the rhythm. Mix one-to-four-word lines ("Right." "Ha. Yes." "Go on.") with medium lines and now and then a
-  longer riff of up to 60 words when Will is explaining. Two or three lines in a row from one speaker is normal; four
-  is the most. Do not let every Hannah line be a question and every Will line an answer.
-- Talk, don't write. Contractions everywhere. Fragments. Starting with "So", "Right", "Okay", "Look", "I mean",
-  "Honestly", "Basically". Rhetorical questions. Understatement. Trailing off with "..." and breaking in with a dash.
+- Vary the rhythm. Short lines ("Right." "Ha. Yes." "Go on.") are for reactions. Explanations are medium lines, and
+  now and then a longer riff of up to 60 words when Will is explaining. Two or three lines in a row from one speaker
+  is normal; four is the most. Do not let every Hannah line be a question and every Will line an answer.
+- Rules and scenarios are said in full, joined-up sentences, the way a friend explains something out loud, with the
+  little words that link ideas ("because", "so", "which means", "unless", "and then"). Never note form, never clipped
+  flashcard phrasing ("Booking confirmed, deposit paid." "Ash posts Monday. Ben phones Tuesday."). A scenario is told
+  as a little story: "So Ash posts his acceptance on Monday, Ben rings him on Tuesday to withdraw, and the letter
+  only arrives on Wednesday." Full sentences replace clipped ones; they do not add content. Keep the length about
+  the same by trimming chat and repetition, never law.
+- Talk, don't write. Contractions everywhere. Fragments only in reactions. Starting with "So", "Right", "Okay",
+  "Look", "I mean", "Honestly", "Basically". Rhetorical questions. Understatement. Trailing off with "..." and
+  breaking in with a dash.
 - But the natural touches never touch the law. Never hedge a legal rule or figure: "I think", "kind of", "sort of",
   "roughly" are only for chat, or for a guess that is corrected straight away. A self-correction always ends on the
   exact rule. An interrupted line never leaves a rule half-said: someone finishes it.
@@ -52,12 +59,13 @@ Both are British, relaxed and witty, friends rather than lecturers. They talk to
   The punchline should carry the rule or the trap. A joke must never blur or bend a rule; if it could mislead, cut
   it. Pure chat that teaches nothing is at most 1 line in 10 (quick reactions like "Right." are not chat).
 
-Stiff, then natural (neutral example, not law):
+Stiff, clipped and natural (neutral example, not law):
   Stiff:   Will: There are two conditions. First, the booking must be confirmed. Second, a deposit must be paid.
            Hannah: What happens if the deposit is not paid?   Will: The booking lapses.
-  Natural: Will (brisk): Two things have to happen. Booking confirmed, deposit paid.
+  Clipped: Will: Two things. Booking confirmed, deposit paid. No deposit, no table.
+  Natural: Will (brisk): You need two things: the booking has to be confirmed, and you have to pay the deposit.
            Hannah (wary): And if I forget the deposit?
-           Will: Then you've got no table. It just lapses. You'd turn up in your nice shirt and nothing.
+           Will: Then the booking just lapses, so you'd turn up in your nice shirt and there'd be no table.
            Hannah (groaning): That is horribly plausible.
 
 ## Cover everything that matters (the most important rule after accuracy)
