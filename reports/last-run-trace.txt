@@ -1,13 +1,1 @@
-   19.6s ok 18.7s try 1: Right. Hannah. Quick one bef
-   19.8s ok 18.9s try 1: Right. Hannah. Quick one bef
-   20.8s ok 19.8s try 1: Right. Hannah. Quick one bef
-   40.3s ok 17.7s try 1: Right. Hannah. Quick one bef
-   41.6s ok 17.7s try 1: Right. Hannah. Quick one bef
-   42.2s ok 19.5s try 1: Right. Hannah. Quick one bef
-   45.1s error after 0.1s try 1: Right. Hannah. Quick one bef | RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit exceeded for model gemini-3.8-flash-tts (limit: 10 requests per minute on Tier 1). Please re
-   62.7s ok 18.6s try 1: Right. Hannah. Quick one bef
-   62.8s ok 19.8s try 1: Right. Hannah. Quick one bef
-   68.2s ok 18.0s try 2: Right. Hannah. Quick one bef
-   83.2s ok 18.0s try 1: Right. Hannah. Quick one bef
-   84.1s ok 18.7s try 1: Right. Hannah. Quick one bef
-   88.6s ok 17.8s try 1: Right. Hannah. Quick one bef
+
