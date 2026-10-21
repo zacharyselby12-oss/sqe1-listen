@@ -170,7 +170,9 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
                 ep["pubDate"] = ep.get("pubDate") or now.isoformat(timespec="seconds")
         elif isinstance(err, render.QuotaExhausted):
             # not the episode's fault: it stays queued and is tried again after Google's limit resets
-            ep["lastError"] = "waiting for Google's daily speech limit to reset"
+            ep["lastError"] = ("Google stopped answering; it is tried again in the next run"
+                               if isinstance(err, render.GoogleStuck) else
+                               "waiting for Google's daily speech limit to reset")
             print("  STOPPED: %s" % err, flush=True)
             note = str(err)
         else:

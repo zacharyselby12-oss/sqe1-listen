@@ -102,12 +102,21 @@ class QuotaExhausted(RuntimeError):
     (midnight in California, which is 08:00 in London)."""
 
 
+class GoogleStuck(QuotaExhausted):
+    """Google keeps hanging on requests (several chunks of one episode got no answer in time). The episode stays
+    queued, like a used-up daily limit, instead of burning requests and an hour of waiting."""
+
+
+HUNG_BUDGET = int(os.environ.get("HUNG_BUDGET", "3"))   # hung requests one episode may meet before it stops
+
+
 REQUESTS = {"sent": 0}       # how many speech requests this run has sent to Google (counted even if they fail)
 _COUNT_LOCK = threading.Lock()
 
 ABORT = threading.Event()   # set when one line has failed for good, so the others stop waiting
 LINE_LIMIT = 60             # seconds one single-line request may take before we give up on it
-CHUNK_LIMIT = 420           # seconds one two-voice chunk (about 380 words, 2 to 3 minutes of speech) may take
+CHUNK_LIMIT = 180           # seconds one two-voice chunk (about 380 words, 2 to 3 minutes of speech) may take;
+                            # a normal answer takes about 30 seconds
 
 
 def _create_guarded(cl, kwargs, limit, abort=None):
@@ -183,6 +192,15 @@ def _call(cl, model, content, speech_config, limit=None, abort=None):
                 raise QuotaExhausted("Google's daily limit for speech requests is used up: " + msg[:350]) from e
             if "HUNG" in msg:
                 hung += 1
+                lock = getattr(abort, "lock", None)
+                if lock is not None:   # count hangs across the whole episode, not just this chunk
+                    with lock:
+                        abort.hung += 1
+                        total = abort.hung
+                    if total >= HUNG_BUDGET:
+                        abort.set()
+                        raise GoogleStuck("Google stopped answering: %d requests of this episode hung for %d seconds "
+                                          "each; it stays queued for the next run" % (total, limit)) from e
                 if hung >= 2:
                     raise
                 continue
@@ -239,6 +257,7 @@ def render_pcm(turns, voices, fake=False, log=print):
             raise ValueError("unknown speaker %r (expected %s)" % (t["who"], list(vmap)))
     parts = []
     abort = threading.Event()   # this piece of work only: a failure here never stops other work running alongside
+    abort.hung, abort.lock = 0, threading.Lock()
     if voices.get("mode", "pair") == "pair":
         cl = None if fake else client()
         cfg = [{"speaker": lead["name"], "voice": lead["voice"]},
