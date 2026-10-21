@@ -1,0 +1,274 @@
+---
+id: pp-ws06-p1
+unit: u-bpp-PP-06
+guide_hash: f6b6c2cd57
+made: 2026-10-21T12:39:22+00:00
+title: PP WS06 · Part 1 of 2 · Leases and covenants
+map:
+- What have we got: lease, legal, old or new?
+- Who repairs, and who insures?
+- What can the tenant do to the place?
+- What does the tenant pay?
+- Can the tenant hand it on or get out?
+- What does the RICS Code add?
+recap:
+- Question one: exclusive possession makes it a lease whatever the label, over 3 years needs a deed, and without one, signed writing that complies with section 2 gives only an equitable lease, and old or new turns on the date of grant or of a pre-1996 agreement, option or court order, never the date of assignment.
+- Question two: keep in repair means put the premises into repair first, and rent suspension follows the lease clause and the loss-of-rent cover, not a statutory 3 years.
+- Question three: under a qualified covenant, section 19, subsection 2 stops unreasonable refusal for improvements, but a qualified use covenant gets nothing implied.
+- Question four: an open market review disregards voluntary improvements, but works the lease obliged the tenant to do are valued.
+- Question five: a break notice must be served on time and every condition met strictly, unlike a rent review timetable.
+- Question six: the Code's mandatory requirements bind only RICS members and regulated firms, and the Code does not ban upwards-only reviews.
+summary: Every lease question runs in the same order, what you have, repair and insurance, consent, rent, handing on or breaking, the Code, and each time the deciding fact beats the tempting label.
+invented:
+- Imogen
+- Dev
+- Callum
+- Priya
+- Beth
+- Kofi
+- Tomasz
+- Nadia
+- Aisha
+- Gareth
+---
+## Rule
+Will (warm): Right. Picture a client with a little shop. The roof was already leaking when she moved in. Then there's a fire, and the landlord still wants the quarter's rent. Then she tries to sell the business, and the landlord just sits on her request.
+Will (laughing): Each of those is a different question, and a business lease always runs the same six, in this order. One: what have we got, so is it a lease, is it legal, is it old or new. Two: who repairs and who insures.
+Hannah: Roof and fire. Go on.
+Will: Three: what can the tenant do to the place. Four: what does the tenant pay. Five: can the tenant hand it on or get out. Six: what does the RICS Code add.
+Hannah (thinking aloud): What we've got, repair and insurance, what she can do, what she pays, handing on or getting out, the Code.
+Will: Yes. Behind all six is one tug of war: the landlord wants clean, secure income, the tenant wants flexibility, and the Code is the yardstick. The landlord's solicitor drafts the lease and any agreement for lease. That's sections one to ten; the rest is the next episode.
+Will (brisk): One detour first, nothing to do with leases. The workshop opens with a sale. Under Standard Condition 2.2.1 the deposit has three rules, all at once: it's 10 per cent of the purchase price, a separate contents price isn't part of that, and it's payable no later than the date of the contract, so on exchange.
+Hannah (thinking aloud): Ten per cent of everything, curtains and carpets too.
+Will: Not the contents. A separate contents price is left out.
+Hannah (sceptical): And a buyer who offers to pay a week after exchange? A week's hardly late.
+Will (dry): It's too late. No later than the date of the contract means exactly that, so a later date, or a reduced deposit, needs a special condition. And a stakeholder holds the deposit for both sides and releases it to the seller only on completion.
+Hannah: Right, back to leases.
+Will (warm): Question one: what have we got? Three checks in a row: lease, legal, old or new. Check one: I let you a locked storage unit for a fixed term. You pay me rent monthly, you hold the only key, and the paper you sign is headed "licence". What have you got?
+Hannah (wary): A licence. It says so at the top.
+Will (amused): <short pause> A lease.
+Hannah (incredulous): But it says licence!
+Will (deadpan): The label doesn't matter. Exclusive possession for a term at a rent is a lease, whatever the parties call it, and sole use of a locked unit is exclusive possession. Without exclusive possession it's a licence, which creates no estate and gives no security of tenure under the Landlord and Tenant Act 1954.
+Hannah (dry): So the heading's decoration.
+Will: Check two, legal or not. A legal lease over 3 years needs a deed.
+Hannah (confident): Seven years, surely.
+Will (teasing): That's the swap everyone makes. Seven is registration, coming up. A deed is over 3.
+Hannah: And with no deed?
+Will: Then it's not a legal lease. But signed writing that complies with section 2, so in writing, with all the agreed terms, signed by both sides, gives an equitable lease, because equity treats as done what ought to be done. That's Walsh and Lonsdale.
+Will: The catch comes when the landlord sells. An equitable lease doesn't bind a buyer of the reversion, whoever buys the landlord's interest, unless it's protected, or overriding through the tenant's actual occupation.
+Hannah: Different from a tenant who just moves in and pays rent?
+Will: Look-alike. A tenant in possession paying rent the landlord accepts gets an implied legal periodic tenancy. The equitable lease comes from the signed writing.
+Hannah: Any leases small enough to skip the deed?
+Will: Three years or less, legal even if oral, but only if it takes effect in possession, at the best rent reasonably obtainable, with no premium. All of those. A contract for it is outside section 2 too.
+Will: Registration is a separate threshold, with three bits of small print. A lease over 7 years must be registered with its own title, and leases of 7 years or less are generally overriding interests.
+Hannah (teasing): Over 3 a deed, over 7 register. Someone's going to swap them.
+Will (wry): Now the small print. Granted out of an unregistered reversion, a lease over 7 years must be registered within 2 months. Granted out of a registered title, it's legal only once registered. And a reversionary lease, taking effect more than 3 months after grant, must be registered whatever its length.
+Will: Third check, old or new, which is all about assignment. An assignment passes the whole remaining term, so the assignee becomes the landlord's tenant. An underletting creates a new, shorter lease out of the tenant's term, so the tenant becomes the subtenant's landlord.
+Hannah (amused): So an underlease of the whole remaining term is an assignment in a hat.
+Will: It operates as an assignment, yes, so an underlease must be shorter than the head lease, at least by one day.
+Will: The date is 1 January 1996. A lease granted before it is an old lease, and so is a later one granted under a pre-1996 agreement, option or court order. In an old lease the original tenant is liable for the whole term.
+Hannah (guessing): And a new lease releases the tenant on assignment. So an old lease assigned this year counts as new.
+Will: <short pause> Half right. A new lease tenant is released on assignment, subject to an authorised guarantee agreement. But the assignment date is the trap. The date of grant, or of the earlier agreement, decides. A lease from 1990 assigned this year is still old, so the original tenant stays liable for the whole term. A lease from 2010 is new.
+Hannah: Date of grant, never date of assignment.
+Will (thoughtful): One residential oddity before we leave question one. A regulated long lease is a lease of a single dwelling, over 21 years, granted for a premium. Granted on or after 30 June 2022, or 1 April 2023 for retirement homes, its rent can be no more than a peppercorn.
+Hannah (dry): So a developer's £250 ground rent on a new 999-year flat has a problem.
+Will: If it was for a premium and on or after 30 June 2022, yes. Anything above a peppercorn is unenforceable, and charging it can lead to a penalty. Existing leases aren't capped.
+Hannah: Question one in a line: exclusive possession makes it a lease, over 3 years it needs a deed to be legal, plus registration over 7, and the date of grant, or of a pre-1996 agreement, option or court order, makes it old or new.
+Will (brisk): So we know what we've got. Question two: who repairs, and who insures? Repair first, and the rule is to read the express terms, because a landlord has no general implied covenant to repair business premises.
+Hannah: So a shop tenant demanding the landlord fix the structure gets nowhere.
+Will: Not without an express term. Section 11 of the Landlord and Tenant Act 1985 is a statutory repairing duty, but it covers only dwellings let for under 7 years.
+Will: So it depends on the building. Single-let, the tenant repairs the whole, structure and exterior included, and reimburses the insurance premium too, so the landlord gets a clean rent. That's the full repairing and insuring lease.
+Hannah: And a building let in pieces?
+Will: Multi-let, the landlord repairs structure, exterior and common parts via the service charge, which is how it gets the same clean rent. The tenant repairs the interior only. The definition of the premises decides who repairs what.
+Will: The service charge should match the landlord's service obligations. The tenant should resist paying for improvements, initial construction, inherent defects and capital replacement that isn't repair, and should seek a fair apportionment.
+Will (dry): Now the phrase that catches people: keep in repair.
+Hannah (wary): That just means don't let it get worse.
+Will: That's the trap. It obliges the tenant to put the premises into repair first, so disrepair that's there on day one must still be made good, unless a schedule of condition limits the obligation.
+Hannah (groaning): So our client fixes the roof she walked in with.
+Will: She does, if her lease makes her keep the roof in repair and no schedule of condition limits it. That's why a tenant of old premises annexes a photographic schedule of condition to the lease, and then repairs to no better condition than it shows.
+Will: Next, is the work repair at all? Repair means making good damage or deterioration. It doesn't extend to renewing the whole or substantially the whole, or to improvement, and it's a question of degree: rebuilding the whole, or giving back something different, goes too far.
+Hannah (thinking aloud): So a building that was just built badly isn't damaged, which means an inherent defect can't be—
+Will: Not so fast. Fixing an inherent defect can be repair, if it's the only sensible way to repair.
+Hannah (wary): Hang on, so the tenant's stuck with it?
+Will: Unless the lease expressly excludes inherent defects. Silence doesn't exclude them.
+Hannah: Same trick for insured risks, I'd guess.
+Will: Yes. The tenant excludes damage by insured risks, where the landlord insures and the tenant pays the premium as insurance rent. But the exclusion fails if the tenant's act or default vitiated the insurance.
+Will: And a further limit: the tenant replaces items only when they're beyond economic repair.
+Hannah: So: express terms, put it right first, and the schedule of condition is the tenant's shield.
+Will (warm): Insurance. The landlord normally insures, always in a multi-let building, and recovers the premium as insurance rent. The tenant wants five things from that. Name them.
+Hannah (thoughtful): Reputable insurers. Cover for the full cost of rebuilding.
+Will: Full reinstatement cost, yes. More?
+Hannah: The risks spelled out. And my own interest protected somehow.
+Will: Defined insured risks, and your interest noted or a waiver of subrogation. The fifth is policy details. And the landlord covenants to apply the insurance money to reinstate and to make up any shortfall.
+Will (brisk): Now the bit the exam loves. The shop burns out in an insured fire, leaving it unfit for use or inaccessible, and the landlord still demands the quarter's rent. Does the rent stop?
+Hannah (confident): Obviously.
+Will: Only if the lease provides for suspension. Frustration very rarely applies to leases, so without a clause the rent stays due.
+Hannah (groaning): <sigh> Oh, that's nasty. Rent on a burnt-out shell.
+Will: With a clause, rent and service charge are suspended until reinstated, in whole or in a fair proportion, according to the damage. How long, do you think?
+Hannah (guessing): Three years, by law.
+Will: Not by law. It usually lasts for the loss-of-rent insurance period, commonly about 3 years, which is market practice tied to that cover, not statute. And there's no suspension if the tenant's act or default vitiated the insurance, so the tenant must do nothing that vitiates it.
+Hannah: And if it's never rebuilt?
+Will: If reinstatement is impossible, or not completed by the end of the suspension period, the tenant, and often either party, may terminate.
+Will (dry): The sting is uninsured risks, terrorism excluded, say. The tenant should seek reinstatement at the landlord's cost, or a right to terminate. Otherwise its repair covenant may leave it with the loss.
+Hannah: Does it change when the tenant insures?
+Will: Yes. Rent suspension is usually absent then, because the tenant controls the cover. In a single-let building the landlord wants joint names or its interest noted, the money applied to reinstatement, and the tenant to make up any shortfall.
+Hannah: So rent stops only if the lease says so, usually for the loss-of-rent period, and not at all if the tenant vitiated the insurance.
+Will (warm): Roof sorted, fire sorted. Question three: what can the tenant do to the place? That's alterations and use, and both come down to consent. Covenants come in three kinds. Absolute means the act is forbidden outright. Guess the other two.
+Hannah: Qualified is not without consent. Fully qualified is consent that can't be unreasonably refused.
+Will: Consent not to be unreasonably withheld, yes. But watch the words: a covenant not to assign without the landlord's consent, and nothing more, is only qualified. Full qualification needs those express words. And statute adds the reasonableness proviso to some qualified covenants, so the game is which statute for which covenant.
+Will (amused): Alterations first, then use. Under an absolute covenant the landlord may refuse for any reason or none, and the tenant can only negotiate.
+Hannah (teasing): So you could refuse because you don't like my shoes.
+Will: As your landlord, absolutely. <laugh> Typical drafting is an absolute bar on structural and external alterations, and a qualified covenant for internal non-structural ones. And for a qualified covenant and an improvement, section 19, subsection 2 says consent is not to be unreasonably withheld.
+Hannah: Improvement for whom?
+Will: From the tenant's point of view. And it only reaches qualified covenants, so nothing is implied into an absolute one.
+Hannah: Can the landlord ask for anything in return?
+Will: Up to three things, each on its own: a reasonable sum for damage or diminution in value of the premises, or of neighbouring premises it owns; its legal and other expenses, properly incurred; and an undertaking to reinstate, but only where the improvement doesn't add to the letting value and the requirement is reasonable.
+Hannah (wary): And if it just sits on my request? Damages for delay?
+Will: That's the trap. The duty to decide within a reasonable time and give reasons sits in a different statute, the Landlord and Tenant Act 1988, and it applies to alienation only, so no damages under it for delay on alterations.
+Will: Two practical points. A tenant may install and remove demountable partitions without consent, though the landlord may require reinstatement at the end of the term. And consent comes in a licence for alterations, a deed, with conditions: planning permission, building regulations approval, good and workmanlike work, and reinstatement on request.
+Will: One link forward: voluntary improvements are disregarded on an open market rent review. Hold that for question four.
+Will (warm): Use. Same first step: classify. If it's qualified, no proviso is implied that consent is not to be unreasonably withheld.
+Hannah (mock-outraged): But it is for alienation. And for improvements!
+Will (dry): <short pause> That's the trap. For use, nothing is implied. Section 19, subsection 3 only limits what the landlord can charge: no premium or increased rent for consent where no structural alteration is involved.
+Hannah (thoughtful): So the statute limits the price, not whether you can say no.
+Will: Yes, and the landlord may still ask for a reasonable sum for diminution in value, and its expenses. So subsection 2 is for works, and subsection 3—
+Hannah: —is for a change of use.
+Will: Three more points on use. A narrow user clause depresses the rent on review, because the hypothetical letting is on the lease terms, and it makes the lease harder to assign. The landlord gives no implied warranty that the use is lawful in planning terms, so the tenant checks the permission and planning history itself.
+Hannah (wary): And if I covenant to keep the shop open and then shut?
+Will: A keep-open covenant isn't normally enforced by specific performance. The landlord gets damages. That's Co-operative Insurance and Argyll.
+Hannah: So: works, subsection 2. Use, subsection 3, which limits only the price.
+Will (brisk): Alterations and use done; now money. Question four: what does the tenant pay, and how does it change? Basics first. Find the initial annual rent, the payment dates and the rent commencement date. Rent is usually paid quarterly in advance on the quarter days: 25 March, 24 June, 29 September and 25 December. The commencement date shows any rent-free period.
+Hannah: And insurance rent and service charge?
+Will: Often reserved as rent, so forfeiture for non-payment of rent applies to them. The look-alike is CRAR, which is available only for principal rent, even if other sums are reserved as rent.
+Will: Now how it changes. There are four review methods. Name them.
+Hannah: Open market. Index-linked. Turnover. And fixed increases.
+Will: Yes. Open market is the commonest, usually 5-yearly and upwards-only. Index-linked uses RPI or CPI, often with a collar and cap. Upwards-only means the new rent is the higher of the passing rent and the market rent, so rent can fall with the market only under an upwards and downwards review.
+Will: Open market is the one the exam loves. You value a hypothetical letting on the actual lease terms other than rent, applying the assumptions first, then the disregards. There are six assumptions. What would you assume?
+Hannah (thinking aloud): A willing landlord and a willing tenant.
+Will: Go on.
+Hannah: The whole place, empty.
+Will: The whole premises with vacant possession. Then a stated hypothetical term, the actual lease terms other than rent, the tenant's covenants performed, and premises fit for immediate occupation and use.
+Hannah (dry): Six. And the disregards?
+Will (deadpan): Three: the actual tenant's occupation, goodwill and voluntary improvements. And here's the sting: improvements made under an obligation to the landlord aren't disregarded. They're valued.
+Hannah: So assumptions describe the imaginary letting, and disregards strip out things about the actual tenant.
+Will: Which gives a second trap. The landlord wants an assumption of no rent-free period or inducement, a headline rent, and the tenant wants the rent to reflect market incentives. But that's about what a hypothetical new tenant would get. The disregards concern the actual tenant, so the actual tenant's own rent-free period doesn't lower the review rent.
+Hannah (sceptical): And upwards-only is still lawful in business leases?
+Will: As at 11 September 2026, yes. The English Devolution and Community Empowerment Act had Royal Assent on 29 April 2026, but it needs commencement regulations, not expected before 2027. Once commenced, it makes upwards-only reviews ineffective in new business leases in England and Wales, and it also catches a lease granted under a renewal option in a lease granted on or after 17 March 2026.
+Will: Existing leases are unaffected. And it catches open market, index-linked and turnover reviews, but not fixed or stepped increases, because that rent is ascertainable at grant.
+Will: Last, three bits on a review going wrong: the timetable, who decides, and the delay. Time is presumed not of the essence for the review timetable, unless the lease says so, there's an interrelation with a break clause, or the context shows it, such as a deeming provision. That's United Scientific Holdings and Burnley.
+Hannah: So a missed review date doesn't lose the review unless time is of the essence. And who decides if they can't agree?
+Will: The expert or arbitrator the lease names. An expert uses its own knowledge, isn't bound by evidence, is cheaper and quicker, is liable in negligence, and has limited challenge.
+Will: An arbitrator decides on the parties' evidence and submissions, with limited appeal, and isn't liable in negligence. That's the Arbitration Act.
+Hannah: And while it drags on, does the tenant get a free ride?
+Will: No. The old rent continues until it's settled, then the tenant pays the shortfall back to the review date, usually with interest at a stated rate.
+Hannah (pleased): So on rent: four review methods, and on open market the voluntary improvements go but the obliged ones stay.
+Will (warm): Rent sorted. Question five: can the tenant hand the lease on, or get out of it? Handing on first. That's alienation, so the same three kinds of covenant again. If it's absolute, the landlord may refuse for any reason.
+Hannah (guessing): And an assignment in breach is void, presumably.
+Will (quietly): Not void. It still passes the lease, but the landlord can forfeit, if there's a forfeiture clause, and the breach is irremediable.
+Will: If it's qualified, section 19, subsection 1, paragraph a makes it fully qualified: consent not to be unreasonably withheld. That covers assigning, underletting, charging and parting with possession.
+Hannah: There's a special rule for grounds agreed in advance, isn't there?
+Will: For assignments of non-residential leases granted on or after 1 January 1996. Under section 19, subsection 1A, a refusal or conditions on pre-agreed grounds aren't unreasonable. Think an authorised guarantee agreement, financial tests on the assignee, a guarantor, a rent deposit.
+Hannah (confident): Underletting too, presumably.
+Will: <short pause> No, and that's a trap. Assignment only. Underletting refusals are judged under subsection 1, paragraph a. So 1A needs all of it: an assignment, of a non-residential lease, granted on or after that date, on grounds agreed in advance.
+Will: Then a written application brings in the timing-and-reasons duties, in the other Landlord and Tenant Act. Within a reasonable time the landlord must give consent unless refusal is reasonable, and serve written notice of its decision, stating any conditions or reasons. It bears the burden of proving reasonableness, and breach is actionable in tort for damages.
+Hannah (wary): Doesn't section 19 give the timing and the damages?
+Will: No. Only that other Act imposes a timing duty and damages, triggered by a written application. Section 19 is about reasonableness.
+Hannah: So what counts as reasonable?
+Will: A reason relating to the landlord and tenant relationship about the lease's subject matter, not a collateral advantage, and those are guidelines, not rigid rules. That's International Drilling Fluids and Louisville Investments.
+Will: Otherwise it's fact by fact. Refusing because the assignee's use would breach the user covenant can be reasonable, that's Ashworth Frazer and Gloucester, and so can harm to the landlord's trading interests in neighbouring property. The assignee's intended use can justify refusal even if the lease permits it.
+Hannah (guessing): So at trial the landlord can add a better reason—
+Will: No. It need only show that a reasonable landlord could reach its conclusion, but it can rely only on the reasons stated in its written decision.
+Will: After an unreasonable refusal the tenant has three options: assign anyway, which is risky because the landlord may contest it; seek a court declaration; or claim damages under the other Act.
+Will (brisk): Now getting out. Break clauses are all about strictness. Who may break, on which dates, by what notice, and time is of the essence: a notice served a day late, or on the wrong landlord company, fails.
+Will: And the notice must follow the clause strictly on timing, form, service and parties.
+Will (amused): Content is gentler, though. A minor error doesn't invalidate the notice if a reasonable recipient would understand what was meant. That's Mannai and Eagle Star. But how or when it's served must be exact.
+Hannah (thoughtful): So a typo is fine if a reasonable recipient would still understand it, and a late stamp isn't. Unlike a rent review timetable, where lateness is forgiven.
+Will (pleased): Neatly put: a late review step loses nothing unless time is made essential, but a break notice must be on time.
+Will: Then every condition must be met strictly on the break date, and three catch people out. Vacant possession means free of people, chattels and legal interests, so leaving furniture or a subtenant defeats the break. A payment condition covers every sum it names: rent, sums reserved as rent, or all sums due.
+Hannah (incredulous): <gasp> Even small unpaid default interest?
+Will (dry): Even that defeats the break. And a condition of full compliance with covenants can be lost through a trivial breach. So a tenant wants as few conditions as possible, and the RICS Code recommends three: paying the basic rent due before the break date, giving up occupation, and leaving no subtenants or other occupiers.
+Will (wry): One more sting. Rent paid in advance isn't apportioned on a mid-quarter break, unless the lease expressly provides a refund. The tenant pays the full quarter, often itself a condition, and can't recover it. That's Marks and Spencer and BNP Paribas.
+Hannah (dry): <sigh> Landlords keep the quarter.
+Will: If the lease is protected by Part Two of the Landlord and Tenant Act 1954, a landlord's break notice doesn't by itself end the tenancy. The landlord must also serve a section 25 notice and prove a statutory ground, for example redevelopment.
+Will: Options to renew are just as fussy. The tenant must exercise one strictly in accordance with its terms, and to bind a buyer of the reversion it needs protecting: a notice on a registered title, or overriding if the tenant is in actual occupation, or a Class C four land charge if unregistered.
+Hannah (wary): Hang on, where does term length fit?
+Will: Still question five, how long the lease runs. Over 7 years is registrable, and the term affects rent review and SDLT. And a lease of 6 months or less is outside Part Two, unless it provides for renewal or extension beyond 6 months, or the tenant, with any predecessor in the business, has been in occupation for more than 12 months.
+Hannah: So handing on turns on the covenant and section 19, and getting out turns on being strict, to the day.
+Will (warm): <breath> Last one. Question six: what does the RICS Code for Leasing Business Premises add? It isn't legislation. It's an RICS professional standard for negotiating new leases of business premises in England and Wales, first edition, effective 1 September 2020, first issued as a professional statement and reissued as a professional standard in September 2023.
+Hannah: So who does it bind?
+Will: Its mandatory requirements bind RICS members and regulated firms, and breach is a disciplinary matter for surveyors. It doesn't bind a solicitor who isn't RICS-regulated.
+Will: So two checks: is this person a member or a regulated firm, and is the provision a must or a should? Must is mandatory, should is best practice. A must: an agent must advise an unrepresented prospective tenant to get professional advice and to read the Code's guidance. Landlords' agents must also provide heads of terms. What would they cover?
+Hannah (thinking aloud): Rent and review. The term. Breaks. Repair, insurance...
+Will: Plus security of tenure, service charge, alienation, alterations and use.
+Will: Two traps. The Code does not ban upwards-only reviews. The mandatory part is only that the heads of terms state the rent review position, whether and how rent is reviewed. Further review recommendations are best practice.
+Hannah: And the break conditions from question five?
+Will: Good practice, not mandatory, so the lease wording decides validity. Unless stricter conditions were agreed in the heads of terms, the only conditions should be those three.
+Will: It also echoes question two. Where the landlord insures, tenants normally contribute their appropriate proportion of the premium. It covers rent suspension where the premises, or the landlord's areas or services serving them, are damaged by an insured risk, or by an uninsured risk unless due to the tenant's act or default.
+Hannah: And ending the lease?
+Will: If a time-limited suspension runs out with significant damage not reinstated, either party should be able to terminate. And if an uninsured risk makes the whole or a substantial part incapable of normal use, either may terminate, unless the landlord agrees to rebuild at its own cost.
+Hannah (dry): A yardstick for RICS people, not a law for everybody.
+Will (brisk): Numbers round. I say the trigger, you give me the number and what it does. Deposit?
+Hannah: Ten per cent of the price, contents left out, no later than exchange.
+Will: Deed?
+Hannah: Over 3 years, not 7. At 3 years or less it's legal without one, if it's in possession, at the best rent, with no premium.
+Will: Registration?
+Hannah: Over 7 years, with its own title, and within 2 months if it's granted out of an unregistered reversion. A lease taking effect more than 3 months after grant is registrable whatever its length.
+Will: The old lease date?
+Hannah: 1 January 1996, by date of grant, or of a pre-1996 agreement, option or court order: before it, the original tenant is liable for the whole term; on or after, the tenant is released on assignment, subject to an authorised guarantee agreement. And an underlease has to be shorter than the head lease by at least one day.
+Will: Peppercorn?
+Hannah: A lease of a single dwelling over 21 years for a premium, granted on or after 30 June 2022, or 1 April 2023 for retirement homes.
+Will: Section 11?
+Hannah: Dwellings let for under 7 years only. And rent is suspended until reinstated, usually for the loss-of-rent period, commonly about 3 years, which is market practice, not statute.
+Will: Rent dates?
+Hannah: Quarterly in advance on 25 March, 24 June, 29 September and 25 December, with open market reviews usually 5-yearly.
+Will: The upwards-only ban?
+Hannah: Royal Assent was 29 April 2026 and commencement isn't expected before 2027, so it's lawful as at 11 September 2026. It catches renewal options in leases granted on or after 17 March 2026.
+Will: Pre-agreed grounds?
+Hannah: Section 19, subsection 1A, for assignments of non-residential leases granted on or after 1 January 1996.
+Will: Term length?
+Hannah: Over 7 years is registrable. And a lease of 6 months or less is outside Part Two, unless it provides for renewal or extension beyond 6 months, or the tenant, with any predecessor in the business, has been in occupation for more than 12 months.
+Will: Last, the RICS Code?
+Hannah: Effective 1 September 2020, reissued as a professional standard in September 2023.
+Will (pleased): That's the lot.
+## Exam mode
+Hannah (brisk): Right, test me. I'll say which question each one turns on.
+Will (warm): Imogen and Dev sign one document setting out all the terms of a 6-year lease of a workshop. No deed. Dev moves in and pays monthly rent, which Imogen accepts. Imogen then sells her registered freehold to Callum, and nothing is entered on her title. Is Callum bound by Dev's 6 years?
+Hannah (confident): That's question one. Six years with no deed means equitable, and an unprotected equitable lease never binds a buyer. So no.
+Will (dry): That's the tempting answer, and it's wrong. Six years needs a deed to be legal, so Dev's lease is only equitable, because the signed document complies with section 2. But the deciding fact is his actual occupation, which makes it an overriding interest, so Callum is bound.
+Will (brisk): Quick one. A lease granted before 1 January 1996 is assigned last year. Is the original tenant released?
+Hannah (guessing): Still question one. Assigned last year, so yes?
+Will (amused): <short pause> That's the date trap. It's an old lease, so the original tenant stays liable for the whole term.
+Will: Priya has a 10-year full repairing and insuring lease of a whole 1960s factory. The roof beams were designed too thin and are cracking. Strengthening them with steel plates is the only sensible fix and costs a small fraction of the building's value. The lease says nothing about inherent defects. Must she pay?
+Hannah (confident): Question two, repair. A design flaw, so no. Inherent defects aren't repair.
+Will (dry): Probably yes. It's the only sensible way to repair, and it falls far short of renewing substantially the whole. Inherent defects are excluded only if the lease says so, and this one's silent.
+Will (warm): Beth's lease absolutely prohibits structural alterations and has a qualified covenant for internal non-structural works. She wants to remove a load-bearing wall to create an open-plan office, which would improve her use. The landlord refuses without reasons. Can she rely on section 19, subsection 2?
+Hannah (pleased): Question three, alterations. It's an improvement, so consent can't be unreasonably withheld.
+Will: Tempting. But a load-bearing wall is structural, so the absolute prohibition applies, and subsection 2 implies reasonableness only into a qualified covenant. The landlord may refuse.
+Will: Different one. A qualified use covenant, no structural alteration, and the landlord will consent only for a premium. Can it?
+Hannah (guessing): Refusal has to be reasonable, as with alienation, so no.
+Will: Right answer, wrong reason. Nothing is implied for use. The bar is section 19, subsection 3: no premium or increased rent where no structural alteration is involved. It can still ask for a reasonable sum for diminution in value, and its expenses.
+Will (brisk): Kofi chose to fit a mezzanine floor. His lease also required him to install a fire escape, which he did. The review is to open market rent with the usual disregards. Which works does the valuer take into account?
+Hannah (confident): Question four, the review. Neither. They're all his works.
+Will: That's the tempting error. Only voluntary improvements are disregarded. The fire escape was made under an obligation to the landlord, so it's valued. The mezzanine is disregarded.
+Will: Two review traps. The actual tenant had a rent-free period: does the valuer assume a lower rent? And the landlord's trigger notice was late: review lost?
+Hannah (wary): The incentive counts, surely. And lost, probably.
+Will: No to both. Incentives are about a hypothetical new tenant, not the actual one, and time isn't of the essence unless the lease, a break link or the context makes it so.
+Will: Tomasz applies in writing for consent to assign his shop lease under a qualified covenant. The landlord's written decision refuses consent on the sole ground of the assignee's weak accounts. At trial the landlord also argues that the assignee's trade would harm its neighbouring shopping centre. Can it rely on that?
+Hannah (confident): Question five, handing on. Harm to neighbouring trading interests is a reasonable ground, so yes.
+Will: It can be a reasonable ground, but the landlord is confined to the reason in its written decision. The new reason wasn't in the notice, so no.
+Will: Nadia's lease allows a break on the fifth anniversary, conditional on her having paid all sums due. She paid the main rent but disputes a £40 service charge item, still unpaid on the break date. Has she validly broken?
+Hannah (sceptical): Question five again, the break. It's £40. Surely too trivial.
+Will (deadpan): Size is irrelevant. The condition covered all sums due, not just the main rent, and strict construction means any shortfall defeats the break. So no, if the £40 was properly due.
+Will (warm): Aisha, a landlord's in-house surveyor and an RICS member, negotiates a shop lease with Gareth, a sole trader with no adviser. The landlord's solicitor, who isn't RICS-regulated, will draft the lease. Who's bound by the Code's mandatory requirements, and what must be done for Gareth?
+Hannah (confident): Question six. Everyone on the landlord's side.
+Will: The deciding fact is RICS membership. The Code is an RICS professional standard, not legislation, so the surveyor is bound, not the solicitor, and Aisha must advise Gareth to get professional advice and to read the Code's guidance.
+## Recap
+Will (warm): The map once more, one line each.
+Hannah: Question one: exclusive possession makes it a lease whatever the label, over 3 years needs a deed, and without one, signed writing that complies with section 2 gives only an equitable lease, and old or new turns on the date of grant or of a pre-1996 agreement, option or court order, never the date of assignment.
+Will: Question two: keep in repair means put the premises into repair first, and rent suspension follows the lease clause and the loss-of-rent cover, not a statutory 3 years.
+Hannah (brisk): Question three: under a qualified covenant, section 19, subsection 2 stops unreasonable refusal for improvements, but a qualified use covenant gets nothing implied.
+Will: Question four: an open market review disregards voluntary improvements, but works the lease obliged the tenant to do are valued.
+Hannah: Question five: a break notice must be served on time and every condition met strictly, unlike a rent review timetable.
+Will: Question six: the Code's mandatory requirements bind only RICS members and regulated firms, and the Code does not ban upwards-only reviews.
+Hannah (pleased): And in one sentence?
+Will (warm): Every lease question runs in the same order, what you have, repair and insurance, consent, rent, handing on or breaking, the Code, and each time the deciding fact beats the tempting label.

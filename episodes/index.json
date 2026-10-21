@@ -137,6 +137,37 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws06-p2-6b3f8420.mp3",
       "pubDate": "2026-10-21T12:30:57+00:00"
+    },
+    {
+      "id": "pp-ws06-p1",
+      "unitId": "u-bpp-PP-06",
+      "title": "PP WS06 · Part 1 of 2 · Leases and covenants",
+      "guideHash": "f6b6c2cd57",
+      "script": "scripts/pp-ws06-p1.txt",
+      "scriptHash": "3381fcce1c1e",
+      "audio": "audio/pp-ws06-p1.mp3",
+      "recap": [
+        "Question one: exclusive possession makes it a lease whatever the label, over 3 years needs a deed, and without one, signed writing that complies with section 2 gives only an equitable lease, and old or new turns on the date of grant or of a pre-1996 agreement, option or court order, never the date of assignment.",
+        "Question two: keep in repair means put the premises into repair first, and rent suspension follows the lease clause and the loss-of-rent cover, not a statutory 3 years.",
+        "Question three: under a qualified covenant, section 19, subsection 2 stops unreasonable refusal for improvements, but a qualified use covenant gets nothing implied.",
+        "Question four: an open market review disregards voluntary improvements, but works the lease obliged the tenant to do are valued.",
+        "Question five: a break notice must be served on time and every condition met strictly, unlike a rent review timetable.",
+        "Question six: the Code's mandatory requirements bind only RICS members and regulated firms, and the Code does not ban upwards-only reviews."
+      ],
+      "map": [
+        "What have we got: lease, legal, old or new?",
+        "Who repairs, and who insures?",
+        "What can the tenant do to the place?",
+        "What does the tenant pay?",
+        "Can the tenant hand it on or get out?",
+        "What does the RICS Code add?"
+      ],
+      "summary": "Every lease question runs in the same order, what you have, repair and insurance, consent, rent, handing on or breaking, the Code, and each time the deciding fact beats the tempting label.",
+      "madeAt": "2026-10-21T12:39:22+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 16 fixes plus 2 edits, each verified by Opus against the guide. One guide error avoided (s 19(1A) grounds need not be in the lease)."
     }
   ],
   "replays": []
