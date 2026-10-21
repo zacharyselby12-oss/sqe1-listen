@@ -78,19 +78,38 @@
     }
   ],
   "dayLimits": {
-    "2026-10-22": 2,
-    "2026-10-23": 1,
+    "2026-10-22": 3,
+    "2026-10-23": 2,
     "2026-10-24": 3,
-    "2026-10-25": 1,
+    "2026-10-25": 2,
     "2026-10-26": 0
   },
   "notBefore": {
-    "u-bpp-BLP-06": "2026-10-26T14:00:00+00:00"
+    "u-bpp-BLP-06": "2026-10-26T14:00:00+00:00",
+    "u-bpp-BLP-07": "2026-10-26T14:00:00+00:00",
+    "u-bpp-DR-07": "2026-10-26T14:00:00+00:00",
+    "u-bpp-PP-07": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Contract-01": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Contract-02": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Contract-03": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Contract-04": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Contract-05": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Tort-01": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Tort-02": "2026-10-26T14:00:00+00:00",
+    "u-bpp-Tort-03": "2026-10-26T14:00:00+00:00",
+    "u-bpp-CLP-06": "2026-10-26T14:00:00+00:00",
+    "u-bpp-WAE-06": "2026-10-26T14:00:00+00:00",
+    "u-bpp-PP-04": "2026-10-26T14:00:00+00:00",
+    "u-bpp-DR-06": "2026-10-26T14:00:00+00:00"
   },
-  "usageNote": "21 Oct 17:00, Zac: Contract WS06, 07 and 08 before next week's workshops; up to 85% of his week by Saturday night this week (then up to about 95% before the Monday 14:00 reset). Plan, at about 2.5% an episode: Thu 2, Fri 1 (published before 14:00), Sat 20:05 3 (Saturday's otherwise unused Google allowance), Sun 1, Mon 0; BLP WS06 after the reset.",
+  "usageNote": "21 Oct 21:05, Zac (orchestration chat): all his usage can go by the Monday 14:00 reset. Must-haves, in firstUp order: Contract WS06 and WS07, WAE07, Contract WS08, CLP07 (before Monday's classes), Contract WS09 and WS10. Everything else is held (notBefore) until his Monday 14:00 reset; if the Saturday-night usage check shows room, the orchestration chat shortens those holds so extras (BLP07, DR07 first) are made on Sunday. Each day's limit is a maximum, not a target; every episode here is one part (guides under 7,500 words), so at most about 75 speech requests a day.",
   "firstUp": [
     "u-bpp-Contract-06",
     "u-bpp-Contract-07",
-    "u-bpp-Contract-08"
+    "u-bpp-WAE-07",
+    "u-bpp-Contract-08",
+    "u-bpp-CLP-07",
+    "u-bpp-Contract-09",
+    "u-bpp-Contract-10"
   ]
 }
