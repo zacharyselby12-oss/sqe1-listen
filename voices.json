@@ -1,13 +1,14 @@
 {
-  "pending": true,
+  "pending": false,
   "model": "gemini-3.8-flash-tts",
   "mode": "pair",
   "lead": {
     "name": "Will",
-    "voice": "Achird"
+    "voice": "voice_7636x92kz2nd"
   },
   "second": {
     "name": "Hannah",
-    "voice": "Callirrhoe"
-  }
+    "voice": "voice_7hvws5hbx3yt"
+  },
+  "chosen": "Voice 7 from voice test round 3, chosen by Zac on 21 Oct 2026"
 }
