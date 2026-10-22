@@ -201,12 +201,20 @@
       ],
       "summary": "A misrepresentation claim runs five questions in order: false statement of fact, inducement, fraud or negligent or innocent, whether rescission is barred, then money, and remember honesty defeats only fraud.",
       "madeAt": "2026-10-22T08:22:09+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes, 11 fixes; verify pass)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 15068461,
+      "seconds": 1884,
+      "words": 4709,
+      "renderedHash": "29288329b2ca",
+      "renderedAt": "2026-10-22T08:23:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws06-bc56e854.mp3",
+      "pubDate": "2026-10-22T08:23:05+00:00"
     }
   ],
   "replays": []
