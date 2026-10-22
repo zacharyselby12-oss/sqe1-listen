@@ -78,8 +78,8 @@
     }
   ],
   "dayLimits": {
-    "2026-10-22": 3,
-    "2026-10-23": 2,
+    "2026-10-22": 4,
+    "2026-10-23": 3,
     "2026-10-24": 3,
     "2026-10-25": 2,
     "2026-10-26": 0
@@ -103,14 +103,14 @@
     "u-bpp-DR-06": "2026-10-26T14:00:00+00:00",
     "u-bpp-DR-02": "2026-10-26T14:00:00+00:00"
   },
-  "usageNote": "21 Oct 21:05, Zac (orchestration chat): all his usage can go by the Monday 14:00 reset. Must-haves, in firstUp order: Contract WS06 and WS07, WAE07, Contract WS08, CLP07 (before Monday's classes), Contract WS09 and WS10. Everything else is held (notBefore) until his Monday 14:00 reset; if the Saturday-night usage check shows room, the orchestration chat shortens those holds so extras (BLP07, DR07 first) are made on Sunday. Each day's limit is a maximum, not a target; every episode here is one part (guides under 7,500 words), so at most about 75 speech requests a day.",
+  "usageNote": "21 Oct 21:05, Zac (orchestration chat): all his usage can go by the Monday 14:00 reset. Must-haves, in firstUp order: Contract WS06 and WS07, WAE07, Contract WS08, CLP07 (before Monday's classes), Contract WS09 and WS10. Everything else is held (notBefore) until his Monday 14:00 reset; if the Saturday-night usage check shows room, the orchestration chat shortens those holds so extras (BLP07, DR07 first) are made on Sunday. Each day's limit is a maximum, not a target; every episode here is one part (guides under 7,500 words), so at most about 75 speech requests a day. 22 Oct 10:45, Zac: CLP WS07 first, then Contract WS08, 09 and 10, by Friday morning: CLP WS07 made on Thursday (it converted at 10:18), Contract WS08-10 on Friday morning (limit 3).",
   "firstUp": [
+    "u-bpp-CLP-07",
+    "u-bpp-Contract-08",
+    "u-bpp-Contract-09",
+    "u-bpp-Contract-10",
     "u-bpp-Contract-06",
     "u-bpp-Contract-07",
-    "u-bpp-WAE-07",
-    "u-bpp-Contract-08",
-    "u-bpp-CLP-07",
-    "u-bpp-Contract-09",
-    "u-bpp-Contract-10"
+    "u-bpp-WAE-07"
   ]
 }
