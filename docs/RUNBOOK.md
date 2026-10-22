@@ -111,6 +111,9 @@ For each entry in plan.json `replays`: `python3 tools/registry.py add-replay --e
 
 ## 6. Publish
 `git add scripts episodes reports && git commit -m "<date>: new episodes and replays" && git push origin HEAD`.
+**When Zac's weekly usage may run out** (about 90% or more of his week, as on Friday 23 October 2026): push each
+episode as soon as it passes (step g, then this commit and push for that episode alone), so an episode cut short by the
+limit never holds back the ones already checked. One cut short stays unpublished and is made again at the next run.
 The push starts GitHub Actions, which makes the audio and updates the feeds (about 10 to 20 minutes per episode; pieces
 are kept, and the half-hourly runs carry on if Google's allowance runs out). Check once that the run started.
 
