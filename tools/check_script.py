@@ -317,6 +317,11 @@ def check(script_text, guide_text, speakers=("Will", "Hannah")):
         errors.append("figures not in the guide: %s" % sorted(unknown, key=float))
     # names
     guide_tokens = lower_tokens(guide_text)
+    # spoken forms of the guide's abbreviations ("Sch 15" is read as "Schedule 15")
+    for short, full in (("sch", "schedule"), ("schs", "schedules"), ("reg", "regulation"), ("regs", "regulations"),
+                        ("art", "article"), ("para", "paragraph"), ("paras", "paragraphs"), ("pt", "part"), ("cl", "clause")):
+        if short in guide_tokens:
+            guide_tokens.add(full)
     guide_tokens |= {p for t in list(guide_tokens) for p in re.split(r"[-']", t) if p}   # "Edwards-Tubb" -> edwards, tubb
     guide_upper = set(re.findall(r"\b[A-Z]{2,}[0-9]?\b", guide_text))
     inv_tokens = set()
