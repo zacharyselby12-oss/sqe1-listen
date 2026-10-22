@@ -1,0 +1,250 @@
+---
+id: contract-ws06
+unit: u-bpp-Contract-06
+guide_hash: b305ba5943
+made: 2026-10-22T08:22:09+00:00
+title: Contract WS06 · Misrepresentation and remedies
+map:
+- Is there a false statement of fact?
+- Did it actually induce the contract?
+- Is it fraud, negligence or innocent?
+- Can the contract be undone?
+- What money can the client get?
+recap:
+- One, the statement: a false statement of fact or law made before or at the contract; opinion, intention and silence count only in the narrow cases.
+- Two, inducement: the statement was material and relied on; not knowing of it, knowing it was untrue or relying on your own investigation defeats that, but a failure to check never does.
+- Three, the type: fraud needs proven dishonesty or recklessness; under section two-one the maker must prove reasonable grounds and belief up to the contract, so honesty alone is not enough.
+- Four, undoing it: the contract is voidable, not void, and affirmation, lapse of time, third-party rights or impossible restitution bar rescission.
+- Five, the money: fraud and section two-one use the tort measure and cover all direct loss; a wholly innocent misrepresentation gets only section two-two damages in lieu or an indemnity.
+summary: A misrepresentation claim runs five questions in order: false statement of fact, inducement, fraud or negligent or innocent, whether rescission is barred, then money, and remember honesty defeats only fraud.
+invented:
+- Gareth
+- Imani
+- Walter
+- Dev
+- Maya
+- Tom
+---
+## Rule
+Will (warm): Right. Picture a client sat in front of you. She's bought a business, and since then she's found out that something the seller told her wasn't true. She asks you two things: can I get out, and can I get my money back?
+Hannah (wry): And the honest answer is "it depends".
+Will (amused): It does. But it depends on a short list of things, and they come up in the same order every time. Five questions, always in this order.
+Hannah: Go on, then.
+Will (brisk): Question one: is there a false statement of fact? Question two: did it actually induce the contract? Question three: what type is it, fraud, negligent, or wholly innocent? Question four: can the contract be undone? And question five: what money can she get?
+Hannah (thinking aloud): So: statement, inducement, type, undoing it, money.
+Will: That's it. You need a yes to both of the first two to have an actionable misrepresentation, and the last three are what you do with one.
+Hannah (dry): So question one is the bouncer.
+Will (laughing): Question one is very much the bouncer. The rule is that you need an unambiguous false statement of existing fact, or law, made by one party to the other, before or at the time of contracting.
+Hannah: That's a lot of adjectives for one sentence.
+Will (amused): It is. But nearly all of question one is about what counts as a statement of fact, because there are four things that aren't: puff, honest opinion, intention and mere silence. And the exam lives on the line where each of them tips over into fact.
+Hannah: Four decoys. Puff first, then, because it sounds like the easy one.
+Will: It is the easy one. A specific, verifiable claim is fact, and vague praise is puff. In Dimmock and Hallett the land was called "fertile and improvable", and that's not actionable.
+Hannah (deadpan): So I can call my flat "fertile and improvable" and sleep soundly.
+Will (laughing): You can. "Double-glazed throughout" is a different matter, because that's specific and somebody can check it.
+Hannah: Fair. Is that it for the statement itself?
+Will: Not quite. Three bits of small print first, all about the statement. Law counts as well as fact, so a misstatement of law can be actionable. Then, if the claimant puts its own unreasonable construction on the statement, there's no liability. And a substantially correct statement isn't false if the inaccuracy wouldn't induce a reasonable person.
+Hannah (brisk): Okay. Law counts, the claimant can't twist the words, and a slip that wouldn't move a reasonable person doesn't make it false.
+Will: Yes. Now the second decoy, opinion. An opinion counts as fact only if the maker had no honest belief in it, or was better placed to know, in which case it implies facts that justify it. Two ways in, and either one is enough.
+Hannah (sceptical): So an opinion isn't actionable... except when it is.
+Will: That's the exam's favourite contrast. A seller has land that has never been sheep-farmed, and he gives an honest estimate of how many sheep it could carry. He's no better placed to know. That's Bisset and Wilkinson, and it's not actionable.
+Hannah (teasing): The seller with no sheep gets off.
+Will: Because he was honest and no better placed to know. Both. Now flip it. A landlord calls a tenant who's in arrears a "most desirable" tenant.
+Hannah (sceptical): Oh, come on. That's the oldest puff going. It's an opinion, so never actionable.
+Will (pleased): <short pause> And there's the trap, in your own words: "opinion, so never actionable". In Smith and Land and House Property, calling him "most desirable" implied there were facts the landlord knew that justified it. None existed. So it was a false statement of fact.
+Hannah (thoughtful): Ah. So the question isn't "is it an opinion?". It's whether they honestly believed it, and whether they were better placed to know.
+Will: That's it. The seller with the sheep and the landlord are your two ends of it. One more on opinion: an expert's forecast implies it was made with reasonable care, so a careless forecast is actionable.
+Hannah (amused): Ha. Experts don't get to hide behind "it's only a forecast".
+Will: Third decoy, intention. A statement of what you intend to do counts as fact only if the maker did not hold that intention when speaking, because a person's state of mind is a fact.
+Hannah: Right, so misdescribe what's in your own head and you've made a false statement of fact.
+Will: Yes. In Edgington and Fitzmaurice the stated purpose was improving buildings, but the real intention was to pay off debts. That's actionable.
+Hannah (wry): "It's for the roof." It was not for the roof.
+Will (laughing): It was not for the roof. Now the look-alike. If the maker genuinely held the intention when stating it, and abandoned it later, that is not a misrepresentation.
+Hannah (wary): So the same words can be fine or actionable, depending on what was in his head at the time.
+Will: Depending on whether he held the intention when speaking, yes. And a cousin of that: a promise about future conduct isn't a representation at all, it's—
+Hannah: A term. If it's anything.
+Will: If it's anything, yes.
+Hannah (quietly): Three down. Silence is the last decoy.
+Will: And the big one. Silence generally isn't a misrepresentation, because there's no general duty of disclosure. So a landlord who knows the house is unfit for immediate occupation but says nothing makes no misrepresentation.
+Hannah (incredulous): He knows it's unfit and just hands over the keys.
+Will (dry): Saying nothing isn't saying something. But there are four exceptions, and any one of them is enough to take you out of safe silence.
+Hannah (wary): Four. Go on, then.
+Will: Two are about words that mislead: a half-truth, and a statement that becomes false and isn't corrected. Two are about the relationship: utmost good faith, and fiduciary relationships. And on the side, conduct can represent.
+Hannah: Hang on, that's a lot at once. Start with the half-truth.
+Will: In Dimmock and Hallett the seller said the farms were let, without saying that the tenants had given notice to quit. That's a misrepresentation.
+Hannah (wry): Sneaky. He said something, and left out the bit that mattered.
+Will: A positive statement that misleads, as against saying nothing at all. That's the line. Next, the statement that becomes false. Picture a doctor selling his practice. He gives a figure for what it's worth, then the value falls before the sale, and he never corrects the figure. Failing to correct it is a misrepresentation. That's With and O'Flanagan.
+Hannah (tempted): But the figure was true when he said it. So he's safe.
+Will: <short pause> Careful. That's the other trap: "true when made, so safe". A statement continues until the contract, and it must be corrected.
+Hannah (groaning): Oh, that's nasty. So a statement isn't finished the moment it's said. It carries on until the contract is made.
+Will: Right up to the contract, yes, so if it becomes false before then, it has to be corrected.
+Hannah: Right. Now the relationship ones.
+Will: Utmost good faith first, and the examples we've got are both insurance. Business insurance carries a duty of fair presentation, that's the Insurance Act. Consumer insurance is different: there's no duty to volunteer facts, only a duty of reasonable care not to misrepresent.
+Hannah: Got it. Business insurance has to present fairly, and with consumer insurance you don't have to volunteer anything, you just take reasonable care not to misrepresent.
+Will: Yes. And the other relationship is fiduciary, such as solicitor and client. Fiduciary relationships require disclosure of material facts.
+Hannah: Right, that's the four. And the side one, conduct?
+Will: Actively concealing dry rot is a representation, not mere silence. That's Gordon and Selico.
+Hannah (wry): Fair enough. Hiding the rot isn't the same as just not mentioning it.
+Will: No, it isn't. And that's the look-alike for the whole decoy: silence on one side, and on the other a half-truth, an uncorrected change, or active concealment.
+Hannah (thoughtful): Okay, let me say question one back. I need an unambiguous false statement of fact or law, before or at the contract. Opinion and intention only count as fact in the cases we've done, and silence is safe unless one of the four exceptions applies, or I've actively hidden something.
+Will (pleased): Good, that's question one.
+Hannah: So she's got a false statement. Question two.
+Will (brisk): Question two: did the statement induce the contract? The rule is that it must have been material and actually relied on, and it doesn't have to be the only reason.
+Hannah: Which is just as well, because everyone has a pile of reasons for buying anything.
+Will (amused): Right. If it was one of the reasons, that's enough. How you prove it depends on whether the statement was material, meaning it would influence a reasonable person. If it was material, inducement is inferred, and the representor must rebut it. If it wasn't material, the claimant must prove they were actually influenced, and if they do, they succeed.
+Hannah (relieved): Right. Material, and the court assumes it worked, so the maker has to knock that down. Not material, and the claimant has to show it worked on them.
+Will: That's it. Now, there are three ways reliance fails, and any one of them is enough: the claimant did not know of the statement, or knew it was untrue, or relied on its own investigation.
+Hannah: Not knowing about it and knowing it was untrue, I can see. The own-investigation one is the odd one out.
+Will: It's the one the exam goes for. That's Attwood and Small. The claimant did their own checks, and relied on those instead of the statement. And I'll warn you about the trap before you walk into it: "she should have checked".
+Hannah (laughing): I was about to say exactly that.
+Will: Of course you were. In Redgrave and Hurd, a chance to discover the truth that the claimant did not take does not defeat reliance. There's no duty to check. Failing to check isn't one of the three. What defeats reliance is actually relying on her own investigation.
+Hannah: So it comes down to what she actually relied on.
+Will: That's the look-alike. If she relied on her own investigation, there's no inducement. If she simply failed to take a chance to check, she's still induced.
+Hannah (deadpan): So if she checked and relied on the check, she's out, but if she could have checked and didn't, she's still in.
+Will: Yes. Two small ones on what doesn't break inducement. Suspecting the statement is false doesn't defeat it, only knowing it's false does. And the claimant is still induced where their own mistaken belief also contributed to the decision. That's Edgington and Fitzmaurice again, the improving-buildings case.
+Hannah (teasing): So the claimant can be muddled, suspicious and lazy, and still be induced.
+Will (laughing): Muddled, suspicious and lazy, yes. <laugh>
+Hannah (thoughtful): Question two, then: material and relied on, it needn't be the only reason, and not knowing of it, knowing it was untrue or relying on its own investigation kills it. Never "should have checked".
+Will: That's question two. And now you've got both halves of an actionable misrepresentation: a false statement of fact, and inducement.
+Hannah: Right. So what kind is it?
+Will (brisk): Question three, the type. Picture three sellers who all said something false. One knew it was false, one was honest but careless, and one did everything properly and still got it wrong. Those are the three types: fraudulent, negligent, which is section two, subsection one of the Misrepresentation Act, and wholly innocent. It matters because it decides the money. Fraud and section two-one give damages, but a wholly innocent misrepresentation gives no damages as of right.
+Hannah: And what separates the three?
+Will: Who has to prove what. Fraud is where the claimant proves dishonesty or recklessness. Negligent is where the maker fails to prove their grounds. And wholly innocent is where the maker does prove reasonable grounds and belief up to the contract.
+Hannah: Fraud first, then.
+Will: Fraud has three limbs, and any one is enough. The statement was made knowingly, or without belief in its truth, or—
+Hannah: Recklessly.
+Will: Recklessly. That's Derry and Peek.
+Hannah (thinking aloud): So fraud covers the careless ones too, if they're careless enough.
+Will: No, careful. Recklessness means a flagrant disregard for the truth, and an honest but careless belief is not fraud. That one lands in section two-one instead.
+Hannah (groaning): Right. Honest and careless is not fraud.
+Will: Two more on fraud. Failing to correct a statement through inadvertence isn't fraud, that's With and O'Flanagan again. And the claimant has to prove fraud, which is hard, so claimants usually prefer section two-one.
+Hannah (dry): Which makes section two-one the popular one.
+Will: It does. Under section two-one the burden is on the representor, and he has to prove two things, reasonable grounds and belief up to the contract. Both.
+Hannah: So he needs good reason to believe it, and he has to actually believe it, and both have to last right up to the contract.
+Will: Yes. In Howard Marine and Ogden, the maker relied on an inaccurate register when their own files held the correct figure. That gave no reasonable grounds.
+Hannah (tempted): But he honestly believed the register. If he's honest, he's not liable for damages.
+Will: <short pause> There's the trap: "honest, so no damages". Honesty defeats only fraud. Under section two-one he must also prove reasonable grounds, and if he can't, he's liable.
+Hannah (pleased): So fraud is about honesty, and section two-one is about whether he can prove his grounds.
+Will: That's it. And if he can prove reasonable grounds and belief up to the contract, he escapes section two-one, and what's left is the wholly innocent misrepresentation.
+Hannah: So wholly innocent is where the maker actually manages to prove it, and that takes him outside section two-one.
+Will (pleased): Yes. Now one last look-alike on this question, and it's the pair I always muddle: section two-one against negligent misstatement under Hedley Byrne. Three differences. Who can be sued?
+Hannah: Section two-one is a misrepresentation, so it's the other party to the contract.
+Will: Right. Section two-one is about a contracting party, and Hedley Byrne reaches any adviser. And who has to prove what?
+Hannah: Two-one has the reversed burden, so the maker proves their grounds. Under Hedley Byrne the claimant has to prove fault.
+Will: Yes. And the loss?
+Hannah (thinking aloud): Hedley Byrne would be the narrower one. Foreseeable loss only, and section two-one is wider.
+Will (amused): Section two-one covers all direct loss, and Hedley Byrne covers foreseeable loss only. You're ahead of me today.
+Hannah (teasing): I'm always ahead of you. So, question three. Fraud is where the claimant proves dishonesty or recklessness. Otherwise it's section two-one, where the maker has to prove reasonable grounds and belief up to the contract. If he can't, it's negligent. If he can, it's wholly innocent.
+Will: Good, that's question three.
+Hannah: Right. So can she get out?
+Will (brisk): Now the remedies, and there are four on the menu: rescission, damages, damages in lieu, and an indemnity. Question four is rescission, which is undoing the contract. The rule is that the contract is voidable, not void. It binds until—
+Hannah: Until she rescinds. And I'll say it now, before you ask: I always say void.
+Will (amused): Everyone does. Voidable goes with misrepresentation, and void is the mistake one. And here's why it matters, because it's the trap: an innocent third party who buys before rescission gets good title.
+Hannah (incredulous): Oh, that's nasty. So the liar sells it on to someone innocent, and that person keeps it.
+Will: Because a voidable contract binds until rescinded, so a third party can take good title first.
+Hannah: Voidable: binding until rescinded. Void: the mistake one. Got it.
+Will: How does she rescind? She tells the representor. And if it's a rogue who can't be found, all reasonable steps, such as telling the police, are enough.
+Hannah: So if he's vanished, she does what's reasonable, like ringing the police.
+Will: Now the bars. Four things stop rescission, and any one of them is enough. What could she do, once she's found out, that would kill it?
+Hannah (thinking aloud): Carry on as if it's all fine. Affirm it.
+Will: Affirmation, with knowledge. She knows the truth and carries on regardless. Next: she does nothing for ages.
+Hannah: Lapse of time.
+Will: Lapse of reasonable time. Next: someone else gets involved.
+Hannah: A third party who bought it. And they only get that far if they're innocent.
+Will: Third-party rights, acquired in good faith for value. And the last one's practical: she can't give back what she received.
+Hannah (brisk): Restitution impossible. So that's affirmation, lapse of time, third-party rights, and not being able to give it back. Any one, and rescission's gone.
+Will: The one with a clock on it is lapse of time. For fraud, time runs from discovery. Otherwise a reasonable time runs from the contract.
+Hannah: So fraud's clock starts at discovery, and the others start at the contract.
+Will: Now a neighbour of this question. Undue influence has the same four bars as misrepresentation and duress, and any one of them still bars it. Only the start of the clock differs. The bars are: affirmation after the influence has ended, delay, which is laches, after it has ended, the rights of a bona fide purchaser, and restitution impossible.
+Hannah: Hang on, say the clock bit again.
+Will: Time runs from when the influence ceased, not from the transaction.
+Hannah (thoughtful): So three clocks. Fraud, from discovery. Otherwise, from the contract. Undue influence, from when the influence stopped.
+Will (pleased): That's the look-alike. And the example is Allcard and Skinner. A nun waited six years after leaving her order before claiming her gift back, and it was barred by delay. Six years, counted from when she left, because that's when the influence ceased.
+Hannah (dry): Six years is a long time to wait before asking for your own gift back.
+Will: It is. One more point: a donor who confirms the gift while still under the influence has not affirmed it.
+Hannah: So confirming it while she's still under his thumb doesn't count as affirming. The affirmation has to come after the influence has ended.
+Will: That's it.
+Hannah: Question four, then. Voidable, so it stands until she rescinds, and four bars, with the clock starting in a different place for undue influence.
+Will (warm): Good. That's question four.
+Hannah: And if she'd rather have money?
+Will (brisk): Question five: the money. Start with damages for fraud and for section two-one. They use the tort measure: the position the claimant would be in had the statement not been made.
+Hannah: So rewind to before the lie.
+Will: Rewind to before the lie. The look-alike is breach of contract, the expectation measure, which asks for the position had the statement been true.
+Hannah (sceptical): Those sound like the same thing wearing different hats.
+Will: No, but I see why. One rewinds to a world where the statement was never made. The other fast-forwards to a world where it was true.
+Hannah (dry): Tort: pretend it was never said. Contract: pretend it was true.
+Will: Yes. Now the trap in this question, and I'll say it before you walk into it: "foreseeable loss only". Fraud and section two-one damages cover all direct loss, foreseeable or not.
+Hannah (laughing): I was about to say foreseeable. You're annoyingly good at this.
+Will: That limit belongs to Hedley Byrne negligence. Fraud and section two-one cover all direct loss.
+Hannah (groaning): That Hedley Byrne limit keeps sneaking in.
+Will (amused): It does. Next, contributory negligence. It's no defence to fraud. It can reduce section two-one damages where the maker is also liable in negligence.
+Hannah: So for fraud, nothing. For section two-one, the claimant's own carelessness can reduce the damages, but only where the maker is also liable in negligence.
+Will: Yes. Now the wholly innocent one. No damages as of right. Only section two-two damages in lieu, or an indemnity.
+Hannah (tempted): But she was misled. Surely she can claim under section two-one.
+Will: Not section two-one, and that catches people out. Proving reasonable grounds is exactly what escapes section two-one.
+Hannah (sheepish): Right. He proved his grounds, so he's out of two-one.
+Will: Section two-two says that for non-fraudulent misrepresentation the court may declare the contract subsisting and award damages in lieu, if equitable.
+Hannah: Hang on, where does that fit? I thought we'd done damages.
+Will: We did the section two-one kind. Two-two is the court's alternative to undoing the contract: it declares the contract subsisting, so it carries on, and awards damages in lieu instead, if that's equitable. And it's only for non-fraudulent misrepresentation.
+Hannah (quietly): Right, money instead of rescission, for the non-fraud cases.
+Will: Yes. And section two-three says section two-one and section two-two damages can both be awarded, but the section two-two damages are taken into account.
+Hannah: Both, with two-two taken into account. Got it.
+Will: Good. Now the indemnity, which is the look-alike with section two-two. An indemnity comes with rescission, and it covers only obligations the contract itself created, such as rates and repairs, not other losses.
+Hannah: So an indemnity goes with undoing the contract, and section two-two damages replace the undoing.
+Will: That's the look-alike. And the indemnity is narrow: only obligations the contract itself created.
+Hannah (wry): Rates and repairs, not general misery.
+Will (laughing): Not other losses, no. <laugh>
+Hannah: Question five, then. Fraud and section two-one: tort measure, all direct loss. Wholly innocent: no damages as of right, only section two-two damages in lieu or an indemnity.
+Will (pleased): That's the money. Now one side road, nothing to do with the five questions: consumers. When a trader's misleading action or aggressive practice was a significant factor, the misled consumer gets rights to unwind, a discount or damages. That's the Digital Markets, Competition and Consumers Act.
+Hannah: And there's a date in there.
+Will: 6 April 2025. That's when consumer redress moved from the Consumer Protection from Unfair Trading Regulations to that Act.
+Hannah: Right. Numbers round?
+Will (warm): Numbers round, and there aren't many. Six years: the nun, counted from when the influence ceased, and rescission was barred by delay. 6 April 2025: consumer redress moves from the old Regulations to that Act. And the section numbers. Section two, subsection one: the burden on the maker to prove reasonable grounds and belief up to the contract. Subsection two: damages in lieu. Subsection three: both can be awarded, with the section two-two damages taken into account.
+Hannah (brisk): Six years, 6 April 2025, then two-one, two-two, two-three. Burden, damages in lieu, both together.
+Will: That's the rule.
+## Exam mode
+Will (brisk): Right, exam hat on. Same five questions, in order. First scenario. In March, Gareth truthfully tells Imani, who's buying his warehouse, that there are no enforcement notices on it. In April the council serves one on him. He's busy, so he forgets to mention it, and contracts are exchanged in May. Is there an actionable misrepresentation, and of which type?
+Hannah (thinking aloud): Question one. "No enforcement notices" is specific and checkable, so that's fact, not puff. And it was true in March. So... true when made, so safe?
+Will: <short pause> There's your tempting wrong turn.
+Hannah (groaning): The doctor's practice. Right. The statement continues until the contract, and he had the notice before exchange. So it became false and he didn't correct it.
+Will: That's the deciding fact: he received the notice before exchange. "True when made" fails because the statement continues until the contract.
+Hannah: Question two, nothing in the facts knocks out inducement. Question three, the type. Fraud? He forgot, and failing to correct a statement through inadvertence is not fraud. So it's section two-one, and having received the notice, he can't prove reasonable grounds or belief up to the contract.
+Will (pleased): Yes, an actionable misrepresentation, most likely negligent under section two-one. Fraud fails because forgetting is not dishonest.
+Hannah: Nice. Next.
+Will: Second one. Walter, who's elderly, transfers his flat to his carer, who dominates him. In 2019 he moves to his daughter's home and has no further contact with the carer. In 2025 he tells his daughter he wants the flat back, and he sues in 2026. Is rescission barred?
+Hannah (quietly): That's question four, and it's undue influence, so the same four bars. Did he affirm it? He never confirmed it, and confirming under the influence wouldn't count anyway. So no bar, and he can still sue.
+Will: <short pause> That's the tempting one. Affirmation is only one of the four bars. Look at the dates.
+Hannah (groaning): Ugh. The influence ended in 2019, so time ran from then. And he told his daughter in 2025 and sued in 2026. That's delay, laches, after the influence ended. Same shape as the nun.
+Will (pleased): Probably yes, rescission is barred by delay after the influence ended. "He can still sue because the gift was not affirmed while under the influence" fails, because years of inaction after the influence ended bar equitable relief.
+Hannah: So the deciding fact is when the influence ended, not when the transfer happened.
+Will: Yes. Third one, a pair. Dev is buying a bakery. The seller tells him the ovens have just been replaced. The seller offers him the maintenance records to look through before he signs, but Dev doesn't bother, and signs. The ovens had not been replaced. Can the seller say Dev should have checked?
+Hannah (brisk): No. That's question two. A chance to discover the truth that the claimant did not take doesn't defeat reliance, and there's no duty to check.
+Will: Now change it. Dev still doesn't read the records, but he does have his own engineer look at the ovens, and he buys on the engineer's report, not on what the seller said.
+Hannah (thoughtful): Then he relied on his own investigation, so no inducement. Same lie, different answer, because this time he relied on his own checks instead of the statement.
+Will: Fourth, a look-alike pair. Two people each raise money by saying it's for refurbishing a café. When the first one said it, he really did mean to refurbish, and he changed his mind later and paid off debts. When the second one said it, he was already planning to pay off debts. Which is a misrepresentation?
+Hannah: The second. That's question one, intention. The first genuinely held the intention when he said it, and abandoning it later isn't a misrepresentation. The second didn't hold it when speaking, and a person's state of mind is a fact.
+Will (warm): Yes, it all turns on whether the maker held the intention when speaking. Fifth, and this one has a rogue in it. A rogue lies his way into buying Maya's bike. Before she's done anything about it, he sells the bike to Tom, who pays for it and knows nothing about the lie. Maya wants the bike back from Tom.
+Hannah (confident): Void. The rogue's lie wrecked the sale, so he had nothing to sell.
+Will (laughing): <laugh> There it is, the void reflex.
+Hannah (mock-outraged): I did warn you.
+Will: It's voidable, question four. The contract bound until rescinded, and Tom bought before rescission, in good faith, for—
+Hannah: Value. So third-party rights, and that's a bar.
+Will: And an innocent third party who buys before rescission gets good title.
+Hannah (wry): Voidable. Write it on my hand.
+Will: Last bit, quick-fire. I say the tempting wrong sentence, you say why it's wrong. "He was honest, so there are no damages."
+Hannah: Honesty defeats only fraud. Under section two-one the maker has to prove reasonable grounds as well.
+Will: "Damages are for foreseeable loss only."
+Hannah: That's Hedley Byrne. Fraud and section two-one cover all direct loss.
+Will: "It was only an opinion, so it can never be actionable."
+Hannah (deadpan): Not if the maker had no honest belief or was better placed to know. Most desirable tenant, in arrears.
+Will: "It's wholly innocent, so claim under section two-one."
+Hannah: No. Proving reasonable grounds is exactly what escapes section two-one. Wholly innocent gets no damages as of right, only section two-two damages in lieu or an indemnity.
+Will (amused): Good. And one for old times' sake: "the seller called the flat fertile and improvable, so he's liable."
+Hannah (laughing): <laugh> Vague sales talk is puff. Not actionable. It's the specific, checkable claims that are fact.
+## Recap
+Will (warm): Five questions, in order, one line each.
+Hannah: One, the statement. A false statement of fact or law, before or at the contract. The traps are "opinion, so never actionable" and "true when made, so safe".
+Will: Two, inducement. Material and relied on, and it needn't be the only reason. Not knowing of it, knowing it was untrue, or relying on your own investigation defeats it. Never "should have checked".
+Hannah (brisk): Three, the type. Fraud needs proven dishonesty or recklessness. Under section two-one the maker must prove reasonable grounds and belief up to the contract, so "honest, so no damages" is wrong.
+Will: Four, undoing it. Voidable, not void, so an innocent third party who buys before rescission gets good title. And four bars: affirmation, lapse of time, third-party rights, restitution impossible.
+Hannah (dry): And voidable is on my hand. Five, the money. Fraud and section two-one: tort measure, all direct loss, not foreseeable loss only. Wholly innocent: no damages as of right, only section two-two damages in lieu or an indemnity.
+Will (warm): A misrepresentation claim runs five questions in order: false statement of fact, inducement, fraud or negligent or innocent, whether rescission is barred, then money, and remember honesty defeats only fraud.

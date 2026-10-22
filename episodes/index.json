@@ -176,6 +176,37 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws06-p1-152cdb25.mp3",
       "pubDate": "2026-10-22T07:14:55+00:00"
+    },
+    {
+      "id": "contract-ws06",
+      "unitId": "u-bpp-Contract-06",
+      "title": "Contract WS06 · Misrepresentation and remedies",
+      "guideHash": "b305ba5943",
+      "script": "scripts/contract-ws06.txt",
+      "scriptHash": "29288329b2ca",
+      "audio": "audio/contract-ws06.mp3",
+      "recap": [
+        "One, the statement: a false statement of fact or law made before or at the contract; opinion, intention and silence count only in the narrow cases.",
+        "Two, inducement: the statement was material and relied on; not knowing of it, knowing it was untrue or relying on your own investigation defeats that, but a failure to check never does.",
+        "Three, the type: fraud needs proven dishonesty or recklessness; under section two-one the maker must prove reasonable grounds and belief up to the contract, so honesty alone is not enough.",
+        "Four, undoing it: the contract is voidable, not void, and affirmation, lapse of time, third-party rights or impossible restitution bar rescission.",
+        "Five, the money: fraud and section two-one use the tort measure and cover all direct loss; a wholly innocent misrepresentation gets only section two-two damages in lieu or an indemnity."
+      ],
+      "map": [
+        "Is there a false statement of fact?",
+        "Did it actually induce the contract?",
+        "Is it fraud, negligence or innocent?",
+        "Can the contract be undone?",
+        "What money can the client get?"
+      ],
+      "summary": "A misrepresentation claim runs five questions in order: false statement of fact, inducement, fraud or negligent or innocent, whether rescission is barred, then money, and remember honesty defeats only fraud.",
+      "madeAt": "2026-10-22T08:22:09+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes, 11 fixes; verify pass)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
