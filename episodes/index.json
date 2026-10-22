@@ -164,11 +164,18 @@
       ],
       "summary": "Every lease question runs in the same order, what you have, repair and insurance, consent, rent, handing on or breaking, the Code, and each time the deciding fact beats the tempting label.",
       "madeAt": "2026-10-21T12:39:22+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "New map format. Opus accuracy check and Opus line-by-line check side by side; 16 fixes plus 2 edits, each verified by Opus against the guide. One guide error avoided (s 19(1A) grounds need not be in the lease).",
-      "lastError": "waiting for Google's daily speech allowance (needs about 1, 0 left today)"
+      "bytes": 19017126,
+      "seconds": 2377,
+      "words": 5756,
+      "renderedHash": "3381fcce1c1e",
+      "renderedAt": "2026-10-22T07:14:55+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws06-p1-152cdb25.mp3",
+      "pubDate": "2026-10-22T07:14:55+00:00"
     }
   ],
   "replays": []
