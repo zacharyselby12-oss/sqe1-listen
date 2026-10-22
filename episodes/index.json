@@ -215,6 +215,37 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws06-bc56e854.mp3",
       "pubDate": "2026-10-22T08:23:05+00:00"
+    },
+    {
+      "id": "contract-ws07",
+      "unitId": "u-bpp-Contract-07",
+      "title": "Contract WS07 · Mistake and Privity",
+      "guideHash": "a6f44efc37",
+      "script": "scripts/contract-ws07.txt",
+      "scriptHash": "3666c30ca987",
+      "audio": "audio/contract-ws07.mp3",
+      "recap": [
+        "Is there a contract at all? An operative mistake makes it void from the start, so nobody is bound and no title passes, and a mistake about value or quality alone isn't enough.",
+        "Is the claimant a party? Only a party can enforce, unless the 1999 Act applies, and then a term purporting to benefit an identified third party is enforceable unless the parties did not intend it, and silence does not rebut that.",
+        "Is there another route? Agency, assignment, a collateral contract, a trust, tort or statute, and otherwise only the promisee can sue, for its own loss, and the third party's loss only exceptionally.",
+        "Does illegality bar the claim? Only if enforcing would harm the integrity of the legal system, weighing purpose, other policy and proportionality, and not the old reliance test.",
+        "Is it a restraint of trade? Then it's void unless the party relying on it shows a legitimate interest and that it's no wider than reasonably necessary, and it mustn't be contrary to the public interest."
+      ],
+      "map": [
+        "Is there a contract at all, or does mistake make it void?",
+        "Is the claimant a party, or covered by the 1999 Act?",
+        "Is there another route round privity?",
+        "Does illegality block the claim?",
+        "If it restricts trade, is it a reasonable restraint?"
+      ],
+      "summary": "First ask whether a mistake makes the contract void, then whether the claimant is a party, is covered by the 1999 Act or has another route, then whether illegality or restraint of trade stands in the way.",
+      "madeAt": "2026-10-22T08:41:48+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes, 10 fixes + 2 lines softened for guide errors; verify: 2 more fixes, final verify pass)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []

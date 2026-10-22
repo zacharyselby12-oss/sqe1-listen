@@ -1,0 +1,305 @@
+---
+id: contract-ws07
+unit: u-bpp-Contract-07
+guide_hash: a6f44efc37
+made: 2026-10-22T08:41:48+00:00
+title: Contract WS07 · Mistake and Privity
+map:
+- Is there a contract at all, or does mistake make it void?
+- Is the claimant a party, or covered by the 1999 Act?
+- Is there another route round privity?
+- Does illegality block the claim?
+- If it restricts trade, is it a reasonable restraint?
+recap:
+- Is there a contract at all? An operative mistake makes it void from the start, so nobody is bound and no title passes, and a mistake about value or quality alone isn't enough.
+- Is the claimant a party? Only a party can enforce, unless the 1999 Act applies, and then a term purporting to benefit an identified third party is enforceable unless the parties did not intend it, and silence does not rebut that.
+- Is there another route? Agency, assignment, a collateral contract, a trust, tort or statute, and otherwise only the promisee can sue, for its own loss, and the third party's loss only exceptionally.
+- Does illegality bar the claim? Only if enforcing would harm the integrity of the legal system, weighing purpose, other policy and proportionality, and not the old reliance test.
+- Is it a restraint of trade? Then it's void unless the party relying on it shows a legitimate interest and that it's no wider than reasonably necessary, and it mustn't be contrary to the public interest.
+summary: First ask whether a mistake makes the contract void, then whether the claimant is a party, is covered by the 1999 Act or has another route, then whether illegality or restraint of trade stands in the way.
+invented:
+- Greg
+- Bright Boilers
+- Mina
+- Priya
+- Cobb Homes
+- Omar
+- Dev
+- Sam
+- Kemal
+- Lena
+- Tomasz
+- Ruth
+---
+## Rule
+Will (warm): Right, Hannah. Picture a client walking in with three problems in one bag.
+Hannah (wary): Three. Go on.
+Will (wry): She sold on a van she bought from a smooth-talking stranger, and now somebody else says it's theirs. Her brother paid for a service meant to benefit her, and it went wrong. And her old boss says she can't work for a rival.
+Hannah (dry): Lovely. So where do you even start?
+Will (amused): That's the thing. It's always the same questions, in the same order. Five of them.
+Hannah (amused): Go on, then.
+Will (brisk): One: is there a contract at all, or has a mistake made it void? Two: is the person suing a party, and if not, does the 1999 Act let them in? Three: if not, is there some other way round? Four: does illegality block the claim? And five: if the contract restricts trading, is the restriction reasonable?
+Hannah (thinking aloud): So: contract at all, party or Act, other way round, illegality, restraint. Five.
+Will: In that order. First, does a contract exist at all? Then, who can enforce it?
+Hannah (relieved): Fine. Start with the van.
+Will (warm): Question one, then. The rule that matters most: an operative mistake makes the contract void from the start.
+Will: So nobody is bound, money paid is recoverable, and no title passes, even to an innocent buyer.
+Hannah (incredulous): <gasp> Wait, what? Even to an innocent buyer? If I buy the van in good faith, surely I'm fine?
+Will (amused): Ah, that's the trap. Void is not the same as voidable. With misrepresentation, duress and undue influence the contract is voidable, so it's valid until it's rescinded, and a good-faith buyer without notice who buys before then gets good title. That's the Sale of Goods Act, section 23.
+Hannah (thoughtful): So voidable is alive until somebody ends it, and void was never alive at all.
+Will (pleased): Dead on arrival, yes. With an operative mistake there's nothing to rescind, and a later buyer gets no title.
+Hannah (wry): Which is a horrible thing to find out after you've bought the van. <sigh>
+Will: Which is why it's question one. So which mistakes count? Seven situations, in four families. The same mistake on both sides, a mistake on one side only, cross-purposes, and one odd one about signatures.
+Hannah (brisk): Family one, then.
+Will: Common mistake, where they're both wrong in the same way, and there are two kinds. Existence first. If the subject matter had ceased to exist when the contract was made, unknown to both of them, the contract is void, unless one party promised that it existed.
+Hannah: Like a cargo that had already perished before we shook hands?
+Will: That very thing. Void, and that's Couturier and Hastie. The Sale of Goods Act says the same for specific goods that perished without the seller knowing, section 6. And buying something that already belongs to you, res sua, is void too.
+Hannah (teasing): So don't buy your own sofa. Noted.
+Will (dry): Two look-alikes here, and both are favourites. If the thing perished after the contract, that's frustration, not mistake. So it's all about timing.
+Hannah: Before the contract it's mistake, after it's frustration. And the other?
+Will: The promise. If a party promised the subject matter existed, expressly or impliedly, or took the risk that it did, the contract isn't void, and that party is liable for breach.
+Hannah (thinking aloud): So if nobody promised, it's void. If somebody did, it's a breach claim instead.
+Will (warm): Kind two of common mistake is quality, the one that catches people out. Three conditions, and you need all three. One: the mistake has to make the subject matter or the performance essentially and radically different.
+Hannah (thinking aloud): Not just worse, then. Properly different. Next one, did either of us cause it?
+Will (pleased): Good guess. Neither party was at fault. And the last one?
+Hannah: Neither of us promised the thing was what we thought?
+Will: That's it. Neither party warranted the assumption. All three, or it isn't void.
+Hannah (groaning): That's a high bar. So if we both think a painting's by a famous artist, and it isn't, and it's worth far less—
+Will: <short pause> Void? No. A mere mistake about value or quality isn't enough. That's the painting in Leaf and International Galleries.
+Hannah (wry): My cousin Dev has a flat full of those, and nobody ever promised him who painted them. He can't escape any of them for mistake.
+Will (laughing): <laugh> Which is the rule working. And equity won't rescue him either. A common mistake that falls short of making the contract void gives no equitable rescission, and Solle and Butcher, which you might be tempted by, isn't followed.
+Hannah: Any examples of falling short?
+Will (dry): Two. Paying to end service contracts that could have been ended for free: not void, that's the Bell case. And a rescue ship much further away than both of them believed: still performable, so not void. That's Great Peace.
+Hannah (thoughtful): So the bar is essentially and radically different, and a bad deal on its own doesn't clear it.
+Will: Family two: unilateral, where only one side is mistaken. Three kinds, and the first two are a matched pair. A mistake as to the terms means no contract if the other party knew or ought to have known of it.
+Hannah: Right, so presumably the same goes for quality. If the seller knew I'd got the quality wrong, there's no contract.
+Will: No, that's the trap. A mistake as to quality has no effect, even if the other party knew, unless the mistaken party was induced by a misrepresentation. Knowledge matters only where the mistake is about a term.
+Hannah (groaning): <laugh> Ha. I fell for that one.
+Hannah: Knowledge matters for terms and does nothing for quality. Right.
+Will: Here's a picture of each. A seller's offer is priced per pound instead of per piece, and a buyer who knows the usual pricing snaps it up. That's a mistake about a term, and the buyer knew, so no contract. That's the Hartog case.
+Hannah: And quality?
+Will (deadpan): Oats. A buyer thinks the oats are old, they're actually new, and the seller says nothing. That's quality, so the contract is binding. Caveat emptor.
+Hannah (sceptical): Unless he thought the seller was promising they were old—
+Will: —in which case the mistake is about the terms, and the terms rule applies. Yes. So it comes down to whether he's wrong about what was promised, or only about the oats themselves.
+Hannah: Terms or quality. Got it. What's the third kind?
+Will: Identity, where a rogue pretends to be somebody else. It turns on whether the deal was face to face or in writing. Face to face, the contract is voidable for fraud.
+Hannah (sceptical): But he lied about who he was. Surely that makes it void?
+Will (dry): That's the tempting answer, and it's wrong. When you deal in person, there's a strong presumption that you're contracting with the person present. That's Lewis and Averay.
+Hannah (sceptical): Can you ever rebut it?
+Will: Only if identity itself, not an attribute like creditworthiness, was vital to you, and that's a heavy burden.
+Hannah (thinking aloud): So it's voidable, which means a good-faith buyer who buys before it's avoided—
+Will: Gets good title, if they're without notice. And if the rogue has vanished, the owner can still rescind by taking all reasonable steps, such as telling the police. That's the Caldwell case.
+Hannah (pleased): Good, that's kind to the owner.
+Will: In writing it flips. The identity is fixed by construing the document, which just means working out what it says. If it names a real person the rogue impersonated, the contract is void and no title passes. Even an innocent third-party buyer gets nothing, because the rogue had no title to pass.
+Hannah (incredulous): Same lie, opposite answer. So it all depends on whether he's standing in front of me.
+Will (amused): Well, sort of. It depends on whether the owner dealt with the person present, or was construing a document that names a real person the rogue impersonated.
+Hannah: Examples?
+Will: Three. An order by letter in the name of a real, reputable firm: void. That's Cundy and Lindsay. A letterhead for a fictitious firm: the mistake was as to attributes only, so voidable. That's King's Norton. And in Shogun, the dealer met the rogue, but the finance company contracted in writing, so the written rule applied.
+Hannah (thinking aloud): So the finance company's written contract is what counts, not the dealer having met him.
+Will (warm): Spot on. Family three is cross-purposes, where each side means something different. The parties are bound on the objective meaning, the one a reasonable person would give the agreement. One party's private meaning is irrelevant.
+Hannah: So when is there no contract at all?
+Will: Only if no meaning can be preferred. Picture two ships both called Peerless, sailing at different times, with nothing pointing to either. No contract. That's Raffles and Wichelhaus.
+Hannah: And how's that different from a unilateral mistake?
+Will: In cross-purposes both of them are mistaken, about different things. In a unilateral mistake one is mistaken and the other knows or ought to know.
+Hannah (dry): Both wrong, versus one wrong and the other in the know, or who ought to be. Fine.
+Will: Family four is non est factum, the exception to the rule that a signature binds. And a signature normally does bind, whether or not you read the document. That's L'Estrange and Graucob.
+Hannah (incredulous): Even if you never read it? Harsh.
+Will (dry): Harsh. So non est factum has two conditions, and you need both. The document was fundamentally different in nature from what the signer believed, and—
+Hannah: —the signer wasn't careless?
+Will (pleased): That's it. Not careless.
+Hannah (teasing): Let me guess. It's rarely made out.
+Will (laughing): It is. The signer is usually unable to read the document, for example through blindness or illiteracy. A woman misled about a deed disposing of her house still failed, because it wasn't fundamentally different from what she believed. That's Saunders and Anglia.
+Hannah: And if it does work?
+Will (dry): Then the document is a nullity.
+Hannah (brisk): So the thing to hold on to: an operative mistake is void, never voidable, and a mistake about value or quality alone doesn't get you there.
+Will (brisk): So that's question one. Now suppose there is a contract. Question two: is the person suing a party, or does the 1999 Act let them in? The basic rule is privity. Only a party can enforce a contract or be bound by it, even if it was made for the claimant's benefit.
+Hannah (incredulous): Even if it was made for them? That's mad. Your brother pays a firm to look after you, they do it badly, and you've got nothing?
+Will: Nothing in contract, unless the Act or another route helps. "She can sue because the contract names her as the beneficiary" is the tempting answer, and it's the trap whenever the 1999 Act is excluded or doesn't apply.
+Hannah (wary): Noted. Anything else on the basic rule?
+Will: Two small things. A contract can't impose burdens on a third party, and the 1999 Act confers benefits only. And relying on an exclusion clause counts as a benefit, not a burden.
+Hannah (thinking aloud): So if a third party wants to rely on an exclusion clause, that's a benefit, not a burden. Okay. So how does the Act let someone in?
+Will: Four conditions, and they all have to be met, though one of them only applies to one route. Condition one: either the contract expressly says the third party may enforce the term, which is section 1, subsection 1, paragraph a, or the term purports to confer a benefit on them, which is paragraph b. Either will do.
+Hannah (thinking aloud): And I'm guessing condition two is about who the third party is. Does it have to be named?
+Will: Named, or in a class, or by description, but it has to be expressly identified. And it needn't exist when the contract is made. That's section 1, subsection 3, and "future owners", an unborn child or a company not yet formed all work.
+Hannah (thinking aloud): So "the future owners" is a perfectly good description, even though nobody's bought anything yet.
+Will: Condition three applies under paragraph b only. With paragraph a the term is simply enforceable. With paragraph b it's enforceable unless the parties did not intend that, which is section 1, subsection 2.
+Hannah (thinking aloud): So paragraph b is the easy way in, but it can be knocked out.
+Will: Picture it. Your gran is named in the contract, and the florist promises to deliver her a bouquet. The contract says nothing about whether she can sue.
+Hannah (brisk): Then no right. It doesn't say she can sue.
+Will (amused): Ah, there's the trap. A term purporting to benefit her is enough. Silence doesn't show the parties meant otherwise, and the burden is on whoever's denying her right.
+Hannah (groaning): Burden on the other side. Fair enough.
+Will: What does knock out paragraph b is an express "no third party rights" clause. That shows they didn't intend enforceability, so that route fails.
+Hannah: Right. So what's condition four?
+Will (brisk): The term mustn't be one that section 6 excludes. There are four carve-outs. Negotiable instruments. A company's or LLP's constitution.
+Hannah (teasing): Hang on, where does this fit again?
+Will (amused): Fair, I was piling it on. Condition four, the carve-outs. Two more. An employment term, or a worker or agency-worker term, when it's enforced against the employee or worker. And contracts for carriage of goods, by sea or under the conventions, although even there a third party can still rely on an exclusion or limitation clause.
+Hannah (brisk): So four conditions: express or purports, identified, not intended away if it's paragraph b, and not excluded.
+Will: And if they're all met, she has a party's remedies: damages, injunction, specific performance, subject to the contract's other terms and the promisor's section 3 defences. She needn't provide any consideration.
+Hannah: What about exclusion clauses? You said relying on one counts as a benefit.
+Will: It does, and that's section 1, subsection 6. She can rely on an exclusion or limitation clause expressed to benefit her, without the old Himalaya clause agency route.
+Hannah (wary): Can the parties just cancel her right afterwards?
+Will: That's section 2, and it's where the exam sets its trap. Before she assents or relies, they can vary or rescind freely, and an express term may also allow variation without her consent. But once she's communicated assent, by words or conduct, they need her consent.
+Hannah: And reliance?
+Will: Same if the promisor knows she's relied on the term, or could reasonably foresee it and she has relied.
+Hannah: So if she posts a thank-you letter, she's locked in from the moment it goes in the box. Like the postal rule.
+Will: That's the trap, and the postal rule is the look-alike. Posted assent takes effect only when the promisor receives it. A posted acceptance counts on posting, but posted assent counts on receipt.
+Hannah (wry): Opposite way round. Naturally. <sigh>
+Will: One more bit. The court can dispense with consent if she can't be found, if she lacks mental capacity, or if it can't be worked out whether she relied. Those are the only grounds, and it may order compensation.
+Hannah: What about the promisor's defences?
+Will: Three bits, all section 3. The promisor can raise against her any defences or set-offs it has against the promisee that arise from or in connection with the contract and are relevant to the term.
+Hannah: So connected ones only.
+Will: Unconnected ones are excluded, unless an express term allows them. And it can also raise defences, set-offs and counterclaims it has against her herself.
+Hannah (pleased): So she's no better off than if she'd been a party.
+Will (pleased): That's section 3, subsection 6, in one line. Now four last bits of small print, one line each. The promisee keeps its own right to enforce, section 4. There's no double liability, because anything the promisee recovers for her loss is taken into account, section 5.
+Hannah (dry): Sensible. Next.
+Will: She can't use UCTA section 2, subsection 2, against a negligence exclusion, unless death or personal injury is involved. That's section 7, subsection 2. And the common law and other statutory exceptions to privity are preserved, section 7, subsection 1.
+Hannah (thoughtful): So: a term that purports to benefit an identified person is enforceable by her unless the parties didn't intend that, silence doesn't count, and once the promisor's received her assent, or she's relied on the term and the promisor knew or could reasonably foresee that, they can't change it without her consent.
+Will (brisk): Right, question three. Suppose she's not a party and the Act doesn't help. Then you look for another route. There are six, and any one will do. Agency, assignment, a collateral contract—
+Hannah: A trust of the promise?
+Will: That's the one. Then tort, and statute. Four of the six are quick. With agency, the principal is the party, and the agent generally drops out. With a trust, the promisee holds the promise on trust for the third party.
+Hannah: And statute?
+Will: Claims directly against a wrongdoer's insurer, for example. And in tort, a third party owed a duty of care can sue in negligence, although pure economic loss is generally not recoverable.
+Hannah (wry): Tort's the sneaky one. It doesn't care who signed what.
+Will: Now assignment. A legal assignment has three requirements, and you need all three. It must be absolute.
+Hannah: In writing, I'd guess.
+Will: In writing signed by the assignor. And?
+Hannah: Telling the debtor.
+Will: Written notice to the debtor. Miss any one and it takes effect only as an equitable assignment. And here's a look-alike. Remember the promisor's defences under section 3?
+Hannah: Against the promisee, connected ones only, unless an express term allows others.
+Will: That's it. Against an assignee, unconnected set-offs that arose before notice are also available.
+Hannah (thinking aloud): So an assignee can face more defences than a third party under the Act.
+Will: The route that matters most for the exam is the collateral contract. Two conditions, and you need both. One party makes a promise—
+Hannah: —in return for the other one entering the main contract?
+Will: That's it. Both there, and you have a collateral contract, enforceable alongside the main one.
+Hannah: Give me a picture.
+Will: A landlord tells a tenant, "sign this lease and you can live here", when the lease forbids living there. The promise was given for signing, so it's enforceable. That's the Mudd case.
+Hannah (sceptical): But surely the written lease wins. Doesn't the parol evidence rule stop you proving what he said out loud?
+Will: No, that's the trap. The parol evidence rule does not stop oral evidence proving a collateral contract.
+Hannah: And how does that help a third party?
+Will: A collateral contract can sometimes overcome privity. In Shanklin Pier, a manufacturer gave an assurance to the employer, and the employer's instruction to buy the manufacturer's goods was the consideration for the promise.
+Hannah (wary): And if none of the six works?
+Will: Then only the promisee can sue. It recovers its own loss, which is often nominal, or it seeks specific performance. And specific performance may be ordered in the third party's favour, because damages would be inadequate. That's Beswick.
+Hannah (sceptical): So why not just claim the third party's loss?
+Will (dry): Because that's the trap. The promisee recovers its own loss, not the third party's, except in two cases. A contract made for a family group, such as a holiday: there the promisee may recover the family's loss. That's Jackson and Horizon Holidays.
+Hannah: And the other?
+Will: Property transferred after the contract, as the parties contemplated. The promisee recovers the transferee's loss. That's Linden Gardens, although it doesn't apply if the third party has its own direct claim. That's Panatown.
+Hannah (brisk): So a third party sues in its own right. The promisee sues on the promise, for its own loss, often nominal, or for specific performance, and the third party's loss only in those two exceptions.
+Will (pleased): That's the look-alike, said better than I said it.
+Will (brisk): Question four. You've got a contract and the right claimant. Does illegality block the claim? The core rule is from Patel and Mirza: illegality bars a claim only if enforcing it would harm the integrity of the legal system. And you decide that by weighing the purpose of the rule that was broken, any other public policy, and proportionality.
+Hannah (wary): I always thought that if you had to rely on the illegality, you were out.
+Will: That's the old reliance test, from Tinsley and Milligan, and it's the trap. Patel replaced it. And there's no fixed rule that illegality always bars a claim.
+Hannah (groaning): Old habits. So where does illegality actually come from?
+Will: Three places. A statute that expressly or impliedly prohibits the contract itself. The statute's purpose decides, and if it does prohibit it, the contract is unenforceable.
+Hannah: Public policy, I'd imagine.
+Will: At common law, yes, and that also makes the contract unenforceable. The third is a contract that's lawful on its face but performed illegally or for an illegal purpose. There you ask who knew.
+Hannah: Statutes first, then.
+Will: If the statute prohibits the contract itself, even an innocent party usually can't enforce it. That's Re Mahmoud and Ispahani. But if the statute only penalises an act in performance, like overloading a ship, the contract stays enforceable. So ask whether the statute targets the making of the contract, or only how it's performed.
+Hannah: And if the statute's there to protect someone?
+Will: A statute protecting a class of persons usually leaves a member of that class able to enforce or recover.
+Hannah: Is there a statute that spells it out?
+Will: The Financial Services and Markets Act does. An agreement made by an unauthorised person in breach of the general prohibition is unenforceable against the other party, and the other party can recover money paid.
+Hannah: And if the statute doesn't say either way?
+Will: Then the Patel factors decide.
+Hannah (brisk): Right. Public policy?
+Will: Three headings. Contracts to commit a crime, tort or fraud, such as salary paid as sham expenses to defraud HMRC.
+Hannah: Fair. What else?
+Will: Contracts prejudicial to the administration of justice, such as an agreement not to report a crime.
+Hannah: And the third?
+Will: Contracts ousting the courts' jurisdiction. Although an arbitration or jurisdiction clause is not an ouster.
+Hannah (dry): So an arbitration clause doesn't fall foul of that one.
+Will: Now the third place, a lawful contract performed illegally, and here the innocent party does better. The party who intends the illegal performance or purpose usually can't enforce. An innocent party who didn't know can still enforce. And if both knew and joined in, neither can usually enforce.
+Hannah (wary): Those sound like hard rules.
+Will: They now run through Patel, so minor or incidental illegality may not bar enforcement.
+Hannah: Remind me what's on the scales.
+Will: Three things, and you've heard the names. Purpose is the underlying purpose of the prohibition that was broken, and whether denying the claim would enhance it.
+Hannah: Other policy would be anything else that denying the claim might affect.
+Will: That's right, any other relevant public policy. And proportionality is whether denial is proportionate, and there you look at four things. How serious it is, and how central to the contract—
+Hannah: The intention, I'd guess.
+Will: Spot on. The intention, and any marked difference in culpability. And punishment is a matter for the criminal courts.
+Hannah (thinking aloud): So three things on the scales, and four to look at inside the third.
+Will: Now the money. Money paid under an illegal contract, say for an unlawful purpose that was never carried out, is normally recoverable, in restitution. Restitution restores both parties to their previous positions, and illegality usually doesn't bar the unjust enrichment claim.
+Hannah (pleased): So I'm not asking the court to enforce the deal. I'm asking for my money back.
+Will: That's the look-alike, yes. One last tidy-up: a contract isn't unenforceable merely because it relates to gambling. A lawful bet can be enforced.
+Hannah (thoughtful): So illegality only bites if enforcing would harm the integrity of the legal system, and the reliance test is gone.
+Will (brisk): Question five, and it looks like Patel illegality but it isn't.
+Will: A restriction on trading or working after the contract triggers restraint of trade, which has its own reasonableness test. It's not the Patel test.
+Hannah: So the old boss in our client's story doesn't get Patel. He gets this.
+Will: Right. It covers employee non-competes, non-competes on the sale of a business, and solus ties. And the restraint is void unless it passes three tests, and you need all three. It starts with a legitimate interest.
+Hannah: Then that it isn't wider than it needs to be.
+Will: That it's no wider than reasonably necessary, in duration, area and scope of activity. And the third?
+Hannah: Not against the public interest, I suppose.
+Will: Not contrary to the public interest. And it's all judged at the date of the contract.
+Hannah: So the burden's on whoever is relying on the covenant. They have to prove it's reasonable.
+Will: That's right. What counts as a legitimate interest? For an employer: trade secrets and confidential information, and trade connections, like customers and suppliers. Sometimes workforce stability too. For the buyer of a business, it's the goodwill it bought.
+Hannah (wary): Anything that never counts?
+Will: Protection from competition as such is never a legitimate interest.
+Hannah: And courts treat employees and sellers the same?
+Will: No. They're stricter on employment covenants than on sale-of-business covenants, where bargaining is more equal.
+Hannah (brisk): So: interest, width, public interest. Miss one and it's void.
+Will (brisk): Now the four numbers. Five years: a hairdresser barred from working anywhere in England after leaving. That's wider than reasonably necessary in area and duration, so it's void.
+Hannah (teasing): Anywhere in England. For a hairdresser. <laugh>
+Will (laughing): Bold, yes. And a 12-month non-compete on a junior employee with no customer contact or confidential information is void too, but for a different reason. There's no legitimate interest, because protection from competition alone doesn't count.
+Will: And like the five years, those 12 months run from leaving the employment.
+Hannah: So the long one fails on width, and the short one on interest.
+Will: Right. Next, 21 years: a solus tie, where a garage agrees to buy all its fuel from one supplier. If the party bound is the owner of an existing garage, the tie must be reasonable in length. If it's a lessee taking from the supplier, the doctrine doesn't apply, because it gave up no freedom it already had.
+Hannah (thinking aloud): So the question is: did you give up freedom you already had, or did you take the land from the supplier with the tie already on it?
+Will (pleased): That's it. And the last number. A salesman has a 6-month non-solicitation covenant, and he's dismissed without his contractual notice. That's wrongful dismissal, and once he accepts it, the employer can't enforce the covenant.
+Will: Those 6 months would have run from termination.
+Hannah (mock-outraged): Even a reasonable one? The employer writes a perfectly sensible covenant, dismisses him without the notice the contract required, and loses it?
+Will: It is. An accepted repudiatory breach by the employer defeats even a reasonable covenant. That's different from a covenant that's simply void as unreasonable. Then the covenant is void, but the rest of the contract stands, and the court won't rewrite it.
+Hannah (dry): So it can't fix it.
+Will: It can only remove words, and on three conditions, all of them. Nothing is added to or modified in the wording that's left.
+Hannah (thoughtful): The remaining terms still have to be supported by consideration, presumably.
+Will: Right. And removal can't generally change the overall effect of the restraint.
+Hannah (brisk): Deleting, not drafting.
+Will: Right. <breath> Numbers round, quick. Hannah, go.
+Hannah: Five years, the hairdresser barred from all of England. Too wide in area and duration, void. 12-month, the junior with nothing to protect. No legitimate interest, void. 21 years, the solus tie. Owner of an existing garage, it must be reasonable in length. Lessee taking the garage from the supplier, the doctrine doesn't apply. 6 months, the salesman dismissed without his contractual notice. Wrongful dismissal, and once he accepts it, the employer can't enforce the covenant.
+Will (warm): Perfect. And the section numbers worth keeping: section 1 is the way in, section 2 locks the right in, section 3 is the defences, and section 6 is the carve-outs.
+## Exam mode
+Will (brisk): Right, exam hat on. Scenario one. Greg hires a firm called Bright Boilers to service his boiler. The contract expressly excludes third-party rights under the 1999 Act. The firm's careless work causes a fire, and it destroys a laptop belonging to Greg's lodger, Mina. What claim does Mina have against the firm?
+Hannah (thinking aloud): Mina isn't a party, so that's question two. The Act's excluded. So nothing in contract... and I'm tempted to say she's got no claim at all, because of privity.
+Will (dry): Careful. Is privity the end of it?
+Hannah: Ah. Question three, another route. Tort. It's her laptop, and the firm was careless.
+Will (pleased): That's it. The deciding fact is that her physical property was damaged by careless work, so the firm owed her a duty of care. Privity only bars contract claims, and here both privity and the exclusion clause rule out a contract claim. So: negligence for the laptop, nothing in contract.
+Hannah (amused): Scenario two, then.
+Will: Priya hires a builder, Cobb Homes, to build her a house. One term says the builder will give "the first buyer of the property" a 10-year defects guarantee. The contract says nothing else about third parties. Priya later sells the house to Omar. Can Omar enforce the guarantee?
+Hannah (sceptical): He isn't named, and when the contract was made he wasn't a buyer of anything. So no.
+Will: That's the tempting answer. Which question are you on?
+Hannah: Two, the Act. Hang on. The term purports to benefit someone, so that's section 1, subsection 1, paragraph b. And "the first buyer" is a description, which counts as identified even if he didn't exist when the contract was made.
+Will: Section 1, subsection 3. And the contract is silent, which doesn't show the parties meant otherwise.
+Hannah (pleased): So yes, under paragraph b. Silence doesn't rebut it, and nobody wrote "no third party rights".
+Will: Scenario three. Dev buys a classic car from Sam for £40,000.
+Hannah (deadpan): Of course he does.
+Will (laughing): Both believe it has its original engine, but it has a later replacement, and it's worth £20,000. Neither said anything about the engine, and the contract is silent on it. Can Dev escape for mistake?
+Hannah: Question one. It's worth half, so it's essentially and radically different. Void.
+Will: <short pause> That's the tempting answer. Check it against the three conditions.
+Hannah: Hmm. The car exists, and it's the car we both meant. Only the engine's quality and value differ.
+Will: So it fails the first condition. A mistake about value or quality isn't enough, and equity gives no rescission instead. The contract stands.
+Hannah (dry): Poor Dev. Stuck with it.
+Will: Scenario four. Kemal pays Lena £10,000 to bribe a council official to grant him planning permission. Lena never approaches the official and just keeps the money. Kemal sues for it back. Can he recover it?
+Hannah (brisk): Question four, illegality. And I'm not falling for the reliance test again.
+Hannah: The question is whether enforcing the claim would harm the integrity of the legal system.
+Will: Go on, then. Weigh it.
+Hannah: He isn't asking the court to enforce the bribe. He wants his money back, and restitution restores both parties' positions. Denying it wouldn't advance the anti-bribery purpose, and it would be disproportionate.
+Will (pleased): So?
+Hannah: Probably yes, in unjust enrichment. The idea that he'd have to plead the illegality and so he's barred is exactly what Patel got rid of.
+Will: Scenario five, a flip. Tomasz sells a vintage bike to a man who comes to his flat and gives a false name. The man resells the bike to Ruth, who buys in good faith, without notice, before Tomasz has done anything about it. Does Ruth get good title?
+Hannah: Question one. He lied about who he was, so the contract is void, and no title passed to anyone. Tomasz gets his bike back.
+Will: Where did they do the deal?
+Hannah (groaning): Face to face. Ugh. So there's a strong presumption he was contracting with the person present, and it's voidable for fraud. Not yet avoided, so Ruth, in good faith and without notice, gets good title.
+Will: And if he'd ordered the bike by letter in the name of a real, reputable firm?
+Hannah (wry): Then it's void, and no title passes, even to an innocent buyer. Same lie, opposite result.
+Will: Last one, back to question two. Your gran is named in the florist's contract. She posts a letter accepting the benefit, and before it arrives, the florist and the customer agree to cancel her right. She hasn't relied on it at all. Can they?
+Hannah: Posted assent only takes effect when the promisor receives it. So no assent yet, no reliance, and they can vary or rescind freely.
+Will: Not tempted by the postal rule?
+Hannah (dry): Not twice.
+Will (warm): Good. A posted acceptance counts on posting, but posted assent counts on receipt.
+Hannah (thoughtful): So the first thing is always which of the five I'm on, and then the deciding fact.
+## Recap
+Will (warm): Right, the map once more. Five questions.
+Hannah: One. Is there a contract at all? An operative mistake makes it void from the start, so nobody is bound and no title passes, and a mistake about value or quality alone isn't enough.
+Will: Two. Is the claimant a party? Only a party can enforce, unless the 1999 Act applies, and then a term purporting to benefit an identified third party is enforceable unless the parties did not intend it, and silence does not rebut that.
+Hannah (brisk): Three. Is there another route? Agency, assignment, a collateral contract, a trust, tort or statute, and otherwise only the promisee can sue, for its own loss, and the third party's loss only exceptionally.
+Will: Four. Does illegality bar the claim? Only if enforcing would harm the integrity of the legal system, weighing purpose, other policy and proportionality, and not the old reliance test.
+Hannah: Five. Is it a restraint of trade? Then it's void unless the party relying on it shows a legitimate interest and that it's no wider than reasonably necessary, and it mustn't be contrary to the public interest.
+Will (warm): First ask whether a mistake makes the contract void, then whether the claimant is a party, is covered by the 1999 Act or has another route, then whether illegality or restraint of trade stands in the way.
