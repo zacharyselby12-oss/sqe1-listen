@@ -1,0 +1,186 @@
+---
+id: wae-ws07
+unit: u-bpp-WAE-07
+guide_hash: db7d9a6aed
+made: 2026-10-22T09:33:09+00:00
+title: WAE WS07 · Anti-avoidance rules
+map:
+- Did the donor keep a benefit?
+- Does the pre-owned assets charge catch the rest?
+- Are linked steps one transfer?
+- Are death debts deductible?
+recap:
+- Question one: a donor who kept a benefit has made a gift with reservation, and the annual exemption and normal expenditure are not among the five ways out.
+- Question two: if the reservation rules miss it, such as a house bought with gifted cash, the pre-owned assets charge applies instead, never both.
+- Question three: a pre-arranged gift to a spouse who at once passes it on can be taxed as one transfer from the original donor.
+- Question four: a debt is not deductible to the extent its consideration was property derived from the deceased, and a liability not repaid from the estate is generally not deductible.
+summary: Ask whether the donor kept a benefit, then whether the pre-owned assets charge catches what that misses, then whether linked steps are one transfer, and whether death debts tied to the deceased's own gifts are deductible.
+invented:
+- Priya
+- Sam
+- Rosa
+- Isla
+- Kofi
+- Yaw
+- Leeds
+- Mina
+- Ravi
+- Anita
+- Jay
+- Hugh
+- Cleo
+---
+## Rule
+Will (warm): Right, picture this. Priya gives her house to her son Sam, and then she just carries on living in it, rent-free, as if nothing had happened. Then she dies.
+Hannah (wary): And I'm guessing the house doesn't stay out of her estate.
+Will: It doesn't. She gave it away on paper, but she kept a benefit in it, so it's treated as still in her estate on death. The whole plan was for nothing.
+Hannah (dry): So she gave away the house and kept the house. Impressive.
+Will (amused): And that's the first of four questions this workshop keeps asking, always in the same order. One: did the donor keep a benefit in what they gave away? That's gift with reservation. Two: if the reservation rules miss it, does the pre-owned assets charge catch it?
+Hannah: Hang on, miss it how?
+Will: We'll get there. Three: are linked steps taxed as one transfer from the original donor? And four: are debts at death that are linked to the deceased's own gifts deductible?
+Hannah (thinking aloud): So: kept a benefit, pre-owned assets, linked steps, death debts. In that order.
+Will: In that order. And most of the traps sit in the first two.
+Will (brisk): So, question one. Did the donor keep a benefit in the thing they gave away? If so, it's a gift with reservation, and the property is treated as still in their estate on death, unless an exception applies.
+Hannah: Which is Priya. She kept the benefit, there's no exception, so the house is counted in her estate.
+Will: Spot on. And the exceptions are where all the action is, because there are five ways out, and any one of them is enough. Have a guess at one.
+Hannah (teasing): Rent. If Priya pays Sam rent, she's not getting a free ride.
+Will (pleased): Yes, but "full" is the word that matters. If the donor pays full market rent for continuing to use the land or chattels, there's no reservation.
+Hannah: And if she pays him a token rent, just so there's technically a rent?
+Will: Then it's not full market rent, so the reservation stands. A token rent, or anything below market rent, doesn't count.
+Hannah (groaning): So "I'll charge myself a nominal rent" isn't the clever plan it sounds like.
+Will (dry): It really isn't. The next one's small. If the donor's benefit is minimal, for example occasional short visits, there's no reservation.
+Hannah: Popping round for tea, then, not moving into the spare room.
+Will (laughing): <laugh> Quite. The next way out is the sad one, and it has two parts, and you need both. One part is a change in the donor's circumstances that nobody could have foreseen, like old age or infirmity. Have a go at the other.
+Hannah (thinking aloud): Somebody has to look after them. The child, presumably.
+Will: Close. The donee has to be a relative, and they have to give reasonable care in the gifted land. So Priya gives Sam the house, years later she becomes infirm in a way nobody could have seen coming, and Sam looks after her properly there. No reservation.
+Hannah (wary): And when does "nobody could have seen it coming" get judged?
+Will: When the gift was made. The change has to have been unforeseeable then. And the care exception covers land only, so the gifted property has to be land.
+Hannah: So it has to be land, the change has to have been unforeseeable when she made the gift, and the donee has to be a relative giving her reasonable care in the gifted land.
+Will: All of it, yes. Next one's a trap, so listen. The donor gives away a share of her house, not the whole thing, and she and the donee both live there. Reservation?
+Hannah (sceptical): Well, she's still living in the house she gave away. Reservation.
+Will: That's the tempting answer, and it's wrong if three things are true, and you need all three. It's a gift of a share of land. The donor and the donee occupy the land together. And—
+Hannah: She pays rent?
+Will: Not rent. She pays at least her share of the running costs.
+Hannah (teasing): So a share of the land, living there together, and pulling her weight on the bills. All three, and then it's not a reservation.
+Will: Right. Shared occupation with cost-sharing is expressly outside the rules, so not every co-occupation is a reservation.
+Will (brisk): The last way out isn't about how the donor uses the thing at all. If the gift is covered by the spouse, charity, small gifts or marriage exemption, it's outside the reservation rules. Four exemptions, and any one of them is enough.
+Hannah: Spouse, charity, small gifts, marriage. And I notice the annual exemption isn't in there.
+Will: Which is the whole sting. A gift covered only by the annual exemption, or only by normal expenditure out of income, is not outside the rules, so a reserved benefit still bites.
+Hannah (mock-outraged): The annual exemption! The one everybody's actually heard of!
+Will (amused): It's the bouncer who hasn't got your name on the list. Only those first four protect a gift from the reservation rules.
+Hannah (brisk): Right, so question one in my words. They kept a benefit, so it's a reservation, unless there's a way out. Five of those: full market rent, minimal benefit, the care one, shared land with cost-sharing, or one of the four exemptions. Any one is enough.
+Will: That's the lot.
+Will: One more bit on question one, because it isn't just about houses. The rule covers any gift, including a gift into trust. So say a settlor sets up a discretionary trust and includes herself among the people who could benefit, and the trustees never pay her a penny. Reservation?
+Hannah (wary): But she never actually got anything. So... it's just a chargeable lifetime transfer?
+Will: That's the trap. Being in the class of beneficiaries is enough, whether or not anything is ever paid. She's a potential beneficiary of her own trust, so she's reserved a benefit, and the trust property is in her estate on death.
+Hannah: So "only a chargeable lifetime transfer" is wrong, and "in the class" is the deciding fact.
+Will: That's it. Paid or not. And the reservation rule itself is section 102, for houses and for trusts both.
+Will (brisk): Right, question two. Suppose the reservation rules miss it. Does the pre-owned assets charge catch it?
+Hannah (wary): Miss it how, though? Priya living in the house she gave away is about as caught as it gets.
+Will: It is. So here's the other picture. A donor gives cash to her child. The child uses it to buy a house. And the donor goes to live in that house, rent-free.
+Hannah (thinking aloud): Well, that's reservation again, surely. She's living in a house her money bought.
+Will: That's the tempting answer, and it's wrong. The gift was of cash, not the house. The cash isn't traced into the house, so the reservation rules don't catch it, and the pre-owned assets charge applies instead.
+Hannah (groaning): And that's the pair I always muddle. Gift with reservation and pre-owned assets.
+Will: Then use this. Does the donor benefit from the very property they gave away? That's reservation. Or from property the reservation rules miss, like a house bought with gifted cash? That's the pre-owned assets charge.
+Hannah: The very property, reservation. Property the reservation rules miss, like the house the cash bought, pre-owned assets.
+Will (brisk): And the test, said properly. If the reservation rules don't apply, does the person still use land or chattels, or benefit from intangibles in a settlor-interested trust, that they gave away or funded? If so, the pre-owned assets charge applies.
+Hannah: "Gave away or funded." Funded is the cash.
+Will: Right. Now, there are five bits of small print about the charge, and the first one trips people up straight away. What sort of tax do you reckon it is?
+Hannah (teasing): Inheritance tax. It's all estates and death today.
+Will: No. It's an annual income tax charge, not IHT. The reference for that is Schedule 15.
+Hannah (incredulous): Income tax. For living in a house.
+Will (dry): For living in a house you gave away or funded, yes. Next bit is how it's measured. For land it's the rental value. For chattels and intangibles it's interest at the official rate on the asset's value. And for both, you take off any payments made for the use.
+Hannah: So if the donor pays something towards staying there, that comes off.
+Will: Yes. Next, the number, and it's the only amount the rules themselves turn on: £5,000, the de minimis. Every tax year, you add up the person's total annual benefit from the property the charge catches. If that's £5,000 or less, there's no charge.
+Hannah (wary): And above £5,000 you're charged on the bit over it.
+Will: <short pause> No. Above £5,000, the whole amount is charged, not just the excess.
+Hannah (groaning): A cliff edge. £5,000 is nothing, and a smidge more is the lot.
+Will: That's how it works. Next bit: what counts as caught. Intangibles, like cash or shares, are caught only in a settlor-interested trust. An outright gift of them isn't caught.
+Hannah: So cash or shares given outright aren't caught, but benefiting from them in a settlor-interested trust that I gave away or funded is.
+Will: Yes. And the last bit of small print is the election. The person may elect into gift with reservation treatment instead, and the property is then treated as in their estate on death.
+Hannah (thoughtful): So they get to choose. But choosing one isn't the same as being under both.
+Will: Right, and that's the trap. The pre-owned assets charge applies only where the reservation rules do not, so property can't be caught by both.
+Hannah (brisk): So question two in my words. If it's not reservation, but the donor still uses land or chattels, or benefits from intangibles in a settlor-interested trust, that they gave away or funded, it's the pre-owned assets charge: income tax, nothing at £5,000 or less, the whole amount above it. And never both.
+Will (pleased): And the cash-then-house picture is the one to hang it on.
+Will (brisk): Question three moves away from who's living where, and looks at steps instead. Linked transactions affecting the same property are associated operations, and they're taxed as one transfer from the original donor. Picture a donor who makes a gift to his wife, pre-arranged so that she'll pass it on to their child, which she does at once.
+Hannah: Easy. The first step's a gift to a spouse, so the spouse exemption covers it, and then she's the one giving to the child.
+Will: That's the trap. A pre-arranged gift to a spouse who at once passes it to a child can be taxed as one transfer from the original donor. The linked steps are treated as a single gift to the child, so the spouse exemption on the first step doesn't help.
+Hannah (wry): So the look-alike is associated operations against the spouse exemption, and what decides it is whether the gift to the spouse was pre-arranged to pass straight on.
+Will: That's it. Section 268, if you want the number.
+Hannah: Pre-arranged and straight on, so one transfer, from the original donor.
+Will (brisk): Last one, question four, and it's the odd one out, because it's about debts at death. The rule is that a debt whose consideration was property derived from the deceased is not deductible.
+Hannah (wary): In English, please.
+Will (amused): Picture it. A donor gives her nephew some money, and he lends the money back to her. When she dies, she still owes him. That's gift and loan-back. The debt's consideration was property derived from the deceased, so the debt is not deductible, to the extent that's the case.
+Hannah: "To the extent." So if only some of the consideration came from her, only that part of the debt is blocked.
+Will: Yes. A debt is not deductible to the extent its consideration was property derived from the deceased. That's section 103.
+Hannah (thoughtful): And is there a second rule?
+Will: There is. Liabilities not actually repaid from the estate after death are generally not deductible. That's section 175A.
+Hannah (teasing): "Generally." Not the most comforting word in tax.
+Will (dry): It's the hedge built into the rule, so I'm keeping it.
+Hannah: So the look-alike is gift and loan-back against the ordinary deduction of debts.
+Will: And what separates them is whether the consideration for the debt was property derived from the deceased, or whether the debt is left unpaid after death.
+Hannah (thoughtful): Right. So a debt is blocked to the extent the money behind it came from the deceased, and a liability that never actually gets repaid from the estate is generally blocked too.
+Will (brisk): Quick numbers round, and it's short. £5,000 is the pre-owned assets threshold, tested every tax year against the person's total annual benefit from the property the charge catches. £5,000 or less, no charge. Above it, the whole amount.
+Hannah: And for the reference people: section 102 for reservation, Schedule 15 for the pre-owned assets charge, section 268 for linked steps, section 103 for gift and loan-back, and section 175A for unpaid liabilities.
+Will: That's the lot. Now let's try it on some scenarios.
+## Exam mode
+Will (brisk): Right, exam hat on. For each one, tell me which question of the map it turns on, and then the answer. Rosa gives her daughter Isla a painting worth £2,800, and the gift is covered by Rosa's unused annual exemption. Rosa keeps it on her own sitting-room wall, rent-free, until she dies. Does the reservation rule apply to the painting?
+Hannah (thinking aloud): That's question one, did she keep a benefit. She did, it's on her wall, rent-free. So it's a reservation unless there's a way out. And, well, the annual exemption covers it, so surely it's exempt and finished?
+Will: Is the annual exemption one of the exemptions that takes a gift outside the rules?
+Hannah (groaning): No. Spouse, charity, small gifts, marriage. Not the annual exemption, and not normal expenditure either. I walked straight into that. So yes, the painting is treated as still in Rosa's estate on death.
+Will: And the deciding fact is that Rosa kept using it rent-free. Treating the gift as exempt and finished fails.
+Hannah: What if Rosa had paid Isla a token rent for the painting?
+Will: Still a reservation, because a token rent isn't full market rent. Pay full market rent and there'd be no reservation, because that way out covers chattels as well as land.
+Will (amused): Next. Priya gives Sam her house. Years later she becomes infirm, which nobody could have foreseen when the gift was made, and Sam, her son, looks after her properly there. Reservation?
+Hannah (wary): Is this the same Priya?
+Will (laughing): A parallel Priya. Much luckier. <laugh>
+Hannah: Question one again. She's living in the house, so there's a reservation unless there's a way out, and this is the care one. An unforeseeable change in her circumstances, a relative donee giving reasonable care in the gifted land, and it is land. So no reservation.
+Will: And if the gift had been a painting, with Sam caring for her?
+Hannah: Then the care way out isn't available, because it covers land only.
+Will: One more Priya, a different parallel one. She gives Sam a share of the house, not the whole house, and they both live there. Priya pays at least her share of the running costs. Reservation?
+Hannah (teasing): Question one, and this Priya gets away with it too. It's a share of land, they occupy it together, and she pays at least her share of the costs. All three, so no reservation.
+Will: And if she paid less than her share of the running costs?
+Hannah: Then the shared-land way out is gone, because you need all three, so we're back to the main rule. She kept a benefit, so it's a reservation, unless another way out fits.
+Will (brisk): Now a trust one. Mina sets up a discretionary trust for her nephews, and includes herself among the people who could benefit. The trustees only ever pay the nephews. Then Mina dies. Hannah?
+Hannah: Question one, because the reservation rule covers gifts into trust too. She's in the class of beneficiaries, so she's reserved a benefit, even though she never got a penny. The trust property is in her estate on death.
+Will: And the tempting answer?
+Hannah (dry): That it's only a chargeable lifetime transfer. Which is wrong, because being in the class is enough, whether or not anything is ever paid.
+Will (pleased): Fine. That one's yours.
+Will (brisk): Question two now. In 2023 Kofi gave his son Yaw £400,000, outright. Yaw used it to buy a flat in Leeds, and in 2025 Kofi moved into the flat, rent-free. The flat's annual rental value is £18,000. Which regime applies to Kofi?
+Hannah: He's living in a flat his money bought. Gift with reservation.
+Will: <short pause> That's the tempting answer. What did Kofi actually give?
+Hannah (groaning): Cash. Not the flat. <sigh> So the cash isn't traced into the flat, the reservation rules don't catch it, and it's the pre-owned assets charge. My muddle, again.
+Will: Right. So what's the charge?
+Hannah: Annual income tax. A flat is land, so it's measured at its rental value, £18,000, less any payments for the use, and Kofi's paying nothing. And £18,000 is above the £5,000 de minimis, so the whole £18,000 is charged, not just the excess.
+Will: Good. The contribution condition is met here too, so the answer is the pre-owned assets charge: annual income tax on £18,000, unless Kofi elects into gift with reservation treatment.
+Hannah: And if he does elect, the flat's treated as in his estate on death. But it's one or the other, never both.
+Will: Never both. The charge applies only where the reservation rules do not. And if his benefit had come to £5,000 or less?
+Hannah (brisk): No charge. And just over £5,000, the whole amount, not only the bit over.
+Will: Question three. Ravi makes a gift to his wife Anita, pre-arranged so that she'll pass it straight on to their son Jay, and she does, at once. Ravi says the gift to Anita is covered by the spouse exemption. Is he right?
+Hannah (wary): It's a gift to a spouse, so— no, hang on. It was pre-arranged to go straight to Jay. That's the fact that decides it.
+Will: Go on.
+Hannah: That's associated operations. The steps are linked, so they can be taxed as one transfer from Ravi, the original donor, a single gift to Jay. So the spouse exemption on the first step doesn't help him.
+Will (pleased): Nicely recovered. The one fact to look for is whether the gift to Anita was pre-arranged to pass straight on.
+Will (brisk): Last one, question four. Hugh gave his niece Cleo some money, and she lent the money back to him. When Hugh dies, he still owes her. Can the estate deduct the debt?
+Hannah: A debt's a debt, so— hang on. The money behind that debt came from Hugh himself.
+Will: Say the rule.
+Hannah (thoughtful): A debt is not deductible to the extent its consideration was property derived from the deceased. So it's not deductible, and here that's the whole of it, since all the money came from Hugh.
+Will: And say Hugh also owed a builder, and the estate never actually repays that.
+Hannah: Then a liability not repaid from the estate is generally not deductible. Same direction, different reason.
+Will (dry): Which is the look-alike. Gift and loan-back against the ordinary deduction of debts: was the consideration property derived from the deceased, or was the debt left unpaid after death?
+Will (brisk): Lightning round, one line each. A donor only ever drops in for occasional short visits.
+Hannah: Minimal benefit, so no reservation.
+Will: A donor pays full market rent to stay in the gifted house.
+Hannah: No reservation.
+Will: A gift covered only by normal expenditure out of income, with a reserved benefit.
+Hannah: Still caught. It isn't one of the four.
+Will: And someone applies both regimes to the same property.
+Hannah (dry): Then they've written down a wrong answer. It's one or the other.
+## Recap
+Will (warm): Right, the map once more. Four questions, in order.
+Hannah: One. Did the donor keep a benefit? Then it's a gift with reservation, and the annual exemption and normal expenditure aren't among the five ways out.
+Will: Two. If the reservation rules miss it, like a house bought with gifted cash, the pre-owned assets charge applies instead. Never both.
+Hannah (brisk): Three. A pre-arranged gift to a spouse who at once passes it on can be taxed as one transfer from the original donor.
+Will: And four. A debt is not deductible to the extent its consideration was property derived from the deceased, and a liability not repaid from the estate is generally not deductible.
+Hannah (pleased): Kept a benefit, pre-owned assets, linked steps, death debts.
+Will (warm): Ask whether the donor kept a benefit, then whether the pre-owned assets charge catches what that misses, then whether linked steps are one transfer, and whether death debts tied to the deceased's own gifts are deductible.

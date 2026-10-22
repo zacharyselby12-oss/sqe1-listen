@@ -254,6 +254,35 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws07-4d47c7e4.mp3",
       "pubDate": "2026-10-22T08:42:51+00:00"
+    },
+    {
+      "id": "wae-ws07",
+      "unitId": "u-bpp-WAE-07",
+      "title": "WAE WS07 · Anti-avoidance rules",
+      "guideHash": "db7d9a6aed",
+      "script": "scripts/wae-ws07.txt",
+      "scriptHash": "417d24c8dbbb",
+      "audio": "audio/wae-ws07.mp3",
+      "recap": [
+        "Question one: a donor who kept a benefit has made a gift with reservation, and the annual exemption and normal expenditure are not among the five ways out.",
+        "Question two: if the reservation rules miss it, such as a house bought with gifted cash, the pre-owned assets charge applies instead, never both.",
+        "Question three: a pre-arranged gift to a spouse who at once passes it on can be taxed as one transfer from the original donor.",
+        "Question four: a debt is not deductible to the extent its consideration was property derived from the deceased, and a liability not repaid from the estate is generally not deductible."
+      ],
+      "map": [
+        "Did the donor keep a benefit?",
+        "Does the pre-owned assets charge catch the rest?",
+        "Are linked steps one transfer?",
+        "Are death debts deductible?"
+      ],
+      "summary": "Ask whether the donor kept a benefit, then whether the pre-owned assets charge catches what that misses, then whether linked steps are one transfer, and whether death debts tied to the deceased's own gifts are deductible.",
+      "madeAt": "2026-10-22T09:33:09+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes, 5 fixes; verify pass)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
