@@ -316,12 +316,20 @@
       ],
       "summary": "Work through five questions in order: is it hearsay, which route lets it in, can a safeguard keep it out, stop the case or let the other side attack the absent maker, is the witness competent, sworn and compellable, and how may she be questioned.",
       "madeAt": "2026-10-22T10:35:03+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes, 5 fixes); verify: header summary made identical to the checked closing line",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 17682141,
+      "seconds": 2210,
+      "words": 5604,
+      "renderedHash": "9e81a56b4994",
+      "renderedAt": "2026-10-22T10:36:54+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws07-f0c9bcf5.mp3",
+      "pubDate": "2026-10-22T10:36:54+00:00"
     }
   ],
   "replays": []
