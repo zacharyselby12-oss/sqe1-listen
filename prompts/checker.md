@@ -34,7 +34,8 @@ Also note (this does not fail the episode): BANTER, the number of lines that tea
 (quick reactions that keep the conversation moving, such as "Right.", "Hang on." or "Ha, fair.", do not count, and nor
 does casual wording of a rule that stays exactly the source's: judge the rule underneath, not the register).
 
-Reply with JSON only:
+Write JSON only to {OUT_PATH} (valid JSON, nothing else in the file), in this shape, then reply with one line: the verdict
+and the number of problems.
 {"verdict": "pass" or "fail",
  "problems": [{"type": "...", "line": "<the exact spoken line>", "source": "<the exact source text, or 'none'>",
                "why": "<one sentence>", "fix": "<a replacement line, or 'delete'>"}],
