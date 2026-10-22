@@ -83,7 +83,9 @@ c. Writer (Sonnet helper): its brief is prompts/writer.md with {GUIDE_TEXT} = /t
    {OUT_PATH} = /tmp/sqe1/out/<id or part id>.txt, {TITLE_PREFIX} and {WORKSHOP} from the plan; then, for a whole
    workshop, "## This episode covers the whole workshop" with "Title: <prefix> · <2 to 4 word topic>. Write the script
    to the path given above."; for a part, prompts/part.md filled in ({N}, {OF}, {SECTIONS} as "- SECTION k: <heading>"
-   lines, {OTHERS}, {TITLE_PREFIX}). Save the brief as /tmp/sqe1/brief-<id>.md and tell the helper to read and follow it.
+   lines, {OTHERS}, {TITLE_PREFIX}). Save the brief as /tmp/sqe1/brief-<id>.md and tell the helper to read and follow it, and to save the script with
+   the Write tool in two steps (header and Rule, then Exam mode and Recap), never in its reply text: one writer that
+   drafted the script in its reply hit the 64,000-token reply limit and saved nothing (22 Oct).
 d. Code check: `python3 tools/check_script.py /tmp/sqe1/out/<id>.txt /tmp/sqe1/src/<id>.txt`. On errors, the reviser once
    (Sonnet, prompts/reviser.md, errors in /tmp/sqe1/out/<id>.problems.txt), then check again. Still failing: hold.
 e. Two accuracy checks side by side (two **Opus** helpers, started together):
