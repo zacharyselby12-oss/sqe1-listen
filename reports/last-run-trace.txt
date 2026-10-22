@@ -1,1 +1,11 @@
-
+   26.3s chunk 1: ok in own process, 25.5s (attempt 1)
+   28.2s chunk 2: ok in own process, 27.4s (attempt 1)
+   53.0s chunk 3: ok in own process, 26.7s (attempt 1)
+   55.8s chunk 4: ok in own process, 27.6s (attempt 1)
+   78.7s chunk 6: ok in own process, 22.9s (attempt 1)
+   81.1s chunk 5: ok in own process, 28.0s (attempt 1)
+  103.8s chunk 7: ok in own process, 25.1s (attempt 1)
+  105.8s chunk 8: ok in own process, 24.8s (attempt 1)
+  109.5s chunk 10: ok in own process, 3.7s (attempt 1)
+  129.4s chunk 11: ok in own process, 19.9s (attempt 1)
+  130.3s chunk 9: ok in own process, 26.5s (attempt 1)
