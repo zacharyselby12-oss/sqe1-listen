@@ -240,12 +240,20 @@
       ],
       "summary": "First ask whether a mistake makes the contract void, then whether the claimant is a party, is covered by the 1999 Act or has another route, then whether illegality or restraint of trade stands in the way.",
       "madeAt": "2026-10-22T08:41:48+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes, 10 fixes + 2 lines softened for guide errors; verify: 2 more fixes, final verify pass)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 17790607,
+      "seconds": 2224,
+      "words": 5565,
+      "renderedHash": "3666c30ca987",
+      "renderedAt": "2026-10-22T08:42:51+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws07-4d47c7e4.mp3",
+      "pubDate": "2026-10-22T08:42:51+00:00"
     }
   ],
   "replays": []
