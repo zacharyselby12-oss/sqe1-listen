@@ -1,0 +1,292 @@
+---
+id: clp-ws07
+unit: u-bpp-CLP-07
+guide_hash: 5df94e6f13
+made: 2026-10-22T10:35:03+00:00
+title: CLP WS07 · Hearsay and witnesses
+map:
+- Is it hearsay at all?
+- Which route lets it in?
+- Can a safeguard keep it out, stop the case or let the other side attack the absent maker?
+- Is the witness competent, sworn and compellable?
+- How may the witness be questioned?
+recap:
+- Hearsay only if relied on for the truth of what it states; words used only to show they were said are original evidence.
+- Four routes in: statute, preserved common law, all parties agree, or interests of justice; abroad or missing counts only if attendance is not reasonably practicable or reasonable steps failed.
+- Section 126 refuses admission, section 125 stops a jury trial when unconvincing hearsay would make a conviction unsafe, and section 78 PACE covers prosecution evidence only.
+- Competence needs only understanding questions and giving understandable answers; sworn also needs age 14 and the solemnity of the oath; a spouse is compellable for the prosecution only for a specified offence.
+- Leading is allowed in cross-examination but not in chief or re-examination except on matters not in dispute; a hostile witness shows no desire to tell the truth and needs the judge's leave, otherwise she is only unfavourable.
+summary: Work through five questions in order: is it hearsay, which route lets it in, can a safeguard keep it out, stop the case or let the other side attack the absent maker, is the witness competent, sworn and compellable, and how may she be questioned.
+invented:
+- Jess
+- Spain
+- Kettering
+- Tessa
+- Brennan
+- Delaney
+- Dale
+- Carys
+- Bronwen
+- Rhys
+- Portugal
+- Imogen
+- Ffion
+- Joy
+---
+## Rule
+Will (warm): Right, Hannah. Picture this. You're in court, your whole case leans on what one witness told the police, and the other side stands up and says, "That's hearsay."
+Hannah (wry): And I'm stood there thinking, is it?
+Will (amused): Ha. Yes. And if it is, you still need to know how to get it in. So there's an order to it. Five questions, always in the same order.
+Hannah: Go on, then.
+Will: Question one: is it hearsay at all? Question two: if it is, which route lets it in? And question three: once it's in, or about to be, can a safeguard knock it out, stop the case, or let the other side attack the person who isn't there?
+Hannah (brisk): That's the hearsay half.
+Will: Yes, and then we swap to the witness herself. Question four: is she competent, sworn or unsworn, and compellable? And question five: how can she be questioned, so leading, hostile or unfavourable?
+Hannah (thinking aloud): So: is it hearsay, how does it get in, what can knock it out, what sort of witness is she, and how do I question her.
+Will (pleased): Yes. Hold on to those five and everything else hangs off them. Question one.
+Will (brisk): Is it hearsay at all? Here's the rule in one go. A statement is hearsay if it wasn't made in oral evidence in these proceedings, and it's relied on as evidence that what it says is true.
+Hannah (teasing): So if my mate Jess tells me the café's shut, and somebody uses that to prove it's shut, that's hearsay.
+Will (amused): It is: Jess said it outside oral evidence in the proceedings, she meant you to believe it, and you'd be using it to prove it's true. The test has four questions, and you need a yes to all four.
+Will: Let's go through them, and you guess the next one. We start with whether a person made the statement, rather than it being output from a machine on its own.
+Hannah: Next I'd say is where it was said. Not in court?
+Will: Yes, in the proper words: it was made otherwise than in oral evidence in these proceedings. And after that?
+Hannah: Whether it's being used to prove it's true.
+Will: Yes. It's relied on as evidence of a matter stated, which just means to prove its truth. And the last one's the sneaky one, because it's about what was going on in the maker's head.
+Hannah (groaning): Of course there's a mind-reading bit.
+Will (laughing): There's always a mind-reading bit. <laugh> Was one purpose of the maker that another person would believe it, or act on the basis that it's as stated?
+Hannah: And if all four are yes?
+Will: Then it's hearsay, and it's inadmissible unless one of the routes in applies, which is question two. But the exam isn't testing the easy bits. It's testing three bits of small print, and each one is a trap.
+Hannah (wary): Go on, then. Which is the worst?
+Will: Start with truth versus said. Just because a witness repeats somebody else's words doesn't make it hearsay. You ask: are the words relied on for their truth, or only to show they were said?
+Hannah (sceptical): Give me a "said" one.
+Will: A shopkeeper tells the court, "He said he'd burn my shop down if I didn't pay." The prosecution isn't claiming he really would. The words are part of the offence, because they're a threat, and a bribe offer works the same way. So they're relied on only to show they were said, which means they're not hearsay. They're original evidence, and they're admissible if they're relevant.
+Hannah: And what about words that just affect whoever hears them?
+Will: Same label. If words are relied on only for their effect on the listener, that's original evidence too. Say somebody shouts "D stabbed V", and W runs off. If you only want those words to explain why W fled, and not to prove that D stabbed V, they're original evidence.
+Hannah (thinking aloud): And if you did want them to prove it?
+Will: Then you're relying on their truth, and you're back in hearsay territory. Original evidence also covers two other things: circumstantial evidence of the maker's state of mind, and words with legal significance, defamation for example.
+Hannah: So it's not about the words. It's about what you're using them for.
+Will (pleased): That's the whole trap in a line. The next bit of small print is the maker's purpose. A matter stated exists only if one purpose of the maker was to cause another person to believe it or act on it. So an implied assertion that the maker never meant anyone to believe is not hearsay.
+Hannah (wary): Example, please.
+Will: The police find D's phone full of texts from people asking him for drugs, and the prosecution says, look, they all think he's a dealer.
+Hannah: That sounds like hearsay to me. Everyone's effectively saying D's a dealer.
+Will: That's the trap. The senders weren't trying to make anyone believe that D deals. They were asking for drugs. So the texts are not hearsay that D is a dealer. That's the case of Twist.
+Hannah: And the purpose doesn't have to be the only one, does it?
+Will: No. It only needs to be one of the maker's purposes. If even one of them was to get somebody to believe it or act on it, it's a matter stated. The buyers' texts fail that test.
+Will: The last one is machines. A statement has to be made by a person, so a record a machine produces without human input, like CCTV or an automatic camera reading, isn't hearsay at all.
+Hannah (teasing): Lovely. So machine records are never hearsay.
+Will (dry): <short pause> Careful. If the machine's output depends for its accuracy on information a person supplied, it proves the fact only if that information is proved accurate. That's section 129.
+Hannah: So it's the human behind the machine that counts.
+Will: Yes. And a person's statement can be made by any means: words, writing, a sketch, even a photofit, as long as a person made it.
+Hannah (thoughtful): Right, so question one: a person, outside oral evidence, used for its truth, and meant to be believed or acted on. And the traps are truth versus said, purpose, and the person behind the machine.
+Will (warm): Spot on. And if all of that says hearsay, we go to question two.
+Will (brisk): Question two. It is hearsay, so it's inadmissible unless there's a way in. There are four routes: statute, a preserved common law rule, all the parties agree, or the interests of justice. You need one of them, and without one, it's inadmissible.
+Hannah: Statute, old common law, everybody agrees, and then a catch-all.
+Will: Yes. Start with statute, and with section 116, the one about a witness who isn't there. It lets in a first-hand statement from an identified maker who's unavailable for one of five reasons. And there are four conditions, so you need all four.
+Hannah: Go on, I'll guess.
+Will: If the maker had come to court, their oral evidence about the matter would have to be admissible.
+Hannah: Fair. And the court has to know who they are.
+Will: Yes, the maker has to be identified to the court's satisfaction. Then they have to be unavailable for one of the five reasons, and any one of the five will do. And the last one's fair play: the party relying on the statement must not have caused the unavailability to stop the witness testifying.
+Hannah (amused): So you can't frighten the witness off and then read out her statement.
+Will (dry): <short pause> That's the idea, and it covers someone acting for that party too.
+Hannah (brisk): Five reasons, then. Dead, unfit, abroad, missing.
+Will: That's four, and two of those come with strings. The fifth is fear. So: dead, unfit, outside the UK, cannot be found, or fear.
+Hannah (wary): What strings?
+Will: This is the big exam trap. Being abroad or missing isn't enough on its own. Outside the UK counts only if her attendance is not reasonably practicable. If she could reasonably attend, the reason fails. The court weighs the steps taken against the cost and importance of the evidence, and a live link may make attendance practicable.
+Hannah (incredulous): So "she's moved to Spain" isn't enough?
+Will: Not on its own. The question is whether she could reasonably attend. And missing works the same way: cannot be found counts only if reasonably practicable steps were taken to trace her and they failed. If nobody took reasonably practicable steps, it fails.
+Hannah (groaning): So "abroad" and "disappeared" aren't magic words.
+Will: Not magic words. Both come with a "reasonably practicable" condition.
+Hannah: And fear?
+Will: Fear's the odd one out. It's the only reason that needs the court's leave, and leave is given only in the interests of justice. The court looks at three things: what the statement says, the risk of unfairness, and whether special measures are available.
+Hannah: So dead, unfit, abroad and missing don't need leave, but fear does.
+Will: Only fear needs leave. And fear is widely construed. It covers a witness who doesn't give evidence at all, or who starts and doesn't continue. It reaches fear of death or injury of another, and fear of financial loss.
+Hannah (thoughtful): Let me say it back. There are four conditions and you need all four, there are five reasons and any one will do, abroad and missing come with strings, and fear needs leave.
+Will (pleased): Perfect. Now the other statutory gateway, section 117, business documents. It's a look-alike with section 116, so here's the difference up front: section 117 needs a document made in the course of business, and it doesn't need anyone to be unavailable, unless the document was prepared for an investigation.
+Hannah: Which is the trap, I assume.
+Will: It is, but the basics first. Three things have to be true. The document was created or received in the course of a trade, business, profession or other occupation, or paid or unpaid office. The person who supplied the information had, or may reasonably be supposed to have had, personal knowledge. And if the information passed through anyone else on the way, that person also received it in the course of business.
+Hannah: And all three are needed.
+Will: All three.
+Hannah (sceptical): That sounds a lot like the machine records from question one.
+Will: It's the look-alike, because both get called "records". The question that separates them is: did a person supply the information? A machine record with no human input isn't hearsay at all. And if a machine's output depends on a person's input, section 129 says that input has to be proved accurate.
+Will: Now the trap. A police witness statement is a document too, so people want to wave it through as a business record. But a document prepared for criminal proceedings or an investigation needs more. It also needs either a section 116 reason, or that the supplier cannot reasonably be expected to remember, given the time passed and other circumstances.
+Hannah: So one extra hurdle, and either of those clears it.
+Will: Either one. Because it was prepared for an investigation, the extra condition applies.
+Hannah (dry): Which is exactly what a police statement is.
+Will (laughing): Ha. Yes. Next, section 118, the preserved common law rules. The one to picture is res gestae: the maker was so emotionally overpowered by an event that the court can disregard concoction or distortion.
+Hannah: So they were too shaken to make anything up.
+Will: Concoction or distortion can be disregarded, yes. The others are confessions and mixed statements, public information, and statements in furtherance of a common enterprise.
+Hannah (teasing): Res gestae, confessions, public information, common enterprise. I can live with that.
+Will: Then there's the easy route: all the parties agree. And the last is the catch-all, the interests of justice, in section 114. Here's a look-alike. The section 114 factors apply only where no gateway fits. So if section 116 or 117 fits, you don't run them.
+Hannah: And the fear leave test?
+Will: Has its own factors in section 116, the three we just did. Not the section 114 ones. When section 114 does apply, the court must consider all nine factors, so I'll give them in three groups of three. One group is about worth: the probative value, what other evidence there is, and how important it is.
+Hannah (brisk): Value, other evidence, importance. Next?
+Will: Reliability: the circumstances in which it was made, the reliability of the maker, and the reliability of the evidence that it was made.
+Hannah: And the last three?
+Will: Whether oral evidence of the matter could be given and, if not, why not; how difficult it would be to challenge the statement; and prejudice to the opposing party.
+Hannah (thinking aloud): So value, reliability and the practical ones, and the court has to consider all nine.
+Will: All nine. Now, two more things hang off question two. One is multiple hearsay. It's admissible only if one of the statements falls under section 117, 119 or 120, or all the parties agree, or its value is so high that the interests of justice require it.
+Hannah (incredulous): So section 116 doesn't do it?
+Will: Not on its own. Section 116 alone does not suffice for multiple hearsay.
+Hannah: Hang on, you've said 119 and 120 and I've no idea what they are. Where do they fit?
+Will (amused): Fair pull-back. That's the other thing: a witness's own earlier statements. A previous inconsistent statement is section 119, and a previous consistent statement is section 120. And both are evidence of their truth once the witness gives oral evidence.
+Hannah (thoughtful): So it's the opposite of section 116. This witness does turn up.
+Will: Yes. And section 120 includes a recent complaint, a previous identification, and a document used to refresh memory.
+Hannah: Okay. So question two: four routes and you need one. Statute is 116 for the witness who isn't there, 117 for business documents, and 119 and 120 for a witness's own earlier statements. Then old common law, everyone agreeing, and the catch-all.
+Will (warm): And the three traps: abroad and missing, the police statement, and the nine factors belonging to the interests of justice route.
+Will (brisk): Question three. Say it's in, or about to be. Can anything knock it out, stop the case, or let the other side attack the person who isn't there? There are five tools, and they do different jobs. Three are about keeping it out, and two work once it's in.
+Will: Take section 126 first. Before admission, the court asks: does the case for excluding it, including undue waste of time, substantially outweigh the case for admitting it, given its value? It's a discretion, not automatic exclusion, and it applies to hearsay from either party.
+Hannah (teasing): Either party. I'm underlining that.
+Will: Good, because the look-alike is section 78 of PACE. That's the discretion to exclude prosecution evidence, and it's preserved. It asks a different question: would admitting it adversely affect fairness? And it reaches prosecution evidence only.
+Hannah (thinking aloud): So if somebody tried section 78 against hearsay that the defence wants to rely on...
+Will: It's no use to them, because section 78 reaches only prosecution evidence. Section 126 is the one that covers either party.
+Hannah: Right. And the third?
+Will: Section 123, capability. A statement isn't admissible under section 116, 119 or 120 if its maker lacked capability when it was made. And capability means understanding questions about the matters and giving answers that can be understood.
+Hannah: Hang on, that sounds like the unfit reason in section 116.
+Will: That's the look-alike, and the difference is timing. Section 123 looks at when the statement was made. Unfitness looks at the trial.
+Hannah: So then versus now.
+Will: Yes. And for a section 117 document, capability is required of each person who supplied, received or created the information.
+Hannah (groaning): Each of them. Brilliant.
+Will: Now the two that work once it's in. Section 124 is for when the maker doesn't testify. The other side may attack the absent maker's credibility as if he had testified, so for example with his previous convictions for dishonesty, or with his inconsistent statements.
+Hannah (wry): So you can't cross-examine him, but you can still dent him.
+Will (laughing): Basically, yes. He can't be cross-examined, but he can still be discredited.
+Will: The last one is section 125. In a jury trial, suppose the case against D rests wholly or partly on hearsay that's so unconvincing that, given its importance, a conviction would be unsafe. Then the judge must direct an acquittal, or discharge the jury if a retrial is appropriate. And the power applies after the close of the prosecution case.
+Hannah (groaning): I always muddle 125 and 126.
+Will (amused): You're not alone. Here's the split. Section 126 applies before admission, and it refuses to let the hearsay in. Section 125 applies after admission, in a jury trial, where a conviction would be unsafe, and it stops the case.
+Hannah: So 126 refuses it before it goes in, and 125 stops the case after.
+Will: And one trap goes with it. Don't reach for section 107, the contaminated bad character one. Section 125 asks whether the hearsay is unconvincing, not whether it's contaminated.
+Hannah (brisk): So the three safeguards. Section 126 refuses admission. Section 125 stops a jury trial when admitted hearsay is so unconvincing that a conviction would be unsafe. And section 78 PACE covers prosecution evidence only.
+Will (pleased): Word perfect. That's question three: three tools for keeping it out, one for attacking the maker, one for stopping the case.
+Will (brisk): Hearsay's done. Question four is the witness herself, and it's really three questions rolled into one: is she competent, is her evidence sworn or unsworn, and is she compellable?
+Hannah (wry): Three questions that sound the same.
+Will: Which is why the exam loves mixing them up. Competence comes first, and it asks only whether the witness can understand questions put to her as a witness and give answers that can be understood. Everyone is competent whatever their age. There is no minimum age.
+Hannah: Only that? So nothing about the oath.
+Will: Nothing about the oath, and that's the trap.
+Hannah (thinking aloud): But if a child doesn't understand what an oath is, surely she's not competent.
+Will: Nope. Understanding the oath decides only whether the evidence is sworn or unsworn. Competence is just understanding the questions and giving answers that can be understood.
+Hannah: Okay. And if somebody says she isn't competent?
+Will: If competence is challenged, the party calling the witness has to prove it, on the balance of probabilities. The jury is absent while that's decided, and the court hears expert evidence if needed.
+Hannah: The calling party proves it, not the challenger.
+Will: The calling party. Now sworn or unsworn. There are two things, and you need both: age 14 or over, and sufficient appreciation of the solemnity of the occasion and the responsibility to tell the truth on oath.
+Hannah: So a 15-year-old who doesn't appreciate that...
+Will: Gives unsworn evidence. And so does any competent witness who can't be sworn, a child under 14 for example.
+Hannah (pleased): So competent doesn't mean sworn.
+Will: Now compellable, which is generally yes. A competent witness can be required to attend, by witness summons for example, and is in contempt if she refuses. But there are three people to watch: D, a co-defendant, and D's spouse. Start with D, who is competent for the defence but not for the prosecution, and who is not compellable in his own defence.
+Hannah (dry): So the prosecution can't call him, and nobody can make him go in the box for himself.
+Will: Right. Next, a co-accused. While he's still a co-defendant, he isn't competent for the prosecution, unless he pleads guilty or the proceedings against him end.
+Hannah: And the spouse, which I'm guessing is where it bites.
+Will: It is. D's spouse or civil partner is competent for the prosecution. But she's compellable for the prosecution, or for a co-accused, only for a specified offence.
+Hannah: And if D calls her?
+Will: Then she's compellable, unless they're jointly charged. That's the look-alike: for D she's compellable, but for the prosecution or a co-accused only for a specified offence.
+Hannah: So what's a specified offence?
+Will: Two kinds. An assault on, or injury or threat of injury to, the spouse or a person under 16. Or a sexual offence against a person under 16. And it also covers attempting, conspiring, aiding, abetting, counselling, procuring or inciting either of those.
+Hannah (teasing): That's a lot of verbs.
+Will (laughing): It is. And the number to pin down is under 16, which is the victim's age at the material time.
+Hannah (wary): So what about an assault on a 17-year-old?
+Will: Not specified. Neither is an assault on another adult. So a spouse isn't compellable for the prosecution there.
+Hannah (groaning): So "assault" isn't the magic word. It's who the victim is.
+Will: Who the victim is. It has to be the spouse or a person under 16, or the offence has to be a sexual offence against a person under 16.
+Hannah (wary): Please tell me that's the end of it.
+Will (amused): One twist left. A spouse who's jointly charged is neither competent for the prosecution nor compellable while she's still liable to be convicted, even for a specified offence. But after a guilty plea, the ordinary spouse rule applies.
+Hannah: Even for a specified offence. Nasty.
+Will: And a last pair. Former spouses are treated as never having been married, so they're ordinary compellable witnesses. Cohabitees aren't covered by section 80 at all, and they're compellable.
+Hannah (thoughtful): So question four. Competent just means understanding questions and giving understandable answers. Sworn adds 14 and the solemnity of the oath. And she's generally compellable, but watch D, a co-defendant and a spouse, and a spouse is compellable for the prosecution only for a specified offence.
+Will (warm): That's the lot. And the two traps: the oath belongs to sworn, not competence, and an assault on a 17-year-old, or on an adult other than the spouse, isn't a specified offence.
+Will (brisk): Last one, question five. She's in the box. How can she be questioned? Start with what makes a question leading. It suggests the answer wanted, or it assumes the existence of a disputed fact.
+Hannah: Like "What was D doing when you saw him at the scene?"
+Will (amused): That's my example, thank you. And yes, it's leading where D's presence is disputed, because it assumes he was there.
+Hannah: Sneaky. So when can you ask one?
+Will: It depends on the stage. In examination-in-chief or re-examination, you can't lead, except on matters not in dispute. That means introductory or formal matters, like name and address, or facts the other side agrees.
+Will: Re-examination also has its own limit: it's limited to matters arising out of cross-examination, and you can't lead there either.
+Hannah: And cross-examination?
+Will: That flips it. Leading is allowed, and usually expected. But you have a job to do: put your client's case on matters the witness can speak to. If you don't, the court can assume the evidence is accepted.
+Hannah (wry): So staying quiet counts as nodding along.
+Will: That's the risk, yes. Now the trap on leading. Suppose counsel asks a leading question in chief and gets an answer.
+Hannah (thinking aloud): Then the answer's inadmissible. It was a bad question.
+Will: Tempting, but no. The answer stays in evidence, but it carries less weight. The remedy is to object to the question, because the evidence isn't inadmissible.
+Hannah: So it isn't thrown out, it's just worth less.
+Will: Yes. Now the last bit, and it's a look-alike pair. Your own witness departs from what you expected, and she's either hostile or merely unfavourable.
+Hannah (brisk): Hostile means she's gone against you. Easy.
+Will (laughing): That's the trap. Hostile isn't about being unhelpful. A hostile witness isn't desirous of telling the truth for the party calling her, and you also need the judge's leave. Two things, and you need both. With leave, that party may cross-examine her, including by leading and by putting a previous inconsistent statement.
+Hannah (sceptical): And if she just contradicts her statement?
+Will: Unhelpful evidence alone makes her unfavourable. She fails to come up to proof, and the calling party cannot cross-examine her or discredit her. It may only call other evidence to contradict her.
+Will (dry): Hostile has a bonus, though. Once her previous inconsistent statement is put and proved, it's evidence of its truth, under section 119.
+Hannah: Ah, so that's where the section 119 from question two shows up.
+Will: Yes.
+Hannah (brisk): So question five. You can't lead in chief or re-examination, except on matters not in dispute. Leading is fine in cross-examination, but you put your case. And hostile needs no desire to tell the truth plus the judge's leave. Otherwise she's only unfavourable.
+Will (pleased): That's the whole witness half. Quick numbers round before exam mode. I say a number, you say what it belongs to.
+Hannah: Go on.
+Will: Four.
+Hannah: The routes in for hearsay: statute, preserved common law, all parties agree, or the interests of justice.
+Will: Five.
+Hannah: The reasons under section 116: dead, unfit, outside the UK, cannot be found, or fear.
+Will: Nine.
+Hannah: The factors for the interests of justice route.
+Will: 14.
+Hannah: The age for sworn evidence, which also needs the solemnity of the oath.
+Will: Under 16.
+Hannah: The victim's age at the material time, for a specified offence.
+Will: And the balance of probabilities?
+Hannah: The standard the calling party has to meet to prove competence, without the jury.
+Will (laughing): Not bad for someone who muddles 125 and 126. <laugh>
+Hannah (mock-outraged): Rude. Accurate, but rude.
+## Exam mode
+Will (brisk): Exam hat on. I give you a scenario, you tell me which question of the map it turns on, and we see where you land.
+Hannah (wry): And I won't fall for anything.
+Will (dry): <short pause> Famous last words. Scenario one. There's a burglary in Kettering. The prosecution relies on an automatic number-plate camera record showing D's car near the scene. It also relies on a note on which a passer-by, Tessa, wrote down the plate and handed it to the police. Which item is hearsay?
+Hannah: That's question one. And both are records of the plate, so both.
+Will: That's the tempting answer. Ask who made the statement, and for what purpose.
+Hannah (thinking aloud): Hmm. No person made the camera record, so it isn't a statement at all. It's real evidence. Tessa's note is a person's statement, and she handed it to the police so that they'd act on it as true. So only the note.
+Will (pleased): Only the note. Now twist it. The prosecution also has a computer log of lorry arrivals, and the drivers typed in the arrival times themselves.
+Hannah: Ah. Then it isn't the never-hearsay machine. A person supplied the information, so it sits on the section 117 business document side, not the machine record side. And because the log's output depends on what the drivers typed, it proves the times only if that information is proved accurate. Section 129.
+Will: That's the second trap on question one. Scenario two. Three years ago, an officer wrote a bystander's description of the robber in his notebook. The bystander, Mr Brennan, attends the trial but genuinely can't recall the description. Is the notebook entry admissible under section 117?
+Hannah: Question two. He's sat right there in court, so no section 116 reason applies, so no.
+Will: Tempting, but it overlooks something. What kind of document is the entry?
+Hannah (groaning): One made for an investigation. So the extra condition applies: a section 116 reason, or the supplier cannot reasonably be expected to remember.
+Will: And Mr Brennan?
+Hannah: Genuinely can't recall, and it's been three years. So yes, if the court finds he cannot reasonably be expected to remember.
+Will: Yes, if the court finds that, and three years' lapse makes that finding likely. The memory alternative is the deciding bit.
+Will (brisk): Scenario three. Mrs Delaney, the victim, gave the police a clear statement while in good health. Before the trial she develops severe dementia and can't testify. The defence argues the statement is barred because she's now incapable. Can the prosecution rely on section 116?
+Hannah (thinking aloud): Question two for the route, but the defence is really playing question three, section 123. So the deciding fact is when the dementia arrived. She's unfit through mental condition, which is a section 116 reason. And section 123 looks at capability when the statement was made, and she was capable then. So yes.
+Will: Yes. Section 123 looks at when the statement was made, while unfitness looks at the trial. The defence confused the two.
+Will (brisk): Scenario four. Dale is charged with assaulting an adult neighbour. His wife Carys and his former wife Bronwen, who he divorced last year, both saw it, and both refuse to testify for the prosecution. Which of them can the prosecution compel?
+Hannah: Question four. It's an assault and they're his wives, so both.
+Will: Assault on whom?
+Hannah (groaning): An adult neighbour. Ah. The victim has to be the spouse or a person under 16, so it's not a specified offence, and Carys isn't compellable for the prosecution. Bronwen is a former spouse, so she's treated as never married, and she's an ordinary compellable witness.
+Will (pleased): So only Bronwen. The tempting answer treats both women alike as "D's wife".
+Will (brisk): Scenario five, two quick ones. A barman will say D leaned over the bar and said, "Hand over the till or I'll hurt you." The prosecution relies on the words only to show they were said. Hearsay?
+Hannah: Repeated words, so hearsay.
+Will: Truth or said?
+Hannah (groaning): Said. It's a threat, so the words are part of the offence, which makes them original evidence, admissible if relevant.
+Will: Next, the police find texts from people asking D for drugs, and the prosecution says they prove he's a dealer.
+Hannah: Not hearsay that D is a dealer. The senders didn't intend anyone to believe that he deals.
+Will (brisk): Scenario six. The prosecution wants to read out statements from two people. Rhys now lives in Portugal, and the court could arrange a live link. Imogen has vanished, and nobody has taken any steps to find her. Section 116?
+Hannah (thinking aloud): Outside the UK counts only if attendance isn't reasonably practicable, and a live link may make it practicable. So Rhys fails if he could reasonably attend. Cannot be found counts only if reasonably practicable steps were taken to trace her, and nobody tried, so Imogen fails.
+Will: Right. Abroad and missing aren't enough on their own.
+Will (brisk): Scenario seven. The defence relies on hearsay, and the prosecution says section 78 of PACE should keep it out.
+Hannah: Section 78 reaches only prosecution evidence, so it can't be used against defence hearsay. Section 126 covers either party.
+Will: Scenario eight. A jury trial. The prosecution has closed its case, and part of it rests on admitted hearsay that is so unconvincing that, given its importance, a conviction would be unsafe. Which safeguard?
+Hannah: Section 125, not 126, because the hearsay is already in. The judge must direct an acquittal, or discharge the jury if a retrial is appropriate. And it isn't about contamination. That's section 107.
+Will (pleased): Good.
+Will (brisk): Scenario nine. A 15-year-old understands every question and gives clear answers, but doesn't appreciate the solemnity of the oath. Competent? Sworn?
+Hannah: Competent, because she can understand questions and give answers that can be understood. Not sworn, because she lacks the appreciation, so her evidence is unsworn.
+Will: Scenario ten. D and his wife Ffion are jointly charged with assaulting a child under 16, and the prosecution wants to call her. Compellable?
+Hannah (groaning): It's a specified offence, which matters for a spouse, but they're jointly charged. So she's neither competent for the prosecution nor compellable while she's still liable to be convicted, even for a specified offence. If she pleads guilty, the ordinary spouse rule applies, and then she'd be compellable for a specified offence.
+Will (brisk): Last scenario. The prosecution calls Joy, who told the police she saw D with a knife. In the box she says she saw no knife. She's plainly doing her best to tell the truth. She's just no help to the prosecution, which wants to cross-examine her with her statement. Can it?
+Hannah: She's contradicted her statement, so she's hostile.
+Will: Is that enough?
+Hannah (groaning): No. Hostile needs no desire to tell the truth, plus the judge's leave. She's trying to tell the truth, so she's only unfavourable. The prosecution can't cross-examine or discredit her. It can only call other evidence to contradict her.
+Will: And if she showed no desire to tell the truth for the prosecution, and the judge gave leave?
+Hannah: Then she's hostile, and the prosecution may cross-examine her, leading and putting her statement. Once it's put and proved, it's evidence of its truth.
+Will (warm): Quick-fire to finish. A witness is too frightened to give evidence. Does section 116 need leave?
+Hannah: Yes. Fear alone needs the court's leave, given only in the interests of justice. No other reason needs it.
+Will: Does the court run all nine section 114 factors for a section 116 application?
+Hannah: No. They apply only where no gateway fits.
+Will: Counsel leads in chief on a disputed fact and gets an answer. Inadmissible?
+Hannah: No. It stays in evidence, with less weight, and the remedy is to object.
+## Recap
+Will (warm): Right, the map one more time. Five questions, in order.
+Hannah (brisk): One, is it hearsay at all? Only if it's relied on for the truth of what it states. Words relied on only to show they were said are original evidence.
+Will: Two, which route lets it in? Four routes: statute, preserved common law, all parties agree, or the interests of justice. And abroad or missing counts only if attendance isn't reasonably practicable, or reasonably practicable steps failed to find her.
+Hannah: Three, can a safeguard shut it out? Section 126 refuses admission. Section 125 stops a jury trial when admitted hearsay is so unconvincing that a conviction would be unsafe. And section 78 PACE covers prosecution evidence only.
+Will: Four, is the witness competent, sworn and compellable? Competence needs only understanding questions and giving answers that can be understood. Sworn also needs age 14 and the solemnity of the oath. And a spouse is compellable for the prosecution only for a specified offence.
+Hannah (thoughtful): Five, how may she be questioned? Leading is allowed in cross-examination, but not in chief or re-examination except on matters not in dispute. A hostile witness shows no desire to tell the truth and needs the judge's leave. Otherwise she's only unfavourable.
+Will (warm): Work through five questions in order: is it hearsay, which route lets it in, can a safeguard keep it out, stop the case or let the other side attack the absent maker, is the witness competent, sworn and compellable, and how may she be questioned.

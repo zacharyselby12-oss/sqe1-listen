@@ -291,6 +291,37 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/wae-ws07-7a36d822.mp3",
       "pubDate": "2026-10-22T09:34:09+00:00"
+    },
+    {
+      "id": "clp-ws07",
+      "unitId": "u-bpp-CLP-07",
+      "title": "CLP WS07 · Hearsay and witnesses",
+      "guideHash": "5df94e6f13",
+      "script": "scripts/clp-ws07.txt",
+      "scriptHash": "9e81a56b4994",
+      "audio": "audio/clp-ws07.mp3",
+      "recap": [
+        "Hearsay only if relied on for the truth of what it states; words used only to show they were said are original evidence.",
+        "Four routes in: statute, preserved common law, all parties agree, or interests of justice; abroad or missing counts only if attendance is not reasonably practicable or reasonable steps failed.",
+        "Section 126 refuses admission, section 125 stops a jury trial when unconvincing hearsay would make a conviction unsafe, and section 78 PACE covers prosecution evidence only.",
+        "Competence needs only understanding questions and giving understandable answers; sworn also needs age 14 and the solemnity of the oath; a spouse is compellable for the prosecution only for a specified offence.",
+        "Leading is allowed in cross-examination but not in chief or re-examination except on matters not in dispute; a hostile witness shows no desire to tell the truth and needs the judge's leave, otherwise she is only unfavourable."
+      ],
+      "map": [
+        "Is it hearsay at all?",
+        "Which route lets it in?",
+        "Can a safeguard keep it out, stop the case or let the other side attack the absent maker?",
+        "Is the witness competent, sworn and compellable?",
+        "How may the witness be questioned?"
+      ],
+      "summary": "Work through five questions in order: is it hearsay, which route lets it in, can a safeguard keep it out, stop the case or let the other side attack the absent maker, is the witness competent, sworn and compellable, and how may she be questioned.",
+      "madeAt": "2026-10-22T10:35:03+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes, 5 fixes); verify: header summary made identical to the checked closing line",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
