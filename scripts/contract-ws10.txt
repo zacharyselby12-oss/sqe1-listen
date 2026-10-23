@@ -1,0 +1,299 @@
+---
+id: contract-ws10
+unit: u-bpp-Contract-10
+guide_hash: 0843360e3c
+made: 2026-10-23T09:04:26+00:00
+title: Contract WS10 · Penalties and Equitable Remedies
+map:
+- Agreed sum: valid or penalty?
+- Positive promise: specific performance?
+- Negative promise: injunction?
+- Indemnity or guarantee, and what's covered?
+- Guarantee: is it enforceable?
+- Guarantee: is the guarantor still bound?
+recap:
+- A valid agreed sum is paid without proof of loss, and no more; it is a penalty only if triggered by breach and out of all proportion to a legitimate interest.
+- Specific performance only where damages are inadequate, and specific goods are not enough if they can be bought on the market.
+- A clear negative promise is ordinarily enforced by injunction without asking if damages are adequate, even in personal services if it does not in effect compel work.
+- Indemnity or guarantee is decided by substance: liable only if another defaults means a guarantee.
+- A guarantee needs signed writing, consideration or a deed, a valid principal obligation, and a default.
+- A material variation without the guarantor's consent discharges the guarantor unless it is plainly insubstantial or incapable of prejudicing them. A binding agreement for extra time or release of the debtor also discharges the guarantor, and lost security discharges to the extent of the loss, but a clear preserving clause keeps the guarantor liable despite variations and indulgences.
+summary: Valid agreed sums are paid and penalties fall away, specific performance needs inadequate damages, clear negative promises ordinarily get injunctions, and indemnity or guarantee is decided by substance, with guarantees needing writing and consideration or a deed.
+invented:
+- Keith
+- Nadia
+- Thistle Couriers
+- Ferris Motors
+- Tomasz
+- The Salt House
+- Norwich
+- Ian
+- Beth
+- Helen
+---
+## Rule
+Will (warm): Right, Hannah. A client's supplier has broken their contract, which names a sum they must pay. Their solicitor writes back: "that's a penalty, you can't enforce it."
+Hannah (wary): Is it, though?
+Will (amused): You'd need to know that. And maybe the client wants the job done, or stopped, not money. Or someone promised to cover the debt, and now says they're not liable.
+Hannah (dry): Okay, so what does the law actually give you?
+Will (pleased): Six questions, always in this order. One: is the agreed sum valid, or a penalty? Two: can the court order a positive promise performed? Three: can it stop a negative promise with an injunction?
+Hannah: Money, make them do it, make them stop.
+Will: Then promises to cover someone else's liability. Four: indemnity or guarantee, and what does an indemnity cover? Five: is the guarantee enforceable? Six: is the guarantor still bound?
+Hannah (brisk): Sum, perform, stop, indemnity or guarantee, enforceable, still bound.
+Will: And the first three have an order of play. Once breach is shown, you check any agreed-sum clause first. If it's valid, the claimant recovers the agreed sum. If it's a penalty, the claimant claims ordinary damages.
+Hannah: And if damages aren't enough?
+Will: Then specific performance for a positive term, or an injunction for a negative one. And if the court refuses either, it may award damages in lieu.
+Hannah (thinking aloud): Ah, damages in lieu is the fallback when the court says no.
+Will: Right. Question one, then.
+Will (warm): Is there an agreed-sum clause, and does it stand? Think of a clause that says "break this and you pay that sum." If it's valid, the claimant recovers the agreed sum without proving any loss. If it's a penalty, it's unenforceable, and the claimant has to prove its actual loss, as ordinary damages.
+Hannah: Why does it matter which? I get money either way.
+Will: Because the amounts can be miles apart. A valid clause pays the agreed sum, and here's the sting: the claimant is limited to—
+Hannah (wry): It, even if its loss turns out greater. Ha, it cuts both ways. No proof needed, but no topping up either.
+Will: That's Cellulose Acetate Silk against Widnes Foundry. And it has a look-alike, a limitation clause. Both cap what you recover, but a sum set below the likely loss may operate as a limitation of liability.
+Hannah: And unliquidated damages are just the ones where you have to prove the loss.
+Will: That's it. So ask: is there a valid agreed-sum clause for this breach? If so, recover the sum without proof. If not, or if it's penal, prove the loss.
+Will (brisk): So when is it a penalty? Three steps, and it's a penalty only if it gets through all three. Step one: is the sum triggered by a breach between the parties? That's what makes it a secondary obligation. If it's a primary obligation, the penalty rule doesn't apply at all.
+Hannah: So no breach, no penalty rule.
+Will: That's right. Cavendish against Makdessi gives the things outside it: a price or consideration adjustment, a fee for exercising an option to terminate, or a sum payable on a non-breach event. And drafting a payment as primary takes it outside the rule.
+Hannah (sceptical): Then an early-termination fee must be a penalty waiting to happen.
+Will (dry): That's the tempting wrong answer. If the fee is paid for exercising a right to terminate, not for breaching, it's outside the rule. So ask: was the payment triggered by exercising a right, or by a breach?
+Hannah (wary): Is it only about paying money?
+Will: No. The rule can also catch a clause requiring the contract-breaker to transfer property, or forfeit sums otherwise due.
+Will: Step two: what legitimate interest does the innocent party have in the primary obligation being performed? And it may go beyond compensation. That's ParkingEye against Beavis: a deterrent sum, or one that isn't a pre-estimate, is not necessarily penal.
+Hannah (thinking aloud): Oh, I see. If the clause protects something wider than the loss, like managing a car park, the sum can be bigger than the loss and still stand.
+Will: You've got it. Step three: is the detriment out of all proportion to that interest? And you judge that at the contract date.
+Hannah: So it's a penalty only if the sum is triggered by breach and out of all proportion to a legitimate interest, judged when the contract was made.
+Will (pleased): That's the whole rule. And there's a helpful presumption: where commercial parties of comparable bargaining power negotiated freely with legal advice, there's a strong presumption that they were the best judges of what is legitimate.
+Hannah (teasing): Well, the lawyers did their job.
+Will (amused): <laugh> Fair. And the contract date matters for the next look-alike too: penalty status at the contract date, versus actual loss at the breach. Validity looks only at the contract date. The actual loss matters only if the clause is penal.
+Hannah: Even if the real loss turns out smaller, a valid clause still pays in full.
+Will (warm): Regardless of the actual loss, yes. Remember that one for the exam.
+Will (thoughtful): Now the older test, for a straightforward damages clause. A genuine pre-estimate of the likely loss is not penal. That's Dunlop against New Garage.
+Hannah: And how does it help me spot a penalty?
+Will: The older guidelines give three warning signs of a likely penalty, and any one of them is enough to raise the flag. The first is a sum that's extravagant and unconscionable compared with the greatest conceivable loss.
+Hannah (teasing): Is the next one about debts? The sum is bigger than what you actually owe?
+Will: Yes: where the breach is a failure to pay money, a sum larger than the sum owed is a likely penalty. And the third?
+Hannah (thinking aloud): One lump sum whether the breach is big or tiny?
+Will: Spot on: a single lump sum payable on several events, some serious and some trivial, is a likely penalty.
+Hannah: Okay, a pre-estimate is safe for a simple damages clause, but a sum above the loss isn't automatically a penalty.
+Will: That's the look-alike, genuine pre-estimate versus Makdessi. Where a wider interest exists, a sum above the loss may still be valid. So the trap is calling it a penalty merely because it exceeds a genuine pre-estimate. The test is legitimate interest and proportionality.
+Will: Who has to prove a penalty? The party alleging it, usually the contract-breaker. And if they succeed, the clause is unenforceable, and it isn't rewritten.
+Hannah (sceptical): Not trimmed to something reasonable?
+Will (deadpan): No, and that's where people slip. The clause falls away entirely, and the claimant proves its actual loss as ordinary damages, subject to remoteness and mitigation.
+Hannah (dry): No tidying-up service, then.
+Will (amused): None. One timing point for a valid clause: if the contract is terminated before the work is completed, liquidated damages accrue up to termination, and later losses are recovered as general damages.
+Will: Last two bits: deposits, then consumers. A true deposit, an earnest of performance, is normally forfeited on the payer's breach and isn't a penalty, but only if it's reasonable. That's Workers Trust.
+Hannah: Is there a number for reasonable?
+Will: For land, the customary level is 10 per cent. A deposit above the customary level needs special circumstances. Without them it's not a true deposit, so the payee can't keep it and claims its actual loss.
+Hannah: And if the defaulting buyer of land wants it back?
+Will: It's normally forfeited. But the court may order it repaid where justice requires, under section 49, subsection 2, of the Law of Property Act, and it uses that discretion sparingly.
+Hannah (dry): "Sparingly" is doing a lot of work there.
+Will (deadpan): It is.
+Will (deadpan): Consumers. In a consumer contract you also apply the Consumer Rights Act grey list and section 62. A disproportionately high sum payable by a consumer who fails to perform is on the grey list and may be unfair, in addition to the penalty rule.
+Hannah: That's the look-alike pair, then: penalty rule versus fairness. First ask whether the payer is a consumer. If so, the sum faces both tests.
+Hannah (thoughtful): So question one, in my own words: a valid sum is paid without proof, and no more. It's only a penalty if it's triggered by breach and out of all proportion to a legitimate interest, and then it falls away and you prove your actual loss.
+Will (warm): That's it.
+Will (warm): So that's money. Question two: sometimes money's the wrong answer. A buyer has agreed to buy one particular house, and the seller backs out. Money won't give her that house. Will the court order the promise performed? That's specific performance, for positive obligations. In one breath: it's equitable and discretionary, and it's granted only where damages are inadequate.
+Hannah: Everything hangs on whether damages are inadequate, then.
+Will: That's the gate. Five checks. Is a positive obligation breached or threatened? Are damages inadequate? Then two kinds of bar, category bars and equitable bars, and any one bar can block the order. And last, damages in lieu if it's refused.
+Hannah: Where do you find inadequate damages?
+Will: Three places, and any one will do: land, unique goods, or a promisee whose own loss is nominal.
+Hannah: Land first, I'd bet.
+Will: It's the usual case, because land is treated as unique. And the remedy is available to the seller as well as the buyer.
+Will (wry): Goods are the trap. Under section 52 of the Sale of Goods Act, the court may order it for specific or ascertained goods, but only if they're unique, of special value or not obtainable elsewhere. It's refused for ordinary market goods.
+Hannah (thinking aloud): Well, if the goods are identified, that's enough.
+Will: That's the tempting answer. Specific or ascertained isn't enough on its own. If the goods can be bought on the market, it's refused.
+Will: Third place: where the promisee's own loss is nominal, for example a promise to pay a third party. That's Beswick against Beswick: the promisee, or its personal representative, can enforce it.
+Hannah: Right, that's the gate. What about the bars?
+Will: Four category bars: personal services, constant supervision, a volunteer, and lack of mutuality. Personal services is the famous one. There's no specific performance of employment or personal services, and under section 236 of the Trade Union and Labour Relations Consolidation Act, no court may compel an employee to work, by specific performance or by injunction.
+Hannah: And the other way round, the employer?
+Will: Courts won't normally force an employer to employ someone either.
+Hannah (amused): Constant supervision sounds like the court turning into a babysitter.
+Will (laughing): A bit. It's not normally ordered where it needs constant supervision, for example carrying on a business over a long period, such as a keep-open covenant. That's Argyll. An order to achieve a clearly defined result is more likely than an order to carry on an activity.
+Will: And building or repair work may be ordered only if all three things line up: it's clearly defined, damages are inadequate, and the defendant is in possession, so the claimant can't employ another builder.
+Hannah: Then a volunteer.
+Will: Equity will not assist a volunteer, so there's no specific performance of a gratuitous promise, even one made by deed.
+Hannah (incredulous): Even by deed?
+Will (deadpan): <short pause> Even by deed.
+Will: Lack of mutuality is the fiddly one. The order may be refused where the claimant's own unperformed obligations could not be specifically enforced. That's Price against Strange. But mutuality is judged at the date of the hearing, and the bar falls away once the claimant has performed, or if the defendant can be adequately protected.
+Hannah: Right, so if by the hearing the claimant has performed, or the defendant can be adequately protected, the bar's gone.
+Will: Quite. Then five equitable bars, and again any one can block the order. Unclean hands, which is the claimant's own inequitable conduct. Delay, which is laches. Can you guess the rest?
+Hannah: Hardship, surely. And something about mistakes?
+Will: Severe hardship that makes an order unjust, yes, and the claimant taking advantage of the defendant's mistake. Then vague terms.
+Hannah (wary): Hardship sounds like it should always win.
+Will (wry): Careful. Hardship arising after the contract counts only exceptionally. That's Patel against Ali. So not every hardship to the defendant bars the order.
+Will: Last check: if the order's refused, damages in lieu, under section 50 of the Senior Courts Act. They may be awarded in addition to or instead of specific performance, including for future loss, where the court has jurisdiction but declines to order it.
+Hannah: How's that different from ordinary damages?
+Will: That's the look-alike, common law damages. Damages in lieu need jurisdiction to grant the equitable remedy, and may cover future loss.
+Hannah: Jurisdiction, then. That's the word to hold on to.
+Will: Mm. One more twist: if the defendant ignores the order, the claimant may have it discharged, treat the contract as terminated and claim damages. That's Johnson against Agnew, and it's the look-alike with election to affirm. Obtaining the order is not an irrevocable election.
+Hannah (thoughtful): Right: damages have to fall short, a bar can stop the order, and if it's refused, damages in lieu may still be on the table.
+Will (pleased): Nicely put.
+Will (warm): Question three: the other kind of promise, a negative one. Say someone promised not to build on a strip of land, and starts digging foundations. A prohibitory injunction restrains a party from doing what it promised, expressly or by necessary implication, not to do.
+Hannah: Ah, an order to stop doing the thing you promised not to do.
+Will: That's it. And for a clear negative stipulation, it's ordinarily granted, without asking whether damages are adequate or weighing the balance of convenience. That's Doherty against Allman.
+Hannah (incredulous): Without asking if damages are adequate? That's backwards from specific performance.
+Will: That's the look-alike, and the trap. For a positive term, you get specific performance only if damages are inadequate. For a clear negative term, the injunction is ordinarily granted. So "the claimant must show damages are inadequate" is the specific performance test, not the test for a negative term.
+Hannah (sceptical): Ordinarily, though. Not always.
+Will: Ordinarily, yes. It stays subject to the equitable bars: delay, acquiescence, unclean hands and oppression.
+Hannah (wary): Does the promise have to be broken already?
+Will: No. It's enough that the defendant has broken, or threatened to break, a clear negative stipulation, express or necessarily implied.
+Will: The guide has six checks here, and which ones apply depends on the kind of injunction: prohibitory, personal services, restraint of trade, mandatory, damages in substitution, and interim.
+Hannah: Personal services again. We just said you can't make people work.
+Will: You can't compel it. But an injunction is granted only if it doesn't in effect compel performance, for example where the defendant can still earn a living another way. That's Warner Bros against Nelson. So it isn't refused just because the contract is for personal services.
+Hannah: And when is it refused?
+Will: If the only realistic choice is to work for the claimant or be idle, or if mutual trust and confidence has broken down. That's Page One Records against Britton. So the look-alike question is: can the defendant still earn a living another way without working for the claimant?
+Will: Restraint of trade: only a valid restraint can be enforced, meaning it's reasonable and protects a legitimate interest. A void restraint supports neither an injunction nor damages.
+Hannah (groaning): <sigh> Neither. Ouch.
+Will: Now mandatory injunctions. A prohibitory one stops an act. A mandatory one orders a positive act, such as removing a building put up in breach of a covenant. It's granted cautiously, weighing the benefit to the claimant against the detriment to the defendant. The court is more willing if the defendant acted flagrantly, or with notice of the claimant's objection.
+Hannah: Building after you've been told to stop makes it likelier you'll have to pull it down, then.
+Will: That's the idea. Then damages in substitution, under section 50 again. They may be awarded where the injury is small, estimable in money and compensable by a small payment, and an injunction would be oppressive. That's Shelfer.
+Hannah: All of those together?
+Will: All four. And the guidelines are applied flexibly, with damages often assessed on a negotiating basis.
+Will: Last, interim injunctions. That's the look-alike with a final injunction: if it's pending trial, American Cyanamid applies, and the claimant gives a cross-undertaking.
+Hannah: And what does American Cyanamid ask?
+Will: Three questions, in order. Is there a serious question to be tried? Would damages adequately protect the claimant, and would the cross-undertaking adequately protect the defendant? And where does the balance of convenience lie? If it's evenly balanced, preserve the status quo.
+Hannah: What's the cross-undertaking, exactly?
+Will: The claimant normally gives a cross-undertaking in damages, and that's what the court weighs for the defendant.
+Hannah (sceptical): Does the court ignore the merits, then?
+Will: That's the one that catches people. Where trial will come after a short covenant expires, the court also considers the likely outcome at trial.
+Hannah (thoughtful): So for a clear negative promise, an injunction is ordinarily granted, and nobody asks if damages are adequate.
+Will (warm): And in personal services, only if it doesn't in effect compel work.
+Will (warm): Question four. Court orders are done. Now, promises to cover someone else. A friend tells a lender, "if he doesn't pay, I will." Or, "I'll see you paid, whatever happens." They sound alike, but they're different. The rule is: classify by substance, not label.
+Hannah: How do I tell which is which?
+Will: Is the promisor liable whether or not anyone else defaults? Then it's an indemnity, which is primary. Liable only if the debtor defaults? Then it's a guarantee, which is secondary.
+Hannah (pleased): Easy. If the document says "I indemnify you", it's an indemnity.
+Will: <short pause> That's the trap. If liability still depends on the other person's default, it's a guarantee whatever word is used, and it needs writing. "If he doesn't pay, I will" is a guarantee. "I will see you paid in any event" is an indemnity.
+Hannah (wary): Does it matter, if both make me pay?
+Will: A lot. That's the look-alike. A guarantee is secondary, it needs writing, and it—
+Hannah (thinking aloud): Falls with the principal obligation?
+Will: It does. And an indemnity is primary, needs no writing, and survives the invalidity or unenforceability of the principal transaction.
+Will (thoughtful): There are six checks for an indemnity, and that classification is the first. The last two only bite in particular cases. An indemnity is a promise to hold harmless against a specified loss or liability, and the liability is primary and independent: it needs no one else's default and no other valid contract.
+Hannah: Nothing else has to go wrong, then.
+Will: Nothing at all. And the claim is on the promise to indemnify, not for breach, so no breach, of warranty for example, has to be proved.
+Hannah: Which is why buyers like them.
+Will: And with reason. Depending on the wording, remoteness, mitigation and disclosure against warranties may not limit recovery in the same way as for damages. That's the look-alike with a damages claim for breach of warranty, and it's why buyers seek indemnities for known risks rather than relying on warranty claims.
+Will: Checks two and three are simple: does the loss fall within the wording, and was it caused by the indemnified event?
+Hannah: And four?
+Will: Strict construction. Indemnities are construed strictly against the party relying on them, as exclusion clauses are.
+Hannah: No benefit of the doubt for whoever's relying on it, then.
+Will: None. An indemnity can cover loss caused by a third party, or by the indemnified party's own conduct if the words are clear enough. But its own negligence is covered only if that's express, or clear words leave no other realistic liability to cover. That's Canada Steamship.
+Hannah: Then if you want cover for your own negligence, say so.
+Will: Expressly, yes, or in clear words where there's no other realistic liability to cover.
+Will (dry): Check five is the UCTA trap. An indemnity against the business's own liability to the same party, for its own negligence for example, operates as an exclusion, so UCTA applies. That's Phillips Products against Hyland. So it isn't outside UCTA just because it's called an indemnity.
+Hannah: But some indemnities must be safe from it.
+Will: An indemnity that simply allocates between the parties the risk of third party claims isn't treated as an exclusion clause. So ask whose claim is covered: the other party's own claim against the business, or a third party's?
+Hannah: Their own claim, it's treated as an exclusion. A third party's claim, it isn't.
+Will: Check six: a demand guarantee or performance bond, often given by a bank. It's primary, so the bank pays on a compliant demand, with no proof of breach or loss. That's Edward Owen Engineering against Barclays Bank. The bank can refuse only for clear fraud of which it has knowledge.
+Hannah: Unlike an ordinary guarantee, where you have to show the debtor's default.
+Will: That's the look-alike, yes.
+Hannah (thoughtful): So question four: substance beats label, and an indemnity is primary.
+Will (pleased): And if it covers the business's own liability to the same party, it's an exclusion.
+Will (warm): Question five. So it's a guarantee: a promise to answer for the debt, default or miscarriage of another. Picture a lender suing the guarantor, who answers, "show me the writing."
+Will: A guarantor's liability is secondary and co-extensive: it arises only on default, and only to the extent the debtor is liable. To enforce it, there are four checks, and it has to pass all four. The first is the one that guarantor just asked for.
+Hannah: Writing.
+Will: Signed writing, yes. Under section 4 of the Statute of Frauds, no action lies unless the guarantee, or a note or memorandum of it, is in writing and signed by the guarantor or someone it authorised. An oral guarantee is unenforceable, not void.
+Hannah (amused): Does an email count?
+Will: A typed name at the end of an email can be a signature. But an email address inserted automatically by the system is not.
+Hannah: And if there's no writing, but the creditor relied on the promise?
+Will: Estoppel can overcome the lack of writing, but reliance alone isn't enough.
+Hannah: What is enough, then?
+Will: At least a representation by the guarantor that it would honour the guarantee despite no writing, or that it was in writing. That's Actionstrength, and it's the look-alike with promissory estoppel: for a guarantee, reliance alone is not enough.
+Will: The second check is consideration from the creditor, or a deed. Consideration is usually making or continuing the advance, or forbearing to sue. But a guarantee of a loan already made, with nothing fresh given, rests on past consideration, so it's unenforceable unless made by deed.
+Hannah (teasing): But if it's signed and in writing, that's enough.
+Will: That's the other classic slip. Writing satisfies section 4, but consideration, or a deed, is still needed. Only a deed escapes the need for fresh consideration, and writing alone doesn't.
+Will: Third check: is the principal obligation valid, enforceable and undischarged? If it's void, unenforceable or discharged, the guarantor isn't liable, unless there's an indemnity or principal debtor clause.
+Hannah: Any exceptions?
+Will: Two. A guarantee of a minor's unenforceable contract is still enforceable against the guarantor, under section 2 of the Minors' Contracts Act. And the debtor's discharge from bankruptcy doesn't release the guarantor, under section 281, subsection 7, of the Insolvency Act.
+Hannah: Fourth is default, presumably.
+Will: Yes: has the debtor defaulted, and has any demand or step the guarantee requires been taken? The creditor need not pursue the debtor first. The guarantor is liable on default, unless the guarantee requires a demand or other step. So "you didn't sue the debtor first" is not a defence.
+Hannah: And a guarantor who promises the debtor will perform?
+Will: A guarantor who promises to see that the debtor performs is liable in damages, including where the creditor accepts the debtor's repudiation and terminates.
+Will: One more for enforceability. A guarantee or indemnity securing a regulated consumer credit agreement must be in writing, in the prescribed form and signed by the surety, and the surety must get copies. Otherwise it's enforceable only by court order. That's section 105 of the Consumer Credit Act.
+Hannah (thoughtful): So question five: secondary, co-extensive, and four checks to pass: signed writing, consideration or a deed, a valid principal obligation, and a default.
+Will (warm): And signed writing alone doesn't get you there.
+Will (warm): Question six. The guarantee is valid and the debtor has defaulted. But is the guarantor still bound? Picture the bank and the company quietly changing the loan terms, and nobody telling the guarantor.
+Hannah: That sounds like it ought to matter.
+Will: It does. A material variation of the principal contract without the guarantor's consent discharges the guarantor, unless it's plainly insubstantial or—
+Hannah: Incapable of prejudicing the guarantor?
+Will: Right. That's Holme against Brunskill.
+Hannah: What else gets the guarantor off?
+Will: Four ways to be discharged, and any one is enough: a material variation, a binding agreement to give the debtor extra time to pay, release of the principal debtor, or loss of security.
+Hannah (wary): Is the security one all-or-nothing?
+Will: No. The creditor's release or loss of security discharges the guarantor to the extent of the loss.
+Hannah (sceptical): That's a lot of ways out. Can the bank write around them?
+Will: For variations and indulgences, yes. A clear preserving clause, also called an indulgence clause, keeps the guarantor liable despite them. That's the look-alike: a binding agreement to give time discharges, but an indulgence covered by a preserving clause doesn't. So ask: is there a clear clause preserving liability?
+Will: Then there's setting it aside, by two routes, and either will do. One is an undisclosed unusual feature: the creditor must disclose any unusual feature of its arrangements with the debtor that makes them materially different from what the guarantor would naturally expect.
+Hannah (wary): Everything, or just the odd stuff?
+Will: Just that. There's no general duty of disclosure, because a guarantee is not a contract of the utmost good faith. The other route: a guarantee obtained by misrepresentation or undue influence of which the creditor has notice can be set aside. That's Etridge, and the guide deals with non-commercial sureties separately.
+Will: What about a continuing guarantee? It covers a series of transactions or a fluctuating balance, an overdraft for example, up to any cap. The look-alike is a specific guarantee. And unless the guarantee provides otherwise, the guarantor can end liability for future advances by notice, staying liable for debt already incurred.
+Hannah: Notice stops the future, not the past.
+Will: Yes, future advances only.
+Will (warm): And a guarantor who pays has three rights. They're indemnified by the principal debtor. They're subrogated to the creditor's rights and any securities held for the debt, under section 5 of the Mercantile Law Amendment Act. And they can claim contribution from co-guarantors, in equal shares, unless otherwise agreed or the guarantees have different maximum amounts.
+Hannah (dry): Give me an example.
+Will: Say three directors guaranteed a company debt of £90,000, and one of them pays it all.
+Hannah: He recovers an indemnity from the company, and contribution from the other two directors in equal shares.
+Will: Unless otherwise agreed, or the guarantees have different maximum amounts.
+Hannah (thoughtful): So question six: a material variation without the guarantor's consent discharges them unless it is plainly insubstantial or incapable of prejudicing them. A binding agreement for extra time or release of the debtor also discharges them, lost security discharges them to the extent of the loss, and a clear preserving clause keeps them liable despite variations and indulgences.
+Will (pleased): And it can be set aside for an undisclosed unusual feature, or for misrepresentation or undue influence the creditor had notice of.
+Will (brisk): Quick numbers round before exam mode. The first is 10 per cent: that's the customary deposit on a sale of land, and it's normally forfeited on the buyer's breach. A higher deposit needs special circumstances, or the seller can't keep it.
+Hannah: And 10 per cent again, for the defaulting buyer asking for it back. It's normally forfeited, but the court may order repayment where justice requires, sparingly.
+Will: Sparingly, doing all that work again.
+Will: And £90,000?
+Hannah (teasing): Three directors, one pays the lot. He gets an indemnity from the company, and contribution from the other two in equal shares.
+Will: Unless otherwise agreed, or the guarantees have different maximum amounts.
+## Exam mode
+Will (brisk): Exam hat on. Five scenarios, and you tell me which question of the map each one turns on.
+Hannah: Go on.
+Will: One. Keith is a builder and Nadia is a developer, and both are legally advised. They agree that Keith pays £5,000 for each week of late completion, a figure based on Nadia's expected lost rent. Completion is four weeks late, but Nadia finds tenants quickly and loses only £3,000. What can she recover?
+Hannah (thinking aloud): That's question one, the agreed sum. And... £3,000, surely? That's what she actually lost, and £20,000 for a £3,000 loss smells like a penalty.
+Will: That's the tempting turn. Validity is judged at the contract date, not by what happened later. When they signed, both legally advised, the clause proportionately protected a legitimate interest, and the figure was based on her expected lost rent. So it's valid, and a valid clause pays the agreed sum regardless of the actual loss.
+Hannah (groaning): <sigh> So £20,000. I looked at the loss, not the contract date.
+Will (warm): Everybody does. And if a court had found it was a penalty?
+Hannah (dry): Then it falls away entirely, with no tidying-up service, and she'd have to prove her actual loss as ordinary damages.
+Will: Right. Two. Thistle Couriers agrees to buy one particular used van, identified by its registration number, from a dealer called Ferris Motors, for £18,000. Before delivery, Ferris sells it to someone else. Several near-identical vans are advertised locally at similar prices. Can Thistle get specific performance?
+Hannah (pleased): Question two. It's a specific van, so section 52 applies. Yes.
+Will: <short pause> Section 52 gives the court jurisdiction over specific goods, but that's not enough. Look for the deciding fact.
+Hannah (thinking aloud): The near-identical vans on sale locally. They could just buy another, so the market price compensates fully.
+Will: Which means damages are adequate and the van isn't unique. No.
+Hannah (dry): Specific is where it starts, not where it finishes.
+Will (pleased): Good. And if nobody else had vans like that?
+Hannah: Then it would be not obtainable elsewhere, so the goods test is met, and you'd go on to check the bars.
+Will: Three. Tomasz has a two-year contract with a restaurant called The Salt House, and it says he won't cook for any other restaurant in Norwich. Halfway through, he leaves to cook at a rival Norwich restaurant. He could readily teach cookery or cook outside Norwich. Which order is The Salt House most likely to obtain?
+Hannah (wary): It's personal services, so no order at all?
+Will: Half right. Specific performance of personal services is barred, so they can't force him back. But this is question three, a negative promise.
+Hannah: So an injunction stopping him cooking for other Norwich restaurants?
+Will: Yes, and it's allowed because he can still earn a living in other ways, so it doesn't in effect force him to work for The Salt House.
+Hannah (thinking aloud): And if his only realistic choice was to cook for them or be idle?
+Will (pleased): Then it's refused.
+Will: Four. Over the phone, Ian tells a lender, "I indemnify you: if Beth doesn't repay the loan, I'll pay it." Nothing is put in writing, and Beth defaults. Can the lender enforce Ian's promise?
+Hannah: He said indemnify, and indemnities need no writing. So yes.
+Will: There's the label trap again. This is question four. Ian is liable only if Beth defaults, so his promise is secondary. It's a guarantee, whatever he called it, and guarantees need signed writing. So no, it's unenforceable.
+Hannah (wry): The word "indemnify" didn't change the substance.
+Will: And if he'd said "I'll see you paid in any event"?
+Hannah (relieved): Then it's an indemnity, and no writing's needed.
+Will (brisk): Five. When her company borrowed from a bank, Helen signed a written guarantee of the loan. The guarantee has no clause about later changes. A year later, the bank and the company agree to double the interest rate. Nobody asks Helen. The company then defaults. Is Helen liable?
+Hannah (teasing): It's in writing and supported by consideration, so yes.
+Will: That clears question five, but this one turns on question six. What happened after she signed?
+Hannah (thinking aloud): They doubled the interest rate without asking her. That's a material variation that could prejudice her.
+Will: And there's no preserving clause, so she's discharged. Discharge works after the guarantee was validly given.
+Hannah (thoughtful): And a clear preserving clause would have kept her liable.
+Will: Yes. Last drill: I say a point, you say which question. Cross-undertaking.
+Hannah: Three, the interim injunction.
+Will: Early-termination fee.
+Hannah: One. Was it triggered by exercising a right, or by a breach?
+Will: Bank paying on a compliant demand.
+Hannah: Four, the bond. Primary, unlike an ordinary guarantee.
+Will: A typed name at the end of an email.
+Hannah: Five. It can count as a signature for the writing check.
+Will (pleased): Hardship that arises after the contract.
+Hannah (dry): Question two, and it counts only exceptionally.
+## Recap
+Will (warm): The map one last time, six questions.
+Hannah: One. A valid agreed sum is paid without proof of loss, and no more. It's a penalty only if triggered by breach and out of all proportion to a legitimate interest.
+Will: Two. Specific performance only where damages are inadequate, and specific goods aren't enough if they can be bought on the market.
+Hannah: Three. A clear negative promise is ordinarily enforced by injunction without asking if damages are adequate, even in personal services if it doesn't in effect compel work.
+Will: Four. Indemnity or guarantee is decided by substance: liable only if another defaults means a guarantee.
+Hannah: Five. A guarantee needs signed writing, consideration or a deed, a valid principal obligation, and a default.
+Will: Six. A material variation without the guarantor's consent discharges the guarantor unless it is plainly insubstantial or incapable of prejudicing them. A binding agreement for extra time or release of the debtor also discharges the guarantor, and lost security discharges to the extent of the loss, but a clear preserving clause keeps the guarantor liable despite variations and indulgences.
+Will (warm): Valid agreed sums are paid and penalties fall away, specific performance needs inadequate damages, clear negative promises ordinarily get injunctions, and indemnity or guarantee is decided by substance, with guarantees needing writing and consideration or a deed.

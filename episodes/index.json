@@ -412,6 +412,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws08-228224ca.mp3",
       "pubDate": "2026-10-23T08:57:38+00:00"
+    },
+    {
+      "id": "contract-ws10",
+      "unitId": "u-bpp-Contract-10",
+      "title": "Contract WS10 · Penalties and Equitable Remedies",
+      "guideHash": "0843360e3c",
+      "script": "scripts/contract-ws10.txt",
+      "scriptHash": "754347f5395c",
+      "audio": "audio/contract-ws10.mp3",
+      "recap": [
+        "A valid agreed sum is paid without proof of loss, and no more; it is a penalty only if triggered by breach and out of all proportion to a legitimate interest.",
+        "Specific performance only where damages are inadequate, and specific goods are not enough if they can be bought on the market.",
+        "A clear negative promise is ordinarily enforced by injunction without asking if damages are adequate, even in personal services if it does not in effect compel work.",
+        "Indemnity or guarantee is decided by substance: liable only if another defaults means a guarantee.",
+        "A guarantee needs signed writing, consideration or a deed, a valid principal obligation, and a default.",
+        "A material variation without the guarantor's consent discharges the guarantor unless it is plainly insubstantial or incapable of prejudicing them. A binding agreement for extra time or release of the debtor also discharges the guarantor, and lost security discharges to the extent of the loss, but a clear preserving clause keeps the guarantor liable despite variations and indulgences."
+      ],
+      "map": [
+        "Agreed sum: valid or penalty?",
+        "Positive promise: specific performance?",
+        "Negative promise: injunction?",
+        "Indemnity or guarantee, and what's covered?",
+        "Guarantee: is it enforceable?",
+        "Guarantee: is the guarantor still bound?"
+      ],
+      "summary": "Valid agreed sums are paid and penalties fall away, specific performance needs inadequate damages, clear negative promises ordinarily get injunctions, and indemnity or guarantee is decided by substance, with guarantees needing writing and consideration or a deed.",
+      "madeAt": "2026-10-23T09:04:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
