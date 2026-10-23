@@ -453,6 +453,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws10-30f116be.mp3",
       "pubDate": "2026-10-23T09:41:57+00:00"
+    },
+    {
+      "id": "dr-ws07",
+      "unitId": "u-bpp-DR-07",
+      "title": "DR WS07 · Evidence, Experts and Trial",
+      "guideHash": "f5bd4f8fe9",
+      "script": "scripts/dr-ws07.txt",
+      "scriptHash": "2456c6cf78eb",
+      "audio": "audio/dr-ws07.mp3",
+      "recap": [
+        "Civil hearsay is admissible, and a missing notice hurts weight, costs and case management, never admissibility.",
+        "An expert's overriding duty is to the court, and an expert can be sued in negligence by the client.",
+        "A single joint expert means no private meetings and no own expert without permission; separate experts mean a discussion and a joint statement.",
+        "A witness statement stands as evidence in chief and the witness signs it; an affidavit is only for where it is required.",
+        "A summons compels attendance, and it binds only if served at least 7 days before attendance, unless the court directs otherwise.",
+        "At trial the defendant closes first, no leading questions on disputed matters from your own witness, and district judges are Judge."
+      ],
+      "map": [
+        "Is the evidence in, and what is it worth?",
+        "What does an expert owe, and to whom?",
+        "One joint expert, or one each?",
+        "How does a witness's evidence go in?",
+        "Will the witness turn up?",
+        "How does it all run at trial?"
+      ],
+      "summary": "Civil hearsay is admissible and weighed, experts owe their duty to the court, joint experts mean no private meetings, witnesses sign statements, a summons binds only if served at least 7 days before attendance unless the court directs otherwise, and the defendant closes first.",
+      "madeAt": "2026-10-23T10:45:54+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
