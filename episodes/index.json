@@ -494,6 +494,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-6723fe29.mp3",
       "pubDate": "2026-10-23T10:46:55+00:00"
+    },
+    {
+      "id": "blp-ws07",
+      "unitId": "u-bpp-BLP-07",
+      "title": "BLP WS07 · Funding, Tax and VAT",
+      "guideHash": "786ca17f9b",
+      "script": "scripts/blp-ws07.txt",
+      "scriptHash": "e53d61ca0184",
+      "audio": "audio/blp-ws07.mp3",
+      "recap": [
+        "A loan gives no vote and deductible interest, but interest is due whether or not there are profits.",
+        "Hiding income is evasion, which you refuse, and the GAAR needs double reasonableness and does not cover VAT.",
+        "Gains are in total profits, dividends are not deductible, and a trading loss goes same period, then 12 months back, then forward.",
+        "Divide the limits between associated companies, and pay 9 months and 1 day after the period unless the company is large.",
+        "A buyback gets capital treatment only if all the conditions are met, and the section 455 charge falls on the company.",
+        "Zero-rated is taxable, only taxable supplies count towards the threshold, and under standard accounting the tax point beats payment."
+      ],
+      "map": [
+        "Loan or shares: how should the company be funded?",
+        "Is the tax planning legal, or has it crossed a line?",
+        "What profits is the company taxed on?",
+        "What is the bill, and when is it paid?",
+        "What happens when money goes out to the shareholders?",
+        "Is there VAT, and how is it registered, charged and paid?"
+      ],
+      "summary": "Choose loan or shares on control, tax and cash flow, refuse evasion, get the profits, rate and payment dates right, watch buybacks and loans to shareholders, and check VAT through supply, registration and the tax point.",
+      "madeAt": "2026-10-23T14:16:29+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []

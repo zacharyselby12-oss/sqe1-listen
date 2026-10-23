@@ -1,0 +1,269 @@
+---
+id: blp-ws07
+unit: u-bpp-BLP-07
+guide_hash: 786ca17f9b
+made: 2026-10-23T14:16:29+00:00
+title: BLP WS07 · Funding, Tax and VAT
+map:
+- Loan or shares: how should the company be funded?
+- Is the tax planning legal, or has it crossed a line?
+- What profits is the company taxed on?
+- What is the bill, and when is it paid?
+- What happens when money goes out to the shareholders?
+- Is there VAT, and how is it registered, charged and paid?
+recap:
+- A loan gives no vote and deductible interest, but interest is due whether or not there are profits.
+- Hiding income is evasion, which you refuse, and the GAAR needs double reasonableness and does not cover VAT.
+- Gains are in total profits, dividends are not deductible, and a trading loss goes same period, then 12 months back, then forward.
+- Divide the limits between associated companies, and pay 9 months and 1 day after the period unless the company is large.
+- A buyback gets capital treatment only if all the conditions are met, and the section 455 charge falls on the company.
+- Zero-rated is taxable, only taxable supplies count towards the threshold, and under standard accounting the tax point beats payment.
+summary: Choose loan or shares on control, tax and cash flow, refuse evasion, get the profits, rate and payment dates right, watch buybacks and loans to shareholders, and check VAT through supply, registration and the tax point.
+invented:
+- Quill Ltd
+- Priya
+- Marlow LLP
+- Fenn Ltd
+- Dara
+- Juno Ltd
+- Kestrel Ltd
+- Sasha
+- Linton Ltd
+- Dunmore Ltd
+- Orla Ltd
+- Felix
+- Tern Ltd
+---
+## Rule
+Will (warm): Right, Hannah. Picture a client who funds her company with new shares to cut its tax bill, leaves income off the return and calls it planning, and registers for VAT late.
+Hannah (incredulous): That's three separate disasters in one sentence.
+Will (dry): Which is why we always ask six questions, in the same order. One: loan or shares, so how's the company funded? Two: is the tax planning legal? Three: what profits is it taxed on? Four: what's the bill, and when's it paid? Five: what happens when money goes out to the shareholders? Six: VAT.
+Hannah (brisk): Funding, planning, profits, bill, money out, VAT. So her three disasters sit in questions one, two and six.
+Will (pleased): Look at you. Question one, then: loan or shares? The client's worry is one of three things: control, tax or cash flow.
+Hannah (thinking aloud): Control's easy. A loan gives the lender no vote, but new shares dilute my control.
+Will: Yes. Tax?
+Hannah (confident): Shares. Dividends come out of the profits, so the profit shrinks and so does the tax.
+Will (gently): That's the trap, I'm afraid. For corporation tax, interest is deductible and dividends are not, so on tax the loan wins.
+Will: Cash flow is the big one. A lender is a creditor, and interest is a fixed cost even in a loss-making year. A dividend is paid only if there are distributable profits and one is declared, and the company needn't declare one.
+Hannah (wry): So a loan is the wrong answer for a lean year, because interest is due whether or not there are profits.
+Will: Two quick differences: a loan is repayable, while shares are not normally repaid; and a loan may be secured and ranks ahead of the shareholders, who rank last on a winding up. The investor's tax turns on whether they lent money or bought shares: interest is taxed on the lender as savings income, and a dividend as dividend income.
+Hannah (summing up): So a loan: no vote, deductible interest, but interest is due regardless. Shares: dilution, no deduction, and dividends only if declared out of distributable profits.
+Will (brisk): Say she takes the loan and now wants to pay as little tax as she can. Question two: is that legal? First you classify it: avoidance or evasion.
+Will (laughing): The cheaper road versus sneaking past the toll booth. <laugh> Avoidance is lawfully arranging your affairs to pay less tax; it's legal, though anti-avoidance rules may counteract it. Evasion is dishonestly not paying tax that's due, like hiding income, and it's a crime.
+Hannah: So our client leaving income off her return...
+Will: Is evasion, however nicely she words it. That's the trap, and you must refuse to facilitate it, because that breaches your duties to uphold the rule of law and act with integrity.
+Hannah (wry): And the firm?
+Will: The firm itself commits the corporate offence of failing to prevent its staff facilitating tax evasion, unless it had reasonable prevention procedures. That's the Criminal Finances Act. And the proceeds of tax evasion are criminal property for money laundering purposes.
+Will: If it's avoidance, the big weapon is the GAAR, and it applies if two things are both true. It's a tax arrangement, so one of its main purposes is a tax advantage. And it's abusive, so it cannot reasonably be regarded as a reasonable course of action. That's double reasonableness.
+Hannah (thinking aloud): So if it can reasonably be regarded as reasonable, it isn't abusive, and there's no GAAR.
+Will: Spot on. If both limbs are met, HMRC counteracts the advantage on a just and reasonable basis, and a penalty can follow: 60 per cent of the counteracted tax, a figure the exam supplies.
+Hannah: And it covers every tax?
+Will: Income tax, CGT, corporation tax, IHT and NICs. <short pause> Not VAT. A VAT-only scheme can't be caught by the GAAR, and that's the other trap.
+Hannah: Hang on, isn't that Ramsay?
+Will (pleased): Look-alike. Ramsay is the courts reading tax legislation purposively and applying it to the transaction viewed realistically as a whole, so pre-ordained steps inserted only to avoid tax are disregarded. No double reasonableness test.
+Hannah: Whereas the GAAR is statutory, with double reasonableness and a possible penalty.
+Will: Yes. One more look-alike: DOTAS, a disclosure duty rather than a counter-attack. The promoter notifies HMRC of arrangements with prescribed hallmarks, or the user does if there's no UK promoter.
+Will: Now four targeted rules: IR35, LLP salaried members, transactions in securities and phoenixism. IR35 is a worker supplying services through an intermediary, usually her own company, taxed as having employment income if she would be an employee if engaged directly.
+Will: With a small private-sector client, the worker's company applies the rules. With a public-sector or medium or large client, the client decides her status and the fee-payer deducts PAYE.
+Hannah: And the LLP version is the same idea?
+Will: Different, and that's the trap. A salaried member is an LLP member taxed as an employee only if all three conditions are met. The name gives you the first.
+Hannah (thinking aloud): A salary, basically?
+Will: Yes: at least 80 per cent of her pay is fixed or not linked to the LLP's overall profits, the disguised salary. Condition B?
+Hannah: She has no say in anything.
+Will: No significant influence over the LLP's affairs. And C is about capital.
+Hannah: She's put in hardly anything.
+Will: Capital contribution less than 25 per cent of the disguised salary. Only if all three are met is she taxed as an employee. And IR35 is the tempting wrong answer, because an LLP member isn't a worker supplying services through her own company.
+Will (brisk): Last two are about taking capital out. Transactions in securities: capital extraction, such as a liquidation or a buyback, with income tax avoidance a main purpose. HMRC counteracts, typically taxing it as income. Without that main purpose, the distribution stays capital.
+Hannah: And phoenixism?
+Will: Three things together. A close company winding-up distribution to a shareholder with at least 5 per cent is income if she carries on a similar trade or activity within 2 years and avoiding income tax is a main purpose.
+Hannah (summing up): So classify first. Evasion, refuse. Avoidance, the GAAR's two limbs. Then the four targeted rules.
+Will (brisk): So the planning's legal. Question three: what profits is the company taxed on? A UK resident company pays corporation tax on its total profits for each accounting period: income profits, meaning trading profits, property income, interest and other non-trading loan relationship credits, plus chargeable gains.
+Hannah: And the gains are CGT, because it's a share sale.
+Will (amused): That's the trap. A company's gain is part of its total profits, charged to corporation tax.
+Hannah (sheepish): Reflex. <sigh>
+Will: Trading profit is chargeable receipts less income expenditure incurred wholly and exclusively for the trade. So what comes off?
+Hannah: Salaries, obviously.
+Will: Directors' and employees' salaries, employer's NICs, employer pension contributions and interest on business borrowings, though net interest above £2m is restricted under the corporate interest restriction.
+Hannah: And what doesn't?
+Will: Dividends paid, depreciation, client entertainment and capital expenditure. Dividends again, so question one's trap is back. Depreciation is replaced by capital allowances, and client entertainment is disallowed even if wholly and exclusively for the trade, though staff entertainment remains deductible.
+Will (warm): Capital allowances on plant and machinery come next, and the look-alike pair is full expensing and the annual investment allowance. Full expensing is for companies only: 100 per cent first-year allowance on new and unused main-rate plant and machinery, no upper limit. Second-hand plant gets no full expensing, and new special-rate assets get 50 per cent.
+Will: Sell a fully expensed asset later, though, and the proceeds are taxed as a balancing charge.
+Hannah: And the annual investment allowance?
+Will: Capped at £1m a year, and sole traders can claim it too. The writing-down allowances are 14 per cent for the main pool from 1 April 2026, previously 18, and 6 per cent for the special rate pool, and the exam supplies them.
+Will: If the company's selling shares, check the substantial shareholding exemption: the gain or loss is exempt if the seller held at least 10 per cent of the ordinary share capital for a continuous 12 months within the 6 years before the disposal, in a trading company or the holding company of a trading group.
+Hannah: That's the company's exemption. BADR is the individual's.
+Will (brisk): Now losses, where the traps live. A trading loss goes in a set order: against total profits of the same period, gains included; then, if you've made that current-period claim, the balance goes back to the previous 12 months; and what's left is carried forward against total profits.
+Hannah: What about 3 years back?
+Will: Only for a loss in the final 12 months of trading, the terminal loss, carried back against total profits of the previous 3 years, latest first. A continuing company doesn't get that, because it needs the trade to have ceased.
+Will: Carrying forward has two limits. Carried-forward losses relieve profits in full up to the £5m deductions allowance, then only 50 per cent of profits above it. And they're lost on a change in ownership, meaning more than half the shares, plus a major change in the nature or conduct of the trade within 3 years before to 5 years after.
+Will: Group relief is the other route. Within a 75 per cent group you can surrender a trading loss: the parent holds at least 75 per cent of the shares and is entitled to 75 per cent of the distributable profits and the winding-up assets, directly or indirectly, and the loss is set against the claimant's profits of the corresponding period.
+Hannah: And capital losses?
+Will: Different. They go only against chargeable gains of the same or later periods, never against income, never carried back. And a company sets losses against total profits with no early years relief, whereas an individual carries forward only against the same trade.
+Hannah (summing up): Gains are in total profits, dividends and depreciation don't come off, and trading losses go same period, then back, then forward.
+Will (brisk): Right, you know the profits. Question four: what's the bill, and when is it paid? The accounting period is never longer than 12 months. If the accounts run longer, they're split into a first 12-month period and the remainder, each taxed separately.
+Hannah: So a 15-month set of accounts is one period.
+Will (gently): That's the trap. It's two: 12 months plus the remainder.
+Will: Total profits less losses relieved and qualifying charitable donations gives taxable total profits. For financial year 2026 the small profits rate is 19 per cent up to £50,000, the main rate is 25 per cent above £250,000, and in between it's the main rate less marginal relief.
+Hannah: And the relief?
+Will: Three over two hundred, times the upper limit minus taxable total profits, where no dividends are received. The exam supplies the rates and the fraction.
+Hannah (confident): So £50,000 and £250,000 are the limits, full stop.
+Will: Not full stop, that's the trap. You divide the limits by the number of associated companies, and reduce them proportionately for a short period.
+Hannah: Associated meaning?
+Will: Under common control. You divide by the number of such companies, counting this one, so three companies means divided by three. A 3-month period means three twelfths. And close investment-holding companies pay the main rate.
+Hannah: So one person controlling several companies divides the limits.
+Will (brisk): Then payment. A company that isn't large pays 9 months and 1 day after the end of the accounting period.
+Hannah: Ah, so 31 January.
+Will (groaning): No! 31 January and 31 July are an individual's self-assessment dates, not a company's.
+Will: A large company pays quarterly instalments. Large means profits over £1.5m, also divided between associated companies. The instalments fall in months 7, 10, 13 and 16, counted from the start of a 12-month period, and are based on the estimated current-period liability.
+Hannah: Whereas a sole trader's payments on account are based on the previous year.
+Will: Yes. A very large company, with profits over £20 million, pays in months 3, 6, 9 and 12.
+Hannah: Any escape from being large?
+Will: Two. Not large if profits are £10m or less and it wasn't large in the previous 12 months, both together, or if the liability is £10,000 or less. The return is due 12 months after the period end.
+Hannah (summing up): Not large, 9 months and a day. Large, instalments. Never 31 January.
+Will (warm): Question five: money going out to the shareholders. A dividend paid isn't deductible for the company, because it comes out of post-tax profits, and the company deducts no tax.
+Hannah: Could she take salary instead?
+Will: Look-alike. A salary or bonus is deductible for the company, but the director pays income tax at non-savings rates plus employee NICs, and the company pays employer NICs.
+Hannah: And a dividend?
+Will: No NICs and lower income tax rates, but it isn't deductible and is payable only out of distributable profits. So it turns on whether the payment is for work or a return on shares.
+Will (brisk): Now a buyback: the company buys its own shares back from a shareholder. The default is the trap. The amount paid above the capital originally subscribed for those shares is an income distribution, taxed on the seller at dividend rates, and she's also treated as making a CGT disposal, with the distribution excluded from the proceeds.
+Hannah: So it isn't CGT just because it's a sale of shares.
+Will: Capital treatment, meaning CGT and possibly BADR, applies automatically only if all six conditions are met. One: an unquoted trading company, or the holding company of a trading group. Two: the buyback is wholly or mainly to benefit the company's trade, not mainly for tax avoidance, like buying out a retiring or dissenting shareholder. Three?
+Hannah: The seller's UK resident.
+Will: Four: she's owned the shares for at least 5 years, or 3 if inherited, counting the deceased's and the personal representatives' ownership. Five?
+Hannah: Her stake has to shrink a lot.
+Will: Substantially reduced: to 75 per cent or less of her previous percentage holding. Six?
+Hannah: She mustn't still be tied to the company: 30 per cent or less afterwards.
+Will: Not connected afterwards. All six, or you're back to the default.
+Hannah: Hang on, 75 and 30 sound like the same test.
+Will: Look-alikes. The 75 per cent compares her holding afterwards with her own holding before, and the 30 per cent caps the holding afterwards. So 30 or less isn't enough alone: it must also be 75 per cent or less of her previous percentage. That's the trap.
+Will: There's a second route to capital treatment, the IHT route, and it's a big one. Three things, all needed: substantially all the payment pays IHT due on a death, within 2 years of the death, and the tax couldn't otherwise be paid without undue hardship.
+Will: A liquidation is different: a liquidator's payments to shareholders in a winding up are capital, a CGT disposal of the shares, possibly with BADR, not a dividend, subject to the winding-up anti-avoidance rule from question two.
+Hannah: So a continuing company buying back is income by default, and a liquidator paying is capital.
+Will: Yes. Two last bits: the company can apply to HMRC for advance clearance that a proposed buyback qualifies for capital treatment, separate from the transactions in securities clearance, which guards against counteraction. And if you act for both the company and the selling director-shareholder, say on the price, consider a conflict of interests first.
+Will (brisk): Second half of question five: loans to shareholders, which bite on close companies. A close company is a UK resident company controlled by 5 or fewer participators, or by any number of participators who are directors.
+Will: Control means more than 50 per cent of the share capital, votes, distributable income or assets on a winding up, and you add the rights of a participator's associates, such as close relatives and business partners, to theirs.
+Hannah: So my brother's shares count as mine.
+Will: Yes. Now the loan. If a close company lends to a participator or an associate, other than in the ordinary course of a money-lending business, the company pays the section 455 charge, a percentage of the loan.
+Will: That's 35.75 per cent for loans made on or after 6 April 2026, and 33.75 per cent before, and it's due 9 months and 1 day after the end of the accounting period.
+Hannah: And the borrower pays it.
+Will (gently): That's the trap. The charge falls on the company, whoever borrows. It isn't deductible for the company and it isn't a tax on the participator. It's temporary, and the company recovers it.
+Hannah: Like a deposit.
+Will: Yes. Repaid before the due date, no charge. Repaid, released or written off later, HMRC repays the charge, claimed 9 months and 1 day after the end of the period in which the repayment is made.
+Hannah (wary): So repay it, borrow again, repay it...
+Will: Which is why a matching rule ties a repayment of £5,000 or more to new loans of £5,000 or more made within 30 days in a later accounting period, so the charge isn't avoided.
+Will: Three bits of small print. A loan of up to £15,000 to a full-time working director without a material interest, meaning over 5 per cent, is excluded. A loan written off or released is taxed on the participator as dividend income.
+Will: And an interest-free or low-rate loan can also be a benefit in kind for a director or employee, above a small limit of £10,000, so one loan, two charges.
+Hannah: Charge on the company, benefit in kind on the director or employee.
+Will: Right. And a benefit to a participator who isn't a director or employee, like free use of a company house, is a distribution, not a benefit in kind: not deductible, and taxed as dividend income. That's the other trap.
+Hannah (summing up): A dividend isn't deductible, a buyback is income by default unless all six conditions are met or the IHT route applies, and the loan charge is the company's, whoever borrows.
+Will (brisk): Question six: VAT, in three parts. Part one: is there VAT at all? A five-part test, and you need all five. Is there a supply of goods or services?
+Hannah: Made in the UK.
+Will: Yes. And is it a taxable supply?
+Hannah: Made by a taxable person, in the course or furtherance of their business.
+Will: All five, and then you charge output tax, deduct input tax, and account in the period of the tax point.
+Will: A supply of goods transfers the whole property in them; a supply of services is anything else done for a consideration. So a free service is generally outside VAT, but a business gift of goods is a supply unless it's £50 or less per recipient in a 12-month period.
+Will: Taxable means standard, reduced or zero-rated: 20 per cent, 5 per cent and 0 per cent. Exempt isn't. Zero-rated and exempt both carry no VAT—
+Hannah: So they're the same.
+Will (gently): That's the trap. Zero-rated supplies are taxable: they count towards the threshold and input tax is recoverable. Exempt supplies are neither.
+Hannah (groaning): Nil isn't nothing.
+Will: Exempt covers most sales and leases of land unless opted to tax, plus financial services, insurance, education and health. A supplier making only exempt supplies cannot register, and input tax relating to exempt supplies isn't recoverable: that's partial exemption.
+Hannah: And a taxable person?
+Will: Someone who is, or is required to be, registered. So "only registered people charge VAT" is another trap, because someone required to register is already a taxable person.
+Will: Output tax is the VAT a registered person charges on taxable supplies and accounts for to HMRC. Input tax is the VAT paid on supplies for the business, deducted from output tax. Deduction needs a valid VAT invoice, and business entertainment and cars available for private use are blocked.
+Hannah: So who ends up bearing the VAT?
+Will: The final consumer. It's neutral for a registered business, which collects output tax and recovers input tax, while unregistered persons and exempt businesses bear it as a cost.
+Will: And a price agreed without mention of VAT is VAT-inclusive, so the supplier accounts for the VAT out of it, one sixth at 20 per cent. VAT can be added on top only under an express "plus VAT" term.
+Hannah (wary): So if the contract's silent, the VAT comes out of the price.
+Will: Yes. Output tax is due in the VAT period of the tax point, the time of supply. The basic tax point is when goods are delivered or made available, or services performed. It's earlier if an invoice is issued or payment, say a deposit, comes first.
+Will: It's later, the invoice date, if a VAT invoice is issued within 14 days after the basic tax point. If it's issued more than 14 days later, the tax point stays at the basic one.
+Hannah: Hang on, isn't there a 30-day invoice rule too?
+Will: Look-alike. The 14 days decides whether a later invoice moves the tax point; the 30 days is the deadline for issuing the invoice.
+Will: Three special cases on whether a sale is taxable. A freehold sale of a new commercial building, completed less than 3 years ago, is compulsorily standard-rated.
+Will: Other commercial land supplies, including the grant of a lease of a new building, are exempt unless the supplier has opted to tax, and after an option to tax, future supplies of that land are standard-rated and related input tax is recoverable.
+Hannah: And the third?
+Will: Selling a business. A transfer of a going concern, a business or a part capable of separate operation, is neither goods nor services, so no VAT, provided the buyer uses the assets in the same kind of business with no significant break and is or becomes registered where the seller is. Selling individual assets alone is a taxable supply.
+Will: If the seller opted to tax the land, the buyer must also opt to tax, notify HMRC and tell the seller its option will not be disapplied, all by the time of supply.
+Will (brisk): Part two: must the business register? Count taxable supplies only: standard, reduced and zero-rated. Leave out exempt supplies and sales of capital assets, like an old van, so it's never total turnover. The threshold is £90,000, which the exam supplies.
+Hannah: And the tests?
+Will: Two, and either triggers registration. The historic test, at each month end: did taxable supplies in the previous 12 months, rolling rather than by calendar or accounting year, exceed the threshold? Then notify HMRC within 30 days of the month end, and you're registered from the first day of the second month after it.
+Hannah: And the other?
+Will: The future test, any time: are taxable supplies in the next 30 days alone—
+Hannah: Alone? Not the last 12 months?
+Will: Alone. If they're reasonably expected to exceed the threshold, notify by the end of those 30 days, and you're registered from the start of the 30-day period.
+Hannah: And 3 months to notify.
+Will (gently): That's the trap. Three months is the corporation tax notification, from starting to trade. VAT is 30 days.
+Will: One exception to the historic test: if HMRC is satisfied the next 12 months won't exceed the deregistration threshold, £88,000 since 1 April 2024, you needn't register. A one-off spike, say. So £90,000 is the registration threshold, £88,000 the exception's, looking forward 12 months.
+Hannah: And if she just doesn't register?
+Will: She must account for output tax from the date she should have been registered, out of her own pocket if customers won't pay, plus a penalty. And a person making only exempt supplies can't register at all, like an insurance broker, or a landlord with no option to tax.
+Hannah: What about below the threshold?
+Will: Voluntary registration is allowed if the business makes taxable supplies, and it can then recover input tax. That suits zero-rated suppliers and suppliers to VAT-registered business customers. The drawback is that it must charge VAT, so it's less competitive where customers are consumers who can't recover it, and it must also file returns and keep VAT records.
+Will: Pre-registration input tax is recoverable too, on goods still held that were bought within 4 years and on services received within 6 months before registration.
+Will: Then invoices. A VAT invoice is required for a taxable supply to a VAT-registered customer, normally within 30 days of the time of supply, and the customer needs a valid one to recover the VAT as input tax. A full invoice carries the invoice number, the supplier's name, address and VAT number, the invoice date and the time of supply.
+Hannah: Then the customer's name and address, a description, the quantity, the price excluding VAT, the VAT rate and amount, and the total VAT. Retail supplies up to £250 can have a simplified invoice.
+Will (brisk): Part three: returns and payment. For each VAT period, usually quarterly, it's output tax on supplies made less input tax on supplies received, and if input tax is greater HMRC repays the difference. The return and payment are due 1 month and 7 days after the period ends, through Making Tax Digital software.
+Hannah (teasing): So that's 31 January.
+Will (laughing): It is not 31 January! <laugh> It's 1 month and 7 days after the VAT period, against 9 months and 1 day after the accounting period for corporation tax.
+Will: Making Tax Digital has three exemptions: the digitally excluded, religious objection to electronic communications, and an insolvency procedure.
+Hannah: And a customer who doesn't pay?
+Will: Under standard accounting, output tax is due for the period of the tax point even if the customer hasn't paid. Bad debt relief lets you reclaim it once the debt is more than 6 months overdue and written off in the VAT records.
+Will: Unless the business uses cash accounting: output tax when the customer pays, input tax when it pays its supplier, so the relief is automatic.
+Hannah: So only cash accounting ties VAT to payment.
+Will: Or the flat rate scheme's cash-based turnover method. Otherwise bad debt relief is the only remedy. Annual accounting is the look-alike: one return a year with interim payments. It changes filing, not when VAT is due, so it's no help for slow payers.
+Will: The flat rate scheme is VAT as a fixed percentage of turnover. The exam supplies the limits: cash and annual accounting up to £1.35m taxable turnover, flat rate up to £150,000.
+Hannah: And penalties?
+Will: Late returns bring penalty points, and at the threshold, 4 for quarterly returns, a £200 penalty follows. Late payment is different: late payment penalties and interest.
+Will: Payments on account apply where the annual VAT liability exceeds £2.3m, and VAT records are kept for 6 years: invoices, the VAT account and business records.
+Hannah (summing up): So VAT is the five-part test, then registering on taxable supplies only, then, under standard accounting, VAT follows the tax point, not payment.
+Will (brisk): Numbers round before we practise. Planning: GAAR penalty 60 per cent; LLP conditions 80 and 25 per cent; phoenixism at least 5 per cent and 2 years. Profits: shareholding exemption 10 per cent, 12 months in the 6 years before; carry-back 12 months, or 3 years in the final 12; group 75 per cent.
+Hannah: Still profits: full expensing 100 per cent, special rate 50, annual investment allowance £1m; writing-down 14 per cent from 1 April 2026, previously 18, and 6; losses £5m then 50 per cent; ownership change more than 50 per cent, 3 years before to 5 after; interest £2m.
+Will: The bill: 12 months; 19 per cent to £50,000, 25 per cent above £250,000, three over two hundred; large over £1.5m, very large over £20 million; escapes £10m and £10,000; instalments 7, 10, 13, 16 or 3, 6, 9, 12; payment 9 months and 1 day; return 12 months; 31 January and 31 July aren't company dates.
+Hannah: Money out: buyback 5 years, 3 inherited, 75 per cent, 30 per cent, IHT 2 years; close company 5 or fewer, more than 50 per cent; charge 35.75 per cent from 6 April 2026, 33.75 before, matching 30 days, £5,000; exclusion £15,000, over 5 per cent; benefit in kind £10,000.
+Will: VAT: 20 per cent, one sixth, 5, 0; tax point 14 days; invoice 30 days; simplified £250; gifts £50; new building 3 years; £90,000, rolling 12 months, notice 30 days, exception £88,000.
+Hannah: More VAT: goods 4 years, services 6 months; return 1 month and 7 days; bad debt 6 months; records 6 years; schemes £1.35m, £150,000; 4 points, £200; payments on account £2.3m.
+## Exam mode
+Will (brisk): Right, exam hat on. Nine scenarios, and for each, tell me which question it turns on and what decides it.
+Will: One. Quill Ltd, owned by two founders, needs £200,000. It's profitable, wants to cut its corporation tax bill, and the founders won't share control. Cash flow is steady. Loan or new shares? <long pause>
+Hannah (thinking aloud): Question one. A loan: interest is deductible and a lender gets no vote.
+Will: And the usual drawback, interest due whether or not there are profits, matters less with steady cash flow. New shares would dilute control, and dividends aren't deductible.
+Will: Two. Priya is a member of Marlow LLP. Of her £120,000 annual pay, £100,000 is fixed and £20,000 depends on the LLP's overall profits. She has no management role, and her capital contribution is £22,000. Taxed as an employee? <long pause>
+Hannah (teasing): Question two. IR35, obviously.
+Will: Tempting, but IR35 is for a worker supplying services through her own company, and Priya is an LLP member.
+Hannah: Fine, the three conditions. £100,000 is 83 per cent of her pay, at least 80. No management role. And £22,000 is 22 per cent of the disguised salary, under 25.
+Will: All three met, so she's a salaried member.
+Will: Three. Fenn Ltd, a continuing company, makes a trading loss of £90,000 in Year 2. That year it also has property income of £10,000 and a chargeable gain of £15,000. Its total profits in Year 1 were £50,000. How's the loss relieved? <long pause>
+Hannah: Question three. £25,000 against Year 2, gain included, then three years back for the rest.
+Will: Only 12 months back, because Fenn is continuing. The 3-year carry-back needs the trade to have ceased.
+Hannah: So £50,000 to Year 1, and £15,000 carried forward.
+Will: Four. Dara owns all the shares in Juno Ltd and Kestrel Ltd. Juno's 12-month accounting period ends 31 March 2027, its taxable total profits are £100,000, and it receives no dividends. Corporation tax? <long pause>
+Hannah (confident): Question four. Between £50,000 and £250,000, so 25 per cent less relief of three over two hundred times £150,000.
+Will: That's the trap, undivided limits. Two companies under common control halve them to £25,000 and £125,000, and £100,000 still falls between them. So, with no dividends received, the relief is three over two hundred times the upper limit minus taxable total profits: £125,000 minus £100,000 is £25,000, and three over two hundred of that is £375.
+Hannah: So £25,000 less £375: £24,625.
+Will: Five. Sasha has held 36 per cent of Linton Ltd, an unquoted trading company, for 8 years. She's retiring, and Linton buys back some shares so she holds 28 per cent afterwards. She's UK resident. Capital treatment? <long pause>
+Hannah (confident): Question five. Everything ticks, and 28 is under 30, so yes.
+Will: Trap. 75 per cent of 36 is 27, and 28 is above it, so the reduction test fails. The amount above the capital originally subscribed is an income distribution at dividend rates.
+Hannah: So passing the 30 per cent test isn't enough on its own.
+Will: Six. Dunmore Ltd, a UK resident company, has ten shareholders, none of them directors, each holding 10 per cent of every class of right. Two of them are married to each other, and two others are siblings. Close company? <long pause>
+Hannah (thinking aloud): Question five again. Associates' rights get added, so the couple count as one participator with 20 per cent, and so do the siblings.
+Will: Go on.
+Hannah: Two pairs make 40 per cent, plus three others at 30: five participators holding 70 per cent. Yes.
+Will: Without associates, the five largest hold exactly 50 per cent, which isn't control.
+Will: Seven. Orla Ltd sells a vacant five-year-old freehold office for £1,200,000. It has opted to tax the building, and the contract says nothing about VAT. How much VAT must Orla account for? <long pause>
+Hannah: Question six. Over 3 years old, so not compulsorily standard-rated, but the option to tax makes it standard-rated. So 20 per cent on top, £240,000.
+Will: That's the trap. A price silent on VAT is VAT-inclusive, so Orla accounts for one sixth of £1,200,000 out of it: £200,000.
+Will: Eight. In the 12 months to 30 June 2026, Felix sells food in his shop for £50,000 and earns £45,000 from consultancy. He also receives £20,000 of exempt insurance commission. Must he register, and from when? <long pause>
+Hannah: Question six. Taxable supplies only: zero-rated food plus standard-rated consultancy is £95,000, over £90,000 at the end of June. The exempt commission doesn't count.
+Will: So he notifies HMRC by 30 July 2026 and is registered from 1 August 2026.
+Will: Nine. Tern Ltd is VAT-registered, uses standard accounting and has quarters ending 31 March. It delivers goods and issues a VAT invoice on 20 March for £12,000 plus VAT. The customer pays in June. When must Tern account for the £2,400 output tax? <long pause>
+Hannah: Question six. June, when the money arrives.
+Will: Not under standard accounting.
+Hannah: Right, the tax point: 20 March, so the quarter to 31 March, and the return and payment are due by 7 May.
+Will: Only cash accounting would move it to June. And if the customer never pays, bad debt relief needs the debt more than 6 months overdue and written off.
+## Recap
+Will (warm): Six questions, one line each.
+Hannah: Question one, funding. A loan gives no vote and deductible interest, but interest is due whether or not there are profits.
+Will: Question two, planning. Hiding income is evasion, which you refuse, and the GAAR needs double reasonableness and does not cover VAT.
+Hannah: Question three, profits. Gains are in total profits, dividends are not deductible, and a trading loss goes same period, then 12 months back, then forward.
+Will: Question four, the bill. Divide the limits between associated companies, and pay 9 months and 1 day after the period unless the company is large.
+Hannah: Question five, money out. A buyback gets capital treatment only if all the conditions are met, and the section 455 charge falls on the company.
+Will: Question six, VAT. Zero-rated is taxable, only taxable supplies count towards the threshold, and under standard accounting the tax point beats payment.
+Will (warm): Choose loan or shares on control, tax and cash flow, refuse evasion, get the profits, rate and payment dates right, watch buybacks and loans to shareholders, and check VAT through supply, registration and the tax point.
