@@ -371,6 +371,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws09-1b74a226.mp3",
       "pubDate": "2026-10-23T08:27:11+00:00"
+    },
+    {
+      "id": "contract-ws08",
+      "unitId": "u-bpp-Contract-08",
+      "title": "Contract WS08 · Breach and Frustration",
+      "guideHash": "4eb313ea4a",
+      "script": "scripts/contract-ws08.txt",
+      "scriptHash": "e3b4e7b43b14",
+      "audio": "audio/contract-ws08.mp3",
+      "recap": [
+        "Did it end with no breach? A termination clause's specified event is enough, if you operate it strictly.",
+        "Does the breach let you terminate? Only a condition, a serious innominate breach, a renunciation or disabling yourself does, and terminate without that right and you're the one in breach.",
+        "Accept or affirm? A breach ends nothing until the innocent party accepts it, and affirming knowingly leaves damages for that breach, not loss of bargain.",
+        "Mistake or frustration? Frustration needs an event after the contract, with no fault, making performance impossible, illegal or radically different; more cost is not enough.",
+        "Who gets what back? Section one, subsection two covers money paid or payable, with expenses capped at those sums; subsection three values the end product.",
+        "Who pays for half-done work? A party in breach of an entire obligation who performed only partly gets nothing, unless the other side freely chose to accept it; accepting goods ends the right to reject."
+      ],
+      "map": [
+        "Did it end with no breach at all?",
+        "Does the breach let you terminate?",
+        "Accept or affirm: what follows?",
+        "Mistake or frustration instead?",
+        "If frustrated, who gets what back?",
+        "Half-done work and goods: who pays?"
+      ],
+      "summary": "Ask whether it ended without breach, then whether the breach was repudiatory; the innocent party chooses, terminate without the right and you're the one in breach, and frustration needs a no-fault event making performance impossible, illegal or radically different.",
+      "madeAt": "2026-10-23T08:56:46+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes; verify: 12 of 13 changes pass, the 13th a statute-year style point kept by the house rule)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []

@@ -1,0 +1,282 @@
+---
+id: contract-ws08
+unit: u-bpp-Contract-08
+guide_hash: 4eb313ea4a
+made: 2026-10-23T08:56:46+00:00
+title: Contract WS08 · Breach and Frustration
+map:
+- Did it end with no breach at all?
+- Does the breach let you terminate?
+- Accept or affirm: what follows?
+- Mistake or frustration instead?
+- If frustrated, who gets what back?
+- Half-done work and goods: who pays?
+recap:
+- Did it end with no breach? A termination clause's specified event is enough, if you operate it strictly.
+- Does the breach let you terminate? Only a condition, a serious innominate breach, a renunciation or disabling yourself does, and terminate without that right and you're the one in breach.
+- Accept or affirm? A breach ends nothing until the innocent party accepts it, and affirming knowingly leaves damages for that breach, not loss of bargain.
+- Mistake or frustration? Frustration needs an event after the contract, with no fault, making performance impossible, illegal or radically different; more cost is not enough.
+- Who gets what back? Section one, subsection two covers money paid or payable, with expenses capped at those sums; subsection three values the end product.
+- Who pays for half-done work? A party in breach of an entire obligation who performed only partly gets nothing, unless the other side freely chose to accept it; accepting goods ends the right to reject.
+summary: Ask whether it ended without breach, then whether the breach was repudiatory; the innocent party chooses, terminate without the right and you're the one in breach, and frustration needs a no-fault event making performance impossible, illegal or radically different.
+invented:
+- Fenwick
+- Calloway
+- Pellam
+- Oakes
+- Maren
+- Corbin
+- Lyric Theatre
+- Harrogate
+- Monday
+---
+## Rule
+Will (warm): Scene first. A client rings: her builder has breached a warranty, nothing worse, there's no termination clause, and she's already emailed to say the contract is over. Can she open the champagne?
+Hannah (wary): I'd guess no.
+Will (dry): A breach of a warranty never gives a right to terminate, so her email is itself a repudiatory breach, which the builder may accept. <short pause> She's swapped a small problem for a big one.
+Hannah (groaning): Ouch. She was the injured party five minutes ago.
+Will: Which is why there are six questions, always in this order. One: did it end with no breach at all? Two: if there was a breach, does it let you terminate? Three: what did the innocent party choose, accept or affirm?
+Hannah: Go on.
+Will: Four: is it really a mistake, or frustration? Five: if it was frustrated, who gets what back? And six: what about half-done work, and goods?
+Hannah (thinking aloud): So: no breach, right to terminate, the choice, mistake or frustration, money after frustration, half-done work.
+Will (pleased): That's the map. The exam hides the whole answer in one fact, so we take them one at a time.
+Will: Question one. Did the contract end with no breach at all? There are seven doors, and any one of them is enough. How could a contract end by itself?
+Hannah: The term runs out. Expiry. Or there's no end date, so reasonable notice. And a termination clause, obviously.
+Will: Yes. Then a condition, force majeure, an agreement to end it, and consumer cancellation.
+Hannah (groaning): Seven. Do they all get the same airtime?
+Will (amused): No. The clause, the conditions, force majeure and the agreement are where the exam lives, so the others go quickly. Door one, expiry. A fixed term runs out, or a contract for one task is fully performed, and it ends automatically, with no notice.
+Hannah: So nobody's done anything wrong. It's just over.
+Will: That's the look-alike with termination for breach: no breach and no notice are needed. It discharges both sides from future obligations. Accrued rights, like unpaid invoices or claims for earlier breaches, stay enforceable.
+Hannah (wry): So the contract finishes, but the invoice doesn't.
+Will (laughing): The invoice never finishes. <laugh>
+Will: Door two, reasonable notice. With no end date and no termination term, you construe the contract, and usually it ends on reasonable notice, judged on the circumstances when the notice is given. One week may be too short for a long-standing agreement.
+Hannah: And if it is too short?
+Will: Then the notice may itself be wrongful. That's the look-alike with repudiation: reasonable notice needs no breach.
+Hannah (thinking aloud): Can an open-ended contract just run forever, then?
+Will: Not necessarily. Whether it can be ended is a matter of construction. But no reasonable notice term is implied where the parties intended the contract to be permanent, or to last until a particular event.
+Will: Door three, the big one: the express termination clause. Two checks, and you need both. Has the specified event happened, and did you operate the clause strictly?
+Hannah: What counts as an event?
+Will: Whatever event the clause specifies. Clause events include insolvency, change of control, failure to remedy within a set period, and convenience on notice.
+Hannah (guessing): So if the other side goes insolvent, I still need a repudiatory breach to terminate.
+Will: That's the tempting one, and no. The clause operates when its event occurs, even if there's no breach, or the breach isn't—
+Hannah: Repudiatory, yes. So common law doesn't come into it.
+Will: Right. You're relying on the clause, not common law, which needs a repudiatory breach. Both rights coexist, unless the contract clearly excludes the common law right.
+Hannah (keen): Lovely. So I send the letter the minute anything happens.
+Will (dry): Not so fast, that's check two. Strict compliance covers who may serve the notice, its form, any cure period, and the timing. Terminate without complying, or before the event has happened, and you're likely yourself in repudiatory breach. Terminate inside a cure period and it doesn't help that there really was a breach.
+Hannah (teasing herself): Hands off the send button, Hannah.
+Will: Three bits of wording trip people up. "Any breach" is one: in a long-term contract it may be read as repudiatory breach only, where a literal reading would be commercially absurd. That's Rice and Great Yarmouth.
+Hannah (sceptical): And "material breach" is just a posher way of saying repudiatory.
+Will: Look-alike, and no. A material breach only has to be serious in its consequences for the innocent party, which is a lower bar. You judge it on all the facts: the terms, the duration, the nature and the consequences of the breach.
+Hannah: And the third?
+Will: Absolute right versus discretion. An absolute right, like ending for convenience on notice, can be exercised for any reason or none. The implied duty to act rationally, in good faith or for a proper purpose applies only to discretions, meaning an assessment or a choice between options. That's Braganza.
+Will: Now the sting. You terminate under the clause for a breach that isn't repudiatory. What can you claim?
+Hannah (confident): The lot. The whole lost bargain.
+Will: Tempting, and no. Damages only for breaches up to termination, like arrears. That's Financings and Baldock. Loss of bargain needs a repudiatory breach, or a term expressly made a condition, for example time of payment made of the essence.
+Hannah (groaning): Arrears only. So arrears for a non-repudiatory breach, and loss of bargain for a repudiatory one or an express condition.
+Will: Door four, conditions. Did the event occur, or fail to occur, in time?
+Hannah (wry): This is the pair I always muddle. Precedent, subsequent.
+Will: Ask whether the contract was already in force. Under a condition precedent, the contract, or the obligations to perform, don't take effect unless the event occurs. A condition subsequent ends an existing contract when the event occurs.
+Hannah: So precedent stops it starting, and subsequent stops it carrying on.
+Will: Yes. If a condition precedent isn't met in the stated time, or within a reasonable time if none is stated, both parties are released without liability.
+Hannah (sceptical): Without liability? Someone didn't deliver.
+Will: No-one broke a promise. The agreed condition failed. Calling it breach is the trap.
+Will: Three bits of small print. The party for whose sole benefit it was included may waive it. A party cannot rely on non-fulfilment of a condition it itself prevented. And a party may be under an express or implied obligation to use reasonable efforts to bring the condition about.
+Hannah: So you can't sabotage it and then walk away.
+Will: Door five, force majeure. Same shape as the clause. Is the event within it, and did it cause the failure? The party relying on it must prove both. It's an event beyond a party's control that prevents performance, or hinders or delays it if the clause says so, and the clause may excuse, suspend or allow termination.
+Hannah (wary): And if my costs go through the roof?
+Will: A rise in cost, or a fall in profitability, is usually not enough. Performance was still possible, only dearer. Relief for hardship is the trap.
+Hannah: Is it just frustration by another name?
+Will: Look-alike, no. There's no general doctrine of force majeure: it exists only by express clause and operates on its terms. Frustration operates automatically at law. Also, a proviso to use reasonable endeavours to overcome the event doesn't require you to accept performance on different terms, such as payment in another currency.
+Will: Door six, agreement. If both parties still have obligations, each party's release is consideration for the other's. That's bilateral discharge.
+Hannah: And if I've done everything, and you still owe me?
+Will: Then your release of me needs fresh consideration, which is accord and satisfaction, or a deed. Promissory estoppel may still bind you to a release given for nothing.
+Hannah (mock-outraged): So calling that bilateral discharge is the trap.
+Will: Yes. It's ruled out, because only one side still had obligations.
+Will: Door seven, consumers. A consumer who makes a distance or off-premises contract with a trader can cancel within 14 days, with no reason. For goods, the 14 days start the day after delivery. For services, the day after the contract is made.
+Hannah: And if the trader never mentioned the right?
+Will: If the trader failed to give the required cancellation information, the period extends by up to 12 months from the end of the normal 14 days. If the information is given sooner, it ends 14 days after receipt.
+Hannah: Is that the same as sending faulty goods back?
+Will: Look-alike, no. Cancellation needs no reason or fault. Rejection needs goods that don't conform to the contract. We'll come back to that in question six.
+Hannah (pleased): So before I shout breach, I check seven doors. And with a clause, the event is what counts.
+Will: If it's happened, you need no repudiatory breach. If you jumped the gun, you're likely the one in repudiatory breach.
+Will (brisk): Question two. Say none of those doors fits, and there was a breach. That's a failure, without lawful excuse, to perform when due; or defective performance; or a renunciation. Any one of the three.
+Hannah: And if it wasn't my fault? My supplier let me down.
+Will: Liability is strict, so a seller is in breach even if its own supplier let it down. Fault matters only where the term is to use reasonable care and skill. So the trap is "no breach because there was no fault".
+Will: Now the core of question two. Every breach gives damages. But only four kinds give a right to terminate, and any one is enough. A warranty, or a minor innominate breach, is damages only, never a right to terminate. Guess one of the four.
+Hannah: Breach of a condition?
+Will: Yes. Any breach of a condition is repudiatory, however small its effects.
+Hannah (incredulous): However small?
+Will: <short pause> However small. Next, a serious innominate breach: there the breach is repudiatory only if it deprives the innocent party of substantially the whole benefit. That's Hongkong Fir.
+Hannah: So a serious one lets me out, and a minor one doesn't. Then renunciation, I'd guess.
+Will: Yes. Words or conduct showing, judged objectively, a clear intention not to perform the contract or a fundamental part of it. Insisting on a wrong interpretation, so that you'll perform only on your own terms, can be renunciation. Before performance is due, the threatened breach must itself be one that would be repudiatory.
+Hannah (guessing): What if someone honestly thinks the contract lets them do it, and they're wrong? That's renunciation too.
+Will: Not necessarily. Honestly but wrongly relying on a contractual right isn't necessarily repudiation, if the party will abide by the true position once it's established. And the last is disabling yourself: say you promise a painting to one buyer for later delivery, then sell that very painting to someone else.
+Hannah (cheerful): And for anything else, I terminate anyway.
+Will: That's our client with the champagne. Terminating with no right, for a warranty or a minor innominate breach, is itself a repudiatory breach, and the other side may accept it.
+Will: One twist in your favour. If you terminate and give a poor reason, any good reason existing at the time justifies it, even one you didn't know about. It doesn't help if the other party could have put the matter right had the reason been raised.
+Will: Now the commonest "is it a condition?" question: somebody's late. Four steps. What's late: performance, like delivery or notice, or payment?
+Hannah: Late delivery in a business deal. Condition?
+Will: Time of performance in a commercial contract is usually a condition. Delivery dates and notice dates, like a buyer's notice of a vessel's probable readiness.
+Hannah (quickly): And late payment's the same.
+Will: That's the trap. Time of payment is not of the essence unless the contract says so. If it does, late payment is a breach of a condition.
+Hannah (groaning): So it isn't a breach of a condition just because the money's late.
+Will: Not unless the contract says so. And step four: if time isn't of the essence and there's been delay, there's no immediate right to terminate. You serve notice giving a reasonable time to perform, and if they don't perform by then, you can terminate.
+Hannah (thoughtful): So four ways in, and any one will do. Anything else is damages only, and terminating anyway makes me the one in breach.
+Will: Question three. The breach is repudiatory, so you can terminate. What did the innocent party actually do? The core rule: a breach never discharges the contract automatically. It continues until the innocent party chooses to accept the breach and terminate, or to affirm.
+Hannah (pleased): Which is the difference from frustration. Frustration ends it without anyone choosing.
+Will: You got there first. We'll see that properly in question four.
+Hannah: How do I accept? A formal letter?
+Will: No particular form is needed, but acceptance must be clearly and unequivocally communicated to the party in breach. Conduct, such as not performing, may be enough, and it needn't come from the innocent party personally.
+Hannah: And affirming is the mirror image.
+Will: It needs knowledge of the facts and of the—
+Hannah: Right to terminate. Both.
+Will: Both. And it can be express or inferred from conduct, but it must be clear and unequivocal.
+Hannah (wary): And if I just take ages to react?
+Will: Delay alone is not necessarily affirmation, but it may be evidence of it. Using goods for months while complaining may be affirmation. Continuing under a reservation of rights may not be.
+Hannah (groaning): May, may, may. <sigh>
+Will (dry): I know. So the trap is treating delay alone as affirmation. Delay is only evidence. And an election, once made, cannot be reversed.
+Will: Start with accepting. Termination operates for the future only, so both parties are released from primary obligations not yet due.
+Hannah: Right. What about things already due?
+Will: Accrued rights and obligations, such as instalments already due, remain enforceable. The unperformed obligations of the party in breach become a secondary obligation to pay damages, including for loss of the bargain.
+Hannah (thinking aloud): Does the whole contract vanish, small print and all?
+Will: No, six kinds of clause survive. Exclusion clauses, limitation clauses, liquidated damages...
+Hannah: Arbitration and jurisdiction?
+Will: Yes, and confidentiality. And termination isn't rescission for misrepresentation. Termination works for the future only, with accrued rights and those clauses surviving. Rescission sets the contract aside from the start.
+Will: Now the other choice, affirming. The contract continues for both sides, and the innocent party must keep performing its own obligations. You lose the right to terminate for that breach, though you may still terminate for a later or continuing breach. And you're left with damages for the breach only, not loss of the bargain.
+Hannah: So affirm, and I'm stuck with damages for that breach.
+Will: Now a timing twist. An actual breach is when performance was already due. An anticipatory breach is when it wasn't yet. Say a courier is hired for a job starting in two months, and the employer tells him he won't be needed.
+Hannah: So he has to wait two months to find out?
+Will: No. He may accept at once, terminate, and sue immediately, without waiting for the start date. Or he can affirm and wait for performance to fall due. But if he affirms and frustration then discharges the contract, he recovers nothing for that breach.
+Will: Two more points on damages once you've accepted an anticipatory breach. They're assessed on what would actually have happened. So they're reduced if the party in breach could later have terminated lawfully, for example under a war clause, or if the contract would have ended anyway. Events after the breach, up to the date of assessment, are taken into account.
+Hannah: So it isn't simply measured at the date of breach.
+Will: Right. Now back to affirming, for one twist. Say an agency is told the client has cancelled, but affirms and still displays the adverts for three years.
+Hannah (pulling him back): Hang on. I thought affirming left you with damages only.
+Will: It does, apart from one route. After affirming, you may perform and claim the full price as a debt, but only if no cooperation from the client is needed, and the agency must also have a legitimate interest. That's White and Carter and McGregor.
+Hannah: And no legitimate interest is...?
+Will: Where insisting on performance is wholly unreasonable, for example where damages are adequate and performance is pointless.
+Hannah (guessing): And I'd have to mitigate, like with damages.
+Will: No. An allowed price claim is a debt, so mitigation and loss rules don't apply.
+Hannah: So nothing happens until the innocent party chooses. Accept clearly and it ends for the future. Affirm knowingly and it carries on.
+Will (brisk): Question four. Say nobody breached anything, but something has gone wrong with the deal. Is it really a mistake, or is it frustration?
+Hannah (dry): Frustration. I feel it every Monday. <sigh>
+Will (amused): Not legally you don't. Hold that thought. Start with a three-way sort. The parties agreed, but the document records the agreement wrongly: rectification. An event, like destruction, happens after the contract is made: frustration. The impossibility already existed when the contract was made: common mistake.
+Hannah: And what does each do to the contract?
+Will: Rectification corrects the record, and the contract is not void for mistake. Common mistake makes it void from the start. Frustration discharges it from the time of the event.
+Hannah (guessing): So a lease that records a lower rent than we agreed is a common mistake. We were both wrong.
+Will: Careful, that's the trap. <short pause> You did agree, and only the record is wrong, so it's rectification. And subject matter destroyed after contracting is frustration, not mistake. A cargo already sunk when the contract was made is common mistake, and it may be void.
+Hannah: Goods must have a version of this.
+Will: Two sections of the Sale of Goods Act. Section 6: if the goods had already perished before the contract, that's mistake, and the contract is void. Section 7: if specific goods perish without fault after the contract but before risk passes, the agreement is avoided.
+Will: Now frustration itself. Five hurdles, and you need all five. One: the event happens after the contract is made.
+Hannah: Two: neither side caused it.
+Will: Without the fault of either party, so it isn't self-induced. Three: it makes performance impossible, illegal or radically different from what was undertaken.
+Hannah: Any of those?
+Will: Any one. Four: holding the parties to the contract would make them perform a fundamentally different obligation. Five: the contract doesn't provide for the event, and the party claiming frustration didn't assume the risk. Clear all five and the contract is discharged automatically.
+Hannah (dry): And being miserable on a Monday clears none of them.
+Will (laughing): Because mere hardship, inconvenience or increased cost is not enough. A labour shortage that turns an 8-month build into 22 months, or doubles a contractor's costs, isn't frustration. That's Davis Contractors.
+Will: So what does clear them? The categories aren't exhaustive, but there are classics. Destruction of the specific thing or venue essential to performance, like a hired hall burning down before the concerts. That's Taylor and Caldwell. Destroying something else essential to performance counts too, like a factory where machinery was to be installed.
+Hannah: And people?
+Will: Illness or incapacity frustrates if it makes performance impossible or radically different, judged by its length against the length and nature of the contract. A drummer able to play only a few nights of a seven-night engagement: frustrated. Two weeks off in a two-year residency: not. And in a personal services contract, the death of the person who was to perform frustrates it.
+Hannah: Then the law changing under you.
+Will: Supervening illegality: a change in the law or government action after formation makes performance illegal, such as war making the other party an enemy, or an export ban on the goods. The look-alike is initial illegality, where performance was illegal from the start.
+Will: Then purpose. The event must destroy the common foundation or sole purpose shared by both parties, so that performance becomes pointless. That's Krell and Henry. The purpose needn't be written down if both clearly understood it, and defeat of one party's own purpose isn't enough.
+Hannah (thinking aloud): But if a substantial purpose can still be achieved, like the cruise round the fleet, it isn't frustrated.
+Will: That's Herne Bay, the look-alike. Was the shared sole purpose destroyed, or does a substantial purpose remain?
+Will: Last classic, delay. It frustrates only if it's so long that it destroys the commercial purpose or makes performance radically different. The parties need not wait and see: you judge on reasonable forecasts at the time of the event, weighing the likely interruption against the remaining duration.
+Hannah: So a short hiccup in a long contract doesn't do it.
+Will: Right. Five months' requisition frustrated a one-year charter, but requisition with nearly three years of a five-year charter left did not. An interruption to a largely performed contract is less likely to frustrate, and a short interruption does not frustrate.
+Will: Now what doesn't frustrate, where the traps live. A longer or dearer way of performing, like shipping via the Cape when Suez closes. If performance is still possible by another route or at greater cost, there's no frustration. Same for a fall in value, like a building listed after exchange that loses about 90 per cent of its value, and for a change in market conditions.
+Hannah: What about a lease? Say a tenant claims its 25-year office lease is frustrated because its regulatory reasons for being in London have gone.
+Will: A lease can in principle be frustrated, but rarely is, because the tenant still has the interest in land it bargained for. So that lease is almost certainly not frustrated. A temporary closure of access, or the tenant's business reasons for the lease ceasing, will not usually frustrate a lease.
+Will: Two more ways a claim dies. One: it's self-induced. If the event results from a party's own act or choice, there's no frustration, and that party is in breach. Say an owner has five trawlers under contract but is granted only three licences, and allocates them to other contracts. Choosing which contracts to perform is the owner's own choice, so it's self-induced.
+Hannah: And who proves that?
+Will: The party alleging it. If fault is unproven, the contract is frustrated. And where one party's breach caused the event, it's breach, with damages.
+Will: Two: the contract already deals with it. A force majeure clause intended to cover the event governs, unless the event goes beyond the risk assumed. And there's no frustration where the party claiming it assumed the risk, or the event was foreseen and provided for.
+Hannah (guessing): And if the event was foreseeable, there's no frustration.
+Will: Ah, the classic trap. Foreseeability alone does not prevent frustration. The more foreseeable the event, the more likely the parties are taken to have allocated the risk.
+Will: Last point. If it is frustrated, discharge is for the future only, with no election, and obligations accrued before the event are not undone at common law.
+Hannah (thoughtful): So: after the contract, nobody's fault, radically different rather than just dearer, and not already covered. Then it just stops. Which leaves the money.
+Will: Question five: if it's frustrated, who gets what back? There's a statute for exactly this, in two limbs. Section one, subsection two is for money. Section one, subsection three is for other benefits.
+Hannah: Which statute?
+Will: The Law Reform (Frustrated Contracts) Act.
+Hannah: Money first.
+Will: Money paid before the event is recoverable. Money payable before then ceases to be payable. And if it's just, the payee may keep or recover expenses incurred before discharge in performing, capped at the sums paid or payable. If nothing was paid or payable before discharge, there's no expenses allowance.
+Hannah: Give me a picture.
+Will: A promoter pays a band a deposit of £400,000, and then the stadium closes. The band had spent £50,000 preparing. The promoter recovers the £400,000, less any expenses allowance the court thinks just. The most the band may keep is its £50,000, if that's just, and never more than the sums paid or payable.
+Hannah: And subsection three?
+Will: A party who conferred a valuable non-money benefit before discharge recovers a just sum, not exceeding the benefit's value to the recipient. The court weighs the recipient's expenses and the event's effect, and the benefit is the end product, so it may be nil.
+Hannah (guessing): So that's a quantum meruit. A fair price for the work.
+Will: Nope, that's the trap. The Act values the end product to the recipient, so work the event destroys may earn nil.
+Hannah: So money paid or payable is subsection two, with the expenses cap, and a non-money benefit is subsection three, capped at the end product's value.
+Will: Yes. At common law, only a total failure of consideration allowed recovery. That's Fibrosa. Under the Act, part performance received does not bar recovery.
+Hannah: Always?
+Will: Not to voyage charters, carriage of goods by sea, insurance, or specific goods that perish, which is section 7 of the Sale of Goods Act again. And the parties may exclude the Act by contract. Their term then governs.
+Will: Question six, the last: half-done work, refused tenders and goods. Start with entire obligations. Where complete performance is a condition of payment, partial performance earns nothing. That's Cutter and Powell.
+Hannah (wary): Nothing? Even for half a job?
+Will: Nothing. Three steps. Did the party in breach of an entire obligation perform only partly? If so, it has no quantum meruit claim. The exception is where the innocent party freely chose to accept the partial performance.
+Hannah: So everything turns on "freely".
+Will: Free acceptance needs a real choice. Take a builder who abandons a house halfway, on the owner's land. Keeping buildings left on your own land isn't free acceptance, because the owner has no real choice. He pays only for loose materials left on site that he chose to use. That's Sumpter and Hedges.
+Hannah (guessing): But it was half built. Surely that's substantial performance, so the price less defects.
+Will: Tempting, but that's the trap. Substantial performance means the work is complete apart from minor defects, so the price is payable less the cost of putting them right. That's Hoenig and Isaacs. Abandoned halfway isn't substantially completed. And significant defects, like a heating system that heats badly and gives off fumes, mean no substantial performance.
+Hannah: And if the owner stops the builder finishing?
+Will: Prevention. If the other party prevents completion, the performer may claim a reasonable sum for the work done, without any acceptance. That's Planché and Colburn.
+Hannah: So three builders. The one who abandons recovers only on free acceptance. The prevented one claims without it. And the one who finished apart from minor defects gets the price less the cost of putting them right.
+Will (pleased): One more small point: severable obligations, payment by instalment or by stage, are paid for as each part is performed.
+Will: Now tender. A wrongly refused tender of conforming goods or services discharges the performer, who can sue for breach. A refused tender of money doesn't discharge the debt, and the debtor can pay into court to avoid further costs.
+Hannah: So refuse my goods and I'm off the hook, but refuse my money and I still owe it.
+Will: Yes. Finally, goods. Once a buyer accepts the goods, it loses the right to reject and has damages only. That's section 35 of the Sale of Goods Act.
+Hannah: And what counts as accepting?
+Will: Telling the seller it accepts, or an inconsistent act after a reasonable opportunity to examine the goods. Also keeping the goods beyond a reasonable time without telling the seller it rejects them. But asking for or agreeing to a repair is not itself acceptance.
+Hannah: Like a business buyer who uses a defective machine for five months before trying to reject.
+Will: Likely acceptance, because a reasonable time has passed, so damages only. A consumer buyer of faulty goods is different: a separate 30-day right to reject, not the business acceptance rule. That's the short-term right to reject from question one.
+Hannah (pleased): So a party in breach who leaves work under an entire obligation half-done earns nothing unless it was freely accepted, and accepting goods costs a business buyer the right to reject.
+Will (brisk): Numbers round. I say the figure, you tell me its job. 14 days, and up to 12 months.
+Hannah: Consumer cancellation, from the day after delivery or after the contract. Up to 12 months more if the trader never gave the information.
+Will: Two months, and three years.
+Hannah: The courier can terminate and sue at once. And the agency's price as a debt needs no cooperation and a legitimate interest.
+Will: Five months, and 30 days.
+Hannah: Business buyer, likely acceptance. Consumer, a separate right to reject.
+Will: Costs double, and the 25-year lease.
+Hannah: Doubled costs are mere hardship. And the lease is almost certainly not frustrated.
+Will: Five trawlers, three licences.
+Hannah: Self-induced, so the owner is in breach.
+Will: £400,000 and £50,000.
+Hannah: Deposit recoverable less a just allowance, and £50,000 is the most the band may keep.
+Will: Section one, subsection two, section one, subsection three, and section 7.
+Hannah: Money paid or payable. A non-money benefit. Specific goods that perish.
+## Exam mode
+Will (brisk): Exam hat on. For each one, tell me which question of the map it turns on. Here we go. Fenwick licenses software to Calloway for five years. A termination clause lets either party terminate if the other commits a material breach and fails to remedy it within 30 days of written notice. The contract says nothing about whether time of payment is essential.
+Hannah: Go on.
+Will: Calloway pays one quarterly fee late, and Fenwick serves notice on 1 May. Calloway pays on 15 May, but Fenwick sends a termination letter on 20 May anyway. Has Fenwick validly terminated?
+Hannah (confident): Late payment, so a breach of a condition, so a common law right to—
+Will: Hang on. Time of payment is not of the essence unless the contract says so, and this contract says nothing.
+Hannah (groaning): Ugh. So no condition. Then it's question one, the clause. Calloway paid on 15 May, inside the 30 days of notice, so Fenwick's letter on 20 May came before the cure period had expired.
+Will (pleased): Which means the clause wasn't operated strictly. So the answer is no, and Fenwick is itself likely to be in repudiatory breach. Hands off the send button.
+Will: Next. Pellam repudiates a three-year cleaning contract with Oakes after six months. Oakes's solicitor, aware of the breach and of Oakes's rights, writes that Oakes "holds Pellam to the contract, which remains in force". Oakes now claims damages for the lost remaining 30 months. What can Oakes currently recover?
+Hannah (confident): Repudiatory breach, so the lost 30 months. Loss of bargain.
+Will: Which assumes Oakes terminated. Did it?
+Hannah (catching on): Oh. Question three. The solicitor said the contract remains in force. That's affirmation, and not just delay, because the solicitor knew the facts and the rights.
+Will: So Oakes affirmed unequivocally, knowing the facts and its rights. The contract continues and the election is final. Loss of bargain needs termination, which Oakes can now rely on only for a later or continuing breach. Oakes recovers only the losses caused by the breach so far.
+Will: And one more. Maren contracts to build a stage set for Corbin for £10,000. Corbin paid £3,000 on signing, and a further £2,000 fell due but was unpaid. Then a fire, without anyone's fault, destroys the Lyric Theatre in Harrogate and the half-built set. By then Maren had spent £6,000. What's the most Maren can keep or recover from Corbin?
+Hannah (thinking aloud): After the contract, nobody's fault, performance impossible: question four, frustrated. Then question five, the money. She spent £6,000 and holds £3,000, so... she keeps the £3,000 and recovers £3,000 more?
+Will: Careful. <short pause> What caps it?
+Hannah (realising): The expenses allowance can't exceed the sums paid or payable. And payable counts, so it's the £3,000 paid plus the £2,000 that was payable.
+Hannah: Up to £5,000, if the court thinks it just. She keeps the £3,000 and recovers the £2,000, and the rest of her spending is lost. And nothing under subsection three, because the fire destroyed the set.
+Will (pleased): Yes. The end product is what counts, so Corbin's benefit is nil. Counting only the £3,000 paid is wrong, because sums payable count towards the cap.
+Will (brisk): Lightning round. A sale is conditional on the buyer getting finance. The buyer uses reasonable efforts, but the stated time passes without it. Breach?
+Hannah: No. A condition precedent failed, so both parties are released without liability.
+Will: A supplier says its costs rocketed, and relies on force majeure.
+Hannah: It has to prove the event is within the clause and caused the failure, and a rise in cost is usually not enough.
+Will: A builder agrees to build a house for a lump sum payable on completion, then walks off halfway, on the owner's land.
+Hannah: No quantum meruit. Keeping the building isn't free acceptance, and halfway isn't substantial performance.
+Will: A contractor who has fully performed says "forget what you owe me", for nothing.
+Hannah: Only one side still had obligations, so it isn't bilateral discharge. It needs fresh consideration or a deed, though promissory estoppel may still bind her.
+## Recap
+Will (warm): Six questions, one line each.
+Hannah: One, did it end with no breach? A termination clause's specified event is enough, if you operate it strictly.
+Will: Two, does the breach let you terminate? Only a condition, a serious innominate breach, a renunciation or disabling yourself does, and terminate without that right and you're the one in breach.
+Hannah: Three, accept or affirm? A breach ends nothing until the innocent party accepts it, and affirming knowingly leaves damages for that breach, not loss of bargain.
+Will: Four, mistake or frustration? Frustration needs an event after the contract, with no fault, making performance impossible, illegal or radically different; more cost is not enough.
+Hannah: Five, who gets what back? Section one, subsection two covers money paid or payable, with expenses capped at those sums; subsection three values the end product.
+Will: Six, who pays for half-done work? A party in breach of an entire obligation who performed only partly gets nothing, unless the other side freely chose to accept it; accepting goods ends the right to reject.
+Hannah (dry): And never, ever touch the send button early. <laugh>
+Will (warm): Ask whether it ended without breach, then whether the breach was repudiatory; the innocent party chooses, terminate without the right and you're the one in breach, and frustration needs a no-fault event making performance impossible, illegal or radically different.
