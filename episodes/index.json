@@ -480,12 +480,20 @@
       ],
       "summary": "Civil hearsay is admissible and weighed, experts owe their duty to the court, joint experts mean no private meetings, witnesses sign statements, a summons binds only if served at least 7 days before attendance unless the court directs otherwise, and the defendant closes first.",
       "madeAt": "2026-10-23T10:45:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 18047865,
+      "seconds": 2256,
+      "words": 5766,
+      "renderedHash": "2456c6cf78eb",
+      "renderedAt": "2026-10-23T10:46:55+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-6723fe29.mp3",
+      "pubDate": "2026-10-23T10:46:55+00:00"
     }
   ],
   "replays": []
