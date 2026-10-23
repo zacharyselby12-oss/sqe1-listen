@@ -330,6 +330,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws07-f0c9bcf5.mp3",
       "pubDate": "2026-10-22T10:36:54+00:00"
+    },
+    {
+      "id": "contract-ws09",
+      "unitId": "u-bpp-Contract-09",
+      "title": "Contract WS09 · Damages and Remoteness",
+      "guideHash": "374a00a1aa",
+      "script": "scripts/contract-ws09.txt",
+      "scriptHash": "73552e2f02da",
+      "audio": "audio/contract-ws09.mp3",
+      "recap": [
+        "Measure the loss: damages compensate and never punish, expectation is the default, and with a market for the goods it is the market price on the due date.",
+        "Cause: the breach has to be an effective cause, not merely the opportunity for the loss.",
+        "Remoteness: loss that arises naturally, or from special circumstances the defendant actually knew at contracting, and once the type of loss was a serious possibility the full extent is recoverable.",
+        "Cutting it down: the defendant has to prove the claimant missed reasonable steps, and only a benefit caused by the breach gets deducted.",
+        "Money back: a total failure of consideration returns the whole payment, a partial failure only if it can be apportioned, and a reasonable true deposit is forfeited, with 10 per cent the conventional deposit for land.",
+        "Consumers: 30 days to reject, then one repair or replacement, then price reduction or final rejection, and there is no right to reject a service."
+      ],
+      "map": [
+        "How do we measure the loss?",
+        "Did the breach cause it?",
+        "Was the loss too remote?",
+        "Could the claimant have cut it down?",
+        "Would getting the money back work better?",
+        "Is the client a consumer?"
+      ],
+      "summary": "Damages put the claimant where performance would have, for loss the breach effectively caused that wasn't too remote and that reasonable steps couldn't have avoided, while restitution and the consumer ladder offer other routes.",
+      "madeAt": "2026-10-23T08:26:08+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": []
