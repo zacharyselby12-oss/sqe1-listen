@@ -439,12 +439,20 @@
       ],
       "summary": "Valid agreed sums are paid and penalties fall away, specific performance needs inadequate damages, clear negative promises ordinarily get injunctions, and indemnity or guarantee is decided by substance, with guarantees needing writing and consideration or a deed.",
       "madeAt": "2026-10-23T09:04:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 18224893,
+      "seconds": 2278,
+      "words": 5579,
+      "renderedHash": "754347f5395c",
+      "renderedAt": "2026-10-23T09:41:57+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws10-30f116be.mp3",
+      "pubDate": "2026-10-23T09:41:57+00:00"
     }
   ],
   "replays": []
