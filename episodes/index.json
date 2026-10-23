@@ -398,12 +398,20 @@
       ],
       "summary": "Ask whether it ended without breach, then whether the breach was repudiatory; the innocent party chooses, terminate without the right and you're the one in breach, and frustration needs a no-fault event making performance impossible, illegal or radically different.",
       "madeAt": "2026-10-23T08:56:46+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes; verify: 12 of 13 changes pass, the 13th a statute-year style point kept by the house rule)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 18327900,
+      "seconds": 2291,
+      "words": 5610,
+      "renderedHash": "e3b4e7b43b14",
+      "renderedAt": "2026-10-23T08:57:38+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws08-228224ca.mp3",
+      "pubDate": "2026-10-23T08:57:38+00:00"
     }
   ],
   "replays": []
