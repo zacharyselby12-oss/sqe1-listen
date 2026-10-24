@@ -521,12 +521,20 @@
       ],
       "summary": "Choose loan or shares on control, tax and cash flow, refuse evasion, get the profits, rate and payment dates right, watch buybacks and loans to shareholders, and check VAT through supply, registration and the tax point.",
       "madeAt": "2026-10-23T14:16:29+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 19003308,
+      "seconds": 2375,
+      "words": 5641,
+      "renderedHash": "e53d61ca0184",
+      "renderedAt": "2026-10-24T19:07:18+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws07-3daae2f3.mp3",
+      "pubDate": "2026-10-24T19:07:18+00:00"
     }
   ],
   "replays": []
