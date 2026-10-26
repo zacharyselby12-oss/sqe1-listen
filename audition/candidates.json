@@ -1,5 +1,5 @@
 {
- "intro": "Brief 2 test (26 Oct): clip E4a is the improved Contract WS08 excerpt (podcast spec v2: opening map, two full blocks, think-gaps of 6 seconds of silence) in your chosen voices. Not in any feed. Clips 1 to 12 are round 3's voice test, made from the old sample.",
+ "intro": "Trial episodes (26 Oct, brief 3): each T- clip is a full trial episode in your chosen voices, made from its own script. Not in any feed. Earlier clips were made from earlier samples.",
  "candidates": [
   {
    "id": "1",
@@ -183,6 +183,22 @@
     "gender": "male",
     "id": "voice_7636x92kz2nd",
     "name": "Will: voice 7 from round 3 (your choice)"
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "Hannah: the woman from pair D"
+   }
+  },
+  {
+   "id": "T-BLP-WS07",
+   "label": "Trial episode BLP-WS07 (podcast spec v2.0), your chosen voices",
+   "kind": "mix",
+   "mode": "pair",
+   "lead": {
+    "gender": "male",
+    "id": "voice_7636x92kz2nd",
+    "name": "Will: voice 7 from round 3"
    },
    "second": {
     "gender": "female",
