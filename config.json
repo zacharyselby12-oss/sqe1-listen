@@ -38,7 +38,7 @@
       ]
     }
   },
-  "speechRequestsPerDay": 100,
+  "speechRequestsPerDay": 500,
   "speechRequestsReserve": 10,
   "areaNames": {
     "BLP": "Business Law and Practice",
