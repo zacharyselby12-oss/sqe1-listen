@@ -191,8 +191,8 @@
    }
   },
   {
-   "id": "T-BLP-WS07",
-   "label": "Trial episode BLP-WS07 (podcast spec v2.0), your chosen voices",
+   "id": "T-DR-WS07",
+   "label": "Trial episode DR-WS07 (podcast spec v2.0), your chosen voices",
    "kind": "mix",
    "mode": "pair",
    "lead": {
@@ -207,8 +207,8 @@
    }
   },
   {
-   "id": "T-DR-WS07",
-   "label": "Trial episode DR-WS07 (podcast spec v2.0), your chosen voices",
+   "id": "T-BLP-WS07",
+   "label": "Trial episode BLP-WS07 (podcast spec v2.0), your chosen voices",
    "kind": "mix",
    "mode": "pair",
    "lead": {
