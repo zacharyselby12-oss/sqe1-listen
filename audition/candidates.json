@@ -207,8 +207,8 @@
    }
   },
   {
-   "id": "T-Tort-WS04",
-   "label": "Trial episode Tort-WS04 (podcast spec v2.0), your chosen voices",
+   "id": "T-DR-WS07",
+   "label": "Trial episode DR-WS07 (podcast spec v2.1), your chosen voices",
    "kind": "mix",
    "mode": "pair",
    "lead": {
@@ -223,8 +223,8 @@
    }
   },
   {
-   "id": "T-DR-WS07",
-   "label": "Trial episode DR-WS07 (podcast spec v2.1), your chosen voices",
+   "id": "T-Tort-WS04",
+   "label": "Trial episode Tort-WS04 (podcast spec v2.1), your chosen voices",
    "kind": "mix",
    "mode": "pair",
    "lead": {
