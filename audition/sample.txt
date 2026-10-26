@@ -1,385 +1,326 @@
 ---
-title: BLP WS07 · Corporation Tax and VAT
+title: DR WS07 · Evidence
 map:
-- Corporation tax: charge, rates, accounting periods and payment
-- Income profits, deductible expenditure and capital allowances
-- Chargeable gains and the substantial shareholding exemption
-- Loss relief
-- Close companies
-- VAT: scope, supply and registration
-- VAT: output and input tax, rates, returns and schemes
-- Distributions, buybacks, liquidations; debt v equity
-- General anti-avoidance and tax evasion
+- Evidence basics and admissibility
+- Witness statements: use, exchange and time limits
+- Form of witness statements; affidavits
+- Hearsay and previous convictions
+- Witness summonses and trial procedure
+- Experts' duty to the court and instructions
+- Single joint experts
+- Discussions between experts, oral expert evidence, unfavourable reports
 recap:
-- Corporation tax: a company pays on total profits for each accounting period of up to 12 months; the limits shrink for associated companies and short periods; pay 9 months and 1 day after the period, or by instalments if large.
-- Income profits: salaries, employer's NICs, employer pension contributions and business interest come off; dividends paid, depreciation, client entertainment and capital expenditure do not; full expensing is 100% for companies on new and unused main-rate plant.
-- Gains: the SSE exempts a company's gain on at least 10% of a trading company held for a continuous 12 months within the 6 years before disposal.
-- Loss relief: same period, then the previous 12 months only after a current-period claim, then forward; only a cessation opens the 3-year terminal carry-back; capital losses stay with gains.
-- Close companies: 5 or fewer participators, or participator-directors, with more than 50% control; a loan brings a refundable charge on the company; a benefit to a non-working participator is a distribution; phoenixism needs at least 5%, a similar trade within 2 years and a main purpose.
-- VAT scope: five conditions; registration counts taxable supplies only; the historic test notifies within 30 days of the month end, the future test by the end of the 30 days; an exempt-only supplier cannot register.
-- VAT charging: silence means VAT-inclusive; a later invoice moves the tax point only within 14 days; zero-rated is taxable, exempt is not; return and payment by 1 month and 7 days after the period; only cash accounting, or the flat rate scheme's cash-based method, follows payment.
-- Distributions: interest is deductible, dividends are not; a buyback is income unless all six conditions or the IHT route are met; a liquidator's payment is capital.
-- Anti-avoidance: evasion is a crime and must be refused; the GAAR needs an abusive tax arrangement and does not cover VAT; a salaried member needs all of A, B and C.
-summary: Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.
+- Evidence must be relevant to a fact in issue; relevant evidence can still be excluded, but improperly obtained evidence is generally admitted in civil cases.
+- A served witness statement stands as evidence in chief; late, unused and unobtainable statements each have their own route.
+- The witness signs the statement of truth; an affidavit is the sworn form, needed only where something requires it, and sworn before an independent person.
+- Civil hearsay is admissible and weighed; it is excluded only if, and to the extent, the maker is shown not competent when it was made, and missing notice goes to weight and costs.
+- A summons compels attendance and a served statement does not; issue timing decides permission, service timing decides binding effect.
+- The expert's duty to the court overrides any duty to whoever instructs or pays them, and there is no immunity from a negligence claim.
+- A single joint expert gets copied instructions and no private meetings; a dissatisfied party asks written questions, and a second expert needs permission.
+- Experts' discussions end in a joint statement the court can see; an agreement binds a party only if it expressly agrees; a party may not ask its expert to change a genuinely held opinion.
+summary: Evidence must be relevant, witness statements stand as evidence in chief, affidavits are sworn, hearsay is admitted and weighed, summonses compel attendance, experts owe their duty to the court, a single joint expert gets copied instructions, and expert discussions end in a joint statement.
 invented:
-- Ines
-- Mira Ltd
-- Oak Ltd
-- £90,000
-- £22,500
-- £35,000
-- £525
-- £21,975
-- £160,000
-- £2,400
-- £20,100
-- Wren Ltd
-- Fern Ltd
-- £60,000
-- £20,000
-- £12,000
-- £8,000
-- £30,000
-- £10,000
-- Femi
-- £95,000
-- 31 October
-- 30 November
-- 1 December
-- Harbour Ltd
-- £600,000
-- £100,000
-- £120,000
-- 3 March
-- 12 March
-- Maple Ltd
-- £1,800
+- Aisha
 - Dev
-- Larch Ltd
-- 32%
-- 26%
-- 24%
-- 7 years
+- Marisol
+- Kofi
+- Dani
+- Norvik Ltd
+- Tomasz
 ---
 ## Map
-Will: Nine topics today, so hold on to the shape. First, corporation tax itself: the charge, the rates and when it's paid. Then income profits, deductible costs and capital allowances. Then chargeable gains and the shareholding exemption. And then loss relief.
-Hannah (thoughtful): So the tax, the profit, the gains and the losses. Four down.
-Will: Yes. Next, close companies. Then VAT in two halves: scope and registration first, then charging, returns and schemes.
-Hannah: Close companies, VAT coming in, VAT going out.
-Will: That's it. Then money in and out of a company: debt against equity, buybacks and liquidations.
-Hannah: Money in, money out.
-Will: Yes. And last, anti-avoidance and evasion.
-Hannah (wry): The bit where somebody commits a crime. <laugh> Fine. Go on.
-
-## Block 1: Corporation tax: charge, rates, accounting periods and payment
-Will (brisk): Corporation tax first. A UK resident company pays corporation tax on its total profits for each accounting period. Not income tax, and not capital gains tax.
-Hannah: Even on a gain from selling shares?
-Will: Yes. A company's gain is part of its total profits, and those are charged to corporation tax. So capital gains tax is the wrong answer whenever the taxpayer is a company.
-Hannah (teasing): And the accounting period is a year?
-Will: At most. It's never longer than 12 months. If the accounts run for 15 months, it isn't one long period. It's split into a first 12-month period and the remainder, and each is taxed separately.
-Hannah: Split, not stretched.
-Will: Yes. The reason this matters is that the limits shrink for associated companies and short periods, and the payment date depends on size. But first, the sum. Trading profit, after capital allowances, plus property income.
-Hannah: Plus?
-Will: Non-trading loan relationship credits, which means things like interest received, and then chargeable gains, net of capital losses. That's total profits.
-Hannah: And then some comes off.
-Will: Losses relieved and qualifying charitable donations. What's left is taxable total profits, and the rate bites on that.
-Will: Now the rates. There's a small profits rate up to a lower limit, the main rate above an upper limit, and in between it's the main rate less marginal relief. For financial year 2026 the exam gives you the figures: 19 per cent up to £50,000, 25 per cent above £250,000, and a marginal relief fraction of three over two hundred.
-Hannah: And what moves those limits?
-Will: Two things. If the company has associated companies, you divide the limits by the number of them, counting this one. Associated means under common control. So three companies, limits divided by three. <short pause> And if the accounting period is short, the limits are reduced proportionately, so a 3-month period gets three twelfths.
-Will: Counting this one, so three in all means divide by three. Marginal relief itself is the fraction times the gap between the upper limit and the taxable total profits, for a company that receives no dividends, and the question gives you the fraction.
-Hannah: Go on then, test me.
-Will (dry): Ines owns all the shares in two companies, Mira Ltd and Oak Ltd. Mira has a full 12-month accounting period, taxable total profits of £90,000, and it receives no dividends. What is Mira's corporation tax?
-Hannah (thoughtful): So this is the rates part of corporation tax. Is it the small profits rate on the lot, 19 per cent; the main rate less marginal relief worked from the full limits; or the main rate less marginal relief worked from halved limits?
-Hannah: <think>
-Hannah: Ines controls both companies, so they're associated, and the limits are divided by two. That gives £25,000 and £125,000. The profits of £90,000 are above the lower limit and below the upper one, so it's the main rate less marginal relief. 25 per cent of £90,000 is £22,500. The relief is three over two hundred of the gap between £125,000 and £90,000, which is £35,000, so £525. The tax is £21,975.
-Will: Yes. The deciding fact is common control, because it halves the limits. Use the full limits and the gap is £160,000, the relief is £2,400 and you'd write £20,100, which gives too much relief. And the small profits rate fails because £90,000 is above even the halved lower limit.
-Hannah: And the date?
-Will: A company that isn't large pays 9 months and 1 day after the end of the accounting period. A large company pays by quarterly instalments.
-Hannah: What counts as large?
-Will: Profits over £1.5m, and with associated companies that figure is divided between them, like the rate limits. There are two ways out of being treated as large. One is a liability of £10,000 or less.
-Hannah: And the other?
-Will: Profits of £10m or less, and the company wasn't large in the previous 12 months. It needs both of those.
-Hannah: And if it is large?
-Will: Instalments in months 7, 10, 13 and 16, counted from the start of a 12-month period, and they're based on the estimated liability for the current period. Very large means profits over £20 million, and those instalments come earlier, in months 3, 6, 9 and 12.
-Hannah (wry): Very large companies pay first. Makes sense.
-Will: Yes. The return is a separate deadline, 12 months after the end of the period, and separate from the Companies House deadlines too. And don't mix any of this up with an individual's self-assessment dates, 31 January and 31 July. A sole trader's payments on account are based on the previous year; a company's instalments are based on the current one.
-Hannah: So the trap is saying 31 January for a company.
-Will: Yes. A company that isn't large pays 9 months and 1 day after the period.
-Hannah: Corporation tax in a line: corporation tax on total profits, limits shrink for associated companies and short periods, 9 months and 1 day unless large.
-Will: Right. That's the tax and the date. Next, how the profit itself gets worked out.
-
-## Block 2: Income profits, deductible expenditure and capital allowances
-Will: This is where trading profit comes from. It's chargeable receipts less income expenditure incurred wholly and exclusively for the trade, with capital allowances in place of depreciation. Questions test which costs come off, and which allowance a purchase gets.
-Hannah: Costs first, then.
-Will: Four that are deductible: directors' and employees' salaries, employer's NICs, employer pension contributions, and interest on business borrowings.
-Hannah: And the ones that aren't?
-Will: Dividends paid, depreciation, client entertainment and capital expenditure, like buying premises. Dividends come out of post-tax profits, and depreciation is replaced by capital allowances.
-Hannah (sceptical): Client entertainment is for the trade, though.
-Will: It's disallowed even if it is wholly and exclusively for the trade. Staff entertainment, on the other hand, remains deductible.
-Hannah: Client no, staff yes. And dividends?
-Will: Right. A dividend paid is not deductible and the company deducts no tax. A dividend a company receives from another company is generally exempt from corporation tax. The trap is thinking a dividend paid reduces the company's tax. It doesn't.
-Hannah: Capital allowances, then.
-Will: The headline is full expensing, for companies only. It's a 100 per cent first-year allowance on new and unused main-rate plant and machinery, with no upper limit.
-Hannah: And second-hand plant?
-Will: No full expensing for that. Special-rate assets get a 50 per cent first-year allowance. There's also the annual investment allowance, £1m a year, and sole traders can claim that one too.
-Hannah: And if you later sell something you fully expensed?
-Will: The proceeds are taxed as a balancing charge. Then writing-down allowances: the main pool is 14 per cent from 1 April 2026, previously 18 per cent, and the special rate pool is 6 per cent. The exam supplies those.
-Hannah (wary): Older notes still say 18 per cent, and some say full expensing has ended.
-Will: The 18 is the previous main pool figure. And full expensing has not ended: companies still get 100 per cent on new and unused main-rate plant, with no upper limit.
-Hannah: In a line: costs for the trade come off, except four: dividends, depreciation, client entertainment and capital spending.
-Will: Right, that's the profit. Next, what happens when the company sells shares at a gain.
-
-## Block 3: Chargeable gains and the substantial shareholding exemption
-Will: This one is short. A company's gains form part of its total profits, and the substantial shareholding exemption, SSE, exempts the gain when a company sells a substantial holding in a trading company. It matters because without the exemption the gain is simply part of total profits and taxed, so questions turn on the holding conditions.
-Hannah: What makes it substantial?
-Will: Four conditions, and you need all of them. The seller held at least 10 per cent of the ordinary share capital, and held it for a continuous 12 months.
-Hannah: Continuous, so no gaps.
-Will: Yes. And that 12 months falls within the 6 years before the disposal. The last one is that the shares are in a trading company, or the holding company of a trading group.
-Hannah: And if it's a loss, not a gain?
-Will: The loss is exempt too.
-Hannah: Now the look-alike. Is this the one that gets muddled with BADR?
-Will: Yes. BADR is for individuals. SSE is for a seller that is a company: 10 per cent for a continuous 12 months in the previous 6 years.
-Hannah: Company seller, SSE. Individual seller, BADR.
-Will: Right. Next is what happens when the company loses money instead.
-
-## Block 4: Loss relief
-Will: Loss relief. A trading loss goes against the same period, then back 12 months, then forward. Only a loss in the final 12 months of trading opens the 3-year carry-back, and capital losses stay with gains.
-Will: It matters because a loss only saves tax when it's set against profits, so the claims open to the company decide when the saving comes.
-Will: A trading loss is set against total profits of the same period, and that means income and gains together. Then, if there's loss left, it can be carried back to the previous 12 months, but only if a claim against the current period was made first.
-Hannah: No current-period claim, no carry-back.
-Will: Right. What's still left is carried forward against total profits of later periods, restricted for very large profits.
-Hannah (guessing): And a company that's still trading can go back three years.
-Will: That's the tempting wrong answer. The 3-year carry-back is for a terminal loss, a loss made in the final 12 months of trading. After the same-period claim it's carried back against total profits of the previous 3 years, latest first.
-Hannah: So what decides it?
-Will: Whether the trade has ceased. Wren Ltd closes down this year, and its last 12 months of trading made a loss. That loss goes against the same period, then back across the previous 3 years, latest year first. Fern Ltd is different. It is still trading and loses £60,000. It has £20,000 of total profits this year, from £12,000 of property income and an £8,000 gain, and £30,000 of total profits in the previous 12 months.
-Hannah: So £20,000 against this year, and £30,000 goes back.
-Will: Yes. And the last £10,000 goes forward. It can't go back further, because the 3-year carry-back needs the trade to have stopped.
-Hannah: Ceased trading, 3 years. Still trading, 12 months.
-Will: Right. Carried-forward losses relieve profits in full up to the £5m deductions allowance, and then only 50 per cent of profits above that.
-Hannah: What about group relief?
-Will: Group relief needs a 75 per cent group. The parent holds at least 75 per cent of the shares and is entitled to 75 per cent of the distributable profits.
-Hannah: That's two. There's a third.
-Will: Yes, 75 per cent of the assets on a winding up, directly or indirectly. And the loss is set against the claimant's profits of the corresponding period.
-Hannah: And a company compared with an individual?
-Will: A company sets losses against total profits and has no early years relief. An individual carries forward only against the same trade.
-Hannah: Losses can disappear, though.
-Will: Carried-forward trading losses are lost when there's a change in ownership, meaning more than half the shares, together with a major change in the nature or conduct of the trade. That major change counts if it falls anywhere from 3 years before to 5 years after the change in ownership.
-Hannah (wary): So not just the 5 years after.
-Will: Right, the window starts 3 years before. And capital losses go only against chargeable gains of the same or later periods, never against income, and never back.
-Hannah: Same period, then 12 months back after a claim, then forward; and 3 years back only on cessation.
-Will: Right. Now the anti-avoidance rules for companies owned by a few people.
-
-## Block 5: Close companies
-Will: Close companies. These are rules aimed at companies controlled by a few participators. There are three to learn: loans to participators, benefits to participators, and profit taken as capital to avoid income tax. First, what makes a company close.
-Hannah: Go.
-Will: A close company is a UK resident company controlled by 5 or fewer participators, or by any number of participators who are directors.
-Hannah: And control?
-Will: More than 50 per cent of the share capital, the votes, the distributable income or the assets on a winding up. And you add the rights of a participator's associates, such as close relatives and business partners, to their own.
-Hannah: Which could tip a company over.
-Will: Picture ten shareholders, none a director, each with 10 per cent of every class of right, two of them married to each other and two others siblings. The five largest hold just 50 per cent, and that isn't control, because it has to be more than 50. But the couple count together as 20 per cent and the siblings as another 20, and three others on 10 each makes five participators with 70 per cent. It's close.
-Hannah (pleased): Associates are what get it across the line.
-Will: Yes. Now loans. A close company lends money to a participator or an associate. The company pays a charge of a percentage of the loan, due 9 months and 1 day after the end of the accounting period. It's the section 455 charge.
-Hannah: Who's taxed, the borrower?
-Will: No, and that's the trap. It falls on the company, whoever borrows. It isn't deductible for the company, and it isn't a tax on the participator. It's temporary: if the loan is repaid, released or written off later, HMRC repays the charge, and the company claims it 9 months and 1 day after the end of the period in which that happens.
-Hannah: What's the rate?
-Will: 35.75 per cent for loans made on or after 6 April 2026, and 33.75 per cent before that.
-Hannah: And there are ways out.
-Will: Three exceptions. The loan is made in the ordinary course of a money-lending business. Or it's a loan of up to £15,000 to a full-time working director who doesn't have a material interest, which means over 5 per cent.
-Hannah: And the third?
-Will: The loan is repaid before the due date, 9 months and 1 day after the period end. But a repayment of £5,000 or more is matched to new loans of £5,000 or more made within 30 days, in a later accounting period.
-Hannah (groaning): So that repay-and-reborrow move doesn't escape the charge.
-Will: Right. Now what happens to the borrower. If the loan is written off or released, the participator is taxed on the amount as dividend income. And the same loan can also be a benefit in kind for a director or employee if it's interest-free or low-rate, above the £10,000 limit.
-Hannah: One loan, two charges.
-Will: Yes. Benefits next. A participator gets free use of a company house, and she is neither a director nor an employee.
-Hannah (guessing): Benefit in kind.
-Will: For a director or employee, yes. But for a participator who doesn't work for the company it's a distribution: not deductible, and taxed as dividend income. What decides it is whether the participator works for the company.
-Hannah: Works there, benefit in kind. Doesn't, distribution.
-Will: Yes. The last two are about profit taken as capital. Transactions in securities: a capital extraction, say a liquidation or a buyback, with income tax avoidance as a main purpose. HMRC counteracts it, typically taxing it as income.
-Hannah: And phoenixism?
-Will: A close company's winding-up distribution to a shareholder with at least 5 per cent is income if she carries on a similar trade or activity within 2 years.
-Hannah: That would catch an awful lot of people.
-Will: Only where avoiding income tax is a main purpose. Without that main purpose, the distribution stays capital.
-Hannah: So three things, all needed: at least 5 per cent, a similar trade within 2 years, and the main purpose.
-Will: Right. Then a short outline of other rules. Associated companies share the profit limits, and the corporate interest restriction hits net interest above £2m.
-Hannah: More?
-Will: Transfer pricing, where SMEs are largely exempt. Close investment-holding companies pay the main rate. And the GAAR applies to corporation tax.
-Hannah: Close companies: few controllers, a refundable charge on loans, distributions for non-working participators, and capital that can become income.
-Will: Right. That's corporation tax done. Now VAT.
-
-## Block 6: VAT: scope, supply and registration
-Will: VAT scope and registration. VAT needs five conditions, and you need all five. Registration then counts only taxable supplies, looking back 12 months at each month end, or forward to the next 30 days alone.
-Will: It matters because a business that should have registered and didn't must account for output tax from the date it should have been registered, out of its own pocket if customers won't pay, plus a penalty.
-Hannah: Give me the five in pairs.
-Will: There's a supply of goods or services, and it's made in the UK.
-Will: It's a taxable supply, so standard, reduced or zero-rated, not exempt. And it's made by a taxable person, someone registered or required to be.
-Hannah: That's four. And the fifth is business.
-Will: Yes. In the course or furtherance of a business that person carries on. If all five are met, charge output tax, deduct input tax, and account in the period of the tax point.
-Hannah: So only registered people charge VAT is wrong.
-Will: Yes. A person who is required to register is already a taxable person.
-Hannah: What's a supply?
-Will: Goods is the transfer of the whole property in the goods. Services is anything done for a consideration that isn't a supply of goods. So supplies for no consideration, a free service for example, are generally outside VAT. And business gifts of goods are supplies, unless they're low value, £50 or less per recipient in a 12-month period.
-Hannah: Anything that isn't a supply at all?
-Will: One big one: a transfer of a going concern, TOGC. Transferring a business, or a part capable of separate operation, is neither goods nor services, so no VAT.
-Hannah: On what conditions?
-Will: The buyer uses the assets in the same kind of business, with no significant break. And the buyer is or becomes registered where the seller is.
-Hannah: And land?
-Will: If the seller opted to tax the land, the buyer must opt to tax, notify HMRC, and tell the seller its option will not be disapplied, all by the time of supply.
-Hannah (wry): Three jobs, one deadline.
-Will: Yes. Now registration. Count taxable supplies only: standard, reduced and zero-rated. Leave out exempt supplies and sales of capital assets. There are two tests. The future test applies at any time: are taxable supplies in the next 30 days alone reasonably expected to exceed the threshold? If so, register.
-Hannah: And the other?
-Will: The historic test is at each month end: did taxable supplies in the previous 12 months exceed the threshold? It's rolling, checked at the end of each month, not by calendar year or accounting year. There's an exception to the historic test: if HMRC is satisfied that the next 12 months will not exceed the deregistration threshold, there's no registration. A one-off spike in sales is the example. The exam gives both thresholds, £90,000 to register and £88,000 to deregister.
-Hannah: And the timings differ.
-Will: Historic test: notify HMRC within 30 days of the end of the month, and you're registered from the first day of the second month after it. Future test: notify by the end of those 30 days, and you're registered from the start of the 30-day period.
-Hannah: Is it 3 months to notify?
-Will: No, that's the corporation tax notification. Two more points. A business making taxable and exempt supplies tests on its taxable supplies only. And a person making only exempt supplies cannot register, like an insurance broker, or a landlord with no option to tax.
-Hannah: And if you forget to register?
-Will: Failure to register means it must account for output tax from the date it should have been registered, out of its own pocket if customers won't pay, plus a penalty. Right, a scenario. Femi sells food and does web design. In the 12 months to 31 October she had £60,000 of zero-rated food sales, £35,000 of standard-rated design work, and £30,000 of exempt insurance commission, and she sold an old van for £8,000. Must she register, and from when?
-Hannah (brisk): So is it no, because only the £35,000 of standard-rated work counts; yes, notify by 30 November and register from 1 December; or yes, notify by the end of 30 days and register from the start of the 30-day period?
-Hannah: <think>
-Hannah: This is VAT registration. Zero-rated is taxable, so the food counts: £60,000 plus £35,000 is £95,000. The commission is exempt and the van is a capital asset, so neither counts. £95,000 is over £90,000 at the 31 October month end, and that's the historic test. So notify by 30 November, registered from 1 December.
-Will: Yes. What decides it is the rolling 12 months to a month end, and the right total is taxable supplies only. The first option drops the zero-rated food, which is the mistake. The third is the future test, which looks only at the next 30 days, and nothing here says that.
-Hannah: Can you register if you're under the threshold?
-Will: Voluntary registration is allowed below the threshold if the business makes taxable supplies, and then it can recover input tax. It suits zero-rated suppliers and suppliers to VAT-registered business customers. The drawback is that it must charge VAT, so it's less competitive where customers are consumers who can't recover it. Once registered it must also file returns and keep VAT records.
-Hannah: And before registering?
-Will: Pre-registration input tax is recoverable on goods still held, bought within 4 years, and on services received within 6 months before registration.
-Hannah: VAT scope in a line: five conditions, taxable supplies count, notify within 30 days or by the end of the 30, and an exempt-only supplier can't register.
-Will: Right. That's who is in. Now what they charge.
-
-## Block 7: VAT: output and input tax, rates, returns and schemes
-Will: VAT output and input tax. Output tax is the VAT a registered person must charge on taxable supplies and account for to HMRC. Input tax is recovered, so VAT falls on the final consumer. Question one: how much VAT is in the price?
-Hannah (guessing): Twenty per cent on top.
-Will: Not if the price is silent. A price agreed without mention of VAT is VAT-inclusive. The supplier accounts for the VAT out of it, one sixth at 20 per cent. VAT goes on top only under an express plus VAT term.
-Hannah: Show me.
-Will: Harbour Ltd makes a standard-rated supply for £600,000 and the contract says nothing about VAT. It accounts for £100,000 out of the price. Now the same supply under an express plus VAT term, and £120,000 is added on top.
-Hannah: So the deciding fact is the clause. Silence means inclusive, an express term means on top.
-Will: Yes. Question two is when. Output tax is due in the VAT period of the tax point. The basic tax point is when goods are delivered or made available, or when services are performed. It's earlier if an invoice is issued or payment, like a deposit, is received first.
-Hannah: And later?
-Will: Later, at the invoice date, if a VAT invoice is issued within 14 days after the basic tax point. If the invoice comes more than 14 days later, the tax point stays at the basic tax point. Quick test. Goods are delivered on 3 March and the VAT invoice goes out on 12 March. Which date is the tax point?
-Hannah: So is it the delivery date, 3 March, or the invoice date, 12 March?
-Hannah: <think>
-Hannah: Nine days is within 14, so the tax point moves later to the invoice date, 12 March.
-Will: Yes. Twenty days later and it would stay at 3 March.
-Hannah: Input tax, then.
-Will: VAT paid on goods and services supplied for the business, deducted from output tax. If input tax exceeds output tax, HMRC repays the excess. Deduction needs a valid VAT invoice, and input tax relating to exempt supplies is not recoverable, which is partial exemption. Blocked input tax is business entertainment and cars available for private use.
-Hannah: So who ends up paying?
-Will: The final consumer. It's neutral for a registered business, which collects output tax and recovers input tax. Unregistered persons and exempt businesses bear it as a cost. Across a chain, the total reaching HMRC is the VAT on the final sale price.
-Hannah: Types of supply, then.
-Will: Exempt supplies aren't taxable: most sales and leases of land, unless the owner opted to tax, financial services, and insurance.
-Hannah: Anything else?
-Will: Education and health. Now the big point. Zero-rated and exempt supplies both carry no VAT, but zero-rated supplies are taxable.
-Hannah: Which means what?
-Will: Take most food, which is zero-rated. Those sales count towards the threshold, and input tax on them is recoverable. Take insurance commission, which is exempt. It doesn't count, and its input tax is not recoverable. What decides it is whether the supply is taxable at a nil rate or not taxable at all.
-Hannah: So it isn't exempt just because the rate is nil.
-Will: Right. Standard is 20 per cent and the default, reduced is 5 per cent and the question gives it, and zero is 0 per cent. Free services and a TOGC are outside the scope altogether.
-Hannah: Land?
-Will: The freehold sale of a new commercial building, completed less than 3 years ago, is compulsorily standard-rated. Other commercial land supplies, including the grant of a lease of a new building, are exempt unless the supplier has opted to tax. After an option to tax, future supplies of that land are standard-rated and related input tax is recoverable.
-Hannah: Invoices?
-Will: A VAT invoice is required for a taxable supply to a VAT-registered customer, normally within 30 days of the time of supply, and the customer needs a valid one to recover the VAT. Simplified invoices are allowed for retail supplies up to £250.
-Hannah: Is that 30 days the same as the 14?
-Will: No. 14 days decides whether a later invoice moves the tax point. 30 days is the deadline for issuing the invoice.
-Will: Returns now. For each VAT period, usually quarterly, output tax on supplies made less input tax on supplies received. You file and pay by 1 month and 7 days after the period ends, through Making Tax Digital software.
-Hannah: Compare that with corporation tax.
-Will: The VAT deadline runs from the end of the VAT period. Corporation tax runs from the end of the accounting period. So 1 month and 7 days for VAT, 9 months and 1 day for corporation tax.
-Will: Making Tax Digital means all VAT-registered businesses keep digital records and file through compatible software. The exemptions are for the digitally excluded, religious objection to electronic communications, and a business subject to an insolvency procedure.
-Hannah: And repayments?
-Will: Common for zero-rated suppliers with large purchases. Payments on account apply where the annual VAT liability exceeds £2.3m. Records are kept for 6 years.
-Hannah: What if the customer doesn't pay?
-Will: Under standard accounting, output tax is due for the period of the tax point even if the customer hasn't paid. Bad debt relief is the remedy: you reclaim output tax accounted for but unpaid once the debt is more than 6 months overdue and written off in the VAT records.
-Hannah: And the alternative?
-Will: Cash accounting. Output tax is due when the customer pays, and input tax when the business pays its supplier, so it gives automatic bad debt relief. Maple Ltd is on standard accounting and issues an invoice with £1,800 of VAT, which the customer pays months later. Maple still accounts for that VAT in the tax point quarter, and if the customer never pays, it reclaims only once the debt is more than 6 months overdue and written off.
-Hannah: And under cash accounting?
-Will: The same invoice is due only when paid, and an unpaid one bears no output tax.
-Hannah: So what decides it is whether the business uses cash accounting.
-Will: Yes. Only cash accounting, or the flat rate scheme's cash-based turnover method, ties VAT to payment. Otherwise bad debt relief is the only remedy. Annual accounting is one return a year with interim payments, and it changes filing, not when VAT is due. The flat rate scheme is VAT paid as a fixed percentage of turnover.
-Hannah: Limits?
-Will: Cash and annual accounting up to £1.35m taxable turnover, flat rate up to £150,000.
-Hannah: So annual accounting isn't for slow payers.
-Will: Right, it changes only filing. Last, penalties. Late returns bring penalty points, and at the threshold, which is 4 for quarterly returns, a £200 penalty follows.
-Hannah: And late payment?
-Will: Late payment penalties and interest, not points. Careless or deliberate errors on a return bring inaccuracy penalties.
-Hannah: VAT charging: inclusive when silent, the tax point moves later only if the invoice is within 14 days, and zero-rated is taxable where exempt isn't.
-Will: Right. Now how money goes into and out of a company.
-
-## Block 8: Distributions, buybacks, liquidations; debt v equity
-Will: Distributions and debt against equity. Interest and salary are deductible, dividends aren't, and that drives the choice between a loan and shares. Start by working out the company's concern: control, tax or cash flow.
-Hannah: Three concerns. Go through them.
-Will: Debt first: the lender is a creditor, paid interest whether or not there are profits. Equity pays dividends only if there are distributable profits and one is declared. For tax, interest is deductible for corporation tax and dividends are not.
-Hannah: Control?
-Will: A loan gives no vote, and new shares dilute control. A loan is repayable, while shares are not normally repaid. And a loan may be secured and ranks ahead of shareholders, who rank last on a winding up.
-Hannah: Cash flow is the one that bites.
-Will: Interest is a fixed cost even in a loss-making year, whereas a dividend need not be declared. So the traps run both ways: not equity to cut tax, because dividends aren't deductible, and not debt to protect cash in a lean year, because interest is due whether or not there are profits.
-Hannah: Taking profit out of a company, then.
-Will: Salary or a bonus is deductible for the company, but the director pays income tax at non-savings rates plus employee NICs, and the company pays employer NICs. A dividend has no NICs and lower income tax rates, but it's not deductible and it's payable only out of distributable profits.
-Hannah: And interest?
-Will: Interest on a loan or debenture is deductible for the company and taxed on the lender as savings income. A dividend is taxed as dividend income.
-Hannah: Buybacks.
-Will: Capital treatment, CGT possibly with BADR, applies automatically only if all six conditions are met. The default is income treatment.
-Hannah: Not just a sale of shares, so CGT.
-Will: No. Six conditions, and all six. One: the company is an unquoted trading company, or the holding company of a trading group. Two: the buyback is wholly or mainly to benefit the company's trade, not mainly for tax avoidance, like buying out a retiring or dissenting shareholder.
+Will (brisk): Right, evidence. Eight topics: the facts first, then the experts. Facts first. What gets in at all. How witness statements are served and used. What a statement looks like, and when you need an affidavit. And hearsay.
+Hannah: So: what gets in, statements in use, statements in form, hearsay.
+Will: Yes. Then the trial and the experts. Summonses and how the trial runs. The expert's duty to the court. The single joint expert. And experts talking to each other.
+Hannah (pleased): Summonses and trial, duty, joint expert, expert discussions. Eight topics, and I only have to hold two lots of four.
+## Block 1: Evidence basics and admissibility
+Will: Evidence basics are the gate: what gets in at all. The first test is dull, but everything hangs from it. Evidence has to be relevant to a fact in issue.
+Hannah (dry): And a fact in issue is whatever the lawyers are arguing about.
+Will: Close. The statements of case define the facts in issue. And evidence is relevant if it tends to make a fact in issue more probable or less probable. Irrelevant evidence is inadmissible.
+Will: That's the why for the whole block. The statements of case mark out what the fight is about, so the evidence has to be about that fight.
+Hannah: Fine. So relevant means it gets in?
+Will: Not automatically. Relevant evidence can still be withheld or excluded. Three routes: privilege, without prejudice communications, or the court's control.
+Hannah: Court's control sounds like the vague one.
+Will: It's wide. The court can direct which issues need evidence, what kind of evidence is needed, and how it's placed before the court.
+Hannah: And can it keep evidence out?
+Will: Yes. It can exclude evidence that would otherwise be admissible, and it can limit cross-examination. Think of twelve witnesses on a minor point: the judge can limit the cross-examination.
+Hannah: And without prejudice?
+Will: A without prejudice offer is not put before the judge, however relevant it is.
+Hannah (thinking aloud): Right. So what if someone got the evidence badly? They filmed the other side without telling them.
+Will: This is a starred point, and it's a trap. Improperly obtained evidence, covert surveillance for instance, is generally admissible in civil cases. The court may exclude it, or it may reflect the conduct in costs.
+Hannah (surprised): So being sneaky doesn't keep it out.
+Will: <short pause> Right, not by itself. The trap wording is "not excluded for being improperly obtained". It's generally admitted, and the conduct may show up in costs.
+Hannah: What about us? Can a solicitor tidy up the evidence?
+Will: No. A solicitor must not misuse or tamper with evidence, so no altering or destroying documents, and must not seek to influence its substance.
+Will: Two notices finish the block. A notice to admit facts has to be served no later than 21 days before trial. If a fact isn't admitted and it's later proved, the refusing party may pay the costs of proving it.
+Hannah: And the document one?
+Will: A disclosed document's authenticity is deemed admitted unless a notice to prove it is served by the latest date for witness statements, or within 7 days of disclosure, whichever is later.
+Hannah: So if nobody serves anything, the document is treated as genuine.
+Will: Yes.
+Hannah (summing up): Evidence basics, then. Relevant to a fact in issue, relevant can still be excluded, improperly obtained evidence generally goes in, and two notices.
+Will: Right. That's what gets in. Next, how a witness's evidence actually arrives: the witness statement.
+## Block 2: Witness statements: use, exchange and time limits
+Will: Witness statements. Served statements show each side the other's factual evidence, and at trial they normally stand as evidence in chief. The exam questions turn on the awkward cases: late, unused or unobtainable statements.
+Hannah: Start with what a witness statement is.
+Will: A written statement, signed by a person, of the evidence that person could give orally. The court orders each party to serve statements of the oral evidence of fact it will rely on at trial, usually by simultaneous exchange.
+Hannah: And at trial the witness gets up and tells it all again?
+Will: No, and that's the trap. The served statement stands as evidence in chief, unless the court orders otherwise. It isn't oral evidence in chief.
+Hannah: What if the witness remembers something new on the day?
+Will: Amplifying the statement, or adding new matters arising since service, needs permission, and there has to be good reason.
+Hannah: Can the other side cross-examine on it?
+Will: Yes. A witness who's called can be cross-examined on the statement, whether or not it was referred to in chief. And the court shapes all this. It can limit the issues for factual evidence, identify the witnesses who are called or read, and limit the length or format of statements.
+Hannah: Right, so what are the awkward cases?
+Will: Three, all starred. One: the statement isn't served in time. Then the witness gives oral evidence only with permission, and the court applies relief from sanctions principles.
+Hannah: So late means permission, and it's not a formality. Next?
+Will: Yes. Two: the statement was served, but the witness is neither called nor is the statement put in as hearsay by the party who served it. Then any other party may put it in as hearsay.
+Hannah (amused): So you serve it, drop the witness, and the other side can still put your statement in.
+Will: Yes. Any other party may.
 Hannah: Three?
-Will: The seller is UK resident. Four: the seller has owned the shares for at least 5 years, or 3 if inherited, counting the deceased's and the personal representatives' ownership.
-Hannah: And the last two are about the seller's holding afterwards.
-Will: Yes. Five: the interest is substantially reduced, to 75 per cent or less of the previous percentage holding. Six: the seller is not connected with the company afterwards, holding 30 per cent or less.
-Hannah: And if it fails?
-Will: Then the amount paid above the capital originally subscribed for those shares is an income distribution, taxed on the seller at dividend rates. The seller is also treated as making a CGT disposal, with the distribution excluded from the proceeds.
-Hannah: Is there another way in?
-Will: The IHT route. Capital treatment also applies where substantially all of the payment pays IHT due on a death, within 2 years of the death.
-Hannah: That's narrow.
-Will: It is, because the tax must also be one that could not otherwise be paid without undue hardship. And the company can apply to HMRC for advance clearance that a proposed buyback qualifies for capital treatment.
-Hannah: Is that the same clearance as the securities one?
-Will: No. Buyback clearance confirms capital treatment. The transactions in securities clearance guards against counteraction.
-Hannah: Buyback clearance, capital. Securities clearance, no counteraction.
-Will (dry): Yes. Try this one. Dev has held 32 per cent of Larch Ltd, an unquoted trading company, for 7 years, and he is UK resident. He is retiring, and Larch buys back some of his shares for the benefit of its trade, not mainly for tax avoidance. He is left holding 26 per cent. Does he get capital treatment?
-Hannah (thoughtful): So is it capital, because 26 per cent is under 30; capital, because he's held the shares for 7 years; or no capital treatment, an income distribution at dividend rates?
+Will: Three: no statement is obtainable at all. Then you apply without notice for permission to serve a witness summary. The summary gives the evidence if it's known, or otherwise the matters the witness will be asked about.
+Hannah: What else goes in a summary?
+Will: The witness's name and address, unless the court orders otherwise, and it's served within the time for witness statements. And a witness summons may also be needed, because a summary doesn't make anybody turn up.
+Hannah: Give me a picture.
+Will: Say a former site manager saw a scaffold give way, and now works for the other side's subcontractor and flatly refuses to sign anything for you. You can't serve a witness statement, because a statement has to be signed by the witness. So you apply for permission to serve a summary, and you get a summons to secure his attendance.
+Will: Now the last part of the block: what the statement needs, and where it can travel. With no statement of truth, the statement may be held inadmissible. And a false statement made without honest belief in its truth can lead to contempt proceedings, which need the court's permission.
+Hannah: Can I take someone's witness statement and use it for something else?
+Will: That's collateral use. A witness statement can be used only for these proceedings, unless the witness consents in writing or the court permits.
+Hannah: Or?
+Will: Or it was put in evidence at a public hearing.
+Hannah (wary): That sounds a lot like the rule for disclosed documents.
+Will: It's the look-alike. For a disclosed document it's also a public hearing or permission, but the third route is the agreement of the disclosing party and the owner of the document.
+Hannah: So the question is whose consent. The witness for a statement, the disclosing party and owner for a document.
+Will: Yes. Whose consent is the whole difference.
+Hannah (summing up): Witness statements: a served statement stands as evidence in chief, and late, orphaned and unobtainable each have their own way through.
+Will: Right. Next, what a statement has to look like, and the sworn alternative.
+## Block 3: Form of witness statements; affidavits
+Will: Form of witness statements, and affidavits. A witness statement should be in the witness's own words where practicable, and it's verified by a statement of truth the witness signs. The why: at trial the served statement normally stands as the witness's evidence in chief, so it has to be the witness's own account. An affidavit is the sworn form, needed only where something requires it.
+Hannah: So one default, one special.
+Will: Yes. The statement first. If practicable it's in the witness's own words, their own language, and the first person.
+Hannah: And what does it say about the witness?
+Will: It gives the witness's identity details and says how it was prepared, such as face to face, by telephone or through an interpreter.
+Hannah: That's a lot of boxes.
+Will: Mostly look-up. The parts worth keeping: it distinguishes what the witness knows personally from information and belief, and gives the source. It uses numbered paragraphs and identifies exhibits.
+Hannah: What if the witness doesn't speak English?
+Will: Then it's drafted in their language, translated, and the foreign-language statement is filed. The translator signs the original and certifies accuracy.
+Hannah: And who signs the statement of truth?
+Will: Starred. The witness, not the legal representative. And the wording includes a warning that contempt proceedings may be brought against anyone who makes a false statement without an honest belief in its truth.
+Hannah (thinking aloud): But a solicitor can sign a statement of truth on a statement of case...
+Will: Can, yes. Never on a witness statement. That's the trap: not the solicitor's signature.
+Hannah: Anything extra for the big courts?
+Will: Business and Property Courts trial statements. Only facts within personal knowledge that are relevant to the issues, in the witness's own words. No argument, and no commentary on documents.
+Will: The same practice direction also requires a list of documents referred to, and the witness's confirmation. Then the legal representative's certificate of compliance. Breach can bring sanctions.
+Hannah: Now the sworn one.
+Will: An affidavit is written evidence sworn on oath, or affirmed, before an authorised person, such as a solicitor, a commissioner for oaths or a court officer. It's required only where the court or a rule requires it.
+Hannah: Or?
+Will: Or a practice direction, or another enactment. The affidavit examples are freezing injunctions, search orders and contempt applications. Otherwise, use a witness statement.
+Hannah: And who can swear me in?
+Will: Someone independent. Not the deponent's own solicitor, and not a member or employee of the acting firm. Say it's an urgent freezing injunction and a trainee at your own firm offers to take the oath to save time. The answer is no, because the trainee is an employee of the acting firm.
+Hannah (mock-outraged): <laugh> Saving time was the whole selling point.
+Will: Next, a starred point. A voluntary affidavit at a non-trial hearing is allowed, but the extra cost is not recoverable from another party unless the court orders otherwise.
+Hannah: So it isn't inadmissible. You just pay for the luxury.
+Will: Right. That's the trap. Not inadmissible; only the extra cost is lost, unless the court orders otherwise.
+Will: Now lying. A false statement in an affidavit is possible perjury, which is a crime, as well as contempt. The muddle is thinking an affidavit lie is only contempt.
+Hannah: And in a witness statement?
+Will: Contempt also lies against anyone who makes, or causes, a false statement in a statement of case or a witness statement verified by a statement of truth, without honest belief. And the second trap: a contempt application itself needs an affidavit or affirmation, not a witness statement.
+Hannah: Is there anything about how an affidavit is set out?
+Will: It's set out like a statement: heading, the deponent's details, first person and numbered paragraphs.
+Hannah: And own knowledge kept apart?
+Will: Yes, own knowledge distinguished from information and belief. Then exhibits are marked, the jurat is signed by the deponent and the person before whom it's sworn, and alterations are initialled.
+Hannah: Let me put the two side by side. Witness statement: verified by a statement of truth the witness signs, nobody to swear it before, the default for trial and interim evidence.
+Hannah: Affidavit: oath or affirmation, an independent authorised person, only where required, and a lie can be perjury as well as contempt. Statement lies need permission for contempt.
+Will: Yes, that's the contrast.
+Hannah (summing up): Form and affidavits: witness signs the statement of truth, affidavit only where required, sworn before someone independent.
+Will: Right. Now the one with the biggest exam traps: hearsay.
+## Block 4: Hearsay and previous convictions
+Will: Hearsay. Civil hearsay is admissible, and the court weighs it. The why: unlike the criminal rules, civil proceedings never exclude evidence just for being hearsay, so the questions turn on notice, the 14-day steps and weight. It's inadmissible only if, and to the extent, the maker is shown not to have been competent when the statement was made. And missing notice never makes it inadmissible.
+Hannah (wary): I'll want to cross-check those three.
+Will: Good, because the exam tests the gaps between them. First, what hearsay is. A statement made otherwise than by a person giving oral evidence in the proceedings, tendered as evidence of the matters stated.
+Hannah: So the neighbour tells me the pipe burst, and I tell the court the neighbour said so, to prove the pipe burst.
+Will: Yes. It includes multiple hearsay too, such as a witness repeating what a bystander heard from someone else. And in civil proceedings, hearsay isn't excluded because it's hearsay.
+Hannah: And if I only want to show the neighbour said it?
+Will: Then it's original evidence, not hearsay. You're relying on it only to show it was said, not that it's true.
+Hannah: So civil hearsay is just in. That seems strangely easy.
+Will: Yes, and that's the look-alike trap. Criminal hearsay rules are exclusion, subject to exceptions. Civil proceedings never exclude it for being hearsay.
+Hannah: Civil: admitted and weighed. Criminal: excluded unless an exception.
+Will: Right. Now the one thing that does exclude it. Starred. Hearsay is inadmissible if, and to the extent, it's shown the maker was not competent as a witness when it was made, through mental or physical infirmity or lack of understanding. And a child is treated as competent if they understand the duty to speak the truth and have sufficient understanding for their evidence to be heard.
+Hannah: "To the extent". So part of it can go and the rest stays.
+Will: Yes. Now notice, which is where the traps live. A hearsay notice is not needed in four cases. First, evidence at a hearing other than trial, such as an interim application or summary judgment. Second, a trial affidavit or witness statement containing no hearsay.
+Will: Third, a probate statement alleged to be the deceased's. And fourth, where a practice direction excludes the requirement.
+Hannah: So it's a trial, it's hearsay, and it's not one of those four.
+Will: Right. Now how you give notice. Starred. If the witness is called, serving the witness statement is the notice. If the maker isn't called, you serve the statement and say that the witness won't be called, and why.
+Hannah: And if it's not in a witness statement?
+Will: Otherwise you serve a hearsay notice, identifying the evidence, stating the intention to rely on it, and why the maker won't be called. The deadline is no later than the latest date for serving witness statements.
+Hannah: Say I miss it.
+Will: Starred, and it's the point of the whole block. With no notice, the evidence is still admissible. The court may reflect that in case management and costs, and it may give the evidence less weight.
+Will: Two little stories, because they tell you what decides it. Aisha relies at trial on her neighbour Dev's statement about the flood but never serves a hearsay notice. It's still admissible. The court may give it less weight and reflect the failure in costs.
+Will: Now suppose Dev made the statement while he lacked understanding through mental infirmity, and that's shown. Then it's inadmissible to that extent, notice or no notice.
+Hannah: So a missing notice goes to weight. An incompetent maker goes to admissibility.
+Will: Right, that's it. Only the maker's incompetence when the statement was made excludes hearsay. Not inadmissible for want of notice is the trap line.
+Hannah: One line: missing notice is weight, costs and case management; incompetent maker is out.
+Will: Right. After notice, there are two 14-day steps, both from service of the hearsay notice. Starred: where the maker isn't called, any other party may apply for permission to call and cross-examine the maker, within 14 days after service of the notice.
+Hannah (groaning): <sigh> Fourteen days. I keep wanting to say 28.
+Will: That's the trap. 28 days is the time for written questions to an expert, which comes up later, under single joint experts.
+Will: The second step: to attack the credibility of a maker who isn't called, for example with a fraud conviction, you give notice within 14 days after service of the hearsay notice.
+Hannah: And how does the court weigh hearsay?
+Will: Starred, six factors, in two lots of three. Lot one: was it reasonable and practicable to call the maker, was the statement contemporaneous, and is it multiple hearsay.
+Hannah: Reasonable to call, contemporaneous, multiple.
+Will: Right. Lot two: any motive to conceal or misrepresent. Whether it was edited, collaborative or made for a purpose. And any attempt to prevent proper evaluation.
+Will: Try this one. Marisol is suing over a flood in a block of flats. At trial, her side wants to rely on a written account by a tenant called Kofi. They never served a hearsay notice and they don't plan to call him. Kofi is healthy and lives round the corner. He wrote the account long after the flood, and Marisol's solicitor edited it for him. The other side objects that without notice it is simply out.
+Hannah: So, is Kofi's statement inadmissible because no notice was served, admissible but likely to carry little weight, with the failure possibly reflected in costs, or admissible at full strength as if nothing were missing?
 Hannah: <think>
-Hannah: This is the buyback rule, so it's the six conditions. I'd say capital, because 26 per cent is under 30 and so he isn't connected afterwards.
-Will: That's the tempting one, and it's only one of the six. Run down the rest. Unquoted trading company, yes. Benefit of the trade, yes. UK resident, yes. Owned for 7 years, so over the 5 years. That leaves the fifth: 75 per cent of 32 per cent is 24 per cent, and 26 per cent is above that, so his interest isn't substantially reduced.
-Hannah (groaning): Both tests, not either one.
-Will: Yes. So no capital treatment: the amount above the capital originally subscribed is an income distribution, taxed at dividend rates. Passing the 30 per cent test isn't enough alone.
-Hannah: Liquidations next.
-Will: A liquidator's payments to shareholders in a winding up are capital: a CGT disposal of the shares, possibly with BADR, and not a dividend, subject to the winding-up anti-avoidance rule.
-Hannah: Compare buyback and liquidation.
-Will: A buyback defaults to income at dividend rates, and a liquidation payment is a CGT disposal. What tells them apart is whether a continuing company pays, or a liquidator pays in a winding up.
-Hannah: Continuing company, buyback, income by default. Liquidator, CGT.
-Will: Right. One more pair. Transactions in securities and phoenixism against the capital treatment of buybacks and liquidations. The first needs income tax avoidance as a main purpose, and for phoenixism also a similar trade within 2 years by an at least 5 per cent shareholder.
-Hannah: So it's that purpose, plus those two phoenix conditions, that pulls it out of capital.
-Will: Yes. Last thing is conduct. Acting for the company and the selling director-shareholder, on the buyback price for example, means considering a conflict of interests before acting for both.
-Hannah: Distributions: interest is deductible, dividends aren't; a buyback is income unless all six conditions or the IHT route; a liquidator's payment is capital.
-Will: Right. Last topic: avoidance against evasion.
-
-## Block 9: General anti-avoidance and tax evasion
-Will: Anti-avoidance and evasion. Avoidance is lawful but can be counteracted. Evasion is a crime a solicitor must refuse to help with. Each tool catches something different, so the job is to name the right one.
-Hannah: First step: classify.
-Will: Avoidance is lawfully arranging affairs to pay less tax. It's legal, though anti-avoidance rules may counteract it. Evasion is dishonestly not paying tax due, like hiding income, and it's a crime. Hiding income from HMRC is evasion, never avoidance.
-Hannah: And a solicitor?
-Will: Refuses to facilitate evasion. Facilitating it breaches the duties to uphold the rule of law and act with integrity. Proceeds of tax evasion are criminal property for money laundering purposes.
-Hannah: What about the firm?
-Will: The firm commits the corporate offence of failing to prevent facilitation of tax evasion if an employee, agent or other person performing services for it, acting in that capacity, criminally facilitates evasion, unless it proves it had reasonable prevention procedures, or that none could reasonably be expected.
-Hannah: The GAAR is next.
-Will: It applies if two things are true. It's a tax arrangement, meaning one of its main purposes is a tax advantage. And it's abusive: it cannot reasonably be regarded as a reasonable course of action. That's double reasonableness.
-Hannah: And if it applies?
-Will: HMRC counteracts the advantage on a just and reasonable basis, and a penalty can follow: 60 per cent of the counteracted tax, which the exam supplies.
-Hannah: Which taxes does it cover?
-Will: Income tax, CGT and corporation tax for a start.
-Hannah: IHT? NICs? VAT?
-Will: IHT and NICs, yes. VAT, no. The GAAR does not cover VAT, so a VAT-only scheme isn't caught.
-Hannah: GAAR, no VAT. Then Ramsay.
-Will: Right. Ramsay says tax legislation is read purposively and applied to the transaction viewed realistically. Pre-ordained tax-only steps are often, not always, disregarded, depending on the provision.
-Hannah: Often, not always. Careful with that.
-Will: Yes. Then DOTAS. The promoter notifies HMRC of arrangements with prescribed hallmarks, or the user does if there is no UK promoter. An accelerated payment notice means the disputed tax is paid up front, and a follower notice is where a court has already ruled against similar arrangements.
-Hannah: GAAR against DOTAS?
-Will: DOTAS is a disclosure duty for hallmarked schemes. The GAAR counteracts.
-Hannah: DOTAS discloses. GAAR counteracts.
-Will: Right. Last, IR35 and salaried members. IR35 applies where services are provided through an intermediary, usually her own company. She's taxed as employment income if she would be an employee if engaged directly.
-Hannah: Who applies it?
-Will: For a small private-sector client, the worker's company. For a public-sector or medium or large client, the client decides status and the fee-payer deducts PAYE.
-Hannah: And the LLP one?
-Will: An LLP salaried member is taxed as an employee only if all three conditions are met. A: at least 80 per cent of her pay is fixed or not linked to the overall LLP profits, a disguised salary. B: no significant influence over the LLP's affairs.
-Hannah: And C?
-Will: Her capital contribution is less than 25 per cent of the disguised salary. Miss any one and she's taxed as a member on her profit share. And don't reach for IR35 here: that is a worker supplying services through her own company, not an LLP member.
-Hannah: Avoidance is legal, evasion is a crime; the GAAR excludes VAT; DOTAS discloses; and salaried members need A, B and C.
-Will: Right. And that's the lot.
-
+Hannah (thinking aloud): This is hearsay. Hearsay is admissible in civil cases, and nothing says Kofi lacked competence when he wrote it, so it's in. Missing notice never excludes. It goes to weight, case management and costs. Weight: easy to call him, written long after so not contemporaneous, and edited. So the middle one.
+Will: Yes. The deciding fact is that the only thing that excludes it is incompetence when it was made, and there's none here. The notice failure goes to weight, costs and case management. Three of the weight factors point one way: calling Kofi was reasonable and practicable, it wasn't contemporaneous, and it was edited.
+Will: Three loose ends on hearsay, all about things that aren't witness statements. Plans, photographs and models that aren't in a witness statement, an expert report or a disclosed list: you give notice by the latest date for witness statements, so the other side can inspect. Otherwise they're not usable without permission.
+Hannah: And business records?
+Will: Records of a business or public authority are received without further proof if an officer's signed certificate is produced. And a subsisting UK conviction is admissible to prove the person committed the offence, where it's relevant to an issue.
+Hannah (summing up): Hearsay: civil hearsay is in and weighed, it's out only to the extent the maker is shown not competent when it was made, and no notice hurts weight and costs but never admissibility.
+Will: Right. Next, getting the witness into court, and what happens when they're there.
+## Block 5: Witness summonses and trial procedure
+Will: Witness summonses and trial procedure. A summons compels attendance and a served statement does not. The why: a statement only sets out what a witness would say; it can't make them come, so if you need to compel a witness to attend, you need a summons. And there are two 7-day rules: issue decides permission, service decides binding effect.
+Hannah: Two sevens, two jobs. Go on.
+Will: A witness summons is a court document requiring a witness to attend court to give evidence, to produce documents, or both. You can issue it without permission, unless one of three things is true. If you're seeking it less than 7 days before trial, or it's for a date other than the trial date, you need permission.
+Hannah: And the third?
+Will: Or it's for a hearing other than the trial. Any one of the three is enough.
+Hannah: That's issue. What about binding?
+Will: Binding is separate. A summons binds only if it's served at least 7 days before the date the witness must attend, unless the court directs that later service binds.
+Hannah: Issue, permission. Service, binding.
+Will: Right, that's the look-alike: summons issue versus summons binding. The trap is thinking early issue makes it binding.
+Hannah: Issue date is permission, service date is binding.
+Will: Yes. Two little stories. A County Court trial is on 20 June. The summons is served on the witness on 9 June with conduct money, and she stays away without good reason. She can be fined up to £1,000.
+Will: Now the same summons, served on 16 June, only 4 days before attendance. It's not binding, unless the court directed that later service binds. The deciding fact is the date of service, not the date of issue.
+Hannah: What's conduct money?
+Will: On service, offer or pay conduct money: reasonable travel to and from court, plus compensation for loss of time. Service is by the court, unless the party says it will serve. If the court serves, the party deposits the conduct money with the court. And a summons is available for any witness, including an expert whose report has been served.
+Hannah: And if they ignore it?
+Will: Starred, in two parts. Failure without good reason to obey a properly served summons, where conduct money was paid or tendered, is in the County Court a fine of up to £1,000. In the High Court, disobedience is contempt, punishable by a fine or imprisonment.
+Hannah: Can a witness fight it?
+Will: The court may set aside or vary a summons, for example if the witness cannot give relevant evidence, or it's oppressive, or it's a fishing exercise for documents.
+Will: Starred, and it ties back to witness statements. A served witness statement does not compel attendance. If the witness doesn't come, the statement may be used only as hearsay, with reduced weight, unless the court orders otherwise.
+Hannah: And if they genuinely can't come?
+Will: Say they're ill or abroad. Then evidence can be by video link or by deposition before an examiner. A witness abroad may need a letter of request.
+Will: One rule for solicitors here too. No benefit to a witness may depend on the nature of the evidence or the outcome. Reasonable expenses and loss of time may be paid.
+Will: Now the trial itself. Claimant's opening, which is often short or dispensed with because the judge has pre-read. Then the claimant's witnesses: examination-in-chief, cross-examination, re-examination. The defendant's witnesses in the same way.
+Hannah: And closing speeches, claimant first, since they started.
+Will: <short pause> No, that's the trap. Defendant first, claimant last. Then judgment.
+Hannah (laughing): <laugh> Fine, fair, caught.
+Will: And that's the look-alike. In a criminal trial, the defence speaks last. In civil, the claimant has the last word.
+Hannah: Civil, claimant last. Criminal, defence last.
+Will: Right. Civil chief is usually brief, because the statement stands. Criminal chief is normally oral, or a video-recorded interview under a special measures direction.
+Will: Submission of no case to answer. In civil proceedings the defendant is normally put to its election. The judge usually hears the submission only if the defendant calls no evidence. If it fails, the case is decided on the claimant's evidence alone.
+Hannah: And criminal?
+Will: Second look-alike. In a criminal trial, the defence may submit no case to answer and still call evidence if it fails.
+Hannah: Civil: choose first. Criminal: submit and carry on.
+Will: Right. Now questioning witnesses. A leading question suggests the answer wanted or assumes a disputed fact, like "The car was speeding, wasn't it?" A non-leading question is open: "What did you see?"
+Hannah: So what's the rule?
+Will: Starred. Your own witness, in chief or in re-examination, on a disputed matter: no leading questions. They're allowed on introductory or undisputed matters. In cross-examination, leading questions are permitted and usual.
+Hannah: And re-examination?
+Will: Only matters arising out of cross-examination. A new matter needs permission.
+Will: In cross-examination you must put your case on every material point you dispute. Unchallenged evidence may be treated as accepted. That's Browne v Dunn, and the rule is flexible, not rigid. So an opponent's account that's disputed but not challenged: challenge it in cross-examination, not first in closing.
+Will: The court's control over evidence applies here too: it may exclude admissible evidence and limit cross-examination.
+Will: Your own witness who is merely unfavourable: you may not cross-examine them. A witness ruled hostile is different. Starred. That's one unwilling to tell the truth for the party calling them. With permission, you may ask leading questions and put a previous inconsistent statement. In civil proceedings that statement is admissible as evidence of its truth.
+Will: Try this one. Dani is a claimant's witness. Her served statement says the defendant's forklift knocked over the racking. In the box she says she "can't really say", and won't look at the claimant's barrister. The barrister wants to read her statement to her and ask, "The forklift knocked over the racking, didn't it?"
+Hannah: So can the barrister do that? Yes, as ordinary cross-examination because she's turned awkward. No, never, because she's their own witness. Or yes, but only if the judge rules her hostile and gives permission?
+Hannah: <think>
+Hannah (thinking aloud): This is questioning witnesses. She's the barrister's own witness, so it can't be ordinary cross-examination. A leading question on a disputed matter in chief is out. A merely unfavourable witness can't be cross-examined. But a witness ruled hostile can be led, with permission. So the third.
+Will: Right, and the deciding fact is whether she is unwilling to tell the truth for the claimant, or simply unhelpful. If she's merely unfavourable, counsel may not cross-examine her at all. If the judge rules her hostile and gives permission, counsel may ask leading questions and put the statement. In civil proceedings the statement is then admissible as evidence of its truth.
+Will: Last part of this topic: manners and duties. Forms of address first. Supreme Court, Court of Appeal and High Court judges: 'My Lord' or 'My Lady'. Circuit Judges and Recorders: 'Your Honour'.
+Hannah (confident): And district judges are 'Your Honour' too.
+Will: That's the starred trap. District Judges, Deputy District Judges and Masters are 'Judge'. The former forms were 'Sir' or 'Madam' and, for Masters, 'Master'.
+Hannah (laughing): Ha, fair. Magistrates?
+Will: 'Your Worship', or 'Sir' or 'Madam'.
+Will: Etiquette at a formal hearing: stand when the judge enters or leaves and when addressing the court, and don't interrupt the judge or a witness. Opposing counsel is 'my learned friend'. An opposing solicitor is 'my friend'.
+Hannah: Are hearings public?
+Will: As a rule, yes. Private only where necessary. Publicity would defeat the object, or there's confidential information. Or it's protecting a child or protected party, or national security. Embarrassment alone is not enough.
+Hannah: Duties of an advocate?
+Will: An advocate must not mislead the court, must make only properly arguable submissions, must not influence witnesses' evidence and must not waste the court's time.
+Will: Then two starred ones. The advocate must draw the court's attention to relevant cases, statutory provisions and procedural irregularities likely to affect the outcome, even if adverse. So if you know of an adverse Court of Appeal decision the opponent has missed, you cite it.
+Hannah (groaning): Even though it hurts.
+Will: Yes, even though it hurts. Second, a client admits evidence they gave is false. You mustn't continue in a way that misleads. Without the client's consent to correct it, you cannot disclose the admission, and you must cease to act.
+Hannah: And a witness mid-evidence?
+Will: A witness part-way through their evidence, including over an adjournment, must not discuss it with anyone, their own lawyers included, until it's finished. The advocate must not confer with them about it.
+Hannah: So at lunch the client-witness asks how to answer tomorrow's question, and the answer is no.
+Will: Yes, the answer is no.
+Hannah (summing up): Summonses and trial: a summons compels and a statement doesn't; issue is permission, service is binding; the claimant speaks last; and no leading your own witness on disputed points.
+Will: Right. That's evidence of fact. Now the experts, and the first rule of experts is who they work for.
+## Block 6: Experts' duty to the court and instructions
+Will: The expert's duty to the court. An expert's duty to help the court overrides any obligation to whoever instructs or pays them. The why: the court relies on the expert for matters within their expertise, so the evidence has to be the expert's independent product. And experts have no immunity from the client's negligence claim.
+Hannah: So who's the expert working for?
+Will: The court, on matters within their expertise. The trap is thinking the client comes first: as I said, the duty to the court wins.
+Hannah: What does that mean for the report?
+Will: The evidence must be the expert's independent product: objective and unbiased, never acting as an advocate. They consider all material facts, including those that detract from their opinion.
+Hannah: And where they can't help?
+Will: They say when a matter is outside their expertise, or when no definite opinion is possible, for example for lack of information.
+Hannah: And if they change their mind?
+Will: If the view changes on a material matter after the report, they tell all parties, and the court where appropriate, without delay. The muddle is thinking they tell only whoever instructed them.
+Will: The report states that the expert understands and has complied with the duty, and knows the court's rules on experts, their practice direction and the guidance. It has a statement of truth including the contempt warning.
+Will: It's addressed to the court, and it states the substance of all material instructions.
+Hannah: What if they breach?
+Will: Starred. A partisan expert at trial, say. The court may exclude the evidence or give it little weight. Breach may also bring costs orders, and in flagrant cases against the expert personally.
+Hannah: And a false statement?
+Will: Contempt proceedings, and referral to the expert's professional body.
+Hannah: And can the client sue?
+Will: Starred. No immunity from suit. The expert can be liable in negligence to the instructing client, for example for an inaccurate joint statement. That's Jones v Kaney. Absolute privilege against defamation claims does remain.
+Hannah: So not immune like a witness of fact, except defamation.
+Will: Right, that's the trap line. Now the solicitor's limits. The solicitor must not seek to influence the substance of an expert's evidence.
+Hannah: Meaning if the client presses the expert to strengthen the report, the solicitor can't help.
+Will: Right. The expert refuses, and the solicitor must not influence it. And starred: the solicitor must not pay a fee depending on the nature of the evidence or the outcome. So if the expert offers a reduced fee "if we win", the solicitor refuses.
+Hannah (summing up): Expert's duty: duty to the court overrides, no immunity from a negligence claim, and no influencing the substance and no contingent fees.
+Will: Right. Now the expert you share with the other side.
+## Block 7: Single joint experts
+Will: Single joint experts. One expert reports for all the instructing parties, so instructions are copied and no one meets the expert without the other's consent. A dissatisfied party may put written questions, but its own expert needs permission.
+Hannah: When does it happen?
+Will: Where two or more parties wish to submit expert evidence on a particular issue, the court may direct a single joint expert. If there's no agreement on who, the court selects from the parties' list, or directs another method.
+Hannah: And instructions?
+Will: Each relevant party may instruct the expert, but must send a copy to the other relevant parties at the same time. No meeting or conference with the expert without the other party's consent. All communications with the expert should be copied to all parties.
+Hannah: So a private chat is out.
+Will: Right, that's the trap: no private meeting, and copy all instructions at the same time.
+Hannah: Where does it fit?
+Will: It's the norm on the fast track, unless there's good reason otherwise. It's common for quantum, such as valuation and care. It's less suitable where the issue is central and contentious, for example liability in clinical negligence.
+Will: Fees are starred. The instructing parties are jointly and severally liable, unless the court directs otherwise. The muddle is thinking the fees are split equally. The court may also limit the fees, order payment into court before instruction, and direct inspections or tests.
+Hannah: The look-alike is your own expert, I bet.
+Will: Yes. A party's own expert is privileged, with unilateral contact. A single joint expert means copy all instructions, no meeting without consent. What differs is who appointed the expert.
+Hannah: Own expert: private. Joint expert: copied.
+Will: Right. Now, what if you're unhappy with the report? Say the joint valuer has ignored two recent sales on the same street.
+Hannah: I'd ring them up and talk it through.
+Will: Not without the other side's consent. Written questions are the route. You can put them once, only to clarify, within 28 days of service of the report, unless the court permits or the other party agrees. Answers form part of the report.
+Hannah: And a second expert?
+Will: Starred. Your own expert only with permission. The reasons must be not fanciful, and it must be just and proportionate. Alternatively, take advice from an adviser expert, usually at your own cost.
+Hannah: So dissatisfaction alone isn't a right to a second expert. Though a concrete reason, like those ignored sales, isn't fanciful.
+Will: Yes, which is why permission may be just and proportionate. But it's still permission.
+Will: That's the trap. Another starred point: oral cross-examination of a single joint expert is exceptional.
+Will: And note that no discussion between experts is needed. Discussions and joint statements arise where each party has its own expert, which is the next block.
+Hannah (summing up): Single joint expert: copy everything and no private meetings, fees joint and several, written questions in 28 days, and a second expert needs permission.
+Will: Right. Now the experts who each have their own side.
+## Block 8: Discussions between experts, oral expert evidence, unfavourable reports
+Will: Expert discussions. Experts narrow the issues in a discussion and sign a joint statement. The statement goes before the court. The discussion does not, unless the parties agree. And their agreement binds a party only if it expressly agrees.
+Hannah: Who sets up the discussion?
+Will: The court may direct a discussion between experts at any stage. The purpose is to identify and discuss the expert issues and, where possible, reach an agreed opinion. The court may specify the issues and direct a joint statement: issues agreed and disagreed, with a summary of reasons for disagreeing.
+Hannah: And do we sit in?
+Will: Parties and lawyers do not attend, unless the court orders it or all parties and experts agree. Lawyers who attend should not normally intervene, except to answer the experts' questions or advise on law.
+Will: Parties must discuss and, if possible, agree whether an agenda is needed, and if so try to agree one.
+Hannah: And the paperwork afterwards?
+Will: The joint statement is signed by all experts at the end of the discussion or as soon as practicable, and within 7 days. Copies go to the parties within 14 days of signing. An expert who significantly changes an opinion must explain the change in the joint statement.
+Will: Now the starred point. Experts must not be instructed to avoid or defer agreement on matters within their competence. Such an instruction also breaches the solicitor's duty not to influence the substance of evidence.
+Hannah: Is this like the written questions to a single joint expert?
+Will: Easy to muddle, so side by side. Written questions clarify one expert's report. They're put once, within 28 days of service, and the answers form part of the report.
+Will: A discussion narrows the issues and aims at agreement. It happens at any stage, when the court directs, and ends in a joint statement. With a single joint expert there is usually none.
+Hannah: Questions clarify, discussions narrow.
+Will: Right. At trial, the joint statement may be used. The content of the discussion behind it may not, unless the parties agree. That's the trap. And an agreement between experts binds the parties only if they expressly agree to be bound.
+Will: At trial the court may also direct concurrent expert evidence, called hot-tubbing. The experts are questioned together, often led by the judge.
+Will: Try this one. In a roof-leak dispute, the joint statement records Norvik's own engineer, Tomasz, agreeing the leak started before the builders arrived. Norvik Ltd's managing director is furious. She tells the solicitor that Norvik "is not accepting that", and that the engineer should agree nothing at the next discussion.
+Hannah: So, is Norvik bound by what Tomasz conceded, and can the solicitor pass on that instruction? Bound, and yes, he may pass it on. Not bound unless Norvik expressly agreed, and no, he may not. Or not bound, and yes, he may pass it on, because it's Norvik's own expert?
+Hannah: <think>
+Hannah (thinking aloud): This is expert discussions. An agreement between experts binds a party only if it expressly agrees to be bound, and nothing says Norvik did. And telling an expert to avoid agreement is barred, it's about influencing the substance. So the middle one.
+Will: Right. The deciding facts are that Norvik never expressly agreed to be bound, and that an instruction to withhold or defer agreement is barred. The tempting answer is that a client may steer its own expert. It may not: that instruction breaches the solicitor's duty not to influence the substance of evidence.
+Will: Last part of the block: an unfavourable report. A party may ask its expert to correct factual errors or clarify the report. A party may not ask its expert to change a genuinely held opinion.
+Hannah: Two quick stories?
+Will: The report contains a factual error: you may ask the expert to correct it, or clarify. Now the solicitor wants an unhelpful paragraph deleted. That asks the expert to change a genuinely held opinion, which isn't allowed.
+Hannah: So what's the deciding point?
+Will: Whether the request corrects or clarifies, or changes the genuine opinion.
+Will: If you're unhappy, you may choose not to rely on the report, subject to the expert-shopping condition.
+Hannah (summing up): Expert discussions: joint statement yes, discussion contents no, agreement binds only if expressly agreed, and you may ask for factual errors to be corrected but never ask for a genuinely held opinion to be changed.
 ## Recap
-Hannah: Give me the whole map one last time.
-Will: Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.
+Will: Right. That's the eight topics. Whenever you're stuck, ask which topic you're in.
+Hannah: Facts first: relevance, statements, form, hearsay.
+Will: Yes. And the second half?
+Hannah: Summonses and trial, expert duty, joint expert, expert discussions.
+Will: Right. Evidence must be relevant, witness statements stand as evidence in chief, affidavits are sworn, hearsay is admitted and weighed, summonses compel attendance, experts owe their duty to the court, a single joint expert gets copied instructions, and expert discussions end in a joint statement.
