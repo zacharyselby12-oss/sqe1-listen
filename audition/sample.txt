@@ -1,278 +1,326 @@
 ---
-title: Tort WS04 · Remoteness, defences and remedies
+title: DR WS07 · Evidence
 map:
-- Remoteness of damage
-- Consent (volenti non fit injuria)
-- Contributory negligence
-- Illegality
-- Remedies and the aim of damages
-- Personal injury damages: heads and calculation
-- Deductions from damages
-- Claims on death (estate and dependants)
+- Evidence basics and admissibility
+- Witness statements: use, exchange and time limits
+- Form of witness statements; affidavits
+- Hearsay and previous convictions
+- Witness summonses and trial procedure
+- Experts' duty to the court and instructions
+- Single joint experts
+- Discussions between experts, oral expert evidence, unfavourable reports
 recap:
-- Remoteness: D is liable for the foreseeable kind of harm, however it happened and however bad it was.
-- Consent: a complete defence, but it normally fails for an employee who merely knew of the danger, a rescuer under a duty and the very act, and always for a car passenger.
-- Contributory negligence: a partial defence, never 100 per cent, with fixed figures for seatbelts and helmets.
-- Illegality: a complete defence; an incidental crime does not bar the claim, but injury that is a foreseeable risk of a joint criminal enterprise is barred.
-- Remedies: restore the pre-tort position, normally as one lump sum, and C must mitigate.
-- Personal injury damages: special and general damages, Ogden multipliers, and no recovery for a defendant's unpaid care.
-- Deductions: benefits come off like for like and never off PSLA; own accident insurance, ill-health or disability pensions and charitable payments or gifts stay.
-- Claims on death: the estate, the dependants, and a fixed bereavement award for a few people only.
-summary: Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.
+- Evidence must be relevant to a fact in issue; relevant evidence can still be excluded, but improperly obtained evidence is generally admitted in civil cases.
+- A served witness statement stands as evidence in chief; late, unused and unobtainable statements each have their own route.
+- The witness signs the statement of truth; an affidavit is the sworn form, needed only where something requires it, and sworn before an independent person.
+- Civil hearsay is admissible and weighed; it is excluded only if, and to the extent, the maker is shown not competent when it was made, and missing notice goes to weight and costs.
+- A summons compels attendance and a served statement does not; issue timing decides permission, service timing decides binding effect.
+- The expert's duty to the court overrides any duty to whoever instructs or pays them, and there is no immunity from a negligence claim.
+- A single joint expert gets copied instructions and no private meetings; a dissatisfied party asks written questions, and a second expert needs permission.
+- Experts' discussions end in a joint statement the court can see; an agreement binds a party only if it expressly agrees; a party may not ask its expert to change a genuinely held opinion.
+summary: Evidence must be relevant, witness statements stand as evidence in chief, affidavits are sworn, hearsay is admitted and weighed, summonses compel attendance, experts owe their duty to the court, a single joint expert gets copied instructions, and expert discussions end in a joint statement.
 invented:
-- Chloe
-- Ravi
-- Tom
-- Mina
-- Jack
+- Aisha
+- Dev
+- Marisol
+- Kofi
+- Dani
+- Norvik Ltd
+- Tomasz
 ---
 ## Map
-Will: Right. Eight topics today, and they come in a sensible order. First, how far a defendant's liability stretches, which is remoteness of damage. Then three defences: consent, contributory negligence and illegality.
-Hannah: So remoteness, and then three ways the defendant can fight back.
-Will: Then the money side. Remedies and the aim of damages, personal injury damages, deductions from damages, and claims on death.
-Hannah (thoughtful): Remoteness, three defences, then four topics on what the claimant actually gets. Fine, go.
-## Block 1: Remoteness of damage
-Will: Remoteness of damage first. The point of it is that a defendant should only pay for the kind of harm they could foresee, not for every direct consequence of what they did. And you ask it after factual causation, never instead of it.
-Hannah: So causation gets C in the door, and remoteness decides how far down the corridor they walk.
-Will (pleased): Nicely put. The test is whether damage of the relevant kind or type was reasonably foreseeable, judged objectively at the time of breach.
-Hannah: So no hindsight.
-Will: Right. And if those are met, D is liable even though the way it happened, or the extent of it, was unforeseeable.
-Hannah (sceptical): Hang on. How is that different from liability for every direct consequence?
-Will: That used to be the rule, and the Wagon Mound rejected it. That's the trap here: it's the foreseeable kind, not all direct consequences. In the Wagon Mound, fire damage from spilled oil was unforeseeable, although pollution damage was foreseeable. So the fire wasn't recoverable.
-Hannah: Okay. And what about the way it happens?
-Will: Here's the starred point. Someone is burned. Burns were a foreseeable kind of harm, but the burn came from an explosion nobody could have predicted. Is D liable?
-Hannah (wary): The explosion wasn't foreseeable, so... no?
-Will: Other way. D is liable. Burns were the foreseeable kind of harm, and the unforeseeable way it happened doesn't help D.
-Hannah: Right. So an unforeseeable route to a foreseeable kind of harm still counts.
-Will: Yes, that's it. Same idea with the injury caused when boys propped up an abandoned boat. The broad risk of children meddling was foreseeable, so the council was liable.
-Hannah: So the court looks at the risk broadly.
-Will: Usually, yes. Courts usually take a broad view of the type. A foreseeable cold injury covered frostbite, for example. A narrow view is occasionally taken.
-Hannah: Occasionally. Go on, show me one.
-Will: A splash was foreseeable, but the harm came from an eruption. The court treated an eruption as a different kind of harm from a splash, so there was no liability. That decision is widely criticised.
-Hannah (teasing): So the rule isn't "always broad", it's "usually broad".
-Will: Which is why the pair matters. In the first story, burns were foreseeable and C is burned by an unforeseeable explosion, so D is liable. In the second, a splash was foreseeable and C is hurt by an eruption, so a different kind of harm and D is not liable. What decides it is how broadly you describe the kind of harm, and usually you describe it broadly.
-Hannah: Burns and explosion: liable. Splash and eruption: not liable. Broad description wins, usually.
-Will: Yes, that's right.
-Will: One more rule on kind of harm, for primary victims. If physical injury was foreseeable, psychiatric injury is recoverable too, because both are personal injury.
-Hannah: Same type, so same answer.
-Will: Yes. Now the look-alike. Kind of harm is one thing; extent is another. Eggshell skull: D is liable for all the harm, even death, where C's pre-existing condition made it worse.
-Hannah: Even if D couldn't know C was fragile.
-Will: Yes. The eggshell rule also reaches C's impecuniosity, so extra loss caused by C's lack of money is recoverable. Picture a driver who mounts the pavement and narrowly misses a woman without touching her. She has a history of anxiety and develops severe, long-lasting depression. She can recover for the full psychiatric illness: she was a primary victim, physical injury was foreseeable, so psychiatric harm is the same type, and her vulnerability goes only to extent.
-Hannah (brisk): So kind decides whether you're in, and extent doesn't get D out.
-Will: Remoteness in one line, then. Foreseeable kind of harm and D is liable, however it came about and however bad it was.
-## Block 2: Consent (volenti non fit injuria)
-Will: Now from remoteness to the first defence: consent, volenti non fit injuria. The idea is that C freely chose to run a risk, and it defeats the claim entirely. Because of that, courts prefer contributory negligence where both are arguable.
-Hannah: All or nothing, so judges reach for the softer option if they can.
-Will: Right. Four elements, you need all four, and D has to prove it on the balance of probabilities. First, C had capacity to consent. Second, full knowledge of the risk's nature and extent.
-Hannah: Full knowledge. How full is full?
-Will: Of the risk's nature and extent. General awareness is not enough. And it's judged subjectively: what did this C actually know?
-Hannah: Not what a reasonable person would have known.
-Will: Right. That's the trap. The objective standard belongs to contributory negligence, not here. Third element, C agreed, expressly or impliedly, to bear the risk of injury. Fourth, C agreed freely and voluntarily.
-Hannah: Capacity, full knowledge, agreement, free choice. And all four or nothing.
-Will: Yes. Two small points on how they work. C's own drunkenness counts: a C too drunk to grasp the risk lacks full knowledge. And agreement may be implied from taking part in an obviously dangerous activity. Sports players accept the risks inherent in the sport.
-Hannah (brisk): Drunk means no full knowledge; sport means implied agreement to the inherent risks.
-Will: Yes. Now the big part. Even with all four elements, volenti normally fails in four situations.
-Hannah (groaning): Four exceptions. Go.
-Will: An employee who merely knew of the danger. A rescuer acting under a duty. The very act D had a duty to prevent. And a car passenger, where motor insurance is compulsory.
-Hannah: Let me take the first. An employee who knew the machine was dangerous and carried on. Surely he accepted the risk.
-Will: That's the starred point, and it's the tempting one. Knowledge is not consent. An employee aware of the danger has not thereby agreed to it. Volenti rarely succeeds against employees.
-Hannah: Right. Knowing isn't agreeing.
-Will: Yes. There is one rare exception: employees who deliberately broke safety rules and regulations together. There, volenti protected the employer from vicarious liability.
-Hannah: So it takes deliberate rule-breaking, together.
-Will: Yes. Second, the rescuer. A rescuer acting under a legal, social or moral duty doesn't act freely, so volenti normally fails.
-Hannah: It's the free choice element that goes. They had to help.
-Will: Right. Third, where D had a duty to prevent the very act. The example is suicide in custody. Volenti fails, though contributory negligence may still reduce the damages.
-Hannah: Why does volenti fail there? Was it a capacity problem?
-Will: No, and this is a look-alike worth fixing. People say the prisoner lacked capacity. In fact he was of sound mind. Volenti failed because suicide was the very act the police had to prevent.
-Hannah: Sound mind, but the very act. Capacity wasn't the reason.
-Will: Yes, that's right. Fourth, the car passenger, also starred. Any agreement to accept the risk is ineffective where compulsory motor insurance is required. You use contributory negligence instead. This comes from the Road Traffic Act.
-Hannah: So a passenger who got in with a drunk driver can't be hit with volenti.
-Will: That's it. And the other side of it: a passenger who flew with a pilot he knew was very drunk. There volenti succeeded, because that Road Traffic Act protection covers motor vehicles only.
-Hannah: Pilot, volenti succeeds. Car driver, it doesn't. So the pair is about the insurance.
-Will: Yes. In the first story, C flies with a pilot he knows is very drunk, so volenti succeeds. In the second, C rides with a car driver she knows is drunk. Volenti is ineffective and damages are reduced instead. What decides it is whether compulsory motor insurance applies.
-Hannah (wry): So drunk pilot, defence works; drunk driver, it doesn't. Same drunk, different insurance.
-Will: Last piece: exclusion notices. A business cannot exclude or restrict liability for death or personal injury caused by negligence, by a term or a notice. That comes from the Unfair Contract Terms Act and the Consumer Rights Act.
-Hannah: There's a catch, isn't there?
-Will: One. A business occupier may do so towards entrants admitted for recreational or educational purposes outside its business purposes, and hurt by the dangerous state of the premises.
-Hannah: Narrow.
-Will: Very. Next: knowing of or agreeing to such a notice is not by itself voluntary acceptance of the risk. So a notice doesn't turn into volenti.
-Hannah: And for other loss or damage?
-Will: There a business exclusion is valid only if it is reasonable.
-Will: So take a go-kart track. A customer pays and signs a form saying the track accepts no liability for any injury, and then a kart the track negligently maintained crashes and injures her. The track can't rely on the form as an exclusion, because it's business negligence causing personal injury, and it can't rely on it as consent, because signing a notice is not by itself voluntary acceptance of the risk.
-Hannah: Consent in one line: complete defence, four elements, and it normally fails for an employee who merely knew of the danger, a rescuer under a duty and the very act, and always for a car passenger.
-Will: Yes, that's it.
-## Block 3: Contributory negligence
-Will: Now from consent to contributory negligence. The point of it is that C's own carelessness reduces damages but never defeats the claim, which is why courts prefer it to volenti or illegality.
-Hannah: The softer option. Partial, not total.
-Will: Yes. The test has three steps. First, D proves, on the balance of probabilities, that C failed to take reasonable care for their own safety, and that's judged objectively.
-Hannah: That's the objective standard we said belongs here and not in volenti.
-Will: Right. Second, that failure contributed to the damage, either by causing the accident or only by worsening the injury.
-Hannah: So it doesn't have to cause the crash.
-Will: No. Third, damages are reduced by what is just and equitable for C's share in the responsibility. The court weighs causative potency and blameworthiness in setting that share.
-Hannah (brisk): Careless, contributed, reduced by what's just and equitable.
-Will: Yes. And it is a partial defence: the reduction is always less than 100 per cent, so the claim is never extinguished. That's the trap. It isn't a complete defence like volenti and illegality.
-Hannah: Three allowances on the first step, I'm guessing.
-Will: Three: agony of the moment, rescuers and children. We'll take them in a minute. First, the starred figures for seatbelts and helmets. C wasn't wearing one. If the injury would have been avoided altogether, 25 per cent off. If it would have been less severe, 15 per cent. If it would have made no difference, nil.
-Hannah: Twenty-five, fifteen, nil. Which one is the "less severe" one?
-Will: Fifteen. And the fault has to relate to the damage. No helmet but only a leg injury means no reduction.
-Hannah: Because the helmet wouldn't have helped a leg.
-Will: Yes. Another starred point: a passenger who accepts a lift from a driver she knows is drunk has her damages reduced. Her claim is not defeated.
-Hannah: Which fits the volenti exception we just did. Car passenger, so volenti is out and contributory negligence is in.
-Will: Right.
-Will: Now the allowances. Starred first: a reasonable but mistaken step taken in the agony of the moment attracts no reduction.
-Hannah: Fair. You can't judge a split-second decision at leisure.
-Will: Second, a rescuer is contributorily negligent only for a wholly unreasonable disregard of their own safety.
-Hannah: So the bar for reducing a rescuer's damages is very high.
-Will: Right. Third, a child is judged against an ordinarily prudent child of the same age. Very young children are rarely found negligent.
-Hannah: Standard follows age.
-Will: Yes. One more, and it's a look-alike for what counts as relevant conduct. A prisoner's long-past drug addiction was too remote a cause of his injury to count as contributory negligence. The mistake is thinking the nature of the duty excuses the addicted prisoner. The law is that the addiction was simply too remote a cause.
-Hannah: So remote, not excused.
-Will: Yes, that's right.
-Will: Now later conduct, which is starred. Mere carelessness only reduces damages. Only C's entirely unreasonable later conduct breaks the chain of causation.
-Hannah: So a foolish thing C does afterwards just means a reduction.
-Will: Right, unless it's entirely unreasonable, and then it breaks the chain.
-Will: Two more points. With two defendants, you weigh C's share against the defendants' combined fault, then apportion the rest between them. And contribution between tortfeasors can be a complete indemnity, whereas a contributory negligence reduction never reaches 100 per cent.
-Hannah: Indemnity can be total, contributory negligence can't.
-Will: Yes, that's the line. Now a scenario. Chloe is a car passenger who isn't wearing her seatbelt. She is hurt in a collision caused equally by two drivers, Ravi and Tom. A belt would have made her injuries less severe. Her full damages are £100,000.
-Hannah (thinking aloud): So what does Chloe recover, and how is liability shared? Does she get everything, lose 15 per cent, or lose 25 per cent, and then how do Ravi and Tom split what's left?
-Hannah: <think>
-Hannah: Right. It's contributory negligence, no seatbelt. The belt would have made her injuries less severe, not avoided them altogether, so it's the 15 per cent figure. Fifteen per cent off £100,000 leaves £85,000. And the drivers are equally at fault, so they bear half each of that.
-Will: Yes, £85,000, and Ravi and Tom bear half each. The deciding fact is that her failure only worsened the injury, so it's 15 per cent, not 25. The 15 per cent comes off against the drivers' combined fault, and the remainder is apportioned between them.
-Hannah: Contributory negligence in one line: partial, never 100 per cent, and fixed figures for seatbelts and helmets.
+Will (brisk): Right, evidence. Eight topics: the facts first, then the experts. Facts first. What gets in at all. How witness statements are served and used. What a statement looks like, and when you need an affidavit. And hearsay.
+Hannah: So: what gets in, statements in use, statements in form, hearsay.
+Will: Yes. Then the trial and the experts. Summonses and how the trial runs. The expert's duty to the court. The single joint expert. And experts talking to each other.
+Hannah (pleased): Summonses and trial, duty, joint expert, expert discussions. Eight topics, and I only have to hold two lots of four.
+## Block 1: Evidence basics and admissibility
+Will: Evidence basics are the gate: what gets in at all. The first test is dull, but everything hangs from it. Evidence has to be relevant to a fact in issue.
+Hannah (dry): And a fact in issue is whatever the lawyers are arguing about.
+Will: Close. The statements of case define the facts in issue. And evidence is relevant if it tends to make a fact in issue more probable or less probable. Irrelevant evidence is inadmissible.
+Will: That's the why for the whole block. The statements of case mark out what the fight is about, so the evidence has to be about that fight.
+Hannah: Fine. So relevant means it gets in?
+Will: Not automatically. Relevant evidence can still be withheld or excluded. Three routes: privilege, without prejudice communications, or the court's control.
+Hannah: Court's control sounds like the vague one.
+Will: It's wide. The court can direct which issues need evidence, what kind of evidence is needed, and how it's placed before the court.
+Hannah: And can it keep evidence out?
+Will: Yes. It can exclude evidence that would otherwise be admissible, and it can limit cross-examination. Think of twelve witnesses on a minor point: the judge can limit the cross-examination.
+Hannah: And without prejudice?
+Will: A without prejudice offer is not put before the judge, however relevant it is.
+Hannah (thinking aloud): Right. So what if someone got the evidence badly? They filmed the other side without telling them.
+Will: This is a starred point, and it's a trap. Improperly obtained evidence, covert surveillance for instance, is generally admissible in civil cases. The court may exclude it, or it may reflect the conduct in costs.
+Hannah (surprised): So being sneaky doesn't keep it out.
+Will: <short pause> Right, not by itself. The trap wording is "not excluded for being improperly obtained". It's generally admitted, and the conduct may show up in costs.
+Hannah: What about us? Can a solicitor tidy up the evidence?
+Will: No. A solicitor must not misuse or tamper with evidence, so no altering or destroying documents, and must not seek to influence its substance.
+Will: Two notices finish the block. A notice to admit facts has to be served no later than 21 days before trial. If a fact isn't admitted and it's later proved, the refusing party may pay the costs of proving it.
+Hannah: And the document one?
+Will: A disclosed document's authenticity is deemed admitted unless a notice to prove it is served by the latest date for witness statements, or within 7 days of disclosure, whichever is later.
+Hannah: So if nobody serves anything, the document is treated as genuine.
 Will: Yes.
-## Block 4: Illegality
-Will: Now from contributory negligence to illegality. The idea is that courts refuse a claim where allowing it would harm the integrity of the legal system. A merely incidental crime does not bar it.
-Hannah: So it's not "did C do something naughty".
-Will: No. The test comes from Patel v Mirza. Step one: did C commit an illegal, or grossly immoral, act connected with the loss? If not, the defence fails.
-Hannah: And if so?
-Will: Step two: would allowing the claim create inconsistency in the law? You weigh three points. The underlying purpose of the prohibition, and whether denying the claim enhances it. Any other public policy that denying the claim may undermine.
+Hannah (summing up): Evidence basics, then. Relevant to a fact in issue, relevant can still be excluded, improperly obtained evidence generally goes in, and two notices.
+Will: Right. That's what gets in. Next, how a witness's evidence actually arrives: the witness statement.
+## Block 2: Witness statements: use, exchange and time limits
+Will: Witness statements. Served statements show each side the other's factual evidence, and at trial they normally stand as evidence in chief. The exam questions turn on the awkward cases: late, unused or unobtainable statements.
+Hannah: Start with what a witness statement is.
+Will: A written statement, signed by a person, of the evidence that person could give orally. The court orders each party to serve statements of the oral evidence of fact it will rely on at trial, usually by simultaneous exchange.
+Hannah: And at trial the witness gets up and tells it all again?
+Will: No, and that's the trap. The served statement stands as evidence in chief, unless the court orders otherwise. It isn't oral evidence in chief.
+Hannah: What if the witness remembers something new on the day?
+Will: Amplifying the statement, or adding new matters arising since service, needs permission, and there has to be good reason.
+Hannah: Can the other side cross-examine on it?
+Will: Yes. A witness who's called can be cross-examined on the statement, whether or not it was referred to in chief. And the court shapes all this. It can limit the issues for factual evidence, identify the witnesses who are called or read, and limit the length or format of statements.
+Hannah: Right, so what are the awkward cases?
+Will: Three, all starred. One: the statement isn't served in time. Then the witness gives oral evidence only with permission, and the court applies relief from sanctions principles.
+Hannah: So late means permission, and it's not a formality. Next?
+Will: Yes. Two: the statement was served, but the witness is neither called nor is the statement put in as hearsay by the party who served it. Then any other party may put it in as hearsay.
+Hannah (amused): So you serve it, drop the witness, and the other side can still put your statement in.
+Will: Yes. Any other party may.
+Hannah: Three?
+Will: Three: no statement is obtainable at all. Then you apply without notice for permission to serve a witness summary. The summary gives the evidence if it's known, or otherwise the matters the witness will be asked about.
+Hannah: What else goes in a summary?
+Will: The witness's name and address, unless the court orders otherwise, and it's served within the time for witness statements. And a witness summons may also be needed, because a summary doesn't make anybody turn up.
+Hannah: Give me a picture.
+Will: Say a former site manager saw a scaffold give way, and now works for the other side's subcontractor and flatly refuses to sign anything for you. You can't serve a witness statement, because a statement has to be signed by the witness. So you apply for permission to serve a summary, and you get a summons to secure his attendance.
+Will: Now the last part of the block: what the statement needs, and where it can travel. With no statement of truth, the statement may be held inadmissible. And a false statement made without honest belief in its truth can lead to contempt proceedings, which need the court's permission.
+Hannah: Can I take someone's witness statement and use it for something else?
+Will: That's collateral use. A witness statement can be used only for these proceedings, unless the witness consents in writing or the court permits.
+Hannah: Or?
+Will: Or it was put in evidence at a public hearing.
+Hannah (wary): That sounds a lot like the rule for disclosed documents.
+Will: It's the look-alike. For a disclosed document it's also a public hearing or permission, but the third route is the agreement of the disclosing party and the owner of the document.
+Hannah: So the question is whose consent. The witness for a statement, the disclosing party and owner for a document.
+Will: Yes. Whose consent is the whole difference.
+Hannah (summing up): Witness statements: a served statement stands as evidence in chief, and late, orphaned and unobtainable each have their own way through.
+Will: Right. Next, what a statement has to look like, and the sworn alternative.
+## Block 3: Form of witness statements; affidavits
+Will: Form of witness statements, and affidavits. A witness statement should be in the witness's own words where practicable, and it's verified by a statement of truth the witness signs. The why: at trial the served statement normally stands as the witness's evidence in chief, so it has to be the witness's own account. An affidavit is the sworn form, needed only where something requires it.
+Hannah: So one default, one special.
+Will: Yes. The statement first. If practicable it's in the witness's own words, their own language, and the first person.
+Hannah: And what does it say about the witness?
+Will: It gives the witness's identity details and says how it was prepared, such as face to face, by telephone or through an interpreter.
+Hannah: That's a lot of boxes.
+Will: Mostly look-up. The parts worth keeping: it distinguishes what the witness knows personally from information and belief, and gives the source. It uses numbered paragraphs and identifies exhibits.
+Hannah: What if the witness doesn't speak English?
+Will: Then it's drafted in their language, translated, and the foreign-language statement is filed. The translator signs the original and certifies accuracy.
+Hannah: And who signs the statement of truth?
+Will: Starred. The witness, not the legal representative. And the wording includes a warning that contempt proceedings may be brought against anyone who makes a false statement without an honest belief in its truth.
+Hannah (thinking aloud): But a solicitor can sign a statement of truth on a statement of case...
+Will: Can, yes. Never on a witness statement. That's the trap: not the solicitor's signature.
+Hannah: Anything extra for the big courts?
+Will: Business and Property Courts trial statements. Only facts within personal knowledge that are relevant to the issues, in the witness's own words. No argument, and no commentary on documents.
+Will: The same practice direction also requires a list of documents referred to, and the witness's confirmation. Then the legal representative's certificate of compliance. Breach can bring sanctions.
+Hannah: Now the sworn one.
+Will: An affidavit is written evidence sworn on oath, or affirmed, before an authorised person, such as a solicitor, a commissioner for oaths or a court officer. It's required only where the court or a rule requires it.
+Hannah: Or?
+Will: Or a practice direction, or another enactment. The affidavit examples are freezing injunctions, search orders and contempt applications. Otherwise, use a witness statement.
+Hannah: And who can swear me in?
+Will: Someone independent. Not the deponent's own solicitor, and not a member or employee of the acting firm. Say it's an urgent freezing injunction and a trainee at your own firm offers to take the oath to save time. The answer is no, because the trainee is an employee of the acting firm.
+Hannah (mock-outraged): <laugh> Saving time was the whole selling point.
+Will: Next, a starred point. A voluntary affidavit at a non-trial hearing is allowed, but the extra cost is not recoverable from another party unless the court orders otherwise.
+Hannah: So it isn't inadmissible. You just pay for the luxury.
+Will: Right. That's the trap. Not inadmissible; only the extra cost is lost, unless the court orders otherwise.
+Will: Now lying. A false statement in an affidavit is possible perjury, which is a crime, as well as contempt. The muddle is thinking an affidavit lie is only contempt.
+Hannah: And in a witness statement?
+Will: Contempt also lies against anyone who makes, or causes, a false statement in a statement of case or a witness statement verified by a statement of truth, without honest belief. And the second trap: a contempt application itself needs an affidavit or affirmation, not a witness statement.
+Hannah: Is there anything about how an affidavit is set out?
+Will: It's set out like a statement: heading, the deponent's details, first person and numbered paragraphs.
+Hannah: And own knowledge kept apart?
+Will: Yes, own knowledge distinguished from information and belief. Then exhibits are marked, the jurat is signed by the deponent and the person before whom it's sworn, and alterations are initialled.
+Hannah: Let me put the two side by side. Witness statement: verified by a statement of truth the witness signs, nobody to swear it before, the default for trial and interim evidence.
+Hannah: Affidavit: oath or affirmation, an independent authorised person, only where required, and a lie can be perjury as well as contempt. Statement lies need permission for contempt.
+Will: Yes, that's the contrast.
+Hannah (summing up): Form and affidavits: witness signs the statement of truth, affidavit only where required, sworn before someone independent.
+Will: Right. Now the one with the biggest exam traps: hearsay.
+## Block 4: Hearsay and previous convictions
+Will: Hearsay. Civil hearsay is admissible, and the court weighs it. The why: unlike the criminal rules, civil proceedings never exclude evidence just for being hearsay, so the questions turn on notice, the 14-day steps and weight. It's inadmissible only if, and to the extent, the maker is shown not to have been competent when the statement was made. And missing notice never makes it inadmissible.
+Hannah (wary): I'll want to cross-check those three.
+Will: Good, because the exam tests the gaps between them. First, what hearsay is. A statement made otherwise than by a person giving oral evidence in the proceedings, tendered as evidence of the matters stated.
+Hannah: So the neighbour tells me the pipe burst, and I tell the court the neighbour said so, to prove the pipe burst.
+Will: Yes. It includes multiple hearsay too, such as a witness repeating what a bystander heard from someone else. And in civil proceedings, hearsay isn't excluded because it's hearsay.
+Hannah: And if I only want to show the neighbour said it?
+Will: Then it's original evidence, not hearsay. You're relying on it only to show it was said, not that it's true.
+Hannah: So civil hearsay is just in. That seems strangely easy.
+Will: Yes, and that's the look-alike trap. Criminal hearsay rules are exclusion, subject to exceptions. Civil proceedings never exclude it for being hearsay.
+Hannah: Civil: admitted and weighed. Criminal: excluded unless an exception.
+Will: Right. Now the one thing that does exclude it. Starred. Hearsay is inadmissible if, and to the extent, it's shown the maker was not competent as a witness when it was made, through mental or physical infirmity or lack of understanding. And a child is treated as competent if they understand the duty to speak the truth and have sufficient understanding for their evidence to be heard.
+Hannah: "To the extent". So part of it can go and the rest stays.
+Will: Yes. Now notice, which is where the traps live. A hearsay notice is not needed in four cases. First, evidence at a hearing other than trial, such as an interim application or summary judgment. Second, a trial affidavit or witness statement containing no hearsay.
+Will: Third, a probate statement alleged to be the deceased's. And fourth, where a practice direction excludes the requirement.
+Hannah: So it's a trial, it's hearsay, and it's not one of those four.
+Will: Right. Now how you give notice. Starred. If the witness is called, serving the witness statement is the notice. If the maker isn't called, you serve the statement and say that the witness won't be called, and why.
+Hannah: And if it's not in a witness statement?
+Will: Otherwise you serve a hearsay notice, identifying the evidence, stating the intention to rely on it, and why the maker won't be called. The deadline is no later than the latest date for serving witness statements.
+Hannah: Say I miss it.
+Will: Starred, and it's the point of the whole block. With no notice, the evidence is still admissible. The court may reflect that in case management and costs, and it may give the evidence less weight.
+Will: Two little stories, because they tell you what decides it. Aisha relies at trial on her neighbour Dev's statement about the flood but never serves a hearsay notice. It's still admissible. The court may give it less weight and reflect the failure in costs.
+Will: Now suppose Dev made the statement while he lacked understanding through mental infirmity, and that's shown. Then it's inadmissible to that extent, notice or no notice.
+Hannah: So a missing notice goes to weight. An incompetent maker goes to admissibility.
+Will: Right, that's it. Only the maker's incompetence when the statement was made excludes hearsay. Not inadmissible for want of notice is the trap line.
+Hannah: One line: missing notice is weight, costs and case management; incompetent maker is out.
+Will: Right. After notice, there are two 14-day steps, both from service of the hearsay notice. Starred: where the maker isn't called, any other party may apply for permission to call and cross-examine the maker, within 14 days after service of the notice.
+Hannah (groaning): <sigh> Fourteen days. I keep wanting to say 28.
+Will: That's the trap. 28 days is the time for written questions to an expert, which comes up later, under single joint experts.
+Will: The second step: to attack the credibility of a maker who isn't called, for example with a fraud conviction, you give notice within 14 days after service of the hearsay notice.
+Hannah: And how does the court weigh hearsay?
+Will: Starred, six factors, in two lots of three. Lot one: was it reasonable and practicable to call the maker, was the statement contemporaneous, and is it multiple hearsay.
+Hannah: Reasonable to call, contemporaneous, multiple.
+Will: Right. Lot two: any motive to conceal or misrepresent. Whether it was edited, collaborative or made for a purpose. And any attempt to prevent proper evaluation.
+Will: Try this one. Marisol is suing over a flood in a block of flats. At trial, her side wants to rely on a written account by a tenant called Kofi. They never served a hearsay notice and they don't plan to call him. Kofi is healthy and lives round the corner. He wrote the account long after the flood, and Marisol's solicitor edited it for him. The other side objects that without notice it is simply out.
+Hannah: So, is Kofi's statement inadmissible because no notice was served, admissible but likely to carry little weight, with the failure possibly reflected in costs, or admissible at full strength as if nothing were missing?
+Hannah: <think>
+Hannah (thinking aloud): This is hearsay. Hearsay is admissible in civil cases, and nothing says Kofi lacked competence when he wrote it, so it's in. Missing notice never excludes. It goes to weight, case management and costs. Weight: easy to call him, written long after so not contemporaneous, and edited. So the middle one.
+Will: Yes. The deciding fact is that the only thing that excludes it is incompetence when it was made, and there's none here. The notice failure goes to weight, costs and case management. Three of the weight factors point one way: calling Kofi was reasonable and practicable, it wasn't contemporaneous, and it was edited.
+Will: Three loose ends on hearsay, all about things that aren't witness statements. Plans, photographs and models that aren't in a witness statement, an expert report or a disclosed list: you give notice by the latest date for witness statements, so the other side can inspect. Otherwise they're not usable without permission.
+Hannah: And business records?
+Will: Records of a business or public authority are received without further proof if an officer's signed certificate is produced. And a subsisting UK conviction is admissible to prove the person committed the offence, where it's relevant to an issue.
+Hannah (summing up): Hearsay: civil hearsay is in and weighed, it's out only to the extent the maker is shown not competent when it was made, and no notice hurts weight and costs but never admissibility.
+Will: Right. Next, getting the witness into court, and what happens when they're there.
+## Block 5: Witness summonses and trial procedure
+Will: Witness summonses and trial procedure. A summons compels attendance and a served statement does not. The why: a statement only sets out what a witness would say; it can't make them come, so if you need to compel a witness to attend, you need a summons. And there are two 7-day rules: issue decides permission, service decides binding effect.
+Hannah: Two sevens, two jobs. Go on.
+Will: A witness summons is a court document requiring a witness to attend court to give evidence, to produce documents, or both. You can issue it without permission, unless one of three things is true. If you're seeking it less than 7 days before trial, or it's for a date other than the trial date, you need permission.
 Hannah: And the third?
-Will: Whether denying the claim is proportionate to the illegality.
-Hannah: Purpose, other policy, proportionality.
-Will: Yes. Proportionality has factors. Seriousness of the conduct, its centrality to the tort, intention, and any marked disparity in culpability. That's four, and the test applies in tort.
-Hannah: And this one's a complete defence, isn't it. Not like contributory negligence.
-Will: Yes. The claim fails entirely, with no apportionment, and D proves it on the balance of probabilities.
-Hannah (sceptical): Then the safe answer is: any crime at all, no recovery.
-Will: That's too broad. An incidental crime does not bar the claim, and the Patel v Mirza balance applies.
-Hannah: So the crime has to matter to the loss, not just exist.
-Will: Right, the crime has to be connected to the loss.
-Hannah: So when does a crime bar it?
-Will: First, loss flowing from C's own criminal act or sentence is barred. That covers detention, lost earnings and inheritance, even if D's negligence caused C's illness.
-Hannah: So the loss comes from the crime or the sentence, not from D.
-Will: Right. Second, the starred point: a merely incidental crime does not bar the claim where the negligent driving, not the crime, caused the injury.
-Hannah: And the opposite?
-Will: Joint criminal enterprise. C cannot recover for injury that is a foreseeable risk of the enterprise, because the injury is treated as caused by C's own crime.
-Will: Here's the pair. First story: C is transporting cannabis, D drives negligently and crashes. The crime is incidental, so the claim succeeds. Second: C is a pillion passenger who urges a drunk, unlicensed D to ride recklessly, and they crash. That's a foreseeable risk of the joint crime, so the claim is barred. What decides it is whether the injury came from ordinary negligence or from a risk the crime itself created.
-Hannah: Cannabis in the boot and an ordinary bad driver: claim succeeds. Urging on a drunk rider: barred.
-Will: Yes. Same thing if two people are driving at normal speed to sell stolen goods hidden in the boot, and the driver negligently misjudges a bend. The passenger's claim can succeed, because the crash came from ordinary negligent driving and the crime was incidental to the injury, not its cause.
-Hannah: Illegality in one line: complete defence, but an incidental crime doesn't bar the claim, while injury that is a foreseeable risk of a joint criminal enterprise is barred.
-Will: Yes.
-## Block 5: Remedies and the aim of damages
-Will: Now from the defences to the money, starting with remedies and the aim of damages. Tort damages restore the pre-tort position, normally as one lump sum assessed once and for all.
-Hannah: The aim being?
-Will: Put C where they would have been had the tort not been committed.
-Hannah (wary): That sounds like contract damages.
-Will: It's the trap. Not the contract measure. Tort damages restore the pre-tort position, not the position had a promise been performed.
-Hannah: Backwards-looking, not promise-looking.
-Will: Yes. And C must take reasonable steps to mitigate loss. Loss C could reasonably have avoided is not recoverable.
-Hannah: Remedies in one line: back to where they were, normally once and for all, and C has to mitigate.
-Will: Yes.
-## Block 6: Personal injury damages: heads and calculation
-Will: Now from remedies to personal injury damages, heads and calculation. Past financial loss is calculated precisely; PSLA and future loss are assessed.
-Hannah: Special damages and general damages, I assume.
-Will: Yes. Special damages are past financial losses up to trial, precisely calculable. General damages are pain, suffering and loss of amenity, which is PSLA, plus future losses.
-Hannah: How do you value PSLA, though? There's no price tag on pain.
-Will: The Judicial College Guidelines and comparable awards, plus a 10 per cent uplift for judgments from 1 April 2013. Loss of amenity reflects how active C was and what C can no longer do.
-Hannah: So a keen runner loses more amenity than someone who never ran.
-Will: That's the idea. Now the starred one: a permanently unconscious C recovers loss of amenity, assessed objectively, but not pain and suffering.
-Hannah: So amenity yes, pain no.
-Will: Yes.
-Will: Future loss next. For a continuing loss you take the multiplicand, which is the net annual loss, times a multiplier from the Ogden Tables. A one-off future expense, such as adapting a home, is just its cost as a lump sum.
-Hannah: So annual loss times the years the loss lasts?
-Will: That's the look-alike. You multiply by an Ogden multiplier, which is discounted for early receipt, not by the plain number of years.
-Hannah: Ogden, discounted. Not years.
-Will: Right. The discount rate from 11 January 2025 is plus 0.5 per cent, previously minus 0.25 per cent. Lost earnings are recovered net of income tax and national insurance.
-Hannah: Net, so after tax.
-Will: Yes. Next, starred: a living C whose life is shortened recovers lost years earnings, less their own living expenses.
-Hannah: Less their own living expenses. Okay.
-Will: Right. And loss of earning capacity: a lump sum for C's disadvantage on the labour market if C later loses their job.
-Hannah: So it's about being worse placed if you're out of work later.
-Will: Yes.
-Will: Now care and medical costs, in three bits. Reasonable private medical costs are recoverable, and the availability of NHS treatment is disregarded. Unpaid care by a relative: C recovers its reasonable value, holds it on trust for the carer, and the commercial rate is usually discounted.
-Hannah: And the starred point?
-Will: Where the unpaid carer is the defendant, nothing is recoverable for that care. So picture a man injured by his wife's negligent driving, and afterwards both his wife and his mother care for him unpaid. He recovers the value of his mother's care only, held on trust, because where the carer is the tortfeasor she would be paying herself.
-Hannah: Mother yes, wife no.
-Will: Last, the form of the award. Provisional damages are available where there is a chance of later serious disease or serious deterioration, and C may return once if it happens.
-Hannah: Once only.
-Will: Yes, once. Periodical payments can be ordered without consent only for future pecuniary loss, and only if continuity is reasonably secure.
-Hannah: Personal injury damages in one line: special and general damages, Ogden multipliers for future loss, and nothing for a defendant's unpaid care.
-Will: Yes.
-## Block 7: Deductions from damages
-Will: Now from calculating damages to deductions. The basic idea is that state benefits come off only the matching head of loss, and other payments depend on their source.
-Hannah: So it depends what the money was for.
-Will: Right. Before paying, the compensator repays recoverable benefits to the state through the Compensation Recovery Unit. Benefits are recoverable for 5 years from the day after the accident, or until an earlier final settlement.
-Hannah: And a disease, where there's no single day of the accident?
-Will: For a disease, the 5 years run from the first claim for a listed benefit because of it.
-Hannah: Fine. What comes off what?
-Will: Starred. Benefits are offset only like for like, against earnings, care and mobility, and never against PSLA.
-Hannah: Never PSLA.
-Will: Never. Now payments that are deducted: the employer's contractual sick pay, and a redundancy payment where the injury caused the redundancy.
-Hannah: And not deducted?
-Will: Also starred. C's own accident insurance, ill-health or disability pensions, and charitable payments or gifts.
-Hannah: Contractual sick pay comes off; C's own insurance doesn't.
-Will: Yes. Now a scenario. Mina is awarded £40,000 for PSLA and £20,000 for lost earnings. She received £25,000 in recoverable benefits, all paid for lost earnings.
-Hannah (brisk): How much does Mina herself receive? Does she get everything, does she lose the benefits from her total, or do they come off the earnings head only?
+Will: Or it's for a hearing other than the trial. Any one of the three is enough.
+Hannah: That's issue. What about binding?
+Will: Binding is separate. A summons binds only if it's served at least 7 days before the date the witness must attend, unless the court directs that later service binds.
+Hannah: Issue, permission. Service, binding.
+Will: Right, that's the look-alike: summons issue versus summons binding. The trap is thinking early issue makes it binding.
+Hannah: Issue date is permission, service date is binding.
+Will: Yes. Two little stories. A County Court trial is on 20 June. The summons is served on the witness on 9 June with conduct money, and she stays away without good reason. She can be fined up to £1,000.
+Will: Now the same summons, served on 16 June, only 4 days before attendance. It's not binding, unless the court directed that later service binds. The deciding fact is the date of service, not the date of issue.
+Hannah: What's conduct money?
+Will: On service, offer or pay conduct money: reasonable travel to and from court, plus compensation for loss of time. Service is by the court, unless the party says it will serve. If the court serves, the party deposits the conduct money with the court. And a summons is available for any witness, including an expert whose report has been served.
+Hannah: And if they ignore it?
+Will: Starred, in two parts. Failure without good reason to obey a properly served summons, where conduct money was paid or tendered, is in the County Court a fine of up to £1,000. In the High Court, disobedience is contempt, punishable by a fine or imprisonment.
+Hannah: Can a witness fight it?
+Will: The court may set aside or vary a summons, for example if the witness cannot give relevant evidence, or it's oppressive, or it's a fishing exercise for documents.
+Will: Starred, and it ties back to witness statements. A served witness statement does not compel attendance. If the witness doesn't come, the statement may be used only as hearsay, with reduced weight, unless the court orders otherwise.
+Hannah: And if they genuinely can't come?
+Will: Say they're ill or abroad. Then evidence can be by video link or by deposition before an examiner. A witness abroad may need a letter of request.
+Will: One rule for solicitors here too. No benefit to a witness may depend on the nature of the evidence or the outcome. Reasonable expenses and loss of time may be paid.
+Will: Now the trial itself. Claimant's opening, which is often short or dispensed with because the judge has pre-read. Then the claimant's witnesses: examination-in-chief, cross-examination, re-examination. The defendant's witnesses in the same way.
+Hannah: And closing speeches, claimant first, since they started.
+Will: <short pause> No, that's the trap. Defendant first, claimant last. Then judgment.
+Hannah (laughing): <laugh> Fine, fair, caught.
+Will: And that's the look-alike. In a criminal trial, the defence speaks last. In civil, the claimant has the last word.
+Hannah: Civil, claimant last. Criminal, defence last.
+Will: Right. Civil chief is usually brief, because the statement stands. Criminal chief is normally oral, or a video-recorded interview under a special measures direction.
+Will: Submission of no case to answer. In civil proceedings the defendant is normally put to its election. The judge usually hears the submission only if the defendant calls no evidence. If it fails, the case is decided on the claimant's evidence alone.
+Hannah: And criminal?
+Will: Second look-alike. In a criminal trial, the defence may submit no case to answer and still call evidence if it fails.
+Hannah: Civil: choose first. Criminal: submit and carry on.
+Will: Right. Now questioning witnesses. A leading question suggests the answer wanted or assumes a disputed fact, like "The car was speeding, wasn't it?" A non-leading question is open: "What did you see?"
+Hannah: So what's the rule?
+Will: Starred. Your own witness, in chief or in re-examination, on a disputed matter: no leading questions. They're allowed on introductory or undisputed matters. In cross-examination, leading questions are permitted and usual.
+Hannah: And re-examination?
+Will: Only matters arising out of cross-examination. A new matter needs permission.
+Will: In cross-examination you must put your case on every material point you dispute. Unchallenged evidence may be treated as accepted. That's Browne v Dunn, and the rule is flexible, not rigid. So an opponent's account that's disputed but not challenged: challenge it in cross-examination, not first in closing.
+Will: The court's control over evidence applies here too: it may exclude admissible evidence and limit cross-examination.
+Will: Your own witness who is merely unfavourable: you may not cross-examine them. A witness ruled hostile is different. Starred. That's one unwilling to tell the truth for the party calling them. With permission, you may ask leading questions and put a previous inconsistent statement. In civil proceedings that statement is admissible as evidence of its truth.
+Will: Try this one. Dani is a claimant's witness. Her served statement says the defendant's forklift knocked over the racking. In the box she says she "can't really say", and won't look at the claimant's barrister. The barrister wants to read her statement to her and ask, "The forklift knocked over the racking, didn't it?"
+Hannah: So can the barrister do that? Yes, as ordinary cross-examination because she's turned awkward. No, never, because she's their own witness. Or yes, but only if the judge rules her hostile and gives permission?
 Hannah: <think>
-Hannah: Like for like. The benefits were all for lost earnings, so they only come off the earnings head. That head is £20,000, the benefits are £25,000, so it's reduced to nil. And PSLA can never be touched. So she gets the £40,000.
-Will: Yes, £40,000. The deciding fact is like for like: the benefits were all paid for lost earnings, so they reduce only the earnings head, to nil, and PSLA is never touched.
-Hannah: Deductions in one line: benefits come off like for like and never off PSLA, and her own accident insurance, ill-health or disability pensions and charitable payments or gifts stay.
-Will: Yes.
-## Block 8: Claims on death (estate and dependants)
-Will: And finally, claims on death, estate and dependants. The estate recovers losses up to death, listed dependants recover lost support, and bereavement is a separate fixed award.
-Hannah: Three different claims. Estate, dependants, bereavement.
-Will: Right. The estate first. It recovers the deceased's losses up to death, which means PSLA, earnings and expenses, plus funeral expenses.
-Hannah: And what does it not get?
-Will: No lost-years income, no exemplary damages, no bereavement award, and nothing for death itself.
-Hannah: Nothing for death itself. Grim, but clear.
-Will: Next, who can claim as a dependant. There are three conditions, and they all have to be met. First, the deceased could have sued D for the injury had they survived. Second, the claimant is on the statutory list of dependants.
-Hannah: And the third?
-Will: The claimant lost a reasonable expectation of financial benefit, meaning money or services.
-Hannah: So does the dependant have to have been financially dependent already?
-Will: That's the look-alike, and the answer is no. The law is a reasonable expectation of financial benefit, and even a future one suffices.
-Hannah: So an expected benefit counts, not just a current one.
-Will: Yes, that's right. How it works: the personal representatives sue for all dependants. A dependant may sue if the personal representatives have not done so within 6 months. And only one action is allowed.
-Hannah: One action, and the personal representatives go first.
-Will: Right. And a starred point: there is no claim if the deceased settled before death, or their claim was already time-barred.
-Hannah: Because the first condition fails. They couldn't have sued.
-Will: Yes.
-Will: Now the list. Starred, the partners who qualify: a spouse or civil partner, a former spouse or civil partner, and a cohabitant of 2 years immediately before death.
-Hannah: Two years, right up to the death.
-Will: Yes. Other dependants, in two groups. A parent or ascendant, a person treated as a parent, and a child or descendant.
-Hannah: And the rest?
-Will: A child of the family, and a sibling, uncle or aunt, or their issue. Relationships by marriage count as blood, half blood as whole blood, and a stepchild as a child.
-Hannah: What about a close friend who relied on the deceased?
-Will: No. Relationship alone is not enough, and nor is dependence by someone off the list, such as a friend. But an expected future benefit suffices.
-Will: Put it together. A man is negligently killed. He had lived with his partner for 18 months, and he sent his adult half-brother money every month. Only the half-brother has a dependency claim: half blood counts as whole blood and he expected financial benefit, whereas the partner falls short of 2 years' cohabitation immediately before death.
-Hannah: So the partner is out on the 2 years, and the half-brother is in.
-Will: Dependency damages next. The dependency is a multiplicand, the annual lost dependency, times a multiplier. For a spouse, the conventional starting point is two-thirds of the deceased's net income with no children, and three-quarters with dependent children.
-Hannah: Is that a rule?
-Will: No. The fractions are a conventional starting point, not a fixed rule. And the multiplier for future loss runs from the date of trial, not the date of death.
-Hannah: Trial, not death. Okay.
-Will: Now what's ignored. Starred: benefits resulting from the death, such as an inheritance or life insurance, are disregarded. A widow's remarriage, or her prospects of remarriage, are disregarded too.
-Hannah: So an inheritance doesn't reduce the dependency.
-Will: Right. For a cohabitant, the court considers that they had no enforceable right to financial support. The deceased's contributory negligence reduces the dependants' damages proportionately. And dependants may also recover funeral expenses that they paid.
-Will: Last, bereavement. Starred: bereavement damages go to a spouse or civil partner, to a 2-year cohabitant, or to the parents of a minor who was never married or civilly partnered. If the child was illegitimate, the mother alone.
-Hannah: And not to children.
-Will: Also starred. No bereavement award to the deceased's children, or to parents of an adult child, though they may still claim dependency.
-Will: The fixed sum is £15,120 for deaths on or after 1 May 2020, divided equally where two people are entitled.
-Hannah: Fixed, and shared if there are two.
-Will: Yes. Now a scenario. Jack is aged 17 and unmarried, and he's killed by D's negligence. He was 20 per cent to blame. His married parents are both alive.
-Hannah (brisk): So what bereavement damages does each parent receive? The full £15,120 each, half of it each, or half of it each reduced by the 20 per cent?
+Hannah (thinking aloud): This is questioning witnesses. She's the barrister's own witness, so it can't be ordinary cross-examination. A leading question on a disputed matter in chief is out. A merely unfavourable witness can't be cross-examined. But a witness ruled hostile can be led, with permission. So the third.
+Will: Right, and the deciding fact is whether she is unwilling to tell the truth for the claimant, or simply unhelpful. If she's merely unfavourable, counsel may not cross-examine her at all. If the judge rules her hostile and gives permission, counsel may ask leading questions and put the statement. In civil proceedings the statement is then admissible as evidence of its truth.
+Will: Last part of this topic: manners and duties. Forms of address first. Supreme Court, Court of Appeal and High Court judges: 'My Lord' or 'My Lady'. Circuit Judges and Recorders: 'Your Honour'.
+Hannah (confident): And district judges are 'Your Honour' too.
+Will: That's the starred trap. District Judges, Deputy District Judges and Masters are 'Judge'. The former forms were 'Sir' or 'Madam' and, for Masters, 'Master'.
+Hannah (laughing): Ha, fair. Magistrates?
+Will: 'Your Worship', or 'Sir' or 'Madam'.
+Will: Etiquette at a formal hearing: stand when the judge enters or leaves and when addressing the court, and don't interrupt the judge or a witness. Opposing counsel is 'my learned friend'. An opposing solicitor is 'my friend'.
+Hannah: Are hearings public?
+Will: As a rule, yes. Private only where necessary. Publicity would defeat the object, or there's confidential information. Or it's protecting a child or protected party, or national security. Embarrassment alone is not enough.
+Hannah: Duties of an advocate?
+Will: An advocate must not mislead the court, must make only properly arguable submissions, must not influence witnesses' evidence and must not waste the court's time.
+Will: Then two starred ones. The advocate must draw the court's attention to relevant cases, statutory provisions and procedural irregularities likely to affect the outcome, even if adverse. So if you know of an adverse Court of Appeal decision the opponent has missed, you cite it.
+Hannah (groaning): Even though it hurts.
+Will: Yes, even though it hurts. Second, a client admits evidence they gave is false. You mustn't continue in a way that misleads. Without the client's consent to correct it, you cannot disclose the admission, and you must cease to act.
+Hannah: And a witness mid-evidence?
+Will: A witness part-way through their evidence, including over an adjournment, must not discuss it with anyone, their own lawyers included, until it's finished. The advocate must not confer with them about it.
+Hannah: So at lunch the client-witness asks how to answer tomorrow's question, and the answer is no.
+Will: Yes, the answer is no.
+Hannah (summing up): Summonses and trial: a summons compels and a statement doesn't; issue is permission, service is binding; the claimant speaks last; and no leading your own witness on disputed points.
+Will: Right. That's evidence of fact. Now the experts, and the first rule of experts is who they work for.
+## Block 6: Experts' duty to the court and instructions
+Will: The expert's duty to the court. An expert's duty to help the court overrides any obligation to whoever instructs or pays them. The why: the court relies on the expert for matters within their expertise, so the evidence has to be the expert's independent product. And experts have no immunity from the client's negligence claim.
+Hannah: So who's the expert working for?
+Will: The court, on matters within their expertise. The trap is thinking the client comes first: as I said, the duty to the court wins.
+Hannah: What does that mean for the report?
+Will: The evidence must be the expert's independent product: objective and unbiased, never acting as an advocate. They consider all material facts, including those that detract from their opinion.
+Hannah: And where they can't help?
+Will: They say when a matter is outside their expertise, or when no definite opinion is possible, for example for lack of information.
+Hannah: And if they change their mind?
+Will: If the view changes on a material matter after the report, they tell all parties, and the court where appropriate, without delay. The muddle is thinking they tell only whoever instructed them.
+Will: The report states that the expert understands and has complied with the duty, and knows the court's rules on experts, their practice direction and the guidance. It has a statement of truth including the contempt warning.
+Will: It's addressed to the court, and it states the substance of all material instructions.
+Hannah: What if they breach?
+Will: Starred. A partisan expert at trial, say. The court may exclude the evidence or give it little weight. Breach may also bring costs orders, and in flagrant cases against the expert personally.
+Hannah: And a false statement?
+Will: Contempt proceedings, and referral to the expert's professional body.
+Hannah: And can the client sue?
+Will: Starred. No immunity from suit. The expert can be liable in negligence to the instructing client, for example for an inaccurate joint statement. That's Jones v Kaney. Absolute privilege against defamation claims does remain.
+Hannah: So not immune like a witness of fact, except defamation.
+Will: Right, that's the trap line. Now the solicitor's limits. The solicitor must not seek to influence the substance of an expert's evidence.
+Hannah: Meaning if the client presses the expert to strengthen the report, the solicitor can't help.
+Will: Right. The expert refuses, and the solicitor must not influence it. And starred: the solicitor must not pay a fee depending on the nature of the evidence or the outcome. So if the expert offers a reduced fee "if we win", the solicitor refuses.
+Hannah (summing up): Expert's duty: duty to the court overrides, no immunity from a negligence claim, and no influencing the substance and no contingent fees.
+Will: Right. Now the expert you share with the other side.
+## Block 7: Single joint experts
+Will: Single joint experts. One expert reports for all the instructing parties, so instructions are copied and no one meets the expert without the other's consent. A dissatisfied party may put written questions, but its own expert needs permission.
+Hannah: When does it happen?
+Will: Where two or more parties wish to submit expert evidence on a particular issue, the court may direct a single joint expert. If there's no agreement on who, the court selects from the parties' list, or directs another method.
+Hannah: And instructions?
+Will: Each relevant party may instruct the expert, but must send a copy to the other relevant parties at the same time. No meeting or conference with the expert without the other party's consent. All communications with the expert should be copied to all parties.
+Hannah: So a private chat is out.
+Will: Right, that's the trap: no private meeting, and copy all instructions at the same time.
+Hannah: Where does it fit?
+Will: It's the norm on the fast track, unless there's good reason otherwise. It's common for quantum, such as valuation and care. It's less suitable where the issue is central and contentious, for example liability in clinical negligence.
+Will: Fees are starred. The instructing parties are jointly and severally liable, unless the court directs otherwise. The muddle is thinking the fees are split equally. The court may also limit the fees, order payment into court before instruction, and direct inspections or tests.
+Hannah: The look-alike is your own expert, I bet.
+Will: Yes. A party's own expert is privileged, with unilateral contact. A single joint expert means copy all instructions, no meeting without consent. What differs is who appointed the expert.
+Hannah: Own expert: private. Joint expert: copied.
+Will: Right. Now, what if you're unhappy with the report? Say the joint valuer has ignored two recent sales on the same street.
+Hannah: I'd ring them up and talk it through.
+Will: Not without the other side's consent. Written questions are the route. You can put them once, only to clarify, within 28 days of service of the report, unless the court permits or the other party agrees. Answers form part of the report.
+Hannah: And a second expert?
+Will: Starred. Your own expert only with permission. The reasons must be not fanciful, and it must be just and proportionate. Alternatively, take advice from an adviser expert, usually at your own cost.
+Hannah: So dissatisfaction alone isn't a right to a second expert. Though a concrete reason, like those ignored sales, isn't fanciful.
+Will: Yes, which is why permission may be just and proportionate. But it's still permission.
+Will: That's the trap. Another starred point: oral cross-examination of a single joint expert is exceptional.
+Will: And note that no discussion between experts is needed. Discussions and joint statements arise where each party has its own expert, which is the next block.
+Hannah (summing up): Single joint expert: copy everything and no private meetings, fees joint and several, written questions in 28 days, and a second expert needs permission.
+Will: Right. Now the experts who each have their own side.
+## Block 8: Discussions between experts, oral expert evidence, unfavourable reports
+Will: Expert discussions. Experts narrow the issues in a discussion and sign a joint statement. The statement goes before the court. The discussion does not, unless the parties agree. And their agreement binds a party only if it expressly agrees.
+Hannah: Who sets up the discussion?
+Will: The court may direct a discussion between experts at any stage. The purpose is to identify and discuss the expert issues and, where possible, reach an agreed opinion. The court may specify the issues and direct a joint statement: issues agreed and disagreed, with a summary of reasons for disagreeing.
+Hannah: And do we sit in?
+Will: Parties and lawyers do not attend, unless the court orders it or all parties and experts agree. Lawyers who attend should not normally intervene, except to answer the experts' questions or advise on law.
+Will: Parties must discuss and, if possible, agree whether an agenda is needed, and if so try to agree one.
+Hannah: And the paperwork afterwards?
+Will: The joint statement is signed by all experts at the end of the discussion or as soon as practicable, and within 7 days. Copies go to the parties within 14 days of signing. An expert who significantly changes an opinion must explain the change in the joint statement.
+Will: Now the starred point. Experts must not be instructed to avoid or defer agreement on matters within their competence. Such an instruction also breaches the solicitor's duty not to influence the substance of evidence.
+Hannah: Is this like the written questions to a single joint expert?
+Will: Easy to muddle, so side by side. Written questions clarify one expert's report. They're put once, within 28 days of service, and the answers form part of the report.
+Will: A discussion narrows the issues and aims at agreement. It happens at any stage, when the court directs, and ends in a joint statement. With a single joint expert there is usually none.
+Hannah: Questions clarify, discussions narrow.
+Will: Right. At trial, the joint statement may be used. The content of the discussion behind it may not, unless the parties agree. That's the trap. And an agreement between experts binds the parties only if they expressly agree to be bound.
+Will: At trial the court may also direct concurrent expert evidence, called hot-tubbing. The experts are questioned together, often led by the judge.
+Will: Try this one. In a roof-leak dispute, the joint statement records Norvik's own engineer, Tomasz, agreeing the leak started before the builders arrived. Norvik Ltd's managing director is furious. She tells the solicitor that Norvik "is not accepting that", and that the engineer should agree nothing at the next discussion.
+Hannah: So, is Norvik bound by what Tomasz conceded, and can the solicitor pass on that instruction? Bound, and yes, he may pass it on. Not bound unless Norvik expressly agreed, and no, he may not. Or not bound, and yes, he may pass it on, because it's Norvik's own expert?
 Hannah: <think>
-Hannah: Jack is a minor who never married, so his parents are the ones entitled. Two people, so the fixed sum is divided equally. Then the 20 per cent contributory negligence comes off. So half each, less 20 per cent, which is £6,048 each.
-Will: Yes, £6,048 each. The deciding fact is that parents of an unmarried minor share the fixed £15,120 equally, and Jack's 20 per cent contributory negligence reduces the damages under the Act.
-Hannah: Claims on death in one line: the estate, the dependants, and a fixed bereavement award for a few people only.
-Will: Yes.
+Hannah (thinking aloud): This is expert discussions. An agreement between experts binds a party only if it expressly agrees to be bound, and nothing says Norvik did. And telling an expert to avoid agreement is barred, it's about influencing the substance. So the middle one.
+Will: Right. The deciding facts are that Norvik never expressly agreed to be bound, and that an instruction to withhold or defer agreement is barred. The tempting answer is that a client may steer its own expert. It may not: that instruction breaches the solicitor's duty not to influence the substance of evidence.
+Will: Last part of the block: an unfavourable report. A party may ask its expert to correct factual errors or clarify the report. A party may not ask its expert to change a genuinely held opinion.
+Hannah: Two quick stories?
+Will: The report contains a factual error: you may ask the expert to correct it, or clarify. Now the solicitor wants an unhelpful paragraph deleted. That asks the expert to change a genuinely held opinion, which isn't allowed.
+Hannah: So what's the deciding point?
+Will: Whether the request corrects or clarifies, or changes the genuine opinion.
+Will: If you're unhappy, you may choose not to rely on the report, subject to the expert-shopping condition.
+Hannah (summing up): Expert discussions: joint statement yes, discussion contents no, agreement binds only if expressly agreed, and you may ask for factual errors to be corrected but never ask for a genuinely held opinion to be changed.
 ## Recap
-Hannah: Right, so that's the whole run, from remoteness through the defences, then the money.
-Will: Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.
+Will: Right. That's the eight topics. Whenever you're stuck, ask which topic you're in.
+Hannah: Facts first: relevance, statements, form, hearsay.
+Will: Yes. And the second half?
+Hannah: Summonses and trial, expert duty, joint expert, expert discussions.
+Will: Right. Evidence must be relevant, witness statements stand as evidence in chief, affidavits are sworn, hearsay is admitted and weighed, summonses compel attendance, experts owe their duty to the court, a single joint expert gets copied instructions, and expert discussions end in a joint statement.
