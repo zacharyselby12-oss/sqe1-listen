@@ -1,17 +1,95 @@
-Will (warm): Right. Hannah. Quick one before we start.
-Hannah (wary): Oh no. Is this a trick one?
-Will (amused): A little bit. You post a letter accepting my offer. The post office loses it. It never arrives. Is there a contract?
-Hannah (incredulous): No! Surely not. I never even told you!
-Will: <short pause> Yes. There is.
-Hannah (laughing): Get out.
-Will (laughing): No, honestly! It's the postal rule. If post is a sensible way to accept, the acceptance takes effect the moment the letter's posted. Not when it lands. When it goes in the box.
-Hannah (thinking aloud): Hang on, that's bonkers. So the contract exists while the letter's just... sat in a sorting office in Swindon.
-Will: Sat in Swindon. Yes. And the law basically shrugs and says, well, you did everything you could. <laugh>
-Hannah (sceptical): Okay. And the normal rule is what, then?
-Will (brisk): The normal rule is that acceptance has to actually reach the person who made the offer. Silence doesn't count. A letter in your drawer doesn't count.
-Hannah (dry): So I can't accept by thinking about it really hard.
-Will: Sadly not. But you can switch the postal rule off. If my offer says, "your acceptance must reach me", then posting isn't enough.
-Hannah (relieved): Oh, that's fair. So it's only the default.
-Will: Only the default, yes. And here's the sting. If I want to take my offer back, that only works once you actually receive my letter. Posting it doesn't help me.
-Hannah (mock-outraged): So posting helps the person accepting, but never the person withdrawing?
-Will (amused): <short pause> Exactly that.
+---
+title: Contract WS08 · Discharge and Frustration
+map:
+- Expiry
+- Performance
+- Agreement and the contract's own terms
+- Breach
+- Frustration
+- Money after frustration
+recap:
+- Expiry: the contract simply ends, and accrued rights survive.
+- Performance: an entire obligation pays nothing for incomplete work, unless substantial performance, severable stages, free acceptance or prevention.
+- Frustration: a later event, nobody's fault and not provided for, making performance impossible, illegal or radically different; dearer is not enough.
+summary: A contract ends by expiry, by performance, by agreement or its own terms, by breach, or by frustration, and the 1943 Act then sorts out the money.
+invented:
+- Priya
+- Tom
+- Ollie
+- Saltmarsh Mill
+- Bramwell Hall
+- Juno Events
+- three months
+---
+## Map
+Will: Today is how a contract ends, in the order BPP teaches it. First, three ways that don't need a repudiatory breach: it simply expires, it's performed, or the parties, or the contract's own terms, end it.
+Hannah: And then the messy ones.
+Will: Then breach, when someone fails. Then frustration, when nobody does. And last, who gets what money back after that.
+Hannah: Three with no repudiatory breach needed. Then breach, frustration, money.
+Will: Today we're doing two of them properly: performance, then frustration.
+## Block 2: Performance
+Will: Block two, performance. The question is always the same: someone has done part of the job. Can they be paid?
+Hannah: And the starting answer is?
+Will (dry): Brutal. Where complete performance is a condition of payment, it's an entire obligation, and partial performance earns nothing. Cutter v Powell.
+Hannah: So half a wall, no money.
+Will: Half a wall, no money. Which is why the exam lives in the exceptions. There are four.
+Will: First, substantial performance. If the work is complete apart from minor defects, the price is payable, less the cost of putting them right.
+Hannah (teasing): How minor is minor?
+Will: Here's the pair. A decorator finishes the job, but some shelving is defective and cheap to fix. Substantial performance: he gets the price, less the repair. That's Hoenig v Isaacs.
+Will: Now a heating system that heats badly and gives off fumes. The defects are significant, so there's no substantial performance, and nothing is payable. Bolton v Mahadeva.
+Hannah: So the deciding fact is whether the defects are minor or significant. The job must be done; it just needn't be perfect.
+Will: Yes. Second exception, severable obligations: if payment is by stage or by instalment, each part is paid for as it's performed.
+Will: Third, free acceptance. If the other side freely chose to accept the partial work, the performer can claim a reasonable sum. But it has to be a real choice.
+Hannah: Meaning?
+Will: Meaning a builder who walks off a half-built house on your land gets nothing for the work. You can't hand the house back, so keeping it isn't accepting it. Sumpter v Hedges. He gets paid only for loose materials left on site that you chose to use.
+Will: And fourth, prevention. If the other party stops you finishing, you can claim a reasonable sum for the work done. Planché v Colburn.
+Hannah: So, abandoned work under an entire obligation: nothing, unless they really chose to take it. Prevented work: a reasonable sum, no acceptance needed.
+Will: One more rule in this block: tender. If a party tenders conforming goods or services and the other wrongly refuses them, the performer is discharged and can sue for breach. But a refused tender of money doesn't discharge the debt. The debtor can pay into court to avoid further costs.
+Hannah: Conforming goods wrongly refused, you're free. Money refused, you still owe it.
+Will: Try this one. Tom agrees to rebuild the roof at Saltmarsh Mill for a single price on completion. Halfway through, he walks off to a better-paid job. The owner gets someone else to finish it. Can Tom claim for what he did?
+Hannah: Before you say it.
+Hannah: <think>
+Hannah (thinking aloud): Entire obligation, abandoned halfway. Not substantial performance. Not prevented. Free acceptance? It's the owner's own roof...
+Will: So?
+Hannah: So no real choice. Tom gets nothing.
+Will: Nothing. And note what decided it: he abandoned the work, and it was on the owner's own building.
+Hannah: Block two in a line: unfinished work under an entire obligation earns nothing, unless it's substantially done, paid in stages, freely accepted, or you were prevented.
+Will: Which takes us past agreement and breach, for another day, to block five. Breach is when someone fails. Frustration is when nobody does.
+## Block 5: Frustration
+Will: Block five, frustration. The rule: an event after the contract is made, without either party's fault, that makes performance impossible, illegal or radically different from what was undertaken. Holding the parties to it would mean a fundamentally different obligation. And the contract mustn't provide for the event, nor the party claiming frustration have taken on the risk.
+Hannah: And then?
+Will: Then the contract is discharged automatically, for the future. No election, unlike breach.
+Hannah: Why is it so hard to get?
+Will: Because the law won't rescue a bad bargain. Mere hardship, inconvenience or increased cost is not enough. Labour shortages turning an eight-month build into twenty-two months didn't do it. Davis Contractors v Fareham.
+Will: Here's the pair that shows the line. A hired hall burns down before the concerts: performance is impossible, so the hire is frustrated. Taylor v Caldwell. But when Suez closes and the goods have to go round the Cape, an alternative, longer or more expensive way of performing does not frustrate. Tsakiroglou.
+Hannah: Impossible, yes. Dearer and slower, no.
+Will: Same for a fall in value. A building listed after exchange, losing most of its value: not frustrated. Nor is a change in market conditions.
+Will: So what does count? The categories aren't closed, but four come up. First, impossibility. Destruction of the thing, or of something essential to performance. Death, in a personal services contract. And illness, judged by its length against the length and nature of the contract.
+Hannah: So any illness will do?
+Will: No. Two weeks off in a two-year residency doesn't frustrate it. But in Condor v Barron Knights, the drummer was contracted for seven nights a week, and on medical advice could manage only about four. That was frustrated.
+Will: Second, delay. It frustrates only if it's so long that it destroys the commercial purpose, or makes performance radically different. And here's the bit people miss: nobody has to wait and see. It's judged on reasonable forecasts at the time of the event, weighed against how much of the contract is left. The Sea Angel calls it multifactorial. An interruption to a contract that's largely performed is less likely to frustrate it.
+Will: Third, supervening illegality. A change in the law, or government action, after formation. Say, a war that makes the other party an enemy, or an export ban on the goods.
+Will: Fourth, frustration of purpose. And it's the purpose shared by both parties that has to go. Rooms hired to watch the coronation procession, and it's cancelled: frustrated. Krell v Henry. That purpose needn't be written down, as long as both clearly understood it.
+Hannah (wary): But the naval review one wasn't.
+Will: Right. A boat hired to see the review and cruise round the fleet. The review's cancelled, but the fleet is still there. A substantial purpose remains, so no frustration. Herne Bay Steam Boat v Hutton. And defeat of one party's own purpose is never enough.
+Will: Now the limits, and they're where the marks are. First, self-induced. If the event comes from a party's own act or choice, there's no frustration, and that party is in breach. A company running five trawlers, one of them chartered, gets only three licences and gives none to the chartered one. Its choice, so self-induced.
+Hannah: And who has to prove that?
+Will: The party alleging it. If fault isn't proved, the contract is frustrated. And if one side's breach caused the event, that's breach, with damages.
+Will: Second, the contract provides for it. A force majeure clause intended to cover the event governs. But even an event the contract provides for may frustrate if it goes beyond the risk assumed. And a party that assumed the risk can't plead frustration.
+Hannah: And if everyone could see it coming?
+Will: Foreseeability alone does not prevent frustration. The more foreseeable the event, the more likely the parties are taken to have allocated the risk. That's all.
+Will: Last limit, leases. A lease can be frustrated in principle, but rarely is: the tenant still has the interest in land it bargained for. A temporary loss of access, or the tenant's business reasons for the lease disappearing, won't usually do it.
+Will: One look-alike, and it's the big one. If the problem already existed when the contract was made, it isn't frustration at all. It's common mistake, and if it's fundamental, such as the thing already destroyed, the contract is void from the start. Frustration is an event after formation, and the contract is discharged from that moment.
+Hannah: And if the deal was right but the paperwork's wrong? Say the lease records a lower rent than they agreed.
+Will: That's not mistake at all. It's rectification: the court corrects the record, and the contract isn't void.
+Hannah: Before or after the handshake. That's the test.
+Will: Last one. Priya books Bramwell Hall from Juno Events for her wedding in three months' time. After she books, the council orders the hall shut for a year on safety grounds, through no fault of Juno's. Juno says the contract's frustrated. Priya says Juno should have seen the inspection coming. Who's right?
+Hannah: Hang on.
+Hannah: <think>
+Hannah (thinking aloud): After the contract, nobody's fault, performance now illegal. And foreseeable... doesn't stop it on its own. Unless the contract dealt with it.
+Will: It didn't.
+Hannah: Then frustrated, and Priya's point fails.
+Will: Frustrated. Foreseeability only matters as a sign that the risk was allocated, and here it wasn't. Which brings us to the money, in block six: section one, subsection two, and section one, subsection three.
+Hannah: Block five in a line: a later event, nobody's fault, not provided for, making it impossible, illegal or radically different. Dearer isn't enough.
+## Recap
+Will: A contract ends by expiry, by performance, by agreement or its own terms, by breach, or by frustration, and the 1943 Act then sorts out the money.

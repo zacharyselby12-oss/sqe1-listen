@@ -1,5 +1,5 @@
 {
- "intro": "Round 3. Voices 1 to 8 all use the woman from D that you liked, so you are only judging the man. Voice 9 is a back-up idea with standard voices. Voices 10 to 12 are three other women (all with the man from voice 1), in case you want to change her. New, more natural script, spoken as one conversation. Tell Claude your favourite man and, if you like, a different woman.",
+ "intro": "Brief 2 test (26 Oct): clip E4a is the improved Contract WS08 excerpt (podcast spec v2: opening map, two full blocks, think-gaps of 6 seconds of silence) in your chosen voices. Not in any feed. Clips 1 to 12 are round 3's voice test, made from the old sample.",
  "candidates": [
   {
    "id": "1",
@@ -172,6 +172,22 @@
     "gender": "female",
     "id": "en-gb-tutor-7",
     "name": "library voice Tutor 7 (Winchester English): warm and engaging"
+   }
+  },
+  {
+   "id": "E4a",
+   "label": "Improved WS08 excerpt (spec v2), your chosen voices (voice 7 and the woman from D)",
+   "kind": "mix",
+   "mode": "pair",
+   "lead": {
+    "gender": "male",
+    "id": "voice_7636x92kz2nd",
+    "name": "Will: voice 7 from round 3 (your choice)"
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "Hannah: the woman from pair D"
    }
   }
  ]

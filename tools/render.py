@@ -286,7 +286,35 @@ def _line_content(t):
     return [item]
 
 
+THINK_GAP = 6.0      # seconds of real silence for a <think> turn (podcast spec v2 think-gaps)
+
+
 def render_pcm(turns, voices, fake=False, log=print):
+    """Return PCM bytes (mono 16-bit 24 kHz) for the turns.
+
+    A turn whose whole text is <think> becomes THINK_GAP seconds of silence (spec v2 think-gaps): the turns
+    either side are rendered as separate pieces. Scripts without <think> are rendered exactly as before."""
+    if not any(t["text"].strip().lower() == "<think>" for t in turns):
+        return _render_pcm_turns(turns, voices, fake=fake, log=log)
+    pieces, cur = [], []
+    for t in turns:
+        if t["text"].strip().lower() == "<think>":
+            pieces.append(cur)
+            cur = []
+        else:
+            cur.append(t)
+    pieces.append(cur)
+    out = []
+    for k, piece in enumerate(pieces):
+        if piece:
+            log("  piece %d/%d (%d turns)" % (k + 1, len(pieces), len(piece)))
+            out.append(_render_pcm_turns(piece, voices, fake=fake, log=log))
+        if k < len(pieces) - 1:
+            out.append(silence(THINK_GAP))
+    return b"".join(out)
+
+
+def _render_pcm_turns(turns, voices, fake=False, log=print):
     """Return PCM bytes (mono 16-bit 24 kHz) for the turns."""
     model = voices.get("model", "gemini-3.8-flash-tts")
     lead, second = voices["lead"], voices["second"]
