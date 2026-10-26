@@ -221,6 +221,22 @@
     "id": "voice_7hvws5hbx3yt",
     "name": "Hannah: the woman from pair D"
    }
+  },
+  {
+   "id": "T-Tort-WS04",
+   "label": "Trial episode Tort-WS04 (podcast spec v2.0), your chosen voices",
+   "kind": "mix",
+   "mode": "pair",
+   "lead": {
+    "gender": "male",
+    "id": "voice_7636x92kz2nd",
+    "name": "Will: voice 7 from round 3"
+   },
+   "second": {
+    "gender": "female",
+    "id": "voice_7hvws5hbx3yt",
+    "name": "Hannah: the woman from pair D"
+   }
   }
  ]
 }
