@@ -537,5 +537,30 @@
       "pubDate": "2026-10-24T19:07:18+00:00"
     }
   ],
-  "replays": []
+  "replays": [
+    {
+      "id": "rp-contract-ws01-m2026-44",
+      "episodeId": "contract-ws01",
+      "reason": "10 misses/confusions in 14 days",
+      "pubDate": "2026-10-26T14:19:59+00:00"
+    },
+    {
+      "id": "rp-contract-ws06-m2026-44",
+      "episodeId": "contract-ws06",
+      "reason": "12 misses/confusions in 14 days",
+      "pubDate": "2026-10-26T14:19:59+00:00"
+    },
+    {
+      "id": "rp-contract-ws07-m2026-44",
+      "episodeId": "contract-ws07",
+      "reason": "16 misses/confusions in 14 days",
+      "pubDate": "2026-10-26T14:19:59+00:00"
+    },
+    {
+      "id": "rp-contract-ws09-m2026-44",
+      "episodeId": "contract-ws09",
+      "reason": "17 misses/confusions in 14 days",
+      "pubDate": "2026-10-26T14:19:59+00:00"
+    }
+  ]
 }
