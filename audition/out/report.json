@@ -314,5 +314,16 @@
     },
     "error": "Google's daily limit for speech requests was used up (it resets at 08:00 London)",
     "quota": "Google's daily limit for speech requests is used up (chunk 4)"
+  },
+  {
+    "id": "T-Tort-WS04",
+    "label": "Trial episode Tort-WS04 (podcast spec v2.1), your chosen voices",
+    "ok": false,
+    "voiceIds": {
+      "lead": "voice_7636x92kz2nd",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "error": "Google's daily limit for speech requests was used up (it resets at 08:00 London)",
+    "quota": "Google's daily limit for speech requests is used up (chunk 2)"
   }
 ]
