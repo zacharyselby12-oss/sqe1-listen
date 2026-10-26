@@ -303,5 +303,27 @@
       }
     },
     "audio": "pair-T-BLP-WS07.mp3"
+  },
+  {
+    "id": "T-DR-WS07",
+    "label": "Trial episode DR-WS07 (podcast spec v2.0), your chosen voices",
+    "ok": true,
+    "voiceIds": {
+      "lead": "voice_7636x92kz2nd",
+      "second": "voice_7hvws5hbx3yt"
+    },
+    "note": "Will = Will: voice 7 from round 3; Hannah = Hannah: the woman from pair D",
+    "voices": {
+      "mode": "pair",
+      "lead": {
+        "name": "Will",
+        "voice": "voice_7636x92kz2nd"
+      },
+      "second": {
+        "name": "Hannah",
+        "voice": "voice_7hvws5hbx3yt"
+      }
+    },
+    "audio": "pair-T-DR-WS07.mp3"
   }
 ]
