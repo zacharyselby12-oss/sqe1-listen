@@ -3,7 +3,7 @@
 feed.xml has everything. feeds/<area>.xml has one area of law (for example feeds/PP.xml for Property Practice),
 in workshop order, so each area shows up as its own show in Apple Podcasts. subscribe/index.html lists them all.
 Only episodes with status "published" appear. Replays are extra items that point at the same audio
-file as the episode they repeat (new guid, new date, title "Replay · ...").
+file as the episode they repeat (new guid, new date, title "Replay · ..."); they go in feed.xml only, never in a subject's show.
 """
 import json
 import re
@@ -94,7 +94,7 @@ def build(index, config, base_url, out_path, area=None):
     base_url = base_url.rstrip("/")
     if area:
         area_name = names.get(area, area)
-        title, desc = "%s · %s" % (show["title"], area_name), "%s. %s" % (area_name, show["description"])
+        title, desc = "SQE1 · %s" % area_name, "%s. %s" % (area_name, show["description"])   # one show per subject (Zac, 27 Oct)
         self_path, image, kind = "feeds/%s.xml" % area, "%s/covers/%s.png" % (base_url, area), "serial"
     else:
         title, desc, self_path, image, kind = show["title"], show["description"], "feed.xml", base_url + "/cover.png", "episodic"
@@ -115,6 +115,8 @@ def build(index, config, base_url, out_path, area=None):
     _text(ch, q("itunes", "type"), kind)   # an area is "serial": Apple Podcasts lists it in workshop order
     _text(ch, q("itunes", "block"), "Yes")  # private: never listed in Apple's directory
     items = [it for it in items_for(index) if area is None or area_of(it["ep"])[0] == area]
+    if area:   # a subject's show lists each episode once, in course order: no Replay duplicates (Zac, 27 Oct)
+        items = [it for it in items if not it["replay"]]
     number = {}
     if area:   # course order inside an area: workshop, then part ("-p1", "-p2"), numbered 1, 2, 3 ...
         def course_key(it):
