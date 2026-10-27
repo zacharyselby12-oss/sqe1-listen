@@ -56,6 +56,12 @@ def add_episode(a):
           "checks": a.checks or ""}
     if a.hold:
         ep["holdReason"] = a.hold
+    if getattr(a, "not_before", None):
+        ep["notBefore"] = a.not_before
+    if getattr(a, "part", None):
+        ep["part"], ep["of"] = a.part, a.of
+        ep["blocks"] = [b for b in (a.blocks or "").split(",") if b]
+    ep["spec"] = "2.2"
     if a.check_json and Path(a.check_json).exists():
         cj = json.loads(Path(a.check_json).read_text(encoding="utf-8"))
         # only the count goes in the (public) episode list: the sentences are guide content and stay out of GitHub
@@ -161,6 +167,10 @@ def main():
     p.add_argument("--hold")
     p.add_argument("--checks")
     p.add_argument("--check-json", help="the Opus check result: its coverage notes are kept on the episode")
+    p.add_argument("--not-before", help="ISO time: rendered, but not published before it (Shabbat; DATA-CONTRACT 12)")
+    p.add_argument("--part", type=int)
+    p.add_argument("--of", type=int)
+    p.add_argument("--blocks", help="comma-separated block ids of this part")
     p.set_defaults(fn=add_episode)
     p = sub.add_parser("add-replay")
     p.add_argument("--episode", required=True)

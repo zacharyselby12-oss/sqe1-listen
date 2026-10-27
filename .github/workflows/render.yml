@@ -41,7 +41,7 @@ jobs:
         run: |
           if python3 -c "from datetime import datetime; from zoneinfo import ZoneInfo; import sys; t=datetime.now(ZoneInfo('Europe/London')); m=t.hour*60+t.minute; sys.exit(0 if (t.weekday()==4 and m>=14*60) or (t.weekday()==5 and m<20*60) else 1)"; then
             echo "go=false" >> "$GITHUB_OUTPUT"; echo "Shabbat: nothing runs until Saturday 20:00"
-          elif [ "${{ github.event_name }}" = "schedule" ] && ! python3 -c "import json,sys; d=json.load(open('episodes/index.json')); sys.exit(0 if any(e.get('status') == 'queued' for e in d.get('episodes', [])) else 1)"; then
+          elif [ "${{ github.event_name }}" = "schedule" ] && ! python3 -c "import json,sys; d=json.load(open('episodes/index.json')); from datetime import datetime, timezone; n=datetime.now(timezone.utc); due=lambda e: not e.get('notBefore') or n >= datetime.fromisoformat(e['notBefore'].replace('Z','+00:00')); sys.exit(0 if any(e.get('status') == 'queued' or (e.get('status') == 'rendered' and due(e)) for e in d.get('episodes', [])) else 1)"; then
             echo "go=false" >> "$GITHUB_OUTPUT"; echo "nothing is waiting"
           else
             echo "go=true" >> "$GITHUB_OUTPUT"

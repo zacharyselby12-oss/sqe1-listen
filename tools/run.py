@@ -170,8 +170,14 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
                 ep["voiceNote"] = voice_note
             else:
                 ep.pop("voiceNote", None)
+            done_at = datetime.now(timezone.utc)
             if ep.get("pilot") and not ep.get("approved"):
                 ep["status"] = "review"
+            elif not_yet(ep, done_at) or in_shabbat(done_at):
+                # DATA-CONTRACT 12 [A4.8]: an episode finished on Shabbat (or held to a time) waits, rendered, until then
+                ep["status"] = "rendered"
+                if in_shabbat(done_at) and not not_yet(ep, done_at):
+                    ep["notBefore"] = shabbat_end(done_at)
             else:
                 ep["status"] = "published"
                 ep["pubDate"] = ep.get("pubDate") or now.isoformat(timespec="seconds")
@@ -193,8 +199,26 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
     return failed, note
 
 
+def not_yet(ep, now):
+    nb = ep.get("notBefore")
+    return bool(nb) and now < datetime.fromisoformat(nb.replace("Z", "+00:00"))
+
+
+def shabbat_end(now, tz="Europe/London"):
+    """The Saturday 20:00 London that ends this Shabbat, in UTC."""
+    t = now.astimezone(ZoneInfo(tz))
+    sat = (t + timedelta(days=(5 - t.weekday()) % 7)).replace(hour=20, minute=0, second=0, microsecond=0)
+    if sat <= t:
+        sat += timedelta(days=7)
+    return sat.astimezone(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z")
+
+
 def settle(index, now):
-    """Publish approved pilots; retire episodes superseded by a published remake."""
+    """Publish approved pilots and held episodes whose time has come; retire episodes superseded by a published remake."""
+    for ep in index["episodes"]:
+        if ep.get("status") == "rendered" and not not_yet(ep, now) and not in_shabbat(now):
+            ep["status"] = "published"
+            ep["pubDate"] = now.isoformat(timespec="seconds")
     for ep in index["episodes"]:
         if ep.get("status") == "review" and ep.get("approved"):
             ep["status"] = "published"
@@ -318,7 +342,8 @@ def main():
         return 0
     index = load("episodes/index.json", {"episodes": [], "replays": []})
     if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not any(
-            e.get("status") == "queued" for e in index.get("episodes", [])):
+            e.get("status") == "queued" or (e.get("status") == "rendered" and not not_yet(e, now))
+            for e in index.get("episodes", [])):
         print("scheduled check: nothing is waiting, so nothing to do")
         gh_output(skipped="true", failed="")
         return 0
