@@ -1,0 +1,426 @@
+---
+id: blp-ws07-v23
+unit: u-bpp-BLP-07
+guide_hash: 635093a2f8
+made: 2026-10-27T13:47:14+00:00
+title: BLP WS07 · Corporation Tax and VAT
+map:
+- Corporation tax: charge, rates, accounting periods and payment
+- Income profits, deductible expenditure and capital allowances
+- Chargeable gains and the substantial shareholding exemption
+- Rollover relief
+- Loss relief
+- Close companies
+- VAT: scope, supply and registration
+- VAT: output and input tax, rates, returns and schemes
+- Distributions, buybacks and liquidations
+- General anti-avoidance and tax evasion
+recap:
+- Corporation tax: a UK resident company pays on total profits for each accounting period of up to 12 months; the limits shrink for associated companies and short periods; pay 9 months and 1 day after the period, or by instalments if large.
+- Income profits: income expenditure wholly and exclusively for the trade comes off, including salaries, employer's NICs, employer pension contributions and business interest; dividends paid, depreciation, client entertainment and capital expenditure do not; full expensing is a full first-year allowance for companies on new and unused main-rate plant.
+- Gains: a company's gains are total profits, with indexation only up to December 2017 and no annual exempt amount, BADR or gift relief; the SSE exempts a gain on at least 10% of a trading company held for a continuous 12 months within the 6 years before disposal.
+- Rollover relief: it defers the gain, by deduction from the new asset's base cost, when the proceeds are reinvested in a qualifying asset from 1 year before to 3 years after; if only part is reinvested, the gain is chargeable at once up to the proceeds not reinvested; a company cannot claim for goodwill.
+- Loss relief: same period, then the previous 12 months only after a current-period claim, then forward; only a cessation opens the 3-year terminal carry-back; capital losses stay with gains.
+- Close companies: a UK resident company controlled by 5 or fewer participators, or participator-directors, with more than 50% control; a loan brings a refundable charge on the company unless an exception applies; a benefit to a non-working participator is a distribution; phoenixism needs at least 5%, a similar trade within 2 years and a main purpose.
+- VAT scope: five conditions; registration counts taxable supplies only; the historic test notifies within 30 days of the month end, the future test by the end of the 30 days; an exempt-only supplier cannot register.
+- VAT charging: silence means VAT-inclusive; a later invoice moves the tax point only within 14 days; zero-rated is taxable, exempt is not; return and payment by 1 month and 7 days after the period; only cash accounting, or the flat rate scheme's cash-based method, follows payment.
+- Distributions: interest is deductible, dividends are not; a buyback payment above the capital subscribed is income unless all six conditions or the IHT route are met; a liquidator's payment is capital, subject to the winding-up anti-avoidance rule.
+- Anti-avoidance: evasion is a crime and must be refused; the GAAR needs an abusive tax arrangement and does not cover VAT; a salaried member needs all of A, B and C.
+summary: Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.
+invented:
+- Ines
+- Mira Ltd
+- Oak Ltd
+- £90,000
+- Wren Ltd
+- Fern Ltd
+- £60,000
+- £70,000
+- £20,000
+- £12,000
+- £8,000
+- £30,000
+- Kiln Ltd
+- £500,000
+- £140,000
+- £400,000
+- £100,000
+- £40,000
+- Femi
+- £35,000
+- £95,000
+- 31 October
+- 30 November
+- 1 December
+- May
+- 30 June
+- 1 July
+- Harbour Ltd
+- £600,000
+- £120,000
+- 3 March
+- 5 March
+- Maple Ltd
+- £1,800
+- Dev
+- Larch Ltd
+- 24%
+- 22%
+- 18%
+- 7 years
+---
+## Map
+Will: Ten topics today, so hold on to the shape. First, corporation tax itself: the charge, the rates and when it's paid. Then income profits, deductible costs and capital allowances. Then chargeable gains and the shareholding exemption. And then rollover relief.
+Hannah (thoughtful): So the tax, the profit, the gains and the rollover. Four down.
+Will: Yes. Next, loss relief and close companies. Then VAT in two halves: scope and registration first, then charging, returns and schemes.
+Hannah: Losses, close companies, VAT coming in, VAT going out.
+Will: That's it. Then taking money out of a company: distributions, buybacks and liquidations.
+Hannah: Money out.
+Will: Yes. And last, anti-avoidance and evasion.
+Hannah (wry): The bit where somebody commits a crime. <laugh> Fine. Go on.
+
+## Block 1: Corporation tax: charge, rates, accounting periods and payment
+Will (brisk): Corporation tax first. A UK resident company pays corporation tax on its total profits for each accounting period. Not income tax, and not capital gains tax.
+Hannah: Even on a gain from selling shares?
+Will: Yes. A company's gain is part of its total profits, and those are charged to corporation tax. So capital gains tax is the wrong answer whenever the taxpayer is a company.
+Hannah (teasing): And the accounting period is a year?
+Will: At most. It's never longer than 12 months. If the accounts run for 15 months, it isn't one long period. It's split into a first 12-month period and the remainder, and each is taxed separately.
+Hannah: Split, not stretched.
+Will: Yes. The reason this matters is that the limits shrink for associated companies and short periods, and the payment date depends on size. But first, the sum. Total profits are four things added together. Trading profit, after capital allowances, plus property income.
+Hannah: Plus?
+Will: Non-trading loan relationship credits, which means things like interest received, and then chargeable gains, net of capital losses. That's total profits.
+Hannah: And then some comes off.
+Will: Losses relieved and qualifying charitable donations. What's left is taxable total profits, and the rate bites on that.
+Hannah: So what's the rate?
+Will: Three bands. There's a small profits rate up to a lower limit, the main rate above an upper limit, and in between it's the main rate less marginal relief. The question supplies the figures.
+Hannah: And what moves those limits?
+Will: Two things. If the company has associated companies, you divide the limits by the number of them, counting this one. Associated means under common control. So three companies, limits divided by three. <short pause> And if the accounting period is short, the limits are reduced proportionately, so a 3-month period gets three twelfths.
+Hannah: And marginal relief itself?
+Will: The fraction times the gap between the upper limit and the taxable total profits, for a company that receives no dividends. The question gives you the fraction.
+Hannah: Go on then, test me.
+Will (dry): Here's a rates question: how is Mira Ltd's corporation tax worked out? Ines owns all the shares in two companies, Mira Ltd and Oak Ltd. Mira has a full 12-month accounting period, taxable total profits of £90,000, and it receives no dividends. The lower limit that year is £50,000 and the upper limit is £250,000.
+Hannah (thoughtful): So this is the rates part of corporation tax. Is it the small profits rate on the lot, marginal relief worked from the full limits, or marginal relief worked from halved limits?
+Hannah: <think>
+Hannah: Ines controls both companies, so they're associated and the limits halve: £25,000 and £125,000. £90,000 sits between them, so it's the main rate less marginal relief, on the halved limits.
+Will: Yes, and the deciding fact is common control, because it halves the limits. Use the full limits and you give too much relief.
+Hannah: And the date?
+Will: A company that isn't large pays in a single payment. The date is 9 months and 1 day after its accounting period ends. A large company pays by quarterly instalments.
+Hannah: What counts as large?
+Will: Profits over a threshold, and with associated companies that threshold is divided between them, like the rate limits. There are two ways out of being treated as large. One is a liability of £10,000 or less.
+Hannah: And the other?
+Will: Profits of £10m or less, and the company wasn't large in the previous 12 months. It needs both of those.
+Hannah: And if it is large?
+Will: There are four instalments. They fall in months 7, 10, 13 and 16. Count from the start of a 12-month period. They're based on the estimated liability for the current period.
+Hannah: And a very large company?
+Will: Profits over a higher threshold. Those instalments come earlier. There are still four, in months 3, 6, 9 and 12.
+Hannah (wry): Very large companies pay first. Makes sense.
+Will: Yes. The return has its own deadline. It's 12 months after the end of the period. That's separate from the Companies House deadlines too. Don't mix any of this up with an individual's self-assessment dates. They are 31 January and 31 July. A sole trader's payments on account are based on the previous year; a company's instalments are based on the current one.
+Hannah: So is the trap saying 31 January for a company?
+Will: Yes, that's an individual's date. A company that isn't large pays 9 months and 1 day after its own period ends.
+Hannah: Corporation tax in a line: a UK resident company pays on total profits for each accounting period; the limits shrink for associated companies and short periods; and it pays 9 months and 1 day after the period, unless it is large.
+Will: Right. That's the tax and the date. Next, how the profit itself gets worked out.
+
+## Block 2: Income profits, deductible expenditure and capital allowances
+Will: Now income profits, deductible expenditure and capital allowances. This is where trading profit comes from. It's chargeable receipts less income expenditure incurred wholly and exclusively for the trade, with capital allowances in place of depreciation. Questions test which costs come off, and which allowance a purchase gets.
+Hannah: Costs first, then.
+Will: Four that are deductible: directors' and employees' salaries, employer's NICs, employer pension contributions, and interest on business borrowings.
+Hannah: And the ones that aren't?
+Will: Four that aren't: dividends paid, depreciation, client entertainment and capital expenditure, like buying premises. Dividends come out of post-tax profits, and depreciation is replaced by capital allowances.
+Hannah (sceptical): Client entertainment is for the trade, though.
+Will: It's disallowed even if it is wholly and exclusively for the trade. Staff entertainment, on the other hand, remains deductible.
+Hannah: Client no, staff yes. And dividends?
+Will: Right. A dividend paid is not deductible and the company deducts no tax. A dividend a company receives from another company is generally exempt from corporation tax. The trap is thinking a dividend paid reduces the company's tax. It doesn't.
+Hannah: Capital allowances, then.
+Will: The headline is full expensing, for companies only. It's a full first-year allowance on new and unused main-rate plant and machinery, with no upper limit.
+Hannah: And second-hand plant?
+Will: No full expensing for that. Special-rate assets get only a partial first-year allowance. There's also the annual investment allowance, and sole traders can claim that one too.
+Hannah: And if you later sell something you fully expensed?
+Will: The proceeds are taxed as a balancing charge. Then there are writing-down allowances, on the main pool and the special rate pool. The exam supplies those rates.
+Hannah (wary): Older notes have an out-of-date main pool rate, and some say full expensing has ended.
+Will: The main pool rate has changed since those notes, so use the exam's figure. And full expensing has not ended: companies still get the full first-year allowance on new and unused main-rate plant, with no upper limit.
+Hannah: In a line: income costs wholly and exclusively for the trade come off; four things don't: dividends, depreciation, client entertainment and capital spending.
+Will: Right, that's the profit. Next, what happens when the company sells shares at a gain.
+
+## Block 3: Chargeable gains and the substantial shareholding exemption
+Will: Now chargeable gains and the substantial shareholding exemption. This one is short, and it has two parts. A company's gains form part of its total profits, computed like an individual's but with some differences. Then there's the substantial shareholding exemption, SSE, which exempts the gain when a company sells a substantial holding in a trading company. Without it the gain is simply taxed as part of total profits, so questions turn on the holding conditions.
+Hannah: Differences first, then. What are they?
+Will: There are four main differences. A company gets an indexation allowance for inflation. The allowance runs only up to December 2017. The allowance can't create or increase a loss. A company gets no annual exempt amount, and no BADR or gift relief.
+Hannah (wary): So three things missing: no annual exempt amount, no BADR, no gift relief. And indexation is the extra.
+Will: Right, and the date is the catch: indexation stops at December 2017. Rollover relief is available too, and that's the next topic.
+Hannah: Back to SSE, then. What makes a holding substantial?
+Will: Four conditions, and you need all four. One: the seller held at least 10 per cent of the ordinary share capital. Two: it held it for a continuous 12 months.
+Hannah: Continuous, so no gaps.
+Will: Yes, no gaps. Three: that 12 months falls within the 6 years before the disposal. Four: the shares are in a trading company, or the holding company of a trading group.
+Hannah: And if it's a loss, not a gain?
+Will: The loss is exempt too.
+Hannah: Now the look-alike. Is this the one that gets muddled with BADR?
+Will: Yes. BADR is for individuals. SSE is for a seller that is a company: 10 per cent for a continuous 12 months in the previous 6 years.
+Hannah: Company seller, SSE, if the holding conditions are met. Individual seller, BADR.
+Will: Right. Next is a relief that defers a gain when the proceeds are reinvested.
+
+## Block 4: Rollover relief
+Will: Rollover relief defers tax. It doesn't exempt the gain. A trader sells a qualifying asset used in the trade and reinvests the proceeds in another, and the tax waits until that new asset is sold. Questions turn on three things: one, timing; two, whether the asset qualifies, and for a company goodwill doesn't; three, whether all the proceeds were reinvested.
+Hannah: Who counts as a trader?
+Will: Three types: a sole trader, a partner or a company, so companies are in.
+Hannah: And what assets qualify?
+Will: Three main kinds of asset: land and buildings, fixed plant and machinery, and goodwill. Goodwill is not available to companies, because a company's goodwill falls under the separate intangibles regime.
+Hannah: Does the new asset have to be the same type?
+Will: It doesn't have to be the same type, but it does have to be a qualifying asset used in the trade. So there are three conditions, and you need all three. One: the trader disposes of a qualifying asset used in the trade. Two: it reinvests the proceeds in a qualifying asset used in the trade. Three: the new asset is acquired within 1 year before or 3 years after the disposal.
+Hannah: So the window runs both ways, a year before and three years after.
+Will: Right. And the effect is that the gain is deducted from the base cost of the new asset, so the tax is deferred until the new asset is sold.
+Hannah: And if I only reinvest some of the proceeds?
+Will: That's what the questions turn on. If only part of the proceeds is reinvested, the gain is chargeable immediately up to the amount of proceeds not reinvested, and only the rest is rolled over.
+Hannah: Show me.
+Will: Here's the test: how much of the gain is taxed now? Kiln Ltd sells a warehouse used in its trade for £500,000, and makes a gain of £140,000. Within the window, it buys a new warehouse for £400,000, also for use in its trade.
+Hannah: So £100,000 of the proceeds isn't reinvested.
+Will: Right. So £100,000 of the gain is chargeable now, and the other £40,000 rolls over into the new unit's base cost.
+Hannah: So everything reinvested means everything deferred, but the slice not reinvested is taxed now.
+Will: Yes: the amount not reinvested is chargeable at once, up to the size of the gain, and only the rest rolls over.
+Hannah: Rollover in a line: it defers, doesn't exempt; the proceeds go into a qualifying trade asset bought from a year before to three years after; proceeds not reinvested are taxed now, up to the gain; and no goodwill for a company.
+Will: Right. Next is what happens when the company loses money instead.
+
+## Block 5: Loss relief
+Will: Loss relief. A trading loss goes against the same period, then back 12 months, then forward. Only a loss in the final 12 months of trading opens the 3-year carry-back, and capital losses stay with gains. It matters because a loss only saves tax when it's set against profits, so the claims open to the company decide when the saving comes.
+Hannah: Take the ordinary loss first.
+Will: A trading loss is set against total profits of the same period, and that means income and gains together. Then, if there's loss left, it can be carried back to the previous 12 months. But that's only if a claim against the current period was made first.
+Hannah: No current-period claim, no carry-back.
+Will: Right. What's still left is carried forward against total profits of later periods, restricted for very large profits.
+Hannah (guessing): And a company that's still trading can go back three years.
+Will: That's the tempting wrong answer. The 3-year carry-back is for a terminal loss. That's a loss made in the final 12 months of trading. It's carried back after the same-period claim. It goes against total profits of the previous 3 years, latest first.
+Hannah: So what decides it?
+Will: Whether the trade has ceased. Wren Ltd closes down this year, and its last 12 months of trading made a loss. That loss goes against the same period, then back across the previous 3 years, latest year first.
+Hannah: And one that's still trading?
+Will: The test is how far back the loss can go. Fern Ltd loses £70,000. It has £20,000 of total profits this year: £12,000 of property income and an £8,000 gain. In the previous 12 months it had £30,000 of total profits.
+Hannah: So £20,000 against this year, and £30,000 goes back.
+Will: Yes. And the last £20,000 goes forward. It can't go back further, because the 3-year carry-back needs the trade to have stopped.
+Hannah: Ceased trading, 3 years. Still trading, 12 months.
+Will: Right. Carried-forward losses relieve profits in full only up to a deductions allowance, and above that only part of the profits can be relieved.
+Hannah: What about group relief?
+Will: Group relief needs a 75 per cent group, and that means three things. One: the parent holds at least 75 per cent of the shares. Two: it's entitled to 75 per cent of the distributable profits.
+Hannah: That's two. There's a third.
+Will: Yes: three, 75 per cent of the assets on a winding up, directly or indirectly. And the loss is set against the claimant's profits of the corresponding period.
+Hannah: And a company compared with an individual?
+Will: A company sets losses against total profits and has no early years relief. An individual carries forward only against the same trade.
+Hannah: Losses can disappear, though.
+Will: Carried-forward trading losses are lost when there's a change in ownership, meaning more than half the shares, together with a major change in the nature or conduct of the trade. That major change counts if it falls in a window. The window runs from 3 years before to 5 years after the change in ownership.
+Hannah (wary): So not just the 5 years after.
+Will: Right, the window starts 3 years before. And capital losses go only against chargeable gains of the same or later periods, never against income, and never back.
+Hannah: For a trading loss: same period, then 12 months back after a claim, then forward; and 3 years back only on cessation.
+Will: Right. Now the anti-avoidance rules for companies owned by a few people.
+
+## Block 6: Close companies
+Will: Close companies. These are rules aimed at companies controlled by a few participators. There are three to learn: loans to participators, benefits to participators, and profit taken as capital to avoid income tax. First, what makes a company close.
+Hannah: Go.
+Will: A close company is a UK resident company. It's close in one of two ways. One: it's controlled by 5 or fewer participators. Two: it's controlled by any number of participators who are directors.
+Hannah: And control?
+Will: Control means more than 50 per cent. It can be of one of four things: the share capital, the votes, the distributable income or the assets on a winding up. And you add the rights of a participator's associates, such as close relatives and business partners, to their own.
+Hannah: Which could tip a company over.
+Will: The test is whether the company is close. Picture ten shareholders, none a director. Each has 10 per cent of every class of right. Two of them are married to each other, and two others are siblings. The five largest hold just 50 per cent, and that isn't control, because it has to be more than 50. But the couple count together as 20 per cent and the siblings as another 20. With three others on 10 each, that makes five participators with 70 per cent. It's close.
+Hannah (pleased): Associates are what get it across the line.
+Will: Yes: add the associates' rights and the company is close. Now loans. A close company lends money to a participator or an associate. The company pays a charge of a percentage of the loan. It's due 9 months and 1 day after the end of the accounting period. It's the section 455 charge.
+Hannah: Who's taxed, the borrower?
+Will: No, and that's the trap. It falls on the company, whoever borrows. It isn't deductible for the company, and it isn't a tax on the participator. It's temporary. If the loan is repaid, released or written off later, HMRC repays the charge. The company claims it back after the period in which that happens. The date is 9 months and 1 day after that period ends.
+Hannah: What's the rate?
+Will: The exam gives you the rate.
+Hannah: And there are ways out.
+Will: Four exceptions, and any one is enough. One: the loan is made in the ordinary course of a business that includes lending money. Two: it's a debt for goods or services the company supplies in its trade. That exception is lost if the credit runs over 6 months. It's also lost if the credit is longer than the company normally gives its customers.
+Hannah: And the others?
+Will: Three: it's a loan to a trustee of a charitable trust, used only for the trust's purposes. Four: it's a loan to a full-time working director or employee who doesn't have a material interest, up to a set limit in total outstanding. That covers a director or employee of the company or of an associated company.
+Hannah: And if none of those applies?
+Will: Then the charge arises, but the company can still avoid paying it by getting the loan repaid before the due date. That date is 9 months and 1 day after the period end. The company claims relief for the amount repaid, so nothing is paid on it. But there's a catch if you repay and then borrow again.
+Hannah: What's the catch?
+Will: A matching rule, with three conditions. One: a repayment of £5,000 or more, and new loans of £5,000 or more. Two: both fall within the same 30 days. Three: the new loans are made in a later accounting period than the one in which the repaid loan was made. Then the repayment counts against the new loans, so the old loan still bears the charge.
+Hannah (groaning): So that repay-and-reborrow move doesn't escape the charge.
+Will: Right, the matching rule catches it. There's a second matching rule. It needs £15,000 or more owed to the company just before the repayment. And replacement loans of £5,000 or more must already be arranged when the repayment is made. The repayment is then matched to those loans, whatever the timing.
+Hannah: Is there any way out of the matching?
+Will: Yes, one. None of this applies if the repayment is itself taxed as the participator's income, for example a dividend credited to the loan account. Now what happens to the borrower. If the loan is written off or released, the participator is taxed on the amount as dividend income. And the same loan can also be a benefit in kind for a director or employee if it's interest-free or low-rate, above a small limit.
+Hannah: One loan, two charges?
+Will: Yes: the charge on the company, and the benefit in kind for the borrower. Benefits next. A participator gets free use of a company house, and she is neither a director nor an employee.
+Hannah (guessing): Benefit in kind.
+Will: For a director or employee, yes. But for a participator who doesn't work for the company it's a distribution: not deductible, and taxed as dividend income. What decides it is whether the participator works for the company.
+Hannah: Works there, benefit in kind. Doesn't, distribution.
+Will: Yes. The last two are about profit taken as capital. Transactions in securities: a capital extraction, say a liquidation or a buyback, with income tax avoidance as a main purpose. HMRC counteracts it, typically taxing it as income.
+Hannah: And phoenixism?
+Will: A close company's winding-up distribution is income, but only on three conditions, and you need all three. One: it goes to a shareholder with at least 5 per cent. Two: she carries on a similar trade or activity within 2 years.
+Hannah: That would catch an awful lot of people.
+Will: Three is what stops that: avoiding income tax has to be a main purpose. Without that main purpose, the distribution stays capital.
+Hannah: So three things, all needed: at least 5 per cent, a similar trade within 2 years, and the main purpose.
+Will: Right: all three.
+Hannah: Close companies, four points: a UK resident company controlled by 5 or fewer participators, or by participator-directors; a refundable charge on loans, unless an exception applies; a distribution for non-working participators; and capital that can become income if avoiding income tax is a main purpose.
+Will: Right. That's corporation tax done. Now VAT.
+
+## Block 7: VAT: scope, supply and registration
+Will: VAT scope and registration. VAT needs five conditions, and you need all five. Registration then counts only taxable supplies, looking back 12 months at each month end, or forward to the next 30 days alone. It matters because a business that registers late pays for it, as we'll see.
+Hannah: Give me the five.
+Will: One: there's a supply of goods or services. Two: it's made in the UK. Three: it's a taxable supply, so standard, reduced or zero-rated, not exempt.
+Hannah: That's three. A taxable person next?
+Will: Four: it's made by a taxable person, someone registered or required to be.
+Hannah: And the fifth is business.
+Will: Yes: five, in the course or furtherance of a business that person carries on. If all five are met, charge output tax, deduct input tax, and account in the period of the tax point.
+Hannah: So only registered people charge VAT is wrong.
+Will: Yes. A person who is required to register is already a taxable person.
+Hannah: What's a supply?
+Will: Goods is the transfer of the whole property in the goods. Services is anything done for a consideration that isn't a supply of goods. So supplies for no consideration, a free service for example, are generally outside VAT. And business gifts of goods are supplies, unless they're of low value.
+Hannah: Anything that isn't a supply at all?
+Will: One big one: a transfer of a going concern, TOGC. Transferring a business, or a part capable of separate operation, is neither goods nor services, so no VAT.
+Hannah: On what conditions?
+Will: Three, and you need all three. One: the buyer uses the assets in the same kind of business. Two: there's no significant break. Three: the buyer is or becomes registered where the seller is.
+Hannah: And land?
+Will: If the seller opted to tax the land, the buyer has three jobs, all by the time of supply. One: opt to tax. Two: notify HMRC. Three: tell the seller its option will not be disapplied.
+Hannah (wry): Three jobs, one deadline.
+Will: Yes. Now registration. Count taxable supplies only: standard, reduced and zero-rated. Leave out exempt supplies and sales of capital assets. There are two tests. The future test applies at any time. Are taxable supplies in the next 30 days alone reasonably expected to exceed the threshold? If so, register.
+Hannah: And the other?
+Will: The historic test is at each month end. Did taxable supplies in the previous 12 months exceed the threshold? It's rolling, checked at the end of each month, not by calendar year or accounting year. There's an exception to the historic test: if HMRC is satisfied that the next 12 months will not exceed the deregistration threshold, there's no registration. A one-off spike in sales is the example. The exam gives you both thresholds.
+Hannah: And the timings differ.
+Will: Historic test: you have 30 days after the end of the month you went over. Tell HMRC within that time, and you're registered from the first day of the second month after it. So over in May: tell HMRC by 30 June, registered from 1 July. Future test: notify by the end of those 30 days. You're registered from the start of the 30-day period.
+Hannah: Is it 3 months to notify?
+Will: No, that's the corporation tax notification. Two more points. A business making taxable and exempt supplies tests on its taxable supplies only. And a person making only exempt supplies cannot register, like an insurance broker, or a landlord with no option to tax.
+Hannah: And if you forget to register?
+Will: Failure to register means it must account for output tax from the date it should have been registered, out of its own pocket if customers won't pay, plus a penalty.
+Hannah: Go on then, a scenario.
+Will: Here's a registration question: must Femi register, and from when? She sells food and does web design. In the 12 months to 31 October she had £60,000 of zero-rated food sales and £35,000 of standard-rated design work, £95,000 between them. She also had £30,000 of exempt insurance commission, and she sold an old van for £8,000. The registration threshold is £90,000.
+Hannah (brisk): So this is VAT registration. Does the zero-rated food count, so it's the historic test and she notifies by 30 November and registers from 1 December; does the food not count, so she needn't register; or is it the future test, with notice by the end of the 30 days?
+Hannah: <think>
+Hannah: Zero-rated is taxable, so the food counts: £60,000 plus £35,000 is £95,000. The commission is exempt and the van is a capital asset, so neither counts. £95,000 is over the threshold at the 31 October month end, and that's the historic test. So notify by 30 November, registered from 1 December.
+Will: Yes. What decides it is the rolling 12 months to a month end, and the right total is taxable supplies only. The second option drops the zero-rated food, which is the mistake. The third is the future test, which looks only at the next 30 days, and nothing here says that.
+Hannah: Can you register if you're under the threshold?
+Will: Voluntary registration is allowed below the threshold if the business makes taxable supplies, and then it can recover input tax. It suits zero-rated suppliers and suppliers to VAT-registered business customers. The drawback is that it must charge VAT, so it's less competitive where customers are consumers who can't recover it. Once registered it must also file returns and keep VAT records.
+Hannah: And before registering?
+Will: Pre-registration input tax is recoverable in two cases. One: goods still held at registration. They must have been bought within 4 years. Two: services received within 6 months before registration.
+Hannah: VAT scope in a line: five conditions, all needed; only taxable supplies count; notify within 30 days of the month end under the historic test, or by the end of the 30 days under the future test; and an exempt-only supplier can't register.
+Will: Right. That's who is in. Now what they charge.
+
+## Block 8: VAT: output and input tax, rates, returns and schemes
+Will: VAT output and input tax. Output tax is the VAT a registered person must charge on taxable supplies and account for to HMRC. Input tax is recovered, so VAT falls on the final consumer. Question one: how much VAT is in the price?
+Hannah (guessing): Just add the VAT on top.
+Will: Not quite: not if the price is silent. A price agreed without mention of VAT is VAT-inclusive. The supplier accounts for the VAT out of it. VAT goes on top only under an express plus VAT term.
+Hannah: Show me.
+Will: The test is whether VAT comes out of the price or goes on top. Harbour Ltd makes a standard-rated supply for £600,000 and the contract says nothing about VAT. At 20 per cent, the VAT inside an inclusive price is one sixth, so it accounts for £100,000 out of the price. Now the same supply under an express plus VAT term, and £120,000, 20 per cent, is added on top.
+Hannah: So the deciding fact is the clause. Silence means inclusive, an express term means on top.
+Will: Yes. Question two is when. Output tax is due in the VAT period of the tax point. The basic tax point is when goods are delivered or made available, or when services are performed. It's earlier if an invoice is issued or payment, like a deposit, is received first.
+Hannah: And later?
+Will: Later, at the invoice date, if a VAT invoice is issued soon enough. The limit is 14 days after the basic tax point. If the invoice comes more than 14 days later, the tax point stays at the basic tax point. Quick test on the tax point: which date is it? Goods are delivered on 3 March and the VAT invoice goes out two days later.
+Hannah: So is it the delivery date, 3 March, or the invoice date, 5 March?
+Hannah: <think>
+Hannah: Two days is within 14, so the tax point moves later to the invoice date, 5 March.
+Will: Yes: within 14 days, the invoice date wins. Twenty days later and it would stay at 3 March.
+Hannah: Input tax, then.
+Will: VAT paid on goods and services supplied for the business, deducted from output tax. If input tax exceeds output tax, HMRC repays the excess. Deduction needs a valid VAT invoice, and input tax relating to exempt supplies is not recoverable, which is partial exemption. Blocked input tax is business entertainment and cars available for private use.
+Hannah: So who ends up paying?
+Will: The final consumer. It's neutral for a registered business, which collects output tax and recovers input tax. Unregistered persons and exempt businesses bear it as a cost. Across a chain, the total reaching HMRC is the VAT on the final sale price.
+Hannah: Types of supply, then.
+Will: Exempt supplies aren't taxable. There are five main kinds, three first: most sales and leases of land, unless the supplier opted to tax; financial services; and insurance.
+Hannah: Anything else?
+Will: Two more: education and health. Now the big point. Zero-rated and exempt supplies both carry no VAT, but zero-rated supplies are taxable.
+Hannah: Which means what?
+Will: Take most food, which is zero-rated. Those sales count towards the threshold, and input tax on them is recoverable. Take insurance commission, which is exempt. It doesn't count, and its input tax is not recoverable. What decides it is whether the supply is taxable at a nil rate or not taxable at all.
+Hannah: So it isn't exempt just because the rate is nil.
+Will: Right. Standard-rated is the default, the question gives you the reduced rate, and zero-rated is a nil rate. Free services and a TOGC are outside the scope altogether.
+Hannah: Land?
+Will: The freehold sale of a new commercial building is compulsorily standard-rated. New here means completed less than 3 years ago. Other commercial land supplies, including the grant of a lease of a new building, are exempt unless the supplier has opted to tax. After an option to tax, future supplies of that land are standard-rated and related input tax is recoverable.
+Hannah: Invoices?
+Will: A VAT invoice is required for a taxable supply to a VAT-registered customer. Normally it must be issued within 30 days of the time of supply. The customer needs a valid one to recover the VAT. Simplified invoices are allowed for retail supplies up to £250.
+Hannah: Is that 30 days the same as the 14?
+Will: No. 14 days decides whether a later invoice moves the tax point. 30 days is the deadline for issuing the invoice.
+Hannah: Returns, then.
+Will: For each VAT period, usually quarterly, output tax on supplies made less input tax on supplies received. You file and pay by a set date. It's 1 month and 7 days after the period ends. You do it through Making Tax Digital software.
+Hannah: Compare that with corporation tax.
+Will: The VAT deadline runs from the end of the VAT period. Corporation tax runs from the end of the accounting period. So 1 month and 7 days for VAT, 9 months and 1 day for corporation tax.
+Hannah: And Making Tax Digital?
+Will: It means all VAT-registered businesses keep digital records and file through compatible software. There are three exemptions: the digitally excluded, religious objection to electronic communications, and a business subject to an insolvency procedure.
+Hannah: And repayments?
+Will: Common for zero-rated suppliers with large purchases. Payments on account apply where the annual VAT liability is above a set limit. Records are kept for 6 years.
+Hannah: What if the customer doesn't pay?
+Will: Under standard accounting, output tax is due for the period of the tax point even if the customer hasn't paid. Bad debt relief is the remedy. You reclaim output tax accounted for but unpaid. The debt must be more than 6 months overdue and written off in the VAT records.
+Hannah: And the alternative?
+Will: Cash accounting. Output tax is due when the customer pays, and input tax when the business pays its supplier, so it gives automatic bad debt relief. The test is when the VAT falls due. Maple Ltd is on standard accounting and issues an invoice with £1,800 of VAT, which the customer pays months later. Maple still accounts for that VAT in the tax point quarter, and if the customer never pays, bad debt relief is all it has.
+Hannah: And under cash accounting?
+Will: The same invoice is due only when paid, and an unpaid one bears no output tax.
+Hannah: So what decides it is whether the business uses cash accounting.
+Will: Yes. Only cash accounting, or the flat rate scheme's cash-based turnover method, ties VAT to payment. Otherwise bad debt relief is the only remedy. Annual accounting is one return a year with interim payments, and it changes filing, not when VAT is due. The flat rate scheme is VAT paid as a fixed percentage of turnover.
+Hannah: Any limits?
+Will: Each of those has a turnover limit, and the exam supplies the limits.
+Hannah: So annual accounting isn't for slow payers.
+Will: Right, it changes only filing. Last, penalties. Late returns bring penalty points, and when you reach the threshold, a financial penalty follows.
+Hannah: And late payment?
+Will: Late payment penalties and interest, not points. Careless or deliberate errors on a return bring inaccuracy penalties.
+Hannah: VAT charging: inclusive when silent, the tax point moves later only if the invoice is within 14 days of the basic tax point, and zero-rated is taxable where exempt isn't.
+Will: Right. Now how a company takes money out.
+
+## Block 9: Distributions, buybacks and liquidations
+Will: Distributions, buybacks and liquidations. Interest and salary are deductible, dividends aren't. Buybacks and liquidation payments turn on whether the return is income or capital, and that matters because income is taxed at dividend rates, while capital gets CGT, possibly with BADR.
+Hannah: Taking profit out of a company, then.
+Will: Salary or a bonus is deductible for the company, but the director pays income tax at non-savings rates plus employee NICs, and the company pays employer NICs. A dividend has no NICs and lower income tax rates, but it's not deductible and it's payable only out of distributable profits.
+Hannah: And interest?
+Will: Interest on a loan or debenture is deductible for the company and taxed on the lender as savings income. A dividend is taxed as dividend income.
+Hannah: Buybacks.
+Will: Capital treatment, CGT possibly with BADR, applies automatically only if all six conditions are met. The default is income treatment.
+Hannah: So a sale of shares isn't automatically CGT.
+Will: Right, that's the trap. Six conditions, and all six. One: the company is an unquoted trading company, or the holding company of a trading group. Two: the buyback is wholly or mainly to benefit the company's trade, not mainly for tax avoidance, like buying out a retiring or dissenting shareholder.
+Hannah: Three?
+Will: The seller is UK resident. Four: the seller has owned the shares for at least 5 years, or 3 if inherited. That counts the deceased's and the personal representatives' ownership.
+Hannah: And the last two are about the seller's holding afterwards.
+Will: Yes. Five: the interest is substantially reduced. That means 75 per cent or less of the previous percentage holding. Six: the seller is not connected with the company afterwards, holding 30 per cent or less.
+Hannah: And if it fails?
+Will: Then the amount paid above the capital originally subscribed for those shares is an income distribution, taxed on the seller at dividend rates. The seller is also treated as making a CGT disposal, with the distribution excluded from the proceeds.
+Hannah: Is there another way in?
+Will: The IHT route, on three conditions. One: substantially all of the payment pays IHT due on a death. Two: it's paid within 2 years of the death.
+Hannah: That's narrow.
+Will: It is, because of the third condition: the tax could not otherwise be paid without undue hardship. And the company can apply to HMRC for advance clearance that a proposed buyback qualifies for capital treatment.
+Hannah: Is that the same clearance as the securities one?
+Will: No. Buyback clearance confirms capital treatment. The transactions in securities clearance guards against counteraction.
+Hannah: Buyback clearance, capital. Securities clearance, no counteraction.
+Will (dry): Yes. Try this one: does the buyback get capital treatment? Dev has held 24 per cent of Larch Ltd for 7 years. Larch is an unquoted trading company, and he is UK resident. He is retiring, and Larch buys back some of his shares for the benefit of its trade, not mainly for tax avoidance. He is left holding 22 per cent; three quarters of his old holding would be 18 per cent.
+Hannah (thoughtful): So is it capital, because 22 per cent is under 30; capital, because he's held the shares for 7 years; or no capital treatment, an income distribution at dividend rates?
+Hannah: <think>
+Hannah: This is the buyback rule, so it's the six conditions. I'd say capital, because he's under 30 per cent and so he isn't connected afterwards.
+Will: Careful: that's the tempting one, and it's only one of the six. Run down the rest. Unquoted trading company, yes. Benefit of the trade, yes. UK resident, yes. Owned for 7 years, so over the 5 years. That leaves the fifth: 75 per cent of 24 per cent is 18 per cent, and 22 per cent is above that, so his interest isn't substantially reduced.
+Hannah (groaning): Both tests, not either one.
+Will: Yes. So no capital treatment: the amount above the capital originally subscribed is an income distribution, taxed at dividend rates. Passing the 30 per cent test isn't enough alone.
+Hannah: Liquidations next. What happens there?
+Will: A liquidator's payments to shareholders in a winding up are capital: a CGT disposal of the shares, possibly with BADR, and not a dividend, subject to the winding-up anti-avoidance rule.
+Hannah: Compare buyback and liquidation.
+Will: A buyback defaults to income at dividend rates, and a liquidation payment is a CGT disposal. What tells them apart is whether a continuing company pays, or a liquidator pays in a winding up.
+Hannah: Continuing company, buyback, income by default. Liquidator, CGT.
+Will: Right. One more pair. Transactions in securities and phoenixism against the capital treatment of buybacks and liquidations. Both need income tax avoidance as a main purpose. Phoenixism also needs a shareholder with at least 5 per cent. And she must carry on a similar trade within 2 years.
+Hannah: So it's that purpose, plus those two phoenix conditions, that pulls it out of capital.
+Will: Yes. Last thing is conduct. Acting for the company and the selling director-shareholder, on the buyback price for example, means considering a conflict of interests before acting for both.
+Hannah: Distributions: interest is deductible, dividends aren't; a buyback payment above the capital subscribed is income unless all six conditions are met or the IHT route applies; a liquidator's payment is capital, subject to the winding-up anti-avoidance rule.
+Will: Right. Last topic: avoidance against evasion.
+
+## Block 10: General anti-avoidance and tax evasion
+Will: Anti-avoidance and evasion. Avoidance is lawful but can be counteracted. Evasion is a crime a solicitor must refuse to help with. Each tool catches something different, so the job is to name the right one.
+Hannah: First step: classify.
+Will: Avoidance is lawfully arranging affairs to pay less tax. It's legal, though anti-avoidance rules may counteract it. Evasion is dishonestly not paying tax due, like hiding income, and it's a crime. Hiding income from HMRC is evasion, never avoidance.
+Hannah: And a solicitor?
+Will: Refuses to facilitate evasion. Facilitating it breaches the duties to uphold the rule of law and act with integrity. Proceeds of tax evasion are criminal property for money laundering purposes.
+Hannah: What about the firm?
+Will: The firm commits the corporate offence of failing to prevent facilitation of tax evasion. That's if an employee, agent or other person performing services for it, acting in that capacity, criminally facilitates evasion. Its defence is to prove it had reasonable prevention procedures, or that none could reasonably be expected.
+Hannah: The GAAR is next.
+Will: It applies if two things are true. It's a tax arrangement, meaning one of its main purposes is a tax advantage. And it's abusive: it cannot reasonably be regarded as a reasonable course of action. That's double reasonableness.
+Hannah: And if it applies?
+Will: HMRC counteracts the advantage on a just and reasonable basis, and a penalty can follow. The exam supplies the percentage.
+Hannah: Which taxes does it cover?
+Will: Five main ones. Income tax, CGT and corporation tax for a start.
+Hannah: IHT? NICs? VAT?
+Will: IHT and NICs, yes. Those are the five main ones. Others are covered too, such as SDLT and ATED. VAT, no. The GAAR does not cover VAT, so a VAT-only scheme isn't caught.
+Hannah: GAAR, no VAT. Then Ramsay.
+Will: Right. Ramsay says tax legislation is read purposively and applied to the transaction viewed realistically. Pre-ordained tax-only steps are often, not always, disregarded, depending on the provision.
+Hannah: Often, not always. Careful with that.
+Will: Yes. Then DOTAS. The promoter notifies HMRC of arrangements with prescribed hallmarks, or the user does if there is no UK promoter. An accelerated payment notice means the disputed tax is paid up front, and a follower notice is where a court has already ruled against similar arrangements.
+Hannah: GAAR against DOTAS?
+Will: DOTAS is a disclosure duty for hallmarked schemes. The GAAR counteracts.
+Hannah: DOTAS discloses. GAAR counteracts.
+Will: Right. Last, IR35 and salaried members. IR35 applies where services are provided through an intermediary, usually her own company. She's taxed as employment income if she would be an employee if engaged directly.
+Hannah: Who applies it?
+Will: For a small private-sector client, the worker's company. For a public-sector or medium or large client, the client decides status and the fee-payer deducts PAYE.
+Hannah: And the LLP one?
+Will: An LLP salaried member is taxed as an employee only if all three conditions are met. A: her pay. At least 80 per cent of it is fixed or not linked to overall LLP profits. That's a disguised salary. B: no significant influence over the LLP's affairs.
+Hannah: And C?
+Will: Her capital contribution is less than 25 per cent of the disguised salary. Miss any one and she's taxed as a member on her profit share. And don't reach for IR35 here: that is a worker supplying services through her own company, not an LLP member.
+Hannah: Avoidance is legal but can be counteracted, evasion is a crime; the GAAR does not cover VAT; DOTAS discloses; and a salaried member needs all of A, B and C to be taxed as an employee.
+Will: Right. And that's the lot.
+
+## Recap
+Hannah: Give me the whole map one last time.
+Will: Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.

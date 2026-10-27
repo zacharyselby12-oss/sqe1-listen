@@ -534,7 +534,49 @@
       "renderedAt": "2026-10-24T19:07:18+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws07-3daae2f3.mp3",
-      "pubDate": "2026-10-24T19:07:18+00:00"
+      "pubDate": "2026-10-24T19:07:18+00:00",
+      "supersededBy": "blp-ws07-v23"
+    },
+    {
+      "id": "blp-ws07-v23",
+      "unitId": "u-bpp-BLP-07",
+      "title": "BLP WS07 · Corporation Tax and VAT",
+      "guideHash": "635093a2f8",
+      "script": "scripts/blp-ws07-v23.txt",
+      "scriptHash": "e9ebaa3b39e1",
+      "audio": "audio/blp-ws07-v23.mp3",
+      "recap": [
+        "Corporation tax: a UK resident company pays on total profits for each accounting period of up to 12 months; the limits shrink for associated companies and short periods; pay 9 months and 1 day after the period, or by instalments if large.",
+        "Income profits: income expenditure wholly and exclusively for the trade comes off, including salaries, employer's NICs, employer pension contributions and business interest; dividends paid, depreciation, client entertainment and capital expenditure do not; full expensing is a full first-year allowance for companies on new and unused main-rate plant.",
+        "Gains: a company's gains are total profits, with indexation only up to December 2017 and no annual exempt amount, BADR or gift relief; the SSE exempts a gain on at least 10% of a trading company held for a continuous 12 months within the 6 years before disposal.",
+        "Rollover relief: it defers the gain, by deduction from the new asset's base cost, when the proceeds are reinvested in a qualifying asset from 1 year before to 3 years after; if only part is reinvested, the gain is chargeable at once up to the proceeds not reinvested; a company cannot claim for goodwill.",
+        "Loss relief: same period, then the previous 12 months only after a current-period claim, then forward; only a cessation opens the 3-year terminal carry-back; capital losses stay with gains.",
+        "Close companies: a UK resident company controlled by 5 or fewer participators, or participator-directors, with more than 50% control; a loan brings a refundable charge on the company unless an exception applies; a benefit to a non-working participator is a distribution; phoenixism needs at least 5%, a similar trade within 2 years and a main purpose.",
+        "VAT scope: five conditions; registration counts taxable supplies only; the historic test notifies within 30 days of the month end, the future test by the end of the 30 days; an exempt-only supplier cannot register.",
+        "VAT charging: silence means VAT-inclusive; a later invoice moves the tax point only within 14 days; zero-rated is taxable, exempt is not; return and payment by 1 month and 7 days after the period; only cash accounting, or the flat rate scheme's cash-based method, follows payment.",
+        "Distributions: interest is deductible, dividends are not; a buyback payment above the capital subscribed is income unless all six conditions or the IHT route are met; a liquidator's payment is capital, subject to the winding-up anti-avoidance rule.",
+        "Anti-avoidance: evasion is a crime and must be refused; the GAAR needs an abusive tax arrangement and does not cover VAT; a salaried member needs all of A, B and C."
+      ],
+      "map": [
+        "Corporation tax: charge, rates, accounting periods and payment",
+        "Income profits, deductible expenditure and capital allowances",
+        "Chargeable gains and the substantial shareholding exemption",
+        "Rollover relief",
+        "Loss relief",
+        "Close companies",
+        "VAT: scope, supply and registration",
+        "VAT: output and input tax, rates, returns and schemes",
+        "Distributions, buybacks and liquidations",
+        "General anti-avoidance and tax evasion"
+      ],
+      "summary": "Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.",
+      "madeAt": "2026-10-27T13:47:14+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
+      "spec": "2.2",
+      "supersedes": "blp-ws07"
     }
   ],
   "replays": [
