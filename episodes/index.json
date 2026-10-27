@@ -709,13 +709,20 @@
       ],
       "summary": "Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.",
       "madeAt": "2026-10-27T15:23:06+00:00",
-      "status": "queued",
+      "status": "review",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
       "spec": "2.2",
       "omittedStarred": 0,
-      "banterLines": null
+      "banterLines": null,
+      "bytes": 20436936,
+      "seconds": 2555,
+      "words": 6205,
+      "renderedHash": "9368783ca022",
+      "renderedAt": "2026-10-27T15:59:18+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws04-v23-cf429141.mp3"
     }
   ],
   "replays": [
