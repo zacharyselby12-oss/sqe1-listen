@@ -603,7 +603,7 @@
       ],
       "summary": "Evidence must be relevant, with opinion only from experts or as perceived fact; statements normally stand as evidence in chief; witnesses sign, with affidavits only where required; civil hearsay is admitted and weighed; summonses compel attendance; and own witnesses normally aren't led on disputed points.",
       "madeAt": "2026-10-27T14:26:47+00:00",
-      "status": "queued",
+      "status": "review",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -616,7 +616,14 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 16143440,
+      "seconds": 2018,
+      "words": 5063,
+      "renderedHash": "95519468de5f",
+      "renderedAt": "2026-10-27T14:55:00+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p1-680807e1.mp3"
     },
     {
       "id": "dr-ws07-v23-p2",
@@ -642,7 +649,7 @@
       ],
       "summary": "Experts need the court's permission and owe their duty to the court; reports are written unless the court directs otherwise, and a disclosed one is open to any party; a single joint expert gets copied instructions; and expert discussions end in a joint statement.",
       "madeAt": "2026-10-27T14:29:50+00:00",
-      "status": "queued",
+      "status": "review",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -656,7 +663,14 @@
         "b10"
       ],
       "spec": "2.2",
-      "supersedes": "dr-ws07"
+      "supersedes": "dr-ws07",
+      "bytes": 10175399,
+      "seconds": 1272,
+      "words": 3277,
+      "renderedHash": "ba14dfcd69ed",
+      "renderedAt": "2026-10-27T14:55:00+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p2-811ccf33.mp3"
     }
   ],
   "replays": [

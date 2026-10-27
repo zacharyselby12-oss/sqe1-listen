@@ -1,1 +1,32 @@
-
+    0.9s chunk 1: reused from an earlier run
+    0.9s chunk 2: reused from an earlier run
+    0.9s chunk 1: reused from an earlier run
+    0.9s chunk 3: reused from an earlier run
+    0.9s chunk 4: reused from an earlier run
+    0.9s chunk 5: reused from an earlier run
+    0.9s chunk 6: reused from an earlier run
+    0.9s chunk 7: reused from an earlier run
+    0.9s chunk 8: reused from an earlier run
+    0.9s chunk 9: reused from an earlier run
+    0.9s chunk 10: reused from an earlier run
+    0.9s chunk 11: reused from an earlier run
+    0.9s chunk 1: reused from an earlier run
+    0.9s chunk 2: reused from an earlier run
+    0.9s chunk 3: reused from an earlier run
+    0.9s chunk 4: reused from an earlier run
+    1.0s chunk 1: reused from an earlier run
+    1.0s chunk 2: reused from an earlier run
+    1.0s chunk 3: reused from an earlier run
+    9.4s chunk 3: ok in own process, 8.6s (attempt 1)
+   32.2s chunk 4: ok in own process, 22.8s (attempt 1)
+   32.4s chunk 2: ok in own process, 31.6s (attempt 1)
+   32.4s chunk 6: reused from an earlier run
+   47.7s chunk 5: ok in own process, 15.5s (attempt 1)
+   55.6s chunk 7: ok in own process, 23.2s (attempt 1)
+   76.8s chunk 1: ok in own process, 21.1s (attempt 1)
+   81.9s chunk 2: ok in own process, 26.2s (attempt 1)
+   99.5s chunk 3: ok in own process, 22.8s (attempt 1)
+  115.8s chunk 4: ok in own process, 34.0s (attempt 1)
+  121.3s chunk 5: ok in own process, 21.7s (attempt 1)
+  136.0s chunk 2: ok in own process, 14.7s (attempt 1)
+  144.5s chunk 1: ok in own process, 23.2s (attempt 1)
