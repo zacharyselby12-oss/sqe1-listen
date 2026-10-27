@@ -1,238 +1,155 @@
 ---
-title: DR WS07 · Evidence of fact (part 1 of 2)
-part: 1 of 2
-blocks: 1-5
+title: DR WS07 · Expert evidence (part 2 of 2)
+part: 2 of 2
+blocks: 6-10
 map:
-- Evidence basics, admissibility and opinion evidence
-- Witness statements: use, exchange and time limits
-- Form of witness statements; affidavits
-- Hearsay and previous convictions
-- Witness summonses and trial procedure
+- Expert evidence: permission, court control and tracks
+- Experts' duty to the court and instructions
+- Expert reports, exchange and written questions
+- Single joint experts
+- Discussions between experts, oral expert evidence, unfavourable reports
 recap:
-- Evidence must be relevant to a fact in issue; relevant evidence can still be excluded, but improperly obtained evidence is generally admitted in civil cases; opinion comes from experts, or from a lay witness only as a way of conveying facts perceived.
-- A served witness statement stands as evidence in chief; late, unused and unobtainable statements each have their own route.
-- The witness signs the statement of truth; an affidavit is the sworn form, needed only where something requires it, and sworn before an independent person.
-- Civil hearsay is admissible and weighed; it is excluded only if, and to the extent, the maker is shown not competent when it was made, and missing notice goes to weight and costs.
-- A summons compels attendance and a served statement does not; issue timing decides permission, service timing decides binding effect.
-summary: Evidence must be relevant, with opinion only from experts or as perceived fact; statements stand as evidence in chief; the witness signs, and affidavits are needed only where required; hearsay is admitted and weighed; summonses compel attendance; and the claimant speaks last at trial.
+- No expert evidence without the court's permission, which covers only the named field or expert; the small claims and fast tracks limit it further.
+- The expert's duty to the court overrides any duty to whoever instructs or pays them, and there is no immunity from a negligence claim.
+- Expert evidence is a written report addressed to the court unless the court directs otherwise; instructions are not privileged; a disclosed report can be used by any party; written questions go once, to clarify, within 28 days of service, unless the court permits or the other party agrees.
+- A single joint expert gets copied instructions and no private meetings; a dissatisfied party asks written questions, and a second expert needs permission.
+- Experts' discussions end in a joint statement the court can see; an agreement binds a party only if it expressly agrees; a party may not ask its expert to change a genuinely held opinion.
+summary: Experts need the court's permission and owe their duty to the court; reports are written, and a disclosed one is open to any party; a single joint expert gets copied instructions; and expert discussions end in a joint statement.
 invented:
-- Aisha
-- Dev
-- Marisol
-- Kofi
-- Dani
+- Ravi
+- Pooja Vale
+- Norvik Ltd
+- Tomasz
 ---
 ## Map
-Will (brisk): Right, evidence of fact: what witnesses can put before the court. The experts get their own episode. Five topics. What gets in at all. How witness statements are served and used. What a statement looks like, and when you need an affidavit.
-Hannah: So: what gets in, statements in use, statements in form.
-Will: Yes. Then hearsay. And last, summonses and how the trial runs.
-Hannah (pleased): Then hearsay, then summonses and trial. Five topics. I can hold that.
-## Block 1: Evidence basics, admissibility and opinion evidence
-Will: Right: five topics. Evidence basics are the gate: what gets in at all. The first test is dull, but everything hangs from it. Evidence has to be relevant to a fact in issue.
-Hannah (dry): And a fact in issue is whatever the lawyers are arguing about.
-Will: Close. The statements of case define the facts in issue. And evidence is relevant if it tends to make a fact in issue more probable or less probable. Irrelevant evidence is inadmissible. That's the why for the whole block: the statements of case mark out what the fight is about, so the evidence has to be about that fight.
-Hannah: Fine. So relevant means it gets in?
-Will: Not automatically. Relevant evidence can still be withheld or excluded, by three routes. One, privilege. Two, without prejudice communications. Three, the court's control.
-Hannah: Court's control sounds like the vague one.
-Will: It's wide. The court can direct three things. One, which issues need evidence. Two, what kind of evidence is needed. Three, how it's placed before the court.
-Hannah: And can it keep evidence out?
-Will: Yes. It can exclude evidence that would otherwise be admissible, and it can limit cross-examination. Think of twelve witnesses on a minor point: the judge can limit the cross-examination.
-Hannah: And without prejudice?
-Will: A without prejudice offer is not put before the judge, however relevant it is.
-Hannah (thinking aloud): Right. So what if someone got the evidence badly? They filmed the other side without telling them.
-Will: This is a starred point, and it's a trap. Improperly obtained evidence, covert surveillance for instance, is generally admissible in civil cases. The court may exclude it, or it may reflect the conduct in costs.
-Hannah (surprised): So being sneaky doesn't keep it out.
-Will: Right, not by itself. <short pause> The trap wording is "not excluded for being improperly obtained".
-Hannah: What about us? Can a solicitor tidy up the evidence?
-Will: No: a solicitor must not misuse or tamper with evidence, so no altering or destroying documents, and must not seek to influence its substance. Two notices come next.
-Hannah: Go on.
-Will: A notice to admit facts has to be served no later than 21 days before trial. If a fact isn't admitted and it's later proved, the refusing party may pay the costs of proving it.
-Hannah: And the document one?
-Will: A disclosed document's authenticity is deemed admitted unless a notice to prove it is served by the latest date for witness statements, or within 7 days of disclosure, whichever is later.
-Hannah: So if nobody serves anything, the document is treated as genuine.
-Will: Yes: with no notice, authenticity is deemed admitted. Last part of the block: opinion evidence. Witnesses give evidence of fact, not opinion. Opinion is admissible in two situations only: from an expert on a matter requiring expertise, or from a lay witness as a way of conveying facts they personally perceived. Think speed, distance, or that someone seemed drunk.
-Hannah: Where does a treating doctor fit?
-Will: That's the look-alike. A professional who treated or dealt with the claimant, a treating doctor for example, usually gives evidence of fact about what they did and saw. Opinion evidence from them needs permission, as expert evidence.
-Hannah (summing up): Evidence basics, then. Relevance first, and relevant evidence can still be excluded. Improperly obtained evidence generally goes in. Then two notices, and opinion only from experts or as perceived fact.
-Will: Right: relevance, the ways in which relevant evidence can still fall out, and who may give opinion. That's what gets in. Next, how a witness's evidence actually arrives: the witness statement.
-## Block 2: Witness statements: use, exchange and time limits
-Will: Witness statements. Served statements show each side the other's factual evidence, and at trial they normally stand as evidence in chief. The exam questions turn on the awkward cases: late, unused or unobtainable statements.
-Hannah: Start with what a witness statement is.
-Will: A written statement, signed by a person, of the evidence that person could give orally. The court orders each party to serve statements of the oral evidence of fact it will rely on at trial, usually by simultaneous exchange.
-Hannah: And at trial the witness gets up and tells it all again?
-Will: No, and that's the trap. The served statement stands as evidence in chief, unless the court orders otherwise. It isn't oral evidence in chief.
-Hannah: What if the witness remembers something new on the day?
-Will: Amplifying the statement, or adding new matters arising since service, needs permission, and there has to be good reason.
-Hannah: Can the other side cross-examine on it?
-Will: Yes. A witness who's called can be cross-examined on the statement, whether or not it was referred to in chief. And the court shapes all this. It can limit the issues for factual evidence, identify the witnesses who are called or read, and limit the length or format of statements.
-Hannah: Right, so what are the awkward cases?
-Will: Three, all starred. One: the statement isn't served in time. Then the witness gives oral evidence only with permission, and the court applies relief from sanctions principles.
-Hannah: So late means permission, and it's not a formality. Next?
-Will: Yes, and the permission isn't a formality. Two: the statement was served, but the witness is neither called nor is the statement put in as hearsay by the party who served it. Then any other party may put it in as hearsay.
-Hannah (amused): So you serve it, drop the witness, and the other side can still put your statement in.
-Will: Yes: your own statement can be used against you, as hearsay, by anyone else.
-Hannah: Three?
-Will: Three: no statement is obtainable at all. Then you apply without notice for permission to serve a witness summary. The summary gives the evidence if it's known, or otherwise the matters the witness will be asked about.
-Hannah: What else goes in a summary?
-Will: The witness's name and address, unless the court orders otherwise, and it's served within the time for witness statements. And a witness summons may also be needed, because a summary doesn't make anybody turn up.
-Hannah: Give me a picture.
-Will: Say a former site manager saw a scaffold give way, and now works for the other side's subcontractor and flatly refuses to sign anything for you. You can't serve a witness statement, because a statement has to be signed by the witness. So you apply for permission to serve a summary, and you get a summons to secure his attendance.
-Hannah: And once there is a statement, does it need anything?
-Will: Now the last part of the block: what the statement needs, and where it can travel. With no statement of truth, the statement may be held inadmissible. And a false statement made without honest belief in its truth can lead to contempt proceedings, which need the court's permission.
-Hannah: Can I take someone's witness statement and use it for something else?
-Will: That's collateral use. A witness statement can be used only for these proceedings, with three exceptions. One, the witness consents in writing. Two, the court permits. Three, it was put in evidence at a public hearing.
-Hannah (wary): That sounds a lot like the rule for disclosed documents.
-Will: It's the look-alike. For a disclosed document it's also a public hearing or permission, but the third route is the agreement of the disclosing party and the owner of the document.
-Hannah: So the question is whose consent. The witness for a statement, the disclosing party and owner for a document.
-Will: Yes. Whose consent is the whole difference.
-Hannah (summing up): Witness statements: a served statement stands as evidence in chief, and late, orphaned and unobtainable each have their own way through.
-Will: Right: late needs permission, unused can be put in by the other side, and unobtainable needs permission for a summary. Next, what a statement has to look like, and the sworn alternative.
-## Block 3: Form of witness statements; affidavits
-Will: Form of witness statements, and affidavits. A witness statement should be in the witness's own words where practicable, and it's verified by a statement of truth the witness signs. The why: at trial the served statement normally stands as the witness's evidence in chief, so it has to be the witness's own account. An affidavit is the sworn form, needed only where something requires it.
-Hannah: So one default, one special.
-Will: Yes: the statement is the default, the affidavit the special case. The statement first. If practicable it's in the witness's own words, their own language, and the first person.
-Hannah: And what does it say about the witness?
-Will: It gives the witness's identity details and says how it was prepared, such as face to face, by telephone or through an interpreter.
-Hannah: That's a lot of boxes.
-Will: Mostly look-up. The parts worth keeping: it distinguishes what the witness knows personally from information and belief, and gives the source. It uses numbered paragraphs and identifies exhibits.
-Hannah: What if the witness doesn't speak English?
-Will: Then it's drafted in their language, translated, and the foreign-language statement is filed. The translator signs the original and certifies accuracy.
-Hannah: And who signs the statement of truth?
-Will: Starred. The witness, not the legal representative. And the wording includes a warning that contempt proceedings may be brought against anyone who makes a false statement without an honest belief in its truth.
-Hannah (thinking aloud): But a solicitor can sign a statement of truth on a statement of case...
-Will: Yes, on a statement of case. Never on a witness statement. That's the trap: not the solicitor's signature.
-Hannah: Anything extra for the big courts?
-Will: Business and Property Courts trial statements. Only facts within personal knowledge that are relevant to the issues, in the witness's own words. No argument, and no commentary on documents.
-Hannah: Anything else those statements need?
-Will: Three more things. One, a list of documents referred to. Two, the witness's confirmation. Three, the legal representative's certificate of compliance. Breach can bring sanctions.
-Hannah: Now the sworn one.
-Will: An affidavit is written evidence sworn on oath or affirmed before an authorised person, for example a solicitor, a commissioner for oaths or a court officer. It's required only where something requires it, and there are four sources.
-Hannah: Which four?
-Will: One, the court. Two, a rule. Three, a practice direction. Four, another enactment. The affidavit examples are freezing injunctions, search orders and contempt applications. Otherwise, use a witness statement.
-Hannah: And who can swear me in?
-Will: Someone independent. Not the deponent's own solicitor, and not a member or employee of the acting firm. Say it's an urgent freezing injunction and a trainee at your own firm offers to take the oath to save time. The answer is no, because the trainee is an employee of the acting firm.
-Hannah (mock-outraged): <laugh> Saving time was the whole selling point.
-Will: Next, a starred point. A voluntary affidavit at a non-trial hearing is allowed, but the extra cost is not recoverable from another party unless the court orders otherwise.
-Hannah: So it isn't inadmissible. You just pay for the luxury.
-Will: Right: allowed, but the extra cost is lost. That's the trap. Not inadmissible; only the cost, unless the court orders otherwise.
-Hannah: And lying in one?
-Will: A false statement in an affidavit is possible perjury, which is a crime, as well as contempt. The muddle is thinking an affidavit lie is only contempt.
-Hannah: And in a witness statement?
-Will: Contempt also lies against anyone who makes, or causes, a false statement in a statement of case or a witness statement verified by a statement of truth, without honest belief. And the second trap: a contempt application itself needs an affidavit or affirmation, not a witness statement.
-Hannah: Is there anything about how an affidavit is set out?
-Will: It's set out like a statement: heading, the deponent's details, first person and numbered paragraphs.
-Hannah: And own knowledge kept apart?
-Will: Yes, own knowledge distinguished from information and belief. Then exhibits are marked, the jurat is signed by the deponent and the person before whom it's sworn, and alterations are initialled.
-Hannah: Let me put the two side by side. Witness statement: verified by a statement of truth the witness signs, nobody to swear it before, the default for trial and interim evidence, and a lie can lead to contempt proceedings, but only with the court's permission.
-Will: And the affidavit?
-Hannah: Oath or affirmation, an independent authorised person, only where required, and a lie can be perjury as well as contempt.
-Will: Yes: the statement is the everyday form, and the affidavit is for where something requires it, with perjury as the extra risk.
-Hannah (summing up): Form and affidavits: witness signs the statement of truth, affidavit only where required, sworn before someone independent.
-Will: Right: the witness signs, and the affidavit is the exception. Now the one with the biggest exam traps: hearsay.
-## Block 4: Hearsay and previous convictions
-Will: Hearsay. Civil hearsay is admissible, and the court weighs it. The why: unlike the criminal rules, civil proceedings never exclude evidence just for being hearsay, so the questions turn on notice, the 14-day steps and weight. It's inadmissible only if, and to the extent, the maker is shown not to have been competent when the statement was made. And missing notice never makes it inadmissible.
-Hannah (wary): I'll want to cross-check those three.
-Will: Good, because the exam tests the gaps between them. First, what hearsay is. A statement made otherwise than by a person giving oral evidence in the proceedings, tendered as evidence of the matters stated.
-Hannah: So the neighbour tells me the pipe burst, and I tell the court the neighbour said so, to prove the pipe burst.
-Will: Yes, that's hearsay. It includes multiple hearsay too, such as a witness repeating what a bystander heard from someone else. And in civil proceedings, hearsay isn't excluded because it's hearsay.
-Hannah: And if I only want to show the neighbour said it?
-Will: Then it's original evidence, not hearsay. You're relying on it only to show it was said, not that it's true.
-Hannah: So civil hearsay is just in. That seems strangely easy.
-Will: Yes, and that's the look-alike trap. Criminal hearsay rules are exclusion, subject to exceptions. Civil proceedings never exclude it for being hearsay.
-Hannah: Civil: admitted and weighed. Criminal: excluded unless an exception.
-Will: Right, that's the whole contrast. Now the one thing that does exclude it. Starred. Hearsay is inadmissible if, and to the extent, it's shown the maker was not competent as a witness when it was made, through mental or physical infirmity or lack of understanding. And a child is treated as competent if they meet the Children Act test.
-Hannah: "To the extent". So part of it can go and the rest stays.
-Will: Yes: inadmissible to the extent the maker is shown not competent, and no further. Now notice, which is where the traps live. A hearsay notice is not needed in four cases. One, evidence at a hearing other than trial, such as an interim application or summary judgment. Two, a trial affidavit or witness statement containing no hearsay. Three, a probate statement alleged to be the deceased's. Four, where a practice direction excludes the requirement.
-Hannah: So it's a trial, it's hearsay, and it's not one of those four.
-Will: Right: then you do need to give notice. Starred. If the witness is called, serving the witness statement is the notice. If the maker isn't called, you serve the statement and say that the witness won't be called, and why.
-Hannah: And if it's not in a witness statement?
-Will: Otherwise you serve a hearsay notice. It does three things. One, identifies the evidence. Two, states the intention to rely on it. Three, says why the maker won't be called. The deadline is no later than the latest date for serving witness statements.
-Hannah: Say I miss it.
-Will: Starred, and it's the point of the whole block. With no notice, the evidence is still admissible. The court may reflect that in case management and costs, and it may give the evidence less weight.
-Hannah: Show me the difference.
-Will: Two little stories, because they tell you what decides it. Aisha relies at trial on her neighbour Dev's statement about the flood but never serves a hearsay notice. It's still admissible. The court may give it less weight and reflect the failure in costs. Now suppose Dev made the statement while he lacked understanding through mental infirmity, and that's shown. Then it's inadmissible to that extent, notice or no notice.
-Hannah: So a missing notice goes to weight. An incompetent maker goes to admissibility.
-Will: Right, that's it. Only the maker's incompetence when the statement was made excludes hearsay. Not inadmissible for want of notice is the trap line.
-Hannah: One line: missing notice is weight, costs and case management; incompetent maker is out.
-Will: Right: weight for the missing notice, admissibility for the maker. After notice, there are two 14-day steps, both from service of the hearsay notice. Starred: where the maker isn't called, any other party may apply for permission to call and cross-examine the maker, within 14 days after service of the notice.
-Hannah (groaning): <sigh> Fourteen days. I keep wanting to say 28.
-Will: That's the trap. 28 days is the time for written questions to an expert, which belongs with the experts, in the next episode. The second step: to attack the credibility of a maker who isn't called, for example with a fraud conviction, you give notice within 14 days after service of the hearsay notice.
-Hannah: And how does the court weigh hearsay?
-Will: Starred, six factors, in two lots of three. Lot one. One, was it reasonable and practicable to call the maker. Two, was the statement contemporaneous. Three, is it multiple hearsay.
-Hannah: Reasonable to call, contemporaneous, multiple.
-Will: Right. Lot two. Four, any motive to conceal or misrepresent. Five, whether it was edited, collaborative or made for a purpose. Six, any attempt to prevent proper evaluation.
-Hannah: So motive, how it was made, and interference.
-Will: Yes, that's all six. Try this one. Marisol is suing over a flood in a block of flats. At trial, her side wants to rely on a written account by a tenant called Kofi. They never served a hearsay notice and they don't plan to call him. Kofi is healthy and lives round the corner. He wrote the account long after the flood, and Marisol's solicitor edited it for him. The other side objects that without notice it is simply out.
-Hannah: So, is Kofi's statement inadmissible for want of notice; admissible but of little weight, with costs possibly reflecting the failure; or admissible at full strength, as if nothing were missing?
+Will (brisk): Right, expert evidence: the second half of evidence, after evidence of fact. Five topics. When an expert is allowed at all. The expert's duty to the court. Reports, and the questions you can ask about them.
+Hannah: So: permission, duty, reports and questions.
+Will: Yes. Then the single joint expert. And last, experts talking to each other.
+Hannah (pleased): Joint expert, then expert discussions. Five topics. I can hold that.
+## Block 6: Expert evidence: permission, court control and tracks
+Will: Right: five topics. Expert evidence first. Opinion on a matter needing expertise comes from an expert, not a witness of fact. And no party may call an expert, or put in an expert's report, without the court's permission. The why: expert evidence is restricted to what is reasonably required to resolve the proceedings, and the court's permission is the gate.
+Hannah: So who even counts as an expert?
+Will: Anyone with relevant skill or knowledge beyond the court's, from training or experience. A connection with a party, for example employment, doesn't automatically disqualify them. It must be disclosed, and the court decides admissibility and weight.
+Hannah (thinking aloud): So an employee can be the expert, just with the connection on the table.
+Will: Right: not automatically barred. The connection must be disclosed, and the court decides both admissibility and weight. Now the application. It has to identify four things. One, the field. Two, the expert, where practicable. Three, the issues to be addressed. Four, an estimate of costs.
+Hannah: Field, expert, issues, costs.
+Will: Yes. And permission covers only the named field or expert. The court may also limit the amount of an expert's fees and expenses that can be recovered from another party.
+Hannah: And the tracks?
+Will: Two tracks limit it further. On the small claims track there's no expert evidence at all, written or oral, without the court's permission. And the expert fees you can recover are capped. On the fast track, oral expert evidence is limited to one expert per party in any field, and to two fields.
+Hannah (summing up): Expert permission, then. None without the court's permission. The application names field, expert, issues and costs. And the tracks cut it down further.
+Will: Right: permission first, and the tracks tighten it. Next, the expert's duty to the court.
+## Block 7: Experts' duty to the court and instructions
+Will: The expert's duty to the court. An expert's duty to help the court overrides any obligation to whoever instructs or pays them. The why: the court relies on the expert for matters within their expertise, so the evidence has to be the expert's independent product. And experts have no immunity from the client's negligence claim.
+Hannah: So who's the expert working for?
+Will: The court, on matters within their expertise. The trap is thinking the client comes first: as I said, the duty to the court wins.
+Hannah: What does that mean for the report?
+Will: The evidence must be the expert's independent product: objective and unbiased, never acting as an advocate. They consider all material facts, including those that detract from their opinion.
+Hannah: And where they can't help?
+Will: They say when a matter is outside their expertise, or when no definite opinion is possible, for example for lack of information.
+Hannah: And if they change their mind?
+Will: If the view changes on a material matter after the report, they tell all parties, and the court where appropriate, without delay. The muddle is thinking they tell only whoever instructed them. The report itself states that the expert understands and has complied with the duty, and knows the court's rules on experts, their practice direction and the guidance. It has a statement of truth including the contempt warning.
+Hannah: What if they breach?
+Will: Starred. A partisan expert at trial, say. The court may exclude the evidence or give it little weight. Breach may also bring costs orders, and in flagrant cases against the expert personally.
+Hannah: And a false statement?
+Will: Contempt proceedings, and referral to the expert's professional body.
+Hannah: And can the client sue?
+Will: Starred. No immunity from suit. The expert can be liable in negligence to the instructing client, for example for an inaccurate joint statement. That's Jones v Kaney. Absolute privilege against defamation claims does remain.
+Hannah: So not immune like a witness of fact, except defamation.
+Will: Right: only defamation privilege survives, and that's the trap line. Now the solicitor's limits. The solicitor must not seek to influence the substance of an expert's evidence.
+Hannah: Meaning if the client presses the expert to strengthen the report, the solicitor can't help.
+Will: Right. The expert refuses, and the solicitor must not influence it. And starred: the solicitor must not pay a fee depending on the nature of the evidence or the outcome. So if the expert offers to charge more if the claim succeeds, the solicitor refuses.
+Hannah (summing up): Expert's duty: duty to the court overrides, no immunity from a negligence claim, and no influencing the substance and no contingent fees.
+Will: Right: the court comes first, the expert can be sued, and the solicitor keeps hands off the substance and never ties the fee to the evidence or the outcome. Now the report itself, and what you can do with it.
+## Block 8: Expert reports, exchange and written questions
+Will: Expert reports, exchange and written questions. Expert evidence is given in a written report unless the court directs otherwise. On the small claims and fast tracks, the court will not direct an expert to attend a hearing unless it's necessary in the interests of justice. The why: the report is the expert's evidence to the court, so it has to show what it rests on; and once it's disclosed, any party can use it.
+Hannah: What goes in the report?
+Will: It's addressed to the court, and the contents come in four groups. One: who the expert is and what they relied on, so their qualifications, the literature relied on, and the substance of all material instructions.
+Hannah: Two?
+Will: Two: what's the expert's own, so which facts are within their own knowledge, and who carried out any tests. Three: the opinion, so the range of opinion and reasons, and a summary of conclusions with any qualification.
+Hannah: And four?
+Will: Four is the two declarations you've already met: that the expert understands and has complied with the duty to the court, and a statement of truth.
+Hannah: So who they are, what's theirs, the opinion, the declarations.
+Will: Yes, those four groups. And the instructions are not privileged. But the court will not order disclosure of specific documents, or allow questioning about them except by the instructing party, unless there are reasonable grounds to consider the statement of instructions inaccurate or incomplete.
+Hannah: So not privileged, but hard to dig into.
+Will: Right: only if the statement of instructions looks inaccurate or incomplete on reasonable grounds.
+Hannah: What if my side gets a report and hates it? Do I have to hand it over?
+Will: A report obtained but not relied on is privileged, and need not be disclosed. But there's a condition. If a party seeks permission to change expert, after permission was given or after a pre-action protocol report, the court will usually require disclosure of the first report. That's to deter expert shopping.
+Hannah: So bin the report you hate, but you can't quietly swap experts.
+Will: Right: privileged, until you seek permission to change expert, and then the first report usually has to be disclosed.
+Hannah: And once a report is disclosed?
+Will: Once a party has disclosed an expert's report, any party may use it as evidence at trial.
+Hannah: Including the other side.
+Will: Right, any party. And the other half: a party that fails to disclose an expert's report may not use it at trial, or call the expert to give oral evidence, without the court's permission.
+Hannah: Where do the written questions fit?
+Will: A party may put written questions to another party's expert, or to a single joint expert. There are three limits. One, once only. Two, only to clarify. Three, within 28 days of service of the report. That's unless the court permits or the other party agrees.
+Hannah: Once, clarify, 28 days.
+Will: Yes, all three limits together. The answers form part of the report. And if another party's expert doesn't answer, the court may order that the instructing party may not rely on that expert or recover their fees.
+Hannah: So if the expert stays silent, the side that instructed them pays for it.
+Will: Right: no reliance on that expert and no recovering their fees, if the court so orders.
+Hannah: And can the expert ask the court for anything?
+Will: Yes: an expert may file a written request to the court for directions. Unless the court orders otherwise, the expert must send a copy of the proposed request to the instructing party and to all the other parties before filing. The instructing party gets the longer notice, and you can look up the exact days. Try this one. Ravi's firm acts for the claimant. The defendant has served a report from its engineer, Pooja Vale. Ravi thinks her conclusions are wrong. He wants to send her a first round of written questions challenging her opinion, and then a second round once he's thought of more.
+Hannah: So can he do that? Yes, as many rounds as he likes; not as planned, because written questions go once and only to clarify, unless the court permits or the other side agrees; or no, because you can't put written questions to the other side's expert at all?
 Hannah: <think>
-Hannah (thinking aloud): This is hearsay. Hearsay is admissible in civil cases, and nothing says Kofi lacked competence when he wrote it, so it's in. Missing notice never excludes. It goes to weight, case management and costs. Weight: easy to call him, written long after so not contemporaneous, and edited. So the middle one.
-Will: Yes. The deciding fact is that the only thing that excludes it is incompetence when it was made, and there's none here. The notice failure goes to weight, costs and case management. Three of the weight factors point one way: calling Kofi was reasonable and practicable, it wasn't contemporaneous, and it was edited.
-Hannah: What's left on hearsay?
-Will: Three loose ends, all about things that aren't witness statements. One: plans, photographs and models that aren't in a witness statement, an expert report or a disclosed list. You give notice by the latest date for witness statements, so the other side can inspect, and otherwise they're not usable without permission. Two: records of a business or public authority are received without further proof if an officer's signed certificate is produced. Three: a subsisting UK conviction is admissible to prove the person committed the offence, where it's relevant to an issue.
-Hannah (summing up): Hearsay: civil hearsay is in and weighed, it's out only to the extent the maker is shown not competent when it was made, and no notice hurts weight and costs but never admissibility.
-Will: Right: in and weighed, out only for an incompetent maker, and notice never decides admissibility. Next, getting the witness into court, and what happens when they're there.
-## Block 5: Witness summonses and trial procedure
-Will: Witness summonses and trial procedure. A summons compels attendance and a served statement does not. The why: a statement only sets out what a witness would say; it can't make them come, so if you need to compel a witness to attend, you need a summons. And there are two 7-day rules: issue decides permission, service decides binding effect.
-Hannah: Two sevens, two jobs. Go on.
-Will: A witness summons is a court document requiring a witness to attend court to give evidence, to produce documents, or both. You can issue it without permission, unless one of three things is true. One, you're seeking it less than 7 days before trial. Two, it's for a date other than the trial date.
-Hannah: And the third?
-Will: Three, it's for a hearing other than the trial. Any one of the three means you need permission.
-Hannah: That's issue. What about binding?
-Will: Binding is separate. A summons binds only if it's served at least 7 days before the date the witness must attend, unless the court directs that later service binds. That's the look-alike: summons issue versus summons binding. The trap is thinking early issue makes it binding.
-Hannah: Issue date is permission, service date is binding.
-Will: Yes, that's the split. Two little stories. A County Court trial is on 20 June. The summons is served on the witness on 9 June with conduct money, and she stays away without good reason. She can be fined up to £1,000. Now the same summons, served on 16 June, only 4 days before attendance. It's not binding, unless the court directed that later service binds. The deciding fact is the date of service, not the date of issue.
-Hannah: What's conduct money?
-Will: On service, offer or pay conduct money: reasonable travel to and from court, plus compensation for loss of time. Service is by the court, unless the party says it will serve. If the court serves, the party deposits the conduct money with the court. And a summons is available for any witness, including an expert whose report has been served.
-Hannah: And if they ignore it?
-Will: Starred, in two parts. Failure without good reason to obey a properly served summons, where conduct money was paid or tendered, is in the County Court a fine of up to £1,000. In the High Court, disobedience is contempt, punishable by a fine or imprisonment.
-Hannah: Can a witness fight it?
-Will: The court may set aside or vary a summons, for example if the witness cannot give relevant evidence, or it's oppressive, or it's a fishing exercise for documents.
-Hannah: And the statement they've already served, doesn't that do the same job?
-Will: Starred, and it ties back to witness statements. A served witness statement does not compel attendance. If the witness doesn't come, the statement may be used only as hearsay, with reduced weight, unless the court orders otherwise.
-Hannah: And if they genuinely can't come?
-Will: Say they're ill or abroad. Then evidence can be by video link or by deposition before an examiner. A witness abroad may need a letter of request. One rule for solicitors here too. No benefit to a witness may depend on the nature of the evidence or the outcome. Reasonable expenses and loss of time may be paid.
-Hannah: Now the trial itself.
-Will: Claimant's opening, which is often short or dispensed with because the judge has pre-read. Then the claimant's witnesses: examination-in-chief, cross-examination, re-examination. The defendant's witnesses in the same way.
-Hannah: And closing speeches, claimant first, since they started.
-Will: <short pause> No, that's the trap. Defendant first, claimant last. Then judgment.
-Hannah (laughing): <laugh> Fine, fair, caught.
-Will: And that's the look-alike. In a criminal trial, the defence speaks last. In civil, the claimant has the last word.
-Hannah: Civil, claimant last. Criminal, defence last.
-Will: Right: the last word flips. Civil chief is usually brief, because the statement stands. Criminal chief is normally oral, or a video-recorded interview under a special measures direction. Then a submission of no case to answer. In civil proceedings the defendant is normally put to its election. The judge usually hears the submission only if the defendant calls no evidence. If it fails, the case is decided on the claimant's evidence alone.
-Hannah: And criminal?
-Will: Second look-alike. In a criminal trial, the defence may submit no case to answer and still call evidence if it fails.
-Hannah: Civil: choose first. Criminal: submit and carry on.
-Will: Right: civil normally forces the choice, criminal doesn't. Now questioning witnesses. A leading question suggests the answer wanted or assumes a disputed fact, like "The car was speeding, wasn't it?" A non-leading question is open: "What did you see?"
-Hannah: So what's the rule?
-Will: Starred. Your own witness, in chief or in re-examination, on a disputed matter: no leading questions. They're allowed on introductory or undisputed matters. In cross-examination, leading questions are permitted and usual.
-Hannah: And re-examination?
-Will: Only matters arising out of cross-examination. A new matter needs permission.
-Hannah: Anything the cross-examiner has to do?
-Will: You must put your case on every material point you dispute. Unchallenged evidence may be treated as accepted. That's Browne v Dunn, and the rule is flexible, not rigid. So an opponent's account that's disputed but not challenged: challenge it in cross-examination, not first in closing. The court's control over evidence applies here too: it may exclude admissible evidence and limit cross-examination.
-Hannah: What if my own witness turns against me?
-Will: A merely unfavourable own witness: you may not cross-examine them. A witness ruled hostile is different. Starred. That's one unwilling to tell the truth for the party calling them. With permission, you may ask leading questions and put a previous inconsistent statement. In civil proceedings that statement is admissible as evidence of its truth.
-Hannah: Go on, test me.
-Will: Try this one. Dani is a claimant's witness. Her served statement says the defendant's forklift knocked over the racking. In the box she says she "can't really say", and won't look at the claimant's barrister. The barrister wants to read her statement to her and ask, "The forklift knocked over the racking, didn't it?"
-Hannah: So can the barrister do that? Yes, as ordinary cross-examination because she's turned awkward; no, never, because she's their own witness; or yes, but only on a hostile ruling and with permission?
+Hannah (thinking aloud): This is written questions. Once only, to clarify, within the time limit, unless the court allows it or the other side agrees. A challenge isn't clarification, and he wants two rounds. So the middle one.
+Will: Right, and the deciding facts are that he wants to challenge, not clarify, and that he wants a second round. Written questions to another party's expert go once only, for clarification, within 28 days of service of the report, unless the court permits or the other party agrees.
+Hannah (summing up): Expert reports: written, addressed to the court, instructions not privileged. A disclosed report is open to any party; an undisclosed one needs permission. And written questions go once, to clarify, within 28 days.
+Will: Right: disclose it, and anyone can use it. Now the expert you share with the other side.
+## Block 9: Single joint experts
+Will: Single joint experts. One expert reports for all the instructing parties, so instructions are copied and no one meets the expert without the other's consent. A dissatisfied party may put written questions, but its own expert needs permission.
+Hannah: When does it happen?
+Will: Where two or more parties wish to submit expert evidence on a particular issue, the court may direct a single joint expert. If there's no agreement on who, the court selects from the parties' list, or directs another method.
+Hannah: And instructions?
+Will: Each relevant party may instruct the expert, but must send a copy to the other relevant parties at the same time. No meeting or conference with the expert without the other party's consent. All communications with the expert should be copied to all parties.
+Hannah: So a private chat is out.
+Will: Right, that's the trap: no private meeting, and copy all instructions at the same time.
+Hannah: Where does it fit?
+Will: It's the norm on the fast track, unless there's good reason otherwise. It's common for quantum, such as valuation and care. It's less suitable where the issue is central and contentious, for example liability in clinical negligence.
+Hannah: And who pays?
+Will: Fees are starred. The instructing parties are jointly and severally liable, unless the court directs otherwise. The muddle is thinking the fees are split equally. The court may also limit the fees, order payment into court before instruction, and direct inspections or tests.
+Hannah: The look-alike is your own expert, I bet.
+Will: Yes. A party's own expert is privileged, with unilateral contact. A single joint expert means copy all instructions, no meeting without consent. What differs is who appointed the expert.
+Hannah: Own expert: private. Joint expert: copied.
+Will: Right: private against copied. Now, what if you're unhappy with the report? Say the joint valuer has ignored two recent sales on the same street.
+Hannah: I'd ring them up and talk it through.
+Will: Not without the other side's consent. Written questions are the route, the same ones as for another party's expert: once only, to clarify, within 28 days of service of the report, unless the court permits or the other party agrees. The answers form part of the report.
+Hannah: And a second expert?
+Will: Starred. Your own expert only with permission. The reasons must be not fanciful, and it must be just and proportionate. Alternatively, take advice from an adviser expert, usually at your own cost.
+Hannah: So dissatisfaction alone isn't a right to a second expert. Though a concrete reason, like those ignored sales, isn't fanciful.
+Will: Yes, which is why permission may be just and proportionate. But it's still permission. That's the trap. Another starred point: oral cross-examination of a single joint expert is exceptional. And note that no discussion between experts is needed. Discussions and joint statements arise where each party has its own expert, which comes next.
+Hannah (summing up): Single joint expert: copy everything and no private meetings, fees joint and several, written questions in 28 days, and a second expert needs permission.
+Will: Right: and a second expert always needs permission. Now the experts who each have their own side.
+## Block 10: Discussions between experts, oral expert evidence, unfavourable reports
+Will: Expert discussions. Experts narrow the issues in a discussion and sign a joint statement. The statement goes before the court. The discussion does not, unless the parties agree. And their agreement binds a party only if it expressly agrees.
+Hannah: Who sets up the discussion?
+Will: The court may direct a discussion between experts at any stage. The purpose is to identify and discuss the expert issues and, where possible, reach an agreed opinion. The court may specify the issues and direct a joint statement: issues agreed and disagreed, with a summary of reasons for disagreeing.
+Hannah: And do we sit in?
+Will: Parties and lawyers do not attend, unless the court orders it or all parties and experts agree. Lawyers who attend should not normally intervene, except to answer the experts' questions or advise on law. Parties must discuss and, if possible, agree whether an agenda is needed, and if so try to agree one.
+Hannah: And the paperwork afterwards?
+Will: The joint statement is signed by all experts at the end of the discussion or as soon as practicable, and copies then go to the parties. An expert who significantly changes an opinion must explain the change in the joint statement.
+Hannah: Is there anything the solicitor mustn't do here?
+Will: Now the starred point. Experts must not be instructed to avoid or defer agreement on matters within their competence. Such an instruction also breaches the solicitor's duty not to influence the substance of evidence.
+Hannah: Is this like the written questions we had for reports?
+Will: Easy to muddle, so side by side. Written questions clarify one expert's report. They're put once, within 28 days of service, and the answers form part of the report. A discussion narrows the issues and aims at agreement. It happens at any stage, when the court directs, and ends in a joint statement. With a single joint expert there is usually none.
+Hannah: Questions clarify, discussions narrow.
+Will: Right: one clarifies, one narrows. At trial, the joint statement may be used. The content of the discussion behind it may not, unless the parties agree. That's the trap.
+Hannah: And if the experts agree, is the client tied to it?
+Will: Only if it expressly agrees to be bound: an agreement between experts binds the parties only if they expressly agree to be bound. At trial the court may also direct concurrent expert evidence, called hot-tubbing. The experts are questioned together, often led by the judge.
+Hannah: Test me on that.
+Will: Try this one. In a roof-leak dispute, the joint statement records Norvik's own engineer, Tomasz, agreeing the leak started before the builders arrived. Norvik Ltd's managing director is furious. She tells the solicitor that Norvik "is not accepting that", and that the engineer should agree nothing at the next discussion.
+Hannah: So, is Norvik bound by what Tomasz conceded, and can the solicitor pass on that instruction? Bound, and yes, he may pass it on; not bound unless Norvik expressly agreed, and no, he may not; or not bound, and yes, he may pass it on, because it's Norvik's own expert?
 Hannah: <think>
-Hannah (thinking aloud): This is questioning witnesses. She's the barrister's own witness, so it can't be ordinary cross-examination. A leading question on a disputed matter in chief is out. A merely unfavourable witness can't be cross-examined. But a witness ruled hostile can be led, with permission. So the third.
-Will: Right, and the deciding fact is whether she is unwilling to tell the truth for the claimant, or simply unhelpful. If she's merely unfavourable, counsel may not cross-examine her at all. If the judge rules her hostile and gives permission, counsel may ask leading questions and put the statement. In civil proceedings the statement is then admissible as evidence of its truth.
-Hannah: Anything left on the courtroom side?
-Will: Last part of this topic: manners and duties. Etiquette at a formal hearing: stand when the judge enters or leaves and when addressing the court, and don't interrupt the judge or a witness. Opposing counsel is 'my learned friend'. An opposing solicitor is 'my friend'.
-Hannah: Are hearings public?
-Will: As a rule, yes. Private only if it's necessary for justice and a listed ground applies. Four to know. One, publicity would defeat the object. Two, confidential information. Three, protecting a child or protected party. Four, national security. Embarrassment alone is not enough.
-Hannah: Duties of an advocate?
-Will: Four. One, don't mislead the court. Two, make only properly arguable submissions. Three, don't influence witnesses' evidence. Four, don't waste the court's time.
-Hannah: What if the law's against me?
-Will: Then two starred ones. The advocate must draw the court's attention to relevant cases, statutory provisions and procedural irregularities likely to affect the outcome, even if adverse. So if you know of an adverse Court of Appeal decision the opponent has missed, you cite it.
-Hannah (groaning): Even though it hurts.
-Will: Yes, even though it hurts. Second, a client admits evidence they gave is false. You mustn't continue in a way that misleads. Without the client's consent to correct it, you cannot disclose the admission, and you must cease to act.
-Hannah: And a witness mid-evidence?
-Will: A witness part-way through their evidence, including over an adjournment, must not discuss it with anyone, their own lawyers included, until it's finished. The advocate must not confer with them about it.
-Hannah: So at lunch the client-witness asks how to answer tomorrow's question, and the answer is no.
-Will: Yes: the advocate must not confer with a witness about their evidence while they're part-way through it.
-Hannah (summing up): Summonses and trial: a summons compels and a statement doesn't; issue is permission, service is binding; the claimant speaks last; and no leading your own witness on disputed points.
-Will: Right: a summons compels, the claimant speaks last, and no leading your own witness on what's disputed. That's evidence of fact. The experts come next, in their own episode.
+Hannah (thinking aloud): This is expert discussions. An agreement between experts binds a party only if it expressly agrees to be bound, and nothing says Norvik did. And telling an expert to avoid agreement is barred, it's about influencing the substance. So the middle one.
+Will: Right. The deciding facts are that Norvik never expressly agreed to be bound, and that an instruction to withhold or defer agreement is barred. The tempting answer is that a client may steer its own expert. It may not: that instruction breaches the solicitor's duty not to influence the substance of evidence.
+Hannah: And an unfavourable report?
+Will: Last part of the block. A party may ask its expert to correct factual errors or clarify the report. A party may not ask its expert to change a genuinely held opinion.
+Hannah: Two quick stories?
+Will: The report contains a factual error: you may ask the expert to correct it, or clarify. Now the solicitor wants an unhelpful paragraph deleted. That asks the expert to change a genuinely held opinion, which isn't allowed.
+Hannah: So what's the deciding point?
+Will: Whether the request corrects or clarifies, or changes the genuine opinion. And if you're unhappy, you may choose not to rely on the report, subject to the expert-shopping condition we met with disclosure.
+Hannah (summing up): Expert discussions: joint statement yes, discussion contents no, agreement binds only if expressly agreed, and you may ask for factual errors to be corrected but never ask for a genuinely held opinion to be changed.
 ## Recap
-Hannah: All five, in one go?
-Will: Evidence must be relevant, with opinion only from experts or as perceived fact; statements stand as evidence in chief; the witness signs, and affidavits are needed only where required; hearsay is admitted and weighed; summonses compel attendance; and the claimant speaks last at trial.
+Will: Right: the joint statement yes, the discussion no, and you may ask for errors to be corrected but never for a genuine opinion to be changed. That's the five expert topics. Whenever you're stuck, ask which topic you're in.
+Hannah: Permission, duty, reports and questions.
+Will: Yes. And the last two?
+Hannah: Joint expert, and discussions.
+Will: Right. Experts need the court's permission and owe their duty to the court; reports are written, and a disclosed one is open to any party; a single joint expert gets copied instructions; and expert discussions end in a joint statement.
