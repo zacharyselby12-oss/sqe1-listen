@@ -571,12 +571,52 @@
       ],
       "summary": "Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.",
       "madeAt": "2026-10-27T13:47:14+00:00",
-      "status": "queued",
+      "status": "held",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
       "spec": "2.2",
-      "supersedes": "blp-ws07"
+      "supersedes": "blp-ws07",
+      "holdReason": "waits for Zac's OK to record (27 Oct)"
+    },
+    {
+      "id": "dr-ws07-v23-p1",
+      "unitId": "u-bpp-DR-07",
+      "title": "DR WS07 · Evidence of fact (part 1 of 2)",
+      "guideHash": "6c7b00e1c8",
+      "script": "scripts/dr-ws07-v23-p1.txt",
+      "scriptHash": "95519468de5f",
+      "audio": "audio/dr-ws07-v23-p1.mp3",
+      "recap": [
+        "Evidence must be relevant to a fact in issue; relevant evidence can still be excluded, but improperly obtained evidence is generally admitted in civil cases; opinion comes from experts, or from a lay witness only as a way of conveying facts perceived.",
+        "A served witness statement normally stands as evidence in chief; late, unused and unobtainable statements each have their own route.",
+        "The witness signs the statement of truth; an affidavit is the sworn form, needed only where something requires it, and sworn before an independent person.",
+        "Civil hearsay is admissible and weighed; it is excluded only if, and to the extent, the maker is shown not competent when it was made, and missing notice goes to weight and costs.",
+        "A summons compels attendance and a served statement does not; issue timing decides permission, service timing decides binding effect; at trial, your own witness is normally not led on disputed points."
+      ],
+      "map": [
+        "Evidence basics, admissibility and opinion evidence",
+        "Witness statements: use, exchange and time limits",
+        "Form of witness statements; affidavits",
+        "Hearsay and previous convictions",
+        "Witness summonses and trial procedure"
+      ],
+      "summary": "Evidence must be relevant, with opinion only from experts or as perceived fact; statements normally stand as evidence in chief; witnesses sign, with affidavits only where required; civil hearsay is admitted and weighed; summonses compel attendance; and own witnesses normally aren't led on disputed points.",
+      "madeAt": "2026-10-27T14:26:47+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
