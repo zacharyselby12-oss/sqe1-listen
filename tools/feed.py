@@ -181,6 +181,8 @@ def subscribe_page(config, base_url, counts, out):
     for code, name in names.items():
         if code in counts:
             rows.append(block(name, "feeds/%s.xml" % code, counts[code]))
+    for code in sorted(c for c in counts if c != "all" and c not in names):   # a subject not in config's list still gets its show (Zac, 27 Oct)
+        rows.append(block(code, "feeds/%s.xml" % code, counts[code]))
     waiting = [name for code, name in names.items() if code not in counts]
     html = ("<!doctype html><html lang=\"en-GB\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><meta name=\"robots\" content=\"noindex\">"
