@@ -572,12 +572,19 @@
       ],
       "summary": "Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.",
       "madeAt": "2026-10-27T13:47:14+00:00",
-      "status": "queued",
+      "status": "review",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
       "spec": "2.2",
-      "supersedes": "blp-ws07"
+      "supersedes": "blp-ws07",
+      "bytes": 23391676,
+      "seconds": 2924,
+      "words": 7302,
+      "renderedHash": "e9ebaa3b39e1",
+      "renderedAt": "2026-10-27T15:16:18+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws07-v23-71f26c09.mp3"
     },
     {
       "id": "dr-ws07-v23-p1",
