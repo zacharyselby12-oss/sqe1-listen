@@ -493,7 +493,8 @@
       "renderedAt": "2026-10-23T10:46:55+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-6723fe29.mp3",
-      "pubDate": "2026-10-23T10:46:55+00:00"
+      "pubDate": "2026-10-23T10:46:55+00:00",
+      "supersededBy": "dr-ws07-v23-p2"
     },
     {
       "id": "blp-ws07",
@@ -617,6 +618,46 @@
         "b5"
       ],
       "spec": "2.2"
+    },
+    {
+      "id": "dr-ws07-v23-p2",
+      "unitId": "u-bpp-DR-07",
+      "title": "DR WS07 · Expert evidence (part 2 of 2)",
+      "guideHash": "6c7b00e1c8",
+      "script": "scripts/dr-ws07-v23-p2.txt",
+      "scriptHash": "ba14dfcd69ed",
+      "audio": "audio/dr-ws07-v23-p2.mp3",
+      "recap": [
+        "No expert evidence without the court's permission, which covers only the named field or expert; the small claims, fast and intermediate tracks limit it further.",
+        "The expert's duty to the court overrides any duty to whoever instructs or pays them, and there is no immunity from the client's negligence claim.",
+        "Expert evidence is a written report addressed to the court unless the court directs otherwise; instructions are not privileged; a disclosed report can be used by any party; written questions go once, to clarify, within 28 days of service, unless the court permits or the other party agrees.",
+        "A single joint expert gets copied instructions and no private meetings; a dissatisfied party asks written questions, and a second expert needs permission.",
+        "Experts' discussions end in a joint statement the court can see; an agreement binds a party only if it expressly agrees; a party may not ask its expert to change a genuinely held opinion."
+      ],
+      "map": [
+        "Expert evidence: permission, court control and tracks",
+        "Experts' duty to the court and instructions",
+        "Expert reports, exchange and written questions",
+        "Single joint experts",
+        "Discussions between experts, oral expert evidence, unfavourable reports"
+      ],
+      "summary": "Experts need the court's permission and owe their duty to the court; reports are written unless the court directs otherwise, and a disclosed one is open to any party; a single joint expert gets copied instructions; and expert discussions end in a joint statement.",
+      "madeAt": "2026-10-27T14:29:50+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2",
+      "supersedes": "dr-ws07"
     }
   ],
   "replays": [
