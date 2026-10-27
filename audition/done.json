@@ -1,6 +1,6 @@
 {
-  "id": "trial-blp-ws07",
-  "at": "2026-10-26T19:13:07+00:00",
+  "id": "trial-dr-ws07-p2-0053",
+  "at": "2026-10-27T00:54:29+00:00",
   "ok": [
     "1",
     "2",
@@ -15,8 +15,11 @@
     "11",
     "12",
     "E4a",
-    "T-DR-WS07",
-    "T-BLP-WS07"
+    "T-BLP-WS07",
+    "T-Tort-WS04",
+    "T-DR-WS07-P1",
+    "T-DR-WS07-P2"
   ],
-  "failed": []
+  "failed": [],
+  "note": "marked by hand 27 Oct: the four trial renders ran, but a stale quota line in report.json (T-DR-WS07, 26 Oct 20:05) stopped each run saving this file"
 }

@@ -283,17 +283,6 @@
     "audio": "pair-E4a.mp3"
   },
   {
-    "id": "T-DR-WS07",
-    "label": "Trial episode DR-WS07 (podcast spec v2.1), your chosen voices",
-    "ok": false,
-    "voiceIds": {
-      "lead": "voice_7636x92kz2nd",
-      "second": "voice_7hvws5hbx3yt"
-    },
-    "error": "Google's daily limit for speech requests was used up (it resets at 08:00 London)",
-    "quota": "Google's daily limit for speech requests is used up (chunk 4)"
-  },
-  {
     "id": "T-BLP-WS07",
     "label": "Trial episode BLP-WS07 (podcast spec v2.2), your chosen voices",
     "ok": true,

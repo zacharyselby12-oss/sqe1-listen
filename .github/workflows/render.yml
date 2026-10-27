@@ -32,7 +32,7 @@ concurrency:
 jobs:
   check:
     # a scheduled run with nothing waiting stops here: no runner set-up, no deployment
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned: ubuntu-latest moved to Ubuntu 26 and the Pages upload fails there (Zac, 27 Oct 01:03)
     outputs:
       go: ${{ steps.todo.outputs.go }}
     steps:
@@ -50,7 +50,7 @@ jobs:
   render:
     needs: check
     if: needs.check.outputs.go == 'true'
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned: ubuntu-latest moved to Ubuntu 26 and the Pages upload fails there (Zac, 27 Oct 01:03)
     timeout-minutes: 150
     environment:
       name: github-pages
