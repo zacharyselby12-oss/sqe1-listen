@@ -754,13 +754,20 @@
       ],
       "summary": "Agreements for lease, and variations, which make a new lease only if they extend the term or add premises; landlord's risks; tax on the grant; registration; alterations; statutory improvements; user covenants and which covenants statute upgrades; and planning and the Code.",
       "madeAt": "2026-10-27T16:06:35+00:00",
-      "status": "queued",
+      "status": "review",
       "pilot": true,
       "approved": false,
       "checks": "code ok (v2.3); opus x2; changed lines checked and fixed; trial 27 Oct",
       "spec": "2.2",
       "omittedStarred": 0,
-      "banterLines": 0
+      "banterLines": 0,
+      "bytes": 14326398,
+      "seconds": 1791,
+      "words": 4384,
+      "renderedHash": "8659bfc11fe3",
+      "renderedAt": "2026-10-27T16:08:04+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws07-v23-7dcd6f5a.mp3"
     }
   ],
   "replays": [
