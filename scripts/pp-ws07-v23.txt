@@ -1,0 +1,232 @@
+---
+id: pp-ws07-v23
+unit: u-bpp-PP-07
+guide_hash: fd451cecec
+made: 2026-10-27T16:06:35+00:00
+title: Property Practice workshop 7 · Lease structure and content
+map:
+- Agreement for lease and varying a lease
+- Landlord's investment risks
+- SDLT/LTT on the grant
+- Registration of leases
+- Alterations: covenants, improvements, licences
+- Statutory improvements: s.3 LTA 1927
+- User covenants; which covenants statute upgrades
+- Planning and the Code
+recap:
+- An agreement for lease is a land contract, in writing, with all terms, signed by both; a lease needs a deed unless it is up to 3 years, in possession, at best rent and with no premium; a variation is a new lease only if it extends the term or adds premises.
+- Context only, not a rule: void periods, market changes and management costs put a landlord's income at risk.
+- The tenant pays SDLT, or LTT in Wales, on the grant; the return and tax are due within 14 days of the effective date for SDLT, or 30 days for LTT; first-time buyer relief exists for SDLT only, and only if the lease has at least 21 years to run.
+- A lease must be registered if possession starts more than 3 months after grant, whatever its length, or if it is over 7 years; leases of 3 years or less override and cannot be noted; an unregistered registrable lease is only equitable.
+- Alterations turn on the covenant: none, absolute, qualified, or fully qualified; a qualified covenant becomes reasonable only for an improvement judged from the tenant's view, and the landlord may still ask a reasonable sum for loss and, for an improvement not adding letting value, require reinstatement where reasonable.
+- Section 3 lets a business tenant improve despite the lease: notice, 3 months to object, and if the landlord objects, a court certificate, which needs added letting value; if the landlord offers to do the works itself for a reasonable rent increase, the court cannot certify and the tenant need not accept.
+- A qualified user covenant is never made reasonable by statute; the landlord may refuse but, unless structural alterations are involved, may not charge a fine or a rent increase for consent; only some covenants are upgraded by statute.
+- Works or a change of use may need planning permission, which the lease and any licence make the tenant obtain; the Code is good practice, now a RICS standard whose mandatory parts bind only RICS members and regulated firms.
+summary: Agreements for lease, and variations, which make a new lease only if they extend the term or add premises; landlord's risks; tax on the grant; registration; alterations; statutory improvements; user covenants and which covenants statute upgrades; and planning and the Code.
+invented:
+- Priya
+- Harbour Row
+- Brindle Properties Ltd
+- Colm
+- Ashby Estates Ltd
+- Fatima
+- Meera
+- 25 years
+- 15 years
+- 5 years
+- 6 months
+- £6,000
+- £4,000
+---
+## Map
+Will (brisk): Right, lease structure and content. Eight topics. First, agreeing a lease now to grant it later, and varying a lease once it exists. Then a short one on the landlord's risks. Then the tax on the grant.
+Hannah: So: agreement and variation, the landlord's risks, the tax.
+Will: Yes. Next, registration of leases. Then alterations, and the statutory route to make improvements.
+Hannah (pleased): Registration, alterations, statutory improvements. Three more.
+Will: Right. Last two. User covenants, with which covenants the statute upgrades. And planning, with the Code.
+Hannah: User covenants and upgrades, then planning and the Code. Eight topics. I can hold that.
+## Block 1: Agreement for lease and varying a lease
+Will: Right: eight topics. Agreement for lease and varying a lease come first. Use an agreement when the grant has to wait. And once a lease exists, extending the term or adding premises creates a new lease, while other changes do not.
+Hannah: Why would a grant have to wait?
+Will: Building works that must finish first, say. The agreed lease is annexed to the agreement, and it is granted later by deed.
+Hannah: So the agreement is a contract about land?
+Will: Yes, a land contract. It must be in writing, contain all the terms, and be signed by both parties.
+Hannah: And if the landlord sells before the grant happens?
+Will: That is why you protect it. In registered land, by a notice. In unregistered land, by a C(iv) land charge. Without that, the agreement may not bind a buyer of the reversion.
+Hannah: What about the lease itself? Always a deed?
+Will: Starred. A legal lease needs a deed, with one exception. The exception has four conditions. One, the lease is for up to 3 years. Two, it takes effect in possession.
+Hannah: And the other two?
+Will: Three, at best rent. Four, no premium. All four together, and the lease is legal without a deed. Miss any one, and it needs a deed.
+Hannah: So a lease of 3 years that took a premium needs a deed.
+Will: Right: the premium alone takes it outside the exception. Now varying a lease. Two tests. One, the variation extends the term or adds to the demised premises. Then it operates as a surrender and regrant of a new lease.
+Hannah: And two?
+Will: Any other variation, including a rent increase. That is a mere variation, and the existing lease continues.
+Hannah: Show me.
+Will: Say a deed adds an adjoining storeroom to the demised premises. That is a surrender and regrant. Now a deed that only raises the rent. Mere variation, and the lease continues. The deciding fact is whether the term was extended or premises were added.
+Hannah: So the storeroom makes a new lease and the rent rise does not.
+Will: Right. And a regrant is a new lease, so the statutory new-lease covenant rules may apply to it. A common slip is to think the term and the extent of the demise cannot be varied at all. They can be. It is extending the term or adding premises that operates as a surrender and regrant.
+Hannah: What's the look-alike here?
+Will: The agreement and the lease itself. The agreement is only a contract to grant. The lease is the grant, by deed unless it fits the short exception. What tells them apart is whether the lease has actually been granted yet.
+Hannah (summing up): Agreement, then: it is a land contract in writing with all terms, signed by both, and protected by a notice or a C(iv) charge; a lease needs a deed unless all four conditions are met; and a variation makes a new lease only if it extends the term or adds premises.
+Will: Right: a rent rise alone does not. Next, a short one: the landlord's side of things.
+## Block 2: Landlord's investment risks
+Will: Landlord's investment risks. This is context, not a rule of law. Void periods, market changes and management costs all put a landlord's income at risk.
+Hannah: Three risks. Is there a test attached to them?
+Will: None. It is context only, not a rule.
+Hannah (summing up): Landlord's risks, then: context rather than a rule, and the three risks are void periods, market changes and management costs.
+Will: Yes. Now to money at the point of grant: the tax.
+## Block 3: SDLT/LTT on the grant
+Will: Tax on the grant: SDLT, and LTT in Wales. The tenant pays it on the grant. Only SDLT has first-time buyer relief.
+Hannah: What is it calculated on?
+Will: It depends on the lease. A residential long lease at a premium is calculated like a freehold. A commercial lease at a rent uses the premium plus the net present value of the rent.
+Hannah: And when is it due?
+Will: Starred. SDLT return and tax are due within 14 days. That runs from the effective date, which is usually completion. For LTT, the return and tax are due within 30 days. That also runs from the effective date.
+Hannah: Is there any relief?
+Will: Starred. SDLT first-time buyer relief can apply to a lease just as to a freehold. But only if the lease has at least 21 years to run.
+Hannah: And in Wales?
+Will: Also starred. LTT has no first-time buyer relief at all. That relief exists for SDLT only.
+Hannah: So "no relief on leaseholds" is wrong.
+Will: Right: a long enough lease can get SDLT relief. It is only LTT that has none. Picture a first-time buyer taking a lease with 25 years to run. SDLT relief can apply. Same buyer, a lease with 15 years to run: no relief. And the same 25-year lease in Wales: LTT, and still no relief.
+Hannah: What's the look-alike?
+Will: SDLT and LTT. Same job, different country. What tells them apart is where the land is: SDLT has 14 days and a possible relief, LTT has 30 days and none.
+Hannah (summing up): Tax on the grant, then: the tenant pays SDLT, or LTT in Wales; the return and tax are due within 14 days of the effective date for SDLT, or 30 days for LTT; relief only for SDLT, and only for a lease with at least 21 years to run.
+Will: Right. Next, registration: whether the tenant's lease is legal or only equitable.
+## Block 4: Registration of leases
+Will: Registration of leases. Where registration is required, it makes the lease legal. Unregistered, it is only equitable, though on registered land actual occupation may still protect it. Four tests, taken in order. Test one is the delay. If possession starts more than 3 months after grant, the lease must be registered. That is whatever its length.
+Hannah: Even a very short lease?
+Will: Even a short one, if possession is deferred that far. Test two is length. The figure is more than 7 years. Over that, the lease is registered with its own title, and it is noted on the landlord's title.
+Hannah: And the middle?
+Will: Test three: over 3 years, up to 7. It overrides, so it binds a buyer without being registered, and it may also be protected by a notice. Test four: 3 years or less. It overrides too, but it cannot be protected by a notice.
+Hannah: So where does the notice stop being possible?
+Will: At 3 years or less. Now the special shorter leases. There are three kinds. Reversionary leases, where possession is deferred over 3 months. Discontinuous leases. And right-to-buy leases.
+Hannah: What else is registered with its own title?
+Will: Two groups. Estates: the freehold, a lease with over 7 years to run, and special shorter leases. Rights: a rentcharge, a franchise, and a profit à prendre in gross. An easement appurtenant is not a separate title. It is entered on the dominant and servient titles.
+Hannah: And if a registrable lease is not registered?
+Will: Starred. It takes effect only in equity, and the legal estate does not pass. Also starred: an unregistered registrable lease cannot override as a short lease, but it may override through actual occupation.
+Hannah: Give me both sides.
+Will: Say a 6-year lease is to start in possession 4 months after grant. It must be registered. Unregistered, it is only equitable and cannot override as a short lease. Now a 6-year lease by deed, in possession at once. It overrides as a short lease, and it may also be noted. The deciding fact is a term over 7 years, or possession deferred more than 3 months.
+Hannah: I'd have said 21 years was the threshold.
+Will: Careful, that is the trap. Not 21 years: that was the registration threshold under the old law. Use 7 years, and the delay of 3 months.
+Hannah: Show me one.
+Will: Try this one. The test is registration: must the lease be registered, and what if it is not? Priya takes a 5-year lease of a unit on Harbour Row from Brindle Properties Ltd. The lease is granted now, but it says Priya's possession starts 6 months from today. Nobody applies to register it.
+Hannah: So: registered because possession is deferred, and only equitable if not; no registration, as a 5-year lease overrides; or registration only for a lease over 7 years?
+Hannah: <think>
+Hannah (thinking aloud): This is registration. The term is short, but the delay catches it: possession starts more than 3 months after grant, so it must be registered whatever its length. Unregistered, the legal estate does not pass. First option.
+Will: Right, and the deciding fact is the deferred possession, not the term. Unregistered, it is only equitable, and it cannot override as a short lease.
+Hannah: Is there anything before completion?
+Will: Starred. A landlord's mortgage excludes the statutory leasing power. So get the lender's consent, or the lender can take possession free of the lease. Also, search the landlord's title for priority before completion.
+Hannah: Is there a deadline to apply?
+Will: On a registered title, no deadline. But an application within the priority period takes priority over entries made during it. The figure is 30 working days. Those are working days, not the 30 days that LTT allows.
+Hannah: And applying?
+Will: Apply on AP1 if the landlord's title is registered, or FR1 if it is unregistered, with a certified copy of the lease. Electronic is acceptable. If the landlord's title is charged, send the lender's letter of consent with the application.
+Hannah: Anything the registry will bounce?
+Will: Yes. The application must include the SDLT5 certificate, or the WRA certificate for LTT, or the Land Registry rejects it. After registration, the tenant receives official copies of the new leasehold title and the updated landlord's title.
+Hannah: And a company tenant? Does it register the lease at Companies House?
+Will: No. A tenant company taking a lease registers nothing at Companies House. Only charges are registered there. A charge is registered within 21 days.
+Hannah: Is the look-alike the two applications?
+Will: Yes. If the landlord's title is registered, it is AP1, with no deadline, only the priority period. If it is unregistered, it is FR1. Starred. A lease over 7 years needs FR1. The limit is 2 months from completion. Otherwise it is void at law, and takes effect only as a contract. What tells them apart is whether the landlord's title is registered.
+Hannah: So on a registered title the 30 working days only buys priority, while on an unregistered title it is 2 months or void at law.
+Will: Right: priority on the registered title, and the legal estate itself on the unregistered one.
+Hannah (summing up): Registration, then: a lease must be registered if possession is deferred more than 3 months, or if it is over 7 years; 3 years or less overrides and cannot be noted; an unregistered registrable lease is only equitable; and with a mortgaged landlord, get the lender's consent first.
+Will: Right. Next, what the tenant may do to the premises: alterations.
+## Block 5: Alterations: covenants, improvements, licences
+Will: Alterations: covenants, improvements and licences. The key point is that section 19(2) helps only under a qualified covenant, and only for improvements judged from the tenant's view. First, the lease decides three things. Which works are permitted: internal, external or structural. Whether consent is needed. And what reinstatement is required.
+Hannah: And the covenant itself?
+Will: Five situations. One, no covenant. The tenant is free, subject to the doctrine of waste, meaning no damage to the reversion, and to other covenants, such as repair. Two, an absolute covenant: works are prohibited.
+Hannah: So never?
+Will: The landlord need not consider a request, but may choose to agree. Otherwise section 3 may help, but only a business tenant, and only for an improvement. That is the next topic.
+Hannah: Three?
+Will: Three, a qualified covenant: consent is needed, and the landlord may refuse freely, unless the works are an improvement. Four, a qualified covenant and the works are an improvement: consent is not to be unreasonably withheld, despite any contrary term. That is section 19(2).
+Hannah: And five?
+Will: Five, the covenant is expressly fully qualified. The landlord must not unreasonably withhold consent.
+Hannah: So an improvement lifts a plain qualified covenant up to the fully qualified standard.
+Will: Right, but only for an improvement. Starred: an improvement is judged from the tenant's view, even if the works lower the value of the landlord's property.
+Hannah: Even if the landlord ends up worse off?
+Will: Even then. Say a tenant under a qualified covenant fits a mezzanine floor that suits the business but lowers the value of the landlord's adjoining unit. It is still an improvement, so consent is not to be unreasonably withheld. Now the trap. Do not ask whether the works add to letting value. That condition belongs to a section 3 certificate, not to the section 19(2) improvement test.
+Hannah: Can the landlord still ask for anything under step four?
+Will: Two things. One, a reasonable sum for damage or lost value to the premises or the landlord's neighbouring premises, plus legal and other expenses. Two, for an improvement that does not add to letting value, an undertaking to reinstate, where reasonable.
+Hannah: And a qualified covenant where the works are not an improvement?
+Will: Then there is no upgrade, and the landlord may refuse freely. A common slip is to think a qualified alterations covenant always becomes fully qualified. It only does so for improvements, judged from the tenant's view.
+Hannah: The statutory duties a landlord has when asked to consent to assigning: do they reach alterations too?
+Will: Starred, and no. Those statutory duties cover only assigning, underletting, charging and parting with possession. They give nothing on alterations consent.
+Hannah: What does a typical lease do?
+Will: Structural works are usually absolute. Non-structural works are usually qualified. Demountable partitions are often allowed without consent.
+Hannah: And the licence for alterations?
+Will: It allows approved works only. They must be done within a time limit, to a good standard, with the planning and building regulations consents. It also makes the tenant pay the landlord's costs, such as surveyors and solicitors. And the tenant must reinstate at the end if required.
+Hannah: Which two things get muddled here?
+Will: Section 19(2) and section 3. Both concern improvements, but the tests differ. Section 19(2) judges the improvement from the tenant's view, with no need for added letting value. A section 3 certificate does need added letting value. What tells them apart is which route the tenant is on.
+Hannah (summing up): Alterations, then: five situations; a qualified covenant becomes reasonable only for an improvement judged from the tenant's view; and the landlord may then still ask a reasonable sum for loss, plus expenses, and, for an improvement not adding to letting value, an undertaking to reinstate where reasonable.
+Will: Right. Try this one. The test is the alterations covenant: can the landlord refuse freely? Colm's lease of a workshop from Ashby Estates Ltd has a qualified covenant against alterations. He wants a new loading ramp at the front. It suits his business, but it lowers the value of the landlord's neighbouring unit. Ashby Estates Ltd refuses outright, saying the covenant is only qualified.
+Hannah: So: it can refuse freely because the covenant is only qualified; it must not unreasonably withhold consent, though it may charge for the lost value; or the ramp is not an improvement at all?
+Hannah: <think>
+Hannah (thinking aloud): This is alterations under a qualified covenant. An improvement is judged from the tenant's view, even if the landlord's property loses value. So the ramp is an improvement, consent can't be unreasonably withheld, and the landlord may ask for a reasonable sum. The middle one.
+Will: Right, and the deciding fact is the tenant's view. The loss to the neighbouring unit does not stop it being an improvement. It only lets the landlord ask a reasonable sum for that loss, plus expenses. Next, the statutory route round an absolute covenant.
+## Block 6: Statutory improvements: s.3 LTA 1927
+Will: Statutory improvements: section 3. It is a business tenant's route to improve despite the lease. It overrides even an absolute covenant. But if the landlord objects in time, the tenant needs the court's certificate, and the court may certify only if, among other things, the works add to letting value.
+Hannah: How does it run?
+Will: Seven steps. One, the business tenant serves notice of the intention to make the improvement, with plans, on the landlord. Two, the time limit. The landlord has 3 months from the notice to object. No objection, and the tenant may proceed.
+Hannah: And if the landlord objects?
+Will: Three, the court may certify the improvement as proper. Four, the court must be satisfied that it adds to letting value at the end of the lease.
+Hannah: Is that all the court looks at?
+Will: Two more. Five, the improvement must also be reasonable and suited to the property's character. Six, it must not diminish the value of the landlord's or a superior landlord's other property.
+Hannah: And the last step?
+Will: Seven. Certified or unopposed works may proceed despite anything in the lease.
+Hannah: So the 3 months start when the court gives permission?
+Will: Careful: they run from the tenant's notice, not from any court permission. If the landlord objects, the tenant needs the court's certificate.
+Hannah: Can the landlord head it off?
+Will: Starred. If the landlord offers to do the works itself for a reasonable rent increase, the court cannot certify, and the tenant need not accept. And if the landlord fails to carry out works it undertook, the court may then certify on the tenant's application.
+Hannah: Is it only for business tenants?
+Will: Yes: business premises only, not residential lettings. And a trap. Do not say that consent is not to be unreasonably withheld under an absolute covenant. Section 19(2) implies that into qualified covenants only.
+Hannah: Section 3 and section 19(2) both talk about improvements. How do I tell them apart?
+Will: Say a tenant under an absolute covenant serves notice for a section 3 improvement, and the landlord objects in time. The works would not raise the letting value at the end of the term, so there is no certificate. Now works under a qualified covenant that suit the tenant but lower the value of the landlord's adjoining unit. That is still an improvement under section 19(2), and the landlord may ask a reasonable sum for the loss. The deciding fact is that section 3 needs added letting value, while section 19(2) judges the improvement from the tenant's view.
+Hannah: So if the landlord objects, section 3 needs added letting value, and section 19(2) does not.
+Will: Right: that is the whole contrast. Try this one. The test is section 3: can the court certify? Fatima is a business tenant with an absolute covenant against alterations. She serves her notice with plans. Brindle Properties Ltd objects in time. It then offers to carry out the works itself, for a rent increase of £6,000 a year that is reasonable. Fatima would rather do them herself.
+Hannah: So: no certificate, and she need not accept; a certificate, because the works add letting value; or a certificate, because section 3 overrides an absolute covenant?
+Hannah: <think>
+Hannah (thinking aloud): This is section 3. The landlord objected in time, but then offered to do the works itself for a reasonable rent increase. In that case the court cannot certify, and the tenant need not accept. The first one.
+Will: Right, and the deciding fact is the landlord's offer to do the works itself for a reasonable rent increase. That stops certification, and Fatima need not accept it. Next, the covenants about what the premises are used for.
+## Block 7: User covenants; which covenants statute upgrades
+Will: User covenants, and which covenants the statute upgrades. The key point is that no statute makes a qualified user covenant reasonable. The landlord may refuse, though without structural alterations, section 19(3) limits what it may charge.
+Hannah: What is a user covenant?
+Will: It says what the premises may be used for. There are three kinds. Specific, such as a food shop. General, such as retail. Or defined by use class.
+Hannah: Does it matter how narrow it is?
+Will: Starred. A narrow user covenant usually lowers the reviewed rent, because the hypothetical lease is on the actual terms except rent.
+Hannah: Four situations again?
+Will: Four, yes. One, no user covenant. Any use is allowed, subject to the general law and the other covenants. The general law covers planning, nuisance and restrictive covenants on the title. Two, an absolute covenant: change of use is prohibited.
+Hannah: And qualified?
+Will: Three, a qualified covenant. Consent is needed, there is no implied reasonableness, and there is no fine or rent increase unless structural alterations are involved. Four, a fully qualified covenant: consent is not to be unreasonably withheld.
+Hannah: So the landlord can refuse a qualified change outright, but cannot charge a rent increase for saying yes.
+Will: Right, unless structural alterations are involved. Say a tenant changes an antique clock shop into a café, with no structural works. A rent increase for consent is barred, but the landlord may still refuse outright. Now a change that needs structural alterations. Section 19(3) does not apply. The deciding fact is whether the change of use involves structural alteration.
+Hannah: Can the landlord charge anything at all?
+Will: Under a qualified user covenant, with no structural alterations, it may still require two things. A reasonable sum for damage or lost value to the premises or the landlord's neighbouring premises. And its legal and other expenses. If a court has fixed that sum as reasonable, the landlord must consent on payment of it.
+Hannah: Now, which covenants does the statute upgrade?
+Will: Four kinds of covenant. First, alterations that are improvements. Reasonableness is implied by section 19(2), and the landlord may charge a reasonable sum for damage or loss in value, plus expenses. Second, alterations that are not improvements. No reasonableness is implied, and there is no statutory limit on what the landlord may ask.
+Hannah: And user, and the rest?
+Will: Third, user. No reasonableness is implied. There is no fine or rent increase unless structural alterations. The landlord may require the reasonable sum and expenses, and must consent once a court-fixed sum is paid. Fourth, assigning and similar dealings. Reasonableness is implied. The landlord can charge no fine unless the lease expressly allows one, but may charge reasonable expenses.
+Hannah: Is there any carve-out for assignment?
+Will: Yes, and it turns on a date. The date is 1 January 1996. In a non-residential lease granted from then, and not under an earlier agreement, refusing assignment in pre-agreed circumstances, or consenting on pre-agreed conditions, is not unreasonable. That is section 19(1A).
+Hannah: And if the pre-agreed test is left to the landlord's own judgment?
+Will: Then it counts only if the landlord must act reasonably, or there is independent review.
+Hannah: Which two are easiest to muddle?
+Will: Alterations that are improvements, and change of use. Both look as though they should get reasonableness. Only the improvement does. A change of use gets no implied reasonableness, only a limit on fines and rent increases. What tells them apart is whether the works are an improvement or the covenant is about use.
+Hannah (summing up): User covenants, then: no statute makes a qualified user covenant reasonable; the landlord may refuse, but without structural alterations it cannot charge a fine or rent increase; and of the four kinds of covenant, only improvement alterations and assignment-type covenants get reasonableness implied, with a carve-out for pre-agreed grounds or conditions in non-residential leases granted from 1 January 1996, not under an earlier agreement.
+Will: Right. Try this one. The test is a qualified user covenant: what may the landlord demand as the price of consent? Meera's lease from Brindle Properties Ltd has a qualified user covenant. She wants to change her florist's shop into a bakery, with no structural works. Brindle Properties Ltd says yes, but for an extra £4,000 a year in rent and its legal expenses.
+Hannah: So may it demand both the rent increase and the expenses; the expenses only; or neither?
+Hannah: <think>
+Hannah (thinking aloud): This is user covenants. It's qualified and there are no structural works, so no fine or rent increase. The landlord can still ask for its expenses. So the expenses only.
+Will: Right, and the deciding fact is that there are no structural works. The rent increase is barred, the expenses are allowed, and the landlord could still have refused outright. Next, planning, and the Code.
+## Block 8: Planning and the Code
+Will: Planning and the Code. Works or a new use may need planning permission, and the lease and any licence make the tenant obtain it. The Code then adds good practice.
+Hannah: What else does the lease require?
+Will: The lease and the licence require compliance with planning, to avoid enforcement action. Now the Code, which is good practice. It says to restrict alterations and change of use only as far as necessary to protect the value of the premises and the landlord's neighbouring premises.
+Hannah: Anything specific on alterations?
+Will: Two points. First, internal non-structural alterations. On a lease of part, the covenant should be at least fully qualified. On a lease of the whole, they are allowed without consent. Second, reinstatement. Requirements go in the heads of terms. Otherwise, require reinstatement only where reasonable.
+Hannah: Is the Code law?
+Will: It is good practice, but it is now an RICS professional standard. Its mandatory parts bind only RICS members and regulated firms.
+Hannah: What's easy to muddle?
+Will: Lease of part against lease of the whole under the Code. For internal non-structural alterations, the Code says a lease of a whole building should allow them without consent, while a lease of one floor should make the covenant at least fully qualified. What tells them apart is whether the lease is of part or of the whole.
+Hannah (summing up): Planning and the Code, then: works or a use change may need planning permission, which the lease and any licence make the tenant obtain; the Code is good practice, though now an RICS standard, binding only RICS members and regulated firms through its mandatory parts.
+Will: Right. That is the structure and content of a commercial lease.
+## Recap
+Hannah: All eight, in one go?
+Will: Agreements for lease, and variations, which make a new lease only if they extend the term or add premises; landlord's risks; tax on the grant; registration; alterations; statutory improvements; user covenants and which covenants statute upgrades; and planning and the Code.

@@ -723,6 +723,44 @@
       "renderedAt": "2026-10-27T15:59:18+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws04-v23-cf429141.mp3"
+    },
+    {
+      "id": "pp-ws07-v23",
+      "unitId": "u-bpp-PP-07",
+      "title": "Property Practice workshop 7 · Lease structure and content",
+      "guideHash": "fd451cecec",
+      "script": "scripts/pp-ws07-v23.txt",
+      "scriptHash": "8659bfc11fe3",
+      "audio": "audio/pp-ws07-v23.mp3",
+      "recap": [
+        "An agreement for lease is a land contract, in writing, with all terms, signed by both; a lease needs a deed unless it is up to 3 years, in possession, at best rent and with no premium; a variation is a new lease only if it extends the term or adds premises.",
+        "Context only, not a rule: void periods, market changes and management costs put a landlord's income at risk.",
+        "The tenant pays SDLT, or LTT in Wales, on the grant; the return and tax are due within 14 days of the effective date for SDLT, or 30 days for LTT; first-time buyer relief exists for SDLT only, and only if the lease has at least 21 years to run.",
+        "A lease must be registered if possession starts more than 3 months after grant, whatever its length, or if it is over 7 years; leases of 3 years or less override and cannot be noted; an unregistered registrable lease is only equitable.",
+        "Alterations turn on the covenant: none, absolute, qualified, or fully qualified; a qualified covenant becomes reasonable only for an improvement judged from the tenant's view, and the landlord may still ask a reasonable sum for loss and, for an improvement not adding letting value, require reinstatement where reasonable.",
+        "Section 3 lets a business tenant improve despite the lease: notice, 3 months to object, and if the landlord objects, a court certificate, which needs added letting value; if the landlord offers to do the works itself for a reasonable rent increase, the court cannot certify and the tenant need not accept.",
+        "A qualified user covenant is never made reasonable by statute; the landlord may refuse but, unless structural alterations are involved, may not charge a fine or a rent increase for consent; only some covenants are upgraded by statute.",
+        "Works or a change of use may need planning permission, which the lease and any licence make the tenant obtain; the Code is good practice, now a RICS standard whose mandatory parts bind only RICS members and regulated firms."
+      ],
+      "map": [
+        "Agreement for lease and varying a lease",
+        "Landlord's investment risks",
+        "SDLT/LTT on the grant",
+        "Registration of leases",
+        "Alterations: covenants, improvements, licences",
+        "Statutory improvements: s.3 LTA 1927",
+        "User covenants; which covenants statute upgrades",
+        "Planning and the Code"
+      ],
+      "summary": "Agreements for lease, and variations, which make a new lease only if they extend the term or add premises; landlord's risks; tax on the grant; registration; alterations; statutory improvements; user covenants and which covenants statute upgrades; and planning and the Code.",
+      "madeAt": "2026-10-27T16:06:35+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok (v2.3); opus x2; changed lines checked and fixed; trial 27 Oct",
+      "spec": "2.2",
+      "omittedStarred": 0,
+      "banterLines": 0
     }
   ],
   "replays": [
