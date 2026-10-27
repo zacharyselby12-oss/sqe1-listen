@@ -480,7 +480,7 @@
       ],
       "summary": "Civil hearsay is admissible and weighed, experts owe their duty to the court, joint experts mean no private meetings, witnesses sign statements, a summons binds only if served at least 7 days before attendance unless the court directs otherwise, and the defendant closes first.",
       "madeAt": "2026-10-23T10:45:54+00:00",
-      "status": "published",
+      "status": "superseded",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes)",
@@ -522,7 +522,7 @@
       ],
       "summary": "Choose loan or shares on control, tax and cash flow, refuse evasion, get the profits, rate and payment dates right, watch buybacks and loans to shareholders, and check VAT through supply, registration and the tax point.",
       "madeAt": "2026-10-23T14:16:29+00:00",
-      "status": "published",
+      "status": "superseded",
       "pilot": false,
       "approved": false,
       "checks": "code ok; opus pass x2 (fix round: yes; second verify: yes)",
@@ -572,7 +572,7 @@
       ],
       "summary": "Corporation tax and when it is paid, income profits and capital allowances, chargeable gains and the substantial shareholding exemption, rollover relief, loss relief, close companies, VAT scope and registration, VAT output and input tax, distributions, buybacks and liquidations, then general anti-avoidance and evasion.",
       "madeAt": "2026-10-27T13:47:14+00:00",
-      "status": "review",
+      "status": "published",
       "pilot": true,
       "approved": true,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -584,7 +584,8 @@
       "renderedHash": "e9ebaa3b39e1",
       "renderedAt": "2026-10-27T15:16:18+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws07-v23-71f26c09.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws07-v23-71f26c09.mp3",
+      "pubDate": "2026-10-27T17:19:39+00:00"
     },
     {
       "id": "dr-ws07-v23-p1",
@@ -610,7 +611,7 @@
       ],
       "summary": "Evidence must be relevant, with opinion only from experts or as perceived fact; statements normally stand as evidence in chief; witnesses sign, with affidavits only where required; civil hearsay is admitted and weighed; summonses compel attendance; and own witnesses normally aren't led on disputed points.",
       "madeAt": "2026-10-27T14:26:47+00:00",
-      "status": "review",
+      "status": "published",
       "pilot": true,
       "approved": true,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -630,7 +631,8 @@
       "renderedHash": "95519468de5f",
       "renderedAt": "2026-10-27T14:55:00+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p1-680807e1.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p1-680807e1.mp3",
+      "pubDate": "2026-10-27T17:19:39+00:00"
     },
     {
       "id": "dr-ws07-v23-p2",
@@ -656,7 +658,7 @@
       ],
       "summary": "Experts need the court's permission and owe their duty to the court; reports are written unless the court directs otherwise, and a disclosed one is open to any party; a single joint expert gets copied instructions; and expert discussions end in a joint statement.",
       "madeAt": "2026-10-27T14:29:50+00:00",
-      "status": "review",
+      "status": "published",
       "pilot": true,
       "approved": true,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -677,7 +679,8 @@
       "renderedHash": "ba14dfcd69ed",
       "renderedAt": "2026-10-27T14:55:00+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p2-811ccf33.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p2-811ccf33.mp3",
+      "pubDate": "2026-10-27T17:19:39+00:00"
     },
     {
       "id": "tort-ws04-v23",
@@ -709,7 +712,7 @@
       ],
       "summary": "Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.",
       "madeAt": "2026-10-27T15:23:06+00:00",
-      "status": "review",
+      "status": "published",
       "pilot": true,
       "approved": true,
       "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
@@ -722,7 +725,8 @@
       "renderedHash": "9368783ca022",
       "renderedAt": "2026-10-27T15:59:18+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws04-v23-cf429141.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws04-v23-cf429141.mp3",
+      "pubDate": "2026-10-27T17:19:39+00:00"
     },
     {
       "id": "pp-ws07-v23",
@@ -754,7 +758,7 @@
       ],
       "summary": "Agreements for lease, and variations, which make a new lease only if they extend the term or add premises; landlord's risks; tax on the grant; registration; alterations; statutory improvements; user covenants and which covenants statute upgrades; and planning and the Code.",
       "madeAt": "2026-10-27T16:06:35+00:00",
-      "status": "review",
+      "status": "published",
       "pilot": true,
       "approved": true,
       "checks": "code ok (v2.3); opus x2; changed lines checked and fixed; trial 27 Oct",
@@ -767,7 +771,8 @@
       "renderedHash": "8659bfc11fe3",
       "renderedAt": "2026-10-27T16:08:04+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws07-v23-7dcd6f5a.mp3"
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws07-v23-7dcd6f5a.mp3",
+      "pubDate": "2026-10-27T17:19:39+00:00"
     }
   ],
   "replays": [
