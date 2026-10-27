@@ -63,11 +63,38 @@ jobs:
           python-version: "3.12"
           cache: pip
 
+      # ffmpeg: from this repo's cache when it can be (a few seconds), not from Ubuntu's servers, which once took 35 minutes
+      # (27 Oct, Tort WS04). On a cache miss, or if the cached packages don't fit the runner any more, it falls back to apt.
+      - name: Bring back the ffmpeg packages
+        id: ffc
+        uses: actions/cache/restore@v4
+        with:
+          path: ~/apt-ffmpeg
+          key: apt-ffmpeg-ubuntu-24.04-v1
+
       - name: Install ffmpeg and Python packages
+        id: ffi
         run: |
-          sudo apt-get update -qq
-          sudo apt-get install -y -qq ffmpeg
+          if command -v ffmpeg >/dev/null && ffmpeg -hide_banner -encoders 2>/dev/null | grep -q libmp3lame && command -v ffprobe >/dev/null; then
+            echo "ffmpeg already on the runner"
+          elif [ "${{ steps.ffc.outputs.cache-hit }}" = "true" ] && ls ~/apt-ffmpeg/*.deb >/dev/null 2>&1 \
+               && sudo dpkg -i ~/apt-ffmpeg/*.deb >/dev/null 2>&1 && ffmpeg -version >/dev/null 2>&1; then
+            echo "ffmpeg from the cache"
+          else
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq -f ffmpeg
+            mkdir -p ~/apt-ffmpeg && cp /var/cache/apt/archives/*.deb ~/apt-ffmpeg/ 2>/dev/null || true
+            if ls ~/apt-ffmpeg/*.deb >/dev/null 2>&1; then echo "save=true" >> "$GITHUB_OUTPUT"; fi
+          fi
+          ffmpeg -hide_banner -encoders 2>/dev/null | grep -q libmp3lame   # the encoder the episodes need
           pip install -r requirements.txt
+
+      - name: Keep the ffmpeg packages for the next run
+        if: steps.ffi.outputs.save == 'true' && steps.ffc.outputs.cache-hit != 'true'
+        uses: actions/cache/save@v4
+        with:
+          path: ~/apt-ffmpeg
+          key: apt-ffmpeg-ubuntu-24.04-v1
 
       - name: Bring back chunks made by earlier runs
         uses: actions/cache/restore@v4
