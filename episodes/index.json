@@ -678,6 +678,44 @@
       "renderedAt": "2026-10-27T14:55:00+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-v23-p2-811ccf33.mp3"
+    },
+    {
+      "id": "tort-ws04-v23",
+      "unitId": "u-bpp-Tort-04",
+      "title": "Tort WS04 · Remoteness, defences and remedies",
+      "guideHash": "e0f735afe9",
+      "script": "scripts/tort-ws04-v23.txt",
+      "scriptHash": "9368783ca022",
+      "audio": "audio/tort-ws04-v23.mp3",
+      "recap": [
+        "Remoteness: D is liable for the reasonably foreseeable kind of harm, judged at the time of breach and usually described broadly, however it happened and however bad it was.",
+        "Consent: a complete defence, but it normally fails for an employee who merely knew of the danger, a rescuer under a duty and the very act, and always for a car passenger.",
+        "Contributory negligence: a partial defence, never 100 per cent, with standard figures for seatbelts and helmets that depend on how much difference the belt or helmet would have made.",
+        "Illegality: a complete defence; an incidental crime does not bar the claim, but injury that is a foreseeable risk of a joint criminal enterprise is barred.",
+        "Remedies: restore the pre-tort position, normally as one lump sum, and C must mitigate.",
+        "Personal injury damages: special and general damages, Ogden multipliers for continuing future loss, and no recovery for a defendant's unpaid care.",
+        "Deductions: benefits come off like for like and never off PSLA; own accident insurance, ill-health or disability pensions and charitable payments or gifts stay.",
+        "Claims on death: the estate's losses up to death, listed dependants' lost reasonable expectation of financial benefit where the deceased could have sued, and a fixed bereavement award for a few people only."
+      ],
+      "map": [
+        "Remoteness of damage",
+        "Consent (volenti non fit injuria)",
+        "Contributory negligence",
+        "Illegality",
+        "Remedies and the aim of damages",
+        "Personal injury damages: heads and calculation",
+        "Deductions from damages",
+        "Claims on death (estate and dependants)"
+      ],
+      "summary": "Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.",
+      "madeAt": "2026-10-27T15:23:06+00:00",
+      "status": "queued",
+      "pilot": true,
+      "approved": false,
+      "checks": "code ok (v2.3); opus x2; changed lines ok; trial rewrite 27 Oct",
+      "spec": "2.2",
+      "omittedStarred": 0,
+      "banterLines": null
     }
   ],
   "replays": [

@@ -1,0 +1,322 @@
+---
+id: tort-ws04-v23
+unit: u-bpp-Tort-04
+guide_hash: e0f735afe9
+made: 2026-10-27T15:23:06+00:00
+title: Tort WS04 · Remoteness, defences and remedies
+map:
+- Remoteness of damage
+- Consent (volenti non fit injuria)
+- Contributory negligence
+- Illegality
+- Remedies and the aim of damages
+- Personal injury damages: heads and calculation
+- Deductions from damages
+- Claims on death (estate and dependants)
+recap:
+- Remoteness: D is liable for the reasonably foreseeable kind of harm, judged at the time of breach and usually described broadly, however it happened and however bad it was.
+- Consent: a complete defence, but it normally fails for an employee who merely knew of the danger, a rescuer under a duty and the very act, and always for a car passenger.
+- Contributory negligence: a partial defence, never 100 per cent, with standard figures for seatbelts and helmets that depend on how much difference the belt or helmet would have made.
+- Illegality: a complete defence; an incidental crime does not bar the claim, but injury that is a foreseeable risk of a joint criminal enterprise is barred.
+- Remedies: restore the pre-tort position, normally as one lump sum, and C must mitigate.
+- Personal injury damages: special and general damages, Ogden multipliers for continuing future loss, and no recovery for a defendant's unpaid care.
+- Deductions: benefits come off like for like and never off PSLA; own accident insurance, ill-health or disability pensions and charitable payments or gifts stay.
+- Claims on death: the estate's losses up to death, listed dependants' lost reasonable expectation of financial benefit where the deceased could have sued, and a fixed bereavement award for a few people only.
+summary: Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.
+invented:
+- Chloe
+- Ravi
+- Tom
+- Mina
+- Jack
+---
+## Map
+Will: Right. Eight topics today, and they come in a sensible order. First, how far a defendant's liability stretches, which is remoteness of damage. Then three defences: consent, contributory negligence and illegality.
+Hannah: So remoteness, and then three ways the defendant can fight back.
+Will: Right, defences come second. Then the money side, which is four topics: remedies and the aim of damages, personal injury damages, deductions from damages, and claims on death.
+Hannah (thoughtful): Remoteness, three defences, then four topics on what the claimant actually gets. Fine, go.
+## Block 1: Remoteness of damage
+Will: Remoteness of damage first. The point of it is that a defendant should only pay for the kind of harm they could foresee, not for every direct consequence of what they did. And you ask it after factual causation, never instead of it.
+Hannah: So causation gets C in the door, and remoteness decides how far down the corridor they walk.
+Will: Yes, nicely put. The test is whether damage of the relevant kind or type was reasonably foreseeable, judged objectively at the time of breach.
+Hannah: So no hindsight.
+Will: Right, no hindsight. And if those are met, D is liable even though the way it happened, or the extent of it, was unforeseeable.
+Hannah: And how likely does the harm have to be?
+Will: Not very. A real risk, even a small one, is foreseeable unless it's far-fetched, and a reasonable person wouldn't ignore it if it was easy to eliminate.
+Hannah (sceptical): Hang on. How is that different from liability for every direct consequence?
+Will: That used to be the rule, and the Wagon Mound rejected it. That's the trap here: it's the foreseeable kind, not all direct consequences. In the Wagon Mound, fire damage from spilled oil was unforeseeable, although pollution damage was foreseeable. So the fire wasn't recoverable.
+Hannah: Okay. Is there a similar limit for advice cases?
+Will: Yes, one related limit for negligent advice or information: D is liable only for losses within the scope of the duty it took on, meaning the risk the duty was meant to guard against. So a valuer who overvalues pays for the consequences of the valuation being wrong, not for the whole loss from a market fall.
+Hannah: Okay. And what about the way it happens?
+Will: Here's the starred point. Someone is burned. Burns were a foreseeable kind of harm, but the burn came from an explosion nobody could have predicted. Is D liable?
+Hannah (wary): The explosion wasn't foreseeable, so... no?
+Will: Other way. D is liable. Burns were the foreseeable kind of harm, and the unforeseeable way it happened doesn't help D.
+Hannah: Right. So an unforeseeable route to a foreseeable kind of harm still counts.
+Will: Yes, that's it. Same idea with the injury caused when boys propped up an abandoned boat. The broad risk of children meddling was foreseeable, so the council was liable.
+Hannah: So the court looks at the risk broadly.
+Will: Yes, usually broadly. Courts usually take a broad view of the type. A foreseeable cold injury covered frostbite, for example. A narrow view is occasionally taken.
+Hannah: Occasionally. Go on, show me one.
+Will: A splash was foreseeable, but the harm came from an eruption. The court treated an eruption as a different kind of harm from a splash, so there was no liability. That decision is widely criticised.
+Hannah (teasing): So the rule isn't "always broad", it's "usually broad".
+Will: Right: usually broad. Which is why the pair matters. In the first story, burns were foreseeable and C is burned by an unforeseeable explosion, so D is liable. In the second, a splash was foreseeable and C is hurt by an eruption, so a different kind of harm and D is not liable. What decides it is how broadly you describe the kind of harm, and usually you describe it broadly.
+Hannah: Burns and explosion: liable. Splash and eruption: not liable. Broad description wins, usually.
+Will: Yes, that's right. One more rule on kind of harm, for primary victims. If physical injury was foreseeable, is psychiatric injury recoverable too?
+Hannah: Yes, because both are personal injury: same type, so same answer.
+Will: Yes, same type. Now eggshell skull, which is starred. D is liable for all the harm, even death, where C's pre-existing condition made it worse. The rule also reaches C's impecuniosity, so extra loss caused by C's lack of money is recoverable.
+Hannah: Even if D couldn't know C was fragile?
+Will: Yes. Picture a driver who mounts the pavement and narrowly misses a woman without touching her. She has a history of anxiety and develops severe, long-lasting depression. She can recover for the full psychiatric illness: she was a primary victim, physical injury was foreseeable, so psychiatric harm is the same type, and her vulnerability goes only to extent.
+Hannah (brisk): So her vulnerability changes how bad it is, not what kind of harm it is.
+Will: Yes, that's extent, not kind. Now the look-alike: eggshell skull against a new kind of damage. With eggshell skull, the kind of harm was foreseeable and C's condition only increases its extent, so D is liable for all of it. A genuinely different kind of harm, like the eruption where only a splash was foreseeable, is too remote.
+Hannah: So is an eggshell just about extent, with only a different kind of harm too remote?
+Will: Yes: kind gets you in; extent doesn't get D out. Remoteness in one line, then. If the kind of harm was reasonably foreseeable at the time of breach, D is liable. That's so however it came about and however bad it was. The kind is usually described broadly.
+## Block 2: Consent (volenti non fit injuria)
+Will: Now from remoteness to the first defence: consent, volenti non fit injuria. The idea is that C freely chose to run a risk, and it defeats the claim entirely. Because of that, courts prefer contributory negligence where both are arguable.
+Hannah: All or nothing, so judges reach for the softer option if they can.
+Will: Right, they'd rather reduce than defeat. Four elements, you need all four, and D has to prove it on the balance of probabilities. One, C had capacity to consent. Two, full knowledge of the risk's nature and extent.
+Hannah: Full knowledge. How full is full?
+Will: Of the risk's nature and extent. General awareness is not enough. And it's judged subjectively: what did this C actually know?
+Hannah: Not what a reasonable person would have known.
+Will: Right, what this C actually knew. That's the trap. The objective standard belongs to contributory negligence, not here. Three, C agreed, expressly or impliedly, to bear the risk of injury. Four, C agreed freely and voluntarily.
+Hannah: Capacity, full knowledge, agreement, free choice. And all four or nothing.
+Will: Yes, all four. Two small points on how they work. First, C's own drunkenness counts. If C is too drunk to grasp the risk, which element is missing?
+Hannah: Full knowledge. A C too drunk to grasp the risk doesn't have it.
+Will: Right, full knowledge. Second, agreement may be implied from taking part in an obviously dangerous activity. But careful with sport, because a mere error of judgment in play isn't about consent at all. It simply isn't a breach of duty. Players owe the care that's reasonable in all the circumstances of the game, and that bar is high, though it doesn't take recklessness to cross it.
+Hannah (brisk): So if a mistimed tackle in the heat of play is a mere error of judgment, the claim fails because there's no breach of duty, not because of consent.
+Will: Yes, that's the elements done. Now the big part. Even with all four elements, volenti normally fails in four situations.
+Hannah (groaning): Four exceptions. Go.
+Will: One, an employee who merely knew of the danger. Two, a rescuer acting under a duty. Three, the very act D had a duty to prevent. Four, a car passenger, where motor insurance is compulsory.
+Hannah: Let me take the first. An employee who knew the machine was dangerous and carried on. Surely he accepted the risk?
+Will: That's the starred point, and it's the tempting one. Knowledge is not consent. An employee aware of the danger has not thereby agreed to it. Volenti rarely succeeds against employees.
+Hannah: Right. Knowing isn't agreeing.
+Will: Yes, knowing isn't agreeing. There is one rare exception: employees who deliberately broke safety rules and regulations together. There, volenti protected the employer from vicarious liability.
+Hannah: So it takes deliberate rule-breaking, together.
+Will: Yes, deliberate and together. Two, the rescuer. A rescuer acting under a legal, social or moral duty doesn't act freely, so volenti normally fails.
+Hannah: It's the free choice element that goes. They had to help.
+Will: Right, they had to help. Three, where D had a duty to prevent the very act. The example is suicide in custody. Volenti fails, though contributory negligence may still reduce the damages.
+Hannah: Why does volenti fail there? Was it a capacity problem?
+Will: No, and this is a slip worth fixing. People say the prisoner lacked capacity. In fact he was of sound mind. Volenti failed because suicide was the very act the police had to prevent.
+Hannah: Sound mind, but the very act. Capacity wasn't the reason.
+Will: Yes, the very act is the reason. Four, the car passenger, also starred. Any agreement to accept the risk is ineffective where compulsory motor insurance is required. You use contributory negligence instead. This comes from the Road Traffic Act.
+Hannah: So a passenger who got in with a drunk driver can't be hit with volenti?
+Will: Right: for a car passenger, compulsory insurance takes volenti away. And the other side of it: a passenger who flew with a pilot he knew was very drunk. There volenti succeeded, because that Road Traffic Act protection covers motor vehicles only.
+Hannah: Pilot, volenti succeeds. Car driver, it doesn't. So the pair is about the insurance.
+Will: Yes. In the first story, C flies with a pilot he knows is very drunk, so volenti succeeds. In the second, C rides with a car driver she knows is drunk. Volenti is ineffective and damages are reduced instead. What decides it is whether compulsory motor insurance applies.
+Hannah (wry): So drunk pilot, defence works; drunk driver, it doesn't. Same drunk, different insurance.
+Will: Yes, the insurance decides it. Last piece: exclusion notices. A business occupier cannot exclude or restrict its negligence liability for death or personal injury, by a term or a notice.
+Hannah: There's a catch, isn't there?
+Will: One. A business occupier may do so towards entrants admitted for recreational or educational purposes outside its business purposes, and hurt by the dangerous state of the premises.
+Hannah: Narrow.
+Will: Yes, very narrow. Next: knowing of or agreeing to such a notice is not by itself voluntary acceptance of the risk. So a notice doesn't turn into volenti.
+Hannah: Give me a picture.
+Will: Take a go-kart track. A customer pays and signs a form saying the track accepts no liability for any injury, and then a kart the track negligently maintained crashes and injures her. The track can't rely on the form as an exclusion, because it's business negligence causing personal injury. And it can't rely on it as consent either, because the signed form on its own isn't agreement to bear the risk.
+Hannah: Consent in one line: a complete defence with four elements, which normally fails for an employee who merely knew, a rescuer under a duty or the very act, and always for a car passenger.
+Will: Yes, and the car passenger is the one that always fails.
+## Block 3: Contributory negligence
+Will: Now from consent to contributory negligence. The point of it is that C's own carelessness reduces damages but never defeats the claim, which is why courts prefer it to volenti or illegality.
+Hannah: The softer option. Partial, not total.
+Will: Yes, partial. The test has three steps. One, D proves on the balance of probabilities that C failed to take reasonable care for their own safety, and that's judged objectively.
+Hannah: Is that the objective standard we said belongs here and not in volenti?
+Will: Right, objective here. Two, that failure contributed to the damage, either by causing the accident or only by worsening the injury.
+Hannah: So it doesn't have to cause the crash.
+Will: Right, worsening the injury is enough. Three, damages are reduced by what is just and equitable for C's share in the responsibility. The court weighs causative potency and blameworthiness in setting that share.
+Hannah (brisk): Careless, contributed, reduced by what's just and equitable.
+Will: Yes, those are the three steps. And it is a partial defence. The reduction is always less than 100 per cent. So the claim is never extinguished. That's the trap. It isn't a complete defence like volenti and illegality.
+Hannah: Is it only for ordinary negligence claims?
+Will: No, it isn't just negligence. It applies to four other claims too: occupiers' liability, product liability under the Consumer Protection Act, nuisance and Rylands. And where someone dies, the deceased's own fault reduces the dependants' damages. But wherever it applies, it only reduces damages, unlike volenti.
+Hannah: Which is the volenti look-alike, isn't it?
+Will: It is. Volenti is complete: C had full knowledge of the risk, judged subjectively, and freely agreed to bear it. Contributory negligence is partial: C failed to take reasonable care for their own safety, judged objectively, and the claim is never extinguished.
+Hannah: Subjective and complete, or objective and partial.
+Will: Yes: one asks what C knew and agreed to, the other asks whether C was careless. Now, step one has allowances built in.
+Hannah: Three allowances on the first step, I'm guessing.
+Will: Three: agony of the moment, rescuers and children. We'll take them in a minute. First, the starred figures for seatbelts and helmets. C wasn't wearing one. If the injury would have been avoided altogether, 25 per cent off. If it would have been considerably less severe, 15 per cent. If it would have made no difference, nil.
+Hannah: Twenty-five, fifteen, nil. Which one is the "considerably less severe" one?
+Will: Fifteen. And the fault has to relate to the damage. No helmet but only a leg injury means no reduction.
+Hannah: Because the helmet wouldn't have helped a leg.
+Will: Yes, no link to the damage, no reduction. Another starred point: a passenger who accepts a lift from a driver she knows is drunk has her damages reduced. Her claim is not defeated. But she knew he was drunk, so why isn't it volenti?
+Hannah: Because she's a car passenger. That's the volenti exception we just did: where insurance is compulsory, volenti is out and contributory negligence is in.
+Will: Right: for a car passenger, compulsory insurance takes volenti away. Now the three allowances on the first step. One, starred: a reasonable but mistaken step taken in the agony of the moment attracts no reduction.
+Hannah: Fair. You can't judge a split-second decision at leisure.
+Will: Right, no reduction for that. Two, a rescuer is contributorily negligent only for a wholly unreasonable disregard of their own safety.
+Hannah: So the bar for reducing a rescuer's damages is very high.
+Will: Right, very high. Three, a child is judged against an ordinarily prudent child of the same age. Very young children are rarely found negligent.
+Hannah: Standard follows age.
+Will: Yes, age sets the standard. One more, on what counts as relevant fault. A prisoner's long-past drug addiction was too remote a cause of his injury to count as contributory negligence. The mistake is thinking the nature of the duty excuses the addicted prisoner. The law is that the addiction was simply too remote a cause.
+Hannah: So remote, not excused.
+Will: Yes, that's right. Now later conduct, which is starred. Mere carelessness only reduces damages. Only C's entirely unreasonable later conduct breaks the chain of causation.
+Hannah: So if C does something foolish afterwards, does that just mean a reduction?
+Will: Right, unless it's entirely unreasonable, and then it breaks the chain. That's the look-alike with remoteness. Remoteness asks whether damage of the relevant kind was reasonably foreseeable at the time of breach. An intervening act asks whether the chain of causation broke.
+Hannah: Remoteness is foreseeable kind; an intervening act is a broken chain.
+Will: Yes, and the order is factual causation, then any intervening act, then remoteness. Two more points. With two defendants, you weigh C's share against the defendants' combined fault, then apportion the rest between them. And contribution between tortfeasors can be a complete indemnity, whereas a contributory negligence reduction never reaches 100 per cent.
+Hannah: Indemnity can be total, contributory negligence can't.
+Will: Yes, that's the line. Now a scenario on how much comes off for the seatbelt, and how the drivers then share the rest. Chloe is a car passenger who isn't wearing her seatbelt. She is hurt in a collision caused equally by two drivers, Ravi and Tom. A belt would have made her injuries considerably less severe. Her full damages are £100,000.
+Hannah (thinking aloud): Which cut applies to Chloe: fifteen per cent, twenty-five per cent, or nothing? And then how do Ravi and Tom share what's left?
+Hannah: <think>
+Hannah: Right. It's contributory negligence, no seatbelt. The belt would only have made her injuries considerably less severe, not avoided them altogether, so it's the 15 per cent figure, not 25. Fifteen per cent off £100,000 leaves £85,000, and the drivers are equally at fault, so they bear half each of that.
+Will: Yes, £85,000, and Ravi and Tom bear half each. The deciding fact is that her failure only worsened the injury, so it's 15 per cent, not 25. The 15 per cent comes off against the drivers' combined fault, and the remainder is apportioned between them.
+Hannah: Contributory negligence in one line: partial, never 100 per cent, with standard figures for seatbelts and helmets that depend on how much difference the belt or helmet would have made.
+Will: Yes: partial, and the seatbelt figures are the ones to know.
+## Block 4: Illegality
+Will: Now from contributory negligence to illegality. The idea is that courts refuse a claim where allowing it would harm the integrity of the legal system. A merely incidental crime does not bar it.
+Hannah: So it's not "did C do something naughty".
+Will: Right, it isn't. The test comes from Patel v Mirza. Step one: did C commit an illegal, or grossly immoral, act connected with the loss? If not, the defence fails.
+Hannah: And if so?
+Will: Step two: would allowing the claim create inconsistency in the law? You weigh three points. One, the underlying purpose of the prohibition, and whether denying the claim enhances it. Two, any other public policy that denying the claim may undermine.
+Hannah: And three?
+Will: Three, whether denying the claim is proportionate to the illegality.
+Hannah: Purpose, other policy, proportionality.
+Will: Yes, those are the three. Proportionality has four factors: one, seriousness of the conduct; two, its centrality to the tort; three, intention; four, any marked disparity in culpability. And the test applies in tort.
+Hannah: And this one's a complete defence, isn't it? Not like contributory negligence.
+Will: Yes. The claim fails entirely, with no apportionment, and D proves it on the balance of probabilities.
+Hannah: That sounds like volenti, though. Both just kill the claim.
+Will: Right, both kill the claim, and that's the look-alike. Illegality turns on C's illegal act connected with the loss, and on whether allowing the claim would create inconsistency in the law. Volenti turns on C's full knowledge of the risk and free agreement to bear it, and it can't be used against a car passenger where insurance is compulsory, so D must rely on contributory negligence or illegality.
+Hannah: Illegality is about C's crime and the law's consistency; volenti is about what C knew and accepted.
+Will: Yes, and both defeat the claim entirely.
+Hannah (sceptical): Then the safe answer is: any crime at all, no recovery.
+Will: That's too broad. An incidental crime does not bar the claim, and the same three-point balance applies.
+Hannah: So the crime has to matter to the loss, not just exist.
+Will: Right, the crime has to be connected to the loss.
+Hannah: So when does a crime bar it?
+Will: First, loss flowing from C's own criminal act or sentence is barred. That covers detention, lost earnings and inheritance, even if D's negligence caused C's illness.
+Hannah: Give me another one.
+Will: In the same way, a claimant injured while escaping from lawful custody can't recover from the police for failing to prevent his escape.
+Hannah: So the loss comes from the crime or the sentence, not from D.
+Will: Right, it comes from C's own crime. Second, the starred point: a merely incidental crime does not bar the claim where the negligent driving, not the crime, caused the injury.
+Hannah: And the opposite?
+Will: Joint criminal enterprise. C cannot recover for injury that is a foreseeable risk of the enterprise, because the injury is treated as caused by C's own crime.
+Hannah: Those sound like opposites. Can you show me the pair?
+Will: Here's the pair. First story: C is transporting cannabis, D drives negligently and crashes. The crime is incidental, so the claim succeeds. Second: C is a pillion passenger who urges a drunk, unlicensed D to ride recklessly, and they crash. That's a foreseeable risk of the joint crime, so the claim is barred. What decides it is whether the injury came from ordinary negligence or from a risk the crime itself created.
+Hannah: Cannabis in the boot and an ordinary bad driver: claim succeeds. Urging on a drunk rider: barred.
+Will: Yes. Same thing if two people are driving at normal speed to sell stolen goods hidden in the boot, and the driver negligently misjudges a bend. The passenger's claim can succeed, because the crash came from ordinary negligent driving and the crime was incidental to the injury, not its cause.
+Hannah: Illegality in one line: complete defence, but an incidental crime doesn't bar the claim, while injury that is a foreseeable risk of a joint criminal enterprise is barred.
+Will: Yes: an incidental crime doesn't bar it; injury that's a foreseeable risk of the joint enterprise does.
+## Block 5: Remedies and the aim of damages
+Will: Now from the defences to the money, starting with remedies and the aim of damages. Tort damages restore the pre-tort position, normally as one lump sum assessed once and for all.
+Hannah: The aim being?
+Will: Put C where they would have been had the tort not been committed.
+Hannah (wary): That sounds like contract damages.
+Will: It's the trap. Not the contract measure. Tort damages restore the pre-tort position, not the position had a promise been performed.
+Hannah: Backwards-looking, not promise-looking.
+Will: Yes, back to the pre-tort position. And C must take reasonable steps to mitigate loss. Loss C could reasonably have avoided is not recoverable.
+Hannah: And if it's property that's damaged?
+Will: For damage to property, that means the reasonable cost of repair or, where repair is uneconomic, the pre-accident market value, plus consequential loss, such as reasonable hire of a substitute while it's off the road.
+Hannah: Remedies in one line: back to where they were, normally once and for all, and C has to mitigate.
+Will: Yes: back to the pre-tort position, not the contract one.
+## Block 6: Personal injury damages: heads and calculation
+Will: Now from remedies to personal injury damages, heads and calculation. Past financial loss is calculated precisely; PSLA and future loss are assessed.
+Hannah: Special damages and general damages, I assume.
+Will: Yes. Special damages are past financial losses up to trial, precisely calculable. General damages are pain, suffering and loss of amenity, which is PSLA, plus future losses.
+Hannah: How do you value PSLA, though? There's no price tag on pain.
+Will: The Judicial College Guidelines and comparable awards. There's also an uplift on PSLA. It is 10 per cent. But the Guidelines' figures already include it, so you never add it on top. Loss of amenity reflects how active C was and what C can no longer do.
+Hannah: So a keen runner loses more amenity than someone who never ran.
+Will: Yes, that's the idea. Now the starred one: a permanently unconscious C recovers loss of amenity, assessed objectively, but not pain and suffering.
+Hannah: So amenity yes, pain no.
+Will: Yes, amenity but not pain. Future loss next. For a continuing loss you take the multiplicand, which is the net annual loss, times a multiplier from the Ogden Tables. A one-off future expense, such as adapting a home, is just its cost as a lump sum.
+Hannah: So annual loss times the years the loss lasts?
+Will: Not quite. You multiply by an Ogden multiplier, which is discounted for early receipt, not by the plain number of years.
+Hannah: Ogden, discounted. Not years.
+Will: Right, discounted, not plain years. The discount rate behind the multiplier is set under the Damages Act. It's now plus 0.5 per cent, up from minus 0.25 per cent. Lost earnings are recovered net of income tax and national insurance.
+Hannah: Net, so after tax.
+Will: Yes. Next, starred: a living C whose life is shortened recovers lost years earnings, less their own living expenses.
+Hannah: Less their own living expenses. Okay.
+Will: Right, lost years, less living expenses. And loss of earning capacity: a lump sum for C's disadvantage on the labour market if C later loses their job.
+Hannah: So it's about being worse placed if you're out of work later.
+Will: Yes, a worse position on the labour market.
+Hannah: Go on, care next?
+Will: Care and medical costs, in three bits. Reasonable private medical costs are recoverable, and the availability of NHS treatment is disregarded. Unpaid care by a relative: C recovers its reasonable value, holds it on trust for the carer, and the commercial rate is usually discounted.
+Hannah: And the starred point?
+Will: Where the unpaid carer is the defendant, nothing is recoverable for that care. So picture a man injured by his wife's negligent driving, and afterwards both his wife and his mother care for him unpaid. He recovers the value of his mother's care only, held on trust, because where the carer is the tortfeasor she would be paying herself.
+Hannah: Mother yes, wife no.
+Will: Right, the mother's care only. Last, the form of the award, and here's the look-alike: provisional damages against periodical payments. Provisional damages are available where there is a chance of later serious disease or serious deterioration, and C may return once if it happens.
+Hannah: Once only.
+Will: Yes, once. Periodical payments are different. The court can order them without consent only for future pecuniary loss, other damages only by consent, and only if continuity of payment is reasonably secure.
+Hannah: So provisional means one return if serious disease or deterioration comes later; periodical payments without consent need future pecuniary loss and reasonably secure payment.
+Will: Yes, that's what tells them apart.
+Hannah: Okay. What about time limits?
+Will: Then limitation. The personal injury limit is 3 years. It runs from when the cause of action accrued or, if later, C's date of knowledge.
+Hannah: Knowledge of what, exactly?
+Will: Three things. One, that the injury was significant. Two, that it was attributable to the act or omission complained of. Three, who the defendant is. C doesn't need to know it was negligence in law. And the court has a discretion to disapply the period where that's equitable.
+Hannah: Any special cases?
+Will: Three. Time doesn't run against a child until 18, so the claim can be brought until 21. Since 29 June 2026, there's no time limit at all. That's for personal injury from sexual abuse suffered as a child. But it doesn't reopen a claim that was settled or decided by a court before then. And if an abuse claim is brought after the old time limit would have run out, the court must dismiss it if the defendant shows that a fair hearing is no longer possible. And where C lacked mental capacity when the claim arose, time is paused while capacity is lacking, but not if capacity is lost later.
+Hannah: And if C dies?
+Will: If the deceased's own claim wasn't already time-barred, the estate and dependants get 3 years. That runs from the death or, if later, the relevant person's date of knowledge. But the no-time-limit rule for child sexual abuse does not pass on death. The estate can rely on it only if the victim had sued before dying. Otherwise the ordinary limits apply to the estate. And dependants cannot sue if the death came after the old limit expired, even if the victim had sued. In both cases, the court can still disapply the time limit under its general discretion, where that's equitable.
+Hannah: Anything on how solicitors can get these cases, like referral fees?
+Will: In personal injury matters a solicitor must not pay or receive a referral fee, because there's a statutory ban. Other introducer and fee-sharing arrangements must be disclosed to the client and must not compromise the solicitor's independence or the client's best interests.
+Hannah: Personal injury damages in one line: special and general damages, Ogden multipliers for continuing future loss, and nothing for a defendant's unpaid care.
+Will: Yes, and the Ogden multiplier is the one to remember.
+## Block 7: Deductions from damages
+Will: Now from calculating damages to deductions. The basic idea is that state benefits come off only the matching head of loss, and other payments depend on their source.
+Hannah: So it depends what the money was for.
+Will: Right for benefits: they come off only the head they were paid for. Other payments depend on what they are. Before paying, the compensator repays recoverable benefits to the state through the Compensation Recovery Unit. Benefits are recoverable for 5 years from the day after the accident. Or until an earlier final settlement, if that comes first.
+Hannah: And a disease, where there's no single day of the accident?
+Will: For a disease, the 5 years run from the first claim for a listed benefit because of it.
+Hannah: Fine. What comes off what?
+Will: Starred. Benefits are offset only like for like, against earnings, care and mobility, and never against PSLA.
+Hannah: Never PSLA.
+Will: Right, never. Now payments that are deducted: the employer's contractual sick pay, and a redundancy payment where the injury caused the redundancy.
+Hannah: And not deducted?
+Will: Also starred, and there are three. One, C's own accident insurance. Two, ill-health or disability pensions. Three, charitable payments or gifts.
+Hannah: Contractual sick pay comes off; C's own insurance doesn't.
+Will: Yes: the employer's sick pay is deducted, and C's own insurance stays. Now a scenario on which head the benefits come off. Mina is awarded £40,000 for PSLA and £20,000 for lost earnings. She received £25,000 in recoverable benefits, all paid for lost earnings.
+Hannah (brisk): Which head do the benefits come off: the earnings head only, the PSLA head, or the total?
+Hannah: <think>
+Hannah: Like for like. The benefits were all for lost earnings, so they come off the earnings head only. The £25,000 is more than that head's £20,000, so the head goes to nil. PSLA can never be touched, so she gets the £40,000.
+Will: Yes, £40,000. The deciding fact is like for like: the benefits were all paid for lost earnings, so they reduce only the earnings head, to nil, and PSLA is never touched.
+Hannah: Deductions in one line: benefits come off like for like and never off PSLA, and her own accident insurance, ill-health or disability pensions and charitable payments or gifts stay.
+Will: Yes, like for like, and never off PSLA.
+## Block 8: Claims on death (estate and dependants)
+Will: And finally, claims on death, estate and dependants. The estate recovers losses up to death, listed dependants recover lost support, and bereavement is a separate fixed award.
+Hannah: Three different claims. Estate, dependants, bereavement.
+Will: Right. The estate first. It recovers the deceased's losses up to death, which means PSLA, earnings and expenses, plus funeral expenses.
+Hannah: And what does it not get?
+Will: Four exclusions: no lost-years income, no exemplary damages, no bereavement award, and nothing for death itself.
+Hannah: Nothing for death itself. Grim, but clear.
+Will: Yes. And where death was effectively instantaneous, there's no PSLA at all, and terror in the moments before death, without injury, isn't compensable.
+Hannah: So if death was effectively instant, no PSLA, and fear alone doesn't count.
+Will: Yes. And lost years is the look-alike: a living C whose life is shortened recovers lost-years earnings, less their own living expenses, but the estate recovers no lost-years income.
+Hannah: A living claimant gets lost years; the estate doesn't.
+Will: Yes, that's the contrast. Next, who can claim as a dependant. There are three conditions, and they all have to be met. One, the deceased could have sued D for the injury had they survived. Two, the claimant is on the statutory list of dependants.
+Hannah: And three?
+Will: Three, the claimant lost a reasonable expectation of financial benefit, meaning money or services.
+Hannah: So does the dependant have to have been financially dependent already?
+Will: No, and that's a common slip. The law is a reasonable expectation of financial benefit, and even a future one suffices.
+Hannah: So an expected benefit counts, not just a current one.
+Will: Yes, that's right. How it works: the personal representatives sue for all dependants. A dependant may sue for all of them if there is no personal representative. Or if none has sued within 6 months of the death. And only one action is allowed.
+Hannah: One action, and the personal representatives go first.
+Will: Right. And a starred point: there is no claim if the deceased settled before death, or their claim was already time-barred.
+Hannah: Because the first condition fails. They couldn't have sued.
+Will: Yes, condition one fails. Now the list. Starred, three partners qualify. One, a spouse or civil partner. Two, a former spouse or civil partner. Three, a cohabitant of 2 years immediately before death.
+Hannah: Two years, right up to the death.
+Will: Yes. Other dependants, in two groups. First, parents and children, four kinds: a parent or ascendant, a person treated as a parent, a child or descendant, and a child of the family.
+Hannah: And the rest?
+Will: Then the wider family: a sibling, uncle or aunt, or their issue. There are also four equivalences: relationships by marriage or civil partnership count as blood, half blood as whole blood, a stepchild as a child, and a child born outside marriage as the child of both parents.
+Hannah: What about a close friend who relied on the deceased?
+Will: Off the list, so no. Relationship alone is not enough, and nor is dependence by someone off the list, such as a friend. But an expected future benefit suffices.
+Hannah: Pull that together for me.
+Will: Put it together. A man is negligently killed. He had lived with his partner for 18 months, and he sent his adult half-brother money every month. Only the half-brother has a dependency claim: half blood counts as whole blood and he expected financial benefit, whereas the partner falls short of 2 years' cohabitation immediately before death.
+Hannah: So the partner is out on the 2 years, and the half-brother is in.
+Will: Yes, both right. Dependency damages next. The dependency is a multiplicand, the annual lost dependency, times a multiplier. For a spouse, there's a conventional starting point. With no dependent children, it's two-thirds of the deceased's net income. With dependent children, it's three-quarters. And where both partners earned, you apply that fraction to their joint net income, then take off the survivor's own net income.
+Hannah: Is that a rule?
+Will: No: the fractions are a conventional starting point, not a fixed rule. And the multiplier for future loss runs from the date of trial, not the date of death.
+Hannah: Trial, not death. Okay.
+Will: Right, from trial. Now what's ignored. Starred: benefits resulting from the death, such as an inheritance or life insurance, are disregarded. A widow's remarriage, or her prospects of remarriage, are disregarded too.
+Hannah: So an inheritance doesn't reduce the dependency.
+Will: Right, it's disregarded. For a cohabitant, the court considers that they had no enforceable right to financial support. The deceased's contributory negligence reduces the dependants' damages proportionately. And dependants may also recover funeral expenses that they paid.
+Hannah: That's dependency done, then. What about bereavement?
+Will: Yes, dependency is done. Bereavement is starred: damages go to one of three categories. One, a spouse or civil partner. Two, a 2-year cohabitant. Three, the parents of a minor who was never married or civilly partnered. If the child was illegitimate, the mother alone.
+Hannah: And not to children.
+Will: Right, and that's starred too. No bereavement award to the deceased's children, or to parents of an adult child, though they may still claim dependency.
+Hannah: And how much is it?
+Will: The fixed sum is £15,120, divided equally where two people are entitled.
+Hannah: Fixed, and shared if there are two.
+Will: Yes, shared equally. Now the look-alike: bereavement against dependency. Bereavement is a fixed sum, for those few people only. Dependency compensates a lost reasonable expectation of financial benefit, for anyone on the statutory list.
+Hannah: Fixed sum for a few; lost financial benefit for the whole list.
+Will: Yes, that's the contrast. Now a scenario on who gets the bereavement award, and how much each gets. Jack is aged 17 and unmarried, and he's killed by D's negligence. He was 20 per cent to blame. His married parents are both alive.
+Hannah (brisk): Do the parents each get the full £15,120, half of it each, or half each less the 20 per cent?
+Hannah: <think>
+Hannah: Jack is a minor who never married, so his parents are the ones entitled. Two people, so the fixed sum is divided equally, half each. Then the 20 per cent contributory negligence comes off that half, which is £6,048 each.
+Will: Yes, £6,048 each. The deciding fact is that parents of an unmarried minor share the fixed £15,120 equally, and Jack's 20 per cent contributory negligence reduces the damages under the Act.
+Hannah: Claims on death in one line: the estate's losses up to death, listed dependants' lost reasonable expectation of financial benefit where the deceased could have sued, and a fixed bereavement award for a few people only.
+Will: Yes: estate, dependants, and bereavement for a few.
+## Recap
+Hannah: Right, so that's the whole run, from remoteness through the defences, then the money.
+Will: Remoteness asks whether the kind of damage was foreseeable; then come the defences of consent, contributory negligence and illegality; then remedies and the aim of damages, personal injury damages, deductions from damages, and finally claims on death.
