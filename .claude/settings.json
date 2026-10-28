@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:legislation.gov.uk)",
+      "WebFetch(domain:www.legislation.gov.uk)",
+      "WebFetch(domain:gov.uk)",
+      "WebFetch(domain:www.gov.uk)",
+      "WebFetch(domain:assets.publishing.service.gov.uk)",
+      "WebFetch(domain:justice.gov.uk)",
+      "WebFetch(domain:www.justice.gov.uk)",
+      "WebFetch(domain:sra.org.uk)",
+      "WebFetch(domain:www.sra.org.uk)",
+      "WebFetch(domain:caselaw.nationalarchives.gov.uk)",
+      "WebFetch(domain:bailii.org)",
+      "WebFetch(domain:www.bailii.org)",
+      "WebFetch(domain:supremecourt.uk)",
+      "WebFetch(domain:www.supremecourt.uk)",
+      "WebFetch(domain:judiciary.uk)",
+      "WebFetch(domain:www.judiciary.uk)",
+      "WebFetch(domain:sentencingcouncil.org.uk)",
+      "WebFetch(domain:www.sentencingcouncil.org.uk)",
+      "WebFetch(domain:cps.gov.uk)",
+      "WebFetch(domain:www.cps.gov.uk)",
+      "WebFetch(domain:lawsociety.org.uk)",
+      "WebFetch(domain:www.lawsociety.org.uk)",
+      "WebFetch(domain:landregistry.data.gov.uk)"
+    ]
+  }
+}
