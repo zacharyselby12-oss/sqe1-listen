@@ -810,7 +810,7 @@
       ],
       "summary": "This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.",
       "madeAt": "2026-10-29T08:15:02+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines checks x2 (last fix, one reworded line, Opus-supplied and code-checked); code ok",
@@ -829,7 +829,15 @@
         "b10",
         "b11"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12408965,
+      "seconds": 1551,
+      "words": 3927,
+      "renderedHash": "568f888f27f9",
+      "renderedAt": "2026-10-29T08:20:38+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws08-v23-p1-0ea7a8b9.mp3",
+      "pubDate": "2026-10-29T08:20:38+00:00"
     },
     {
       "id": "clp-ws08-v23-p2",
@@ -865,7 +873,7 @@
       ],
       "summary": "That was discharges and bind overs, fines, community orders and requirements, breach of a community order, custodial sentences with their threshold, release and remand credit, suspended sentence orders, minimum sentences, extended determinate sentences, life sentences, and professional conduct at sentencing.",
       "madeAt": "2026-10-29T08:15:32+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines checks x2 (last fix, one reworded line, Opus-supplied and code-checked); code ok",
@@ -883,7 +891,15 @@
         "b20",
         "b21"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11541072,
+      "seconds": 1443,
+      "words": 3639,
+      "renderedHash": "855193d7b259",
+      "renderedAt": "2026-10-29T08:20:38+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws08-v23-p2-5d62d26c.mp3",
+      "pubDate": "2026-10-29T08:20:38+00:00"
     }
   ],
   "replays": [
