@@ -1,0 +1,232 @@
+---
+id: clp-ws08-v23-p1
+unit: u-bpp-CLP-08
+guide_hash: 720d820aa5
+made: 2026-10-29T08:15:02+00:00
+title: CLP WS08 · Sentencing (part 1 of 2)
+part: 1 of 2
+blocks: 1-11
+map:
+- Sources, purposes and general approach to sentencing
+- Which court sentences; committal for sentence
+- Basis of plea and Newton hearings
+- Totality: concurrent and consecutive sentences
+- Deferring sentence
+- Indications of sentence (magistrates' court and Goodyear)
+- Seriousness and the custody and community thresholds
+- Sentencing guidelines and the stepped approach
+- The sentencing hearing: mitigation, reports and reasons
+- Aggravating and mitigating factors
+- Credit for a guilty plea
+recap:
+- Sources and purposes of sentencing: no checked point is taught yet; the duty to follow guidelines comes under the guidelines topic.
+- Which court sentences: if the magistrates consider their powers inadequate for an either-way offence, they may commit for sentence, and the Crown Court can then go up to the offence's maximum.
+- Basis of plea: where the prosecution does not accept D's basis and the difference would materially affect sentence, the court sentences on D's version or holds a Newton hearing, unless D's version is absurd or obviously untenable; the prosecution proves its version beyond reasonable doubt; a Newton hearing cannot decide an element of the offence.
+- Totality: concurrent is ordinarily right for one incident or a series of the same kind, especially against the same person, unless that would not reflect the overall criminality; consecutive is normally right for unrelated or distinct offences, a same-kind series that concurrent terms would not reflect (eg different victims), or to avoid undermining a statutory minimum; either way the overall sentence must be just and proportionate.
+- Deferring sentence: no checked point is taught yet.
+- Indications of sentence: in the magistrates' court, once D indicates a guilty plea after an indication, no court may impose custody unless custody was indicated, subject to a limited exception, and otherwise the indication binds no court; the Crown Court indication is not covered here.
+- Seriousness is culpability plus harm caused, intended or foreseeably possible; custody needs an offence so serious that neither a fine alone nor a community sentence can be justified, and a community order needs an imprisonable offence serious enough to warrant it.
+- Guidelines: every court must follow a relevant guideline unless that would be contrary to the interests of justice; in the stepped approach any assistance reduction comes before the guilty plea reduction.
+- The sentencing hearing: the defence speaks last; before deciding the thresholds, the length of custody or the requirements, a pre-sentence report must be obtained unless the court considers it unnecessary, and for under 18s it can be unnecessary only if there is an existing report; D must prove a mitigating fact the prosecution cannot be expected to know, on the balance of probabilities; reasons are given in open court.
+- Aggravating and mitigating factors: only some are statutory; the rest come from guidelines, and provocation mitigates only where an offence-specific guideline lists it.
+- Credit for a guilty plea: maximum one-third at the first stage, one-quarter after unless particular circumstances made an earlier plea unreasonable, down to one-tenth on the first day of trial; for murder one-sixth and never more than 5 years; exceptions for a rejected Newton version and for minimum sentences.
+summary: This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.
+invented:
+- Dev Anand
+- Marcus Hale
+- Priya Nair
+- Tomasz Wren
+- Lena Ortiz
+- a shop
+---
+## Map
+Will: Part one of sentencing goes in three groups. First: the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, and totality.
+Hannah: That's how the court is chosen, how the facts get settled, and how several offences combine?
+Will: Right. The second group, including deferring sentence and indications of sentence, then seriousness and the thresholds, and the sentencing guidelines with the stepped approach.
+Hannah: So that's what you can ask the court in advance, and how it measures the offence.
+Will: Yes. Third: the sentencing hearing itself, aggravating and mitigating factors, and credit for a guilty plea. The second part picks up with discharges and bind overs and runs to the end of the workshop.
+## Block 1: Sources, purposes and general approach to sentencing
+Will: First topic: the sources, purposes and general approach to sentencing. The guide has no checked point yet on the purposes of sentencing, so we are not teaching any here.
+Hannah: So nothing to memorise on purposes. Where does the duty to follow guidelines sit?
+Will: Under sentencing guidelines and the stepped approach, a little later in this part.
+Hannah: So, no checked point on sources and purposes yet, and guidelines come later.
+Will: Right. On to the courts.
+## Block 2: Which court sentences; committal for sentence
+Will: Now which court sentences, and committal for sentence. This is for an either-way offence where the magistrates think their own powers are not enough.
+Hannah: Not enough how?
+Will: Two conditions. One: the magistrates consider their powers inadequate. Two: the offence, or the offence combined with associated offences, is so serious that the Crown Court should have power to deal with D as if convicted on indictment.
+Hannah: So it's about seriousness, not about D asking.
+Will: Right. If both are met, the magistrates may commit D to the Crown Court for sentence. D can then receive up to the offence's maximum, not just what the magistrates could give.
+Hannah: Say the bench hears a guilty plea to an either-way offence and decides even its top sentence would fall short. They commit, and the Crown Court sentences. Is that it?
+Will: Yes: commit for sentence, and the Crown Court has the full range up to the maximum.
+Hannah: So, committal is for an either-way offence the magistrates think too serious for their own powers, and then the maximum is open.
+Will: Right. That brings us to what happens when the facts are disputed.
+## Block 3: Basis of plea and Newton hearings
+Will: Next, basis of plea and Newton hearings. A guilty plea can leave the facts in dispute, and what the dispute is about decides who resolves it and who must prove what.
+Hannah: So D pleads guilty but tells a different story from the prosecution?
+Will: Yes. Take an assault where D says he punched once and the prosecution says he kicked V on the ground. If the difference would materially affect sentence, the court has two choices. It sentences on D's version, or it holds a Newton hearing.
+Hannah: What's a Newton hearing?
+Will: A hearing at which the judge alone, or the magistrates, hears evidence and decides the facts.
+Hannah: So the court must always hold one when the stories differ?
+Will: Not quite. That is the trap. It does not have to. And there are two cases where no hearing is needed. One: the difference would make only a minimal, immaterial difference to sentence. Two: D's version is absurd or obviously untenable, and the judge must explain why.
+Hannah: Right, so a Newton hearing is for a material dispute, and not where D's version is absurd or obviously untenable.
+Will: Yes. Now the burden. Newton hearings happen in both the magistrates' court and the Crown Court, and in the magistrates' court the bench or district judge decides the facts. The prosecution must prove its version beyond reasonable doubt.
+Hannah: Same as a trial?
+Will: Close. Both sides may call and cross-examine witnesses, and the judge must direct himself as a jury would.
+Hannah: And D has nothing to prove?
+Will: Not on the prosecution's version. This is the look-alike. Mitigation that is within D's own knowledge, for example that he only drove because his child needed hospital treatment, is not a Newton matter. If it is challenged, D must prove it on the balance of probabilities.
+Hannah: So prosecution, beyond reasonable doubt, on the facts of the offence; D, on the balance of probabilities, on his own mitigation.
+Will: Right. One more limit. A Newton hearing cannot decide whether D is guilty of a more serious offence, or an element of the offence. Suppose D is charged with wounding with intent and denies intending serious harm. Intent is an element, so D must be tried on that charge or plead to the lesser one.
+Hannah: And mitigation can't contradict the plea?
+Will: Yes. A challenge to the facts that would materially affect sentence goes in the basis of plea, not in mitigation.
+Hannah: Is there a price for losing?
+Will: There is. If D's version is rejected after a Newton hearing, the guilty plea reduction is normally halved. It may be reduced further if witnesses had to give evidence.
+Hannah: Give me a scenario.
+Will: Dev Anand is charged with wounding with intent. He offers a plea to unlawful wounding, saying he never meant really serious harm. The test is whether the dispute is about the facts he is sentenced on, or about an element of the more serious offence.
+Hannah: So is it a Newton hearing, a trial of the more serious charge or a plea to the lesser, or sentence on his version regardless?
+Hannah: <think>
+Hannah: Intent is an element, so a Newton hearing is out. Dev must be tried on the more serious charge, or be sentenced on his plea to the lesser one.
+Will: Right. A dispute about intent is a dispute about guilt, not about the facts for sentence. So either a trial on the wounding with intent charge, or sentence on the lesser plea.
+Hannah: So, where the difference would materially affect sentence, the court sentences on D's version or holds a Newton hearing, unless his version is absurd or obviously untenable. A Newton hearing settles the facts, never an element, and the prosecution proves its version beyond reasonable doubt.
+Will: Yes. Now to sentences for more than one offence.
+## Block 4: Totality: concurrent and consecutive sentences
+Will: Totality, meaning concurrent and consecutive sentences. Where D is sentenced for more than one offence, the question is whether the terms run at the same time or one after another.
+Hannah: And does it matter which?
+Will: Less than you'd think, because whichever way, the overall sentence must reflect all the offending and be just and proportionate. Read every limb of both lists, not just the first.
+Hannah: Concurrent first.
+Will: Concurrent sentences are ordinarily appropriate where the offences arise out of the same incident or facts, or are a series of the same or similar kind, especially against the same person. The lead sentence is increased to reflect the overall criminality, and that may take it outside the single-offence category range.
+Hannah: And consecutive?
+Will: Normally appropriate in these groups of cases. First, unrelated facts or incidents. Second, offences in the same incident that are distinct, with an aggravating element needing separate recognition.
+Hannah: Like attacking a police officer to get away?
+Will: Yes: an assault on a constable to evade arrest for another offence charged is a guideline example. So is an offence committed in prison. Third, offences of the same or similar kind where concurrent terms would not reflect the overall criminality, for example offences against different victims. Fourth, where one offence carries a statutory minimum that concurrent terms would improperly undermine.
+Hannah: So concurrent for one incident or a same-kind series, especially against one person, unless concurrent terms would fall short of the overall criminality. Consecutive for unrelated or distinct offences, a same-kind series such as one against different victims, or where concurrent terms would undermine a statutory minimum.
+Will: Right. Here are the pair. D steals from the same employer several times: a series of the same kind against the same person, so concurrent is ordinarily right. D is caught leaving a shop with stolen goods and assaults a constable to evade arrest, and is convicted of both: consecutive is normally right, even though it was one incident, because the assault is distinct.
+Hannah: So the deciding fact is whether one offence is distinct, with an aggravating element that needs separate recognition?
+Will: Yes. And then the totality principle applies on top: consecutive terms may need to be shortened so that the total stays just and proportionate.
+Hannah: Any other guideline examples of consecutive terms?
+Will: Yes, including a Bail Act offence, an attempt to pervert the course of justice in respect of another offence charged, and drug dealing together with possession of a firearm.
+Hannah: Scenario?
+Will: Marcus Hale is convicted of a burglary and, on a separate day and against a different person, a street assault. The test is whether the offences arise from the same facts or from unrelated ones.
+Hannah: Concurrent, consecutive, or concurrent with a longer lead sentence?
+Hannah: <think>
+Hannah: Unrelated facts, so consecutive is the normal approach.
+Will: Right: unrelated facts or incidents point to consecutive terms, and then the total is checked so it is just and proportionate, shortening the terms if needed.
+Hannah: So concurrent is ordinary for one incident, or a same-kind series, especially against one person, unless that would not reflect the overall criminality. Consecutive is normal for unrelated or distinct offences, a same-kind series such as different victims, or to protect a statutory minimum. And the total must always be just and proportionate.
+Will: Yes. Next, a short one.
+## Block 5: Deferring sentence
+Will: Deferring sentence. The guide has no checked point on this yet, so we are not teaching anything here.
+Hannah: So nothing to learn on deferral for now.
+Will: Right. Now to what the defendant can ask the court beforehand.
+## Block 6: Indications of sentence (magistrates' court and Goodyear)
+Will: Indications of sentence, in the magistrates' court. The Crown Court indication is not covered here, because the guide has not yet checked its points.
+Hannah: When can D ask in the magistrates' court?
+Will: Once the magistrates decide summary trial is more suitable. D may ask whether a custodial or a non-custodial sentence would be more likely if the case were tried summarily and he pleaded guilty. The court may decline to say.
+Hannah: And if it does say?
+Will: If D then says he would plead guilty, the case proceeds as a summary trial on a guilty plea. After that, no court may impose a custodial sentence unless custody was indicated, subject to a limited exception. Otherwise the indication binds no court, and no appeal lies for inconsistency with it.
+Hannah: So it binds only the magistrates, and only if D then pleads guilty?
+Will: That is the trap. Not quite: once the case proceeds on that plea, the limit binds any court, not only the magistrates.
+Hannah: Say a bench indicates a non-custodial sentence and D pleads. No court can then send him to custody, with that limited exception?
+Will: Yes.
+Hannah: So, in the magistrates' court, after an indication and a guilty plea, no court may impose custody unless custody was indicated, subject to a limited exception. Otherwise the indication binds no court.
+Will: Right. Now to how serious the offence is.
+## Block 7: Seriousness and the custody and community thresholds
+Will: Seriousness and the custody and community thresholds. Start with seriousness: the court must consider the offender's culpability and any harm the offence caused, was intended to cause, or might foreseeably have caused.
+Hannah: So harm is not only what actually happened?
+Will: Right. Harm includes harm that was intended or foreseeable, not only harm that occurred. That is the point to hold on to.
+Hannah: And the thresholds?
+Will: Two of them, and they sound alike. The custody threshold: the court must not pass a custodial sentence unless the offence, or the offence combined with associated offences, is so serious that neither a fine alone nor a community sentence can be justified. Even then the term must be the shortest commensurate with the seriousness.
+Hannah: And the community one?
+Will: The court must not make a community order unless the offence, or the combination, is serious enough to warrant it. The offence must also be punishable with imprisonment. And passing that threshold does not oblige the court to impose one.
+Hannah: So custody is the higher bar, and community is the lower one, for an imprisonable offence?
+Will: Yes. Custody is the higher bar, and only the community threshold has the imprisonable condition spelled out.
+Hannah: So, custody needs an offence too serious for a fine or a community sentence to be justified. A community order needs an imprisonable offence serious enough to warrant it, without obliging the court.
+Will: Right. Now to the guidelines themselves.
+## Block 8: Sentencing guidelines and the stepped approach
+Will: Sentencing guidelines and the stepped approach. Guidelines are not merely advisory. Every court must follow any sentencing guideline relevant to the offender's case, and exercise any related function in line with it, unless satisfied that doing so would be contrary to the interests of justice.
+Hannah: So the default is follow, and departing needs a reason?
+Will: Yes, and only on that one ground.
+Hannah: What's the stepped approach?
+Will: Offence-specific guidelines follow steps, and the number of steps varies by guideline. The first steps: one, the offence category from culpability and harm. Two, the starting point and category range, adjusted for aggravating and mitigating factors.
+Hannah: And then?
+Will: Then any reduction for assistance to the prosecution. Then the guilty plea reduction. In that order: assistance comes before the plea reduction.
+Hannah: Why does the order matter?
+Will: Because the plea reduction is applied after the other factors, including any assistance reduction. That is the order the guidelines set. After the plea reduction come the closing steps: dangerousness, where the guideline includes it; then totality. Then compensation and ancillary orders, and reasons. Finally, whether to give credit for time on bail under a qualifying tagged curfew. Time on remand in custody counts automatically.
+Hannah: So assistance first, then the plea reduction, then the closing steps?
+Will: Right. Assistance has its own rule. Where D pleaded guilty, is sentenced in the Crown Court, and assisted or offered to assist under a written agreement with a specified prosecutor, the court may reduce the sentence. It must state in open court the lesser and the greater sentence, unless that is not in the public interest.
+Hannah: And help outside a written agreement?
+Will: It may still reduce the sentence under any other rule of law.
+Hannah: One more thing from the guide: how guidelines are made?
+Will: The recent Sentencing Act changed that. The Sentencing Council submits its annual business plan to the Lord Chancellor for approval. It needs the consent of the Lord Chief Justice and the Lord Chancellor before issuing definitive guidelines, and consent may be withheld only to maintain public confidence in the criminal justice system. That is about how guidelines are made, not the court's duty to follow them.
+Hannah: So, follow guidelines unless contrary to the interests of justice; in the steps, assistance comes before the guilty plea reduction; and the new rule concerns making guidelines, not following them.
+Will: Yes. Now to the hearing itself.
+## Block 9: The sentencing hearing: mitigation, reports and reasons
+Will: The sentencing hearing: mitigation, reports and reasons. Start with the order. The prosecution outlines the facts, D's previous convictions and any victim personal statement. The court reads any pre-sentence report. Then the defence makes the plea in mitigation, and the defence speaks last before sentence.
+Hannah: And the report. When is one needed?
+Will: A pre-sentence report must be obtained and considered before the court forms an opinion on three things. One: whether the custody or community thresholds are met. Two: the length of custody. Three: the suitability of requirements. The exception is where the court considers it unnecessary. For under 18s it must not be unnecessary unless there is an existing report.
+Hannah: So the default is get the report, for adults unless unnecessary, and stricter for under 18s?
+Will: Right. Now the plea in mitigation. It has four parts. One, the offence: factors reducing culpability or harm, and the correct guideline category. Two, the offender: personal mitigation such as good character, remorse, age and health.
+Hannah: What else goes in it?
+Will: Also caring responsibilities, employment and steps to address offending. Three, credit for a guilty plea. Four, a realistic proposal for sentence.
+Hannah: Who proves the mitigation?
+Will: That is the contrast with the Newton burden. Where D relies on a mitigating fact the prosecution cannot be expected to know about, for example the reason for offending, D must prove it on the balance of probabilities if it is not accepted, usually by calling evidence.
+Hannah: Character references?
+Will: Commonly put before the court, along with employers' letters and medical reports. But personal mitigation has less effect where the offence is very serious.
+Hannah: And at the end the court explains itself?
+Will: It must state in open court, in ordinary language, its reasons and the effect of the sentence. That includes how the guidelines were applied and any departure from them.
+Hannah: So, the defence speaks last; a report is obtained unless unnecessary; D proves a mitigating fact the prosecution cannot be expected to know, on the balance of probabilities; and the court gives reasons in open court.
+Will: Yes. Now the factors the court weighs.
+## Block 10: Aggravating and mitigating factors
+Will: Aggravating and mitigating factors. Only one list here is statutory, and it comes in two groups. Everything else comes from guidelines.
+Hannah: So what must the court treat as aggravating?
+Will: Two groups of statutory factors. The first: an offence committed on bail, and each relevant previous conviction the court considers can reasonably be treated that way, having regard in particular to its nature and relevance, and to the time elapsed. The court must state these in open court.
+Hannah: And the second group?
+Will: It must also treat as aggravating hostility based on race, religion or disability, or on sexual orientation or transgender identity. Also specified offences against an emergency worker acting as such, or against someone providing a public service or performing a public duty, and a terrorist connection.
+Hannah: That's the lot?
+Will: Including a newer one, adult grooming of a child in specified child sex offences, which applies only to convictions from its start date.
+Hannah: And the ones that are not statutory?
+Will: The general guideline lists others, including use of a weapon and planning. Also a vulnerable victim, or abuse of trust or power. Also offending under the influence of drink or drugs, and gang involvement. Also offending on licence or under a court order, concealing evidence, or offending in front of a child.
+Hannah: And domestic offences?
+Will: Treated as more serious under the Domestic Abuse overarching guideline, because it violates the trust and security normally found between people in an intimate or family relationship.
+Hannah: So the statutory ones the court must treat as aggravating and state in open court, and the guideline ones come from the general guideline.
+Will: Right. Now mitigation. The general guideline includes good character and remorse, and no previous convictions or none relevant or recent. It includes a lesser or subordinate role, and coercion or exploitation. It includes mental disorder or learning disability, and age or lack of maturity.
+Hannah: Anything on carers and health?
+Will: Being the sole or primary carer for dependent relatives. And serious medical conditions needing urgent, intensive or long-term treatment, and steps taken to address addiction or offending behaviour.
+Hannah: What about provocation? I'd have said it is a common one.
+Will: That is the trap. Provocation is not in the general guideline. It mitigates only where an offence-specific guideline lists it, for example affray, which lists a significant degree of provocation.
+Hannah: So only some aggravating factors are statutory. The rest, and the mitigating factors, come from guidelines. And provocation needs an offence-specific guideline to list it.
+Will: Yes. Last topic in this part: credit for a guilty plea.
+## Block 11: Credit for a guilty plea
+Will: Credit for a guilty plea. The stage at which D indicated the plea decides the maximum reduction, subject to exceptions, and the reduction is applied to the sentence after all other factors.
+Hannah: So what are the numbers?
+Will: The maximum is one-third where the plea is indicated at the first stage of proceedings. That is normally the first hearing at which a plea or indication is sought.
+Hannah: And after that?
+Will: After that the maximum is one-quarter. Then a sliding scale down to one-tenth on the first day of trial. Once the trial has begun it may be zero.
+Hannah: Is the one-third ever available late?
+Will: Yes. The full one-third can still be given for a later plea where particular circumstances significantly reduced D's ability to understand what was alleged, or otherwise made it unreasonable to expect an earlier plea. For example, D needed advice or sight of the evidence to know whether he was guilty in fact and law.
+Hannah: Give me one where it applies.
+Will: D is charged with fraud and pleads guilty at the plea and trial preparation hearing, once the bank records are served and his solicitor has explained the dishonesty test. He needed that advice and that evidence to know if he was guilty, so if the court is satisfied of that, the full one-third should still be given.
+Hannah: And if he just waited to see how strong the case was?
+Will: Then the exception does not apply, and the maximum is one-quarter.
+Hannah: So the deciding fact is whether he could not reasonably be expected to plead earlier, or merely delayed to assess the prosecution case?
+Will: Right. Here is a scenario. The test: the maximum depends on the stage of the plea, and the full one-third after the first stage needs particular circumstances, not just delay. Priya Nair is charged with theft. She could have indicated her plea at the first hearing, but waited to see how strong the prosecution case was, and pleads guilty at the plea and trial preparation hearing, well before the trial date.
+Hannah: So is her maximum one-third, one-quarter, or one-tenth?
+Hannah: <think>
+Hannah: She delayed only to assess the case, so no exception. One-quarter.
+Will: Right: the first stage has passed and the exception does not cover mere delay, so the maximum is one-quarter.
+Hannah: Now how is the reduction applied?
+Will: To the sentence after all other factors. It may reduce a custodial term, or switch the type of sentence, for example from custody to a community order. It does not apply to ancillary orders. For murder the maximum reduction to the minimum term is one-sixth. And never more than 5 years.
+Hannah: And the exceptions?
+Will: Four groups. First, the Newton hearing, or a special reasons hearing: if D's version is rejected, the reduction otherwise available is normally halved, and may be reduced further if witnesses had to give evidence.
+Hannah: Second?
+Will: Third Class A drug trafficking, with a minimum of 7 years. Third domestic burglary, with a minimum of 3 years. And the serious terrorism minimum of 14 years. In each, the reduction must not take the sentence below 80 per cent of the minimum.
+Hannah: Third?
+Will: An offender aged 18 or over convicted of threatening with a bladed article, offensive weapon or corrosive substance, or of a repeat possession offence. The minimum is 6 months, and likewise the floor is 80 per cent of it. If D is 16 or 17 when convicted, the 4-month detention and training order minimum does not limit the plea reduction.
+Hannah: And the last?
+Will: The firearms minimum, 5 years, or 3 years if D was 16 or 17 at the offence. Here no plea reduction may take the sentence below the minimum at all.
+Hannah: So most minimums allow a plea reduction down to 80 per cent of the minimum, but the firearms minimum allows none?
+Will: Yes. Firearms: no reduction below the minimum.
+Hannah: So one-third at the first stage, and one-quarter after, unless particular circumstances made an earlier plea unreasonable. Down to one-tenth on the first day of trial. For murder, one-sixth and never more than 5 years. And exceptions for a rejected Newton version and for minimum sentences.
+Will: Right.
+Hannah: That's part one done.
+## Recap
+Will: This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.

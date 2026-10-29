@@ -773,6 +773,63 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws07-v23-7dcd6f5a.mp3",
       "pubDate": "2026-10-27T17:19:39+00:00"
+    },
+    {
+      "id": "clp-ws08-v23-p1",
+      "unitId": "u-bpp-CLP-08",
+      "title": "CLP WS08 · Sentencing (part 1 of 2)",
+      "guideHash": "720d820aa5",
+      "script": "scripts/clp-ws08-v23-p1.txt",
+      "scriptHash": "568f888f27f9",
+      "audio": "audio/clp-ws08-v23-p1.mp3",
+      "recap": [
+        "Sources and purposes of sentencing: no checked point is taught yet; the duty to follow guidelines comes under the guidelines topic.",
+        "Which court sentences: if the magistrates consider their powers inadequate for an either-way offence, they may commit for sentence, and the Crown Court can then go up to the offence's maximum.",
+        "Basis of plea: where the prosecution does not accept D's basis and the difference would materially affect sentence, the court sentences on D's version or holds a Newton hearing, unless D's version is absurd or obviously untenable; the prosecution proves its version beyond reasonable doubt; a Newton hearing cannot decide an element of the offence.",
+        "Totality: concurrent is ordinarily right for one incident or a series of the same kind, especially against the same person, unless that would not reflect the overall criminality; consecutive is normally right for unrelated or distinct offences, a same-kind series that concurrent terms would not reflect (eg different victims), or to avoid undermining a statutory minimum; either way the overall sentence must be just and proportionate.",
+        "Deferring sentence: no checked point is taught yet.",
+        "Indications of sentence: in the magistrates' court, once D indicates a guilty plea after an indication, no court may impose custody unless custody was indicated, subject to a limited exception, and otherwise the indication binds no court; the Crown Court indication is not covered here.",
+        "Seriousness is culpability plus harm caused, intended or foreseeably possible; custody needs an offence so serious that neither a fine alone nor a community sentence can be justified, and a community order needs an imprisonable offence serious enough to warrant it.",
+        "Guidelines: every court must follow a relevant guideline unless that would be contrary to the interests of justice; in the stepped approach any assistance reduction comes before the guilty plea reduction.",
+        "The sentencing hearing: the defence speaks last; before deciding the thresholds, the length of custody or the requirements, a pre-sentence report must be obtained unless the court considers it unnecessary, and for under 18s it can be unnecessary only if there is an existing report; D must prove a mitigating fact the prosecution cannot be expected to know, on the balance of probabilities; reasons are given in open court.",
+        "Aggravating and mitigating factors: only some are statutory; the rest come from guidelines, and provocation mitigates only where an offence-specific guideline lists it.",
+        "Credit for a guilty plea: maximum one-third at the first stage, one-quarter after unless particular circumstances made an earlier plea unreasonable, down to one-tenth on the first day of trial; for murder one-sixth and never more than 5 years; exceptions for a rejected Newton version and for minimum sentences."
+      ],
+      "map": [
+        "Sources, purposes and general approach to sentencing",
+        "Which court sentences; committal for sentence",
+        "Basis of plea and Newton hearings",
+        "Totality: concurrent and consecutive sentences",
+        "Deferring sentence",
+        "Indications of sentence (magistrates' court and Goodyear)",
+        "Seriousness and the custody and community thresholds",
+        "Sentencing guidelines and the stepped approach",
+        "The sentencing hearing: mitigation, reports and reasons",
+        "Aggravating and mitigating factors",
+        "Credit for a guilty plea"
+      ],
+      "summary": "This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.",
+      "madeAt": "2026-10-29T08:15:02+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines checks x2 (last fix, one reworded line, Opus-supplied and code-checked); code ok",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10",
+        "b11"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
