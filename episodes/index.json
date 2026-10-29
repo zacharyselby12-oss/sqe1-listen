@@ -830,6 +830,60 @@
         "b11"
       ],
       "spec": "2.2"
+    },
+    {
+      "id": "clp-ws08-v23-p2",
+      "unitId": "u-bpp-CLP-08",
+      "title": "CLP WS08 · Sentencing (part 2 of 2)",
+      "guideHash": "720d820aa5",
+      "script": "scripts/clp-ws08-v23-p2.txt",
+      "scriptHash": "855193d7b259",
+      "audio": "audio/clp-ws08-v23-p2.mp3",
+      "recap": [
+        "Discharges and bind overs: nothing is checked on them yet, so nothing is taught here.",
+        "Fines: nothing is checked on fines themselves yet; a fine can be imposed alongside a community order and is an option on breach.",
+        "Community orders and requirements: available only for an offender aged 18 or over convicted of an imprisonable offence that is serious enough to warrant one; at least one requirement and up to 3 years; the requirements must be the most suitable and commensurate with seriousness, with at least one punitive requirement unless a fine is also imposed or exceptional circumstances apply; three requirements need the offender's consent.",
+        "Breach of a community order: the officer must warn or refer, and must refer if a warning was given within the previous 12 months; on proof the court must amend, fine up to £2,500, or revoke and re-sentence; a further offence is not a breach of the requirements.",
+        "Custodial sentences: not unless so serious that neither a fine alone nor a community sentence can be justified, subject to exceptions; the shortest term commensurate with seriousness, subject to exceptions; automatic release on licence at the halfway point, or 40 per cent for most standard determinate sentences, with exclusions, and two-thirds for specified serious offences with long sentences; remand time counts automatically and a qualifying tagged curfew counts half a day for each day.",
+        "Suspended sentence orders: a custodial sentence, so the threshold and shortest term come first; for an adult convicted on or after 22 March 2026, where an order is available, a term of 12 months or less must be suspended unless exceptional circumstances or an exclusion applies, and otherwise the ordinary power remains; breach means activation unless unjust.",
+        "Minimum sentences: set by offence group and age; the drug trafficking, burglary and weapon minimums apply, for offences on or after 28 June 2022, unless exceptional circumstances relating to the offence or offender justify not imposing them (earlier offences: unless particular circumstances make it unjust); the firearms minimum applies unless exceptional circumstances justify not imposing it.",
+        "Extended determinate sentences: for an offender aged 21 or over, a specified offence and a significant risk of serious harm are not enough; the court also needs a qualifying previous conviction or a long enough custodial term.",
+        "Life sentences: for an offender aged 21 or over, a listed offence meeting the dangerousness test means life must be imposed if the seriousness justifies it.",
+        "Professional conduct at sentencing: no duty to reveal previous convictions the prosecution has not revealed, but never mislead the court, whether by stating or by implying there are none."
+      ],
+      "map": [
+        "Discharges and bind overs",
+        "Fines",
+        "Community orders and requirements",
+        "Breach of a community order",
+        "Custodial sentences: threshold, court powers, release and remand credit",
+        "Suspended sentence orders",
+        "Minimum sentences",
+        "Extended determinate sentences",
+        "Life sentences",
+        "Professional conduct at sentencing"
+      ],
+      "summary": "That was discharges and bind overs, fines, community orders and requirements, breach of a community order, custodial sentences with their threshold, release and remand credit, suspended sentence orders, minimum sentences, extended determinate sentences, life sentences, and professional conduct at sentencing.",
+      "madeAt": "2026-10-29T08:15:32+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines checks x2 (last fix, one reworded line, Opus-supplied and code-checked); code ok",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b12",
+        "b13",
+        "b14",
+        "b15",
+        "b16",
+        "b17",
+        "b18",
+        "b19",
+        "b20",
+        "b21"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

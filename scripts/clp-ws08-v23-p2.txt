@@ -1,0 +1,204 @@
+---
+id: clp-ws08-v23-p2
+unit: u-bpp-CLP-08
+guide_hash: 720d820aa5
+made: 2026-10-29T08:15:32+00:00
+title: CLP WS08 · Sentencing (part 2 of 2)
+part: 2 of 2
+blocks: 12-21
+map:
+- Discharges and bind overs
+- Fines
+- Community orders and requirements
+- Breach of a community order
+- Custodial sentences: threshold, court powers, release and remand credit
+- Suspended sentence orders
+- Minimum sentences
+- Extended determinate sentences
+- Life sentences
+- Professional conduct at sentencing
+recap:
+- Discharges and bind overs: nothing is checked on them yet, so nothing is taught here.
+- Fines: nothing is checked on fines themselves yet; a fine can be imposed alongside a community order and is an option on breach.
+- Community orders and requirements: available only for an offender aged 18 or over convicted of an imprisonable offence that is serious enough to warrant one; at least one requirement and up to 3 years; the requirements must be the most suitable and commensurate with seriousness, with at least one punitive requirement unless a fine is also imposed or exceptional circumstances apply; three requirements need the offender's consent.
+- Breach of a community order: the officer must warn or refer, and must refer if a warning was given within the previous 12 months; on proof the court must amend, fine up to £2,500, or revoke and re-sentence; a further offence is not a breach of the requirements.
+- Custodial sentences: not unless so serious that neither a fine alone nor a community sentence can be justified, subject to exceptions; the shortest term commensurate with seriousness, subject to exceptions; automatic release on licence at the halfway point, or 40 per cent for most standard determinate sentences, with exclusions, and two-thirds for specified serious offences with long sentences; remand time counts automatically and a qualifying tagged curfew counts half a day for each day.
+- Suspended sentence orders: a custodial sentence, so the threshold and shortest term come first; for an adult convicted on or after 22 March 2026, where an order is available, a term of 12 months or less must be suspended unless exceptional circumstances or an exclusion applies, and otherwise the ordinary power remains; breach means activation unless unjust.
+- Minimum sentences: set by offence group and age; the drug trafficking, burglary and weapon minimums apply, for offences on or after 28 June 2022, unless exceptional circumstances relating to the offence or offender justify not imposing them (earlier offences: unless particular circumstances make it unjust); the firearms minimum applies unless exceptional circumstances justify not imposing it.
+- Extended determinate sentences: for an offender aged 21 or over, a specified offence and a significant risk of serious harm are not enough; the court also needs a qualifying previous conviction or a long enough custodial term.
+- Life sentences: for an offender aged 21 or over, a listed offence meeting the dangerousness test means life must be imposed if the seriousness justifies it.
+- Professional conduct at sentencing: no duty to reveal previous convictions the prosecution has not revealed, but never mislead the court, whether by stating or by implying there are none.
+summary: That was discharges and bind overs, fines, community orders and requirements, breach of a community order, custodial sentences with their threshold, release and remand credit, suspended sentence orders, minimum sentences, extended determinate sentences, life sentences, and professional conduct at sentencing.
+invented:
+- Priya
+- Asha
+- Imran
+- Gareth
+- Kofi
+- Mia
+- Sam
+- 19
+- 24
+- 28
+- 34
+- 17
+- 8 months
+- 3 years
+- four months
+- April 2026
+- 18
+---
+## Map
+Will: Part one covered the approach to sentencing, up to credit for a guilty plea. This part is about the sentences themselves. First group: the lower-level ones. Discharges and bind overs, fines, and community orders with their requirements.
+Hannah: So lower-level first. Where does that lead?
+Will: To what happens when a community order goes wrong, which is breach. Then custodial sentences, with their threshold, release and remand credit.
+Hannah: Lower-level, breach, then custody. And the last group?
+Will: Suspended sentence orders, then three for serious or repeat offenders: minimum sentences, extended sentences and life sentences. We finish with professional conduct at sentencing.
+Hannah: So there are four strands. Community sentences and their breach, then custody and its suspended cousin. Then the heavy end for serious, repeat and dangerous offenders, and last what a solicitor can say about previous convictions.
+Will: Right, that is the whole route. Starting with the first two.
+## Block 12: Discharges and bind overs
+Will: Discharges and bind overs come first. The guide has no checked points on them yet, so we teach nothing here and stay with what is verified.
+Hannah: A very short stop, then. Fines are next, I take it.
+## Block 13: Fines
+Will: Yes. Fines are the same story: no checked point on fines themselves yet. What matters is how a fine combines with other sentences. It appears alongside a community order, and it appears as an option on breach.
+Hannah: So it is a side dish in one place and a breach option in another. We meet both in the next topics.
+## Block 14: Community orders and requirements
+Will: Right: a side dish and a breach option. Now community orders and their requirements. Check availability first, then the requirements. There are three conditions for availability. One: the offender is aged 18 or over. Two: the offence is imprisonable.
+Hannah: And three is the one from the thresholds earlier: the offence is serious enough to warrant a community order?
+Will: Right: three is that the offence is serious enough to warrant it. The order must contain at least one requirement. The maximum length is 3 years.
+Hannah: Say the offender is 17 and the offence is imprisonable. What happens?
+Will: No community order, because the age condition fails. All three must be met. Next, choosing the requirements, which has two tests. The requirements must be the most suitable for the offender. And the restrictions on liberty must be commensurate with the seriousness of the offence.
+Hannah: Is there a punishment element, or can an order be all support?
+Will: There must be at least one requirement imposed for punishment. Two ways round that. The court also imposes a fine, or exceptional circumstances relating to the offence or the offender would make both a punitive requirement and a fine unjust. A fine can sit alongside a community order. The Imposition guideline pitches orders at low, medium or high levels.
+Hannah: Say Priya, 19, is convicted of an imprisonable theft. The court gives her unpaid work and a rehabilitation requirement. Is the punishment box ticked?
+Will: Yes, if the court imposed the unpaid work for punishment: then there is a punitive requirement, so no fine is needed to satisfy that rule. Now the limits to learn. Unpaid work is 40 to 300 hours.
+Hannah: And curfew? I would have said 2 to 16 hours a day, for at most 12 months.
+Will: Those are the old figures. Curfew is 2 to 20 hours a day. It is at most 112 hours in any 7 days. And it can last up to 2 years.
+Hannah: Exclusion must be shorter, then.
+Will: Not shorter: an exclusion requirement is also up to 2 years. The requirements include others, such as programme and residence, and the full list sits in the guide. One more point matters here. Three requirements need the offender's consent, meaning willingness to comply. Drug rehabilitation, alcohol treatment and mental health treatment.
+Hannah: And if the offender refuses?
+Will: Refusal can justify a custodial sentence.
+Hannah: So a community order needs 18 or over, an imprisonable offence serious enough to warrant it, at least one requirement and up to 3 years. The requirements must be suitable and commensurate, with a punitive one unless there is a fine or exceptional circumstances. And three treatment requirements need consent.
+## Block 15: Breach of a community order
+Will: Right, that covers it. From the order itself to breach of a community order. There are two situations that are not the same: failing to comply with a requirement, and committing a further offence. Take failure first. If the responsible officer believes D breached a requirement without reasonable excuse, what is the first step?
+Hannah: Give a warning, I think. D has to be told it is unacceptable before anything else.
+Will: Close, but not quite. The officer must either give a warning or refer the matter for enforcement. A warning is not compulsory first. What is compulsory is referral where a warning was already given within the previous 12 months.
+Hannah: Fine. And once it reaches court and the breach is proved?
+Will: The court must do one of three things. Amend the order to impose more onerous requirements. Fine D up to £2,500. Or revoke the order and re-sentence for the original offence, including custody where it is available. D's compliance so far must be taken into account.
+Hannah: Now the other situation. D commits a new offence during the order. Is that a breach as well?
+Will: Not of the requirements. The court convicting D for the new offence may, if in the interests of justice, revoke the order. It may also revoke and re-sentence for the original offence. A magistrates' court can do that only for a magistrates' order. Otherwise it sends D to the Crown Court.
+Hannah: So the look-alike is failing a requirement versus a further offence.
+Will: Yes, and the fact that tells them apart is whether D broke the order's own requirements. That is a breach, with the officer's route and a fine up to £2,500. A new offence is not a breach, and the convicting court decides what happens to the order.
+Hannah: Quick version: failing a requirement is a breach, and a new offence is not.
+Will: Right. Now a story to try. The test is whether the officer must refer. Asha, 24, is on a community order with unpaid work. She misses a session with no reasonable excuse. The officer had already given her a warning four months ago for an earlier missed session. What must the officer do now?
+Hannah: Give another warning, refer for enforcement, or do nothing until a third failure?
+Will: <think>
+Hannah: This turns on breach of a community order. A warning in the previous 12 months matters. Four months ago is inside that, so it is the referral rule.
+Will: Right: the officer must refer the matter for enforcement, because a warning was already given within the previous 12 months. The officer had no choice to warn again. The court then deals with proven breach under its three options.
+Hannah: And if the earlier warning had been long before, outside that window?
+Will: Then the officer could warn again or refer. It is the 12 months that removes the choice.
+## Block 16: Custodial sentences: threshold, court powers, release and remand credit
+Hannah: Right. On to custodial sentences, then, including the threshold, release and the courts' powers.
+Will: Yes. Start with the threshold. The court must not pass a custodial sentence unless the offence, alone or with associated offences, is so serious that neither a fine alone nor a community sentence can be justified. The idea is that custody is for cases where nothing lighter will do.
+Hannah: Any way round that?
+Will: Exceptions, three. One: mandatory sentences. Two: D fails to express willingness to comply with a requirement that needs it. Three: certain breaches, for example wilful and persistent failure to comply with a community order.
+Hannah: And once custody is chosen, how long?
+Will: The shortest term commensurate with the seriousness of the offence, or of it and associated offences. That does not apply to four kinds of sentence. Those fixed by law, required life sentences, minimum sentences and extended sentences.
+Hannah: Release next. Is it halfway?
+Will: Halfway is one answer, but not the only one. An adult on a standard determinate sentence is released automatically on licence. That is at the halfway point, or at 40 per cent for most standard determinate sentences. There are exclusions, for example sexual offences and longer sentences for serious violent offences.
+Hannah: And the serious ones?
+Will: For specified serious violent or sexual offences with long sentences, release is at two-thirds.
+Hannah: So halfway, 40 per cent for most with exclusions, and two-thirds for the specified serious ones.
+Will: Right. Now the courts' powers. The magistrates' limit for a summary offence is 6 months, or the lower statutory maximum. For a single either-way offence it is 12 months. The minimum term is 5 days.
+Hannah: What if there are several offences?
+Will: Consecutive terms for summary offences may not exceed 6 months in aggregate. For two or more either-way offences, the aggregate may not exceed 12 months. The Crown Court can go up to the statutory maximum for the offence.
+Hannah: Then what stops the magistrates being stuck at 12 months for something nasty?
+Will: Committal for sentence, and that is the look-alike. The magistrates can impose at most 12 months for a single either-way offence. But if they consider their powers inadequate, because the offence alone or with associated offences is so serious that the Crown Court should be able to deal with D as if convicted on indictment, they may commit D for sentence. D can then receive up to the offence's maximum.
+Hannah: So the fact that tells them apart is whether the magistrates sentence themselves or send D up. Their own limit, or up to the offence's maximum once committed.
+Will: Right. Last piece is credit for time already served. Time on remand in custody counts automatically towards the sentence.
+Hannah: And a tagged curfew on bail?
+Will: Bail with a qualifying electronically monitored curfew of at least 9 hours a day counts. It counts as half a day for each day, and the court must direct that credit.
+Hannah: So custody only past the threshold, subject to its exceptions, and for the shortest commensurate term, again with exceptions. Release at halfway, at 40 per cent for most with exclusions, or at two-thirds for specified serious offences with long sentences. Remand counts automatically, and a qualifying tagged curfew gets half-day credit that the court must direct.
+## Block 17: Suspended sentence orders
+Will: Right. Now suspended sentence orders. An order is a custodial sentence, so the court first decides that the custody threshold is passed. Then it fixes the shortest commensurate term. Only then does it consider suspension. What can be suspended? A term of at least 14 days. And not more than 3 years. That upper limit is 2 years if D was convicted before 22 March 2026. And the magistrates' court may suspend only within its own powers.
+Hannah: So how far can the magistrates go?
+Will: For a single summary offence, at most 6 months, or its lower maximum. For a single either-way offence, 12 months. And 12 months in aggregate for two or more either-way offences.
+Hannah: Back to the date, then. So the date of conviction matters, not the date of the offence?
+Will: Right: what counts is the date of conviction. That same date drives the presumption. For an adult convicted on or after 22 March 2026, where a suspended sentence order is available, a custodial term of 12 months or less must be suspended. The exception is exceptional circumstances relating to the offence or the offender, or an exclusion.
+Hannah: What are the exclusions?
+Will: Five. One: D is already in custody in another matter, or detained under a hospital order. Two: the sentence is one of several imposed on the same occasion, and any term is over 12 months or consecutive terms total more than 12 months.
+Hannah: Go on.
+Will: Three: D is being re-sentenced for an offence for which he is or was subject to a supervision order, such as a community order, or committed the offence while subject to one. Four: the offence was a breach of a court order, or arose in circumstances closely connected with one. Five: suspension would put a particular individual at significant risk of physical or psychological harm.
+Hannah: And if one of those applies, can the court not suspend at all?
+Will: It can. The presumption falls away, but the ordinary power to suspend remains. Here is a pair. Sam, 30, committed a theft last year but is convicted after the March start. The shortest commensurate term is 8 months, and no exclusion applies.
+Hannah: So he must be suspended, unless exceptional circumstances.
+Will: Right: the court must suspend, because the date of conviction is what counts. Now the same facts, but Sam committed the theft while on a community order. That is an exclusion, so the presumption does not apply. The court may still suspend under the ordinary power.
+Hannah: How does the court decide under the ordinary power?
+Will: The Imposition guideline. There are four factors for suspending. A realistic prospect of rehabilitation in the community, D not presenting a high risk of reoffending or harm, strong personal mitigation, and immediate custody significantly harming others, for example dependent children.
+Hannah: And against?
+Will: Against: D presents a risk to any person, appropriate punishment is only achievable by immediate custody, or a history of poor compliance with court orders and unlikely to comply in future. For those convicted after the March start, this table is used only where the presumption does not apply.
+Hannah: Is a suspended sentence the same as a community order, just wearing a hat?
+Will: That is the look-alike. An order is a custodial sentence, so the threshold and shortest term come first, and it may be made with or without community requirements. A community order is for an adult with an imprisonable offence serious enough to warrant it, and must contain at least one requirement.
+Hannah: So the fact that tells them apart is the custody threshold: suspended means custody first, community order means at least one requirement.
+Will: Right. Now the periods. The operational period is the time in which any further offence makes D liable to the custodial term. It is at least 6 months and not more than 2 years. It can be up to 3 years where the custodial term, or consecutive terms imposed on the same occasion, exceed 2 years.
+Hannah: And requirements?
+Will: If community requirements are imposed, the order sets a supervision period. It must not end later than the operational period. The operational period applies either way.
+Hannah: What happens on breach, then? Does the original sentence just come back?
+Will: Not automatically. Breach means a further offence in the operational period or failure to comply with a requirement. The court must activate the suspended term in full or with a lesser term, unless that would be unjust in all the circumstances.
+Hannah: And if it would be unjust?
+Will: Then it must give its reasons, and it can fine D up to £2,500. Or extend the operational or supervision period. Or, where the order has community requirements, impose more onerous requirements. When the term is activated for a further offence, it is normally ordered to run consecutively to the sentence for the new offence.
+Hannah: So a breach of a suspended order means activation unless unjust, and then a fine, an extension or heavier requirements.
+Will: Right. A story to check it. The test is whether the presumption of suspension applies. Imran, 28, is convicted in April 2026 of an offence committed while subject to a suspended sentence order. The shortest commensurate term is 8 months and a suspended sentence order is available. Must the court suspend it?
+Hannah: Must suspend, may still suspend under the ordinary power, or cannot suspend at all?
+Will: <think>
+Hannah: This is suspended sentence orders and the exclusions. Imran offended while subject to a supervision order of that kind, so an exclusion applies. The presumption falls away. But the ordinary power is still there.
+Will: Right: the presumption does not apply, because he committed the offence while on a suspended sentence order. The court may still suspend under the ordinary power, using the Imposition guideline. It is not a must, and it is not a cannot.
+## Block 18: Minimum sentences
+Hannah: Then from suspended sentences to the opposite end: minimum sentences. Four groups, I think?
+Will: Yes: four groups of offence, and each has its age limits. Group one: a third Class A drug trafficking offence. The minimum is 7 years. Group two: a third domestic burglary. The minimum is 3 years. Both are for offenders aged 18 or over.
+Hannah: And the weapons one?
+Will: Group three: threatening with a bladed article or offensive weapon, and a second or subsequent offence of possessing one. For an offender aged 18 or over, the minimum is 6 months. For 16 and 17 year olds it is a 4-month detention and training order.
+Hannah: Say Kofi is 17 and is convicted of threatening with a bladed article. What is his minimum?
+Will: A 4-month detention and training order. At 18 it would be 6 months. Age decides it.
+Hannah: Group four, firearms?
+Will: Possession of a prohibited firearm. The minimum is 5 years for an offender aged 18 or over at the offence. It is 3 years for an offender aged 16 or 17 at the offence. Under 16 there is no minimum. It is the age at the offence, not at conviction.
+Hannah: So when does the court not have to pass the minimum? I would have said when it would be unjust.
+Will: Not quite, because that is the older test, and it still applies to earlier offences. For offences committed on or after 28 June 2022, the minimum applies unless there are exceptional circumstances relating to the offence or the offender that justify not imposing it. The firearm minimum also has the exceptional circumstances test. The offence date decides which test applies.
+Hannah: So minimums go by offence group and age, and for offences on or after that June date, only exceptional circumstances relating to the offence or offender let the court go below.
+Will: Right. Whether it is exceptional is for the court, but the test is that high.
+## Block 19: Extended determinate sentences
+Hannah: Next, extended determinate sentences. For dangerous offenders aged 21 or over?
+Will: Yes. Three conditions for an extended sentence. One: a specified offence. Two: the court finds a significant risk to the public of serious harm from further specified offences.
+Hannah: So a specified offence and a dangerous offender is enough?
+Will: Not enough. Three: either D has a qualifying previous conviction of the kind the legislation lists, or the custodial term would be long enough, which the story gives you. The extra condition is why this sentence is kept for the most serious cases.
+Hannah: What about the magistrates? They cannot pass one.
+Will: Right: a magistrates' court that thinks an extended sentence is available must commit D to the Crown Court.
+Hannah: Quick version, four things: aged 21 or over, a specified offence, significant risk, and then a previous conviction or a long enough term.
+Will: Right. Now a story. The test is the third condition. Gareth, 34, is convicted in the Crown Court of a specified offence. The court finds a significant risk of serious harm from further specified offences. He has no qualifying previous conviction, and the custodial term would be 3 years. Extended sentences need either a qualifying previous conviction or a term of at least 4 years. Is an extended sentence available?
+Hannah: Available, or not available because neither the previous conviction nor the 4-year term is met?
+Will: <think>
+Hannah: This is extended determinate sentences. The first two conditions are met. For the third, he has no previous conviction, and 3 years is under 4. So it is not available.
+Will: Right: not available, because neither alternative is met. The specified offence and the significant risk are necessary, but not enough.
+## Block 20: Life sentences
+Hannah: Which brings us to life sentences, for the dangerous offender.
+Will: Yes. For an offender aged 21 or over, where a listed serious offence meets the dangerousness test, life must be imposed if the seriousness justifies it.
+Hannah: Must? I thought there was still a discretion once the offender is dangerous.
+Will: There is not. The only judgment left is whether the seriousness justifies a life sentence. If it does, the court must impose one.
+Hannah: So dangerous plus seriousness that justifies it means life, with no discretion.
+Will: Right. Murder is not covered here, so we leave it.
+## Block 21: Professional conduct at sentencing
+Hannah: Last topic, then: professional conduct at sentencing, on previous convictions and good character.
+Will: Yes. The advocate must not mislead the court in mitigation. That means not saying D is of good character or has no previous convictions if that is untrue, and not making assertions the advocate knows to be false.
+Hannah: Does a solicitor have to tell the court about the client's convictions, then? Say the prosecution has missed one.
+Will: No duty to tell the court of previous convictions the prosecution has not revealed. But the solicitor must not mislead the court by stating or implying the client has none.
+Hannah: So staying silent is allowed, but implying a clean record is not.
+Will: Right, and that is the look-alike. Say Mia acts for a client whose conviction the prosecution missed. She says nothing about convictions: allowed. She tells the court he is a man of good character: misleading. The fact that tells them apart is stating or implying there are none.
+Hannah: And if the court asks her directly?
+Will: She cannot answer falsely. She should decline to answer and, if necessary, withdraw.
+Hannah: What if the client gives a false name, wrongly denies previous convictions, or insists on false evidence?
+Will: The solicitor must not mislead the court. If the client will not allow the truth to be told, the solicitor must cease to act, without disclosing the confidential reason.
+Hannah: In short: no duty to volunteer convictions the prosecution has not revealed, but never mislead, and walk away if the client blocks the truth.
+Will: Right. That is the whole of this part.
+## Recap
+Hannah: Give me the whole route in one go.
+Will: That was discharges and bind overs, fines, community orders and requirements, breach of a community order, custodial sentences with their threshold, release and remand credit, suspended sentence orders, minimum sentences, extended determinate sentences, life sentences, and professional conduct at sentencing.
