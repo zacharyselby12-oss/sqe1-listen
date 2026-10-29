@@ -987,7 +987,7 @@
       ],
       "summary": "That was the types of ADR, why use it against litigation, the lawyer's role and timing, how the court encourages it, and ending a claim by discontinuance: normally without permission, but unless the court orders otherwise the claimant pays the defendant's costs.",
       "madeAt": "2026-10-29T21:43:27+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + line-by-line + coverage checks; fixes applied; Opus changed-lines checks x2 (last fix a one-line Opus-supplied replacement, code-checked); code ok",
@@ -1000,7 +1000,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12557394,
+      "seconds": 1570,
+      "words": 4022,
+      "renderedHash": "979aef21bf5a",
+      "renderedAt": "2026-10-29T21:44:29+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p1-e01b39fd.mp3",
+      "pubDate": "2026-10-29T21:44:29+00:00"
     }
   ],
   "replays": [
