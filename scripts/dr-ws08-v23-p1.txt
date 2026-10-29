@@ -1,0 +1,223 @@
+---
+id: dr-ws08-v23-p1
+unit: u-bpp-DR-08
+guide_hash: 7c8712e0bf
+made: 2026-10-29T21:43:27+00:00
+title: Dispute Resolution WS08 · ADR and discontinuance (part 1 of 2)
+part: 1 of 2
+blocks: 1-5
+map:
+- Types of ADR
+- Why use ADR: litigation compared
+- The lawyer's role and the timing of ADR
+- How the court encourages ADR: orders, stays and costs sanctions
+- Ending a claim: discontinuance
+recap:
+- Types of ADR: arbitrators, expert determination and construction adjudication decide; mediators and conciliators only help the parties settle, and a mediation binds only if they reach agreement.
+- Why use ADR: mediation suits a continuing relationship, confidentiality or an outcome a court cannot order, but only litigation gives the court's coercive powers, and ADR is not always cheaper.
+- The lawyer's role: explain the options with their cost and risk, settle only within instructions, and remember mediation can happen at any time, before or during proceedings.
+- The court and ADR: the court can order ADR if the order is proportionate, and an unreasonable refusal can cost a party even if it wins, with the burden on the unsuccessful party to show it.
+- Discontinuance: usually no permission is needed, except in three cases, and unless the court orders otherwise the claimant pays the defendant's costs up to service of the notice, though not on the small claims track.
+summary: That was the types of ADR, why use it against litigation, the lawyer's role and timing, how the court encourages it, and ending a claim by discontinuance: normally without permission, but unless the court orders otherwise the claimant pays the defendant's costs.
+invented:
+- Corvane Ltd
+- Delmar Ltd
+- Brightwell Ltd
+- Tessa
+- Omar
+- Pellman Ltd
+- Hartley Foods
+- Norfield Packaging
+- Marcus
+- Harbour Dental
+- Rowan Partners
+- the supply contract
+- the trade secrets
+---
+## Map
+Will (warm): Right, Hannah. Settling a dispute without a trial, and then ending a claim yourself. Five topics, in the order a solicitor meets them, and the second half of this workshop picks up Part 36 offers.
+Hannah (wary): Five. Go on, then.
+Will: First, the types of ADR: who decides, and whether the outcome binds. Second, why you would use ADR rather than litigation. Third, what the solicitor must do, and when ADR should happen.
+Hannah: So: the types, ADR against litigation, then the lawyer's job and the timing.
+Will: Right. Fourth is how the court pushes people towards ADR, and fifth is ending a claim by discontinuance.
+Hannah (thinking aloud): Okay. The court's nudges, and then walking away from a claim. Types, comparison, lawyer, court, discontinuance.
+Will (pleased): Yes, that is the whole route.
+## Block 1: Types of ADR
+Will: First topic, the types of ADR. Two questions sort every form. Does a neutral take part, and does anyone decide?
+Hannah: Go on. Who decides?
+Will: An arbitrator decides. So does an expert under an expert determination, and so does a construction adjudicator. A mediator or a conciliator only helps the parties settle, and decides nothing.
+Hannah (thinking aloud): So negotiation is just the two sides with no neutral at all.
+Will: Right, and it binds only if they agree a settlement. Mediation is the first neutral one. It is confidential and without prejudice, and the mediator helps the parties negotiate their own settlement.
+Hannah: Is it voluntary, though?
+Will: The settlement is. Taking part is not always, because the court can order the parties to engage in ADR. But the mediator never decides the dispute or imposes anything.
+Hannah (curious): And what if they do settle?
+Will: A settlement agreement signed at the end is a binding contract, and it can be recorded in a consent order. If there is no settlement, the parties stay free to litigate or arbitrate, and what was said in the mediation cannot be used in evidence, because it is without prejudice.
+Hannah (brisk): So a mediation binds only if there is a deal.
+Will: Right. Now arbitration, which is the heavy one. It is private, binding adjudication by an arbitrator or tribunal appointed by or for the parties under an arbitration agreement. The Arbitration Act governs it.
+Hannah (sceptical): Why would anyone choose it over a court?
+Will: It suits technical, commercial or international disputes. The parties can pick an arbitrator with the right expertise and agree the seat, the language and the procedure, and it is all private and confidential.
+Hannah: And it is cheaper, presumably.
+Will (dry): Not necessarily. The parties pay the arbitrators' fees and the venue as well as their own lawyers, and the tribunal can order the loser to pay costs.
+Hannah (groaning): Right. So no shortcut there.
+Will: Two limits on its reach. A tribunal cannot bind or join non-parties without their consent, and it has limited coercive powers. The court can step in to support it, for example by securing the attendance of witnesses or granting interim injunctions.
+Hannah: Is that all of it?
+Will: Some recent changes. First, unless the parties agree otherwise, the tribunal can now make an award on a summary basis, on a party's application, where a party has no real prospect of success.
+Hannah (thinking aloud): A summary judgment, but in arbitration.
+Will: Yes, that is the idea. Second, the law governing the arbitration agreement itself is now the law of the seat, unless the parties expressly agree a law for that agreement. Choosing the law of the main contract is not enough.
+Hannah: Any exception?
+Will: One. It does not apply to an agreement that derives from a standing offer to arbitrate in a treaty or foreign legislation.
+Hannah (wry): Lovely. So express words for the arbitration agreement itself, or it is the seat's law.
+Will: Right. Now arbitration and the courts, which is where the exam likes to trap you. Suppose a party starts court proceedings on something an arbitration agreement covers.
+Hannah (guessing): Then the court case just carries on?
+Will: Not if the other side applies. The court must grant a stay unless the agreement is null and void, inoperative or incapable of being performed. There are three of those, and they are the only ways out.
+Hannah: Is there a timing catch?
+Will: Yes. The application must come after acknowledging service and before taking any step to answer the substantive claim, such as filing a defence.
+Hannah (relieved): And I had a note saying arbitration cannot start once a claim form has been issued, because the court's jurisdiction cannot be ousted.
+Will: Which is wrong where an arbitration agreement covers the dispute. The defendant applies for the stay, and the court must grant it, subject to those three limits.
+Hannah (brisk): Good. Scenario time?
+Will: Go on, then. Corvane Ltd sues Delmar Ltd in court over a supply contract. The contract has an arbitration clause that covers exactly this dispute, and nothing suggests the clause is void, inoperative or incapable of being performed. Delmar acknowledges service and, before filing any defence, applies for a stay.
+Hannah: The question is whether the court must grant the stay, or whether it can refuse because the claim form has already been issued?
+Will: <think>
+Hannah (thinking aloud): This is the stay rule. The claim form is already issued, which was my old note's trap. But the agreement covers the dispute, none of the three limits applies, and Delmar applied at the right moment, after acknowledging service and before any defence. So the court must grant it.
+Will: Yes, the court must grant the stay. Issuing the claim form does not stop arbitration. The deciding facts are the clause covering the dispute and the timing of the application.
+Hannah: And the award, once made, is final?
+Will: Final and binding, and the court route against it is narrow. A party can challenge the tribunal's substantive jurisdiction, or allege serious irregularity causing substantial injustice. Both of those are mandatory, so the parties cannot exclude them by agreement.
+Hannah: And if the tribunal simply got the law wrong?
+Will: A single appeal exists, and it is on a point of law. It needs the agreement of all parties or the court's leave, and the parties can exclude it, for example by adopting institutional rules that exclude appeals, or by agreeing to dispense with reasons. There is no appeal on the facts.
+Hannah (thoughtful): So the law appeal is optional, but the jurisdiction and irregularity challenges are not.
+Will: Right. And whichever route, the time limit is 28 days. That runs from the award. If there was an arbitral appeal or review, it runs from notification of the result; if there was a material correction or additional award, it runs from that correction or award; and if a material application for one was refused, it runs from notification of the refusal.
+Hannah: Anything on the way the court rules might change this?
+Will: Rules of court may limit new grounds and evidence, and bar a re-hearing of evidence, on a jurisdiction challenge by a party who took part in the arbitration. At the time of this guide, no such rule had been made.
+Hannah: And enforcing an award?
+Will: At home, an award is enforced as a judgment, with the court's permission. Abroad, it is enforced under the New York Convention, which is often easier than enforcing an English judgment abroad. That is a key reason to choose arbitration for international contracts.
+Hannah (summing up): So final and binding, narrow challenge, and the permission and treaty routes to enforce it.
+Will: Right. Last group: the other forms. Med-arb means mediation first and, if that fails to settle it, binding arbitration. Early neutral evaluation, also called expert appraisal, is a neutral giving a non-binding opinion on the merits.
+Hannah: And expert determination?
+Will: An expert makes a binding decision under a contract, usually on a technical or valuation point, with very limited challenge. It is not under the Arbitration Act.
+Hannah (brisk): So how do I tell evaluation from expert determination?
+Will: By whether the opinion binds. Evaluation is non-binding. Expert determination binds under the contract, and it is not arbitration.
+Hannah: That's the first look-alike. Is there another?
+Will: Conciliation against mediation. Both are facilitative, so the neutral decides nothing. But conciliation is often part of a statutory or regulatory scheme, such as Acas early conciliation, where a conciliation officer must endeavour to promote a settlement before an employment tribunal claim is presented. Mediation is the parties' own process.
+Hannah (thoughtful): Fine. And the last form?
+Will: Construction adjudication, a statutory right under the construction legislation. The adjudicator's decision is due within 28 days of referral. The extension is 14 days, with the referring party's consent. It can be longer if the parties agree. And the decision binds until finally determined by legal proceedings, arbitration or agreement.
+Hannah (summing up): So in the end, who decides? Arbitrator, expert, adjudicator. Who only helps? Mediator, conciliator.
+Will: Right. One line after the look-alikes: an arbitrator decides and the award binds, a mediator decides nothing, and evaluation is non-binding while expert determination binds.
+Hannah (brisk): Types done. The decision-makers decide, the helpers help, and mediation binds only on a deal. Now, why bother with any of it?
+## Block 2: Why use ADR: litigation compared
+Will: That is the second topic: why use ADR, and what only litigation gives. The lead idea is matching the process to the client. Where would you send a client who wants to keep trading with the other side?
+Hannah (guessing): Mediation, surely.
+Will: Right. Mediation suits parties who want an ongoing relationship or a quick and cheap process. It also suits confidentiality, or creative outcomes a court cannot order, such as an apology or future business.
+Hannah: Story time?
+Will: Two partners in a long trading relationship fall out over a late delivery. They want to keep trading, ideally with an apology and a new supply deal. Mediation suits, because a court cannot order either of those.
+Hannah (guessing): And the counter-story is someone who needs something mediation cannot give.
+Will: Right. Hartley Foods needs an urgent injunction to stop a former partner using its trade secrets. Mediation is less suitable there, because litigation gives full access to the court's coercive powers, such as interim injunctions. So the deciding fact is whether the client needs something mediation cannot give or an outcome the parties shape themselves.
+Hannah: What else makes mediation less suitable?
+Will: Mediation is less suitable where a party needs a binding ruling on a point of law, or summary judgment, or where the other side is acting in bad faith.
+Hannah (summing up): So injunction, point of law and summary judgment all point to litigation, and so does bad faith.
+Will: Right. And my old note said ADR is always cheaper, so take care. Mediation suits parties who want a quick and cheap process, but arbitration is not necessarily cheaper, for the reasons we have just heard.
+Hannah: What about litigation costs?
+Will: The general rule is that the unsuccessful party pays the successful party's costs. That is subject to the court's discretion, and it does not apply on the small claims track. Court fees are payable too, so the overall cost risk can be high.
+Hannah: And privacy?
+Will: Litigation is public. Hearings are generally in public, and the parties cannot simply agree otherwise. Judgments are public too, and many are published. That suits a client who wants public vindication or a precedent, but not one who needs confidentiality.
+Hannah (brisk): And what can only litigation do?
+Will: A few things. First, it needs no agreement: a claimant can start proceedings alone and the defendant must respond or risk default judgment. Arbitration needs an arbitration agreement, usually a contract clause, and mediation needs both parties to take part.
+Hannah: Second?
+Will: Litigation ends in a binding judgment imposed by a judge. The court can enforce it, and it can be appealed, usually only with permission.
+Hannah: And the other two?
+Will: The coercive powers, and joining others. Only litigation gives full access to interim remedies such as freezing injunctions and search orders, as well as default judgment, compulsory disclosure and witness summonses. And it can join third parties who did not agree to the process.
+Hannah (wry): And what about summary disposal? I thought that was litigation's party trick.
+Will: Not any more. An arbitral tribunal can now make a summary award, on a party's application, where there is no real prospect of success, unless the parties agree otherwise. The court can also support arbitration.
+Hannah (summing up): So what only litigation really keeps is the full coercive toolkit and binding third parties.
+Will: Right. One line to end the topic: mediation suits a continuing relationship, confidentiality or an outcome a court cannot order. But it is less suitable when you need an injunction or summary judgment, or a ruling on a point of law, or when the other side is acting in bad faith.
+Hannah: And litigation is for vindication and precedent. Onwards, then, to the solicitor.
+## Block 3: The lawyer's role and the timing of ADR
+Will: Third topic: the lawyer's role and the timing of ADR. What must a solicitor tell the client?
+Hannah (guessing): Everything the client needs to make sensible decisions.
+Will: Right. A solicitor must give the client the information needed to make informed decisions about the services they need and how the matter will be handled. That includes the options for resolving the dispute, such as negotiation or mediation, and arbitration or litigation, with their cost and risk implications.
+Hannah: And settling?
+Will: The solicitor must act within the client's instructions. A settlement beyond the solicitor's actual authority may still bind the client as against the other side, through ostensible authority. But it is a breach of the solicitor's duties to the client.
+Hannah (thoughtful): So the client may be bound, and the solicitor may be in trouble.
+Will: Right. Now timing. Litigation should be a last resort. The parties should consider negotiation or another form of ADR before starting proceedings.
+Hannah: And if they skip it?
+Will: Once proceedings are issued, the court may require evidence that ADR was considered. A party's silence in response to an invitation to ADR, or its refusal, might be considered unreasonable and could lead to a costs penalty.
+Hannah: Can mediation wait until the trial is looming?
+Will: Mediation can take place at any time, before or during proceedings, and the court can stay proceedings so the parties can try to settle. Each party normally bears its own costs of mediation and they share the mediator's fee, though the court may later treat these as costs in the case.
+Hannah (brisk): And the court's own stay?
+Will: In the directions questionnaire a party may ask for a stay to try to settle by ADR or other means. It is normally one month, or as the court thinks fit. The court may also order a stay of its own initiative.
+Hannah (summing up): So explain the options with their cost and risk, settle only within instructions, and ADR is possible at any time.
+Will: Right, and keep the word normally on the mediation costs. Each party bears its own, normally.
+## Block 4: How the court encourages ADR: orders, stays and costs sanctions
+Will: Fourth topic: how the court encourages ADR, through orders, stays and costs sanctions. Can the court actually make people mediate?
+Hannah (sceptical): Can it? Forcing a voluntary process sounds like a contradiction, doesn't it?
+Will: It can order the parties to engage in ADR, but only if the order does not impair the very essence of the right to a judicial hearing and is proportionate to the legitimate aim of settling the dispute fairly, quickly and cheaply. The rules now expressly give the court this power.
+Hannah: And if you ignore it?
+Will: Failing to comply with an ADR order, or unreasonably failing to engage in ADR, can be penalised in costs, even against a party that wins. The court can also stay proceedings so the parties can try ADR.
+Hannah: So winning does not protect you.
+Will: Right. The court looks at all the circumstances, and conduct is a big part of it. That covers pre-action conduct and compliance with protocols, whether it was reasonable to raise or contest an issue, and how the case was pursued.
+Hannah: Anything else in the conduct group?
+Will: Exaggeration by a successful claimant, and failure to comply with an ADR order or unreasonable failure to engage in ADR. And beyond conduct, the court also weighs partial success and any admissible offer that is not a Part 36 offer.
+Hannah (brisk): Who has to prove the refusal was unreasonable?
+Will: The unsuccessful party. In the Halsey case, the burden is on the unsuccessful party to show that the successful party acted unreasonably in refusing ADR, so as to justify departing from the general rule that the loser pays.
+Hannah: And what counts as unreasonable?
+Will: The court considers factors including the nature of the dispute, the merits, and whether other settlement methods have been tried. It also looks at whether the costs of ADR would be disproportionately high, whether delay in setting it up would be prejudicial, and whether ADR had a reasonable prospect of success.
+Hannah (groaning): That is a lot of factors.
+Will: It is a list of factors including those. Not a closed list, so do not learn a number for it. The one to watch is the merits. An unreasonable belief that its case is watertight does not justify refusal, though a reasonable belief that it is may well do so.
+Hannah (thinking aloud): Which kills my old note that a strong case justifies refusing. It has to be a reasonable belief, and the merits are just one factor.
+Will: Right. And silence is the other trap. Silence in response to an invitation to mediate is itself generally unreasonable.
+Hannah: So how do silence and a reasoned refusal differ?
+Will: Ignoring the invitation is itself generally unreasonable. A reasoned refusal may be justified, for example by a reasonable belief that the case is watertight. Either way, the unsuccessful party must show that the refusal was unreasonable.
+Hannah (summing up): So silence is generally unreasonable, a reasoned refusal can be justified, and the loser has to prove it.
+Will: Right. One more thing: a small claims mediation pilot, which is look-up detail. A defended specified-sum claim that would normally go on the small claims track is automatically referred to a free court mediation service by telephone once directions questionnaires are filed, excluding road traffic accident and personal injury claims. If a party fails to attend and the claim does not settle, the court must consider at the final hearing whether any sanction, such as a costs consequence, is appropriate. That's for a County Court claim. Claims started through Online Civil Money Claims go to a parallel mediation pilot instead.
+Hannah (brisk): Scenario?
+Will: Brightwell Ltd wins its claim in court. Before the trial, the other side twice invited it to mediate, and Brightwell never replied. The unsuccessful party now asks the court to penalise Brightwell in costs.
+Hannah: The question is whether Brightwell is safe because it won, or at risk of a costs penalty?
+Will: <think>
+Hannah (thinking aloud): This is the refusing-ADR topic. Winning does not protect you, the court can penalise an unreasonable failure to engage even against a winner. And silence in response to an invitation is generally unreasonable. The unsuccessful party carries the burden, but silence goes a long way towards meeting it.
+Will: Right: Brightwell is at risk of a costs penalty despite winning. The deciding fact is the silence. A reasoned refusal might have been justified, but ignoring the invitation is itself generally unreasonable.
+Hannah (summing up): So even a winner can be penalised in costs, if it unreasonably ignores or refuses ADR, and the burden is on the loser.
+Will: Right. The one-liner is that the court can order ADR if proportionate, and an unreasonable refusal can cost you even if you win.
+Hannah: Which only leaves leaving the claim yourself.
+## Block 5: Ending a claim: discontinuance
+Will: Fifth topic: ending a claim by discontinuance. The lead is simple. A claimant can usually discontinue without permission, but unless the court orders otherwise it pays the defendant's costs up to service of the notice. Does a claimant need permission to discontinue?
+Hannah (guessing): Usually not.
+Will: Right. A claimant may discontinue all or part of a claim at any time, usually without permission. The exceptions come in three cases.
+Hannah: Go on.
+Will: One: an interim injunction has been granted, or any party has given an undertaking to the court. That needs the court's permission.
+Hannah: Two?
+Will: Two: the claimant has received an interim payment. That needs the defendant's written consent or the court's permission.
+Hannah (thinking aloud): So the defendant's consent is enough there. My old note said it needed the court's permission whenever the claimant had received a remedy.
+Will: Right, and that is wrong. After an interim payment, the defendant can consent in writing, or the court can give permission. The court's permission is specifically for an interim injunction or an undertaking to the court.
+Hannah: And three?
+Will: Three: there is more than one claimant. Then it needs the written consent of every other claimant, or the court's permission.
+Hannah (summing up): So injunction or undertaking means the court. Interim payment means the defendant or the court. Several claimants means the others or the court.
+Will: Right. Time for a scenario. Omar is a claimant who has received an interim payment from the defendant, Pellman Ltd, and now wants to discontinue.
+Hannah: The question is whether he needs the court's permission only, the defendant's written consent or the court's permission, or nothing at all?
+Will: <think>
+Hannah (thinking aloud): This is the permission exceptions. An interim payment is the second case: the defendant must consent in writing, or the court must give permission. He is not free to walk away without either.
+Will: Right: written consent from the defendant, or permission from the court. So the defendant's consent is enough.
+Hannah (brisk): Fine. And once it is allowed, how does a claimant discontinue?
+Will: By filing a notice of discontinuance and serving a copy on every other party. It takes effect against each defendant on the date the notice is served on that defendant.
+Hannah: Can the defendant fight it?
+Will: Where no permission or consent was needed, the defendant may apply to set the notice aside, for example where discontinuance is an abuse of process. The time limit is 28 days from being served with it.
+Hannah (guessing): So permission comes first in those three cases, and setting aside is for the rest.
+Will: Right. In the three cases, permission or consent comes first. Otherwise the claimant simply files and serves the notice, and the defendant's remedy is to apply to set it aside within 28 days of being served, for example for abuse of process.
+Hannah: And who pays?
+Will: Unless the court orders otherwise, a claimant who discontinues pays the defendant's costs incurred up to the date the notice was served, on the standard basis, or under Part 45 where fixed costs would otherwise apply. That rule does not apply on the small claims track.
+Hannah: Could the claimant escape that?
+Will: Only by showing a good reason for the court to depart from it, for example the defendant's unreasonable conduct. If only part of the claim is discontinued, the liability is limited to the costs relating to that part.
+Hannah (wary): And if the claimant doesn't pay?
+Will: If part is discontinued and those costs are not paid within 14 days of being agreed or ordered, the court may stay the rest of the claim until they are paid.
+Hannah: Can the claimant just start again?
+Will: Not always. If it discontinues after the defendant has filed a defence, then it needs the court's permission to bring another claim against the same defendant arising out of the same or substantially the same facts. In a Part 8 claim, the trigger is an acknowledgment of service or written evidence instead of a defence.
+Hannah (brisk): Right. So the sting is discontinuing after a defence.
+Will: Yes. That is the sting.
+## Recap
+Will (warm): Five topics, then. Let's run through them.
+Hannah: Go on, you start. Which one first?
+Will: Types first. One. Arbitrators, experts and adjudicators decide, a mediator or conciliator only helps, and a mediation binds only if the parties reach agreement.
+Hannah: Two. Mediation suits a continuing relationship, confidentiality or an outcome a court cannot order, but only litigation gives the court's coercive powers, and ADR is not always cheaper.
+Will: Three. The solicitor explains the options with their cost and risk, settles only within instructions, and mediation can happen at any time, before or during proceedings.
+Hannah (brisk): Four. The court can order ADR if the order is proportionate, and an unreasonable refusal can cost a party even if it wins, with the burden on the unsuccessful party.
+Will: Five. A claimant normally needs no permission to discontinue, except in three cases, and unless the court orders otherwise it pays the defendant's costs up to service of the notice, though not on the small claims track.
+Hannah (pleased): That's the route.
+Will (warm): That was the types of ADR, why use it against litigation, the lawyer's role and timing, how the court encourages it, and ending a claim by discontinuance: normally without permission, but unless the court orders otherwise the claimant pays the defendant's costs.

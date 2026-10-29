@@ -962,6 +962,45 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws08-v23-68a102ac.mp3",
       "pubDate": "2026-10-29T12:55:31+00:00"
+    },
+    {
+      "id": "dr-ws08-v23-p1",
+      "unitId": "u-bpp-DR-08",
+      "title": "Dispute Resolution WS08 · ADR and discontinuance (part 1 of 2)",
+      "guideHash": "7c8712e0bf",
+      "script": "scripts/dr-ws08-v23-p1.txt",
+      "scriptHash": "979aef21bf5a",
+      "audio": "audio/dr-ws08-v23-p1.mp3",
+      "recap": [
+        "Types of ADR: arbitrators, expert determination and construction adjudication decide; mediators and conciliators only help the parties settle, and a mediation binds only if they reach agreement.",
+        "Why use ADR: mediation suits a continuing relationship, confidentiality or an outcome a court cannot order, but only litigation gives the court's coercive powers, and ADR is not always cheaper.",
+        "The lawyer's role: explain the options with their cost and risk, settle only within instructions, and remember mediation can happen at any time, before or during proceedings.",
+        "The court and ADR: the court can order ADR if the order is proportionate, and an unreasonable refusal can cost a party even if it wins, with the burden on the unsuccessful party to show it.",
+        "Discontinuance: usually no permission is needed, except in three cases, and unless the court orders otherwise the claimant pays the defendant's costs up to service of the notice, though not on the small claims track."
+      ],
+      "map": [
+        "Types of ADR",
+        "Why use ADR: litigation compared",
+        "The lawyer's role and the timing of ADR",
+        "How the court encourages ADR: orders, stays and costs sanctions",
+        "Ending a claim: discontinuance"
+      ],
+      "summary": "That was the types of ADR, why use it against litigation, the lawyer's role and timing, how the court encourages it, and ending a claim by discontinuance: normally without permission, but unless the court orders otherwise the claimant pays the defendant's costs.",
+      "madeAt": "2026-10-29T21:43:27+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + line-by-line + coverage checks; fixes applied; Opus changed-lines checks x2 (last fix a one-line Opus-supplied replacement, code-checked); code ok",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
