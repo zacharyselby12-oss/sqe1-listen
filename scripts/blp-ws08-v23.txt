@@ -1,0 +1,293 @@
+---
+id: blp-ws08-v23
+unit: u-bpp-BLP-08
+guide_hash: 482845c451
+made: 2026-10-29T12:54:35+00:00
+title: BLP WS08 · Equity and debt finance and security
+map:
+- Equity and debt finance on the balance sheet; earnings per share; gearing
+- Book-keeping, financial statements and year-end adjustments
+- Partnership accounts
+- Company accounts: reference date and filing
+- Company accounts: capital, reserves and dividends
+- Debt finance: debt or equity, borrowing, facilities and documents
+- Security and guarantees
+- Fixed and floating charges
+- Registration of charges
+- Order of priority between creditors
+recap:
+- A premium above nominal value goes to the share premium account, which is undistributable.
+- Every company must keep adequate accounting records, and its directors must prepare annual accounts giving a true and fair view.
+- A partnership's agreed financial terms displace the equal-sharing, no-interest and no-salary defaults, and a general partnership has no statutory duty to prepare or publish accounts.
+- Accounts are due within 9 months of the period end for a private company and 6 months for a public one, and the period can be extended only once in 5 years, with exceptions, and never beyond 18 months.
+- A dividend can be paid only out of profits available for distribution, and under the Model Articles a final dividend is declared by the shareholders by ordinary resolution on, and not above, the directors' recommendation, while the directors may decide an interim one without a shareholders' resolution.
+- A lender gets no vote and is paid interest whether or not there are profits, and under the Model Articles the directors can borrow without shareholder approval unless the articles, the lender's terms or a statutory approval require it.
+- A personal guarantee bypasses limited liability, and before granting security the directors must consider whether it would promote the success of the company.
+- A fixed charge is over specific assets the company cannot deal with without the chargee's consent, and a floating charge is over a changing class of assets the company may use in the ordinary course of business.
+- A company's charge must be registered within 21 days beginning with the day after creation; if it is late and no court order extends time, it is void against a liquidator, administrator and creditors, though the debt remains valid.
+- Work down the order of payment, and remember that whether a charge is fixed or floating in substance, not in name, decides where its holder ranks.
+summary: We covered equity and debt finance on the balance sheet, book-keeping and financial statements, partnership accounts, company accounts: reference date, filing, capital, reserves and dividends, debt finance, security and guarantees, fixed and floating charges, registration of charges, and order of priority between creditors.
+invented:
+- Kestrel Components Ltd
+- Brightwater Bank
+- 3 March
+- 24 March
+- 25 March
+- Orchard Foods Ltd
+- Willow Pottery Ltd
+---
+## Map
+Will: Today is equity and debt finance and security, and it runs in ten topics. First, the share premium rule on a share issue. Then the company's accounting records and annual accounts. Then partnership accounts. Then the accounting reference date and filing.
+Hannah: That sounds like accounts first. What comes after the accounts?
+Will: Dividends and what a company can pay out. Then debt finance, meaning debt against equity, borrowing powers and loan terms. Then security and guarantees.
+Hannah: So we move from paperwork to money out, and then money in.
+Will: Right. Last come the charges: fixed against floating, registering them, and finally who gets paid first when a company is wound up.
+Hannah: Let me say it back in three groups. Share premium, then records and accounts, then partnerships, then the year end and filing. After that dividends, debt, and security. And to finish, charges: fixed or floating, registration, and the order of payment.
+Will: Yes, that is the whole run. Let's start with the share premium rule.
+## Block 1: Equity and debt finance on the balance sheet; earnings per share; gearing
+Will: First topic: equity and debt finance on the balance sheet, and the one rule from a share issue we need here, which is share premium.
+Hannah: Premium meaning something extra?
+Will: Yes. Shares cannot be allotted at a discount to their nominal value. If someone does take them at a discount, the allottee must pay the shortfall, with interest.
+Hannah: So a company can't sell a share for less than its face value, but it can sell for more?
+Will: Right, it may issue at a premium. The amount above nominal value goes to the share premium account. That account is undistributable.
+Hannah: Why does it matter that it is undistributable?
+Will: Because the premium is part of what shareholders put in. It cannot be paid back out as a dividend.
+Hannah: Got it. So there is a floor on the price, and any extra goes into a locked account.
+Will: Right: the floor is nominal value, and the extra is locked away. One more point: what the allottee pays in. A private company may accept non-cash consideration without a valuation.
+Hannah: And a public company?
+Will: A public company needs an independent valuation of non-cash consideration. It also cannot accept an undertaking to do work or perform services.
+Hannah: So the difference is that a public company can't take a promise of services as payment, and needs a valuation for other non-cash assets.
+Will: Yes, that is the look-alike. Private: non-cash without valuation. Public: valuation, and no promise of work or services.
+Hannah: In one line: no discount to nominal value, any premium is locked in the share premium account, and a public company is stricter about non-cash payment.
+Will: Right. On to the accounts themselves.
+## Block 2: Book-keeping, financial statements and year-end adjustments
+Will: Next, book-keeping and the financial statements. Every company must keep adequate accounting records, and its directors must prepare annual accounts giving a true and fair view.
+Hannah: What counts as adequate?
+Will: Records sufficient to show and explain the company's transactions. They must disclose its financial position with reasonable accuracy at any time. And they must let the directors make sure the accounts comply.
+Hannah: Where do they live?
+Will: At the registered office, or elsewhere the directors think fit. Officers can inspect them.
+Hannah: And how long do they have to be kept?
+Will: Private companies keep them for 3 years from when they were made. Public companies keep them for 6 years.
+Hannah: What if a company doesn't keep them properly?
+Will: Failure is an offence by officers in default.
+Hannah: So private three, public six, and it is the officers who face the offence.
+Will: Yes. Now the accounts. The directors must prepare annual accounts: a balance sheet, a profit and loss account and notes. They must give a true and fair view, and the directors must not approve them unless satisfied that they do.
+Hannah: Who actually approves them?
+Will: The board approves them, and a director signs the balance sheet on its behalf.
+Hannah: And the reports?
+Will: Two look-alikes. A directors' report is required unless the company is a micro-entity. A strategic report is required unless the company is entitled to the small companies exemption.
+Hannah: So the directors' report switches off for a micro-entity, and the strategic report switches off for the small companies exemption.
+Will: Right: different exemption, different report.
+Hannah: Recap: adequate records kept for 3 years if private and 6 if public, annual accounts that give a true and fair view, and each report has its own exemption.
+Will: Yes. Now to partnerships, where the position is quite different.
+## Block 3: Partnership accounts
+Will: Partnership accounts. The agreement's financial terms displace the defaults.
+Hannah: What are the defaults?
+Will: Equal sharing, no interest on capital and no salary.
+Hannah: And what can the agreement change?
+Will: It can set two groups of terms. Capital: the contributions and any interest on them. Profit: the profit-sharing ratio, salaries and drawings.
+Hannah: So if the agreement says nothing, partners share equally and nobody gets interest on capital or a salary.
+Will: Right. Now the books. A general partnership has no statutory duty to prepare or publish accounts.
+Hannah: So who looks at the books?
+Will: Unless otherwise agreed, they are kept at the principal place of business. Every partner may inspect and copy them when he thinks fit.
+Hannah: Is there a duty the other way?
+Will: Yes. Partners must render true accounts and full information to each other. And a partnership tax return is filed.
+Hannah: Recap: the agreement's financial terms beat the defaults, there is no statutory duty to publish partnership accounts, and every partner can inspect and copy the books unless otherwise agreed.
+Will: Right. Now back to companies, and the deadlines.
+## Block 4: Company accounts: reference date and filing
+Will: Company accounts, starting with the reference date and filing. Typical questions are: when are the accounts due, and can the year end be changed?
+Hannah: What fixes the year end?
+Will: The accounting reference date. By default it is the last day of the month in which the anniversary of incorporation falls.
+Hannah: And can the company move it?
+Will: It can shorten its period as often as it likes. It can extend it only once in 5 years, with exceptions. And it can never go beyond 18 months.
+Hannah: So shortening is free, extending is rationed, and there is a ceiling.
+Will: Yes. The first accounting period has its own limits, which you look up.
+Hannah: Now the deadline. When must the accounts reach the registrar?
+Will: Within 9 months after the end of the accounting reference period for a private company. For a public company it is 6 months.
+Hannah: What if they are late?
+Will: Late filing brings automatic civil penalties, and it is an offence.
+Hannah: Where the first period is longer than a year, is the deadline different?
+Will: Yes, there is a separate deadline, which you also look up.
+Hannah: One-line recap: accounts are due 9 months after the period end if private and 6 if public, and the period can be extended only once in 5 years, with exceptions, and never beyond 18 months.
+Will: Right. Now what companies can pay out of those accounts.
+## Block 5: Company accounts: capital, reserves and dividends
+Will: Capital, reserves and dividends. There are two questions: are there profits available for distribution, and was the dividend properly declared or decided?
+Hannah: Which question do we take first?
+Will: Profits first. A company may make a distribution only out of profits available for the purpose. That means its accumulated realised profits not previously distributed or capitalised.
+Hannah: Less something?
+Will: Less its accumulated realised losses, not previously written off in a reduction or reorganisation of capital. Past losses must be made good before a dividend can be paid.
+Hannah: Why that way round?
+Will: It stops a company paying out money it has really lost. Two short stories. A private company's realised profit this year exceeds its realised losses brought forward.
+Hannah: Then a dividend can be paid out of the excess.
+Will: Yes. In the second, this year's realised profit is smaller than those losses, so no dividend.
+Hannah: So the deciding fact is accumulated profits less accumulated losses, not this year's profit alone.
+Will: Right. Let's try one for real. Willow Pottery Ltd is a private company with unamended Model Articles and enough profits available for distribution. Midway through the year its directors want to pay a dividend, and a shareholder says it needs a resolution first. The test is what a decision to pay an interim dividend requires. Do the shareholders need to pass a resolution on the directors' recommendation, an ordinary resolution with no recommendation, or can the directors simply decide?
+Hannah: So: recommendation and resolution, resolution alone, or the directors' decision alone?
+Hannah: <think>
+Hannah: This turns on final against interim dividends. A final dividend needs the shareholders, but this one is interim, so I would say the directors can just decide.
+Will: Right. Under the Model Articles the directors may decide to pay an interim dividend without a shareholders' resolution. Profits must still be available for distribution, and here they are.
+Hannah: And what would a final dividend need?
+Will: Under the Model Articles the shareholders declare it by ordinary resolution. They can do so only on the directors' recommendation, and not above the amount recommended.
+Hannah: So final: shareholders, on recommendation, capped. Interim: directors alone.
+Will: Yes, that is the look-alike. Either one needs profits available for distribution.
+Hannah: What about the shareholder who is owed one?
+Will: A shareholder has no right to a dividend until one is declared. Once a final dividend is declared, it becomes a debt owed to the shareholder.
+Hannah: Even in a liquidation?
+Will: In liquidation a member's claim for a declared unpaid dividend ranks after all other creditors.
+Hannah: And who gets paid if the shareholding has changed?
+Will: Unless the resolution, decision or terms of issue say otherwise, a dividend is paid by reference to each shareholder's holding on the date of the resolution or decision.
+Hannah: Recap: dividends only out of profits available for distribution. Under the Model Articles a final one is declared by the shareholders by ordinary resolution, on the directors' recommendation and not above it. An interim one the directors decide alone, with no shareholders' resolution.
+Will: Right. Now to the money coming in the other way: debt.
+## Block 6: Debt finance: debt or equity, borrowing, facilities and documents
+Will: Debt finance: debt or equity, borrowing and the loan documents. A lender gets no vote, so debt does not dilute control, but interest is paid whether or not there are profits.
+Hannah: So what is a lender, legally?
+Will: A creditor. The points include interest being deductible for corporation tax, and the loan being repayable. It may be secured, and the lender ranks ahead of shareholders on insolvency.
+Hannah: And the shareholder's side?
+Will: A shareholder gets dividends only if there are distributable profits and one is declared. Dividends are not deductible, and shares are not normally repaid.
+Hannah: What about control?
+Will: New shares dilute control, and shareholders rank last on a winding up.
+Hannah: So debt: no vote, interest regardless, ahead on insolvency. Equity: dividends only if declared, dilution, last in the queue.
+Will: Right. Now who has to approve borrowing? Under the Model Articles the directors' general management power includes borrowing and granting security. No shareholder approval is needed.
+Hannah: Always?
+Will: No. Approval is needed only if the articles require it, for example an older company's borrowing limit or restricted objects. Or if the lender's terms require it. Or if a statutory approval applies, such as a loan to or security for a director.
+Hannah: So the default is directors alone, with three ways it can change.
+Will: Yes: articles, lender's terms, or a statutory approval.
+Hannah: What about the company itself? Does it matter whether it is private?
+Will: A private company is any company that is not a public company. It can have a single shareholder and a single director, and needs no minimum share capital.
+Hannah: Any limit?
+Will: It must not offer its shares or debentures to the public.
+Hannah: And the loan products?
+Will: The main facilities include an overdraft, which is repayable on demand. A term loan is for a fixed period, and is repaid by instalments or at the end. A revolving credit facility can be drawn, repaid and redrawn up to a limit.
+Hannah: How does the lender protect itself?
+Will: With covenants, which can be positive, negative or financial. Also representations and events of default. On an event of default a term loan lender can accelerate.
+Hannah: Recap: a lender has no vote and is paid interest whether or not there are profits. Directors can borrow without shareholder approval unless the articles, the lender's terms or a statutory approval require it.
+Will: Right. Next, security.
+## Block 7: Security and guarantees
+Will: Security and guarantees. A personal guarantee, often from directors, bypasses limited liability.
+Hannah: Because the director is personally on the hook.
+Will: Yes. The other forms of security and quasi-security include a legal mortgage of land, a retention of title clause, and a pledge or lien.
+Hannah: What is special about the mortgage?
+Will: It is also registered at HM Land Registry, where priority follows the order of registration.
+Hannah: And retention of title?
+Will: The seller keeps ownership of goods until it is paid. It is not a registrable charge if it covers only the original goods.
+Hannah: So the exception is that a retention of title clause covering only the original goods needs no registration as a charge.
+Will: Right. Now the board. Before granting security or a guarantee, for example for another group company's debt, what must the directors consider?
+Hannah: Whether it helps the company?
+Will: Yes: whether it would promote the success of the company.
+Hannah: Now suppose a director has personally guaranteed the company's loan. Surely he can't vote on it.
+Will: Careful. He has an interest he must declare to the board, unless the others already know of it. But under the Model Articles a guarantee given by or to a director for an obligation of the company or its subsidiary is a permitted cause.
+Hannah: So he can be counted in the quorum and vote.
+Will: Right. Declare the interest, but still count and vote.
+Hannah: Recap: guarantees bypass limited liability. The directors must consider the company's success. A guaranteeing director declares his interest, unless the other directors are already aware of it, but still counts and votes under the Model Articles.
+Will: Yes. Now the charges themselves.
+## Block 8: Fixed and floating charges
+Will: Fixed and floating charges. The lead point is that a charge called fixed but in substance floating ranks behind liquidation expenses, preferential creditors and the prescribed part.
+Hannah: So the label doesn't decide.
+Will: Right, the substance does. A fixed charge is security over specific identifiable assets, including land, buildings and plant.
+Hannah: What makes it fixed?
+Will: The company cannot dispose of or deal with them without the chargee's consent.
+Hannah: And floating?
+Will: Security over a class of assets, present and future, which changes in the ordinary course of business. The company may use and dispose of them in the ordinary course until the charge crystallises. Typical examples are stock, book debts and the whole undertaking.
+Hannah: Two stories. A lender takes a charge over a factory and its machinery, and the company can't sell or deal with them without the lender's consent.
+Will: That one is fixed. In the second, the lender takes a charge over stock in trade, which the company keeps selling and replacing without asking.
+Hannah: That is floating. The deciding fact is whether the company can use and dispose of the assets in the ordinary course without the chargee's consent.
+Will: Right. And why does it matter? On insolvency a fixed chargee is paid from the proceeds of its asset. Those proceeds are not used for liquidation expenses, preferential debts or the prescribed part.
+Hannah: So those come from floating charge assets only.
+Will: Yes. Expenses and preferential debts are paid from floating charge assets ahead of the floating chargeholder, so far as free assets are insufficient.
+Hannah: In one line: fixed means specific assets the company can't deal with without consent and outside the expenses queue, floating means a changing class the company can use, and it ranks after expenses and preferential debts.
+Will: Right, with the qualifier that expenses and preferential debts come ahead only so far as free assets are insufficient. Who can grant a floating charge?
+Hannah: Any business?
+Will: Generally only companies and LLPs. There is an exception for a farmer's agricultural charge to a bank.
+Hannah: And a sole trader or a partner?
+Will: In practice they cannot grant floating charges over their business chattels. They give mortgages of land, fixed security and personal guarantees.
+Hannah: So generally only companies and LLPs can float, a farmer's agricultural charge aside. Sole traders and partners can't in practice, not over their business chattels.
+Will: Yes. Next, registering them.
+## Block 9: Registration of charges
+Will: Registration of charges. The typical questions are: the last day for registration, who may register, and what happens if no one does.
+Hannah: What's the time limit?
+Will: A charge created by a company or LLP must be registered at Companies House. The limit is 21 days. The 21 days begin with the day after the day it is created.
+Hannah: Who does the registering?
+Will: The company or any person interested, usually the lender. They deliver a statement of particulars with a certified copy of the instrument.
+Hannah: Let me check I have the counting. A charge is created on the first of June.
+Will: Then the second is day one, so delivery on the twenty-second is in time. Delivery on the twenty-third, with no court order extending time, is out of time.
+Hannah: And the deciding fact is that the 21 days start the day after creation.
+Will: Right. What is the effect of missing it?
+Hannah: The charge is void?
+Will: Yes: void against a liquidator, administrator and creditors of the company, so the lender becomes unsecured. But the debt itself remains valid and becomes immediately repayable.
+Hannah: Can late registration be rescued?
+Will: It needs a court order extending time. The court may make one on any of three grounds. One, the failure was accidental, or due to inadvertence or some other sufficient cause. Two, it is not prejudicial to creditors or shareholders. Three, it is otherwise just and equitable.
+Hannah: Is this the same as the Land Registry registration?
+Will: No, that is the look-alike. A company's charge goes to Companies House within the time limit. A legal mortgage of land is also registered at HM Land Registry, where priority follows the order of registration.
+Hannah: So Companies House for the company's charge, and the Land Registry as well for a mortgage of land.
+Will: Right. Time for a scenario. Kestrel Components Ltd gave Brightwater Bank a charge on 3 March. The test is whether the registration was in time, and what follows if it was not. The last day for registration was 24 March. Brightwater delivered the documents on 25 March, with no court order. Kestrel then went into liquidation. Is Brightwater still secured, is it unsecured but still owed the debt, or is it owed nothing at all?
+Hannah: Secured, unsecured but still owed, or owed nothing?
+Hannah: <think>
+Hannah: This is registration of charges. One day late with no extension, so the charge is void against the liquidator. But the debt survives, so Brightwater is unsecured but still owed.
+Will: Right. The charge is void against the liquidator, administrator and creditors, but the debt itself remains valid and is immediately repayable.
+Hannah: And what proves a registration did happen in time?
+Will: The registrar's certificate. It is conclusive evidence that the required documents were delivered in time.
+Hannah: Not that the registration was correct?
+Will: Right, only that they were delivered in time. The company must also keep copies of the instruments available for inspection at its registered office, or at its single alternative inspection location.
+Hannah: Recap: 21 days beginning the day after creation; without a court order extending time, a late charge is void against a liquidator, administrator and creditors, but the debt stays valid; and the certificate proves timely delivery only.
+Will: Yes. Finally, who gets paid first.
+## Block 10: Order of priority between creditors
+Will: The order of priority between creditors. Work down the order of payment. Whether a charge is fixed or floating in substance decides where its holder ranks.
+Hannah: What is the order?
+Will: In a company liquidation there are nine steps. The first four: fixed charge holders from the proceeds of their charged assets, then liquidation expenses, then ordinary preferential creditors, then secondary preferential creditors, who are HMRC.
+Hannah: And the rest?
+Will: Next the prescribed part, set aside for unsecured creditors, then floating charge holders, then unsecured creditors.
+Hannah: That's seven.
+Will: Right, seven. Then statutory interest, and last the members: unpaid declared dividends first, then return of capital and surplus according to their rights.
+Hannah: So liquidation expenses come second, ahead of the preferential creditors?
+Will: Yes. Expenses sit between the fixed charge holders and the preferential creditors.
+Hannah: What happens to a secured creditor who is not paid in full?
+Will: Its shortfall ranks as an unsecured debt. But while it holds security, it cannot share in the prescribed part.
+Hannah: And the unsecured creditors share how?
+Will: Equally, in proportion to their debts. That is the look-alike: a shortfall and an ordinary unsecured debt both rank unsecured, but the secured creditor cannot share in the prescribed part while it holds its security.
+Hannah: So both are unsecured, and only the secured creditor is shut out of the prescribed part, while it still holds its security.
+Will: Right. Now labels. A charge called fixed but in substance floating ranks lower than a true fixed charge, which is paid first from its asset. Here is one. Orchard Foods Ltd is in liquidation. Brightwater Bank has a charge over its book debts, labelled fixed. The charge lets Orchard collect the debts and spend the cash freely without asking the bank, and it always has. The test is whether the charge is fixed in substance. Is the bank paid first from the book debts, or does it rank behind the expenses, the preferential creditors and the prescribed part?
+Hannah: Paid first like a true fixed chargee, or behind expenses, preferential creditors and the prescribed part?
+Hannah: <think>
+Hannah: This is fixed against floating. The company used the money freely, so in substance it is floating, and the bank ranks behind all three.
+Will: Right. The deciding fact is that the company could freely use the book debts. The label does not matter.
+Hannah: Now, who counts as preferential?
+Will: Ordinary preferential debts include employees' unpaid wages for the 4 months before the relevant date. That is up to £800 each, and any excess is unsecured.
+Hannah: Anything else in that group?
+Will: All accrued holiday pay, certain pension contributions, and the claims of anyone who lent money to pay those wages.
+Hannah: And HMRC? I assumed all HMRC debts are preferential.
+Will: Not quite. Only HMRC's claims for taxes the company collected for others are preferential, and they are secondary preferential, paid after the ordinary ones.
+Hannah: Which taxes?
+Will: The taxes include VAT, PAYE income tax and employees' NICs, with CIS and student loan deductions. Corporation tax and employer's NICs remain unsecured.
+Hannah: So taxes collected for others are secondary preferential, and the company's own taxes are unsecured.
+Will: Right. Next, the prescribed part. It is ring-fenced for unsecured creditors out of net floating charge realisations.
+Hannah: How much is set aside?
+Will: The amount is 50% of the first £10,000, plus 20% of the rest. The cap is £800,000. That cap applies to floating charges created on or after 6 April 2020. Older charges had a lower cap, which you look up.
+Hannah: Can the floating chargeholder claim against it?
+Will: No, not for any shortfall.
+Hannah: Does it always apply?
+Will: It applies only to floating charges created on or after 15 September 2003.
+Hannah: Any other exception?
+Will: It need not be set aside if the net floating-charge property is less than £10,000, and the office-holder thinks the cost of distributing it would be disproportionate. Whatever the amount, the court can also order that it need not be set aside, on the office-holder's application on that same cost ground. And a CVA or scheme can disapply it.
+Hannah: So a small pot, plus a cost objection, and the office-holder can skip it.
+Will: Yes. Two short stories. A floating charge created a few years ago leaves £110,000 of net floating charge realisations: the prescribed part must be set aside.
+Hannah: And a pot of £8,000, where the office-holder thinks distributing it would cost more than it is worth?
+Will: Then it need not be set aside.
+Hannah: So the deciding facts are a pot under £10,000 and the office-holder's view on cost.
+Will: Right. Last piece: priority between charges. A fixed charge ranks ahead of a floating charge over the same asset, even if the floating charge was created first.
+Hannah: Always?
+Will: Unless the floating charge contains a negative pledge and the later fixed chargee had notice of it.
+Hannah: What is a negative pledge?
+Will: A promise in a floating charge not to create later security ranking ahead.
+Hannah: Two stories, then. Bank A has an earlier floating charge with a negative pledge, and bank B takes a later fixed charge knowing about it.
+Will: Then A ranks first, because B had actual notice. If there is no negative pledge, or B had no actual notice, B's later fixed charge ranks ahead of A's floating charge.
+Hannah: Doesn't registration put everyone on notice?
+Will: No. Registration alone is not generally treated as constructive notice of a negative pledge. But the statement of particulars must say whether there is one, so a later lender who searches the register will in practice have actual notice.
+Hannah: And two charges of the same type?
+Will: Between two fixed charges, or two floating charges, over the same assets, the earlier created ranks first, provided it was registered within 21 days. But registered charges over registered land rank in the order shown on the register.
+Hannah: Can lenders change that?
+Will: Yes, by a deed of priority.
+Hannah: Recap: fixed ranks ahead of floating over the same asset unless the floating charge has a negative pledge and the later fixed chargee had actual notice of it, and the order of payment depends on substance, not on labels.
+Will: Right, with one qualifier: the earlier-created rule holds only if it was registered in time, and registered land follows the register.
+Hannah: Shall we run through the whole list once more?
+## Recap
+Will: We covered equity and debt finance on the balance sheet, book-keeping and financial statements, partnership accounts, company accounts: reference date, filing, capital, reserves and dividends, debt finance, security and guarantees, fixed and floating charges, registration of charges, and order of priority between creditors.

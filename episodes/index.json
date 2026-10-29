@@ -900,6 +900,60 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws08-v23-p2-5d62d26c.mp3",
       "pubDate": "2026-10-29T08:20:38+00:00"
+    },
+    {
+      "id": "blp-ws08-v23",
+      "unitId": "u-bpp-BLP-08",
+      "title": "BLP WS08 · Equity and debt finance and security",
+      "guideHash": "482845c451",
+      "script": "scripts/blp-ws08-v23.txt",
+      "scriptHash": "b2c5cbc36dce",
+      "audio": "audio/blp-ws08-v23.mp3",
+      "recap": [
+        "A premium above nominal value goes to the share premium account, which is undistributable.",
+        "Every company must keep adequate accounting records, and its directors must prepare annual accounts giving a true and fair view.",
+        "A partnership's agreed financial terms displace the equal-sharing, no-interest and no-salary defaults, and a general partnership has no statutory duty to prepare or publish accounts.",
+        "Accounts are due within 9 months of the period end for a private company and 6 months for a public one, and the period can be extended only once in 5 years, with exceptions, and never beyond 18 months.",
+        "A dividend can be paid only out of profits available for distribution, and under the Model Articles a final dividend is declared by the shareholders by ordinary resolution on, and not above, the directors' recommendation, while the directors may decide an interim one without a shareholders' resolution.",
+        "A lender gets no vote and is paid interest whether or not there are profits, and under the Model Articles the directors can borrow without shareholder approval unless the articles, the lender's terms or a statutory approval require it.",
+        "A personal guarantee bypasses limited liability, and before granting security the directors must consider whether it would promote the success of the company.",
+        "A fixed charge is over specific assets the company cannot deal with without the chargee's consent, and a floating charge is over a changing class of assets the company may use in the ordinary course of business.",
+        "A company's charge must be registered within 21 days beginning with the day after creation; if it is late and no court order extends time, it is void against a liquidator, administrator and creditors, though the debt remains valid.",
+        "Work down the order of payment, and remember that whether a charge is fixed or floating in substance, not in name, decides where its holder ranks."
+      ],
+      "map": [
+        "Equity and debt finance on the balance sheet; earnings per share; gearing",
+        "Book-keeping, financial statements and year-end adjustments",
+        "Partnership accounts",
+        "Company accounts: reference date and filing",
+        "Company accounts: capital, reserves and dividends",
+        "Debt finance: debt or equity, borrowing, facilities and documents",
+        "Security and guarantees",
+        "Fixed and floating charges",
+        "Registration of charges",
+        "Order of priority between creditors"
+      ],
+      "summary": "We covered equity and debt finance on the balance sheet, book-keeping and financial statements, partnership accounts, company accounts: reference date, filing, capital, reserves and dividends, debt finance, security and guarantees, fixed and floating charges, registration of charges, and order of priority between creditors.",
+      "madeAt": "2026-10-29T12:54:35+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines check; one last Opus-supplied one-line fix, code-checked; code ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
