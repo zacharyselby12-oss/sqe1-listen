@@ -935,7 +935,7 @@
       ],
       "summary": "We covered equity and debt finance on the balance sheet, book-keeping and financial statements, partnership accounts, company accounts: reference date, filing, capital, reserves and dividends, debt finance, security and guarantees, fixed and floating charges, registration of charges, and order of priority between creditors.",
       "madeAt": "2026-10-29T12:54:35+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines check; one last Opus-supplied one-line fix, code-checked; code ok",
@@ -953,7 +953,15 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 13682719,
+      "seconds": 1710,
+      "words": 4283,
+      "renderedHash": "b2c5cbc36dce",
+      "renderedAt": "2026-10-29T12:55:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws08-v23-68a102ac.mp3",
+      "pubDate": "2026-10-29T12:55:31+00:00"
     }
   ],
   "replays": [
