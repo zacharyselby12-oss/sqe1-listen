@@ -1034,7 +1034,7 @@
       ],
       "summary": "That was Part 36: its nature against Calderbank offers, making a valid offer, withdrawing it, accepting it, and unaccepted offers at trial, where the court must make the orders unless it considers it unjust, and never for the excluded offers.",
       "madeAt": "2026-10-30T08:43:16+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + line-by-line + coverage checks; fixes applied; Opus changed-lines checks x2 (last fix a one-line Opus-supplied replacement, code-checked); code ok",
@@ -1047,7 +1047,15 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11090342,
+      "seconds": 1386,
+      "words": 3625,
+      "renderedHash": "ad3fecb09da3",
+      "renderedAt": "2026-10-30T08:44:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p2-7818e9ef.mp3",
+      "pubDate": "2026-10-30T08:44:19+00:00"
     }
   ],
   "replays": [
