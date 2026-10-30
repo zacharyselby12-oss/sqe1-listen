@@ -1,0 +1,191 @@
+---
+id: dr-ws08-v23-p2
+unit: u-bpp-DR-08
+guide_hash: 7c8712e0bf
+made: 2026-10-30T08:43:16+00:00
+title: Dispute Resolution WS08 · Part 36 offers (part 2 of 2)
+part: 2 of 2
+blocks: 6-10
+map:
+- Part 36: aims, nature and other (Calderbank) offers
+- Making a valid Part 36 offer (form, timing, clarification)
+- Withdrawing or changing a Part 36 offer
+- Accepting a Part 36 offer and its consequences
+- Unaccepted Part 36 offers at trial: triggers and consequences
+recap:
+- Nature: a Part 36 offer can be made at any time, survives rejection and can be accepted until withdrawn, whereas a Calderbank offer is only weighed in the costs discretion; the trial orders are not automatic, because the court must make them unless it considers it unjust.
+- Valid offer: it must meet every form requirement, including a relevant period of not less than 21 days unless it is made less than 21 days before trial, otherwise it has none of the Part 36 consequences.
+- Withdrawing: a notice served during the relevant period takes effect only at its end if the offer has not been accepted, and an acceptance before then stands unless the offeror applies in time and the court finds a change of circumstances.
+- Accepting: an offer can be accepted until withdrawn, with the court's permission in some cases, and accepting after the relevant period normally costs the claimant the costs from expiry unless the court considers that unjust.
+- At trial: the claimant must fail to beat a defendant's offer, or do at least as well as its own, and then the court must make the orders unless it considers it unjust, but never for a withdrawn offer, a worsened offer the offeree beat, or an offer made less than 21 days before trial unless the court abridged the period.
+summary: That was Part 36: its nature against Calderbank offers, making a valid offer, withdrawing it, accepting it, and unaccepted offers at trial, where the court must make the orders unless it considers it unjust, and never for the excluded offers.
+invented:
+- Kestrel Ltd
+- Aldridge Ltd
+- Lowther Engineering
+- Janet
+- Sunil
+- Marlow Surveyors
+- Grafton Ltd
+- Wick Bakeries
+- the tenth day
+- the twelfth day
+- £30,000
+- three months
+---
+## Map
+Will (warm): Right, Hannah. This is the second half of the workshop, and it is all about offers to settle, mostly Part 36. The first half covered ADR and discontinuance.
+Hannah (wary): So Part 36. Five topics?
+Will: Five. First, what Part 36 is, and how it differs from a Calderbank offer. Second, how to make a valid offer. Third, withdrawing or changing it.
+Hannah: So: what it is, making it, then withdrawing or changing it.
+Will: Right. Fourth is accepting an offer and what follows. Fifth is what happens at trial when an offer was not accepted.
+Hannah (thinking aloud): Accepting, and then the trial consequences. Nature, making, changing, accepting, trial.
+Will (pleased): Yes, that is the route.
+## Block 6: Part 36: aims, nature and other (Calderbank) offers
+Will: First topic: what Part 36 is, and how it differs from a Calderbank offer. Who can make a Part 36 offer, and when?
+Hannah (guessing): Either side, and presumably only once proceedings are underway.
+Will: Not quite. Either party can make one at any time, including before proceedings and on appeal. It is made when it is served on the offeree. The exception is small claims, because Part 36 does not apply to small claims.
+Hannah (groaning): I was wrong about the before-proceedings part, then.
+Will (dry): It happens. Now the contrast. A Calderbank offer, or any other non-Part 36 offer, is governed by ordinary contract rules. It lapses if it is rejected or met by a counter-offer, and it can be withdrawn at any time before acceptance.
+Hannah: And a Part 36 offer?
+Will: A Part 36 offer survives rejection or a counter-offer, and it can be accepted until it is withdrawn. Withdrawal is by written notice, or automatically under its terms after the relevant period. The court's permission is needed in some cases, for example once the trial has started.
+Hannah (thinking aloud): So that is the contract-law difference. Rejection kills a Calderbank offer, but not a Part 36 offer.
+Will: Right. Now the consequences, and here is a trap. Unlike a Calderbank offer, a Part 36 offer carries the Part 36 costs consequences. But the orders on late acceptance of an offer on the whole claim, and the orders after trial, are not automatic.
+Hannah: So what are they, then?
+Will: The court must make them unless it considers it unjust. And the trial orders never apply to certain excluded offers, which we will meet in the last topic.
+Hannah (brisk): And a Calderbank offer?
+Will: Other offers, such as a Calderbank offer marked without prejudice save as to costs, have none of the Part 36 consequences. The court simply takes them into account in its costs discretion, and it must have regard to any admissible offer drawn to its attention.
+Hannah: Can anyone show the court these offers?
+Will: Without prejudice negotiations cannot be shown to the court on liability. There are exceptions, for example to prove that the negotiations resulted in a settlement, or where they include an impropriety. Offers made without prejudice save as to costs, and Part 36 offers, can be considered when the court decides costs.
+Hannah: And an offer that tries to be Part 36 and fails?
+Will: It has none of the Part 36 consequences, but the court must still consider it, if it is drawn to the court's attention, in deciding what costs order to make.
+Hannah (summing up): So Part 36 survives rejection and carries the costs consequences, and a Calderbank offer is just weighed in the discretion.
+Will: Right, with the qualifier that even the Part 36 orders at trial are not automatic: the court must make them unless it considers it unjust.
+Hannah (brisk): Fine. So how do I make a valid one?
+## Block 7: Making a valid Part 36 offer (form, timing, clarification)
+Will: Second topic: making a valid Part 36 offer, its form, its timing and clarification. The lead idea is that only an offer meeting every form rule gets the Part 36 consequences. How many form rules do you think there are?
+Hannah (guessing): Somewhere around three.
+Will: Not quite. There are five, and you need all five. One: it must be in writing. Two: it must make clear it is made under Part 36.
+Hannah: What next?
+Will: Three: it must specify a relevant period. That period must be not less than 21 days. In it the defendant will be liable for the claimant's costs if the offer is accepted. Four: it must state whether it relates to the whole claim, part of it or an issue. Five: it must state whether it takes account of any counterclaim.
+Hannah (thoughtful): And the 21 days has an escape clause?
+Will: Yes. The minimum is 21 days, unless the offer is made less than 21 days before trial.
+Hannah (brisk): Show me a valid one and an invalid one.
+Will: A defendant's written offer says it is made under Part 36 and gives a relevant period of 21 days. It covers the whole claim and says whether it takes account of the counterclaim. That is valid. Now take the same offer but open for only 10 days. That is not a Part 36 offer, so none of the Part 36 consequences follow. The court must still consider it, if it is drawn to the court's attention, in deciding costs.
+Hannah (summing up): So every form requirement has to be met, and the relevant period is the one people trip on.
+Will: Right. A defendant's Part 36 money offer has its own rules. It must be to pay a single sum. The sum must be payable within 14 days of acceptance. And the offer is treated as inclusive of all interest until the relevant period expires. An offer to pay later than that is not a Part 36 offer, unless it is accepted.
+Hannah: What about an offer made very late?
+Will: An offer made less than 21 days before trial is valid, but its relevant period runs until the end of the trial. The usual costs consequences at trial do not apply to it, unless the court has abridged that period.
+Hannah (brisk): And what if the terms are unclear?
+Will: The offeree may ask for clarification within 7 days of the offer being made. If it is not clarified within 7 days of the request, the offeree may apply to the court, unless the trial has started.
+Hannah: Does the trial judge get to see all this?
+Will: No. A Part 36 offer is treated as without prejudice save as to costs. The trial judge must not be told of it until liability and quantum are decided, unless, for example, the parties agree in writing or the offer was accepted.
+Hannah: Scenario?
+Will: Kestrel Ltd is sued by Aldridge Ltd. Kestrel sends a written offer, well before any trial, headed as made under Part 36. It covers the whole claim, says it takes account of the counterclaim, and stays open for 10 days.
+Hannah: The question is whether that is a valid Part 36 offer, or an ordinary offer without the Part 36 consequences?
+Will: <think>
+Hannah (thinking aloud): This is the form requirements. Writing, Part 36 label, whole claim and counterclaim are all fine. But the relevant period has to be at least 21 days unless the offer is made less than 21 days before trial, and this is well before trial. So it is not a Part 36 offer.
+Will: Right: not a Part 36 offer, so none of the Part 36 consequences follow. The deciding fact is the 10-day period. The court must still consider the offer, if it is drawn to its attention, when it decides costs.
+Hannah (brisk): Right. Making it done. What if the offeror changes its mind?
+## Block 8: Withdrawing or changing a Part 36 offer
+Will: Third topic: withdrawing or changing a Part 36 offer. The relevant period is the dividing line. First question: when can an offer be withdrawn at all?
+Hannah (guessing): Before it is accepted.
+Will: Right. An offer can be withdrawn, or its terms changed, only if the offeree has not already served notice of acceptance. The offeror does it by serving written notice. After the relevant period, it may do so without permission, or the offer may lapse under its own terms.
+Hannah: And during the period?
+Will: A notice withdrawing or worsening an offer, served during the relevant period, takes effect only at the end of that period, if the offer has not been accepted.
+Hannah (wary): And if the offeree accepts in the meantime?
+Will: If the offeree accepts the original offer before the period ends, the acceptance stands. There is one escape. The offeror can apply within 7 days of acceptance, or before trial if that is earlier. Two conditions then: the court must find a change of circumstances, and that withdrawal is in the interests of justice.
+Hannah (summing up): So withdrawal during the period is only a notice that bites at the end, and an early acceptance usually wins.
+Will: Right. Take two stories. On the tenth day of a 21-day relevant period the defendant serves notice withdrawing its offer, and the claimant accepts on the twelfth day. The acceptance stands, unless the defendant applies within 7 days, or before trial if earlier, and the court finds a change of circumstances making withdrawal in the interests of justice.
+Hannah: And the counter-story?
+Will: The same notice on the tenth day, but the claimant first tries to accept after the relevant period has ended. The withdrawal took effect at the end of the period, so there is nothing to accept.
+Hannah: What decides it?
+Will: Whether the offeree served notice of acceptance before the relevant period ended.
+Hannah (brisk): And improving an offer? Is that a withdrawal too?
+Will: No. Improving an offer is treated as a new Part 36 offer on the improved terms, not as a withdrawal of the original. Its relevant period is 21 days, or any longer period the offeror specifies.
+Hannah (thinking aloud): So the look-alike is improving against withdrawing or worsening.
+Will: Right. Improving makes a new offer on better terms and the original is not withdrawn. Withdrawing or worsening needs written notice, and if it is served during the relevant period it takes effect only at the end, if the offer has not been accepted.
+Hannah: Scenario?
+Will: Sunil's firm, Lowther Engineering, has a 21-day Part 36 offer out to Janet. On the tenth day, Lowther serves written notice withdrawing it. On the twelfth day, Janet serves written notice accepting it. Lowther does not apply to the court.
+Hannah: The question is whether Janet's acceptance stands, or whether the withdrawal already ended the offer?
+Will: <think>
+Hannah (thinking aloud): This is withdrawing during the period. The notice only takes effect at the end of the relevant period. Janet accepted on the twelfth day, before it ended. And Lowther has not applied to the court, so there is no change of circumstances to rely on.
+Will: Right: the acceptance stands. The deciding fact is that Janet served notice of acceptance before the relevant period ended.
+Hannah (brisk): Got it. And now accepting properly.
+## Block 9: Accepting a Part 36 offer and its consequences
+Will: Fourth topic: accepting a Part 36 offer and its consequences. A solicitor has a duty here before anything else. What is it?
+Hannah (guessing): Telling the client about the offer.
+Will: Right. The solicitor must promptly tell the client about any offer, advise on it and its costs consequences, and act on the client's decision. It cannot accept or reject without the client's authority.
+Hannah: And how does acceptance work?
+Will: By serving written notice of acceptance on the offeror. It may be accepted at any time, even after the relevant period or after a rejection or counter-offer. The one bar is that the offer has already been withdrawn, either by written notice or automatically under its own terms.
+Hannah: Does the court ever get a say?
+Will: Court permission is needed in some cases, including once the trial has started. It is also needed where deductible state benefits are in issue, the relevant period has expired, and further deductible amounts were paid since the offer. And it is needed where a Fatal Accidents apportionment is needed.
+Hannah (wary): What about offers from only some of several defendants?
+Will: Permission is needed only if neither of two routes applies. If the defendants were sued jointly or in the alternative, the claimant may accept if it discontinues against the non-offering defendants and they consent in writing. If they are alleged to be severally liable, the claimant may accept and continue against the others.
+Hannah (thoughtful): And children?
+Will: A settlement by or for a child or protected party also needs court approval.
+Hannah (summing up): So permission is the exception, and a few cases trigger it.
+Will: Right. Now what acceptance does. The claim, or the relevant part, is stayed on the terms of the offer.
+Hannah: And the money?
+Will: Unless the parties agree otherwise in writing, an accepted sum must be paid within 14 days of acceptance. If it is not, the claimant may enter judgment for the unpaid sum.
+Hannah (guessing): Then a stay means it is all over, and no more court.
+Will: Not quite. The stay does not stop the court enforcing the offer's terms, which you do by applying in the same claim without new proceedings. It also does not stop the court dealing with costs, including interest on costs.
+Hannah: And who pays the costs?
+Will: It depends on timing. If an offer on the whole claim is accepted within the relevant period, the claimant is entitled to its costs up to the date of serving notice of acceptance, assessed on the standard basis if not agreed. The exception is where costs are fixed.
+Hannah (brisk): Whoever made the offer?
+Will: Yes. Now late acceptance of a defendant's offer, after the relevant period. Unless it is unjust, the claimant gets its costs up to expiry of the relevant period, and must pay the defendant's costs from expiry to the date of acceptance.
+Hannah (thinking aloud): And that is one of the non-automatic ones. The court has to make that order unless it considers it unjust.
+Will: Right. Two further cases. If an offer made less than 21 days before trial is accepted and costs are not agreed, the court decides costs.
+Hannah: And a part-claim offer?
+Will: The court decides costs, unless the claimant abandons the balance. Then, for a defendant's offer accepted within the relevant period, the claimant gets only the costs of that part, unless the court orders otherwise.
+Hannah: Scenario?
+Will: Grafton Ltd, the defendant, makes a Part 36 offer to settle the whole of Wick Bakeries' claim. The relevant period expires. Three months later, Wick accepts, and costs are not agreed. The court has not been asked to find anything unjust.
+Hannah: The question is whether Wick gets its costs up to the acceptance, or only up to expiry, with Grafton's costs after that on Wick?
+Will: <think>
+Hannah (thinking aloud): This is late acceptance. Acceptance after the relevant period, offer on the whole claim. So unless the court considers it unjust, Wick gets costs only up to expiry, and pays Grafton's costs from expiry to acceptance.
+Will: Right: costs only up to expiry, and Wick pays Grafton's from expiry to acceptance. The deciding fact is that the notice of acceptance came after the relevant period expired. Within it, the claimant would have had costs up to acceptance.
+Hannah (brisk): So acceptance is the easy bit, and the costs hang on the timing. What if nobody accepts?
+## Block 10: Unaccepted Part 36 offers at trial: triggers and consequences
+Will: Last topic: unaccepted Part 36 offers at trial, the triggers and the consequences. You compare the judgment with each unaccepted offer, money against money, after adjusting interest. Let's start with the defendant's offer. When is it triggered?
+Hannah (guessing): When the claimant does worse than the offer.
+Will: Close, but the exact wording matters, because an exact match counts too. The claimant fails to obtain a judgment more advantageous than the defendant's offer. Then, unless it is unjust, the defendant gets its costs from the date the relevant period expired, with interest on those costs. The claimant normally still gets its costs up to that date.
+Hannah (wary): And what does more advantageous mean?
+Will: In money terms, better by any amount, however small. The comparison is like-for-like, adjusting for interest, because the offer included interest only up to expiry of the relevant period.
+Hannah: Two stories?
+Will: A defendant offered £30,000. After adjusting interest, the claimant's judgment is better by just £5. That is more advantageous, so no Part 36 order is made against the claimant. Now the counter-story: after adjusting interest, the judgment equals the offer exactly. That is not more advantageous, so the court must, unless it considers it unjust, give the defendant its costs from expiry of the relevant period, with interest on those costs.
+Hannah: What decides it?
+Will: Whether the judgment is better than the offer in money terms by any amount, comparing like with like.
+Hannah: Scenario?
+Will: Marlow Surveyors made a Part 36 offer of £30,000, which Janet did not accept. After adjusting interest, her judgment is exactly £30,000. Nothing unusual about the conduct or timing of the offer.
+Hannah: The question is whether Janet has beaten the offer, or has she not, so the defendant's order applies?
+Will: <think>
+Hannah (thinking aloud): This is the defendant's trigger. More advantageous means better by any amount. An exact match is not better, so she has not beaten it. So unless the court considers it unjust, Marlow gets its costs from expiry, with interest.
+Will: Right: she has not beaten it, so the defendant's order applies, unless the court considers it unjust. The deciding fact is the exact match.
+Hannah (brisk): And the same exact match works the other way for a claimant's own offer?
+Will: Yes. A judgment equal to the claimant's own offer is at least as advantageous, so the claimant's enhancements are triggered. Either way, the court must make the order unless it considers it unjust. It makes none for an offer in the excluded group.
+Hannah: So what does the claimant get?
+Will: Unless it is unjust, enhanced interest on damages from expiry of the relevant period. The limit is 10% above base rate. Next come costs on the indemnity basis from that date. Then interest on those costs, again up to that limit. And an additional amount.
+Hannah (groaning): How much is that?
+Will: The additional amount is 10% of the sum awarded, up to £500,000. Then 5% of any amount above £500,000. And it is capped at £75,000. If there is no money award, it is calculated on the costs. It is awarded only once, and only where the case is decided, not on acceptance.
+Hannah (thinking aloud): So a big claim gets a capped bonus.
+Will: Right. Fast and intermediate track cases have fixed recoverable costs, and Part 36 applies with modifications. A claimant who fails to beat a defendant's offer gets only the fixed costs for the stage reached when the relevant period expired. The defendant gets the fixed costs for the stage reached at judgment, less those claimant's fixed costs. That is where the court makes the usual order, as it must unless it considers it unjust.
+Hannah: And a claimant who beats its own offer?
+Will: Instead of indemnity costs, it gets additional costs. They are 35% of the difference between the fixed costs at expiry and at judgment. Enhanced interest and the additional amount still apply, each unless the court considers it unjust.
+Hannah (wary): And how do I keep defendant's and claimant's offers apart?
+Will: Test each unaccepted offer separately. A defendant's offer is triggered if the claimant fails to do better. A claimant's offer is triggered if it does at least as well. Suppose a defendant offered £2m and a claimant £3.5m. An award of £4m triggers only the claimant's offer. An award of £3m triggers neither, so costs follow the normal rules.
+Hannah (summing up): So defendant's offer: claimant must beat it. Claimant's offer: matching it is enough.
+Will: Right. Last, the unjust exception. In deciding whether the orders would be unjust, the court must take into account all the circumstances, including the offer's terms and the stage it was made, especially how close to trial. It also looks at the information then available, the parties' conduct in giving or refusing information, and whether it was a genuine attempt to settle.
+Hannah: So that list is not closed.
+Will: Right, it is not. And then there are three offers the trial orders never apply to at all. A Part 36 offer that was withdrawn loses its Part 36 consequences, though the court must still have regard to it, if it is drawn to the court's attention, in its general costs discretion.
+Hannah: And the other two?
+Will: A changed offer made less advantageous to the offeree, where the offeree has beaten the less advantageous offer. And an offer made less than 21 days before trial, unless the court has abridged the relevant period.
+Hannah (summing up): So the orders are not automatic, and some offers are outside them entirely.
+Will: Right. The court must make the orders unless it considers it unjust, and it never makes them for those three excluded offers.
+## Recap
+Will (warm): Five topics again. Can you start with the nature?
+Hannah: Yes. A Part 36 offer can be made at any time, survives rejection and can be accepted until withdrawn, whereas a Calderbank offer is only weighed in the costs discretion.
+Will: Right, with the qualifier: the trial orders are not automatic, because the court must make them unless it considers it unjust. Two. A valid offer meets every form requirement, including a relevant period of not less than 21 days, unless it is made less than 21 days before trial.
+Hannah (brisk): Three. A withdrawal served during the relevant period takes effect only at its end, and an acceptance before then stands unless the offeror applies in time and the court finds a change of circumstances.
+Will: Four. An offer can be accepted until withdrawn, with the court's permission in some cases, and a claimant who accepts a defendant's whole-claim offer late gets its costs only to expiry and pays the defendant's costs from expiry to acceptance, unless the court considers that unjust.
+Hannah: Five. At trial the claimant must fail to beat a defendant's offer, or do at least as well as its own. The court then has to make the orders unless it thinks that unjust. They never apply to a withdrawn offer, a worsened offer the offeree beat, or an offer made less than 21 days before trial unless the court abridged the period. Have I missed anything?
+Will (warm): That was Part 36: its nature against Calderbank offers, making a valid offer, withdrawing it, accepting it, and unaccepted offers at trial, where the court must make the orders unless it considers it unjust, and never for the excluded offers.

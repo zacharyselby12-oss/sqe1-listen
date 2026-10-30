@@ -1009,6 +1009,45 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p1-e01b39fd.mp3",
       "pubDate": "2026-10-29T21:44:29+00:00"
+    },
+    {
+      "id": "dr-ws08-v23-p2",
+      "unitId": "u-bpp-DR-08",
+      "title": "Dispute Resolution WS08 · Part 36 offers (part 2 of 2)",
+      "guideHash": "7c8712e0bf",
+      "script": "scripts/dr-ws08-v23-p2.txt",
+      "scriptHash": "ad3fecb09da3",
+      "audio": "audio/dr-ws08-v23-p2.mp3",
+      "recap": [
+        "Nature: a Part 36 offer can be made at any time, survives rejection and can be accepted until withdrawn, whereas a Calderbank offer is only weighed in the costs discretion; the trial orders are not automatic, because the court must make them unless it considers it unjust.",
+        "Valid offer: it must meet every form requirement, including a relevant period of not less than 21 days unless it is made less than 21 days before trial, otherwise it has none of the Part 36 consequences.",
+        "Withdrawing: a notice served during the relevant period takes effect only at its end if the offer has not been accepted, and an acceptance before then stands unless the offeror applies in time and the court finds a change of circumstances.",
+        "Accepting: an offer can be accepted until withdrawn, with the court's permission in some cases, and accepting after the relevant period normally costs the claimant the costs from expiry unless the court considers that unjust.",
+        "At trial: the claimant must fail to beat a defendant's offer, or do at least as well as its own, and then the court must make the orders unless it considers it unjust, but never for a withdrawn offer, a worsened offer the offeree beat, or an offer made less than 21 days before trial unless the court abridged the period."
+      ],
+      "map": [
+        "Part 36: aims, nature and other (Calderbank) offers",
+        "Making a valid Part 36 offer (form, timing, clarification)",
+        "Withdrawing or changing a Part 36 offer",
+        "Accepting a Part 36 offer and its consequences",
+        "Unaccepted Part 36 offers at trial: triggers and consequences"
+      ],
+      "summary": "That was Part 36: its nature against Calderbank offers, making a valid offer, withdrawing it, accepting it, and unaccepted offers at trial, where the court must make the orders unless it considers it unjust, and never for the excluded offers.",
+      "madeAt": "2026-10-30T08:43:16+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + line-by-line + coverage checks; fixes applied; Opus changed-lines checks x2 (last fix a one-line Opus-supplied replacement, code-checked); code ok",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
