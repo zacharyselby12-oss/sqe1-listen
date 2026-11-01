@@ -810,7 +810,7 @@
       ],
       "summary": "This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.",
       "madeAt": "2026-10-29T08:15:02+00:00",
-      "status": "published",
+      "status": "superseded",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + coverage checks; fixes; Opus changed-lines checks x2 (last fix, one reworded line, Opus-supplied and code-checked); code ok",
@@ -1094,7 +1094,7 @@
       ],
       "summary": "This part covered the sources and purposes of sentencing, which court sentences, basis of plea and Newton hearings, totality, deferring sentence, indications of sentence, seriousness and the thresholds, sentencing guidelines, the sentencing hearing, aggravating and mitigating factors, and credit for a guilty plea.",
       "madeAt": "2026-11-01T13:32:07+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); build chat line fixes for REVIEW-TRIAL Addendum 20; Opus changed-lines checks: 4 rounds (31 Oct); 1 Nov: a fresh Opus check of the round-4 lines and their neighbours, then two fresh changed-lines rounds (rounds 5-7, primary sources): every finding fixed, the last an Opus-supplied fix, code-checked; guide hash re-stamped after CP-14.2-02 was corrected",
@@ -1114,7 +1114,15 @@
         "b11"
       ],
       "spec": "2.2",
-      "supersedes": "clp-ws08-v23-p1"
+      "supersedes": "clp-ws08-v23-p1",
+      "bytes": 15119430,
+      "seconds": 1890,
+      "words": 4824,
+      "renderedHash": "3e8c32df13a9",
+      "renderedAt": "2026-11-01T13:37:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws08-v23b-p1-ccdd2de2.mp3",
+      "pubDate": "2026-11-01T13:37:05+00:00"
     },
     {
       "id": "wae-ws08-v23",
@@ -1148,7 +1156,7 @@
       ],
       "summary": "We covered methods of revocation and revocation by destruction, conditional revocation, missing or damaged wills, revocation by later will, revocation by codicil, mutual and mirror wills, marriage or civil partnership, divorce or dissolution, and the forfeiture rule.",
       "madeAt": "2026-11-01T13:32:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); build chat line fixes for REVIEW-TRIAL Addendum 20; Opus changed-lines checks: 4 rounds (31 Oct); 1 Nov: a fresh Opus check of the round-4 lines and their neighbours, then two fresh changed-lines rounds (rounds 5-7, primary sources): every finding fixed, the last an Opus-supplied fix, code-checked; WAE WS08 needed no change on 1 Nov (its fixes passed in rounds 1-3); 1 Nov 13:00: three gap lines reworded without pipeline words (\"checked point\"), no legal change, code-checked",
@@ -1165,7 +1173,15 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11458339,
+      "seconds": 1432,
+      "words": 3745,
+      "renderedHash": "ea9adac303cd",
+      "renderedAt": "2026-11-01T13:37:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/wae-ws08-v23-943e1f72.mp3",
+      "pubDate": "2026-11-01T13:37:05+00:00"
     }
   ],
   "replays": [
