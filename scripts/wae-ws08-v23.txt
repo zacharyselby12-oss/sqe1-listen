@@ -1,0 +1,245 @@
+---
+id: wae-ws08-v23
+unit: u-bpp-WAE-08
+guide_hash: 542414c0ca
+made: 2026-11-01T13:32:34+00:00
+title: WAE WS08 · Revocation of wills, and forfeiture
+map:
+- Methods of revocation; revocation by destruction
+- Conditional revocation (dependent relative revocation)
+- Missing or damaged will
+- Revocation by later will
+- Revocation by codicil
+- Mutual wills and mirror wills
+- Marriage or civil partnership
+- Divorce or dissolution
+- Forfeiture rule
+recap:
+- Destruction revokes only with an actual act (not a symbolic one) together with the intention to revoke and capacity, and destruction by another person revokes only if done in the testator's presence and at their direction.
+- A revocation made on an assumption that proves false, when the testator would not otherwise have revoked, does not take effect.
+- A missing or mutilated will last known to be in the testator's possession is presumed revoked, but rebuttably, and no presumption arises where someone else held it.
+- A valid later will with a revocation clause revokes all earlier wills and codicils; without one it revokes only what is inconsistent.
+- A valid codicil executed with the same formalities as a will can revoke the whole or part of a will, expressly or by inconsistency.
+- Mutual wills and mirror wills: not covered here yet, so use the workshop notes.
+- Marriage or civil partnership revokes an earlier will, subject to exceptions, including a will made in contemplation of marriage to a particular person.
+- A final order of divorce or dissolution does not revoke the will but, unless it shows a contrary intention, the former spouse is treated as having died; only a final order counts.
+- Someone who unlawfully kills the deceased, or unlawfully aids, abets, counsels or procures the death, cannot benefit under the will or on intestacy; the court may modify the rule for any unlawful killing except where the offender stands convicted of murder, only where the justice of the case requires it, and after a conviction only if proceedings are brought within 3 months of it.
+summary: We covered methods of revocation and revocation by destruction, conditional revocation, missing or damaged wills, revocation by later will, revocation by codicil, mutual and mirror wills, marriage or civil partnership, divorce or dissolution, and the forfeiture rule.
+invented:
+- Ravi
+- Nikhil
+- Maria
+- Tanya
+- Paul
+- Leila
+- Dev
+---
+## Map
+Will: Today is revocation of wills, and forfeiture, in nine topics. First, how a will is revoked by destruction. Then conditional revocation, and then what happens when a will goes missing or is found damaged.
+Hannah: So three on destruction and its consequences. What next?
+Will: Revocation by a later will, then by a codicil, then a short stop at mutual and mirror wills. After that, the effect of marriage or civil partnership, and then divorce or dissolution. The last topic is the forfeiture rule, for someone who unlawfully kills the deceased.
+Hannah: Let me say it back. Destruction, conditional revocation, missing wills. Then later wills, codicils, and mutual and mirror wills. Then marriage, divorce, and forfeiture.
+Will: Yes, that is the whole run. Let's start with revocation by destruction.
+## Block 1: Methods of revocation; revocation by destruction
+Will: First topic: methods of revocation, starting with revocation by destruction. The lead point is that act and intention must coincide, and that symbolic acts and accidents do not revoke.
+Hannah: What does the law need?
+Will: A will is revoked by burning, tearing or otherwise destroying it. The testator can do it, or someone else can, in the testator's presence and by their direction. And the testator must intend to revoke.
+Hannah: So an act, and an intention, and they have to be there together.
+Will: Right, at the same time. Now, what counts as an act? It must be actual, not symbolic.
+Hannah: What if she writes "cancelled" across the will?
+Will: That is symbolic. Writing cancelled or void across the will does not revoke. Neither does screwing it up, if it is retrieved intact.
+Hannah: And crossing out words?
+Will: If the words are still legible, crossing out has no effect unless it is executed. But obliterating words so they are no longer apparent, intending to revoke, does revoke them.
+Hannah: What about the signature?
+Will: Cutting out or obliterating the signature revokes the whole will.
+Hannah: Show me the difference.
+Will: Two short stories. In the first, the testator cuts out her signature, intending to revoke. The whole will is revoked. In the second, she writes void across every page. That is a symbolic act, so it is not revoked. The deciding fact is whether there was an actual act of destruction, or obliteration leaving the words no longer apparent, together with the intention to revoke.
+Hannah: So cutting out the signature works, and writing void across the pages does not.
+Will: Yes, because only the first is a real act of destruction.
+Hannah: Now the intention side. What has to be in the testator's head?
+Will: The testator must intend to revoke and must have capacity to do so, to the same standard as for making a will.
+Hannah: So what fails?
+Will: Accidental destruction does not revoke. Neither does destruction while the testator lacks capacity.
+Hannah: Anything else?
+Will: Destruction in the belief that the will was already invalid, or was a different document, does not revoke either.
+Hannah: And if only part of the will is destroyed?
+Will: Only that part is revoked, unless the part destroyed is so important, the signature for instance, that the rest cannot stand.
+Hannah: Now someone else doing the destroying.
+Will: That revokes only if it is done in the testator's presence and at their direction. Destruction elsewhere does not revoke. A solicitor shredding the will after a phone call is the standard example. And the testator's later approval does not cure it.
+Hannah: So presence and direction are both needed, and approving afterwards cannot rescue it.
+Will: Right. Let's try one. Ravi tells his brother Nikhil, in a phone call, to burn his will. The next day Nikhil burns it in his own garden. Ravi hears about it and says that was what he wanted. The test is destruction by another person. Is the will revoked, not revoked, or revoked because Ravi approved afterwards?
+Hannah: Revoked, not revoked, or revoked by the later approval?
+Hannah: <think>
+Hannah: This turns on destruction by another person. Nikhil was not in Ravi's presence, and approval afterwards does not cure that, so the will is not revoked.
+Will: Right. Destruction by someone else revokes only in the testator's presence and at their direction. Here it was done elsewhere, and Ravi's approval afterwards changes nothing.
+Hannah: Recap: destruction revokes only with an actual act, not a symbolic one, together with the intention to revoke and capacity. If someone else does it, it counts only if the testator was there and directed it.
+Will: Right. Now to conditional revocation, where a revocation can fail.
+## Block 2: Conditional revocation (dependent relative revocation)
+Will: Next topic: conditional revocation, also called dependent relative revocation. It covers a revocation made on an assumption that turns out to be false.
+Hannah: What is the rule?
+Will: A revocation is conditional, and so it fails, if it was made on an assumption that proves false, and the testator would not have revoked otherwise.
+Hannah: Two things, then: a false assumption, and no revocation without it.
+Will: Yes. One example is revoking in the mistaken belief that an earlier will would revive.
+Hannah: And the other?
+Will: The unexecuted substitute gift. The testator obliterates words only to replace them with a new gift, and the new gift fails for want of execution.
+Hannah: Why does the revocation fail with it?
+Will: Because the revocation was conditional on the new gift taking effect. When the gift fails, the revocation fails too.
+Hannah: Then how do we know what the old words said?
+Will: By extrinsic evidence, such as drafts, copies or infra-red examination.
+Hannah: Give me both sides.
+Will: Two short stories. In the first, the testator pastes a slip over a legacy and writes a larger legacy on it, unwitnessed. The revocation was conditional on the new gift, so it fails, and the original legacy can be proved by extrinsic evidence. In the second, she obliterates a legacy so it is no longer apparent, intending simply to revoke it. That legacy is revoked.
+Hannah: So the question is whether she obliterated the words only to make way for a new gift.
+Will: Right: only to make way for a new gift that then failed for want of execution. That is the deciding fact.
+Hannah: In one line: a revocation made on an assumption that proves false, where the testator would not otherwise have revoked, does not take effect.
+Will: Yes. Next, what the law presumes when a will goes missing.
+## Block 3: Missing or damaged will
+Will: Missing or damaged will. One question comes first: who last held the original?
+Hannah: Why does that decide it?
+Will: Because of a presumption. If a will last known to be in the testator's possession cannot be found at death, or is found torn or mutilated, it is presumed to have been destroyed by the testator with the intention to revoke.
+Hannah: Can you argue against it?
+Will: Yes, it is rebuttable. Evidence of loss, or of continuing intention, can rebut it.
+Hannah: I thought you had to show the will existed at death and was lost afterwards.
+Will: That is too narrow. Any evidence that the will was lost, or that the testator still meant it to stand, can rebut it. And a will destroyed by accident in the testator's lifetime is not revoked.
+Hannah: What if someone else held the will?
+Will: Then the presumption does not arise. That is the case where a solicitor or bank held it.
+Hannah: Two stories, then?
+Will: Yes. In the first, the testator kept the will at home and it cannot be found after death. It is presumed revoked, unless the presumption is rebutted. In the second, the original was held by the testator's solicitor or bank. No presumption arises. The deciding fact is who last held the original will.
+Hannah: So home means presumed revoked, and solicitor or bank means no presumption.
+Will: Right. What if the will was not validly revoked, but the original is lost or destroyed?
+Hannah: Then it's gone for good?
+Will: No. Its contents can be proved by a copy or a reconstruction, with an order of a district judge or registrar.
+Hannah: Does conditional revocation come back in here?
+Will: It does. Destruction intended to take effect only if a new will is valid, or to revive an earlier one, is no revocation if that condition fails.
+Hannah: So the revocation fails if the condition fails, even though the will really was destroyed.
+Will: Right. Here is a scenario. Maria made a will and left the original with her solicitor. After she dies the original cannot be found anywhere. Her nephew says it must be treated as revoked because it is missing. The test is who last held the original. Is the will presumed revoked, is there no presumption, or is it simply revoked?
+Hannah: Presumed revoked, no presumption, or simply revoked?
+Hannah: <think>
+Hannah: This is the missing will presumption. The solicitor held it, not Maria, so the presumption does not arise.
+Will: Yes. The presumption applies only where the will was last known to be in the testator's possession. Here someone else held it, so the nephew cannot rely on it.
+Hannah: Recap: a will that was last with the testator and is missing or mutilated at death is presumed revoked, but rebuttably, and no presumption arises where someone else held it.
+Will: Right. Now to revocation by a later will.
+## Block 4: Revocation by later will
+Will: Revocation by later will. The lead warning is to limit the revocation clause where the testator keeps a foreign will.
+Hannah: Start with the basics.
+Will: A will is revoked, in whole or in part, by a later will or codicil. It can also be revoked by a writing declaring an intention to revoke, if that is executed with the same formalities as a will.
+Hannah: So a bare note saying "I revoke" needs formalities too?
+Will: Right, the writing must be executed like a will. Now there are two routes. First, an express revocation clause, such as I revoke all former wills and codicils.
+Hannah: What does that do?
+Will: It revokes all earlier wills and codicils. But only if the later will is itself valid.
+Hannah: And if the later will is not valid?
+Will: Then its revocation clause fails too. That happens if the later will fails for lack of capacity or formalities, for example.
+Hannah: And without a clause?
+Will: Then the later will revokes an earlier one only so far as it is inconsistent. The documents are read together.
+Hannah: What if it calls itself my last will?
+Will: Describing it as my last will does not by itself revoke earlier wills.
+Hannah: Is that the look-alike?
+Will: Yes. With a revocation clause, a valid later will revokes all earlier wills and codicils. Without one, you read the wills together, and only what is inconsistent is revoked.
+Hannah: In one line: a clause in a valid later will revokes everything earlier, and without a clause only the inconsistent parts go, even if it says it is my last will.
+Will: Right. One refinement, on foreign wills.
+Hannah: What goes wrong there?
+Will: A general revocation clause also revokes a separate will dealing with foreign property.
+Hannah: So if the client wants to keep the foreign will?
+Will: Then the clause must be limited, for example to wills dealing with property in England and Wales.
+Hannah: So the fix is to limit the clause when there is a foreign will to keep.
+Will: Right. Now to revocation by codicil.
+## Block 5: Revocation by codicil
+Will: Revocation by codicil. We need what a codicil is, and what it can do to a will.
+Hannah: What is a codicil?
+Will: A testamentary document that adds to, varies or revokes part of an existing will.
+Hannah: Does it need the same safeguards as a will?
+Will: Yes. It needs testamentary capacity and knowledge and approval, and it must be executed with the same formalities as a will.
+Hannah: And as to revoking?
+Will: A codicil can revoke the whole or part of a will. It can do so expressly, for example by saying I revoke clause 4 of my will. Or it can do so impliedly, by inconsistency.
+Hannah: So the codicil has to be valid before it can revoke anything.
+Will: Right, valid and executed with the proper formalities. What revoking a will does to its codicils isn't covered here yet, so use the workshop notes for that.
+Hannah: Recap: a valid codicil, executed with the same formalities as a will, can revoke all or part of it, expressly or by inconsistency.
+Will: Yes. Now a short stop.
+## Block 6: Mutual wills and mirror wills
+Will: Mutual wills and mirror wills. This topic isn't covered in the guide yet.
+Hannah: So what do we do with it?
+Will: Use the workshop notes. Mutual and mirror wills are covered there, and I will not guess at the law here.
+Hannah: Fair enough. In one line: nothing checked to learn here, so go to the workshop notes.
+Will: Right. On to marriage and civil partnership.
+## Block 7: Marriage or civil partnership
+Will: Marriage or civil partnership. The contrast to remember is with divorce: marriage revokes the will itself, unless an exception applies.
+Hannah: So the rule is that a later marriage revokes an earlier will?
+Will: Yes. A will is revoked by the testator's later marriage or civil partnership. The same goes for a later civil partnership.
+Hannah: I'd have said it revokes in full, whatever the testator intended.
+Will: Not quite. Outside the exceptions, the testator's lack of intention does not save the will. But there are exceptions, and the main one comes first.
+Hannah: Go on.
+Will: The will is not revoked if it appears from the will itself that, when it was made, the testator was expecting to marry, or form a civil partnership with, a particular person. And the testator must have intended the will, or a particular gift in it, not to be revoked by that marriage.
+Hannah: Does it matter who she marries?
+Will: It does. The exception does not apply to marriage to someone else. And the intention must appear from the will itself.
+Hannah: Show me both sides.
+Will: Two short stories. In the first, the will shows that when it was made the testator expected to marry a named fiancé and intended it not to be revoked by that marriage. She marries the fiancé, and the will is not revoked. In the second, it is the same will, but she marries someone else. The will is revoked. The deciding fact is whether she married that particular person, with the expectation and intention appearing from the will itself.
+Hannah: So the same will survives marriage to the named person and fails on marriage to anyone else.
+Will: Right. There are other exceptions as well.
+Hannah: Such as?
+Will: Marriage does not revoke an appointment under a power of appointment, unless the property would otherwise pass to the testator's personal representatives.
+Hannah: And the third?
+Will: Nor does it revoke a will where the marriage is a conversion of a civil partnership. The converse also holds, where a civil partnership is a conversion of a marriage.
+Hannah: So the rule is revocation, with exceptions including the contemplation of marriage, the power of appointment, and conversion.
+Will: Yes. And the practical advice is to make a new will on marriage or civil partnership. Or make a will expressly in contemplation of it beforehand. Otherwise the intestacy rules apply.
+Hannah: Recap: marriage or civil partnership revokes an earlier will, subject to exceptions, including a will showing the testator expected to marry a particular person and intended it not to be revoked.
+Will: Right. Now divorce and dissolution, where the position is different.
+## Block 8: Divorce or dissolution
+Will: Divorce or dissolution. The lead point is that only a final order counts, and a family provision claim can survive it.
+Hannah: Is the will revoked on divorce?
+Will: No. Divorce does not revoke the will as a whole, and the rest of the will stands. What changes is the former spouse.
+Hannah: How?
+Will: After the will is made, suppose the marriage is dissolved or annulled by a final order. That can be a divorce or nullity order in England and Wales, or an overseas divorce or annulment recognised here. Then, unless the will shows a contrary intention, the former spouse is treated as having died on the date of the order.
+Hannah: And the same for civil partners?
+Will: Yes, for dissolution of a civil partnership as well.
+Hannah: What does being treated as dead do to the will?
+Will: Gifts to the former spouse fail, and any substitutional gift takes effect. Their appointment as executor or trustee fails. And any power of appointment given to them fails.
+Hannah: What if there is no substitutional gift?
+Will: Then the gift falls into residue. If the former spouse was the residuary beneficiary, it falls on partial intestacy.
+Hannah: And what about a separation with no final order?
+Will: It has no effect.
+Hannah: Is this the look-alike with marriage?
+Will: Yes. Marriage revokes the will itself, unless an exception applies. A final order of divorce, dissolution or annulment does not revoke it. Unless the will shows a contrary intention, the former spouse is treated as having died on the date of the order, and the rest of the will stands.
+Hannah: In one line: marriage revokes the will unless an exception applies, but a final order only removes the former spouse's benefits, unless the will shows a contrary intention.
+Will: Right. Now, only the final order counts.
+Hannah: Meaning a conditional order is not enough?
+Will: Right. The final order, the decree absolute, is what triggers it. Informal separation, a conditional order, which is the decree nisi, or a pending divorce has no effect.
+Hannah: So a spouse who is separated or mid-divorce at death still takes?
+Will: Yes. That spouse still takes under the will, and as a spouse on intestacy. There is one catch on intestacy: a spouse under a judicial separation order is treated as already dead.
+Hannah: Show me a pair.
+Will: Two short stories. In the first, there is a final order, and then the testator dies without changing the will. Unless the will shows a contrary intention, the former spouse is treated as having died on the date of the order, so the gift to them fails and any substitutional gift takes effect. In the second, the testator dies after the conditional order but before the final order. The rule on former spouses does not apply, so the spouse still takes under the will. The deciding fact is whether the final order came before death.
+Hannah: So it all turns on the final order being made first.
+Will: Right. Time for a scenario. Tanya leaves her residue to her husband Paul, and if he does not survive her, to her sister Leila. She names Paul as her executor too. A final order of divorce is made, and Tanya dies without changing her will. The will shows no contrary intention. The test is the effect of the final order. Does Paul take the residue, does Leila take it, or is the whole will revoked?
+Hannah: Paul, Leila, or the whole will revoked?
+Hannah: <think>
+Hannah: This is divorce after the will. The final order came first, so Paul is treated as having died, the gift to him fails, and the substitutional gift to Leila takes effect.
+Will: Yes. Leila takes. The will is not revoked, and Paul's appointment as executor fails too, because he is treated as having died on the date of the final order.
+Hannah: Is the former spouse then shut out of everything?
+Will: Not necessarily. A former spouse or civil partner who has not formed a subsequent marriage or civil partnership can still apply for family provision under the Inheritance (Provision for Family and Dependants) Act.
+Hannah: Unless?
+Will: Unless the court has made an order barring the claim. That order must have been made on or at any time after the divorce or dissolution.
+Hannah: So the divorce order itself bars the claim?
+Will: Not quite. The divorce order itself does not bar it. The claim is barred only if the court, on making a divorce, nullity or judicial separation order, or at any time after, considered it just, on either party's application, to order that the claim be barred. It is also barred if the former spouse or civil partner has formed a subsequent marriage or civil partnership.
+Hannah: So two ways the claim is lost: a specific barring order, or a new marriage or civil partnership.
+Will: Right.
+Hannah: Recap: a final order of divorce or dissolution does not revoke the will, but unless the will shows a contrary intention the former spouse is treated as having died. Only a final order counts, and a family provision claim can survive it unless it is barred.
+Will: Yes. The last topic is the forfeiture rule.
+## Block 9: Forfeiture rule
+Will: Forfeiture rule. It bars someone who unlawfully kills the deceased from benefiting under the will or on intestacy.
+Hannah: Which killings count?
+Will: Murder or manslaughter, and also unlawfully aiding, abetting, counselling or procuring the death. Anyone caught by the rule cannot benefit under the will or on intestacy.
+Hannah: What happens to their gift?
+Will: They are treated as having predeceased. So substitutional gifts operate, or the statutory substitution provision does.
+Hannah: Is the rule ever softened?
+Will: The court may modify it for any unlawful killing, but never where the offender stands convicted of murder. It modifies it only where the justice of the case requires, looking at the conduct of the offender and of the deceased and any other material circumstances. And after a conviction, the proceedings must be brought within a time limit.
+Hannah: What is the limit?
+Will: The time limit is 3 months from conviction.
+Hannah: So a murder conviction means no modification at all. Any other unlawful killing, manslaughter for example, can be modified where the justice of the case requires, and after a conviction the proceedings must come within the limit.
+Will: Right. Try this one. Dev is convicted of the manslaughter of his aunt, whose will leaves him a legacy. He wants the court to modify the forfeiture rule. The test is the time limit for the application. Must he apply within 3 months of conviction, within 3 months of the death, or is there no time limit?
+Hannah: Three months from conviction, three months from the death, or no limit?
+Hannah: <think>
+Hannah: This is the forfeiture rule. He wasn't convicted of murder, so the rule can be modified, but only if he brings proceedings within 3 months of his conviction.
+Will: Right: within 3 months of conviction. Any unlawful killing other than where the offender stands convicted of murder can be modified, and the proceedings must start within 3 months of conviction. Unless the court modifies the rule, he is treated as having predeceased.
+Hannah: Recap: someone who unlawfully kills the deceased, or is an accessory to the death, cannot benefit under the will or on intestacy, and is treated as having predeceased. The court may modify the rule for any unlawful killing except where the offender stands convicted of murder, only where the justice of the case requires, and after a conviction only if proceedings are brought within 3 months of it.
+Will: Yes.
+Hannah: Shall we run through the whole list once more?
+## Recap
+Will: We covered methods of revocation and revocation by destruction, conditional revocation, missing or damaged wills, revocation by later will, revocation by codicil, mutual and mirror wills, marriage or civil partnership, divorce or dissolution, and the forfeiture rule.

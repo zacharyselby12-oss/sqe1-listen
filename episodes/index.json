@@ -1115,6 +1115,57 @@
       ],
       "spec": "2.2",
       "supersedes": "clp-ws08-v23-p1"
+    },
+    {
+      "id": "wae-ws08-v23",
+      "unitId": "u-bpp-WAE-08",
+      "title": "WAE WS08 · Revocation of wills, and forfeiture",
+      "guideHash": "542414c0ca",
+      "script": "scripts/wae-ws08-v23.txt",
+      "scriptHash": "ea9adac303cd",
+      "audio": "audio/wae-ws08-v23.mp3",
+      "recap": [
+        "Destruction revokes only with an actual act (not a symbolic one) together with the intention to revoke and capacity, and destruction by another person revokes only if done in the testator's presence and at their direction.",
+        "A revocation made on an assumption that proves false, when the testator would not otherwise have revoked, does not take effect.",
+        "A missing or mutilated will last known to be in the testator's possession is presumed revoked, but rebuttably, and no presumption arises where someone else held it.",
+        "A valid later will with a revocation clause revokes all earlier wills and codicils; without one it revokes only what is inconsistent.",
+        "A valid codicil executed with the same formalities as a will can revoke the whole or part of a will, expressly or by inconsistency.",
+        "Mutual wills and mirror wills: not covered here yet, so use the workshop notes.",
+        "Marriage or civil partnership revokes an earlier will, subject to exceptions, including a will made in contemplation of marriage to a particular person.",
+        "A final order of divorce or dissolution does not revoke the will but, unless it shows a contrary intention, the former spouse is treated as having died; only a final order counts.",
+        "Someone who unlawfully kills the deceased, or unlawfully aids, abets, counsels or procures the death, cannot benefit under the will or on intestacy; the court may modify the rule for any unlawful killing except where the offender stands convicted of murder, only where the justice of the case requires it, and after a conviction only if proceedings are brought within 3 months of it."
+      ],
+      "map": [
+        "Methods of revocation; revocation by destruction",
+        "Conditional revocation (dependent relative revocation)",
+        "Missing or damaged will",
+        "Revocation by later will",
+        "Revocation by codicil",
+        "Mutual wills and mirror wills",
+        "Marriage or civil partnership",
+        "Divorce or dissolution",
+        "Forfeiture rule"
+      ],
+      "summary": "We covered methods of revocation and revocation by destruction, conditional revocation, missing or damaged wills, revocation by later will, revocation by codicil, mutual and mirror wills, marriage or civil partnership, divorce or dissolution, and the forfeiture rule.",
+      "madeAt": "2026-11-01T13:32:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); build chat line fixes for REVIEW-TRIAL Addendum 20; Opus changed-lines checks: 4 rounds (31 Oct); 1 Nov: a fresh Opus check of the round-4 lines and their neighbours, then two fresh changed-lines rounds (rounds 5-7, primary sources): every finding fixed, the last an Opus-supplied fix, code-checked; WAE WS08 needed no change on 1 Nov (its fixes passed in rounds 1-3); 1 Nov 13:00: three gap lines reworded without pipeline words (\"checked point\"), no legal change, code-checked",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
