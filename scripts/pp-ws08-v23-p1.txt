@@ -1,0 +1,198 @@
+---
+id: pp-ws08-v23-p1
+unit: u-bpp-PP-08
+guide_hash: 101507c727
+made: 2026-11-02T17:58:19+00:00
+title: Property Practice WS08 · Alienation (part 1 of 2)
+part: 1 of 2
+blocks: 1-8
+map:
+- Underletting: nature, effect on the tenant and when used
+- Covenants against underletting and the landlord's consent (LTA 1927 s 19(1), reasonableness, LTA 1988)
+- Underletting: privity and enforcing covenants against the undertenant
+- Underletting procedure: pre-exchange (consent application, licence, title, searches and enquiries)
+- Underletting procedure: exchange, pre-completion searches, completion and post-completion
+- Licences to assign and underlet: form, time limit, contents, direct covenants and parties
+- Notice of dealing
+- Other forms of alienation (charging, sharing occupation) and the Code for Leasing on alienation
+recap:
+- An underlease is a new lease shorter than the tenant's own remaining term, at least by one day; a sub-grant of the whole remaining term operates as an assignment.
+- A qualified covenant against underletting is read as fully qualified, so consent cannot be unreasonably withheld; refusal is reasonable only if it relates to the landlord and tenant relationship in regard to the subject matter of the lease, not a collateral advantage.
+- With no privity between head landlord and undertenant, the licence to underlet carries a direct covenant; a covenant restricting use in a new head lease can also bind an undertenant, and the head landlord may forfeit the head lease, ending the underlease unless the undertenant obtains relief.
+- The tenant pays the landlord's reasonable costs, usually under an undertaking, whether or not the deal proceeds; the undertenant should see the head lease, the consent and, ideally, the freehold title.
+- A lease of more than 7 years granted out of a registered title is registrable; search with priority before completion and apply to register within the priority period; until registered, the tenant holds only an equitable lease.
+- A licence records consent, conditions and covenants; whether a direct covenant binds an assignee beyond its release depends on whether the lease is old or new, and accepting rent with knowledge of a once-and-for-all breach can waive forfeiture.
+- After an assignment, notice goes to the landlord within the time the lease requires, with any fee, and the receipt is kept with the deeds.
+- Qualified covenants against charging and parting with possession are also made fully qualified, but the pre-agreed circumstances rule covers assignment only; the Code for Leasing sets out heads of terms.
+summary: This part covered underletting, including covenants against it and consent with reasonableness, reaching the undertenant, the procedure before and after exchange, licences, notice of dealing, and the other forms of alienation with the Code for Leasing.
+invented:
+- Tara
+- Xavier
+- Priya
+- Callum
+- Mehmet
+- Greenway Court
+- Unit 4
+- Unit 9
+- Alder Street
+---
+## Map
+Will (warm): Right. Today is alienation, which is a grand word for a tenant dealing with its lease. This part is the underletting half, plus licences. The assignment half is in the other part.
+Hannah (teasing): Alienation. Sounds like something from a film. What's the plan?
+Will (brisk): Eight topics, in this order. What an underlease is. When the landlord can refuse consent. How the head landlord reaches an undertenant. And the underletting procedure before exchange.
+Hannah (thinking aloud): So: what it is, consent, reaching the undertenant, procedure up to exchange. Go on.
+Will: Right. Then the procedure from exchange to registration. Then the licence itself. Then notice of dealing. And last, the other forms of alienation, plus the Code for Leasing.
+Hannah (amused): Funny that the licence comes after the procedure, when that's where you ask for it. Fine. Underlease first.
+## Block 1: Underletting: nature, effect on the tenant and when used
+Will (dry): Yes. Underletting first. Picture a tenant with five years left on its lease who grants someone else a shorter lease out of it. What does that make the tenant?
+Hannah (guessing): Both a tenant and a landlord at once?
+Will: Right: it stays its own landlord's tenant and becomes the undertenant's landlord. That's the whole effect on the tenant.
+Hannah (sceptical): And "shorter" means how much shorter?
+Will: Shorter than the head lease by at least one day. That's the figure to learn.
+Hannah (wry): One day. The law is generous.
+Will (amused): It's the minimum, and it matters, because a sub-grant of the whole remaining term operates as an assignment, whatever the document calls it. Say the tenant has 5 years left and grants 5 years less a day. What is that?
+Hannah: An underlease. It's shorter, even if only by a day.
+Will: Yes. Now suppose the tenant grants the whole remaining 5 years, calling it a sublease. What then?
+Hannah (pleased): It operates as an assignment, whatever it's called.
+Will: Right, and the deciding fact is just whether it's shorter than the remaining term. Also, the underlease can't do what it likes. Its terms have to be consistent with the head lease. One: covenants at least as onerous.
+Hannah (thinking aloud): Otherwise the tenant would be promising its landlord more than it gets from its own undertenant. Two?
+Will: Two, the use must be one the head lease permits. And three, the head landlord's consent has to be obtained where the head lease requires it.
+Hannah (wry): Which, spoiler, is the next topic.
+Will: It is. One line of recap first?
+Hannah (brisk): An underlease is a shorter lease out of your own, shorter by at least a day; the whole remaining term is an assignment in disguise.
+Will: Right. So how far can the landlord say no?
+## Block 2: Covenants against underletting and the landlord's consent (LTA 1927 s 19(1), reasonableness, LTA 1988)
+Will (brisk): Consent, then. Suppose the lease says no underletting without the landlord's consent. What does the statute do to that?
+Hannah (guessing): Makes the landlord's consent have to be reasonable?
+Will: Yes: a qualified covenant against underletting is read as fully qualified, so consent is not to be unreasonably withheld. That applies despite any contrary term in the lease.
+Hannah (curious): Why does the statute step in?
+Will: To stop a landlord using a bare "consent needed" clause to refuse for any reason. Same goes for assigning, charging and parting with possession. The landlord can still ask for its reasonable legal and other expenses, though.
+Hannah (wry): So it can't say no for nothing, but it can send the bill.
+Will (amused): Yes, quite. One thing to flag: the pre-agreed circumstances rule, which applies only to non-residential new leases, never applies to underletting. It's assignment only, and we'll meet it in the other part.
+Hannah: Okay. So when is a refusal reasonable?
+Will: Only if the reason relates to the landlord and tenant relationship in regard to the subject matter of the lease. A weak-finances worry about the incoming tenant is fine. So is a use that would breach the lease or harm the reversion.
+Hannah (sceptical): And what's not allowed?
+Will: Refusing to gain a collateral advantage. Say Tara wants to underlet Unit 4, and the landlord says it'll consent only if she surrenders Unit 9. Reasonable or not?
+Hannah (confident): Not. That's a collateral advantage, nothing to do with who is moving into Unit 4.
+Will: Right: nothing to do with the relationship in regard to that unit.
+Hannah (cautious): Clear test. But there must be a catch.
+Will (dry): Right, and the catch is that it's a question of fact. The incoming tenant's intended use can justify refusal even if the lease permits that use. And harm to the landlord's trading interests in neighbouring property can be a reasonable ground too.
+Hannah (groaning): So the lease allowing it doesn't settle it.
+Will: Right: it doesn't. And the landlord only has to show that a reasonable landlord could reach its conclusion. It can rely only on the reasons it gave in its written decision.
+Hannah (summing up): So: a reasonable ground is about the relationship over this property, like finances or harmful use; an unreasonable one is a collateral advantage.
+Will: Yes. Reasonable ground against collateral advantage: that's the look-alike, and the deciding fact is whether the reason concerns the lease's subject matter.
+Hannah (brisk): Recap. A qualified covenant against underletting becomes fully qualified, so refusal needs a reasonable reason tied to the lease, never a collateral advantage.
+Will: Right. Next: what if the landlord consents but the undertenant breaks the head lease covenants?
+## Block 3: Underletting: privity and enforcing covenants against the undertenant
+Will (warm): Which brings us to enforcing covenants against the undertenant. Here's the problem. The head landlord and the undertenant never made a deal with each other. So can the head landlord enforce the head lease covenants against the undertenant?
+Hannah (cautious): If there's no link at all... no?
+Will (dry): That's what the notes would say. The law is "not always". There's no privity of contract or estate between them, so the head landlord takes a direct covenant in the licence to underlet.
+Hannah (thinking aloud): Where the undertenant promises the head landlord directly.
+Will: Yes: to observe the head lease covenants, other than rent, and the head landlord can enforce that directly. Now the look-alike. Privity of contract versus privity of estate. Which binds the original landlord and tenant to each other?
+Hannah: Contract. Under an old lease they stay liable for the whole term, even after assigning.
+Will: Right. Privity of estate binds only the current landlord and tenant, for breaches while each holds its interest. Neither links head landlord and undertenant, which is why the direct covenant exists.
+Hannah (brisk): Fine. Is that the only route?
+Will: No. Even without a direct covenant, a covenant restricting use in a new head lease is enforceable against any owner or occupier of the premises, including an undertenant. New means granted on or after 1 January 1996, other than under a pre-1996 agreement, option or court order.
+Hannah (wry): So a restriction on use in a new head lease binds whoever occupies. And if it's not that kind of covenant?
+Will: Right. Then there's forfeiture. The head landlord may forfeit the head lease, which ends the underlease unless the undertenant obtains relief.
+Hannah (summing up): So three routes to the undertenant: the direct covenant, a use restriction in a new head lease, and forfeiting the head lease.
+Will: Yes. Recap, with qualifiers?
+Hannah: With no privity between them, the licence to underlet carries a direct covenant. A covenant restricting use in a new head lease can also bind an undertenant, and forfeiture of the head lease ends the underlease unless relief is obtained.
+Will: Right. Now to the procedure itself.
+## Block 4: Underletting procedure: pre-exchange (consent application, licence, title, searches and enquiries)
+Will (brisk): The procedure before exchange, then. Start with money. Who pays the head landlord's costs of the consent?
+Hannah (guessing): The tenant. It's the one asking.
+Will: Right: the tenant, as applicant, pays the landlord's reasonable legal and surveyors' costs of considering the application and preparing the licence. It does so whether or not the deal goes ahead.
+Hannah (wary): Even if it falls through?
+Will: Yes, usually under an undertaking from the tenant's solicitor. If the deal doesn't proceed, the landlord recovers those abortive costs only if the undertaking or the lease covers them, as it usually does.
+Hannah (dry): So the undertaking is the thing to read.
+Will: Yes, it is. Now the undertenant's side. Its solicitor makes the usual searches as on a freehold purchase, proportionate to the length and value of the lease, and raises the standard commercial property enquiries on the grant of a lease with its landlord. That's look-up material, so no more on it.
+Hannah (brisk): And what should the undertenant itself check?
+Will: Here's the real point. The undertenant should see the head lease, including alienation and user covenants, rent review and forfeiture risk. It should also see the head landlord's consent to the underletting, and ideally the freehold title.
+Hannah (thinking aloud): Because forfeiture of the head lease ends the underlease. Even if the undertenant has done nothing wrong.
+Will: Yes, unless the undertenant obtains relief. So the investigation is mostly about the head lease.
+Hannah (summing up): Recap: the tenant pays reasonable costs, usually under an undertaking, deal or no deal; and the undertenant checks the head lease, the consent and ideally the freehold.
+Will: Right. Then exchange.
+## Block 5: Underletting procedure: exchange, pre-completion searches, completion and post-completion
+Will (warm): An underlease is the grant of a lease, so the rules for grants apply. Before completion, what search does the tenant want where the lease is registrable?
+Hannah (guessing): An official search with priority, against the landlord's registered title?
+Will: Right, an OS1. It gives 30 working days of priority. If the landlord's title is unregistered it's a land charges search instead, and there's a company search against a corporate landlord, plus anything the tenant's lender needs.
+Hannah (brisk): And registrable means what?
+Will: Registrable means a lease of more than 7 years. Granted out of a registered title, it is a registrable disposition. The tenant must apply for registration within the OS1 priority period.
+Hannah (cautious): What if it doesn't?
+Will: Until it's registered, the tenant holds only an equitable lease. Once registered, the lease is noted on the landlord's title.
+Hannah (summing up): So: search with priority, complete, then register within the priority period, or the tenant is equitable only.
+Will: Yes. One recap line, and then the licence.
+Hannah (dry): A lease of more than 7 years out of a registered title is registrable: search with priority beforehand and register within the 30 working days, or hold only an equitable lease.
+Will: Right.
+## Block 6: Licences to assign and underlet: form, time limit, contents, direct covenants and parties
+Will (brisk): The licence. First, what is it? It's the landlord's formal consent to a dealing the lease prohibits without consent, with any conditions and the parties' covenants.
+Hannah (sceptical): Who writes it, and who signs?
+Will: The landlord's solicitor prepares it. It's usually executed as a deed by the landlord, the outgoing tenant and the incoming tenant, and any guarantors.
+Hannah (thinking aloud): And what's in it?
+Will: It's a list worth knowing, in two groups. First, the consent itself: to the named assignee, with payment of the landlord's costs and a requirement to complete within a stated period or the consent lapses. Second, the covenants: the outgoing tenant's AGA on a new lease where required, the assignee's direct covenant with the landlord, and any guarantor for the assignee.
+Hannah (wry): So consent doesn't last forever. Good to know.
+Will (dry): Right. Now direct covenants, which is where old and new leases split. Take an old lease. Does the landlord have privity of contract with the assignee?
+Hannah (guessing): No: only privity of estate.
+Will: Right, so the assignee is liable only for breaches while it holds the lease. So the licence includes a direct covenant by the assignee to observe the lease covenants for the rest of the term, which makes it liable even after it assigns.
+Hannah (wary): And a new lease?
+Will: A new lease is one granted on or after 1 January 1996, other than under a pre-1996 agreement, option or court order. The assignee is bound by the tenant covenants while it holds the lease, and released when it assigns. A direct covenant binding it beyond its release is void to that extent.
+Hannah (groaning): Unless something stops the release.
+Will (pleased): You've got it: an excluded assignment, one in breach of covenant or by operation of law. Then the assignee isn't released until the next assignment that isn't excluded.
+Hannah (confident): Let me try the pair. Old lease: assignee A covenanted directly, assigned to B, and B stops paying. The landlord can sue A on that covenant for the rest of the term.
+Will: Yes. For B's rent, though, only if the landlord serves A a section 17 notice. The notice must come within 6 months of the rent falling due.
+Hannah (brisk): And a new lease, same covenant, A assigns to B with consent?
+Will: The covenant is void so far as it binds A beyond its release, so the landlord can't sue A on it. The way to keep A liable for B is an AGA, lawfully required as a condition of consent, and only until B is released.
+Hannah (summing up): So the deciding fact is whether the lease was granted before 1 January 1996, or on or after it under a pre-1996 agreement, option or court order.
+Will: Right. That's the old lease test. Now a different trap. The licence says it waives no existing breach. Does that settle it?
+Hannah (suspicious): Surely that's what the statement is for.
+Will (dry): Not quite. That's the idea, but it's not the whole story. Accepting rent, or consenting, with knowledge of a breach can still waive the right to forfeit for a once-and-for-all breach. Say the landlord knows of an unauthorised alteration, grants a licence stating it waives nothing, and then accepts rent falling due after it learnt of it. Is the right to forfeit for that breach lost?
+Hannah (restating): Waived, or not waived, because the licence said so?
+Will: <think>
+Hannah (reasoning): It's once-and-for-all, so it's waived. The statement doesn't help, because waiver is judged objectively.
+Will: Right. And if it were a continuing breach, such as disrepair, the waiver covers only the past, not the breach as it carries on. The deciding fact is once-and-for-all versus continuing.
+Hannah (dry): Noted. And the licence to underlet?
+Will: It also approves the form of the underlease and typically contains the undertenant's direct covenants. It has a covenant that the underlease is contracted out where the head lease requires, and that the rent is not less than the head lease or market rent.
+Hannah (thinking aloud): Contracted out. What's the look-alike?
+Will: A contracted-out lease against a protected one. Contracting out is valid only if the notice procedure is completed before the tenant is bound. Then the tenant has no security of tenure, and must leave when the term ends unless the landlord agrees to renew.
+Hannah (sceptical): And if the procedure isn't completed?
+Will: A tenant occupying for its business has a protected tenancy, with security of tenure. And where the head lease required contracting out, the tenant is also in breach of the head lease and the licence.
+Hannah (summing up): Recap: the licence records consent, conditions and covenants; on an old lease the assignee's direct covenant binds it for the rest of the term, on a new lease it's void beyond its release; and accepting rent knowing of a once-and-for-all breach can still waive forfeiture.
+Will: Yes, qualifiers and all. Next, what happens after completion.
+## Block 7: Notice of dealing
+Will (warm): Notice of dealing is the shortest topic. After completion on a leasehold purchase, what does the buyer's solicitor do?
+Hannah (guessing): Tells the landlord?
+Will: Right: gives notice of the assignment, and of the buyer's mortgage, to the landlord or its agent. Within the time the lease requires, with any fee. And gets a receipt to keep with the deeds.
+Hannah (wary): So is it a month?
+Will (dry): That's the trap. The lease sets the time limit, so read the lease. Where required, the buyer also takes a share in, or membership of, the management company.
+Hannah (summing up): Recap: after completion the notice goes in, inside whatever time the lease sets, plus any fee, and the receipt stays with the deeds.
+Will: Right. Last topic.
+## Block 8: Other forms of alienation (charging, sharing occupation) and the Code for Leasing on alienation
+Will (brisk): Other forms of alienation. What else might a tenant do with its lease, apart from underletting and assigning?
+Hannah (thinking aloud): Charge it, or share occupation, or part with possession.
+Will: Yes. A qualified covenant against charging or parting with possession is made fully qualified too, same as underletting. But the pre-agreed circumstances rule covers assignment only.
+Hannah (dry): And the Code for Leasing?
+Will: Landlords' agents must provide heads of terms covering the main matters. They must also advise an unrepresented prospective tenant to get professional advice and to read the Code's guidance. That's all you need: it's look-up detail.
+Hannah (summing up): Recap: charging and parting with possession are fully qualified too, but pre-agreed circumstances are for assignment only.
+Will: Right. Time for scenarios.
+## Exam mode
+Will (brisk): Scenario one. The test is whether the grant is shorter than the tenant's remaining term. Priya has 5 years left on her lease. She grants Callum a "sublease" of the whole 5 years. What is it?
+Hannah (restating): An underlease, an assignment, or a licence?
+Will: <think>
+Hannah (reasoning): This turns on the nature of underletting. It's the whole remaining term, so it operates as an assignment, whatever they called it.
+Will: Right. Priya's grant isn't shorter by even a day, so Callum becomes the landlord's tenant.
+Hannah (wry): Nice trap. Next.
+Will (brisk): Scenario two. The test is whether the reason relates to the landlord and tenant relationship in regard to the subject matter of the lease. Mehmet's lease says no underletting without the landlord's consent. He asks consent to underlet Unit 4, and the landlord will consent only if he surrenders Unit 9. Is that condition reasonable or unreasonable?
+Hannah (restating): Reasonable, or unreasonable?
+Will: <think>
+Hannah (reasoning): It's consent to underletting, so the covenant is fully qualified. Surrendering another unit is a collateral advantage, so it's unreasonable.
+Will: Right: a collateral advantage, nothing to do with Unit 4.
+Hannah (teasing): Good. And scenario three?
+Will (dry): Scenario three. The test is whether the breach is once-and-for-all or continuing. The landlord knows the lease repairing covenant is breached at Greenway Court. It grants a licence saying it waives no breach, and accepts later rent. Is the right to forfeit for the continuing disrepair waived for ever, or only for the past?
+Hannah (restating): For ever, or only for the past?
+Will: <think>
+Hannah (reasoning): It's a continuing breach, so the waiver covers only the past.
+Will: Yes: only the past. Had it been a once-and-for-all breach, the right would be waived.
+## Recap
+Hannah (brisk): Fine. Shall we finish?
+Will (warm): This part covered underletting, including covenants against it and consent with reasonableness, reaching the undertenant, the procedure before and after exchange, licences, notice of dealing, and the other forms of alienation with the Code for Leasing.

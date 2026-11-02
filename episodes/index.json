@@ -1232,6 +1232,54 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws08-v23b-0da3914a.mp3",
       "pubDate": "2026-11-01T14:14:50+00:00"
+    },
+    {
+      "id": "pp-ws08-v23-p1",
+      "unitId": "u-bpp-PP-08",
+      "title": "Property Practice WS08 · Alienation (part 1 of 2)",
+      "guideHash": "101507c727",
+      "script": "scripts/pp-ws08-v23-p1.txt",
+      "scriptHash": "571d86e98927",
+      "audio": "audio/pp-ws08-v23-p1.mp3",
+      "recap": [
+        "An underlease is a new lease shorter than the tenant's own remaining term, at least by one day; a sub-grant of the whole remaining term operates as an assignment.",
+        "A qualified covenant against underletting is read as fully qualified, so consent cannot be unreasonably withheld; refusal is reasonable only if it relates to the landlord and tenant relationship in regard to the subject matter of the lease, not a collateral advantage.",
+        "With no privity between head landlord and undertenant, the licence to underlet carries a direct covenant; a covenant restricting use in a new head lease can also bind an undertenant, and the head landlord may forfeit the head lease, ending the underlease unless the undertenant obtains relief.",
+        "The tenant pays the landlord's reasonable costs, usually under an undertaking, whether or not the deal proceeds; the undertenant should see the head lease, the consent and, ideally, the freehold title.",
+        "A lease of more than 7 years granted out of a registered title is registrable; search with priority before completion and apply to register within the priority period; until registered, the tenant holds only an equitable lease.",
+        "A licence records consent, conditions and covenants; whether a direct covenant binds an assignee beyond its release depends on whether the lease is old or new, and accepting rent with knowledge of a once-and-for-all breach can waive forfeiture.",
+        "After an assignment, notice goes to the landlord within the time the lease requires, with any fee, and the receipt is kept with the deeds.",
+        "Qualified covenants against charging and parting with possession are also made fully qualified, but the pre-agreed circumstances rule covers assignment only; the Code for Leasing sets out heads of terms."
+      ],
+      "map": [
+        "Underletting: nature, effect on the tenant and when used",
+        "Covenants against underletting and the landlord's consent (LTA 1927 s 19(1), reasonableness, LTA 1988)",
+        "Underletting: privity and enforcing covenants against the undertenant",
+        "Underletting procedure: pre-exchange (consent application, licence, title, searches and enquiries)",
+        "Underletting procedure: exchange, pre-completion searches, completion and post-completion",
+        "Licences to assign and underlet: form, time limit, contents, direct covenants and parties",
+        "Notice of dealing",
+        "Other forms of alienation (charging, sharing occupation) and the Code for Leasing on alienation"
+      ],
+      "summary": "This part covered underletting, including covenants against it and consent with reasonableness, reaching the undertenant, the procedure before and after exchange, licences, notice of dealing, and the other forms of alienation with the Code for Leasing.",
+      "madeAt": "2026-11-02T17:58:19+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + line-by-line checks (17 + 19 findings fixed); Opus changed-lines checks x2 (second round 7 lines, all ok); code ok; reviewer read (Addendum 23) and its two line fixes; Opus changed-lines check passed (2 Nov)",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
