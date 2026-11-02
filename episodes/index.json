@@ -1315,7 +1315,7 @@
       ],
       "summary": "This part covered assignment, including its effect, covenants against assignment and consent, privity and liability after assignment, authorised guarantee agreements, and the assignment procedure before exchange, at exchange, and through completion and registration.",
       "madeAt": "2026-11-02T21:44:13+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + line-by-line checks (17 + 19 findings fixed); Opus changed-lines checks x2 (second round 7 lines, all ok); code ok; reviewer read (Addendum 23) and its two line fixes; Opus changed-lines check passed (2 Nov)",
@@ -1329,7 +1329,15 @@
         "b13",
         "b14"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11528980,
+      "seconds": 1441,
+      "words": 3509,
+      "renderedHash": "445525999c14",
+      "renderedAt": "2026-11-02T21:45:11+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws08-v23-p2-6346fe46.mp3",
+      "pubDate": "2026-11-02T21:45:11+00:00"
     }
   ],
   "replays": [
