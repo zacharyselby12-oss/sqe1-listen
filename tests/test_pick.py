@@ -140,7 +140,7 @@ def picker():
         third = pick.pick(d, reg3, cfg, NOW)
         assert "pp-ws01-r3" in [c["id"] for c in third["newEpisodes"]], [c["id"] for c in third["newEpisodes"]]
 
-        # a paper window: Contract is in FLK1; 10 days before 11 Jan 2027 its published episodes are replayed
+        # a paper window: Contract is in FLK1; 13 days before 14 Jan 2027 its published episodes are replayed
         window = pick.pick(d, reg, cfg, datetime(2027, 1, 1, 7, 0, tzinfo=timezone.utc))
         why = {r["episodeId"]: r["reason"] for r in window["replays"]}
         assert any("FLK1" in w for w in why.values()), why
