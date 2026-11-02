@@ -1288,6 +1288,48 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws08-v23-p1-7b6d6741.mp3",
       "pubDate": "2026-11-02T17:59:20+00:00"
+    },
+    {
+      "id": "pp-ws08-v23-p2",
+      "unitId": "u-bpp-PP-08",
+      "title": "Property Practice WS08 · Alienation (part 2 of 2)",
+      "guideHash": "101507c727",
+      "script": "scripts/pp-ws08-v23-p2.txt",
+      "scriptHash": "445525999c14",
+      "audio": "audio/pp-ws08-v23-p2.mp3",
+      "recap": [
+        "Assignment passes the whole remaining term and the assignee becomes the landlord's tenant; a sublease of the whole remaining term operates as an assignment.",
+        "A qualified covenant against assignment is fully qualified, and after a written application the landlord must act within a reasonable time and prove any refusal or condition reasonable; only in a non-residential new lease can circumstances and conditions be pre-agreed, and only for assignment.",
+        "On an old lease the original tenant stays liable for the whole term; on a new lease the original tenant is released on assigning the whole premises, except for an excluded assignment, earlier breaches and any AGA.",
+        "An AGA, lawfully required as a condition of consent, makes the outgoing tenant of a new lease guarantee its immediate assignee only, until that assignee is released.",
+        "The buyer inherits the lease and investigates it; absolute leasehold means the superior title need not be investigated, but good leasehold does not protect against rights affecting the landlord's title, and the two sets of standard conditions treat missing consent differently.",
+        "The transfer must be by deed and, on the standard conditions, the seller does not warrant the physical state of the property; the buyer searches with priority, pays SDLT on the premium only, and registers within the priority period or the time allowed for first registration."
+      ],
+      "map": [
+        "Assignment: nature, effect and when used",
+        "Covenants against assignment: s 19(1), reasonableness, the landlord's LTA 1988 duties and s 19(1A)",
+        "Privity and liability after assignment: old (pre-1996) and new leases",
+        "Authorised guarantee agreements",
+        "Assignment procedure: pre-exchange and exchange (consent application, contract, title, searches, enquiries)",
+        "Assignment procedure: pre-completion, completion and post-completion"
+      ],
+      "summary": "This part covered assignment, including its effect, covenants against assignment and consent, privity and liability after assignment, authorised guarantee agreements, and the assignment procedure before exchange, at exchange, and through completion and registration.",
+      "madeAt": "2026-11-02T21:44:13+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + line-by-line checks (17 + 19 findings fixed); Opus changed-lines checks x2 (second round 7 lines, all ok); code ok; reviewer read (Addendum 23) and its two line fixes; Opus changed-lines check passed (2 Nov)",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b9",
+        "b10",
+        "b11",
+        "b12",
+        "b13",
+        "b14"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

@@ -1,0 +1,222 @@
+---
+id: pp-ws08-v23-p2
+unit: u-bpp-PP-08
+guide_hash: 101507c727
+made: 2026-11-02T21:44:13+00:00
+title: Property Practice WS08 · Alienation (part 2 of 2)
+part: 2 of 2
+blocks: 9-14
+map:
+- Assignment: nature, effect and when used
+- Covenants against assignment: s 19(1), reasonableness, the landlord's LTA 1988 duties and s 19(1A)
+- Privity and liability after assignment: old (pre-1996) and new leases
+- Authorised guarantee agreements
+- Assignment procedure: pre-exchange and exchange (consent application, contract, title, searches, enquiries)
+- Assignment procedure: pre-completion, completion and post-completion
+recap:
+- Assignment passes the whole remaining term and the assignee becomes the landlord's tenant; a sublease of the whole remaining term operates as an assignment.
+- A qualified covenant against assignment is fully qualified, and after a written application the landlord must act within a reasonable time and prove any refusal or condition reasonable; only in a non-residential new lease can circumstances and conditions be pre-agreed, and only for assignment.
+- On an old lease the original tenant stays liable for the whole term; on a new lease the original tenant is released on assigning the whole premises, except for an excluded assignment, earlier breaches and any AGA.
+- An AGA, lawfully required as a condition of consent, makes the outgoing tenant of a new lease guarantee its immediate assignee only, until that assignee is released.
+- The buyer inherits the lease and investigates it; absolute leasehold means the superior title need not be investigated, but good leasehold does not protect against rights affecting the landlord's title, and the two sets of standard conditions treat missing consent differently.
+- The transfer must be by deed and, on the standard conditions, the seller does not warrant the physical state of the property; the buyer searches with priority, pays SDLT on the premium only, and registers within the priority period or the time allowed for first registration.
+summary: This part covered assignment, including its effect, covenants against assignment and consent, privity and liability after assignment, authorised guarantee agreements, and the assignment procedure before exchange, at exchange, and through completion and registration.
+invented:
+- Nadia
+- Owen
+- Farah
+- Joel
+- Ingrid
+- Tomasz
+- Millbank Works
+- Ropewalk House
+- Harbour Row
+---
+## Map
+Will (warm): Right. This is the assignment half of alienation. The underletting half is in the other part.
+Hannah (wary): Assignment. Is that the bit with all the old lease and new lease business?
+Will (dry): It is. Six topics, in order. What assignment is. When the landlord can refuse consent. And who stays liable afterwards, old lease or new.
+Hannah (thinking aloud): Nature, consent, liability. Then?
+Will: Then guarantees by the outgoing tenant. Then the procedure up to and including exchange. And the procedure from completion onwards, with registration.
+Hannah (brisk): Right: nature, consent and liability, then guarantees, then procedure in two halves. Start with the nature.
+## Block 9: Assignment: nature, effect and when used
+Will (warm): Yes, assignment first. A tenant passes the whole of its remaining term to someone else. What does that make the someone else?
+Hannah (guessing): The landlord's tenant.
+Will: Right: the assignee becomes the landlord's tenant. Compare underletting. What does the tenant become there?
+Hannah (confident): The undertenant's landlord, and it keeps its own lease. And there's no privity between the head landlord and the undertenant.
+Will: Yes. That's the look-alike. The deciding fact is whether the whole remaining term passes. And a sublease of the whole remaining term operates as an assignment.
+Hannah (dry): Which is the trap from the other part.
+Will: Whether the tenant stays liable afterwards depends on whether the lease is old or new, and we'll come to that.
+Hannah (brisk): Recap: assignment passes the whole remaining term and the assignee becomes the landlord's tenant; a sublease of the whole remaining term works as one.
+Will: Right. Now consent.
+## Block 10: Covenants against assignment: s 19(1), reasonableness, the landlord's LTA 1988 duties and s 19(1A)
+Will (brisk): Covenants on alienation, alterations and use come in three kinds. Absolute, qualified and fully qualified. What does each mean?
+Hannah (thinking aloud): Absolute is forbidden. Qualified is not without consent. Fully qualified is consent not to be unreasonably withheld.
+Will: Right. And the statute adds the reasonableness proviso to some qualified covenants. For assignment, a qualified covenant becomes fully qualified, so the look-alike is absolute against qualified. Under an absolute covenant, may the landlord refuse for any reason?
+Hannah (guessing): Yes, since the dealing is forbidden.
+Will: Yes: the statutory reasonableness rule doesn't apply, so it need not agree. Under a qualified covenant, consent is not to be unreasonably withheld, though the landlord may require its reasonable legal and other expenses.
+Hannah (curious): Even an absolute covenant against alterations?
+Will: The landlord still need not agree, but a business tenant may still be able to use the statutory improvements procedure. That's in the alterations topic.
+Hannah (wry): And under a qualified one, the bill again.
+Will (amused): Always. Next, how does it start? The seller applies in writing to the landlord with information on the buyer, such as accounts, references and proposed use.
+Hannah (brisk): And once it's served, what does the landlord have to do?
+Will: It must, within a reasonable time, give consent unless it is reasonable not to. And it must serve written notice of its decision, stating any conditions or its reasons for refusal.
+Hannah (thinking aloud): And if it imposes an unreasonable condition?
+Will: Right, that breaches its duty. And the landlord must prove that its refusal or condition was reasonable. The burden is on the landlord.
+Hannah (pleased): That's a nice one for the exam. The landlord proves it.
+Will: Yes. Now the big exception. Can a lease pre-agree when the landlord may refuse?
+Hannah (guessing): If it's a new lease, yes?
+Will (dry): That's the trap. Only in a non-residential new lease. New means granted on or after 1 January 1996, other than under a pre-1996 agreement, option or court order. And only for assignment, never underletting.
+Hannah (groaning): Three limits on one exception.
+Will: Yes, and then refusing in the pre-agreed circumstances, or consenting on the pre-agreed conditions, is not unreasonable. Those conditions could be an AGA, financial tests on the assignee, a guarantor or a rent deposit.
+Hannah (sceptical): So what if the landlord adds a condition that wasn't pre-agreed?
+Will: Then it must be reasonable, and the landlord must prove it. That's the look-alike: pre-agreed condition against imposed condition. As a condition of consent the landlord may require, if reasonable, an AGA from the outgoing tenant and a guarantor or rent deposit from the incoming tenant. It can also require its reasonable expenses.
+Hannah (thinking aloud): And a condition on an underletting?
+Will: The pre-agreed rule never applies to underletting, so every condition on an underletting must be reasonable, with the burden on the landlord to prove that it is.
+Hannah (summing up): So: qualified covenant, fully qualified; landlord acts in a reasonable time and proves reasonableness; pre-agreed conditions only for assignment of a non-residential new lease.
+Will: Right, you've kept the qualifiers. On to liability.
+## Block 11: Privity and liability after assignment: old (pre-1996) and new leases
+Will (warm): This is the topic that decides the most questions. A tenant assigns. Does it stay liable? That depends on the date the lease was granted. Which date?
+Hannah (confident): 1 January 1996.
+Will: Right. A lease granted on or after 1 January 1996 is a new lease, other than one granted under a pre-1996 agreement, option or court order. Those are treated as old leases.
+Hannah (dry): The date is a sort of passport.
+Will: Take old leases first. After assigning, is the original tenant still liable?
+Hannah (guessing): For the whole term, through privity of contract.
+Will: Yes: on all the tenant covenants, even after it assigns. The original landlord likewise remains liable after selling the reversion.
+Hannah (sceptical): And an assignee, then?
+Will: Liable only for breaches while it holds the lease, by privity of estate. Unless it gave the landlord a direct covenant, and then it is liable for the rest of the term.
+Hannah (thinking aloud): So take an old lease assigned three times: A to B, B to C, C to D. Who is liable?
+Will (dry): Notes would say all four. The law: A stays liable for the whole term, and D is liable by privity of estate. B and C stay liable after assigning only if each gave the landlord a direct covenant.
+Hannah (brisk): Otherwise each was liable only while it held the lease.
+Will: Right. A former tenant pays a fixed charge only if served with a notice. The notice must come within 6 months of the charge falling due. Next: the assignee's indemnity covenant. Because the original tenant stays liable, who needs protection?
+Hannah (guessing): The original tenant. The assignee promises to indemnify it.
+Will: Yes. On an old lease an indemnity covenant is implied: for registered land, and for unregistered land on an assignment for value. An express one is often given too.
+Hannah (wry): Belt and braces.
+Will: Now new leases. What does an assignee take?
+Hannah (thinking aloud): Everything, then?
+Will: Right, the benefit and burden of all landlord and tenant covenants, whether or not they touch and concern the land. The main exception is covenants expressed to be personal. No indemnity covenant is implied, and none is normally needed because of the statutory release scheme. The exception is where the assignor gives an AGA, and then an express one is taken.
+Hannah (brisk): And the release itself?
+Will: On assigning the whole premises of a new lease the tenant is released from the tenant covenants, and its guarantor to the same extent. On assigning part, only so far as the covenants relate to that part. Now: there are three limits on that release. Can you guess one?
+Hannah (guessing): An assignment that breaks the lease?
+Will: Right: one, an excluded assignment, meaning in breach of covenant or by operation of law. Release is postponed to the next assignment that is not excluded.
+Hannah (thinking aloud): Two, earlier breaches?
+Will: Yes: release doesn't cover breaches before the assignment. Three is the AGA. Release doesn't cover liability under an AGA the tenant gave as a lawful condition of consent.
+Hannah (summing up): So on an old lease, assigning doesn't release the original tenant: it stays liable for the whole term. On a new lease, assigning the whole premises releases it, with those three limits.
+Will: Right, and for the future covenants only. Now the landlord. Is the landlord of a new lease automatically released when it sells the reversion?
+Hannah (cautious): No. It has to ask.
+Will: Yes. It serves a notice, before or within 4 weeks after the assignment, asking to be released. The time to serve it is 4 weeks.
+Hannah (brisk): And if the tenant says nothing?
+Will: Right: if the tenant doesn't object by notice within 4 weeks, the landlord is released. If the tenant objects, only if the court decides release is reasonable. If not released then, it may apply again when the reversion is next assigned.
+Hannah (wry): The old landlord, by comparison, simply stays on the hook.
+Will: Yes. Now the protections for former tenants and guarantors, which apply to old and new leases. To recover a fixed charge from a former tenant or its guarantor, what must the landlord do?
+Hannah (confident): Serve a notice within 6 months of the charge falling due.
+Will: Right: rent, service charge or any liquidated sum. A former tenant or guarantor who pays in full may call for an overriding lease, which makes it the landlord of the defaulting tenant. It must ask in writing when paying or within 12 months of payment.
+Hannah (brisk): And variations?
+Will: A former tenant is not liable for increases due to later variations the landlord had an absolute right to refuse.
+Hannah (summing up): Recap: old lease, original tenant liable for the whole term; new lease, released on assigning the whole premises, except three things: an excluded assignment, earlier breaches and any AGA.
+Will: Right. Now the AGA.
+## Block 12: Authorised guarantee agreements
+Will (brisk): An AGA is an agreement by which the outgoing tenant of a new lease guarantees its immediate assignee only. Who can require one?
+Hannah (guessing): The landlord, as a condition of consent.
+Will: Right, where consent is needed and the condition is lawfully imposed, meaning reasonable or pre-agreed. Why does the "immediate assignee only" matter? Take Nadia, who assigns her new lease to Owen with consent, giving an AGA. Owen falls into arrears. Is Nadia liable?
+Hannah (thinking aloud): Yes, under the AGA, if the landlord serves its notice in time.
+Will: Yes: within 6 months of the rent falling due. Now Owen assigns to Farah with consent, and Farah defaults. Is Nadia liable?
+Hannah (confident): No. Her AGA ended when Owen was released.
+Will: Right. An AGA can't make her guarantee anyone but Owen. To that extent it is not an AGA. The deciding fact is whether the defaulting tenant is the immediate assignee, not yet released.
+Hannah (wry): And recovering under an AGA?
+Will: The same protections. The outgoing tenant liable under an AGA for fixed charges must be served with the notice within 6 months of the charge falling due. It can then call for an overriding lease on paying. The variation protection also applies to former tenants under an AGA and their guarantors.
+Hannah (summing up): Recap: an AGA, lawfully required as a condition of consent, keeps the outgoing tenant of a new lease liable for its immediate assignee only, until that assignee is released.
+Will: Right. Next, procedure.
+## Block 13: Assignment procedure: pre-exchange and exchange (consent application, contract, title, searches, enquiries)
+Will (brisk): The buyer takes the lease as it stands, so it investigates the lease, the title and the premises. Start with the lease. Why read it so carefully?
+Hannah (dry): Because it inherits it, warts and all.
+Will: Right. Four groups of points. Whether consent is needed and what use is allowed. Who repairs. What it pays, including rent review, service charge and insurance. And how it can end, through break clauses or forfeiture. Plus whether the lease is protected or contracted out.
+Hannah (brisk): And the title?
+Will: Take a registered lease. The seller deduces official copies of the leasehold title and the lease, and the buyer checks the class of title. Absolute leasehold means the registrar has approved the landlord's title to grant the lease. What follows?
+Hannah (guessing): The buyer need not investigate the superior title.
+Will: Yes. Now good leasehold. Does it protect against rights affecting the landlord's title to grant the lease?
+Hannah (wary): It sounds like it shouldn't.
+Will: Right: it doesn't. So the buyer should require evidence of the superior title, or indemnity insurance, under the contract. And a lender may refuse good leasehold.
+Hannah (groaning): So the notes' idea, that the buyer just relies on the leasehold official copies, only works for absolute leasehold.
+Will: Yes. Now an unregistered lease. How much title does the seller provide?
+Hannah (guessing): The lease and the assignments for 15 years?
+Will: Right: for at least 15 years, or the lease if it is under 15 years old. Under an open contract the buyer cannot call for the freehold or other superior title. Now, an unregistered lease with more than 7 years left must be registered after the assignment. Absolute title needs the superior title. So the buyer should require it by special condition or accept good leasehold.
+Hannah (wry): And if the superior title is registered?
+Will: Then the buyer can obtain official copies itself, because the register is open to anyone.
+Hannah (summing up): Recap: the buyer inherits the lease; only absolute leasehold lets it skip the superior title.
+Will: Right. Now the contract. Who drafts it?
+Hannah (confident): The seller.
+Will: Yes, usually on the standard commercial property conditions, describing the property by reference to the lease, with special conditions for an assignment. The buyer is deemed to buy with full knowledge of the lease terms where the seller provided a copy before exchange, and cannot object to them.
+Hannah (thinking aloud): What about insurance?
+Will: Where the lease obliges the seller to insure, it must maintain the policy until completion. Where a reversioner insures, it must use reasonable efforts to keep that insurance in force.
+Hannah (brisk): And title covenants?
+Will: The seller should limit its implied covenants for title, so it gives no covenant that the tenant's covenants on the physical state of the property, especially repair, have been performed. Now consent. Where the landlord's consent is required, the contract is conditional on it. Who has to do what?
+Hannah (guessing): The seller applies and uses reasonable efforts. The buyer supplies information and references.
+Will: Right: references the landlord reasonably requires. What if consent doesn't arrive? It depends on the set of conditions. Under the Standard Conditions of Sale, what's the trigger?
+Hannah (thinking aloud): Something to do with 3 working days before completion.
+Will: Yes. If consent has not been given, or has been given subject to a condition a party reasonably objects to, 3 working days before the completion date. Either party not in breach may then rescind by notice.
+Hannah (wary): And the commercial conditions?
+Will: Different. If consent has not been obtained by the completion date, completion is postponed. It is postponed until 5 working days after the seller's written notice that consent has been given. Or until a court declares consent unreasonably withheld.
+Hannah (sceptical): So no rescission?
+Will: Only later. If consent is still outstanding and no declaration has been obtained, either party may rescind by notice after 6 months from the original completion date.
+Hannah (summing up): Recap: standard conditions of sale, rescind at 3 working days before; commercial conditions, postpone, and rescind only after 6 months.
+Will: Right. Now searches and enquiries. The buyer makes the usual searches, and raises the general enquiries plus the supplemental ones on an assignment. Which side gets them?
+Hannah (guessing): The seller.
+Will: Yes. That's the look-alike. The supplemental enquiries on a grant of a lease go to the landlord, including on an underletting. Those on an assignment go to the seller.
+Hannah (brisk): What do they focus on?
+Will: Including the landlord's identity, the rent and service charge position, and outstanding rent reviews. Also breaches notified and notices served. And the buyer should survey, because it takes on the repairing covenant and any existing disrepair.
+Hannah (thinking aloud): And there's an energy certificate?
+Will: Yes: an EPC should be provided by the seller where one is required or exists. And MEES binds the landlord, not the assigning tenant, so assignment itself is not prohibited.
+Hannah (curious): What does it bar?
+Will: Granting a lease of F or G-rated premises without a registered exemption, since 1 April 2018. And continuing to let them, since 1 April 2023. The buyer should still check the rating, because the landlord may seek to recover the cost of improvement works under the lease.
+Hannah (summing up): Recap: the buyer investigates the lease, title and premises; MEES doesn't stop an assignment, but the cost of works may come back to the tenant.
+Will: Right. Last topic.
+## Block 14: Assignment procedure: pre-completion, completion and post-completion
+Will (warm): Before completion, the licence is engrossed, and the transfer and any AGA are executed. First, the form. How is a registered lease assigned?
+Hannah (guessing): By a transfer form, executed as a deed.
+Will: Right: by the seller, and by the buyer only where the transfer contains covenants by the buyer. An unregistered lease is assigned by deed of assignment. And every assignment of a legal lease must be by deed. Even a periodic tenancy created orally.
+Hannah (surprised): Even an oral one? I thought some leases need no writing.
+Will (dry): That exception covers their grant, not their assignment.
+Hannah (brisk): Indemnity covenants?
+Will: An express one isn't needed where one is implied. On a transfer of a registered old lease the buyer's covenants to pay the rent, observe the lease and indemnify the seller are implied, unless excluded; for unregistered land, one is implied on an assignment for value. On a new lease the seller is normally released on assignment. That's the look-alike: implied indemnity against express. Old lease, implied, though one is often given too. New lease, none implied and none normally needed, except an express one where the assignor gives an AGA.
+Hannah (thinking aloud): And covenants for title?
+Will: On an assignment with full or limited title guarantee, the implied covenants include that the lease is subsisting and that there is no subsisting breach making it liable to forfeiture. But the standard conditions require the transfer to say they don't extend to breaches of covenants relating to the physical state of the property. So the seller does not warrant repair.
+Hannah (confident): Disrepair, no claim. A breach of the user covenant found after completion, a claim.
+Will: Right, and the deciding fact is whether the covenant broken relates to the physical state of the property.
+Hannah (brisk): And the searches before completion?
+Will: The buyer carries out an OS1 against the leasehold title, if registered. It gives 30 working days of priority. If unregistered, a land charges search against the owners of the leasehold estate. Also a company search against a company seller, and any search the lender requires.
+Hannah (wry): The look-alike is the grant against the assignment.
+Will: Yes: on a grant of a lease of more than 7 years the tenant searches against its landlord's registered title, which for an underlease is the head tenant's leasehold title. On an assignment of a registered lease the buyer searches against the leasehold title being assigned.
+Hannah (thinking aloud): And the other pre-completion steps?
+Will: The licence is agreed and engrossed, the transfer and any AGA executed, and rent and service charge apportioned on the completion statement. If the seller has paid the quarter's rent in advance and completion falls part-way through, the buyer pays the seller for the rest of the quarter.
+Hannah (brisk): Anything about the landlord's consent?
+Will: Yes: the seller should get a receipt that rent and service charge are paid up to date and, where the lease requires it, have the landlord's consent in place before completion, because completing without the licence risks breach and forfeiture.
+Hannah (curious): And afterwards?
+Will: SDLT on an assignment is charged on the premium only, not on the rent. The return and payment are due within 14 days of completion.
+Hannah (brisk): And registration?
+Will: If the lease is registered, the buyer applies to register the transfer within the OS1 priority period. If the unregistered lease has more than 7 years left, the assignment triggers compulsory first registration. The application is due within 2 months.
+Hannah (summing up): Recap: transfer by deed, no warranty of physical state on the standard conditions, SDLT on the premium within 14 days, and registration in time.
+Will: Right. Scenarios.
+## Exam mode
+Will (brisk): Scenario one. The test is whether the defaulting tenant is the outgoing tenant's immediate assignee, not yet released. Joel assigned his new lease to Ingrid with consent, giving an AGA. Ingrid later assigned to Tomasz with consent, and Tomasz stops paying rent. Is Joel liable under the AGA, or not?
+Hannah (restating): Liable, or not liable?
+Will: <think>
+Hannah (reasoning): This is the AGA topic. Tomasz isn't Joel's immediate assignee, and Ingrid was released, so Joel's AGA ended.
+Will: Right. Not liable: an AGA cannot make Joel guarantee anyone but Ingrid.
+Hannah (teasing): And if Ingrid had defaulted?
+Will: Then yes, liable, if the landlord served its notice within 6 months of the rent falling due.
+Hannah (wry): Good. Next one.
+Will (dry): Scenario two. The test is which set of conditions governs. Under the Standard Conditions of Sale, consent to assign is still outstanding 3 working days before completion. What can either party not in breach do: rescind by notice, or must it wait for 6 months?
+Hannah (restating): Rescind now, or wait 6 months?
+Will: <think>
+Hannah (reasoning): Standard Conditions of Sale, that's the 3 working days rule, so rescind by notice. The wait of 6 months is the commercial conditions.
+Will: Yes. Under the commercial conditions completion would instead be postponed, and rescission comes only after 6 months from the original completion date.
+Hannah (dry): Fine. Last one.
+Will (brisk): Scenario three. The test is whether the covenant broken relates to the physical state of the property. Farah buys a lease at Ropewalk House with full title guarantee on the standard conditions. After completion she finds the seller had breached the user covenant, and the landlord threatens forfeiture. Is there a claim under the title guarantee, or none?
+Hannah (restating): A claim, or no claim?
+Will: <think>
+Hannah (reasoning): It's a user covenant, not physical state, so the exclusion doesn't apply. There's a claim, because the lease is liable to forfeiture.
+Will: Right: a claim for breach of the implied covenant that there was no subsisting breach making it liable to forfeiture.
+## Recap
+Hannah (brisk): Shall we finish?
+Will (warm): This part covered assignment, including its effect, covenants against assignment and consent, privity and liability after assignment, authorised guarantee agreements, and the assignment procedure before exchange, at exchange, and through completion and registration.
