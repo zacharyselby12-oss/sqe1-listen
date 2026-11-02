@@ -1263,7 +1263,7 @@
       ],
       "summary": "This part covered underletting, including covenants against it and consent with reasonableness, reaching the undertenant, the procedure before and after exchange, licences, notice of dealing, and the other forms of alienation with the Code for Leasing.",
       "madeAt": "2026-11-02T17:58:19+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + line-by-line checks (17 + 19 findings fixed); Opus changed-lines checks x2 (second round 7 lines, all ok); code ok; reviewer read (Addendum 23) and its two line fixes; Opus changed-lines check passed (2 Nov)",
@@ -1279,7 +1279,15 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9357055,
+      "seconds": 1170,
+      "words": 2937,
+      "renderedHash": "571d86e98927",
+      "renderedAt": "2026-11-02T17:59:20+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws08-v23-p1-7b6d6741.mp3",
+      "pubDate": "2026-11-02T17:59:20+00:00"
     }
   ],
   "replays": [
