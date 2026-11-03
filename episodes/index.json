@@ -1468,6 +1468,45 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws09-v23-p1-93b4e3b1.mp3",
       "pubDate": "2026-11-03T12:44:55+00:00"
+    },
+    {
+      "id": "clp-ws09-v23-p2",
+      "unitId": "u-bpp-CLP-09",
+      "title": "CLP WS09 · Appeals from the magistrates' court (part 2 of 2)",
+      "guideHash": "e267fcafa6",
+      "script": "scripts/clp-ws09-v23-p2.txt",
+      "scriptHash": "0329fd29113d",
+      "audio": "audio/clp-ws09-v23-p2.mp3",
+      "recap": [
+        "The complaint picks the route: a dispute of fact suits an appeal to the Crown Court, a pure point of law or jurisdiction suits a case stated, which any party may use, and a defendant who applies for a case stated loses his appeal to the Crown Court.",
+        "The magistrates' power to rectify mistakes is not covered in this episode: take it from the workshop notes.",
+        "A convicted defendant appeals to the Crown Court as of right, against conviction only if he pleaded not guilty or his guilty plea was equivocal or made under duress, with notice not more than 15 business days after the key date, a complete rehearing, and a sentence that may go up as well as down within the magistrates' powers.",
+        "Any party may apply within 21 days to have a case stated on law or jurisdiction; magistrates may refuse only if the application is frivolous and never for the Attorney General; the Divisional Court decides on the facts as stated.",
+        "Judicial review of magistrates' decisions is not covered in this episode beyond its two uses already met: take its grounds and time limit from the workshop notes."
+      ],
+      "map": [
+        "Appeal routes from the magistrates' court",
+        "Magistrates' power to rectify mistakes (s142 MCA 1980)",
+        "Appeal to the Crown Court",
+        "Appeal by way of case stated",
+        "Judicial review of magistrates' decisions"
+      ],
+      "summary": "So: the route turns on the complaint; the Crown Court rehears a defendant's appeal; case stated takes law or jurisdiction to the High Court; for the magistrates' power to rectify mistakes and judicial review, use your workshop notes.",
+      "madeAt": "2026-11-03T17:44:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); Opus accuracy + line-by-line checks (p1 3 + 4, p2 4 + 4 findings, fixed); known-error scan (3 fuzzy matches, each the right rule, cleared by the Opus verify); fresh Opus verify of the changed lines (2 one-line fixes); p1's renewal summary re-checked twice by fresh Opus helpers and narrowed to the renewal rule; code ok (build chat by hand, b126)",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b19",
+        "b20",
+        "b21",
+        "b22",
+        "b23"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

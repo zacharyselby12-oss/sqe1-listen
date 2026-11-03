@@ -1,0 +1,171 @@
+---
+id: clp-ws09-v23-p2
+unit: u-bpp-CLP-09
+guide_hash: e267fcafa6
+made: 2026-11-03T17:44:51+00:00
+title: CLP WS09 · Appeals from the magistrates' court (part 2 of 2)
+part: 2 of 2
+blocks: 19-23
+map:
+- Appeal routes from the magistrates' court
+- Magistrates' power to rectify mistakes (s142 MCA 1980)
+- Appeal to the Crown Court
+- Appeal by way of case stated
+- Judicial review of magistrates' decisions
+recap:
+- The complaint picks the route: a dispute of fact suits an appeal to the Crown Court, a pure point of law or jurisdiction suits a case stated, which any party may use, and a defendant who applies for a case stated loses his appeal to the Crown Court.
+- The magistrates' power to rectify mistakes is not covered in this episode: take it from the workshop notes.
+- A convicted defendant appeals to the Crown Court as of right, against conviction only if he pleaded not guilty or his guilty plea was equivocal or made under duress, with notice not more than 15 business days after the key date, a complete rehearing, and a sentence that may go up as well as down within the magistrates' powers.
+- Any party may apply within 21 days to have a case stated on law or jurisdiction; magistrates may refuse only if the application is frivolous and never for the Attorney General; the Divisional Court decides on the facts as stated.
+- Judicial review of magistrates' decisions is not covered in this episode beyond its two uses already met: take its grounds and time limit from the workshop notes.
+summary: So: the route turns on the complaint; the Crown Court rehears a defendant's appeal; case stated takes law or jurisdiction to the High Court; for the magistrates' power to rectify mistakes and judicial review, use your workshop notes.
+invented:
+- Dev
+- Marcus
+- Leila
+- Imogen
+- Callum
+---
+## Map
+Will (warm): Right. This half is about what happens once the magistrates have decided something and someone is unhappy with it. The summary trial, and the appeals from the Crown Court to the Court of Appeal and beyond, are in the other part.
+Hannah (wary): So everything starts from a magistrates' decision somebody wants to challenge.
+Will (dry): That's it. Five topics, in order. First, which appeal route fits which complaint. Then the magistrates' power to put their own mistakes right. Then the appeal to the Crown Court.
+Hannah (thinking aloud): Routes, mistakes, Crown Court. And then?
+Will: Appeal by way of case stated, and last, judicial review of the magistrates' decisions.
+Hannah (brisk): Routes, mistakes, Crown Court, case stated, judicial review. Routes first, then.
+
+## Block 19: Appeal routes from the magistrates' court
+Will (warm): Right, routes first. Say a client has just been convicted by the magistrates after pleading not guilty, and they're furious. Before you do anything else, you ask what exactly they're furious about. Why?
+Hannah (guessing): Because the complaint picks the route. If they say the magistrates got the facts wrong, that's a different road from saying they got the law wrong.
+Will: Yes, that's the whole topic in one sentence. A dispute of fact suits an appeal to the Crown Court, which is a complete rehearing. A pure point of law or jurisdiction suits a case stated, which goes to the High Court, and which is open to any party.
+Hannah (teasing): Any party? So it isn't only the defendant's route?
+Will: Right: prosecution or defence can use it, by applying to the magistrates. The Crown Court appeal is for a convicted defendant.
+Hannah: And doesn't the table have a third route as well?
+Will (dry): It does: Crown Court to Court of Appeal. That one is in the table so you can compare it. We'll walk down it in four steps: who can use each route, what you complain about, time and evidence, and where you go next.
+Hannah (brisk): Who, complaint, time and evidence, next. Go on.
+Will: Step one, who, and whether leave is needed. The Crown Court appeal belongs to a convicted defendant, as of right, so no leave. After a guilty plea he can appeal against sentence only, unless the plea was equivocal or made under duress. For a case stated, any party applies to the magistrates, and a defendant who applies loses his appeal to the Crown Court.
+Hannah (sceptical): Loses it. So it's one or the other.
+Will: Yes: once he applies for a case stated, the Crown Court appeal is gone. The third route needs the Court of Appeal's leave, unless the judge certifies that the case is fit for appeal. The certificate must come within 28 days of conviction, or of sentence.
+Hannah (thoughtful): Fine. Step two?
+Will: The complaint. On a Crown Court appeal it's conviction and/or sentence. On a case stated it's that the decision is wrong in law or in excess of jurisdiction. And in the Court of Appeal it's that the conviction is unsafe, or that the sentence is manifestly excessive or wrong in principle.
+Hannah (dry): So is it three routes, three vocabularies? Conviction or sentence for the Crown Court; a legal error or going beyond jurisdiction for the High Court; an unsafe conviction, or a sentence manifestly excessive or wrong in principle, for the Court of Appeal.
+Will: Right. Learn the labels, because they tell you the route. Step three, time. The limits are close enough to muddle. The Crown Court appeal notice has a limit of 15 business days after the key date. For a case stated, you apply within 21 days after the decision. And the Court of Appeal route needs its notice not more than 28 days after conviction or sentence, though the Court of Appeal may extend time.
+Hannah (counting): Wait, which was which? 15 business days, 21 days, 28 days?
+Will: Yes, in that order, and only the first is in business days. Now evidence. In the Crown Court it's a complete rehearing: both sides call their evidence again and may call different or new evidence. On a case stated there's none: the High Court decides on the facts as stated. In the Court of Appeal, fresh evidence comes in only if it's necessary or expedient in the interests of justice, considering the fresh evidence factors.
+Hannah (wry): Rehearing, no evidence, fresh evidence only. That's a nice gradient.
+Will (amused): It is. Quick check, then. Dev was convicted after a not guilty plea. His complaint is that the magistrates preferred the prosecution witness's account to his own. Which route does that suit?
+Hannah (restating): Dev's complaint is about whose account was believed. Appeal to the Crown Court, or a case stated?
+Will: <think>
+Hannah (reasoning): That's the topic of which route fits the complaint. Believing one witness over another is a dispute of fact, not a point of law.
+Will: Right: it's a dispute of fact, so an appeal to the Crown Court, where both sides can call their evidence again. A case stated would be the wrong tool, because the High Court takes the facts as stated.
+Hannah (brisk): Last step, then. Where do you go next?
+Will: Step four. After a Crown Court appeal from the magistrates, a challenge lies on a point of law only, by case stated to the High Court or by judicial review, and there is no appeal to the Court of Appeal. After a case stated, the Supreme Court, but only if the High Court certifies a point of law of general public importance and the High Court or the Supreme Court grants leave. The Court of Appeal route has the same shape: the Court of Appeal certifies, and the Court of Appeal or the Supreme Court grants leave.
+Hannah (thinking aloud): And what do the courts actually do at the end? I'd guess confirm or reverse.
+Will: Each route has its own powers, and we'll meet the Crown Court's and the High Court's in their own topics. For the third route, if the conviction is unsafe, the court quashes it, and the result is either an acquittal or, if the interests of justice require, a retrial. Otherwise it dismisses the appeal.
+Hannah (curious): And nothing in between?
+Will: One alternative: instead of quashing, it may substitute an alternative offence, where the jury must have been satisfied of facts proving it, with a sentence no more severe. And on D's sentence appeal, he can't be dealt with more severely, taking the case as a whole.
+Hannah (brisk): Recap: the complaint picks the route. A dispute of fact suits the Crown Court, a pure point of law or jurisdiction suits a case stated, and a defendant who applies for a case stated loses his Crown Court appeal.
+Will: Right. Next, the magistrates' own power to fix their mistakes.
+
+## Block 20: Magistrates' power to rectify mistakes (s142 MCA 1980)
+Will (dry): Now the power the magistrates have to rectify their own mistakes, which sits between the appeal routes and the Crown Court appeal.
+Hannah (wry): That topic isn't covered in this episode, so I'll take it from the workshop notes.
+Will: Right: take it from the workshop notes. On to the Crown Court appeal.
+
+## Block 21: Appeal to the Crown Court
+Will (warm): So, appeal to the Crown Court. This is the route for a defendant who says the magistrates got the facts wrong, or the sentence. Who can use it?
+Hannah (guessing): A defendant who was convicted in the magistrates' court.
+Will: Right, and the youth court too. He can appeal against conviction, but only if he pleaded not guilty, and/or against sentence. And it's as of right: no leave is needed.
+Hannah (curious): And if he pleaded guilty? I'd guess sentence only.
+Will: Yes, sentence only, unless the plea was equivocal or made under duress. Either of those two reopens the conviction.
+Hannah (groaning): And I bet people only remember equivocal.
+Will (dry): That's the slip. Duress counts as well. Take Marcus, who pleaded guilty only because someone was leaning on him. Because the plea was made under duress, he can appeal his conviction. Leila pleaded guilty freely and now wishes she hadn't. She can appeal her sentence, but not her conviction.
+Hannah (summing up): So the question is whether the plea was equivocal or under duress. If not, only sentence.
+Will: Yes. Now the notice. The defendant serves a written appeal notice on the magistrates' court officer and on the prosecutor. The limit is not more than 15 business days after a date that depends on the appeal.
+Hannah (wary): Depends how?
+Will: For a conviction appeal, the date is the earliest of three things: the sentence, the date sentence is deferred, or the date of committal for sentence. For a sentence appeal, it's the sentence. Otherwise, it's the order or the failure to make one.
+Hannah (thoughtful): Conviction appeal, whichever of those comes first. Sentence appeal, the sentence.
+Will: Right. And if he's late, the Crown Court may extend the time limit, even after it has expired. He applies, with reasons, and serves that application with the late notice.
+Hannah (brisk): Good. What happens at the hearing?
+Will: An appeal against conviction is a complete rehearing. Both sides call their evidence again, and they may call different or new evidence, so the Crown Court isn't limited to what the magistrates found.
+Hannah: So who's sitting?
+Will: A judge, usually a circuit judge or recorder, with between two and four lay magistrates, and in practice usually two. There's no jury. The decision is by majority, and the judge has a casting vote if the court is equally divided.
+Hannah (teasing): Two to four magistrates, and the judge gets the casting vote.
+Will: Yes. Now the powers. The Crown Court may confirm, reverse or vary any part of the decision, including a part that wasn't appealed against. So on a conviction appeal it may vary the sentence. It may also remit the matter to the magistrates with its opinion, or make any other order it thinks just.
+Hannah (wary): And the sentence?
+Will: It may impose any sentence, more or less severe than the magistrates imposed, provided the magistrates' court had power to impose it. So the defendant must be warned that his sentence may go up.
+Hannah (sceptical): I'd have thought appealing could only help you.
+Will (dry): That's the look-alike trap. On a Crown Court appeal from the magistrates, the sentence may go up. On a sentence appeal to the Court of Appeal, D can't be dealt with more severely, taking the case as a whole.
+Hannah (brisk): So the Crown Court can raise the sentence, up to what the magistrates could have passed, and the Court of Appeal can't make it worse on D's appeal.
+Will: Right. The deciding fact is which court he is appealing to.
+Hannah (brisk): Recap: a convicted defendant appeals to the Crown Court as of right. He can appeal against conviction only if he pleaded not guilty, or if his guilty plea was equivocal or made under duress. Notice goes in not more than 15 business days after the key date. Then there's a complete rehearing, where the sentence may go up as well as down within the magistrates' powers.
+Will: Right. That leaves the High Court route.
+
+## Block 22: Appeal by way of case stated
+Will (warm): So, appeal by way of case stated. It's the route that goes to the High Court, and it's about law. Who can use it?
+Hannah (recalling): Any party. Prosecution or defence.
+Will: Yes. Any party may apply to the magistrates to state a case for the opinion of the High Court, on the ground that the decision is wrong in law or in excess of jurisdiction.
+Hannah (brisk): And how long have they got?
+Will: The application must be made within 21 days after the day the decision was given. If the court adjourned the trial after conviction, that day is the day it sentences, or otherwise deals with, the defendant.
+Hannah (thinking aloud): Then the magistrates write it up?
+Will: Yes. The magistrates' court drafts the case, setting out the question of law and the relevant findings of fact. That's why the High Court later decides on the facts as stated.
+Hannah (summing up): So the High Court gets the question and the findings, and hears no evidence.
+Will: Right. Now, can the magistrates just say no?
+Hannah (guessing): If it's vexatious. That's what my notes say.
+Will (dry): Not quite: the test is frivolous. They may refuse if they consider the application frivolous, and they must give the applicant a certificate of refusal if he asks. But they can never refuse where the application is made by or under the direction of the Attorney General.
+Hannah (wry): And if they do refuse?
+Will: Then the applicant may seek judicial review, and the High Court may make a mandatory order requiring them to state a case.
+Hannah (brisk): So is judicial review the back-stop for a refusal?
+Will: Yes. Now the trap. Once a defendant applies for a case to be stated, his right of appeal to the Crown Court ends. That's why the route suits pure points of law, and not disputes of fact.
+Hannah (thoughtful): Can you give me two stories?
+Will: Imogen is convicted after the magistrates misdirect themselves in law on a defence. That's a case stated: the High Court decides the point of law on the facts as stated. Callum is convicted after a trial, and he wants to call a new alibi witness. His route is the appeal to the Crown Court, a complete rehearing where new evidence can be called, and applying for a case stated would end that right.
+Hannah (teasing): The new witness is the giveaway. Evidence means Crown Court.
+Will: Yes. The deciding fact is whether the complaint is a pure point of law, which suits a case stated, or turns on the facts and the evidence, which suits the Crown Court appeal.
+Hannah (brisk): Look-alike recap: a pure point of law goes by case stated; facts and evidence go to the Crown Court, and applying for a case stated ends that appeal.
+Will: Right. One more thing about the Crown Court. If it has decided an appeal from the magistrates, that decision can be challenged only on a point of law, by case stated to the High Court or by judicial review. There's no further appeal on the facts, and no appeal to the Court of Appeal.
+Hannah (curious): And the High Court hearing itself? My notes say there's no hearing, it's decided on paper.
+Will (dry): That's wrong. The Divisional Court of the King's Bench Division hears the appeal. What it doesn't hear is evidence, because it decides on the facts as stated.
+Hannah: And what can it do with the decision?
+Will: Its powers include reversing, affirming or amending the decision. It can also remit the matter to the magistrates with its opinion, for example with a direction to convict or acquit, or to continue the hearing, and it can make any other order.
+Hannah (brisk): And further up?
+Will: Further appeal from the Divisional Court lies to the Supreme Court, but only where the High Court certifies a point of law of general public importance and leave is granted by the High Court or the Supreme Court.
+Hannah (groaning): So not straight to the Supreme Court, which is what my notes said.
+Will: Right: not straight. It needs the certificate and the leave.
+Hannah (brisk): Recap: any party may apply within 21 days to have a case stated on law or jurisdiction; magistrates may refuse only if the application is frivolous and never for the Attorney General; and the Divisional Court decides on the facts as stated.
+Will: Right. Last topic.
+
+## Block 23: Judicial review of magistrates' decisions
+Will (dry): Last, judicial review of the magistrates' decisions.
+Hannah (wry): So grounds, time limit, all of it. Except this topic isn't covered in this episode, apart from the two uses we've already met: forcing the magistrates to state a case, and challenging a Crown Court appeal decision on a point of law.
+Will: Right: those two uses are covered, and its grounds and time limit should come from the workshop notes.
+Hannah (brisk): Good. Exam hat on.
+
+## Exam mode
+Will (brisk): Scenario one. The test is whether the plea was equivocal or made under duress. Imogen pleaded guilty in the magistrates' court, and her plea was made under duress. She now wants to appeal. May she appeal against sentence only, or against conviction as well?
+Hannah (restating): Sentence only, or conviction as well?
+Will: <think>
+Hannah (reasoning): This turns on the right of appeal to the Crown Court. A guilty plea normally limits you to sentence, but there's an exception for an equivocal plea or one made under duress.
+Will: Yes: conviction as well. Duress reopens the conviction, and the appeal to the Crown Court is as of right, so no leave is needed.
+Hannah (teasing): And if the plea had been freely given?
+Will: Then sentence only.
+Hannah (wry): Next one.
+Will (dry): Scenario two. The test is what the Crown Court may do with a sentence. Callum appeals to the Crown Court against the sentence the magistrates imposed. Must the sentence stay no more severe than before, or may it be any sentence the magistrates had power to impose, more or less severe?
+Hannah (restating): No more severe, or anything the magistrates could have passed?
+Will: <think>
+Hannah (reasoning): That's the Crown Court's powers. I want to say it can't go up, because that's the Court of Appeal. But this is the Crown Court.
+Will: Right: any sentence within the magistrates' powers, more or less severe, so Callum has to be warned that his sentence may go up.
+Hannah (thoughtful): The Court of Appeal's the one that can't make it worse.
+Will: Yes, on D's own sentence appeal.
+Hannah (brisk): Next.
+Will (brisk): Scenario three. The test is whether the application was made by or under the direction of the Attorney General. A case stated is applied for under the Attorney General's direction, and the magistrates consider the application frivolous. May they refuse to state a case, or not?
+Hannah (restating): May they refuse, or not?
+Will: <think>
+Hannah (reasoning): This is refusal to state a case. Frivolous is the ground for refusing, but the Attorney General is the exception.
+Will: Yes: they may not refuse. Where the application is made by or under the direction of the Attorney General, they can never refuse.
+Hannah (curious): And if it had been a defendant's application?
+Will: Then they could refuse if they considered it frivolous, giving a certificate of refusal if he asks, and he could seek judicial review for a mandatory order requiring them to state a case.
+Hannah (satisfied): Right.
+
+## Recap
+Hannah (warm): Shall we finish?
+Will (warm): So: the route turns on the complaint; the Crown Court rehears a defendant's appeal; case stated takes law or jurisdiction to the High Court; for the magistrates' power to rectify mistakes and judicial review, use your workshop notes.
