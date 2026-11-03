@@ -1,0 +1,291 @@
+---
+id: clp-ws09-v23-p1
+unit: u-bpp-CLP-09
+guide_hash: e267fcafa6
+made: 2026-11-03T12:44:06+00:00
+title: CLP WS09 · Summary trial and appeals to the Court of Appeal (part 1 of 2)
+part: 1 of 2
+blocks: 1-18
+map:
+- First hearings in summary-only cases
+- Not guilty plea: PET form and standard directions
+- Pre-trial hearings and binding rulings
+- Pleading guilty by post
+- Summary trial overview: burden and standard of proof
+- Summary trial procedure (CrimPR Part 24)
+- Retirement, verdict and reasons
+- Crown Court slip rule
+- Court of Appeal: the test on a conviction appeal
+- Appealing to the Court of Appeal: leave and procedure
+- Grounds of appeal, and appeals after a guilty plea
+- Powers of the Court of Appeal
+- Loss of time directions
+- Fresh evidence on appeal
+- Attorney General's references
+- Criminal Cases Review Commission
+- Prosecution appeals and challenging acquittals
+- Further appeal to the Supreme Court
+recap:
+- First hearings: the parties must actively assist case management, initial details of the prosecution case are due by the beginning of the day of the first hearing, and the magistrates' limits are 6 months for a summary offence and 12 months for an either-way offence.
+- Not guilty plea: directions are given at that hearing using the PET form and the trial date is fixed, and standard directions usually put the defence statement and defence witness notice within 14 days.
+- Pre-trial rulings bind until the case is disposed of, unless discharged on sending to the Crown Court or an indictment, or discharged or varied on three conditions, with a party's application needing a material change of circumstances.
+- Pleading guilty by post: not covered in this episode; take it from the workshop notes.
+- Burden and standard: the prosecution bears the legal burden and must make the magistrates sure, subject to insanity and statutory exceptions where the defendant carries the burden of a defence on the balance of probabilities.
+- Trial procedure: the order of trial, written statements read unless another party objects in time, the no case to answer test, and the defendant's choice whether to give evidence with the court making sure he knows the consequences of silence.
+- Retirement, verdict and reasons: not covered in this episode; take it from the workshop notes.
+- Crown Court slip rule: not covered in this episode; take it from the workshop notes.
+- Conviction appeal test: the Court of Appeal must allow the appeal if it thinks the conviction unsafe and must otherwise dismiss it.
+- Leave and procedure: leave is needed unless the judge certifies within 28 days, the notice is due within 28 days, and a refused applicant can renew within 10 business days.
+- Grounds: conviction grounds succeed only if they make the conviction unsafe, sentence grounds are manifestly excessive or wrong in principle, and after a guilty plea a conviction appeal needs a vitiated plea or one of the further situations.
+- Powers: on a successful conviction appeal the court quashes and acquits or orders a retrial, or may substitute an alternative offence with no more severe sentence; on a sentence appeal the defendant must not be dealt with more severely as a whole.
+- Loss of time: a discretion, with reasons, never available where leave was granted, the judge certified or the Criminal Cases Review Commission referred.
+- Fresh evidence: received if necessary or expedient in the interests of justice, considering four factors.
+- Attorney General's references: the Attorney General, not the prosecution, may refer an unduly lenient sentence with leave, within 28 days or the extended 14 days, and the court may pass a more severe sentence.
+- Criminal Cases Review Commission: not covered in this episode; take it from the workshop notes.
+- Prosecution appeals and challenging acquittals: not covered in this episode; take it from the workshop notes.
+- Supreme Court: only if the Court of Appeal certifies a point of law of general public importance and leave is granted by that court or the Supreme Court.
+summary: First hearings, not guilty directions, binding rulings, pleading guilty by post, burden, summary trial, retirement, Crown Court slip rule, unsafe convictions, appealing, grounds, powers, loss of time, fresh evidence, Attorney General, Criminal Cases Review Commission, prosecution appeals, further Supreme Court.
+invented:
+- Kemal
+- Priya
+- Joss
+---
+## Map
+Will (warm): Right. This is the first half of summary trial and appeals, and it runs in five stretches. First, the run-up in the magistrates' court, which is four topics: first hearings, the not guilty plea and its directions, binding pre-trial rulings, and pleading guilty by post.
+Hannah (brisk): Hearings, directions, rulings, postal pleas. Then?
+Will: Then the trial itself, also four topics: burden and standard of proof, the procedure, retirement and verdict, and the Crown Court slip rule.
+Hannah (thinking aloud): Proof, procedure, verdict, slip rule. And then we're off to the Court of Appeal?
+Will: We are, in four topics: the test on a conviction appeal, leave and procedure, grounds, and the court's powers.
+Hannah: Test, leave, grounds, powers.
+Will (dry): Then the rest of the Court of Appeal's world: loss of time, fresh evidence and Attorney General's references.
+Hannah (brisk): And then?
+Will: The Criminal Cases Review Commission, prosecution appeals, and last, the Supreme Court.
+Hannah (wry): That's a lot of doors. Where's the other half?
+Will: Part two, appeals from the magistrates' court: route choice, the Crown Court, case stated, judicial review. Nothing more on that here.
+## Block 1: First hearings in summary-only cases
+Will (warm): So, first hearings in summary-only cases. Start with something that surprises people: the parties have a duty, not just the court. Each party must actively assist the court's case management. What would that look like, do you think?
+Hannah (guessing): Turning up with the paperwork done? Telling the court what's going on?
+Will: Close. They communicate early, they establish what's agreed and what's likely to be disputed, and they report to the court and alert it to problems, such as anything that gets in the way of the defendant taking part. The court may also require a party to say which witnesses it wants to give evidence in person.
+Hannah (sceptical): Hang on. Making the defence say what's in dispute sounds like making the defendant help the prosecution. Isn't the burden on the prosecution?
+Will: Good instinct, and the answer is no breach. Requiring the defence to identify the issues doesn't breach the burden of proof or the right not to self-incriminate. The catch is that whatever the defence discloses is no longer privileged and may be used at trial, subject to section 78 of PACE.
+Hannah (groaning): So you can tell the court, but you can't take it back.
+Will: Right: it's no longer privileged and it may be used at trial. Next, what the prosecution has to hand over at the start. The initial details of the prosecution case go to the court, and to the defendant if he asks, otherwise they're made available to him.
+Hannah: By when?
+Will: No later than the beginning of the day of the first hearing. That's the deadline.
+Hannah (thoughtful): And what has to be in them?
+Will: That's look-up material, so one sentence. Where the defendant was in police custody it's at least a summary of the circumstances and his criminal record; otherwise it also includes things like any interview account, the statements and exhibits material to plea, allocation or sentence, and any victim impact statement.
+Hannah: Okay. And what happens at the hearing itself?
+Will: It turns on the plea. If the defendant pleads guilty to a summary offence, the court sentences immediately or adjourns for a pre-sentence report. If he pleads not guilty, the court gives case management directions, fixes the trial date and decides bail.
+Hannah (brisk): Then the magistrates' limits, which I always muddle.
+Will: Two pairs. For summary offences, a single offence carries at most 6 months' imprisonment. Consecutive terms for summary offences may not exceed 6 months in aggregate.
+Hannah: So stacking doesn't help.
+Will: Right: not for summary offences. For either-way offences, the current limit for a single offence is 12 months. And the aggregate for two or more either-way offences may not exceed 12 months.
+Hannah (summing up): So 6 months for summary, 12 months for either-way, and the totals cap at the same figures.
+Will: Right: 6 months for summary offences and 12 months for either-way offences, singly or consecutively in aggregate. Now, once a defendant pleads not guilty, what actually gets decided? That's the PET form.
+## Block 2: Not guilty plea: PET form and standard directions
+Will (warm): So, the not guilty plea and its directions. The defendant pleads not guilty in the magistrates' court. What does the court do at that very hearing?
+Hannah (guessing): Fixes a trial date, and sorts out what everyone needs to do before it.
+Will: Right on both. At that hearing it gives case management directions using the PET form, which is the Preparation for Effective Trial form completed by the parties. And it fixes the trial date.
+Hannah (dry): And why bother with a form?
+Will: The aim is an effective trial at the next hearing, without further pre-trial hearings. The court gives its directions using the form the parties have completed.
+Hannah: Fine. What do the standard directions say?
+Will: Usually, they require the prosecution to serve any outstanding evidence and initial disclosure of unused material. The defence statement, which is voluntary in the magistrates' court, and the defence witness notice then follow. The time allowed is usually 14 days.
+Hannah (checking): Counted from when?
+Will: From the prosecution's initial disclosure. And applications such as hearsay, bad character and special measures are directed by set dates.
+Hannah: So the trap would be thinking the defence statement is compulsory.
+Will (pleased): Right: it's voluntary in the magistrates' court, though it's usually directed to follow within 14 days. Next, what binds once a ruling has been made before the trial.
+## Block 3: Pre-trial hearings and binding rulings
+Will (brisk): Pre-trial hearings and binding rulings. Say the magistrates rule before trial that some evidence is admissible, or decide some other point of law. Does that ruling stick?
+Hannah (guessing): For that hearing, surely. After that they'd be free to change their minds.
+Will: Not quite. It binds until the case is disposed of. It's discharged automatically if the defendant is sent to the Crown Court for trial, or if a count for the offence is included in an indictment.
+Hannah (wry): So it lasts for the whole case, unless the case goes up to the Crown Court first.
+Will: Right. Otherwise, the court can discharge or vary it, of its own motion or on a party's application, but only if three conditions are met. One: if the defendant is unrepresented, he has been asked whether he wants legal aid and, if so, arrangements have been made.
+Hannah (counting): That's one. Two, the parties have had a chance to be heard?
+Will: Yes. Two: the parties have had an opportunity to be heard. And three: it's in the interests of justice.
+Hannah: All three, or any one?
+Will: All three. And there's an extra hurdle where a party applies: it needs a material change of circumstances.
+Hannah (summing up): So the ruling binds until the case is disposed of, it's discharged on going to the Crown Court, and otherwise it can only be discharged or varied if all three conditions are met, plus a material change if a party asks.
+Will: Right. And the court can also act of its own motion, without any application at all. Now a topic we're not covering.
+## Block 4: Pleading guilty by post
+Will (dry): Next on the list is pleading guilty by post.
+Hannah: And?
+Will: This topic isn't covered in this episode, so take it from the workshop notes.
+Hannah (brisk): Fine. On to the trial.
+## Block 5: Summary trial overview: burden and standard of proof
+Will (warm): Now the summary trial itself, starting with who has to prove what. The prosecution bears the legal burden of proving the defendant's guilt. What's the standard?
+Hannah (confident): Beyond reasonable doubt.
+Will: Right: beyond reasonable doubt, which means the magistrates must be sure of guilt. Anything else about the burden?
+Hannah (guessing): Then the defendant never has to prove anything.
+Will: Careful: that's the tempting wrong turn. The prosecution's burden is subject to insanity and statutory exceptions. In those, the defendant bears the legal burden of a defence, and the standard for him is the balance of probabilities.
+Hannah (groaning): So two different standards depending on who's carrying it.
+Will: Right: beyond reasonable doubt for the prosecution, the balance of probabilities for the defendant where he carries the burden of a defence. The trap is saying the prosecution always carries the whole burden. It carries the legal burden of proving guilt, but not where insanity or a statute puts the burden of a defence on the defendant.
+Hannah (summing up): So the prosecution proves guilt so the magistrates are sure, unless insanity or a statute puts a defence burden on the defendant.
+Will: Yes. Now the trial procedure, in order.
+## Block 6: Summary trial procedure (CrimPR Part 24)
+Will (brisk): The summary trial procedure. I'll walk you through the order of a trial in the magistrates' court. The prosecution may make an opening speech. Then what comes?
+Hannah (guessing): Prosecution evidence.
+Will: Yes. Then there's a possible submission of no case to answer. After that, defence evidence, and then the defence closing speech.
+Hannah: What about the prosecution's closing speech?
+Will: The prosecution makes a closing speech only if the defendant is represented or calls evidence other than his own. And the defence always speaks last. Then the magistrates retire and announce their verdict. The legal adviser advises on the law, not the facts.
+Hannah (dry): So the legal adviser can tell them what the law is but can't tell them what happened.
+Will: Right: law, not facts. Now to the tricky bits, starting with written witness statements. A written statement served under the proper procedure is read as evidence at trial unless another party objects within the time allowed.
+Hannah: Which means the defence has to say if it wants a witness there.
+Will: Yes: the defence must say whether it requires each prosecution witness to attend, otherwise the statement is simply read.
+Hannah (thinking aloud): And the no case to answer submission. That's the same test as in the Crown Court?
+Will: Yes, the same test applies, from the Practice Direction. A submission may be upheld in two situations: where there is no evidence to prove an essential element of the offence, or where the evidence has been so discredited in cross-examination, or is so manifestly unreliable, that no reasonable tribunal could safely convict on it.
+Hannah: No evidence on an element, or evidence that can't safely be relied on.
+Will (pleased): Right. Last piece: the defendant's right to give evidence. After the prosecution case he chooses whether to give evidence. Unless his guilt is not in issue, or his physical or mental condition makes it undesirable for him to give evidence, the court must satisfy itself that he knows he may give evidence.
+Hannah: And that there's a downside to staying silent?
+Will: Yes: that if he does not give evidence, or refuses without good cause to answer, proper inferences may be drawn.
+Hannah (curious): Who checks that in each court?
+Will: In the Crown Court the judge asks the defendant's advocate, in the jury's presence, whether the defendant has been so advised. In the magistrates' court, the legal adviser or the court explains it to the defendant.
+Hannah (summing up): So: opening, prosecution evidence, any no case submission, defence evidence, defence closing, with the defence always last, then verdict. The defendant chooses whether to give evidence, but the court makes sure he knows what silence can cost him.
+Will: Right, with the prosecution's closing speech only if he's represented or calls other evidence. Next, what comes after the magistrates retire.
+## Block 7: Retirement, verdict and reasons
+Will (dry): Retirement, verdict and reasons.
+Hannah (wary): Go on, then.
+Will: This topic isn't covered in this episode, so take it from the workshop notes.
+Hannah: Understood. Next.
+## Block 8: Crown Court slip rule
+Will (brisk): The Crown Court slip rule.
+Hannah: Tell me everything.
+Will (amused): I can't. It isn't covered in this episode, so take it from the workshop notes.
+Hannah (dry): Efficient. On to the Court of Appeal, then.
+## Block 9: Court of Appeal: the test on a conviction appeal
+Will (warm): Now the Court of Appeal, starting with the test on a conviction appeal from the Crown Court. If the trial judge made an error, does the appeal succeed?
+Hannah (guessing): Surely yes. An error is an error.
+Will: That's the trap. An error at trial leads to a successful appeal only if it makes the conviction unsafe. The court must allow the appeal if it thinks the conviction is unsafe, and must otherwise dismiss it.
+Hannah (sceptical): Must, not may?
+Will: Must in both directions. Two short stories. A confession was wrongly admitted and the court thinks the conviction unsafe: it must allow the appeal. Now the judge's direction on the standard of proof was defective, but the evidence of guilt was overwhelming, so the court thinks the conviction safe: it must dismiss the appeal.
+Hannah (thinking aloud): So both had an error, and the outcomes are opposite.
+Will: Yes. What decides it is not whether there was an error, but whether the court thinks the conviction unsafe. The point of the test is to ask about the conviction, not the trial.
+Hannah (summing up): So it's the safety of the conviction that counts, and the court has no choice either way.
+Will: Right: unsafe means it must allow, otherwise it must dismiss. Now, how do you get there?
+## Block 10: Appealing to the Court of Appeal: leave and procedure
+Will (brisk): Appealing to the Court of Appeal, leave and procedure. An appeal against conviction or sentence from the Crown Court needs the leave of the Court of Appeal. Unless what?
+Hannah (guessing): Unless the judge says it's fit for appeal.
+Will: Right, but there's a time limit. The trial judge, or the sentencing judge on a sentence appeal, must certify that the case is fit for appeal. The time limit is 28 days from the conviction or sentence.
+Hannah (wary): And if the judge certifies later?
+Will: Then leave is still needed. Only a certificate given in time removes the need for leave. Here's one to check. A trial judge certifies, within 28 days of the conviction, that the case is fit for appeal.
+Hannah (restating): Does the defendant still need the Court of Appeal's leave, or not?
+Will: <think>
+Hannah (reasoning): This is leave and the judge's certificate. The certificate was given within the 28 days, so leave isn't needed.
+Will: Yes. A certificate within 28 days of conviction, or sentence for a sentence appeal, means no leave. Otherwise the Court of Appeal's leave is needed.
+Hannah (brisk): And the notice itself?
+Will: The appeal notice, with grounds, must be served on the Registrar of Criminal Appeals not more than 28 days after conviction for a conviction appeal, or after sentence for a sentence appeal. The Court of Appeal may extend time.
+Hannah (checking): So if conviction and sentence come on different days?
+Will: For a conviction appeal the 28 days run from conviction, even if the sentence comes later. Then who looks at leave first?
+Hannah (guessing): A judge on the papers?
+Will: Yes: a single judge, on the papers. If leave is refused, the applicant may renew the application to the full court. He serves it on the Registrar. The time limit is 10 business days after the refusal. If he wasn't present in person or by live link when it was refused, as with a refusal on the papers, it runs from when the Registrar serves the refusal on him.
+Hannah (summing up): So if the single judge refuses leave, he has 10 business days to renew to the full court. They run from the refusal, or from the Registrar's service of it if he was present neither in person nor by live link when it was refused.
+Will: Right. Next, what you actually argue.
+## Block 11: Grounds of appeal, and appeals after a guilty plea
+Will (warm): Grounds of appeal, and appeals after a guilty plea. Start with conviction. A ground only matters if it makes the conviction unsafe, which is the test we just had. Typical grounds fall into three groups.
+Hannah (listing): Go on.
+Will: The first group is the judge's errors. One kind is a misdirection in the summing up. Examples include the burden or standard of proof, identification evidence (the Turnbull direction), adverse inferences, and good or bad character. Another is wrongly admitting or excluding evidence, for example a confession or bad character.
+Hannah: And the other two groups?
+Will: A wrongly rejected submission of no case to answer. And irregularities, whether procedural or involving the jury.
+Hannah (dry): So the usual suspects.
+Will: Yes. Now sentence. The grounds are that the sentence is manifestly excessive or wrong in principle. They sound alike, so here's the look-alike.
+Hannah: Go on.
+Will: Ask what is wrong. Manifestly excessive means the sentence is outside the appropriate range for the offence and offender.
+Hannah (guessing): And wrong in principle?
+Will: An error in how it was reached or what was passed. For example, the wrong type of sentence or the wrong guideline category. Or the wrong credit for plea, a wrong factual basis, or a sentence the court had no power to pass.
+Hannah (summing up): So excessive is about the size, outside the range, and wrong in principle is about the route taken or the thing passed.
+Will: Right: range versus error. Now the awkward one. A defendant pleaded guilty. Can he appeal against conviction?
+Hannah (guessing): Not really. He pleaded guilty.
+Will: Careful: he can, but only if the plea was vitiated. That is where it was equivocal or unintended, or made under improper pressure. Or it was given on misleading legal advice, or compelled by a wrong ruling that left no arguable defence.
+Hannah (checking): Compelled by any wrong ruling?
+Will: No, and that's the point. The ruling must have left no arguable defence, not merely made the defence harder. Two stories. The judge wrongly ruled that the defendant's only defence was not available in law, so he pleaded guilty: no arguable defence, so the plea is vitiated and he can appeal. In the other, a wrong ruling only made his defence harder to run, but it remained arguable, and he pleaded guilty: the plea is not vitiated on that ground.
+Hannah (thoughtful): So the deciding question is whether the defence was killed or just made harder.
+Will: Right. And he may also appeal where there was a legal obstacle to his trial, for example abuse of process or a fundamental breach of the right to a fair trial, or where it is established that he did not commit the offence.
+Hannah (summing up): So after a guilty plea, a conviction appeal needs a vitiated plea, or a legal obstacle to the trial, or proof he didn't do it.
+Will: Yes. Now what the court can do if the appeal succeeds.
+## Block 12: Powers of the Court of Appeal
+Will (brisk): Powers of the Court of Appeal. Take a successful conviction appeal. What's the first thing the court does?
+Hannah (confident): Quashes the conviction.
+Will: Right. Then it either directs a verdict of acquittal or, if the interests of justice require, orders a retrial.
+Hannah: And that's it?
+Will: There's a second route. Instead of quashing, what else might it do? It may substitute a conviction for an alternative offence of which the jury could have convicted, where the jury must have been satisfied of facts proving it. And the substituted sentence must not be more severe.
+Hannah (sceptical): Give me a story.
+Will: A murder conviction is unsafe because of a misdirection on intent, but the jury must have been sure that the defendant killed by an unlawful and dangerous act. The court may substitute a manslaughter conviction, with a sentence no more severe than the original. Now compare: a confession was wrongly admitted, the court thinks the conviction unsafe, and the jury need not have been satisfied of facts proving any other offence. The court quashes the conviction and directs an acquittal or, if the interests of justice require, orders a retrial.
+Hannah (thinking aloud): So the deciding fact is whether the jury must have found the facts for the other offence.
+Will (pleased): Yes. And a sentence appeal is different. The court may quash the sentence and pass any sentence the Crown Court had power to pass, but taking the case as a whole the defendant must not be dealt with more severely than in the court below.
+Hannah (summing up): So a successful conviction appeal means quash then acquit or retrial, or substitute an alternative offence with no heavier sentence; on a sentence appeal, no worse off overall.
+Will: Right. Now a special case where the defendant might be worse off in another way.
+## Block 13: Loss of time directions
+Will (warm): Loss of time directions. While an appeal is pending, a defendant may be in custody. The court may direct that this time does not count towards his sentence. When would you expect it to do that?
+Hannah (guessing): When the appeal is hopeless. And if it's wholly without merit, the court has to do it.
+Will: Nearly. The second half is the trap. It is a discretion: the court may direct it, giving reasons. Typically it is an unmeritorious application renewed after the single judge refused leave.
+Hannah (groaning): So it's a penalty for pressing on with a bad appeal.
+Will: Right, but it isn't automatic. And there are situations where the court cannot do it: where leave was granted, where the trial judge certified the case, or where the Criminal Cases Review Commission referred it.
+Hannah (summing up): So it's discretionary, and it needs reasons. It's off the table if leave was granted, the judge certified, or the Commission referred.
+Will: Yes. Next, bringing in new material.
+## Block 14: Fresh evidence on appeal
+Will (brisk): Fresh evidence on appeal. The Court of Appeal may receive fresh evidence if it thinks it necessary or expedient in the interests of justice. In deciding that, it considers four things. Want to guess one?
+Hannah (guessing): Whether it's believable?
+Will: Yes. One: does it appear capable of belief?
+Hannah: Whether it could help the appeal?
+Will: Two: it may afford a ground for allowing the appeal. Three: it would have been admissible at trial.
+Hannah (wry): And why it wasn't produced the first time round.
+Will: Right. Four: whether there is a reasonable explanation for the failure to adduce it at trial. That's the section 23 test.
+Hannah (summing up): So necessary or expedient in the interests of justice, looking at belief, a possible ground, admissibility and a reasonable explanation.
+Will: Yes. Now the prosecution's side of the picture.
+## Block 15: Attorney General's references
+Will (warm): Attorney General's references. Can the prosecution appeal against a sentence it thinks is too lenient?
+Hannah (confident): No, it can't.
+Will: Right: the prosecution cannot appeal against sentence. But the Attorney General, or the Solicitor General, may, with the Court of Appeal's leave, refer an unduly lenient sentence. It has to be a sentence passed in the Crown Court for an indictable-only offence or a specified either-way offence.
+Hannah (wary): And the time limit?
+Will: Notice must be given within 28 days of sentence. What's the twist? It's a recent change. If the Attorney General receives a request to review the sentence in the last 14 days of that period, notice may be given within 14 days of receiving the request.
+Hannah (checking): So still 28 days, with an extension in that one case.
+Will: Right. The trap is saying it's simply 28 days. And on a reference, the court may quash the sentence and pass any sentence the Crown Court could have passed, including a more severe one.
+Hannah (groaning): Which is a very different outcome from the defendant's own appeal.
+Will: That's the look-alike. On the defendant's own appeal, the court may pass any sentence the Crown Court had power to pass, but taking the case as a whole he must not be dealt with more severely. A reference is brought by the Attorney General, or the Solicitor General, not by the defendant, and then the court may pass a more severe sentence.
+Hannah (summing up): So the defendant's own appeal can't make him worse off overall, and a reference by the Attorney General can.
+Will: Right: who brings it decides it. Next, two topics we're not covering.
+## Block 16: Criminal Cases Review Commission
+Will (dry): The Criminal Cases Review Commission.
+Hannah: Go on.
+Will: This topic isn't covered in this episode, so take it from the workshop notes.
+## Block 17: Prosecution appeals and challenging acquittals
+Will (brisk): Prosecution appeals and challenging acquittals.
+Hannah (wry): Let me guess.
+Will: Yes: this one isn't covered in this episode either, so take it from the workshop notes. One more topic to go.
+## Block 18: Further appeal to the Supreme Court
+Will (warm): Further appeal to the Supreme Court. Can a defendant whose appeal fails in the Court of Appeal just go on up?
+Hannah (guessing): With leave, I suppose.
+Will: Close, but only with two things together. The Court of Appeal must certify a point of law of general public importance, and leave must be granted by the Court of Appeal or the Supreme Court.
+Hannah (summing up): So a certificate from the Court of Appeal, plus leave from one of those two courts.
+Will: Right: a certificate and leave, not one without the other. That ends the topics, so let's practise.
+## Exam mode
+Will (brisk): Scenario one. The test is whether a wrong ruling left no arguable defence or only made it harder. Joss is told by the judge, wrongly, that his only defence is not available in law, so he pleads guilty. Can he appeal against his conviction, or not?
+Hannah (restating): Can appeal, or can't?
+Will: <think>
+Hannah (reasoning): This is appeals after a guilty plea. The wrong ruling left him no arguable defence, so the plea was vitiated.
+Will: Yes. He can appeal against conviction. If the ruling had only made his defence harder but still arguable, the plea wouldn't be vitiated on that ground.
+Hannah (dry): Next one.
+Will (brisk): Scenario two. The test is whether the jury must have been satisfied of facts proving an alternative offence. Kemal's murder conviction is unsafe because of a misdirection on intent, but the jury must have been sure he killed by an unlawful and dangerous act. Can the court substitute manslaughter, or must it quash the conviction?
+Hannah (restating): Substitute manslaughter, or quash?
+Will: <think>
+Hannah (reasoning): This is the powers of the Court of Appeal. The jury must have found the facts for manslaughter, so substitution is open.
+Will: Right. The court may substitute manslaughter, and the sentence must not be more severe than the original.
+Hannah (teasing): And if the jury had never found those facts?
+Will: Then it quashes, and directs an acquittal or, if the interests of justice require, orders a retrial.
+Hannah (brisk): Next.
+Will (dry): Scenario three. The test is who can challenge a sentence as too lenient. Priya is sentenced in the Crown Court for an indictable-only offence, and the prosecutor thinks the sentence unduly lenient. Can the prosecution appeal it, or can the Attorney General refer it with the court's leave?
+Hannah (restating): Prosecution appeals, or Attorney General refers with leave?
+Will: <think>
+Hannah (reasoning): That's the Attorney General's references. The prosecution can't appeal against sentence, so it's the reference route.
+Will: Yes. The Attorney General may refer it with the Court of Appeal's leave, and the court may then pass a more severe sentence.
+Hannah (wry): Which her own appeal could never do.
+## Recap
+Hannah (brisk): Shall we go round the whole thing?
+Will: Yes. First hearings: the parties must assist case management, and the limits are 6 months for summary offences and 12 months for either-way offences. Not guilty plea: directions with the PET form and the trial date fixed. Binding rulings last until disposal, unless discharged, or varied on three conditions.
+Hannah: Burden and standard: the prosecution proves guilt so the magistrates are sure, subject to insanity and statutory exceptions where the defendant carries a defence burden. Trial procedure: the order of trial, written statements read unless an objection comes in time, the no case test, and the defendant's choice whether to give evidence.
+Will: Right. Conviction appeals: the court must allow the appeal if the conviction is unsafe, otherwise it must dismiss it. Leave is needed unless the judge certifies in time, with 28 days for the notice and 10 business days to renew.
+Hannah (thoughtful): Grounds only succeed if they make the conviction unsafe, and a guilty plea needs a vitiated plea or another route. Powers: quash then acquit or retrial, or substitute, and on a sentence appeal no worse off overall.
+Will: Yes. Loss of time is a discretion with reasons. Fresh evidence turns on four factors. Attorney General's references are for unduly lenient sentences, with leave. The Supreme Court needs a certified point of law and leave.
+Hannah (curious): And which topics were we leaving to the workshop notes?
+Will: Pleading guilty by post, retirement and verdict, the slip rule, the Criminal Cases Review Commission, and prosecution appeals.
+Hannah (dry): Then say the lot in one go.
+Will (warm): First hearings, not guilty directions, binding rulings, pleading guilty by post, burden, summary trial, retirement, Crown Court slip rule, unsafe convictions, appealing, grounds, powers, loss of time, fresh evidence, Attorney General, Criminal Cases Review Commission, prosecution appeals, further Supreme Court.
