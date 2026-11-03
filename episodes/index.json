@@ -1493,7 +1493,7 @@
       ],
       "summary": "So: the route turns on the complaint; the Crown Court rehears a defendant's appeal; case stated takes law or jurisdiction to the High Court; for the magistrates' power to rectify mistakes and judicial review, use your workshop notes.",
       "madeAt": "2026-11-03T17:44:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); Opus accuracy + line-by-line checks (p1 3 + 4, p2 4 + 4 findings, fixed); known-error scan (3 fuzzy matches, each the right rule, cleared by the Opus verify); fresh Opus verify of the changed lines (2 one-line fixes); p1's renewal summary re-checked twice by fresh Opus helpers and narrowed to the renewal rule; code ok (build chat by hand, b126)",
@@ -1506,7 +1506,15 @@
         "b22",
         "b23"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8771516,
+      "seconds": 1096,
+      "words": 2955,
+      "renderedHash": "0329fd29113d",
+      "renderedAt": "2026-11-03T17:46:11+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws09-v23-p2-8aba28a2.mp3",
+      "pubDate": "2026-11-03T17:46:11+00:00"
     }
   ],
   "replays": [
