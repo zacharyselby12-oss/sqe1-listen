@@ -1,0 +1,192 @@
+---
+id: wae-ws09-v23
+unit: u-bpp-WAE-09
+guide_hash: 942e984368
+made: 2026-11-03T08:43:07+00:00
+title: WAE WS09 · Amending and republishing wills
+map:
+- Ways to amend a will: choosing the method
+- Incorporated documents, STEP provisions and letters of wishes
+- Manuscript alterations under s.21
+- Exceptions: blank spaces, obliteration, conditional revocation
+- Codicils: what they are and how they read with the will
+- Republication by codicil
+- Revocation and revival by codicil (s.22)
+- Recap: revocation by later will or codicil, and partial destruction
+recap:
+- Choosing the method: a codicil suits a small, simple change; a new will is better for substantial changes.
+- Incorporated documents, STEP provisions and letters of wishes: a look-up topic, covered in the Quizlet set.
+- Manuscript alterations: an alteration made after execution has no effect unless executed like a will or validated by a later confirming codicil, but original words made no longer apparent are revoked; unattested alterations are presumed to be made after execution, unless evidence rebuts that.
+- Exceptions: if the original words are still apparent they stand; if they are not apparent they are revoked, unless they were obliterated only to make way for a new gift that fails for want of execution, when conditional revocation applies and they can be proved by extrinsic evidence.
+- Codicils: made with the same formalities as a will, and read with it; where inconsistent, the codicil prevails and the rest of the will stands.
+- Republication: a codicil confirming the will makes it take effect as if executed at the codicil's date, subject to contrary intention.
+- Revocation and revival: revival needs re-execution or a duly executed codicil showing an intention to revive; revoking the revoking document is not enough, and a destroyed will cannot be revived, although a mistaken destruction may be a conditional revocation that fails.
+- Recap: destroying part of a will revokes only that part, unless the part destroyed is so important that the rest cannot stand.
+summary: Choosing the method of amending a will, incorporated documents and letters of wishes, manuscript alterations, exceptions including obliteration and conditional revocation, codicils, republication, revival, and a recap of revocation by later will or codicil and partial destruction.
+invented:
+- Priya
+- Callum
+- Marguerite
+- Dev
+- Oriel
+- Tamsin
+- Joss
+---
+## Map
+Will (warm): Right. Today is about changing a will after it's been made, and how the different ways of doing it go wrong. Eight topics, in this order.
+Hannah (wary): Go on. I'll try to keep up.
+Will: First, whether you change a will with a codicil or with a new one. Second, incorporated documents, STEP provisions and letters of wishes. Third, handwritten alterations on the will itself.
+Hannah: So scribbling in the margin.
+Will: Yes: scribbling in the margin. Fourth, the exceptions to that: blank spaces, obliteration and conditional revocation. Then codicils themselves, and how they read with the will.
+Hannah (thinking aloud): Okay. Choosing the method, incorporated documents, alterations, exceptions, codicils.
+Will: Good. Last three: republication by a codicil, revocation and revival by a codicil, and a recap of revocation by a later will or codicil, with partial destruction.
+Hannah (brisk): So republication, then revival, then the recap. And I bet those two sound alike on purpose.
+Will (amused): Right: they do sound alike. That's most of the fun.
+## Block 1: Ways to amend a will: choosing the method
+Will: So, first topic: choosing the method of amending a will. Say a client wants one small change to her will.
+Hannah: Easy. Write a codicil.
+Will: Right: a codicil suits a small, simple change. A new will is better for substantial changes.
+Hannah (sceptical): Why not a codicil for everything? It's quicker.
+Will (dry): Three reasons for a new will when the change is big. Documents can get confused with each other, the codicil might be lost, and a new will keeps the changes private from the people you've cut out.
+Hannah: Because anyone reading the old will plus a codicil sees exactly who lost out.
+Will: Yes. So small and simple, codicil; substantial, new will.
+Hannah (pleased): Fine. Small change, codicil. Big change, new will.
+## Block 2: Incorporated documents, STEP provisions and letters of wishes
+Will (brisk): Now incorporated documents, STEP provisions and letters of wishes. This one is a look-up topic.
+Hannah (teasing): A topic with nothing to say. My favourite.
+Will: Nothing to teach here. It lives in the Quizlet set, so use that for it.
+Hannah: Understood. On to the good stuff.
+## Block 3: Manuscript alterations under s.21
+Will: Now manuscript alterations under section 21. Someone has written on the will itself. Is the change valid?
+Hannah (thinking aloud): Depends whether it was executed like a will, I'd guess.
+Will: Right, that's the test, but there's a timing question first. An alteration made before execution is valid as part of the will. The rule bites only on alterations made after execution.
+Hannah: And those?
+Will: An alteration made after execution has no effect unless it's executed like a will. That means signed or initialled by the testator and two witnesses, usually in the margin beside it.
+Hannah (wary): And if nobody can say when it was made?
+Will: Then there's a presumption. An unattested alteration is presumed to have been made after execution. But it can be rebutted, for example where the attestation clause refers to the alteration, or a witness gives evidence that it was there at signing.
+Hannah: So the alteration with no initials is presumed late, unless someone proves otherwise.
+Will: Right. And there's a second way out. A later duly executed codicil confirming the will validates an earlier unattested alteration.
+Hannah (thoughtful): So an invalid alteration can be rescued by a confirming codicil. Remember that for republication.
+Will: Right, we'll get there. Good practice, meanwhile, is that the testator and witnesses initial every alteration before signing.
+Hannah (dry): Which nobody does.
+Will: Which is why probate registrars exist. If there's an unauthenticated alteration, the registrar requires evidence, usually from a witness, whether it was there at execution. No evidence is needed if the alteration is authenticated under section 21, by re-execution or by a codicil, or is of no practical importance.
+Hannah: That's a lot of "or". What's the one-line version?
+Will: Alterations made before execution are valid; unexecuted ones made after execution have no effect, unless a later confirming codicil validates them.
+Hannah (brisk): But the actual words?
+Will: Original words made no longer apparent are revoked. That's the next topic.
+## Block 4: Exceptions: blank spaces, obliteration, conditional revocation
+Will: Now the exceptions: obliteration and conditional revocation, plus blank spaces. First, obliteration. The alteration is invalid, so do the original words survive?
+Hannah (guessing): If it's invalid, the original words stand.
+Will: Not quite: only if they're still apparent. Apparent means readable by natural means, like a magnifying glass or holding the paper up to the light. No physical interference, no chemical means.
+Hannah: So a single line through a legacy, with a new figure written above, unwitnessed?
+Will: The original legacy is still readable, so probate is granted with the original words.
+Hannah: And thoroughly blacking out a name with a marker pen?
+Will: Not apparent. That gift is revoked and the will is proved with a blank.
+Hannah (thinking aloud): So the question is just: can I still read it by natural means?
+Will: Yes. That's what decides it.
+Hannah: Which seems harsh. You black out a name and write a new one in, the new one isn't properly signed, and the old one's gone.
+Will (pleased): And that's the exception to the exception. Conditional revocation, also called dependent relative revocation. If the testator obliterated words only to replace them with a new gift, and the new gift fails for want of execution, the revocation is conditional on that gift taking effect. So it fails.
+Hannah: And the original words come back.
+Will: They can be proved by extrinsic evidence, like drafts, copies or infra-red examination.
+Hannah (sceptical): And when does it not apply?
+Will: Imagine a testator pastes a slip over a legacy and writes a new legacy on it, but this time the testator and two witnesses initial the change, as when executing a will. The new gift takes effect, so the original is revoked and replaced.
+Hannah: So the deciding fact is whether the new gift fails for want of execution.
+Will: Right. Fails, then the old words can be proved. Takes effect, then the old words are gone.
+Hannah (brisk): One line, then. If the original words are still apparent they stand. If they're not, they're revoked, unless they were obliterated only to make way for a new gift that fails for want of execution.
+Will: Yes, and every qualifier is there.
+## Block 5: Codicils: what they are and how they read with the will
+Will: On to codicils: what they are and how they read with the will. A codicil is a testamentary document that adds to, varies or revokes part of an existing will.
+Hannah: So it's basically a mini will.
+Will: Yes, in terms of formalities. It needs testamentary capacity, knowledge and approval, and the same section 9 formalities as a will. Executed like a will.
+Hannah: And if the codicil and the will contradict each other?
+Will: They're read together. To the extent that the codicil is inconsistent with the will, the codicil prevails, because the later provision governs. The rest of the will stands.
+Hannah (summing up): Same formalities as a will, read with the will, codicil wins where they clash, everything else survives.
+Will: Yes.
+## Block 6: Republication by codicil
+Will: Now republication by codicil. A codicil that confirms the will makes the will take effect as if it had been executed at the date of the codicil. That's subject to contrary intention.
+Hannah (incredulous): So the will gets a new birthday.
+Will (laughing): Yes, it does. Three things that can change as a result. It can validate earlier unattested alterations, it can save a gift to a person who witnessed the will, and it can change what a description such as "my car" refers to.
+Hannah: The car is whichever car you own at the codicil's date.
+Will: Right. And since the effect is on the whole will, it covers clauses the codicil doesn't touch, unless a contrary intention appears.
+Hannah (guessing): So "I confirm my will" means everything in it is treated as made on that date.
+Will: Yes, subject to contrary intention.
+Hannah (wary): Go on, I can feel the pile-up coming.
+Will: Now the witness gift, which is where the rules pile up. Take the rule first. A gift to an attesting witness, or to the witness's spouse or civil partner at the time of execution, is void.
+Hannah (wary): The whole will?
+Will: No. The will remains valid and the witness's attestation still counts. Only the gift is void. And marrying a witness later doesn't affect the gift.
+Hannah (thinking aloud): So if I witness a will that gives me something, my signature still counts but my gift is void. And a civil partner counts like a spouse.
+Will: Yes: and only a marriage or civil partnership existing at execution counts. Now, a gift to a witness can be saved in two ways. One is that the will is duly executed without the attestation of that witness and of any other witness who is, or is the spouse or civil partner of, a beneficiary, for example with two other independent witnesses. The other is republication.
+Hannah: Say the will leaves the testator's niece £20,000, the niece and her husband were the only two witnesses, and no codicil confirms it.
+Will: Then the will isn't duly executed without them, so the gift is void, but the will stands.
+Hannah: Different case. A beneficiary witnesses the will, and a later codicil confirming it is witnessed by two strangers.
+Will: The will takes effect as if executed at the codicil's date, so the gift is saved. The question is whether the later codicil was witnessed by neither the beneficiary nor their spouse or civil partner.
+Hannah (brisk): So two ways to save it: enough other independent witnesses, or a confirming codicil witnessed by strangers.
+Will: Right. Now let me check that sticks. A beneficiary and a stranger witness a will, and the will gives the beneficiary a gift. Is the gift saved by the two-witness rule, saved by republication, or void?
+Hannah: The beneficiary plus one stranger. Is it saved by two independent witnesses, saved by a codicil, or void?
+Will: <think>
+Hannah (thinking aloud): Is the will duly executed without the beneficiary's attestation? It needs two witnesses, and only one stranger is left. And there's no codicil mentioned. So void.
+Will: Right: the will isn't duly executed without the beneficiary's attestation, and there's no confirming codicil, so the gift is void, but the will itself stands.
+Hannah: Good. One-liner: republication is a confirming codicil making the will take effect from its own date, subject to contrary intention, which can save a witness's gift if the codicil's witnesses are independent.
+Will: Yes.
+## Block 7: Revocation and revival by codicil (s.22)
+Will: Next, revocation and revival by codicil. The lead is that revival is not republication. Keep that in your head.
+Hannah: Because they sound the same.
+Will: They do. First, revoking by codicil. A codicil can revoke the whole or part of a will, expressly, such as "I revoke clause four of my will", or impliedly by inconsistency. It must be valid and executed under section 9.
+Hannah: And where does the revoked gift go?
+Will: If a codicil revokes a specific or pecuniary gift without substituting another beneficiary, the gift falls into residue. If it revokes a gift of a share of residue, that share passes on partial intestacy.
+Hannah (thoughtful): So the gift is gone, and it goes somewhere.
+Will: Right: it goes somewhere, as I said. Now, suppose the testator later tears up that codicil, hoping the legacy returns.
+Hannah (guessing): Surely it comes back. The codicil's gone.
+Will: Not revived. Revoking the revoking codicil is not enough, so the legacy stays in residue.
+Hannah: So how do you revive anything?
+Will: By re-execution, or by a duly executed codicil showing an intention to revive. That's the rule under section 22, and it applies to revoked wills as well.
+Hannah (brisk): Same test for a will and for a gift.
+Will: Right. Now to wills. Under section 22, a revoked will comes back only if it is re-executed, or if a codicil shows an intention to revive it and is duly executed. Revoking the later, revoking will does not revive the earlier will.
+Hannah (groaning): So I make will one, will two revokes it, I burn will two, and will one doesn't come back.
+Will: Right. And a destroyed will cannot be revived at all.
+Hannah: But that feels brutal if the testator plainly thought it would work.
+Will: There's a rescue. If the testator destroyed the later will only because she wrongly believed this would revive the earlier one, the revocation may be conditional and fail. That's dependent relative revocation, and it's a question of fact.
+Hannah (thinking aloud): So the destruction of will two fails as a revocation, and will two still stands.
+Will: Yes: the later will stands and is proved from a copy.
+Hannah: Hit me.
+Will: Let me put that to you. A testator makes will one, then will two, which revokes will one. She then burns will two, only because she thinks that brings will one back. Does will one revive automatically, does will two stand, or is neither valid?
+Hannah: Will one back, will two stands, or neither is valid?
+Will: <think>
+Hannah (thinking aloud): Revoking the later will doesn't revive the earlier one, so one doesn't come back. But she destroyed two only because of a mistaken belief, so that revocation may be conditional and fail. Will two stands.
+Will: Right: it's a question of fact, but yes, the later will stands, proved from a copy, because the revocation was conditional on a revival that doesn't happen.
+Hannah (brisk): And the look-alike. Republication versus revival.
+Will: Republication: a codicil confirming a will makes it take effect as if executed at the codicil's date, subject to contrary intention. Revival: a will already revoked comes back only by re-execution or by a duly executed codicil showing an intention to revive it, and a destroyed will cannot be revived.
+Hannah: So republication is about a will that is still alive. Revival is about a will that has been killed.
+Will: Yes. Alive and confirmed, versus revoked and brought back.
+## Block 8: Recap: revocation by later will or codicil, and partial destruction
+Will: Finally a recap of revocation by a later will or codicil, and partial destruction. A will is revoked in whole or in part by a later will or codicil, or by a writing declaring an intention to revoke, executed with the section 9 formalities.
+Hannah: Standard. And partial destruction?
+Will: Destroying only part of the will revokes only that part, unless the part destroyed is so important, like the signature, that the rest cannot stand.
+Hannah (thinking aloud): So cutting out a clause revokes the clause. Cutting off the signature is another matter.
+Will: Right. That's the look-alike with obliteration: both can revoke part of a will. Obliterated words are revoked only if they're no longer apparent, and not where they were obliterated only for a new gift that fails for want of execution. Destroying part is different: it takes out just that part, unless it is so important that the rest falls.
+Hannah: Obliteration asks "can I still read it?" Destruction asks "is what's left still a will?"
+Will (pleased): Right.
+## Exam mode
+Will: Two quick ones. Priya's will has a handwritten change to a legacy, no initials, and she has since died. One witness says the change was there when she signed. Is the change valid, of no effect, or still unknown?
+Hannah: Valid because of the witness, of no effect because it's uninitialled, or unknown?
+Will: <think>
+Hannah (thinking aloud): This is manuscript alterations. Unattested means presumed made after execution, but the presumption is rebuttable by witness evidence. If it's accepted, the change is valid as part of the will.
+Will: Right. If the evidence is accepted, the presumption is rebutted and the change is valid. With no evidence about timing, it would be presumed late and have no effect, and the original words stand if still apparent.
+Hannah: And the second?
+Will: Second. Callum's will leaves a legacy to Marguerite, who witnessed it with one stranger. A later codicil confirms the will and is witnessed by two strangers. Is the gift saved, void, or only half?
+Hannah: Saved, void, or half?
+Will: <think>
+Hannah (thinking aloud): Republication. The codicil confirms the will, so the will takes effect as if executed at the codicil's date. And the codicil's witnesses are strangers, so the gift is saved.
+Will: Right: the later codicil was not witnessed by the beneficiary, so the gift is saved. Without it, it would have been void, though the will would stand.
+## Recap
+Will: Eight topics. Choosing the method: a codicil suits a small, simple change; a new will is better for substantial changes.
+Hannah: Incorporated documents, STEP provisions and letters of wishes is a look-up topic, so the Quizlet set.
+Will: Manuscript alterations: an alteration made after execution has no effect unless executed like a will, or validated by a later confirming codicil, but original words made no longer apparent are revoked.
+Hannah (brisk): And unattested alterations are presumed made after execution, unless evidence says otherwise. What about the exceptions?
+Will: Right. Apparent words stand, words that aren't apparent are revoked, unless they were obliterated only to make way for a new gift that fails for want of execution.
+Hannah: Codicils are made like wills, read with the will, and prevail where they're inconsistent. Which pair do people muddle?
+Will: Republication and revival. Republication: a confirming codicil makes the will take effect as if executed at its date, subject to contrary intention.
+Hannah (thoughtful): Revival needs re-execution or a duly executed codicil showing an intention to revive. A destroyed will can't be revived, though mistaken destruction may be a conditional revocation that fails.
+Will: Yes. And destroying part of a will revokes only that part, unless the part destroyed is so important that the rest cannot stand.
+Hannah (teasing): Is that everything?
+Will (warm): Choosing the method of amending a will, incorporated documents and letters of wishes, manuscript alterations, exceptions including obliteration and conditional revocation, codicils, republication, revival, and a recap of revocation by later will or codicil and partial destruction.

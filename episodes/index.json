@@ -1338,6 +1338,42 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws08-v23-p2-6346fe46.mp3",
       "pubDate": "2026-11-02T21:45:11+00:00"
+    },
+    {
+      "id": "wae-ws09-v23",
+      "unitId": "u-bpp-WAE-09",
+      "title": "WAE WS09 · Amending and republishing wills",
+      "guideHash": "942e984368",
+      "script": "scripts/wae-ws09-v23.txt",
+      "scriptHash": "50758c2fbdee",
+      "audio": "audio/wae-ws09-v23.mp3",
+      "recap": [
+        "Choosing the method: a codicil suits a small, simple change; a new will is better for substantial changes.",
+        "Incorporated documents, STEP provisions and letters of wishes: a look-up topic, covered in the Quizlet set.",
+        "Manuscript alterations: an alteration made after execution has no effect unless executed like a will or validated by a later confirming codicil, but original words made no longer apparent are revoked; unattested alterations are presumed to be made after execution, unless evidence rebuts that.",
+        "Exceptions: if the original words are still apparent they stand; if they are not apparent they are revoked, unless they were obliterated only to make way for a new gift that fails for want of execution, when conditional revocation applies and they can be proved by extrinsic evidence.",
+        "Codicils: made with the same formalities as a will, and read with it; where inconsistent, the codicil prevails and the rest of the will stands.",
+        "Republication: a codicil confirming the will makes it take effect as if executed at the codicil's date, subject to contrary intention.",
+        "Revocation and revival: revival needs re-execution or a duly executed codicil showing an intention to revive; revoking the revoking document is not enough, and a destroyed will cannot be revived, although a mistaken destruction may be a conditional revocation that fails.",
+        "Recap: destroying part of a will revokes only that part, unless the part destroyed is so important that the rest cannot stand."
+      ],
+      "map": [
+        "Ways to amend a will: choosing the method",
+        "Incorporated documents, STEP provisions and letters of wishes",
+        "Manuscript alterations under s.21",
+        "Exceptions: blank spaces, obliteration, conditional revocation",
+        "Codicils: what they are and how they read with the will",
+        "Republication by codicil",
+        "Revocation and revival by codicil (s.22)",
+        "Recap: revocation by later will or codicil, and partial destruction"
+      ],
+      "summary": "Choosing the method of amending a will, incorporated documents and letters of wishes, manuscript alterations, exceptions including obliteration and conditional revocation, codicils, republication, revival, and a recap of revocation by later will or codicil and partial destruction.",
+      "madeAt": "2026-11-03T08:43:07+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); Opus accuracy + line-by-line checks (2 + 3 findings, fixed); changed lines ok",
+      "spec": "2.2"
     }
   ],
   "replays": [
