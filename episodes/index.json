@@ -1369,11 +1369,19 @@
       ],
       "summary": "Choosing the method of amending a will, incorporated documents and letters of wishes, manuscript alterations, exceptions including obliteration and conditional revocation, codicils, republication, revival, and a recap of revocation by later will or codicil and partial destruction.",
       "madeAt": "2026-11-03T08:43:07+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); Opus accuracy + line-by-line checks (2 + 3 findings, fixed); changed lines ok",
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9165615,
+      "seconds": 1146,
+      "words": 2801,
+      "renderedHash": "50758c2fbdee",
+      "renderedAt": "2026-11-03T08:44:06+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/wae-ws09-v23-93e61484.mp3",
+      "pubDate": "2026-11-03T08:44:06+00:00"
     }
   ],
   "replays": [
