@@ -1546,7 +1546,7 @@
       ],
       "summary": "That was grounds of appeal, permission and time limits, routes of appeal, the appeal court's powers and fresh evidence, settlement, pre-trial checklists and listing, trial bundles and the case summary, and notices to prove documents and witness summonses.",
       "madeAt": "2026-11-03T21:43:35+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks, fixes applied, Opus changed-lines check passed",
@@ -1562,7 +1562,15 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 10592132,
+      "seconds": 1324,
+      "words": 3522,
+      "renderedHash": "e3568ba421a9",
+      "renderedAt": "2026-11-03T21:45:18+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p1-515f9730.mp3",
+      "pubDate": "2026-11-03T21:45:18+00:00"
     }
   ],
   "replays": [
