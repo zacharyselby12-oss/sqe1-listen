@@ -1,0 +1,208 @@
+---
+id: dr-ws09-v23-p1
+unit: u-bpp-DR-09
+guide_hash: 7d681bcb63
+made: 2026-11-03T21:43:35+00:00
+title: DR WS09 · Appeals and trial preparation (part 1 of 2)
+part: 1 of 2
+blocks: 1-8
+map:
+- Grounds of appeal and the nature of an appeal
+- Permission to appeal and time limits; no automatic stay
+- Routes of appeal
+- Powers of the appeal court and fresh evidence
+- Settlement: consent orders, Tomlin orders and settlement agreements
+- Pre-trial checklists and listing directions
+- Trial bundles, skeleton arguments and the case summary
+- Notices to prove documents and witness summonses
+recap:
+- Grounds of appeal and the nature of an appeal: the appeal court allows an appeal where the decision was wrong, or unjust because of a serious procedural or other irregularity; an appeal is normally a review, not a re-hearing, unless a practice direction provides otherwise or the court decides a re-hearing is in the interests of justice.
+- Permission to appeal and time limits; no automatic stay: permission is needed for appeals from a judge in the County Court or High Court, with exceptions; first appeals need a real prospect of success or another compelling reason, second appeals also an important point of principle or practice or another compelling reason; the appellant's notice is due within 21 days of the decision unless the lower court directs a different period, the parties cannot agree an extension, and an appeal does not stay the order unless a court orders one.
+- Routes of appeal: for a first appeal the level of the judge decides the destination, subject to limited specialist exceptions; any second appeal goes to the Court of Appeal; the Supreme Court needs permission.
+- Powers of the appeal court and fresh evidence: the court may affirm, set aside or vary, send back, order a new hearing and make orders on interest and costs; fresh evidence comes in only if it could not have been obtained with reasonable diligence for trial, would probably have had an important influence, and is apparently credible.
+- Settlement: a consent order or a Tomlin order is a court order, and a Tomlin order's scheduled terms can be enforced in the same proceedings; a settlement agreement not embodied in a court order must be sued on.
+- Pre-trial checklists and listing directions: the checklist checks readiness near the end, unlike the directions questionnaire; on the fast and intermediate tracks it is filed not more than 8 weeks before trial, and if no party files, the statements of case are struck out unless a completed checklist is filed within 7 days.
+- Trial bundles, skeleton arguments and the case summary: unless the court orders otherwise, the claimant files the bundle not more than 7 and not less than 3 days before trial; without prejudice correspondence and, with narrow exceptions, Part 36 offers stay out; the case summary should not normally exceed 500 words.
+- Notices to prove documents and witness summonses: a disclosed document's authenticity is deemed admitted unless notice to prove it is served in time; a witness summons requires a witness to attend and/or produce documents.
+summary: That was grounds of appeal, permission and time limits, routes of appeal, the appeal court's powers and fresh evidence, settlement, pre-trial checklists and listing, trial bundles and the case summary, and notices to prove documents and witness summonses.
+invented:
+- Jonas
+- Priyanka
+- Callum
+- Nadia
+- Oren
+- 24 days
+---
+## Map
+Will: This is part one of two. It covers appeals, then settlement and getting ready for trial. Part two picks up with the trial itself, judgments and enforcement.
+Hannah: Fine by me. Start with appeals, I take it.
+Will: Yes. Four questions, always in this order. What are the grounds and is it a re-hearing? Who gives permission, and by when must you file? Which court hears it? And what can that court do, including with new evidence?
+Hannah: So grounds, permission and time, route, powers. And then?
+Will: Then settlement, and the run-up to trial, in four steps. How a settlement is recorded and what if it is broken, then the pre-trial checklist, then the trial bundle, and last notices to prove and witness summonses.
+Hannah: So appeals first, then four steps towards trial. Settlement, checklist, bundle, notices and summonses.
+Will: Right. Starting with appeals.
+## Block 1: Grounds of appeal and the nature of an appeal
+Will: First topic: the grounds of appeal and what sort of thing an appeal is. When does an appeal court actually allow an appeal?
+Hannah: When the judge got it wrong, surely?
+Will: Nearly. There are two grounds. One: the lower court's decision was wrong. Two: it was unjust because of a serious procedural or other irregularity in the proceedings in the lower court. Wrong covers an error of law, an error of fact, or an error in the exercise of discretion.
+Hannah: So what is the difference between wrong and unjust, given they sound like the same complaint?
+Will: The fact that tells them apart is what you are attacking. Wrong attacks the decision itself. Unjust attacks the way the proceedings were run.
+Hannah: So the judge misread the law is wrong, and the judge let the hearing go off the rails is unjust.
+Will: Right, with the word serious in front of the irregularity. And keep this separate from permission. The permission test decides whether an appeal may proceed. The grounds decide whether it succeeds.
+Hannah: Next question. If I lose, can I just have the whole thing heard again, especially if the decision was so wrong the evidence needs another look?
+Will: That is the trap. An appeal is a review of the lower court's decision, not a re-hearing. The exceptions: unless a practice direction provides otherwise, or the court decides a re-hearing is in the interests of justice.
+Hannah: Why does it matter how the review works?
+Will: Because appeal courts leave a lot alone. They rarely interfere with findings of fact by a judge who heard the witnesses, and only if plainly wrong. And they rarely interfere with case-management decisions, only if outside the generous ambit of discretion or wrong in principle.
+Hannah: Where do the grounds actually get written down?
+Will: On a separate sheet attached to the appellant's notice, and they must set out concisely why the decision was wrong, or unjust because of a serious procedural or other irregularity. The Court of Appeal is different. There the reasons go in the skeleton argument, not the grounds, and the skeleton is filed with the appellant's notice. In the County Court and High Court, skeletons are filed only where the issues justify them.
+Hannah: So, in my words: wrong decision, or an unjust process, and normally a review rather than a re-hearing.
+Will: Right, and the re-hearing exceptions are a practice direction or the interests of justice.
+## Block 2: Permission to appeal and time limits; no automatic stay
+Will: Now permission to appeal and the time limits. The questions are who gives permission, on which test, and by when you must file.
+Hannah: Is permission always needed?
+Will: For any appeal from a decision of a judge in the County Court or High Court, yes, with three exceptions: an appeal against a committal order, made in the County Court or by a single High Court judge not sitting on appeal, a refusal of habeas corpus, or a secure accommodation order.
+Hannah: And who do I ask?
+Will: For a first appeal, you ask the lower court first, at the hearing where the decision is made, or an adjournment of it. If it refuses, or you did not ask, you ask the appeal court in the appellant's notice. For a second appeal, permission can come only from the Court of Appeal.
+Hannah: Is the test the same for both?
+Will: No, and this is the look-alike. For a first appeal, permission may be given only where the appeal would have a real prospect of success, or there is some other compelling reason for it to be heard. For a second appeal, the Court of Appeal gives permission only if the appeal would have a real prospect of success and raise an important point of principle or practice, or there is some other compelling reason.
+Hannah: So what tells them apart is whether the decision I am appealing was itself made on appeal.
+Will: Yes, that is the question to ask. A second appeal adds the point of principle or practice.
+Hannah: What about an appeal against a case management decision?
+Will: The court may consider whether the issue is significant enough to justify the costs of an appeal.
+Hannah: What else goes in the balance?
+Will: Whether the procedural consequences, such as losing the trial date, outweigh its significance. And whether it would be more convenient to decide it at or after trial. Also, permission may be limited to particular issues or granted subject to conditions, for example a payment into court.
+Hannah: Say the appeal court refuses permission on paper. Is that the end?
+Will: Not quite, if it is an appeal court other than the Court of Appeal. The applicant may ask for the decision to be reconsidered at an oral hearing. The request must be filed within 7 days after service of the refusal.
+Hannah: Any catch?
+Will: Yes. A High Court judge, Designated Civil Judge or Specialist Circuit Judge who considers the application totally without merit may order that no oral reconsideration may be requested. And in the Court of Appeal there is no right to request oral reconsideration at all. There, permission is decided on paper unless the judge directs an oral hearing, which the judge must do if it cannot fairly be decided on paper.
+Hannah: And if the oral hearing also says no?
+Will: No appeal lies from a decision of the appeal court refusing or granting permission. Here is the pair. The trial judge refuses permission at the hearing. The appellant may still apply to the appeal court in the appellant's notice. That is a fresh application, not an appeal against the refusal. Now a Circuit Judge, deciding as the appeal court, refuses permission at an oral reconsideration. No appeal lies from that, so the client cannot go on to the Court of Appeal.
+Hannah: So it depends which court refused. After the lower court, a fresh application. After the appeal court, nothing.
+Will: Right. Now time. The appellant's notice has a deadline. It is 21 days after the date of the decision being appealed. The lower court can direct a different period.
+Hannah: Twenty-one days from when the order is sealed, presumably.
+Will: Careful. Time runs from the date of the decision, not the date the order is sealed. And the parties cannot agree to extend appeal time limits. An extension must be sought from the appeal court, in the appellant's notice.
+Hannah: Is there a deadline for telling the other side?
+Will: A sealed copy must be served on each respondent as soon as practicable. Where the appellant serves it, the longstop is 14 days after it is sealed. The appeal court can order otherwise.
+Hannah: And the respondent? Say they want to cross-appeal.
+Will: A respondent who wants to appeal itself, or to have the decision upheld for different or additional reasons, must file a respondent's notice. Normally that is within 14 days of service of the appellant's notice, or of notice that permission has been given.
+Hannah: One more. If I appeal, does the order freeze?
+Will: No. An appeal does not stay the lower court's order unless the appeal court or the lower court orders otherwise. So the winner can enforce while the appeal is pending, unless a stay is obtained.
+Hannah: Test me on the time limit, then.
+Will: A story. The test is the time limit and who can extend it. Jonas lost at trial, and the trial judge gave no direction about the time for appealing. His opponent has agreed in writing that he can file late. Jonas files his appellant's notice 24 days after the decision. Is he in time?
+Hannah: In time because of the agreement, late unless the appeal court extends time, or in time because the clock ran from the sealed order?
+Will: <think>
+Hannah: This is the time limit. Twenty-one days runs from the decision, so 24 days is outside it. And the parties can't agree an extension between themselves.
+Will: Right: he is late unless the appeal court extends time. The agreement is worthless on this point, and the sealing date does not start the clock either.
+Hannah: So permission needs the right test and the right court, and the appellant's notice is due within 21 days of the decision unless the lower court directs a different period.
+Will: Right, and no automatic stay, so the winner can enforce unless a stay is obtained.
+## Block 3: Routes of appeal
+Will: On to routes of appeal. Which judge or court hears it?
+Hannah: Presumably the next one up.
+Will: Yes. Take the County Court first. A decision of a District Judge, or Deputy, goes to a Circuit Judge. A decision of a Circuit Judge, or Recorder, goes to a High Court judge.
+Hannah: And in the High Court?
+Will: A decision of a Master, ICC Judge or District Judge of the High Court goes to a High Court judge. A decision of a High Court judge goes to the Court of Appeal.
+Hannah: I remember something about final decisions on the multi-track going straight to the Court of Appeal.
+Will: That used to be the rule, and it was abolished. Now the destination depends on the level of judge, not on whether the decision was final or interim, and not on the track. There are limited specialist exceptions.
+Hannah: What about a second appeal?
+Will: Any second appeal goes to the Court of Appeal, for example District Judge to Circuit Judge to Court of Appeal.
+Hannah: And beyond?
+Will: From the Court of Appeal, an appeal lies to the Supreme Court with permission from the Court of Appeal or the Supreme Court, on a point of law of general public importance. A leapfrog from the High Court to the Supreme Court needs a High Court certificate and Supreme Court permission.
+Hannah: Give me a routes one.
+Will: Try this. The test is the level of judge, not the track. Callum's multi-track claim has an interim ruling by a District Judge in the County Court, and he wants to appeal it. Where does the appeal go?
+Hannah: To a Circuit Judge, to a High Court judge, or to the Court of Appeal?
+Will: <think>
+Hannah: This is routes of appeal. A District Judge's decision goes to a Circuit Judge, and the interim or multi-track point doesn't change that.
+Will: Right: a Circuit Judge, because the level of the judge fixes the destination whatever the track and whether the decision was final or interim.
+Hannah: So the level of judge decides a first appeal, subject to limited specialist exceptions, any second appeal goes to the Court of Appeal.
+Will: Yes, and the Supreme Court needs permission.
+## Block 4: Powers of the appeal court and fresh evidence
+Will: Next, the powers of the appeal court and fresh evidence. What can the court order, and will it admit new evidence?
+Hannah: Can it do more than say yes or no to the original order?
+Will: It can do more. The powers include affirming, setting aside or varying the order.
+Hannah: Anything beyond that?
+Will: Yes: referring a claim or issue back to the lower court, and ordering a new trial or hearing. It can also make orders for interest and costs.
+Hannah: And new evidence? Surely if it is new, it should come in.
+Will: Not so fast. The appeal court will not hear oral evidence, or evidence not before the lower court, unless it orders otherwise. Fresh evidence is admitted only if it meets three conditions, and you need all three. One: it could not have been obtained with reasonable diligence for trial. Two: it would probably have had an important influence on the result. Three: it is apparently credible.
+Hannah: So it must be unobtainable then, important and credible.
+Will: Right, all three.
+## Block 5: Settlement: consent orders, Tomlin orders and settlement agreements
+Will: Settlement is next: consent orders, Tomlin orders and settlement agreements. The question is whether the settlement is in a court order, and what follows if a party breaks it.
+Hannah: Start with the simple one.
+Will: A consent order. A settlement can be recorded in one. A court officer can enter certain consent orders, for example for payment of money, dismissal of the claim, or a stay on agreed terms.
+Hannah: Always?
+Will: No. That works only if no party is a litigant in person. And no rule, practice direction or enactment may require the court's approval, for example for a child or protected party.
+Hannah: And what does the order have to look like?
+Will: It must be drawn up in the agreed terms, expressed to be By Consent, and signed by each party's legal representative. Otherwise a party applies to the court for the order in the agreed terms.
+Hannah: Now the Tomlin one.
+Will: A Tomlin order stays the proceedings on terms set out in a schedule. The schedule can include matters outside the claim, and it may go beyond what the court could order. The schedule is part of the court record, so confidential terms are put in a separate document referred to in it.
+Hannah: And if somebody breaks the terms?
+Will: There is liberty to apply to enforce them in the same proceedings, without a new claim. One placement rule: payment of costs, and payment of money out of court, must be in the body of the order, not the schedule.
+Hannah: What about a deal done before any proceedings?
+Will: A settlement made before proceedings, or recorded only in a settlement agreement, is a contract. If it is broken, the innocent party must sue on the settlement agreement, unless it was embodied in a court order.
+Hannah: So that is the look-alike: Tomlin order breached, apply in the same proceedings; plain agreement breached, sue on it.
+Will: Yes, and the fact that tells them apart is whether the settlement was embodied in a court order. A story. The test is whether there is a court order. Nadia and Oren settle their dispute by a signed agreement before any claim is issued, and Oren does not pay. Where does Nadia go?
+Hannah: Apply to enforce in the same proceedings, sue on the agreement, or rely on liberty to apply?
+Will: <think>
+Hannah: This is settlement. There are no proceedings and no court order here, so there is nothing to apply within.
+Will: Right: she must sue on the settlement agreement, because it is a contract that was not embodied in a court order.
+Hannah: So a consent order or a Tomlin order is a court order, with a Tomlin order's scheduled terms enforceable in the same proceedings, and an agreement not in a court order must be sued on.
+Will: Yes.
+## Block 6: Pre-trial checklists and listing directions
+Will: Now pre-trial checklists and listing directions. What is the checklist for, and what follows once it is filed?
+Hannah: Is it the same as the directions questionnaire, given they sound alike?
+Will: Do not confuse them. The directions questionnaire is filed after the defence. It allocates the case to a track and sets directions. The pre-trial checklist, also called the listing questionnaire, is filed near the end, to check readiness and list the trial.
+Hannah: What goes into it?
+Will: It lets the court check that the parties have complied with directions and are ready. It also gives the information needed to fix or confirm the trial date and length, including witness and expert availability and a time estimate.
+Hannah: When is it filed? I always thought at least 8 weeks before trial.
+Will: That is the mistake. On the fast and intermediate tracks, the filing date is not more than 8 weeks before the trial date or the start of the trial period. On the multi-track, it is the date the court specifies in its directions. The court may dispense with checklists.
+Hannah: And if nobody files?
+Will: On the fast and intermediate tracks, if no party files by the date, the claim, defence and counterclaim are struck out unless a completed checklist is filed within 7 days.
+Hannah: Ouch. Is there a standard timetable for the fast track?
+Will: Yes, counted from notice of allocation, with six milestones. Disclosure is at 4 weeks. Witness statements are at 10 weeks.
+Hannah: Expert reports next?
+Will: Right: 14 weeks. Checklists are sent at 20 weeks, filed at 22 weeks, and the trial is at 30 weeks.
+Hannah: So checklists go out at 20 weeks, come back at 22, and the trial is at 30.
+Will: Yes. After that, on receipt of checklists, the court fixes or confirms the trial date and gives listing directions. Those directions include the trial timetable and the trial bundle.
+Hannah: And notice of the trial itself?
+Will: On the fast track, the court gives at least 3 weeks' notice. Exceptional circumstances are the exception.
+Hannah: And a pre-trial review?
+Will: Usually on the multi-track, shortly before trial, ideally before the trial judge. It checks directions are complied with and deals with outstanding issues. It also sets the trial timetable, including evidence and time limits for cross-examination and speeches. At least 7 days' notice is given of a decision to hold or cancel one.
+Hannah: So the checklist checks readiness near the end, unlike the questionnaire, and on the fast and intermediate tracks it is filed not more than 8 weeks before trial.
+Will: Right, and if nobody files, the statements of case are struck out unless a completed checklist is filed within 7 days.
+## Block 7: Trial bundles, skeleton arguments and the case summary
+Will: Trial bundles, skeleton arguments and the case summary. Who prepares the bundle, when is it filed, and what stays out?
+Hannah: What is it for?
+Will: It is a paginated, indexed set of the documents needed at trial. The judge can pre-read and the trial runs efficiently.
+Hannah: And the deadline?
+Will: Unless the court orders otherwise, the claimant must file it not more than 7 days and not less than 3 days before the start of the trial.
+Hannah: Who puts it together?
+Will: The claimant's legal representative prepares and lodges it, but the contents should be agreed with the other parties where possible. If not agreed, a summary of the points of disagreement is included. Identical copies go to all parties and for the witness box.
+Hannah: And what goes in it?
+Will: The usual contents are many documents including the claim form and statements of case, a case summary and or chronology, requests for further information and replies, and witness statements and summaries.
+Hannah: Is that all of it?
+Will: No. There are more documents including hearsay notices, notices for plans, photos and models, and medical and expert reports and replies.
+Hannah: And the rest?
+Will: Orders for the conduct of the trial, and any other necessary documents.
+Hannah: Is anything barred?
+Will: Yes, and the exam likes it. Without prejudice correspondence and Part 36 offers must not go in the bundle, as the trial judge must not see them before the case is decided. For Part 36 there are narrow exceptions, for example a tender-before-claim defence or the parties' written agreement.
+Hannah: And what status do the documents have once they are in?
+Will: Documents in an agreed bundle are admissible at the hearing as evidence of their contents, unless the court orders otherwise or a party gives written notice objecting to particular documents.
+Hannah: Anything on form?
+Will: Originals should be available at trial, and the court may direct a core bundle or electronic bundles, with numbered dividers for large ones. Skeleton arguments are commonly exchanged shortly before trial.
+Hannah: And the case summary?
+Will: The claimant should prepare one. It should not normally exceed 500 words. It covers a brief chronology, agreed and disputed issues of fact, and the evidence needed, agreed with the other parties if possible.
+Hannah: So the claimant files it within that window unless the court orders otherwise, and without prejudice material stays out.
+Will: Right, and Part 36 offers stay out too, with narrow exceptions.
+## Block 8: Notices to prove documents and witness summonses
+Will: Last in this part: notices to prove documents and witness summonses. How do you challenge a disclosed document, and how do you make a witness attend?
+Hannah: Do I just object at trial?
+Will: Not safely. A party is deemed to admit the authenticity of a document disclosed to it unless it serves notice requiring the document to be proved at trial. The notice is due by the latest date for serving witness statements, or within 7 days of disclosure, whichever is later.
+Hannah: So silence means I accept the document is genuine.
+Will: Right, authenticity is deemed admitted.
+Hannah: And a witness who will not come?
+Will: A witness summons is a document issued by the court requiring a witness to attend court to give evidence and, or, to produce documents to the court.
+Hannah: So a disclosed document's authenticity is deemed admitted unless notice to prove is served in time, and a witness summons makes a witness attend or produce documents.
+Will: Right. That is part one. The trial, judgments and enforcement come in part two.
+## Recap
+Hannah: Good, that's the lot for this part.
+Will: That was grounds of appeal, permission and time limits, routes of appeal, the appeal court's powers and fresh evidence, settlement, pre-trial checklists and listing, trial bundles and the case summary, and notices to prove documents and witness summonses.

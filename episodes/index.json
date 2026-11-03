@@ -1515,6 +1515,54 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws09-v23-p2-8aba28a2.mp3",
       "pubDate": "2026-11-03T17:46:11+00:00"
+    },
+    {
+      "id": "dr-ws09-v23-p1",
+      "unitId": "u-bpp-DR-09",
+      "title": "DR WS09 · Appeals and trial preparation (part 1 of 2)",
+      "guideHash": "7d681bcb63",
+      "script": "scripts/dr-ws09-v23-p1.txt",
+      "scriptHash": "e3568ba421a9",
+      "audio": "audio/dr-ws09-v23-p1.mp3",
+      "recap": [
+        "Grounds of appeal and the nature of an appeal: the appeal court allows an appeal where the decision was wrong, or unjust because of a serious procedural or other irregularity; an appeal is normally a review, not a re-hearing, unless a practice direction provides otherwise or the court decides a re-hearing is in the interests of justice.",
+        "Permission to appeal and time limits; no automatic stay: permission is needed for appeals from a judge in the County Court or High Court, with exceptions; first appeals need a real prospect of success or another compelling reason, second appeals also an important point of principle or practice or another compelling reason; the appellant's notice is due within 21 days of the decision unless the lower court directs a different period, the parties cannot agree an extension, and an appeal does not stay the order unless a court orders one.",
+        "Routes of appeal: for a first appeal the level of the judge decides the destination, subject to limited specialist exceptions; any second appeal goes to the Court of Appeal; the Supreme Court needs permission.",
+        "Powers of the appeal court and fresh evidence: the court may affirm, set aside or vary, send back, order a new hearing and make orders on interest and costs; fresh evidence comes in only if it could not have been obtained with reasonable diligence for trial, would probably have had an important influence, and is apparently credible.",
+        "Settlement: a consent order or a Tomlin order is a court order, and a Tomlin order's scheduled terms can be enforced in the same proceedings; a settlement agreement not embodied in a court order must be sued on.",
+        "Pre-trial checklists and listing directions: the checklist checks readiness near the end, unlike the directions questionnaire; on the fast and intermediate tracks it is filed not more than 8 weeks before trial, and if no party files, the statements of case are struck out unless a completed checklist is filed within 7 days.",
+        "Trial bundles, skeleton arguments and the case summary: unless the court orders otherwise, the claimant files the bundle not more than 7 and not less than 3 days before trial; without prejudice correspondence and, with narrow exceptions, Part 36 offers stay out; the case summary should not normally exceed 500 words.",
+        "Notices to prove documents and witness summonses: a disclosed document's authenticity is deemed admitted unless notice to prove it is served in time; a witness summons requires a witness to attend and/or produce documents."
+      ],
+      "map": [
+        "Grounds of appeal and the nature of an appeal",
+        "Permission to appeal and time limits; no automatic stay",
+        "Routes of appeal",
+        "Powers of the appeal court and fresh evidence",
+        "Settlement: consent orders, Tomlin orders and settlement agreements",
+        "Pre-trial checklists and listing directions",
+        "Trial bundles, skeleton arguments and the case summary",
+        "Notices to prove documents and witness summonses"
+      ],
+      "summary": "That was grounds of appeal, permission and time limits, routes of appeal, the appeal court's powers and fresh evidence, settlement, pre-trial checklists and listing, trial bundles and the case summary, and notices to prove documents and witness summonses.",
+      "madeAt": "2026-11-03T21:43:35+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks, fixes applied, Opus changed-lines check passed",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
