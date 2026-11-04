@@ -1608,7 +1608,7 @@
       ],
       "summary": "That was trial and judgment, judgments and orders, the Debt Respite Scheme, investigating the debtor's means, choosing a method and court, enforcing a judgment abroad, taking control of goods, third party debt orders, charging orders, attachment of earnings orders, and insolvency proceedings.",
       "madeAt": "2026-11-04T08:43:19+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks, fixes applied, Opus changed-lines check passed",
@@ -1627,7 +1627,15 @@
         "b19",
         "b20"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9912537,
+      "seconds": 1239,
+      "words": 3204,
+      "renderedHash": "734dea8466a5",
+      "renderedAt": "2026-11-04T08:44:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p2-6db20a18.mp3",
+      "pubDate": "2026-11-04T08:44:19+00:00"
     }
   ],
   "replays": [
