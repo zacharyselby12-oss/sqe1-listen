@@ -2077,11 +2077,19 @@
       ],
       "summary": "We covered insolvency and the statutory demand, directors in difficulty, the standalone moratorium, the company voluntary arrangement, restructuring plans, order of priority, personal insolvency and the IVA, bankruptcy, discharge, voidable transactions, administration, the administrator in office, receivership, liquidation, voluntary liquidation, and the office-holder's claims.",
       "madeAt": "2026-11-04T21:43:12+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 4 hits, all cleared by the Opus accuracy check (script states the correct rule); Opus accuracy + line-by-line checks (12 findings fixed, 2 further rounds of fixes); changed lines ok (final check passed, 0 problems); hash re-checked r202611042119: stored guideHash c0e11eba0c equals the guide text hash now, script unchanged",
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 16939057,
+      "seconds": 2117,
+      "words": 5235,
+      "renderedHash": "eedb63e55c92",
+      "renderedAt": "2026-11-04T21:44:25+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws09-v23-f20adf11.mp3",
+      "pubDate": "2026-11-04T21:44:25+00:00"
     }
   ],
   "replays": [
