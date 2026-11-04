@@ -66,12 +66,24 @@ def area_of(ep):
     return (m.group(1), int(m.group(2))) if m else (None, None)
 
 
-def items_for(index):
+def items_for(index, fixes=None):
+    """Every item of the feed, newest first. `fixes` (config's "feedFixes", b145): a part listed there goes into the feed under its
+    new GUID, so podcast apps treat it as a new episode (DR WS08 and WS09, Nov 2026: Apple kept refusing the old ones). The new GUID
+    goes out only with the new file: while a part's audio hasn't been copied to its "audioName" yet, it keeps its old GUID."""
+    fixes = fixes or {}
+
+    def guid(e):
+        f = fixes.get(e["id"]) or {}
+        name = (e.get("audioUrl") or "").split("?")[0].rsplit("/", 1)[-1]
+        if f.get("guid") and (not f.get("audioName") or name == f["audioName"]):
+            return f["guid"]
+        return "sqe1listen-" + e["id"]
+
     eps = {e["id"]: e for e in index.get("episodes", [])}
     items = []
     for e in eps.values():
         if e.get("status") == "published" and e.get("pubDate"):
-            items.append({"guid": "sqe1listen-" + e["id"], "title": e["title"], "ep": e,
+            items.append({"guid": guid(e), "title": e["title"], "ep": e,
                           "pub": parse_dt(e["pubDate"]), "notes": _notes(e), "replay": False})
     for r in index.get("replays", []):
         e = eps.get(r["episodeId"])
@@ -114,7 +126,7 @@ def build(index, config, base_url, out_path, area=None):
     _text(ch, q("itunes", "explicit"), "false")
     _text(ch, q("itunes", "type"), kind)   # an area is "serial": Apple Podcasts lists it in workshop order
     _text(ch, q("itunes", "block"), "Yes")  # private: never listed in Apple's directory
-    items = [it for it in items_for(index) if area is None or area_of(it["ep"])[0] == area]
+    items = [it for it in items_for(index, config.get("feedFixes")) if area is None or area_of(it["ep"])[0] == area]
     if area:   # a subject's show lists each episode once, in course order: no Replay duplicates (Zac, 27 Oct)
         items = [it for it in items if not it["replay"]]
     number = {}
@@ -155,7 +167,7 @@ def build_all(index, config, base_url, site):
     """feed.xml, one feed per area of law that has episodes, and the page that lists them. Returns item counts."""
     site = Path(site)
     counts = {"all": build(index, config, base_url, site / "feed.xml")}
-    areas = sorted({area_of(it["ep"])[0] for it in items_for(index)} - {None})
+    areas = sorted({area_of(it["ep"])[0] for it in items_for(index, config.get("feedFixes"))} - {None})
     for a in areas:
         counts[a] = build(index, config, base_url, site / "feeds" / ("%s.xml" % a), area=a)
     subscribe_page(config, base_url, counts, site / "subscribe" / "index.html")

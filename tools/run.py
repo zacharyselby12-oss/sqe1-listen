@@ -89,6 +89,42 @@ def upload_audio(path, asset_name):
     return "https://github.com/%s/releases/download/%s/%s" % (repo, AUDIO_RELEASE, asset_name)
 
 
+def fetch_audio(url, path):
+    """(b145) Download a published MP3 from its public address to path."""
+    import urllib.request
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with urllib.request.urlopen(url.split("?")[0], timeout=300) as r, open(path, "wb") as f:
+        shutil.copyfileobj(r, f)
+
+
+def copy_fixed_audio(index, config, fake=False):
+    """(b145) A published part listed in config's "feedFixes" with an "audioName" gets the same MP3 under that new file name in the
+    release (copied, not made again), and its audioUrl points there, so phones fetch it afresh. Done once: a part whose audioUrl
+    already ends in its audioName is left alone."""
+    fixes = config.get("feedFixes") or {}
+    if not fixes or fake or not os.environ.get("GITHUB_REPOSITORY") or not shutil.which("gh"):
+        return   # only in GitHub Actions, where the upload can happen
+    for ep in index["episodes"]:
+        new = (fixes.get(ep["id"]) or {}).get("audioName")
+        url = ep.get("audioUrl") or ""
+        if not new or fake or ep.get("status") != "published" or not url or url.split("?")[0].rsplit("/", 1)[-1] == new:
+            continue
+        tmp = ROOT / "audio" / new
+        try:
+            fetch_audio(url, tmp)
+            if ep.get("bytes") and tmp.stat().st_size != ep["bytes"]:   # a download cut short raises nothing: never upload a short file
+                raise IOError("downloaded %d bytes, expected %d" % (tmp.stat().st_size, ep["bytes"]))
+            stored = upload_audio(tmp, new)
+            if stored:
+                ep["audioUrl"] = stored
+                print("  audio copied for %s: %s" % (ep["id"], stored), flush=True)
+        except Exception as e:  # noqa: BLE001
+            print("  could not copy the audio of %s yet: %s" % (ep["id"], e), flush=True)
+        finally:
+            if tmp.exists():
+                tmp.unlink()
+
+
 def store_audio(ep, voices_text):
     """Upload the episode's MP3 under a name that changes whenever the script or the voices change."""
     import hashlib
@@ -412,6 +448,7 @@ def main():
                                     "ok": [r["id"] for r in results if r["ok"]],
                                     "failed": [r["id"] for r in results if not r["ok"]]})
 
+    copy_fixed_audio(index, config, fake)   # (b145) the parts listed in config's feedFixes: their audio under a new file name
     for ep in index["episodes"]:  # audio made before the release storage existed: move it there
         if (ep.get("status") in ("published", "review") and not ep.get("audioUrl") and (ROOT / ep["audio"]).exists()
                 and not fake):

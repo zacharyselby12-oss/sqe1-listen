@@ -110,5 +110,24 @@
     "u-bpp-Contract-06",
     "u-bpp-Contract-07",
     "u-bpp-WAE-07"
-  ]
+  ],
+  "feedFixes": {
+    "dr-ws08-v23-p1": {
+      "guid": "sqe1listen-dr-ws08-v23-p1-r2",
+      "audioName": "dr-ws08-v23-p1-r2-e01b39fd.mp3"
+    },
+    "dr-ws08-v23-p2": {
+      "guid": "sqe1listen-dr-ws08-v23-p2-r2",
+      "audioName": "dr-ws08-v23-p2-r2-7818e9ef.mp3"
+    },
+    "dr-ws09-v23-p1": {
+      "guid": "sqe1listen-dr-ws09-v23-p1-r2",
+      "audioName": "dr-ws09-v23-p1-r2-515f9730.mp3"
+    },
+    "dr-ws09-v23-p2": {
+      "guid": "sqe1listen-dr-ws09-v23-p2-r2",
+      "audioName": "dr-ws09-v23-p2-r2-6db20a18.mp3"
+    }
+  },
+  "feedFixesNote": "b145 (Nov 2026): keep feedFixes for good. Removing it brings back the old GUIDs, which Apple refused on Zac's phone."
 }
