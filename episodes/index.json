@@ -1667,7 +1667,9 @@
         "b2",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "lastError": "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/sqe1-listen/sqe1-listen/scripts/pp-ws09-v23-p1.txt'",
+      "renderTries": 1
     }
   ],
   "replays": [
