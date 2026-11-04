@@ -1,0 +1,167 @@
+---
+id: contract-ws08-v23-p1
+unit: u-bpp-Contract-08
+guide_hash: 4583847726
+made: 2026-11-04T17:47:25+00:00
+title: Contract WS08 · Breach, termination and frustration · Part 1 of 2 · Ending without breach
+part: 1 of 2
+blocks: 1-3
+map:
+- Introduction to discharge: expiry and consumer cancellation
+- Discharge by performance: entire obligations and tender
+- Discharge by agreement: releases, conditions and termination clauses
+recap:
+- Expiry or full performance ends a contract automatically, without notice, but accrued rights stay enforceable; a consumer may cancel a distance or off-premises contract without a reason, subject to exclusions.
+- Partial performance of an entire obligation earns nothing unless one of four exceptions applies; a party in breach has no quantum meruit unless the other side freely chose to accept; a wrongly refused tender of goods or services discharges the performer, but a refused tender of money does not discharge the debt.
+- A release by a party that has fully performed needs fresh consideration or a deed; a failed condition precedent releases both sides without liability; a termination clause works only if its specified event has happened and it was operated strictly; an absolute right may be used for any reason or none.
+summary: Contracts end without breach by expiry or full performance and by a consumer's cancellation; by performance, subject to the entire obligations rule, its four exceptions and tender; and by agreement, conditions, termination clauses and reasonable notice.
+invented:
+- Oriel
+- Dev
+- Tamsin
+- Joss
+- Priya
+- Callum
+- Marguerite
+- Tuesday
+- Wednesday
+---
+## Map
+Will (warm): Right. Say you've hired a builder, or signed up to a service, and now somebody wants out. What you can do, and what you still owe, depends on how the contract ends. And a lot of the ways it can end don't involve anyone breaking anything.
+Hannah (wary): So nobody's done anything wrong, and the contract's over anyway.
+Will: Right, that's this episode. It's the first half of the workshop, and breach and frustration are in the other half, so we're leaving those alone. Three topics today, in this order.
+Hannah: Go on.
+Will: Question one: how does a contract end by running out, or by a consumer cancelling? Question two: what can you get if you've only done part of the job, and what happens when somebody refuses your offer to perform? Question three: when can an agreement, a condition or a term of the contract itself bring it to an end?
+Hannah (brisk): Running out and cancelling. Part-performance and tender. Agreements, conditions and clauses. Fine.
+Will (pleased): Right. Let's start at the easy end.
+## Block 1: Introduction to discharge: expiry and consumer cancellation
+Will: So, first topic: introduction to discharge, expiry and consumer cancellation. How can a contract end when nobody has done anything wrong?
+Hannah: Well, it could just run out. A one-year hire, and the year's up.
+Will: Right: a contract for a fixed term, or to carry out a specific task, ends automatically when the term expires or the task is fully performed. No notice is needed, and both sides are discharged from their future obligations.
+Hannah (wary): Does everything just vanish, though? Say there's an unpaid invoice.
+Will: Good instinct, because it doesn't. Rights that accrued before the end stay enforceable, such as unpaid invoices or claims for earlier breaches. It ends for the future, but what was already owed is still owed.
+Hannah (dry): The contract ends. The bill doesn't.
+Will (amused): Right. And that's the look-alike with termination for breach. Expiry means the term simply ended or the task was completed, so there's no breach and no notice. Termination for breach is a different route.
+Hannah: Okay, but what if I'm a customer and I just change my mind?
+Will: That's the second route, consumer cancellation. It covers a distance or off-premises contract between a consumer and a trader, like ordering something online, and the consumer can cancel without giving any reason.
+Hannah: How long do I get?
+Will (brisk): The period is 14 days. Where it starts depends on what you bought. For goods, it runs from the day after they come into your physical possession. For services or digital content, it runs from the day after the contract is made.
+Hannah (thinking aloud): So with a parcel, the clock starts the day after it's actually in my hands, not the day I clicked buy.
+Will: Right: for goods it's physical possession that counts. For a streaming subscription, it's the day after the contract is made.
+Hannah: And if the trader never bothers to tell me about any of this?
+Will: Then the period is extended. The extension is up to 12 months. If the cancellation information is given sooner, the period ends 14 days after it's received. And some contracts are excluded from the right altogether, so it isn't universal.
+Hannah (sceptical): Isn't this just the right to reject faulty goods, though?
+Will: Look-alike, and a nice one to muddle. Cancellation needs no reason and no fault. The short-term right to reject needs goods that don't conform to the contract.
+Hannah: Cancelling needs nothing. Rejecting needs something wrong with the goods.
+Will: Right. Let me try that on you. Oriel orders a lamp online from a trader called Dev. It arrives on a Tuesday and works perfectly, but she's decided she hates it. Can she cancel?
+Hannah: Cancel without any reason, cancel only because the lamp is faulty, or not at all?
+Will: <think>
+Hannah (thinking aloud): It's a distance contract, a consumer and a trader, so cancellation applies and she needs no reason. The faulty-goods point is the other look-alike, and it's a trap here. The period runs from the day after the lamp comes into her possession, so from the Wednesday.
+Will: Right: she can cancel without giving a reason, and the 14 days start the day after it arrives. Her lamp working perfectly doesn't matter, because cancellation needs no fault.
+Hannah: Is that all the ways out without a breach?
+Will (dry): Not even close. There are nine routes where no breach is needed. The first group is the self-running ones: expiry or the task performed, a condition subsequent, and consumer cancellation.
+Hannah: And then?
+Will: The second group depends on the contract's own wording: a termination clause, a convenience clause and force majeure. The third group is about timing and agreement: an indefinite contract ended on reasonable notice, a condition precedent that fails, and an agreement. We take the catch on each of those as we meet them.
+Hannah (brisk): Nine routes, three groups, and none of them needs a breach.
+Will: Right. Now, question two.
+## Block 2: Discharge by performance: entire obligations and tender
+Will: Now from ending without breach to discharge by performance, entire obligations and tender. Picture someone who starts a job and doesn't finish. What can they claim?
+Hannah (guessing): Something for the work they did? That's only fair.
+Will: Not quite, and that's the point of this topic. First ask whether complete performance is a condition of payment. If it is, that's an entire obligation, and partial performance earns nothing. That's the rule in Cutter and Powell.
+Hannah (incredulous): Nothing? You could do nearly all the job.
+Will (dry): Unless one of four exceptions applies. And the exam question turns on whether you spot which one, or that none fits.
+Hannah: Four exceptions, then. Give me them.
+Will: One, substantial performance. The work is complete apart from minor defects, so the price is payable, less the cost of putting the defects right.
+Hannah (wary): And what counts as minor?
+Will: There's no substantial performance where the defects are significant. A heating system that heats badly and gives off fumes is the example. Two, severable obligations. Where payment is by instalment or by stage, each part is paid for as it's performed.
+Hannah: So a job paid stage by stage isn't all or nothing.
+Will: Right. Three, free acceptance. Accepting partial work counts only where there was a real choice, so it doesn't apply to work done on the acceptor's land. Four, prevention. If the other party prevents completion, the performer may claim a reasonable sum for the work done.
+Hannah (thinking aloud): Substantial, severable, free acceptance, prevention. Complete apart from small defects, paid in stages, genuinely chose to take it, or stopped from finishing.
+Will: Right, those are the four. Now the one the exam loves: a party who is in breach of an entire obligation by only partly performing. Three steps. One, did they perform only partly? Two, if so, they have no quantum meruit claim. Three, the exception is where the innocent party freely chose to accept the partial performance.
+Hannah: And quantum meruit is the reasonable sum for work done.
+Will: Right, and a party in breach doesn't get it, unless there was free acceptance. The classic case is Sumpter and Hedges. A builder abandons the work half way on the owner's land, and the owner keeps the buildings because there's nowhere else for them to go.
+Hannah (sceptical): Surely keeping them means he accepted the work.
+Will: Not quite. Keeping buildings left on your own land is not free acceptance, because the owner has no real choice. He pays only for loose materials left on site that he chose to use.
+Hannah (groaning): So the builder who walks off gets almost nothing.
+Will: Right. And here's the trap. People say the builder substantially performed. He didn't: the work was abandoned half way, not substantially completed, so there's no claim for the price less defects.
+Hannah: What's the look-alike, then?
+Will: Three builders. The one who abandons recovers only on free acceptance. The one prevented by the other party claims without any acceptance, as in Planché and Colburn. And the one who is substantially complete gets the price less defects.
+Hannah (brisk): Abandoned, prevented, nearly finished. Three different answers.
+Will: Right. Test it. Tamsin agrees to build a garden shed on Joss's land for one price, payable on completion. She builds half of it and then walks away for no reason. What can she claim?
+Hannah: The full price, the price less defects, a reasonable sum for the work, or nothing?
+Will: <think>
+Hannah (thinking aloud): Payable on completion, so it's an entire obligation. She's in breach by abandoning it, so no quantum meruit. Free acceptance is the only way in, but it's his land, so no real choice. And half a shed isn't substantial performance. So nothing.
+Will: Right: nothing. Keeping the half-built shed on his own land isn't free acceptance, and abandoning it half way isn't substantial performance.
+Hannah: And what if the owner had refused to let her finish?
+Will: Then it's prevention, which is exception four, and she could claim a reasonable sum for the work done.
+Hannah (curious): Okay. And the last bit of this topic is tender?
+Will: Yes. Tender means offering to perform. A wrongly refused tender of conforming goods or services discharges the performer, who can then sue for breach. That's Startup and Macdonald.
+Hannah: But money is different.
+Will: Right: a refused tender of money does not discharge the debt. The debtor can pay into court to avoid further costs.
+Hannah (brisk): Goods or services wrongly refused, I'm discharged. Money refused, I still owe it.
+Will: Yes. That's the contrast to hold on to.
+## Block 3: Discharge by agreement: releases, conditions and termination clauses
+Will: Now from performance to discharge by agreement, releases, conditions and termination clauses. The question here is when an agreement, a condition or a term of the contract can end it. Start with agreement. Ask first whether both sides still had obligations to perform.
+Hannah (guessing): If both still owe something, they just agree to let each other off.
+Will: Right. In bilateral discharge, where both parties still have obligations, each party's release is the consideration for the other's.
+Hannah: And if one side has already done everything?
+Will: That's what the exam question turns on. Where one party has fully performed, its release needs fresh consideration, which is accord and satisfaction, or a deed.
+Hannah (wary): So it can't just say "forget it" for nothing.
+Will: Right: not as a binding release. But promissory estoppel may still prevent the releasing party going back on a release given for nothing.
+Hannah (thoughtful): So the fully performed party needs fresh consideration or a deed, but estoppel can still bind it.
+Will: Right, both halves. Next, conditions. A condition precedent means the contract, or the obligations to perform, don't take effect unless the event occurs. A condition subsequent is different: an existing contract ends when the event occurs.
+Hannah: So precedent is before it starts, subsequent is after it's running.
+Will: Yes, that's the look-alike. Whether the contract was already in force. A precedent stops obligations arising, and a subsequent ends an existing contract.
+Hannah (sceptical): And if the precedent condition never happens?
+Will: This one is starred. If it isn't met in the stated time, or within a reasonable time if none is stated, both parties are released without liability. Then four bits of small print on conditions, all about who can rely on what.
+Hannah: Go on.
+Will: One, a party for whose sole benefit a condition precedent was included may waive it. Two, a party cannot rely on non-fulfilment of a condition it prevented itself. Three, a party may be under an express or implied obligation to use reasonable efforts to bring the condition about. Four is the one we've already had: the failed condition releases both sides.
+Hannah (thinking aloud): So if I'm the one who sabotaged it, I can't walk away and say the condition failed.
+Will: Right. Here's one for you. Callum agrees to buy Priya's flat, but only if he gets a mortgage offer within the time stated in the contract. Callum applies promptly and does everything he reasonably can, but no offer arrives in time, and nobody did anything to stop it. Are they both released, can Priya sue him for breach, or does Callum have to go ahead and buy?
+Hannah: Both released, Priya sues, or Callum completes?
+Will: <think>
+Hannah (thinking aloud): It's a condition precedent, and it wasn't met in the stated time. Nobody prevented it. So both parties are released without liability.
+Will: Right: both released without liability. If Callum had blocked the offer himself, he couldn't rely on the failure.
+Hannah: Okay, express termination clauses. The ones in the contract itself.
+Will: Right. Clause events include insolvency, change of control, failure to remedy within a set period, and convenience on notice. That's an open list, just examples.
+Hannah (curious): And what's the key thing about them?
+Will: Two starred points. First, the clause operates when its event occurs, even if there's no breach or the breach is not repudiatory. Second, strict compliance. That covers who may serve notice, its form, any cure period, and timing.
+Hannah: Four things, then: who, form, cure period, timing.
+Will: Yes. And that leads to the danger. A party that terminates without complying, or before the event has happened, is likely itself in repudiatory breach.
+Hannah (wary): So the clause is a weapon that goes off in your own hand.
+Will (laughing): Right, if you use it wrongly. Try it. Dev's firm has a contract that lets either side end it if the other becomes insolvent. Dev is nervous about the other firm and sends a termination letter, but it has not become insolvent. Is Dev's termination valid, or is Dev likely to be in repudiatory breach?
+Hannah: Valid, or Dev in repudiatory breach?
+Will: <think>
+Hannah (thinking aloud): The clause only operates when its specified event has happened. It hasn't, so he's terminated before the event. That's likely repudiatory breach by Dev.
+Will: Right: terminating before the event has happened is likely itself a repudiatory breach, so Dev has put himself in the wrong.
+Hannah: What about convenience clauses? Where you can end it just because you want to.
+Will: This is the absolute right to terminate, for convenience on notice, for example. It may be exercised for any reason or none.
+Hannah (sceptical): Surely it has to be exercised fairly.
+Will: Careful. The implied duty to act rationally, in good faith or for a proper purpose applies only to discretions, meaning an assessment or a choice between options. That's Braganza. A plain absolute right carries no such duty.
+Hannah: So a discretion has to be exercised properly, but an absolute right doesn't.
+Will: Right. Last piece: contracts with no end date. An indefinite contract isn't necessarily perpetual. Whether it can be ended is a matter of construction.
+Hannah: And if it says nothing about ending it?
+Will: Then the law implies a reasonable notice term, but not where the parties intended the contract to be permanent or to last until a particular event.
+Hannah (wary): How much notice is reasonable?
+Will: Reasonable notice depends on the circumstances when notice is given. One week may be too short for a long-standing agreement.
+Hannah: And if it is too short?
+Will: That's the look-alike with repudiation. Reasonable notice needs no breach, but notice that is too short may itself be wrongful.
+Hannah (brisk): Right notice, no breach. Too short, possibly a wrong in itself.
+Will: Yes. Now let's go through the nine routes once more with the catch for each, because that's how it comes up.
+Hannah: Go on, what's in group one?
+Will: Expiry or task performed: automatic, no notice, accrued rights survive. Condition subsequent: the contract ends when the event occurs, and it was already in force. Consumer cancellation: no reason needed, 14 days, with up to 12 months more if the information isn't given, and some contracts are excluded.
+Hannah (thinking aloud): Accrued rights survive, already in force, and the exclusions.
+Will: Right. Group two. A termination clause works strictly per its terms, and non-compliance is likely repudiation. A convenience clause allows any reason or none, with no implied duty of rationality or good faith. And force majeure lets a party be excused, suspend or terminate per the clause, but the party must prove the event and causation, and a cost rise is usually not enough.
+Hannah: Strictly, no duty, and prove it.
+Will: Yes. Group three. An indefinite contract carries an implied reasonable notice term, unless it was meant to be permanent or to last until an event. A condition precedent that fails releases both sides, unless the party prevented it. And an agreement means mutual releases, or fresh consideration or a deed if one side has fully performed.
+Hannah (brisk): Not if permanent, not if prevented, and a fully performed party needs more.
+Will (pleased): Right. That's all three topics.
+## Recap
+Hannah: Three topics, then. What's the first one?
+Will: Expiry or full performance ends a contract automatically, without notice, but accrued rights stay enforceable. A consumer may cancel a distance or off-premises contract without a reason, and some contracts are excluded.
+Hannah (thoughtful): Partial performance of an entire obligation earns nothing, unless one of the four exceptions applies. A party in breach has no quantum meruit unless the other side freely chose to accept the work.
+Will: Right, and a wrongly refused tender of goods or services discharges the performer, but a refused tender of money does not discharge the debt.
+Hannah: And agreement?
+Will: A release by a party that has fully performed needs fresh consideration or a deed. A failed condition precedent releases both sides without liability. A termination clause works only if its specified event has happened and it was operated strictly. An absolute right may be used for any reason or none.
+Hannah (teasing): And the other half of the workshop?
+Will (warm): That's the next episode, so here is this one in a sentence. Contracts end without breach by expiry or full performance and by a consumer's cancellation; by performance, subject to the entire obligations rule, its four exceptions and tender; and by agreement, conditions, termination clauses and reasonable notice.

@@ -1,0 +1,144 @@
+---
+id: contract-ws07-v23-p3
+unit: u-bpp-Contract-07
+guide_hash: f2380f3c3a
+made: 2026-11-04T17:47:25+00:00
+title: Contract WS07 · Mistake and Privity (part 3 of 3) · Illegality and restraint
+part: 3 of 3
+blocks: 6-7
+map:
+- Illegality
+- Restraint of trade
+recap:
+- Illegality. If a statute settles the effect, that governs; if not, the court weighs purpose, other public policy and proportionality, and money paid is normally recoverable.
+- Restraint of trade. The party relying on a covenant must show a legitimate interest and that it is no wider than reasonably necessary, and an employer that wrongfully dismissed, with the employee accepting that breach, cannot enforce even a reasonable one.
+summary: Illegality: unless a statute decides, a claim is barred only if enforcing it would harm the legal system's integrity; restraint of trade: a covenant is void unless its enforcer shows it protects a legitimate interest and is no wider than reasonably necessary.
+invented:
+- Xavier
+- Yasmin
+- Corvin Shipping
+- Dara
+- Priya
+- Halden Print
+- Oakes
+- Mina
+- £10,000 (from the source scenario)
+---
+## Map
+Will (warm): Right. Picture a client who comes in with a deal that went sour, and halfway through the story it turns out the deal was a bit dodgy. Can they still sue, and can they get their money back?
+Hannah (wary): That sounds like a mess. Where do we even start?
+Will: Two questions, in this order. Illegality: when does it stop a party enforcing a contract or getting its money back? And then restraint of trade: when is a covenant that limits someone's work void, and what happens to the rest of the contract?
+Hannah: So illegality first, then restraint of trade.
+Will: Right. Mistake and privity are in the other two parts, so we leave those alone today.
+Hannah (teasing): Good. I only have so many brain cells.
+## Block 6: Illegality
+Will (brisk): Illegality, then. When does it stop someone enforcing a contract, or getting their money back?
+Hannah (confident): Easy. An illegal contract is void and the courts won't enforce it. End of story.
+Will (amused): Not quite: that's the tempting answer, and it's wrong. There is no fixed rule that illegality always bars a claim.
+Hannah (mock-outraged): What? Then what do the courts actually do?
+Will: Two steps. First you ask whether a statute settles the effect. If it does, the statute governs. If it doesn't, the court asks one big question from Patel and Mirza: would enforcing the claim harm the integrity of the legal system?
+Hannah (sceptical): That sounds airy. How does a judge answer it?
+Will: By weighing. There are three things to weigh. One: the underlying purpose of the prohibition that was broken, and whether denying the claim would enhance that purpose. Two: any other relevant public policy that denying the claim might affect. Three: whether denying the claim is proportionate.
+Hannah (thinking aloud): Proportionate to what, though?
+Will: That's where the detail sits. You consider how serious the illegality was, how central it was to the contract, whether the party intended it, and whether there's a marked difference in culpability between the two sides. And remember that punishment is a matter for the criminal courts.
+Hannah: So the civil court isn't using your claim to punish you.
+Will: Right: punishing is the criminal court's job. And the old reliance test no longer applies, because the weighing test replaced it.
+Hannah (groaning): My notes say illegal contracts are void and can't be enforced. I'm going to have to cross that out, aren't I?
+Will (dry): With a firm pen. Unless a statute settles the effect, the question is whether enforcing the claim would harm the integrity of the legal system.
+Hannah: Fine. Then what about money? If I've paid under an illegal deal, is that gone for good?
+Will: Money paid under an illegal contract, for example for an unlawful purpose that was never carried out, is normally recoverable. That's restitution.
+Hannah (incredulous): I pay for something shady and I get a refund?
+Will: Restitution puts both parties back where they were, and illegality usually doesn't bar the unjust enrichment claim. You're not asking the court to enforce the bad deal. You're asking for your money back.
+Hannah (dry): Go on, test me.
+Will (brisk): Try this one. Xavier pays Yasmin £10,000 to bribe a council official to grant him planning permission. Yasmin never approaches the official and keeps the money. Xavier sues to get it back.
+Hannah: So, can Xavier recover the £10,000, or is he stuck because the whole thing was a bribe?
+Will: <think>
+Hannah (thinking aloud): He isn't asking the court to enforce the bribe, he wants restitution. Restitution puts both of them back where they started. Refusing it wouldn't advance the anti-bribery purpose, and it would be disproportionate. So he probably recovers it, in unjust enrichment.
+Will (pleased): Yes: probably yes, in unjust enrichment. The reliance-based answer, that he must plead his own illegality and so fails, no longer applies after Patel and Mirza.
+Hannah: Right, so that's money paid. Back to step one, then. What does a statute do?
+Will: If a statute expressly or impliedly prohibits the contract itself, the contract is unenforceable. Whether it does is a question of the statute's purpose.
+Hannah (wary): Even for someone who had no idea?
+Will: Where a statute prohibits the contract itself, even an innocent party usually cannot enforce it. Re Mahmoud and Ispahani is the case.
+Hannah (groaning): Harsh. Is every broken statute that harsh?
+Will: No. Here's the one the exam turns on: a statute that only penalises an act in performance, for example overloading a ship, leaves the contract enforceable. That's St John Shipping and Joseph Rank.
+Hannah: So it's the contract itself being banned, versus something naughty done while performing it.
+Will: Yes: the contract itself, or an act in performance. Two more rules go with that. A statute protecting a class of persons usually leaves a member of that class able to enforce or recover. And where a statute states the effect, it governs.
+Hannah: Give me one where the statute states the effect.
+Will: The Financial Services and Markets Act. An agreement made by an unauthorised person in breach of the general prohibition is unenforceable against the other party. That other party may recover money or property paid, and compensation. But the court may allow enforcement or retention if it is just and equitable.
+Hannah (thinking aloud): Okay. So the unauthorised person is stuck, the other side can get things back, and the judge has an escape hatch.
+Will: Right, and the escape hatch is the just and equitable test, nothing wider.
+Hannah: Test me again, then.
+Will (brisk): Now a test. Corvin Shipping agrees to carry Dara's machinery for a fee, with no plan to overload. During the voyage the ship's master overloads the ship. A statute makes overloading an offence, but it only penalises the overloading and says nothing about the contract. Dara refuses to pay.
+Hannah: Is the contract still enforceable by Corvin Shipping, or is it unenforceable because the statute was broken?
+Will: <think>
+Hannah (confident): It turns on what the statute hits. It only penalises an act in performance, not the contract itself. So the contract is still enforceable.
+Will: Right: the statute only penalises an act in performance, so the contract stays enforceable. If the statute had banned the contract itself, even an innocent party usually couldn't enforce it.
+Hannah: One more statute thing, because I know you're about to say gambling.
+Will (laughing): I am. Three points. One: the fact that a contract relates to gambling does not prevent its enforcement. Two: a gambling contract can still be unenforceable for unlawfulness on general grounds. Three: the Gambling Commission may void a substantially unfair bet accepted by a licensed betting operator, and then stakes and winnings are repayable.
+Hannah: So gambling alone isn't a bar, but the usual illegality grounds still apply.
+Will: Yes. And where the statute doesn't settle the effect, the Patel and Mirza factors decide.
+Hannah (curious): What about a contract that looks perfectly lawful but somebody plans to use it illegally?
+Will: Then it turns on who knew. If a contract is lawful on its face, but one party intends illegal performance or purpose, that party usually cannot enforce it.
+Hannah: And the other party?
+Will: An innocent party who didn't know of the illegality can still enforce. If both parties knew of and joined in the illegal purpose, neither can usually enforce.
+Hannah (thoughtful): That sounds a bit rigid. Is it?
+Will: These outcomes now run through Patel and Mirza, so minor or incidental illegality may not bar enforcement.
+Hannah: Right. So, who knew, and how serious was it.
+Will: Yes. One last bucket: contracts contrary to public policy. At common law they're unenforceable. There are three groups. One: contracts to commit a crime, tort or fraud, for example salary paid as sham expenses to defraud HMRC. Two: contracts prejudicial to the administration of justice, for example an agreement not to report a crime. Three: contracts ousting the courts' jurisdiction.
+Hannah (wary): Does a normal arbitration clause oust the courts?
+Will: No: an arbitration or jurisdiction clause is not an ouster.
+Hannah (summing it up): So for illegality I check a statute first, then public policy, then I weigh purpose, other policy and proportionality. And money paid usually comes back.
+Will (pleased): Right, with one qualifier: unless a statute settles the effect, a claim is barred only if enforcing it would harm the integrity of the legal system. Next topic: restraint of trade.
+## Block 7: Restraint of trade
+Hannah: Right, so restraint of trade. Is that just illegality again?
+Will (brisk): It's a trap if you think so. A post-employment non-compete is not Patel illegality. Restraint of trade has its own reasonableness test, and the party relying on the covenant bears the burden.
+Hannah (wary): Okay. What counts as a restraint of trade covenant in the first place?
+Will: A covenant restricting a party's freedom to carry on its trade or profession. Examples include an employee non-compete, a non-compete on the sale of a business, or a solus tie.
+Hannah: And the test?
+Will: Such a covenant is void unless the party relying on it shows two things. One: it protects a legitimate interest. Two: it is no wider than reasonably necessary in duration, area and scope of activity. You need both.
+Hannah: So the person defending the covenant has to prove it. And that's it?
+Will: There's a second way it fails. It's also void if the party attacking it shows that it is contrary to the public interest. And reasonableness is judged at the date of the contract.
+Hannah (thinking aloud): At the date of the contract, so not at the date somebody tries to enforce it.
+Will: Right. Now, what counts as a legitimate interest? Start with an employer. The ones to know are trade secrets and confidential information, trade connections such as customers and suppliers, and sometimes workforce stability.
+Hannah (teasing): What about "I don't want my old staff competing with me"?
+Will (firm): Protection from competition as such is never a legitimate interest.
+Hannah (groaning): Never. Okay.
+Will: For the buyer of a business, the legitimate interest is the goodwill it bought. And courts are stricter on employment covenants than on sale-of-business covenants, because in a sale bargaining is more equal.
+Hannah: So the same words in a covenant can fail for an employee and pass for a seller.
+Will: Yes: stricter for employees, less strict for a sale of a business.
+Hannah (dry): Go on, give me one to chew on.
+Will (brisk): Let's try one. Oakes runs a small chain of cafes and hires Mina as a junior barista. Her contract bars her from working for any rival cafe. She never had access to confidential information or to supplier or customer connections. Oakes says the covenant simply protects the business from competition.
+Hannah: So, does Oakes show a legitimate interest, or is the covenant void?
+Will: <think>
+Hannah (thinking aloud): This is the legitimate interest question. Oakes bears the burden, and protection from competition as such is never a legitimate interest. With no secrets and no connections to protect, there's nothing else. So the covenant is void.
+Will: Right: void, because competition as such is never a legitimate interest and the employer has to show one. The deciding fact is whether the employee actually had access to secrets or connections.
+Hannah: Next stop: solus ties, I think? Garages and petrol.
+Will: A solus tie, an exclusive dealing tie, must be reasonable in length. That's Esso and Harper's Garage. There's also a modern wrinkle, and it's a starred point. Since Peninsula Securities and Dunnes Stores, whether the party bound gave up a freedom it already had, for example because it took the land from the supplier subject to the tie, no longer decides whether the doctrine applies.
+Hannah (confused): So what does decide it?
+Will: The doctrine isn't engaged by a covenant restricting the use of land that has passed into the accepted and normal currency of commercial or contractual or conveyancing relations. A change in public policy can call for that to be re-examined.
+Hannah: So a covenant of an accepted kind isn't tested at all, and an ordinary solus tie is tested on length.
+Will: Yes, that's the split.
+Hannah: Say it's void, though. Does the whole contract die with it?
+Will (warm): No. An unreasonable restraint is void, but the rest of the contract stands. The court won't rewrite the covenant.
+Hannah: Never? Not even to tidy it up?
+Will: It may remove offending words, on three conditions. One: the words come out without adding to or modifying the remaining wording. Two: the remaining terms are still supported by consideration. Three: removal would not generate any major change in the overall effect of all the post-employment restraints in the contract. And on that third one, the employer must show it.
+Hannah (thoughtful): So it's a blue pencil, not a pen. Delete, never add.
+Will: Right, and it needs all three conditions.
+Hannah: Is there another way a reasonable covenant dies?
+Will: Yes, and it's the one that catches people out. If the employer wrongfully dismisses the employee, that's a repudiatory breach, and if the employee accepts it, the employer can't enforce the covenants, even reasonable ones. That's General Billposting and Atkinson.
+Hannah (wary): Show me that in action.
+Will (brisk): Here's a scenario. Priya works for Halden Print. Her covenant is reasonable and protects Halden's customer connections. Halden wrongfully dismisses her, which is a repudiatory breach, and Priya accepts it. She then joins a rival printer.
+Hannah: So, can Halden enforce the covenant, or does the wrongful dismissal stop it?
+Will: <think>
+Hannah (confident): The covenant is reasonable, so that's not the problem. But the employer's own repudiatory breach, accepted, means it can't enforce the covenants, even reasonable ones. So Halden can't enforce.
+Will (pleased): Right: Halden can't enforce it. The deciding fact is that the employer wrongfully dismissed and the employee accepted that breach.
+Hannah (dry): Hang on, my head has two ways a covenant can fail now, and they look alike.
+Will: They do, so keep them apart. A covenant wider than reasonably necessary is void, though the rest of the contract stands. But even a reasonable covenant can't be enforced by an employer that wrongfully dismissed the employee, where the employee accepted that repudiatory breach. Too wide, or the employer's own accepted breach?
+Hannah: Too wide is the covenant's fault. The accepted breach is the employer's fault.
+Will: Yes: wider than reasonably necessary versus the employer's own wrongful dismissal.
+## Recap
+Will (warm): Two questions to take away.
+Hannah: One. Illegality. If a statute settles the effect, that governs; if not, the court weighs purpose, other public policy and proportionality, and money paid is normally recoverable.
+Will: Two. Restraint of trade. The party relying on a covenant must show a legitimate interest and that it is no wider than reasonably necessary, and an employer that wrongfully dismissed, with the employee accepting that breach, cannot enforce even a reasonable one.
+Hannah (brisk): And the trap: restraint of trade is not Patel illegality.
+Will: Illegality: unless a statute decides, a claim is barred only if enforcing it would harm the legal system's integrity; restraint of trade: a covenant is void unless its enforcer shows it protects a legitimate interest and is no wider than reasonably necessary.

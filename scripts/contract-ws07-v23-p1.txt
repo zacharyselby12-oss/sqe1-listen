@@ -1,0 +1,147 @@
+---
+id: contract-ws07-v23-p1
+unit: u-bpp-Contract-07
+guide_hash: f2380f3c3a
+made: 2026-11-04T17:47:25+00:00
+part: 1 of 3
+blocks: 1-2
+title: Contract WS07 · Mistake · Part 1 of 3
+map:
+- Mistake: operative, common, mutual and unilateral
+- Unilateral mistake of identity
+recap:
+- An operative mistake makes the contract void from the start, so neither party is bound and no title passes; that is the contrast with misrepresentation, which only makes a contract voidable.
+- Common mistake as to existence is void unless a party promised the subject matter existed; as to quality it is void only if the shared assumption makes the subject matter or performance essentially and radically different, with no warranty and no fault; unilateral mistake about terms means no contract only if the other party knows or ought to know; about quality it is caveat emptor unless induced by misrepresentation; cross-purposes is decided objectively; non est factum needs a radically different document and no carelessness.
+- Face to face, a rogue's contract is voidable for fraud, a buyer in good faith and without notice before rescission gets good title, and a vanished rogue is rescinded against by taking all reasonable steps; in writing, a real person impersonated makes the contract void and no title passes.
+summary: An operative mistake makes a contract void, passing no title, but only in narrow cases; and in a unilateral mistake of identity, face to face is voidable for fraud while writing naming a real person is void.
+invented:
+- Priya
+- Tom
+- Ravi
+- Dalston
+- Marlow
+- Kemp and Dyer
+- Nisha
+- Colin
+- Bristol
+- the pub
+- the classic car
+- the antique clock
+- £40,000
+- £20,000
+- Monday
+---
+## Map
+Will (warm): Right, Hannah. Say you buy a car, and then it turns out you and the seller were both wrong about something basic. Can you just walk away?
+Hannah (wary): I'd like to say yes, because I'd have been tricked. But I suspect it's harder than that.
+Will (amused): Right, it's a lot harder, and that's what today is about. This is part one of three on mistake and privity, and it covers mistake only. The other parts cover privity, then illegality and restraint of trade.
+Hannah (teasing): Good, we're not doing everything in one go. My brain thanks you.
+Will: Two questions, always in this order. Question one: when is a mistake serious enough to make a contract void? That covers common mistake, unilateral mistake, cross-purposes and non est factum. Question two: when a rogue lies about who he is, is the contract void or voidable, and who ends up keeping the goods?
+Hannah (thinking aloud): So: does the mistake count at all, and then, if it's an identity lie, void or voidable.
+Will: Right. And the whole thing hangs on one word. Void.
+## Block 1: Mistake: operative, common, mutual and unilateral
+Will (brisk): So, question one: mistake, and which kinds of mistake actually matter. First, the headline. An operative mistake makes the contract void from the start, not merely voidable.
+Hannah (sceptical): Void, voidable, they sound like the same thing said by a lawyer who's being paid by the word.
+Will (dry): They are very different. Void means neither party is bound, any money paid is recoverable, and no title passes. So even an innocent third party who buys the goods on gets nothing.
+Hannah (incredulous): Even if they bought in good faith? That's harsh.
+Will: Yes, that's the stake. Compare misrepresentation, duress and undue influence: there the contract is voidable, so it's valid until it's rescinded. Void from the start is the key contrast with those.
+Hannah: Right, so the label decides what happens to the innocent buyer further down the line.
+Will: Yes, that's it, and that's why identity gets its own question later. Now, which mistakes are operative? It depends on who was mistaken and about what. Let's start with both parties making the same mistake, which is common mistake, and the first version is mistake as to existence.
+Hannah (thoughtful): Both of them think the thing exists, and it doesn't.
+Will: Right. Can you see why it matters? Unknown to both, the subject matter had ceased to exist when the contract was made, and the contract is void. The classic picture is a cargo that had already perished before the sale, and neither side knew. That's Couturier and Hastie.
+Hannah (wry): So I buy the corn, it's already rotted in a ship somewhere, and nobody told us?
+Will: Yes. And the Sale of Goods Act says the same for specific goods that, without the seller's knowledge, had perished when the contract was made: the contract is void. Buying something that already belongs to you, called res sua, is also void.
+Hannah (amused): So I can't buy my own bicycle, because it was mine all along. Fair enough.
+Will (laughing): Right, fair enough. Now, two limits on this. First, if the thing perished after the contract was made, that isn't mistake at all. The question then is whether the contract is frustrated. For specific goods, the contract is avoided if they perish without either party's fault before risk passes to the buyer.
+Hannah (thinking aloud): So the timing decides which topic I'm in. Before the contract, mistake. After it, frustration.
+Will: Right. Second limit: if one party promised, expressly or impliedly, that the subject matter existed, that party took the risk. The contract isn't void, and that party is liable for breach. That's McRae and the Commonwealth Disposals Commission.
+Hannah (sceptical): So you can't say "it was all a mistake" if you were the one who guaranteed it was there?
+Will: Right. Existence is void, unless somebody promised it existed.
+Hannah (brisk): Got it. Now quality, I'm guessing that's the tempting one.
+Will (pleased): It's the one people overuse. Common mistake as to quality makes the contract void only if the shared mistaken assumption makes the subject matter, or the performance, essentially and radically different from what the parties believed. There are also two more conditions: the assumption must not be one that either party warranted, and the mistake must not be due to either party's fault. A mere mistake about value or quality isn't enough.
+Hannah (groaning): That's a lot of conditions. Can I have them one at a time?
+Will: Fair. Three conditions, and you need all three. One: the shared assumption makes the thing or the performance essentially and radically different. Two: it isn't something either party warranted.
+Hannah: And three, it isn't anyone's fault.
+Will: Yes: not due to either party's fault. And if you're missing any one, the contract stands.
+Hannah (thinking aloud): If both of us thought a painting was by a famous artist, and it wasn't, is that enough?
+Will: That's Leaf and International Galleries, and it's not enough. Same with Bell and Lever Bros, where an agreement to pay to end service contracts that could have been ended for free was not void. And in Great Peace and Tsavliris, the rescue ship was much further away than both parties believed, but the contract was still performable, so it wasn't void.
+Hannah (wary): And if I fall just short, is there a back door? Some sort of equity thing?
+Will (brisk): No. A common mistake short of making the contract void gives no equitable rescission. Solle and Butcher is not followed.
+Hannah (relieved): Right, so it's void or it's binding. Nothing in between.
+Will: Yes, that's the picture. Let me give you one to try. Priya sells Tom a classic car for £40,000. They both believe it has its original engine, but it has a later replacement and is worth £20,000. Neither of them said anything about the engine, and the contract is silent on it. Can Tom escape for mistake?
+Hannah: So the question is: is the contract void for common mistake, voidable in equity, or simply binding? Which one?
+Will: <think>
+Hannah (thinking aloud): It's quality, not existence, the car's there. And it's worth half, but value alone isn't enough.
+Will: Right so far.
+Hannah: So it's binding. The car exists and is the car they both meant, only its quality and value differ.
+Will: Right: no escape, the contract stands. It isn't essentially and radically different, and equity gives no rescission instead. The tempting answer, "void because it's worth half", fails because a mistake about value or quality isn't enough.
+Hannah (wry): Good to know that "I overpaid" is not a legal ground.
+Will (dry): Sadly not. Now we move from both being wrong to only one of them being wrong, which is unilateral mistake. There are two kinds, terms and quality.
+Hannah: Terms first, I'm guessing, because quality is the boring one?
+Will (amused): Quality is the surprising one, actually. Terms first. If one party is mistaken about a term of the offer and the other party knows, or ought to know, of the mistake, there is no contract. In Hartog and Colin and Shields, an offer was priced per pound rather than per piece, and the buyer who knew the usual pricing snapped it up. No contract.
+Hannah (laughing): So you can't pounce on an obvious typo?
+Will: Right, if you knew or ought to have known, you can't hold them to it. Now quality, which is the surprising one. A unilateral mistake as to the quality of the subject matter, not the terms, does not affect the contract, even if the other party knows of it. Unless it was induced by misrepresentation.
+Hannah (incredulous): Even if the other side knows I've got it wrong?
+Will: Yes, caveat emptor, let the buyer beware. In Smith and Hughes, the buyer thinks the oats are old, and the seller knows it but says nothing. The contract is binding. But if the buyer thought the seller was promising the oats were old, the mistake is about the terms, and we're back to the first rule.
+Hannah (thoughtful): So the line is: did I get a term wrong, or just a wrong idea about the thing?
+Will: Yes, that's the line. Next: mutual mistake, or cross-purposes. Both parties are mistaken, but about different things.
+Hannah: And I'd have guessed the contract's void because there's no real agreement.
+Will (dry): That's the correction. The court applies an objective test and holds the parties to the meaning a reasonable person would give the agreement. Only if the ambiguity is so great that no meaning can be preferred is there no contract.
+Hannah (wary): So how bad does the muddle have to be?
+Will: Raffles and Wichelhaus. Two ships both called Peerless, sailing at different times, and nothing pointed to either. No meaning could be preferred, so no contract.
+Hannah: Right, so with cross-purposes they're held to the reasonable person's meaning, unless no meaning can be preferred at all.
+Will: Yes. Last one in this block: non est factum, which means "it is not my deed". Normally a signature binds you, whether or not you read the document. That's L'Estrange and Graucob.
+Hannah (groaning): I always sign without reading. Don't tell me that's covered.
+Will (amused): It is. A signer is bound unless two things are both true. One: the document was radically different in nature from what they believed they were signing, and a mistake only as to its legal effect is not enough. Two: they weren't careless in signing.
+Hannah: So both, not either one.
+Will: Right, both. And it's mainly for those who, through no fault of their own, must rely on others to explain a document: blindness, illiteracy, illness or incapacity, for example. It rarely succeeds.
+Hannah (sceptical): And a signer who's just been misled?
+Will: In Saunders and Anglia Building Society, the signer was misled about a deed disposing of her house. It wasn't fundamentally different from what she believed, so the plea failed. If it does succeed, the document is a nullity.
+Hannah (summing up): So: void from the start for operative mistakes, and nearly everything else is just a binding contract that looked like a mistake.
+Will: Yes. Void, and narrow. And that "void means no title passes" is the point we carry into question two.
+## Block 2: Unilateral mistake of identity
+Will (brisk): Question two: unilateral mistake of identity. A rogue lies about who he is. Is the contract void or voidable, and who keeps the goods?
+Hannah (wary): Does this one hang on that word we just did?
+Will: It does. Ask first how the parties dealt: face to face, or in writing. Face to face, there is a strong presumption that the owner is contracting with the person present. So the contract is voidable for fraud. That's Lewis and Averay.
+Hannah (sceptical): Even if he's pretending to be somebody else entirely?
+Will: Yes. The presumption is rebutted only if identity, not an attribute such as creditworthiness, was vital. That's a heavy burden.
+Hannah: And if the owner does show identity was vital?
+Will: Then the presumption is rebutted and the contract is void, so no title passes.
+Hannah: So "I thought he was rich" is an attribute, and doesn't get me there.
+Will: Right, creditworthiness is an attribute, not identity. Now the consequence of voidable. If the rogue's voidable title hasn't been avoided when he resells, a buyer in good faith and without notice of the defect gets good title. That's the Sale of Goods Act.
+Hannah (thinking aloud): So the innocent buyer wins, and the original owner is left chasing the rogue.
+Will: Yes, as long as the owner hasn't rescinded before the resale. And that leads to the practical problem. How do you rescind against a rogue who's vanished?
+Hannah: You have to tell the other side, surely?
+Will (dry): That's the correction. Where the rogue has vanished, taking all reasonable steps to rescind, for example telling the police, is enough. That's Car and Universal Finance and Caldwell.
+Hannah (relieved): Oh, good, because otherwise you'd be serving papers on a ghost.
+Will (amused): Quite. Now in writing, the rule changes. In a written contract, identity is fixed by construing the document. If it names a real person whom the rogue impersonated, the contract is void and no title passes. That's Shogun Finance and Hudson.
+Hannah (groaning): Face to face is voidable, but a letter is void, because of the paper?
+Will: Because of how the parties dealt. Let me give you a pair. Ravi, posing as a famous actor, buys Nisha's car in person and pays with a bad cheque. He then sells it to Colin, who buys in good faith and without notice before Nisha rescinds. Who has the car?
+Hannah: So it was face to face: voidable for fraud, and Colin bought before rescission, in good faith, without notice.
+Will: Right: Colin gets good title. The contract was voidable, not void.
+Hannah (thinking aloud): And if it had been a letter?
+Will (brisk): Different story. Ravi orders goods by letter in the name of a real, reputable firm, Kemp and Dyer, and then sells them to Colin. The question I'd ask you is: void, voidable, or good title for Colin? Which one?
+Hannah: Void, voidable, or Colin keeps them?
+Will: <think>
+Hannah (thinking aloud): It's in writing, and it names a real firm that he impersonated. So it's void, and no title passes.
+Will: Right, void: the contract is with the named firm, so it's void as regards the rogue, no title passes, and the owner can recover the goods from Colin. That's Cundy and Lindsay. The deciding fact is how the parties dealt: face to face, the owner is presumed to contract with the person present; in writing, the contract is with the person named.
+Hannah (wary): What if the dealer met the rogue in the flesh, though?
+Will: Shogun covers it. The dealer met the rogue, but the finance company contracted in writing, so the written rule applied.
+Hannah: So it's about who the contract is with on the paper, not who stood in the showroom.
+Will: Yes. One more look-alike, though. In King's Norton Metal and Edridge Merrett, a rogue used a fictitious firm's letterhead. The mistake was as to attributes only, so the contract was voidable.
+Hannah (thoughtful): Because there was no real person he was impersonating.
+Will: Right. Real person impersonated in writing is void; a fictitious firm is only voidable, because it's about attributes.
+Hannah: So I ask three things in order. Did they deal in writing, naming a real person? If so, void. Otherwise, was it face to face?
+Will: Yes. And if face to face, was identity, not an attribute, of vital importance? That's the heavy burden. If it's met, the contract is void; if not, it's voidable for fraud, and a buyer in good faith and without notice before rescission gets good title.
+Hannah (summing up): So void passes no title, voidable can pass good title to an innocent buyer, and which one it is depends on how they dealt, doesn't it?
+Will: Right. Can I put the whole thing in a line? Void for operative mistake, voidable for fraud face to face, and void again where a letter names a real person.
+## Recap
+Will (warm): Right, a quick run through the two questions.
+Hannah: Question one. An operative mistake makes the contract void from the start, so neither party is bound and no title passes, unlike misrepresentation, which makes it voidable.
+Will: And inside that, common mistake as to existence is void unless someone promised it existed. As to quality, it's void only if the shared assumption makes it essentially and radically different, with no warranty and no fault.
+Hannah (brisk): Unilateral mistake about terms means no contract if the other side knows or ought to know. About quality, it's caveat emptor unless misrepresentation induced it.
+Will: Cross-purposes is decided objectively, and non est factum needs a radically different document and no carelessness.
+Hannah (thoughtful): Question two. Face to face, it's voidable for fraud, and a good faith buyer without notice before rescission gets good title, yes?
+Will: Right. And against a vanished rogue, taking all reasonable steps, like telling the police, is enough to rescind. In writing, a real person impersonated makes it void and no title passes. Part two picks up with privity, and part three with illegality and restraint of trade.
+Hannah (wry): Which I will now try to forget the first half of.
+Will (warm): An operative mistake makes a contract void, passing no title, but only in narrow cases; and in a unilateral mistake of identity, face to face is voidable for fraud while writing naming a real person is void.

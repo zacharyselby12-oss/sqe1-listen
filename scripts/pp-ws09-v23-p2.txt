@@ -1,0 +1,148 @@
+---
+id: pp-ws09-v23-p2
+unit: u-bpp-PP-09
+guide_hash: 34f4e4549f
+made: 2026-11-04T17:47:25+00:00
+title: PP WS09 · Business Tenancies: security of tenure (part 2 of 3)
+part: 2 of 3
+blocks: 3-6
+map:
+- Ending a protected tenancy; the landlord's s25 notice
+- Grounds of opposition
+- Compensation for failure to obtain a new tenancy
+- Tenant ending the tenancy, the s26 request, and mutually exclusive notices
+recap:
+- A landlord can end a protected tenancy only by a section 25 notice (or forfeiture, or accepting a surrender), in the prescribed form, from the competent landlord, with a termination date 6 to 12 months after it is given and not before the tenancy could end at common law.
+- A landlord can rely only on grounds stated in its notice or counter-notice; D, F and G are mandatory once proved, A, B, C and E are discretionary, and intention for F and G is tested at the hearing.
+- Compensation is payable only if the landlord succeeds solely on E, F or G and on none of A to D (or relied only on those and the tenant did not apply or withdrew); the lease may exclude it unless the tenant or its predecessors in the same business occupied for business for the whole 5 years before quitting, and it is doubled after the whole 14 years of such occupation.
+- A tenant can leave by ceasing occupation before expiry or by at least 3 months' written notice; it can make a section 26 request only for a fixed term of more than one year, and the landlord must counter-notice within 2 months to oppose.
+summary: Section 25 notice, forfeiture or surrender ends protected tenancy; compensation needs success solely on E, F or G, or notice relying only on them where tenant did not apply or withdrew; section 26 requests opposed only by counter-notice within 2 months.
+invented:
+- Harlow Estates
+- Nadia
+- Owen
+- Bridge Street
+- Calder Foods
+- £12,000
+- £24,000
+- 15 months
+---
+## Map
+Will (warm): This is the second of three parts. It's about ending a protected tenancy and the fight over renewal, and it has four topics. The first is how a landlord ends a protected tenancy, and what its notice must say. The second is the grounds on which a landlord can oppose renewal. The third is compensation when the tenant loses. The fourth is the tenant's side: leaving, or asking for a new lease, and why the notices can't be mixed.
+Hannah (thinking aloud): So: the landlord's notice, the grounds, the money, and then the tenant's moves.
+Will: Right, and the first part decided whether the tenancy is protected, so we start from there.
+## Block 3: Ending a protected tenancy; the landlord's s25 notice
+Hannah (brisk): Right, so the tenancy is protected. Ending it, then: can the landlord just wait for the expiry date and say it's over?
+Will: No. That's the trap. A landlord can end a protected tenancy only by a section 25 notice, or by forfeiture, or by accepting a surrender. A notice to quit doesn't work, and relying on the expiry date doesn't work either.
+Hannah: So the section 25 notice is the normal route. What's in it?
+Will: It has to be in the prescribed form, and it has to come from the competent landlord. A notice from the wrong landlord is invalid, and we'll come back to who that is. Then it has to name a termination date, and that date is the part everyone gets wrong.
+Hannah (wary): Go on.
+Will: The window runs from 6 to 12 months after the notice is given. And the date must not be earlier than the date the tenancy could end at common law. That means the contractual expiry date, or for a periodic tenancy, the earliest date a notice to quit could end it.
+Hannah: What if the contractual date has already gone and the tenancy is carrying on under the Act?
+Will: Then the landlord can still serve a section 25 notice during that continuation, but the date must still be 6 to 12 months ahead.
+Hannah (summing up): So there are three conditions: one, prescribed form. Two, competent landlord. Three, a date in the window that isn't before the common law end.
+Will: Right: form, competent landlord and the date. For instance, the lease has 10 months left, and the competent landlord gives a prescribed-form notice naming the expiry date. That's 6 to 12 months ahead, so the timing is valid.
+Hannah (teasing): And with 18 months left, naming the expiry date?
+Will: Invalid. The date is more than 12 months after the notice is given. So the question is always whether the date is in the 6 to 12 month window and not before the tenancy could end at common law.
+Hannah: Is every notice trying to stop renewal?
+Will: No, and it matters which kind it is. A hostile notice opposes renewal, and it must state which of the statutory grounds the landlord relies on. It can't add or change them later. A non-hostile notice doesn't oppose renewal, so it sets out the landlord's proposals for the new tenancy: the property, the rent and the other terms.
+Hannah (summing up): So hostile means grounds that stay fixed, and non-hostile means proposals.
+Will: Yes: hostile states its grounds and is stuck with them, non-hostile sets out the proposed terms. Time to try one. The test is whether the date is within 6 to 12 months of the notice. Harlow Estates is the competent landlord of a shop let to Nadia. The lease has 15 months left. Harlow serves a prescribed-form section 25 notice today, naming the contractual expiry date as the termination date. Is the notice valid?
+Hannah: Valid because it names the expiry date, or invalid for some other reason?
+Will: <think>
+Hannah (thinking aloud): The form and the landlord are fine. So it's the date. Fifteen months is more than 12 months after the notice is given. So the date is out of the window.
+Will: Right: the notice is invalid because the termination date is more than 12 months after it is given.
+Hannah: Last thing: a one-line version?
+Will: A section 25 notice must be in the prescribed form, from the competent landlord, with a date 6 to 12 months ahead and not before the common law end date.
+## Block 4: Grounds of opposition
+Hannah (dry): So the landlord wants to oppose. On what grounds can a landlord oppose renewal, and does the court then have to refuse?
+Will: There are seven grounds, lettered A to G. Hold onto a rule first. The landlord can rely only on the grounds stated in its section 25 notice, or in its counter-notice to a tenant's request. Leave one out and it can't use it. Then the court's job depends on the ground.
+Hannah: Mandatory or discretionary, I assume.
+Will: Right. Grounds D, F and G are mandatory once proved. For A, B, C and E the court decides whether the tenant ought not to have a new lease. Let me take them in four groups, starting with the tenant's fault: A, B and C.
+Hannah: Fault. Go.
+Will: Ground A is, for example, a roof the tenant should have repaired and did not: it is the state of repair of the holding, resulting from the tenant's failure to comply with its repairing obligations. The court looks at whether the breach is serious and whether the tenant will remedy it. Ground B is persistent delay in paying rent that has become due. Ground C is other substantial breaches of its obligations, or any other reason connected with its use or management of the holding. All three are discretionary.
+Hannah (wary): So they all need persistent breaches, then.
+Will: Careful: no. Only ground B must be persistent, which means repeated late payment over a period, not a single arrear. Ground A turns on the state of repair, and ground C on other substantial breaches or other reasons connected with use or management. Neither needs persistence.
+Hannah: Next group?
+Will: Alternative accommodation and uneconomic subletting: D and E. Ground D is that the landlord has offered and is willing to provide suitable alternative accommodation on reasonable terms, having regard to the current tenancy's terms and all relevant circumstances, including the tenant's business and the preservation of goodwill. It is mandatory if proved. Ground E applies where the tenancy is a subletting of part of a property held under a superior tenancy.
+Hannah (thinking aloud): And the superior landlord is the one opposing?
+Will: Yes: the superior, competent landlord must show that the rents from letting the parts would be substantially less than the rent for the whole, and that it needs possession to let or dispose of the whole. It is discretionary, and rare.
+Hannah: Which leaves F and G.
+Will: Ground F is redevelopment. On termination, the landlord intends to demolish or reconstruct the premises, or a substantial part of them. Or it intends to carry out substantial work of construction on the holding. Either way, it could not reasonably do so without obtaining possession. Now the intention must be firm and settled at the date of the hearing, with a reasonable prospect of carrying it out, such as planning permission and finance.
+Hannah (sceptical): And what if the landlord's plan is really just a way of getting rid of the tenant?
+Will: That's the point. The intention must not be conditional on the tenant's claim. The landlord must intend to do the work even if the tenant left voluntarily.
+Hannah (summing up): So the test is whether the landlord would do the work anyway.
+Will: Right: if it would only do the work to remove this tenant, ground F fails. Here's one. The test is whether the intention is firm and settled, or conditional on the tenant's claim. Harlow Estates opposes Owen's renewal of a unit on Bridge Street on ground F. It has planning permission and finance for a rebuild. But Harlow's director admits that if Owen left of his own accord, Harlow would simply sell the building as it is. Does ground F succeed?
+Hannah: So it succeeds because there's permission and finance, or it fails because of the sale plan?
+Will: <think>
+Hannah (thinking aloud): The intention has to be firm and settled and not conditional on the tenant's claim. If Owen left voluntarily, Harlow would sell, not build. So the intention depends on Owen's claim.
+Will: Right: ground F fails. The intention is conditional on the tenant's claim, even though planning permission and finance are in place.
+Hannah: Is there any way the tenant beats ground F even when the intention is real?
+Will: Yes: there's a statutory exception. Ground F fails if the tenant agrees to a new tenancy giving the landlord access and facilities for the work and, given them, the work could reasonably be done without obtaining possession, and without interfering to a substantial extent or for a substantial time with the tenant's business use. It also fails if the tenant will accept a tenancy of an economically separable part, and either that test is met for that part, or possession of the rest would reasonably be enough for the work.
+Hannah (wary): That's a lot of conditions.
+Will: Two routes, so take them as two. Route one is the whole holding with access and facilities. Route two is a separable part. Which route doesn't matter for the exam as much as knowing that the exception exists and that it's the tenant who has to be willing to accept it.
+Hannah: Right, and then G.
+Will: Ground G is the landlord's own occupation. On termination, the landlord intends to occupy the holding for a business it will carry on there, or as its residence. Occupation by a company in its group, or a company it controls, counts. The intention must be firm and settled at the hearing.
+Hannah: And there's a time rule, isn't there?
+Will: The five-year rule. The landlord cannot rely on ground G in one situation, which has two parts. First, it bought or created its interest less than 5 years before the current tenancy ends. Second, the holding has been let on a protected tenancy throughout since then.
+Hannah (thinking aloud): So it's not that the landlord has to have owned it for at least five years.
+Will: Right, that's the common mistake. The bar needs both parts together. A landlord that bought with vacant possession and then granted the lease isn't caught.
+Hannah: Is there another five-year rule hiding in here?
+Will: Yes, in compensation, and it is a different five years. Here, it's the landlord's ownership of its interest. In compensation, it's the tenant's business occupation. Keep the question straight: whose five years count?
+Hannah (summing up): So ground G looks at the landlord's years, and the lease exclusion looks at the tenant's years.
+Will: Yes: landlord's ownership for ground G, the tenant's business occupation for the compensation exclusion.
+Hannah: Can you tie the mandatory and discretionary ones together?
+Will: Grounds D, F and G are mandatory once proved, so the court must refuse a new tenancy. Grounds A, B, C and E are discretionary: the court decides whether the tenant ought not to have a new lease. For F and G the landlord's intention is tested at the date of the hearing, not the date of the notice.
+Hannah: One-line recap?
+Will: The landlord is limited to the grounds in its notice. D, F and G are mandatory. A, B, C and E are discretionary. And only ground B must be persistent.
+## Block 5: Compensation for failure to obtain a new tenancy
+Hannah (brisk): Now the money. When does a tenant that loses its renewal get compensation?
+Will: Ask three things in order. Is compensation available at all, which turns on the grounds. Then does the lease validly exclude it. Then is it doubled.
+Hannah: Start with available.
+Will: Statutory compensation is payable in two situations. One, the landlord succeeds solely on one or more of the no-fault grounds E, F or G, and on none of A to D. Two, the landlord's notice or counter-notice relied only on E, F or G, and the tenant did not apply to court or withdrew its application.
+Hannah (thinking aloud): So no compensation for the fault grounds, obviously. But D is no fault, and that's alternative accommodation.
+Will: Right: D involves no fault by the tenant, but it carries no compensation. So the landlord must win on those no-fault grounds alone, with none of A to D. A contracted-out lease ends without compensation too, because the tenant has no statutory right to renew.
+Hannah: So if the landlord opposes on F alone and wins, compensation. If it wins on C and F, nothing, right?
+Will: Yes: the deciding fact is whether the landlord also succeeded on any of A to D. Next, the lease can exclude or modify compensation. But there's an exception: if the premises have been occupied for business purposes by the tenant, or its predecessors in the same business, for the whole of the 5 years immediately before the date the tenant is to quit, then any exclusion is void.
+Hannah (sceptical): So a long-standing business can't be made to sign away the money.
+Will: Right, for the whole 5 years. Now for the amount. It is the rateable value of the holding multiplied by the prescribed multiplier, which is currently 1. It is doubled, so rateable value times 2, in one case. The business occupation must cover the whole of the 14 years immediately before the termination of the current tenancy. Occupation by the tenant counts, and so does occupation by predecessors in the same business.
+Hannah (teasing): Two similar numbers, 5 and 14. A muddle waiting to happen.
+Will: It is. The question is how much is payable, which is 14 years, or whether the lease can exclude it, which is 5 years. Let's use it. The test is whether compensation is payable, and then whether it is doubled. Harlow Estates opposes Calder Foods' renewal on ground G alone and succeeds. The rateable value of the holding is £12,000. Calder Foods and the predecessor it bought the business from have run the same business there for the whole of the 14 years before termination. Is the compensation doubled or not?
+Hannah: So it's doubled because of the 14 years, or not doubled because of the predecessor?
+Will: <think>
+Hannah (thinking aloud): Ground G alone, so it's payable. And a predecessor in the same business counts towards the 14 years. So it's doubled.
+Will: Right: it's doubled, so the rateable value times 2, which is £24,000.
+Hannah: Anything else the tenant can claim?
+Will: Two more routes. If the court refuses a new tenancy, or the tenant quits, because of the landlord's misrepresentation or concealment of material facts, for example a false claimed intention under ground G, the court may order the landlord to compensate the tenant. Separately, a tenant quitting at the end of the tenancy can claim for an improvement that adds to the letting value, under a different Act. It needs a notice of intention and a claim in time. The sum can't exceed the net addition to the holding's value or the reasonable cost of the work less repairs. It's rarely used.
+Hannah (summing up): So for compensation: only if the landlord wins solely on E, F or G with none of A to D, or relied only on those and the tenant didn't apply or withdrew; the lease can exclude it unless the tenant or its predecessors in the same business were there the whole 5 years, and it doubles after the whole 14 years.
+Will: Yes: that is it, plus a separate claim for misrepresentation and a rare one for improvements.
+## Block 6: Tenant ending the tenancy, the s26 request, and mutually exclusive notices
+Hannah (brisk): Right, so far it's all been the landlord. Now the tenant ending the tenancy. What can a tenant do?
+Will: First ask whether the tenant wants to leave or renew. To leave, there are three routes. One, cease business occupation before the contractual expiry date. Two, serve at least 3 months' written notice before the contractual expiry date. Three, once the tenancy is continuing under the Act, serve at least 3 months' written notice ending on any day.
+Hannah: Good. And to renew?
+Will: A section 26 request. But only a tenant whose tenancy was granted for a fixed term of more than one year can serve one. Periodic tenants can't, and nor can tenants with a term of one year or less.
+Hannah (wary): Any other bar?
+Will: Yes: it can't serve one if the landlord has already served a section 25 notice, or if the tenant has itself served a notice to leave.
+Hannah: What's in it?
+Will: It must be in the prescribed form, set out the tenant's proposals for the new lease, and specify a start date for the new tenancy. That date must be not less than 6 nor more than 12 months after the request is made, and not earlier than the date the current tenancy would end by effluxion or could be ended by the tenant's notice to quit. The current tenancy then ends immediately before that date, subject to court proceedings.
+Hannah (thinking aloud): It's the same window as the landlord's notice, with the same trap about the earliest date.
+Will: Right: for instance, the lease has 10 months left and the tenant proposes a start date 12 months away. That's in the window and not before the lease would end. But if the lease has 14 months left and the start date is 10 months away, that's earlier than the lease would end, so it's invalid, unless the tenant could end the lease by notice to quit by then.
+Hannah: And the landlord's answer?
+Will: If the landlord wants to oppose renewal, it must serve a counter-notice within 2 months of the section 26 request, stating the grounds it relies on. If it doesn't, it cannot oppose, and can only dispute the terms.
+Hannah (dry): That sounds like a deadline trap. Try me.
+Will (brisk): Let us try it. The test is whether the counter-notice was in time. Nadia holds a ten-year lease of a different shop from Harlow Estates, and neither side has served any notice. She serves a valid section 26 request. Harlow wants to oppose on ground F, but it only serves its counter-notice 3 months after the request. Can Harlow still oppose renewal?
+Hannah: Still oppose because it has a good ground, or lose the right to oppose?
+Will: <think>
+Hannah (thinking aloud): The counter-notice has to be within 2 months. This one is 3 months, so it's late. A late counter-notice means no opposition.
+Will: Right: Harlow cannot oppose, and can only dispute terms.
+Hannah: Is there any strategy in choosing between staying and asking?
+Will: There is. A tenant might serve a section 26 request to fix a timetable, or when market rents are falling. In a rising market, it may prefer to stay on at the passing rent, subject to the landlord seeking interim rent. Either party can also serve an information notice to find out things such as occupation, subtenancies and who the competent landlord is, and the other must answer it.
+Hannah: And you said the notices can't be mixed?
+Will: They are mutually exclusive. Once a tenant has served a section 26 request, the landlord can't serve a section 25 notice, and the reverse. After a section 25 notice, the landlord's grounds are fixed by that notice. After a section 26 request, they are fixed by its counter-notice within 2 months.
+Hannah (summing up): So whichever notice comes first sets the route, and the grounds are locked in by that notice or the counter-notice.
+Will: Yes: first notice wins the route, and the landlord's grounds are fixed by its notice or its counter-notice.
+## Recap
+Hannah (dry): So a landlord ends a protected tenancy by a section 25 notice with a date 6 to 12 months ahead, or by forfeiture or accepting a surrender. Then the grounds fixed by the notice decide how the court acts.
+Will: Right, compensation needs a win solely on E, F or G and none of A to D, or a notice relying only on those where the tenant didn't apply or withdrew. The tenant's side is leaving, or a request for a new lease needing a counter-notice within 2 months to be opposed.
+Hannah (dry): Short version, then.
+Will: Section 25 notice, forfeiture or surrender ends protected tenancy; compensation needs success solely on E, F or G, or notice relying only on them where tenant did not apply or withdrew; section 26 requests opposed only by counter-notice within 2 months.

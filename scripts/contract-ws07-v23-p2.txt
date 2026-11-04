@@ -1,0 +1,172 @@
+---
+id: contract-ws07-v23-p2
+unit: u-bpp-Contract-07
+guide_hash: f2380f3c3a
+made: 2026-11-04T17:47:25+00:00
+part: 2 of 3
+blocks: 3-5
+title: Contract WS07 · Part 2 of 3 · Privity and Third Parties
+map:
+- Privity of contract
+- Ways round privity at common law
+- Contracts (Rights of Third Parties) Act 1999
+recap:
+- Privity: only a party can enforce a contract or be bound by it, even one made for the claimant's benefit; ask in order about the claimant, the 1999 Act, another route, and then the promisee.
+- Ways round privity: agency, assignment, a collateral contract, a trust of the promise, tort or statute; otherwise only the promisee sues, and it normally recovers only its own loss, with exceptions.
+- The 1999 Act: a third party can enforce only if all four conditions are met, and silence does not show a contrary intention; consent to variation is needed once assent is communicated to the promisor, or once the third party has relied and the promisor knew of it or could reasonably have foreseen it; the promisor keeps connected defences; some contracts are excluded.
+summary: Privity means only parties enforce, so ask about the Contracts (Rights of Third Parties) Act 1999 first, then the common law ways round privity, then what the promisee recovers; under the Act, check who can enforce, variation, defences and excluded contracts.
+invented:
+- Mira
+- Josh
+- Cora
+- Leo
+- Nadia
+- Tom
+- Priya
+- Monday
+- Tuesday
+- Wednesday
+---
+## Map
+Will (warm): Right, Hannah. Quick scene. Your gran pays a florist to deliver flowers to you, the florist forgets, and you turn up at the shop furious. Can you sue the florist?
+Hannah (wary): Well, I didn't make the deal. But I'm the one who got no flowers!
+Will (amused): Right, and that tension is this whole episode. It's part two of three: part one is mistake, and part three is illegality and restraint of trade. Today it's who can enforce a contract, in three topics, in this order.
+Hannah: Go on then.
+Will: First, privity of contract, which is the basic rule and the order of questions to ask. Second, the ways round privity at common law, and what the person who made the contract can recover. Third, the Contracts (Rights of Third Parties) Act 1999.
+Hannah (thinking aloud): So: the rule, the workarounds, then the statute.
+Will (pleased): Yes, that's the map. Although in a real problem you check the Act before the workarounds, and we'll see why in a minute.
+## Block 3: Privity of contract
+Will (brisk): So, privity of contract. The rule is that only a party can enforce a contract or be bound by it, even if the contract was made for someone else's benefit.
+Hannah (incredulous): Even if it was made specifically for them? That seems harsh.
+Will: It is harsh. In Dunlop v Selfridge and in Tweddle v Atkinson, a third party could not sue on a contract made for its benefit, and that's the point the exam question turns on.
+Hannah (teasing): So the florist is safe from me. In contract, at least.
+Will (dry): Yes, at common law. But hold that thought: the 1999 Act may give you a right in contract, because the term was meant to benefit you by name. Now the other half: a contract cannot impose burdens on a third party either. The 1999 Act only confers benefits.
+Hannah (sceptical): What about a third party who wants to rely on an exclusion clause? Is that a burden?
+Will: Good instinct, but no: relying on an exclusion clause counts as a benefit, not a burden.
+Hannah: So it's something you take advantage of, not something that's imposed on you.
+Will (pleased): Yes, that's it. Now the order to ask in a problem. Four questions, in this order. One: is the claimant a party? Only a party can enforce the contract or be bound by it, even if it was made for the claimant's benefit.
+Hannah (guessing): And two is the Act, I'd guess?
+Will: Right. Two: if the claimant isn't a party, does the 1999 Act give it a right to enforce? That's our third topic.
+Hannah (thinking aloud): Then three is a workaround at common law?
+Will: Yes. Three: look for another route, and that's the next topic. Four: if none of that works, only the promisee can sue. It recovers its own loss, which is often nominal, or it seeks specific performance. It recovers the third party's loss only exceptionally.
+Hannah (groaning): So the florist forgets, my gran might get her money back, and I still don't get my flowers.
+Will (laughing): Right, unless an exception rescues you. So the order is: party, then the Act, then another route, then the promisee.
+Hannah: Party, Act, route, promisee. Got it. Why is the Act second and not last?
+Will: Because if the Act gives a right, you never need the workarounds. It's the fast lane.
+## Block 4: Ways round privity at common law
+Will (brisk): So that was question three, whether there's another route. This topic is the ways round privity at common law, and what the promisee can recover if none of them applies. The routes come in three groups: agency and assignment, then collateral contracts, then trusts, tort and statute.
+Hannah (wary): Where do we start?
+Will: Agency and assignment. In agency, the principal is the party, and the agent generally drops out.
+Hannah (checking): Does any agent count?
+Will: Careful, no. Only an agent who is authorised and contracts on the principal's behalf.
+Hannah: So the principal sues, not the agent. And assignment is passing the benefit of the contract on?
+Will (pleased): Right. And here's the starred bit: a legal assignment must be absolute, in writing signed by the assignor, with written notice to the debtor. That's the Law of Property Act. Three requirements, and you need all three.
+Hannah (thinking aloud): Absolute, signed writing, written notice. What happens if one's missing?
+Will: Then it takes effect only as an equitable assignment. So it still works, just not as a legal assignment.
+Hannah (relieved): So missing a requirement downgrades it, it doesn't kill it?
+Will: Right, that's exactly the downgrade. Next, collateral contracts, which have three steps, and you need all three.
+Hannah: Go on, I'm ready.
+Will: One: one party makes a promise. Two: the promise is given in return for the other party entering the main contract. Three: if so, there is a collateral contract, enforceable alongside the main contract.
+Hannah: So it's a little side deal, tied to signing the big one?
+Will (pleased): Yes. The starred example is City and Westminster Properties v Mudd. A landlord promised the tenant could live there, to get him to sign a lease that forbade residence, and that promise was enforceable.
+Hannah (indignant): That's cheeky of the landlord. Can he just say the written lease says otherwise?
+Will (dry): No, because the parol evidence rule does not stop oral evidence proving a collateral contract.
+Hannah: But how does a side deal get round privity? It's still the same two people.
+Will: Not always, and that's what the exam turns on. In Shanklin Pier v Detel Products, a manufacturer gave the employer an assurance about its goods. The employer then instructed its contractor to buy them, and that instruction could be the consideration for the assurance. So a collateral contract can sometimes overcome privity.
+Hannah (pleased): Oh, neat. The assurance was the promise, and telling the contractor to buy was the price.
+Will: Right. Now the last group: trusts, tort and statute. In a trust of a promise, the promisee holds the promise on trust for the third party.
+Hannah: And tort?
+Will: In negligence, a third party owed a duty of care can sue in tort, though pure economic loss is generally not recoverable. Donoghue v Stevenson is the name there. And there are statutory rights, such as claims directly against a wrongdoer's insurer.
+Hannah (summing up): So the third party can come in through a trust, through negligence, or through a statute like the insurer one.
+Will: Yes. Now, when nothing works and the promisee sues, what does it get?
+Hannah (guessing): The third party's loss, because that's who really suffered?
+Will: Careful, that's the tempting answer, and it's wrong as the starting point. The promisee can enforce, but normally recovers only its own loss, which is often nominal. That's Woodar v Wimpey.
+Hannah (groaning): So often nothing, just nominal damages. Ha. Is that it?
+Will: But there are exceptions, and the starred ones matter. First, specific performance may be ordered in the third party's favour, because damages would be inadequate. That's Beswick v Beswick.
+Hannah: So the court makes the promisor actually do it?
+Will: Yes, that's it. Second, in a contract made for a family group, such as a holiday, the promisee may recover the family's loss. That's Jackson v Horizon Holidays.
+Hannah (amused): The holiday's ruined and dad claims for everyone.
+Will: Right. And third, where property was transferred after the contract, as the parties contemplated, the promisee may then recover the transferee's loss. That's Linden Gardens v Lenesta Sludge.
+Hannah (wary): Is there a catch?
+Will: There is. The transferred-property exception does not apply if the third party has its own direct claim. That's Alfred McAlpine v Panatown.
+Hannah: So if the third party can sue directly, the promisee can't also recover that loss. Fair?
+Will (warm): Right. So the takeaway: look for a route round privity, and if none applies, the promisee sues, normally for its own loss, with those exceptions.
+Hannah (brisk): Routes first, promisee last. Got it.
+## Block 5: Contracts (Rights of Third Parties) Act 1999
+Will (brisk): Right, the big topic: the Contracts (Rights of Third Parties) Act 1999. The question is when a third party can enforce a term under it, and whether its rights can later be taken away.
+Hannah (thinking aloud): So who can enforce, and then what the parties can do to them afterwards?
+Will: Yes, plus defences and the contracts the Act doesn't reach. Start with who can enforce. There are four conditions, and you need all four.
+Hannah: Four. Go.
+Will: One: either the contract expressly provides that the third party may enforce the term, or the term purports to confer a benefit on it.
+Hannah: So express permission, or a term that purports to benefit them?
+Will (pleased): Right, either will do for condition one. Two: the third party is expressly identified, by name, as a member of a class, or by description. It need not exist when the contract is made.
+Hannah (surprised): Doesn't need to exist? How does that work?
+Will: Identification by class or description can cover, for example, future owners, an unborn child or a company not yet formed.
+Hannah (amused): So you can contract for someone who isn't born yet. Brilliant.
+Will (dry): Yes. Condition three applies only to the purports-to-benefit route: it must not be shown, on a proper construction, that the parties did not intend the term to be enforceable by the third party.
+Hannah (thinking aloud): So if the parties didn't intend it, the benefit route fails. But the express route doesn't have that condition?
+Will: Right. And four: the contract or term is not one that the Act excludes, which we'll come to. If all four are met, the third party has a party's remedies, subject to the contract's other terms and the promisor's defences, and it needs to provide no consideration.
+Hannah: Express or benefit, identified, intention, not excluded. Now, silence. If the contract says nothing about enforcement, doesn't that show they didn't intend it?
+Will: That's the tempting wrong answer, and it's starred. The contract's silence does not show a contrary intention, and the burden is on the party denying the third party's right. That's Nisshin Shipping v Cleaves.
+Hannah (groaning): So silence helps the third party.
+Will (dry): Right. Whereas an express "no third party rights" clause does show the parties did not intend enforceability, so the benefit route fails.
+Hannah: So one contract that purports to benefit a named person and says nothing, the third party can enforce. Add the express clause, and it can't?
+Will (pleased): Yes, that's your pair. In the silent contract, the person denying the right bears the burden. Add the clause and the benefit route fails.
+Hannah: And what does the third party actually get?
+Will: The same remedies as a party: damages, injunction and specific performance, subject to the contract's other terms. It's no better off than if it had been a party.
+Hannah (thoughtful): And exclusion clauses? You said relying on one is a benefit.
+Will: Starred. A third party may rely on an exclusion or limitation clause expressed to benefit it, without the old Himalaya clause agency route.
+Hannah: So no more elaborate agency tricks. Now, can the parties just change the deal and cut the third party out?
+Will: Not forever. Before the third party has assented or relied, the parties may vary or rescind freely, and an express term may also allow variation without consent or set other consent requirements.
+Hannah (wary): And after?
+Will: Consent to vary or rescind is needed once the third party has communicated assent, by words or conduct. And here's the starred trap: posted assent takes effect only on receipt.
+Hannah (thinking aloud): So if the third party posts a letter agreeing, the parties can still vary until the promisor actually receives it?
+Will: Right. Consent is also needed if the promisor knows of reliance, or could reasonably foresee reliance and the third party has relied.
+Hannah: Knowing, or foreseeable and actual. Can the court just dispense with consent whenever it sees fit?
+Will: Careful, no. On the parties' application, the court, or an arbitral tribunal, may dispense with consent, but only on the listed grounds. There are three: the third party's whereabouts cannot reasonably be ascertained; it is mentally incapable of giving consent; or it cannot reasonably be ascertained whether it has relied on the term.
+Hannah: Whereabouts, capacity, or can't tell about reliance. Can it attach conditions?
+Will: Yes, it may impose conditions, such as paying compensation.
+Hannah (teasing): There's a look-alike with the postal rule, isn't there?
+Will (amused): There is. Can you say how they differ?
+Hannah: A posted acceptance of an offer can take effect when it's posted. But a third party's assent sent by post counts only when the promisor receives it.
+Will: Right. So the question to ask is whether the letter is a third party's assent under the 1999 Act, or an acceptance of an offer.
+Hannah (pleased): Whose letter is it, and what's it doing. That sorts it. Now, defences?
+Will: The promisor may raise defences or set-offs against the promisee that arise from or in connection with the contract and are relevant to the term. Defences against the promisee that are unconnected with the contract are excluded unless an express term allows them.
+Hannah: Can the contract itself change the defences?
+Will: Yes. As I said, an express term can make unconnected defences available, and an express term can also exclude any of the promisor's defences or set-offs against the promisee.
+Hannah (thinking aloud): And what about things the promisor has against the third party itself?
+Will: Right, it may also raise any defence or set-off it would have had against the third party had the third party been a party, and any counterclaim not arising from the contract, and again an express term can exclude any of these. So it isn't every defence against the promisee plus extras: against the promisee, only the connected ones relevant to the term. And the promisee keeps its own right to enforce the term, but there's no double liability: any sum the promisee recovers for the third party's loss is taken into account.
+Hannah (relieved): So the promisor doesn't pay twice. Which contracts does the Act leave alone?
+Will: Starred. There are no third-party rights on negotiable instruments, in a company's or LLP's constitution, or in an employment, worker or agency-worker term when it is enforced against the employee or worker.
+Hannah: Instruments, constitutions, employment against the worker. Is that the lot?
+Will: Not quite. There are also no third-party rights under contracts for carriage of goods, by sea or under the conventions, except reliance on an exclusion or limitation clause.
+Hannah (sceptical): Hang on. So the Act doesn't apply to employment contracts at all?
+Will: Careful, that's too wide. It only stops a third party enforcing a term of an employment, worker or agency-worker contract against the employee or worker.
+Hannah: Got it. Anything else?
+Will: Two small points. A third party enforcing under the Act cannot use UCTA section two, subsection two against a negligence exclusion, unless death or personal injury is involved. And the common law and other statutory exceptions to privity are preserved.
+Hannah (summing up): So the Act sits on top, and the old exceptions still work.
+Will (warm): Yes, that's the Act. Four conditions to enforce, silence helps the third party, posted assent counts on receipt, and some contracts are outside it.
+## Exam mode
+Will (brisk): Okay, three scenarios. First. Mira has Josh service her boiler, and their contract excludes third-party rights under the 1999 Act. Josh does careless work, and a fire destroys a laptop belonging to Cora, Mira's lodger. What claim does Cora have against Josh?
+Hannah (thinking aloud): So is it no claim at all, a claim in contract, or a claim in negligence for the laptop?
+Will: <think>
+Hannah (thinking aloud): My instinct was no claim because of privity. Cora isn't a party, and the Act is excluded too. But it's her physical property, damaged by careless work. So it's tort, not contract.
+Will (pleased): Right: a claim in negligence for the laptop. Josh owed her a duty of care. She has no claim in contract, because privity and the exclusion clause both rule that out, but privity bars only contract claims, so 'no claim because of privity' is the tempting wrong answer.
+Hannah: So that one turns on the ways round privity, specifically tort.
+Will (brisk): Yes. Second. Nadia contracts with a builder, Tom, to build a house. One term says Tom will give "the first buyer of the property" a 10-year defects guarantee, and the contract says nothing else about third parties. Nadia later sells the house to Leo. Can Leo enforce the guarantee against Tom?
+Hannah: So is it yes, no, or only if Leo was named in the contract?
+Will: <think>
+Hannah (thinking aloud): This is the Act. The term purports to benefit the first buyer, and "the first buyer" is a description, so Leo is expressly identified even though he didn't exist as a buyer when the contract was made. And the contract's silent, which doesn't show a contrary intention.
+Will (pleased): Right: yes, Leo can enforce, under the purports-to-benefit route. The tempting answer is 'no right because he isn't named or didn't exist yet', and that fails because identification by description is enough.
+Hannah (wry): Silence and description, both on his side.
+Will (brisk): Third. A contract between Mira and Josh, with Josh as the promisor, purports to benefit a named third party, Priya. On Monday Priya posts a letter to Josh agreeing to the benefit, and she hasn't otherwise acted or relied. On Tuesday Mira and Josh agree to vary the term. The letter only reaches Josh on Wednesday. Do they need Priya's consent to the variation?
+Hannah: So is it yes because she assented, no because her assent hadn't been received, or yes only if she'd relied?
+Will: <think>
+Hannah (thinking aloud): This is the variation rule. Consent is needed once assent is communicated. But posted assent takes effect only on receipt, and on Tuesday nothing's been received and she hasn't relied. So they don't need her consent.
+Will (pleased): Right: no consent needed. The trap is thinking the posting counts, like the postal rule, but a third party's posted assent takes effect only on receipt, so on Tuesday they could still vary freely.
+## Recap
+Will (warm): Three topics to take away. Shall we say them back?
+Hannah: One, privity. Only a party can enforce a contract or be bound by it, even one made for the claimant's benefit. Ask in order: is the claimant a party, does the Act help, is there another route, and then the promisee.
+Will: Right. Two, the ways round privity: agency, assignment, a collateral contract, a trust of the promise, tort or statute. Otherwise only the promisee sues, and it normally recovers only its own loss, with the exceptions.
+Hannah (brisk): And three, the Act. All four conditions for a third party to enforce, silence doesn't show a contrary intention, consent to variation is needed once assent is communicated to the promisor, or once the third party has relied and the promisor knew of it or could reasonably have foreseen it, connected defences stay with the promisor, and some contracts are excluded.
+Will (warm): Right. Privity means only parties enforce, so ask about the Contracts (Rights of Third Parties) Act 1999 first, then the common law ways round privity, then what the promisee recovers; under the Act, check who can enforce, variation, defences and excluded contracts.

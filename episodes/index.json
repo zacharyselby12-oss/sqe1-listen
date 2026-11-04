@@ -1677,6 +1677,295 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p1-8b15a3b4.mp3",
       "pubDate": "2026-11-04T12:51:48+00:00"
+    },
+    {
+      "id": "contract-ws07-v23-p1",
+      "unitId": "u-bpp-Contract-07",
+      "title": "Contract WS07 · Mistake · Part 1 of 3",
+      "guideHash": "f2380f3c3a",
+      "script": "scripts/contract-ws07-v23-p1.txt",
+      "scriptHash": "2b48b974557c",
+      "audio": "audio/contract-ws07-v23-p1.mp3",
+      "recap": [
+        "An operative mistake makes the contract void from the start, so neither party is bound and no title passes; that is the contrast with misrepresentation, which only makes a contract voidable.",
+        "Common mistake as to existence is void unless a party promised the subject matter existed; as to quality it is void only if the shared assumption makes the subject matter or performance essentially and radically different, with no warranty and no fault; unilateral mistake about terms means no contract only if the other party knows or ought to know; about quality it is caveat emptor unless induced by misrepresentation; cross-purposes is decided objectively; non est factum needs a radically different document and no carelessness.",
+        "Face to face, a rogue's contract is voidable for fraud, a buyer in good faith and without notice before rescission gets good title, and a vanished rogue is rescinded against by taking all reasonable steps; in writing, a real person impersonated makes the contract void and no title passes."
+      ],
+      "map": [
+        "Mistake: operative, common, mutual and unilateral",
+        "Unilateral mistake of identity"
+      ],
+      "summary": "An operative mistake makes a contract void, passing no title, but only in narrow cases; and in a unilateral mistake of identity, face to face is voidable for fraud while writing naming a real person is void.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
+      "part": 1,
+      "of": 3,
+      "blocks": [
+        "b1",
+        "b2"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws07-v23-p2",
+      "unitId": "u-bpp-Contract-07",
+      "title": "Contract WS07 · Part 2 of 3 · Privity and Third Parties",
+      "guideHash": "f2380f3c3a",
+      "script": "scripts/contract-ws07-v23-p2.txt",
+      "scriptHash": "2699b43675bb",
+      "audio": "audio/contract-ws07-v23-p2.mp3",
+      "recap": [
+        "Privity: only a party can enforce a contract or be bound by it, even one made for the claimant's benefit; ask in order about the claimant, the 1999 Act, another route, and then the promisee.",
+        "Ways round privity: agency, assignment, a collateral contract, a trust of the promise, tort or statute; otherwise only the promisee sues, and it normally recovers only its own loss, with exceptions.",
+        "The 1999 Act: a third party can enforce only if all four conditions are met, and silence does not show a contrary intention; consent to variation is needed once assent is communicated to the promisor, or once the third party has relied and the promisor knew of it or could reasonably have foreseen it; the promisor keeps connected defences; some contracts are excluded."
+      ],
+      "map": [
+        "Privity of contract",
+        "Ways round privity at common law",
+        "Contracts (Rights of Third Parties) Act 1999"
+      ],
+      "summary": "Privity means only parties enforce, so ask about the Contracts (Rights of Third Parties) Act 1999 first, then the common law ways round privity, then what the promisee recovers; under the Act, check who can enforce, variation, defences and excluded contracts.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
+      "part": 2,
+      "of": 3,
+      "blocks": [
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws07-v23-p3",
+      "unitId": "u-bpp-Contract-07",
+      "title": "Contract WS07 · Mistake and Privity (part 3 of 3) · Illegality and restraint",
+      "guideHash": "f2380f3c3a",
+      "script": "scripts/contract-ws07-v23-p3.txt",
+      "scriptHash": "d5f7d159a714",
+      "audio": "audio/contract-ws07-v23-p3.mp3",
+      "recap": [
+        "Illegality. If a statute settles the effect, that governs; if not, the court weighs purpose, other public policy and proportionality, and money paid is normally recoverable.",
+        "Restraint of trade. The party relying on a covenant must show a legitimate interest and that it is no wider than reasonably necessary, and an employer that wrongfully dismissed, with the employee accepting that breach, cannot enforce even a reasonable one."
+      ],
+      "map": [
+        "Illegality",
+        "Restraint of trade"
+      ],
+      "summary": "Illegality: unless a statute decides, a claim is barred only if enforcing it would harm the legal system's integrity; restraint of trade: a covenant is void unless its enforcer shows it protects a legitimate interest and is no wider than reasonably necessary.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
+      "part": 3,
+      "of": 3,
+      "blocks": [
+        "b6",
+        "b7"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws08-v23-p1",
+      "unitId": "u-bpp-Contract-08",
+      "title": "Contract WS08 · Breach, termination and frustration · Part 1 of 2 · Ending without breach",
+      "guideHash": "4583847726",
+      "script": "scripts/contract-ws08-v23-p1.txt",
+      "scriptHash": "257e2099c3da",
+      "audio": "audio/contract-ws08-v23-p1.mp3",
+      "recap": [
+        "Expiry or full performance ends a contract automatically, without notice, but accrued rights stay enforceable; a consumer may cancel a distance or off-premises contract without a reason, subject to exclusions.",
+        "Partial performance of an entire obligation earns nothing unless one of four exceptions applies; a party in breach has no quantum meruit unless the other side freely chose to accept; a wrongly refused tender of goods or services discharges the performer, but a refused tender of money does not discharge the debt.",
+        "A release by a party that has fully performed needs fresh consideration or a deed; a failed condition precedent releases both sides without liability; a termination clause works only if its specified event has happened and it was operated strictly; an absolute right may be used for any reason or none."
+      ],
+      "map": [
+        "Introduction to discharge: expiry and consumer cancellation",
+        "Discharge by performance: entire obligations and tender",
+        "Discharge by agreement: releases, conditions and termination clauses"
+      ],
+      "summary": "Contracts end without breach by expiry or full performance and by a consumer's cancellation; by performance, subject to the entire obligations rule, its four exceptions and tender; and by agreement, conditions, termination clauses and reasonable notice.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (2 findings in part 1, 5 in part 2: fixed in one revision); changed lines ok (7 of 7)",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws08-v23-p2",
+      "unitId": "u-bpp-Contract-08",
+      "title": "Contract WS08 · Breach, termination and frustration · Part 2 of 2 · Breach and frustration",
+      "guideHash": "4583847726",
+      "script": "scripts/contract-ws08-v23-p2.txt",
+      "scriptHash": "e84199eb29bf",
+      "audio": "audio/contract-ws08-v23-p2.mp3",
+      "recap": [
+        "Breach: every breach gives damages, but only a repudiatory breach lets the innocent party terminate, which operates for the future only, or affirm, which keeps the contract alive for both sides and loses the right to terminate for that breach.",
+        "Frustration: an event after the contract is made, without either party's fault, makes performance impossible, illegal or radically different, unless the contract provides for it or the claiming party assumed the risk (and the event does not go beyond the risk assumed), or it is only dearer, longer or self-induced.",
+        "Consequences: frustration discharges automatically for the future only; under the 1943 Act money paid is recoverable and money payable ceases, less a just expenses allowance capped at those sums, and a valuable non-money benefit earns a just sum up to its value to the recipient."
+      ],
+      "map": [
+        "Discharge by breach: repudiatory and anticipatory breach, election and affirmation",
+        "Discharge by frustration: the test, the categories and the limits",
+        "The consequences of frustration: discharge and the 1943 Act"
+      ],
+      "summary": "Discharge by breach, with repudiatory and anticipatory breach, election and affirmation; discharge by frustration, with its test, categories and limits; and the consequences of frustration under the 1943 Act.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (2 findings in part 1, 5 in part 2: fixed in one revision); changed lines ok (7 of 7)",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws09-v23",
+      "unitId": "u-bpp-Contract-09",
+      "title": "Contract WS09 · Remedies for breach of contract",
+      "guideHash": "db7b13836b",
+      "script": "scripts/contract-ws09-v23.txt",
+      "scriptHash": "d0b58d3258ba",
+      "audio": "audio/contract-ws09-v23.mp3",
+      "recap": [
+        "Introduction to remedies: every breach is actionable without proof of loss, but with no loss proved the claimant gets nominal damages only.",
+        "The assessment of damages: damages are compensatory, never punitive, and start from expectation; cost of cure only if reasonable, reliance for wasted spending (reduced or defeated if the defendant proves it would not have been recouped), and with an available market the market rule applies prima facie, whether or not a substitute deal was made.",
+        "Particular types of loss: distress is generally not recoverable, except where pleasure, relaxation or peace of mind was a major or important object of the contract, or physical inconvenience and discomfort was caused; a lost chance that depended on a third party needs a real and substantial chance and is discounted, while the claimant's own hypothetical act is proved on the balance of probabilities.",
+        "Causation: the breach must be an effective cause, not merely the opportunity for the loss; a third party's act breaks the chain only if it was not a likely consequence, unless the defendant's duty was to guard against it, and the claimant's own unreasonable conduct breaks it if it is the real cause.",
+        "Remoteness: loss must arise in the usual course of things or from special circumstances known to the defendant when the contract was made; only its type need have been a serious possibility, and information given after contracting does not count.",
+        "Mitigation: the defendant must prove the claimant failed to take reasonable steps, and only the avoidable loss is irrecoverable; reasonable costs are added, benefits are deducted only if caused by the breach, and there is no duty to mitigate until a repudiation is accepted, or for a debt claim.",
+        "Account of profits and negotiating damages: an account of profits is awarded only exceptionally, where other remedies are inadequate and there is a legitimate interest in preventing the profit; negotiating damages need a valuable asset taken by the breach.",
+        "Restitution and unjust enrichment: a valid contract's allocation of risk prevails; money paid is recoverable for a total failure of consideration but not, at common law, for a partial failure unless apportionable; a true deposit is forfeited if reasonable, and for land 10% is conventional.",
+        "The Achilleas: exceptionally, a loss within the Hadley test is still too remote if the defendant cannot reasonably be taken to have assumed responsibility for that kind of loss; in most cases the standard Hadley test applies without that step.",
+        "Consumer remedies for goods: a short-term right to reject within 30 days; after that one repair or replacement, then a price reduction or a final rejection, with no deduction for use within 6 months of delivery except for motor vehicles.",
+        "Consumer remedies for digital content: the guide teaches nothing on this topic.",
+        "Consumer remedies for services: a service cannot be rejected; repeat performance first, then a price reduction only if that is impossible or not provided; a late service gives a price reduction only, though damages remain available."
+      ],
+      "map": [
+        "Introduction to remedies",
+        "The assessment of damages",
+        "Particular types of loss",
+        "Causation",
+        "Remoteness",
+        "Mitigation",
+        "Account of profits and negotiating damages",
+        "Restitution and unjust enrichment",
+        "The Achilleas: assumption of responsibility",
+        "Consumer remedies for goods",
+        "Consumer remedies for digital content",
+        "Consumer remedies for services"
+      ],
+      "summary": "Introduction to remedies, the assessment of damages, particular types of loss, causation, remoteness, mitigation, account of profits and negotiating damages, restitution and unjust enrichment, The Achilleas, and consumer remedies for goods, digital content and services.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (3 findings + 1 source-error wording: fixed in one revision); changed lines ok (4 of 4)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "contract-ws10-v23",
+      "unitId": "u-bpp-Contract-10",
+      "title": "Contract WS10 · Penalties, specific performance, injunctions, guarantees and indemnities",
+      "guideHash": "c2717254ab",
+      "script": "scripts/contract-ws10-v23.txt",
+      "scriptHash": "20022e6c2fbf",
+      "audio": "audio/contract-ws10-v23.mp3",
+      "recap": [
+        "Liquidated damages and penalties: the penalty rule catches only secondary obligations triggered by breach; a valid clause pays the agreed sum without proof of loss, and a penalty is unenforceable so the claimant proves its actual loss.",
+        "Specific performance and prohibitory injunctions: specific performance of a positive term is discretionary and only where damages are inadequate, but a clear negative stipulation is ordinarily enforced by prohibitory injunction without asking whether damages are adequate, subject to the equitable bars.",
+        "Guarantees and indemnities: substance decides, not label; a guarantee is secondary and needs signed writing, while an indemnity is primary and needs no writing."
+      ],
+      "map": [
+        "Liquidated damages and penalties",
+        "Specific performance and prohibitory injunctions",
+        "Guarantees and indemnities"
+      ],
+      "summary": "Liquidated damages are paid as agreed unless a penalty, which is unenforceable; specific performance needs inadequate damages, while a clear negative term is ordinarily enforced by prohibitory injunction; guarantees are secondary and need signed writing, but indemnities are primary and need none.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (6 findings fixed in one revision); changed lines checked: pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "pp-ws09-v23-p2",
+      "unitId": "u-bpp-PP-09",
+      "title": "PP WS09 · Business Tenancies: security of tenure (part 2 of 3)",
+      "guideHash": "34f4e4549f",
+      "script": "scripts/pp-ws09-v23-p2.txt",
+      "scriptHash": "4443ad126edd",
+      "audio": "audio/pp-ws09-v23-p2.mp3",
+      "recap": [
+        "A landlord can end a protected tenancy only by a section 25 notice (or forfeiture, or accepting a surrender), in the prescribed form, from the competent landlord, with a termination date 6 to 12 months after it is given and not before the tenancy could end at common law.",
+        "A landlord can rely only on grounds stated in its notice or counter-notice; D, F and G are mandatory once proved, A, B, C and E are discretionary, and intention for F and G is tested at the hearing.",
+        "Compensation is payable only if the landlord succeeds solely on E, F or G and on none of A to D (or relied only on those and the tenant did not apply or withdrew); the lease may exclude it unless the tenant or its predecessors in the same business occupied for business for the whole 5 years before quitting, and it is doubled after the whole 14 years of such occupation.",
+        "A tenant can leave by ceasing occupation before expiry or by at least 3 months' written notice; it can make a section 26 request only for a fixed term of more than one year, and the landlord must counter-notice within 2 months to oppose."
+      ],
+      "map": [
+        "Ending a protected tenancy; the landlord's s25 notice",
+        "Grounds of opposition",
+        "Compensation for failure to obtain a new tenancy",
+        "Tenant ending the tenancy, the s26 request, and mutually exclusive notices"
+      ],
+      "summary": "Section 25 notice, forfeiture or surrender ends protected tenancy; compensation needs success solely on E, F or G, or notice relying only on them where tenant did not apply or withdrew; section 26 requests opposed only by counter-notice within 2 months.",
+      "madeAt": "2026-11-04T17:47:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok",
+      "part": 2,
+      "of": 3,
+      "blocks": [
+        "b6",
+        "b7",
+        "b8",
+        "b10"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

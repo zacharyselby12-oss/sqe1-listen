@@ -1,0 +1,295 @@
+---
+id: contract-ws09-v23
+unit: u-bpp-Contract-09
+guide_hash: db7b13836b
+made: 2026-11-04T17:47:25+00:00
+title: Contract WS09 · Remedies for breach of contract
+map:
+- Introduction to remedies
+- The assessment of damages
+- Particular types of loss
+- Causation
+- Remoteness
+- Mitigation
+- Account of profits and negotiating damages
+- Restitution and unjust enrichment
+- The Achilleas: assumption of responsibility
+- Consumer remedies for goods
+- Consumer remedies for digital content
+- Consumer remedies for services
+recap:
+- Introduction to remedies: every breach is actionable without proof of loss, but with no loss proved the claimant gets nominal damages only.
+- The assessment of damages: damages are compensatory, never punitive, and start from expectation; cost of cure only if reasonable, reliance for wasted spending (reduced or defeated if the defendant proves it would not have been recouped), and with an available market the market rule applies prima facie, whether or not a substitute deal was made.
+- Particular types of loss: distress is generally not recoverable, except where pleasure, relaxation or peace of mind was a major or important object of the contract, or physical inconvenience and discomfort was caused; a lost chance that depended on a third party needs a real and substantial chance and is discounted, while the claimant's own hypothetical act is proved on the balance of probabilities.
+- Causation: the breach must be an effective cause, not merely the opportunity for the loss; a third party's act breaks the chain only if it was not a likely consequence, unless the defendant's duty was to guard against it, and the claimant's own unreasonable conduct breaks it if it is the real cause.
+- Remoteness: loss must arise in the usual course of things or from special circumstances known to the defendant when the contract was made; only its type need have been a serious possibility, and information given after contracting does not count.
+- Mitigation: the defendant must prove the claimant failed to take reasonable steps, and only the avoidable loss is irrecoverable; reasonable costs are added, benefits are deducted only if caused by the breach, and there is no duty to mitigate until a repudiation is accepted, or for a debt claim.
+- Account of profits and negotiating damages: an account of profits is awarded only exceptionally, where other remedies are inadequate and there is a legitimate interest in preventing the profit; negotiating damages need a valuable asset taken by the breach.
+- Restitution and unjust enrichment: a valid contract's allocation of risk prevails; money paid is recoverable for a total failure of consideration but not, at common law, for a partial failure unless apportionable; a true deposit is forfeited if reasonable, and for land 10% is conventional.
+- The Achilleas: exceptionally, a loss within the Hadley test is still too remote if the defendant cannot reasonably be taken to have assumed responsibility for that kind of loss; in most cases the standard Hadley test applies without that step.
+- Consumer remedies for goods: a short-term right to reject within 30 days; after that one repair or replacement, then a price reduction or a final rejection, with no deduction for use within 6 months of delivery except for motor vehicles.
+- Consumer remedies for digital content: the guide teaches nothing on this topic.
+- Consumer remedies for services: a service cannot be rejected; repeat performance first, then a price reduction only if that is impossible or not provided; a late service gives a price reduction only, though damages remain available.
+summary: Introduction to remedies, the assessment of damages, particular types of loss, causation, remoteness, mitigation, account of profits and negotiating damages, restitution and unjust enrichment, The Achilleas, and consumer remedies for goods, digital content and services.
+invented:
+- Dunmore
+- Kestrel
+- Nadia
+- Owen
+- Tessa
+- Raj
+- Alder Court
+- Marlowe
+- Bramwell
+- Lena
+- Petra
+- Quill
+- Hollis
+- Imran
+- Fenwick
+- Greta
+---
+## Map
+Will (warm): Right. Today is about what you can get when a contract is broken, and what stops you getting it. Twelve topics, in four groups.
+Hannah (wary): Four groups. Go on, I'm ready.
+Will: Group one is damages. Introduction to remedies, how damages are assessed, and particular types of loss, like distress and lost chances.
+Hannah: So: no loss, how you measure it, and odd kinds of loss.
+Will: Yes. Group two is what limits the claim: causation, remoteness and mitigation.
+Hannah (thinking aloud): Did the breach cause it, is it too remote, and could the claimant have avoided it.
+Will: Right. Group three is the advanced remedies. Account of profits and negotiating damages, then restitution and unjust enrichment, then The Achilleas.
+Hannah (brisk): Gain-based awards, getting money back, and a remoteness twist.
+Will: Yes. And group four is the Consumer Rights Act: remedies for goods, for digital content, and for services.
+Hannah (dry): And I'd guess the digital one is going to be short.
+Will (amused): Very. Let's start with the easy end.
+## Block 1: Introduction to remedies
+Will: So, first topic: introduction to remedies. Say a supplier delivers late, but the buyer loses nothing because of it. Has the buyer got a claim?
+Hannah (guessing): No loss, no claim. Surely.
+Will: Not quite. Every breach is actionable without proof of loss. But if no loss is proved, the claimant gets nominal damages only.
+Hannah (teasing): So you win, and you get a token.
+Will (dry): Right: a very small token. And two small points on loss. It's proved on the balance of probabilities, and difficulty in putting a figure on a real loss is no reason to refuse damages.
+Hannah: Right, so hard to quantify doesn't mean nothing. Only a loss that isn't proved means nominal.
+Will: Yes. Every breach is actionable, and with no loss proved it's nominal damages only.
+## Block 2: The assessment of damages
+Will: Now the assessment of damages. How do we measure it, and which measure fits? Start with the default: damages are compensatory, never punitive.
+Hannah (sceptical): Never? What about a deliberate breach, where the defendant knew exactly what it was doing?
+Will: Still no punitive or exemplary damages, even for a deliberate breach. The default measure is expectation: the position the claimant would have been in if the contract had been performed. Then you add incidental and consequential losses that are not too remote.
+Hannah: Why compensatory? Because the point is to put the claimant where it expected to be, not to punish anyone.
+Will: Yes. Now the first variation: defective building work. The claimant may recover the cost of cure if that is reasonable, which usually requires an intention to do the work.
+Hannah: So if rebuilding the wall is reasonable, and I really mean to rebuild it, I get the cost.
+Will: Right. That's one story. Here's the other. A pool is built shallower than specified, but it's safe and worth no less, and rebuilding would be wholly disproportionate to the benefit gained.
+Hannah (thinking aloud): Then the cost of cure would be silly. So what do they get?
+Will: The difference in value, which may be nil, possibly with a modest award for loss of amenity.
+Hannah (brisk): And the deciding fact is whether cure is reasonable, or wholly disproportionate to the benefit.
+Will: Yes. Next, reliance. A claimant can claim wasted expenditure instead of expectation damages, for example where profits are too speculative. It includes pre-contract spending that was contemplated as likely to be wasted if there was a breach.
+Hannah: Can I just spend wildly and send the bill?
+Will (amused): No, and that's the starred point: there's no escaping a bad bargain. The claim is reduced or defeated if the defendant proves the spending would not have been recouped. And if the contract was lawfully terminable soon anyway, so the spending was never recoupable, only nominal damages.
+Hannah: So the defendant has to prove it, and the claimant can't use reliance to dodge a losing deal.
+Will: Right. Now sale of goods, the market rule. This applies with an available market. Hannah, a seller wants to sell goods that a buyer wrongly refuses to accept. Which way does the sum go?
+Hannah: Contract price minus market price, because the seller has lost the difference. And for non-delivery it's the other way, market minus contract price.
+Will: Yes. For non-delivery, prima facie market minus contract price, at the time the goods ought to have been delivered or, if no time was fixed, when delivery was refused. For non-acceptance, prima facie contract minus market price, at the time they ought to have been accepted or, if no time was fixed, when acceptance was refused.
+Hannah (brisk): The look-alike is who's in breach. Seller in breach: market minus contract. Buyer in breach: contract minus market.
+Will: Right. Two further points. The market rule applies whether or not a substitute deal was actually made. And a lost volume seller, where supply exceeds demand, recovers its lost profit on the sale instead.
+Hannah: Which is a way round the market rule, but only when supply exceeds demand.
+Will: Yes. Also, for breach of warranty of quality, damages are prima facie the value if compliant minus the value as delivered. And the non-delivery and quality measures don't apply to consumer contracts under the Consumer Rights Act.
+Hannah (thoughtful): One more thing. When is it all assessed?
+Will: At the date of breach, though another date may be used where fairer, for example where no substitute was reasonably available then.
+Hannah (summing up): So expectation by default, never punitive, with three variations: cost of cure, reliance and the market rule.
+Will: Yes.
+## Block 3: Particular types of loss
+Will: Now particular types of loss: distress and reputation, then lost chances. Can a claimant recover for the disappointment and distress a breach caused?
+Hannah (guessing): If it's bad enough, surely.
+Will: Not quite: generally not. Distress, disappointment and injury to reputation are generally not recoverable. There are two exceptions.
+Hannah: Go on.
+Will: One: a major or important object of the contract, not necessarily the only one, was to provide pleasure, relaxation or peace of mind. Two: the breach caused physical inconvenience and discomfort, and the distress is directly related to it.
+Hannah (brisk): So the holiday that falls well short of the brochure is one. Pleasure was a major object.
+Will: Yes. And the other story: a business partner breaches a commercial contract and it causes great stress, but no physical inconvenience. Not recoverable.
+Hannah: The deciding fact is whether pleasure, relaxation or peace of mind was a major or important object, or whether there was physical inconvenience and discomfort.
+Will: Right. Now lost chances. What's the question?
+Hannah (thinking aloud): Whose act did the chance depend on?
+Will: Yes. If the loss turns on a third party's hypothetical act, the claimant shows a real and substantial chance, and damages are discounted, valued as a percentage of the benefit.
+Hannah: And if it's the claimant's own act?
+Will: Then prove it on the balance of probabilities.
+Hannah (wary): My notes say a chance of 50% or more is claimed in full.
+Will: That's a muddle. Where the loss turns on what a third party would have done, the claimant need only show a real and substantial chance, and damages are discounted to reflect it. The balance of probabilities is for what the claimant itself would have done.
+Hannah (summing up): Third party's act, real and substantial chance, discounted. Claimant's own act, balance of probabilities.
+Will: Right. And distress is generally not recoverable, except for those two cases.
+## Block 4: Causation
+Will: Now causation, the first of the limits. Did the breach cause the loss, or did something break the chain? Hannah, is it enough that the loss wouldn't have happened but for the breach?
+Hannah: I'd have said yes. That's what causation means.
+Will: Not quite: but-for is not enough. A breach that merely gave the opportunity for the loss is not an effective cause. The question is whether the breach was an effective cause, not necessarily the sole or dominant one, and you use common sense.
+Hannah (groaning): And my notes said it has to be dominant.
+Will: Another muddle. An effective cause is enough, and it can operate alongside other causes.
+Hannah: Fine. Then what breaks the chain?
+Will: Two things. A third party's act breaks the chain only if it was not a likely consequence of the breach. Say a decorator leaves the door unlocked and a thief walks in.
+Hannah (thinking aloud): The thief's act wasn't unlikely, and locking up was the decorator's job.
+Will: Right: where the defendant's duty was to guard against that very act, it does not break the chain. The second thing is the claimant's own conduct. If it was unreasonable and is the real cause, it breaks the chain, as with a claimant who knowingly uses a broken towing hitch.
+Hannah: And if the claimant is only partly to blame?
+Will: Then the chain isn't broken. Damages may be reduced instead, by mitigation or, in limited cases, contributory negligence.
+Hannah (brisk): So an effective cause, not mere opportunity; then ask whether a third party or the claimant broke the chain.
+Will: Yes.
+## Block 5: Remoteness
+Will: Now remoteness. Is the loss too remote, judged when the contract was made? It runs in Hadley's two limbs. Limb one: does the loss arise naturally, in the usual course of things?
+Hannah: And the defendant is taken to know the usual consequences.
+Will: Yes. Limb two is where it doesn't: may the loss reasonably be supposed to have been in both parties' contemplation at contracting as the probable result of the breach, because of special circumstances known to the defendant?
+Hannah (sceptical): And what if the defendant didn't know?
+Will: For unusual losses under limb two, you need actual knowledge of the special circumstances. In Hadley itself the mill's lost profits were too remote, because the carrier didn't know the mill had no spare shaft.
+Hannah: So: usual course, or special circumstances actually known.
+Will: Right. A third question then: was that type of loss a serious possibility at contracting? If so, its full extent is recoverable, even if the extent, or the precise way it came about, wasn't contemplated.
+Hannah (thinking aloud): So only the type has to be contemplated, not the amount.
+Will: Yes. And ordinary lost profits are recoverable, while exceptional profits from unknown lucrative contracts are not.
+Hannah: How likely does it have to be? Just foreseeable?
+Will: Higher than in tort. 'Not unlikely', a 'serious possibility' or a 'real danger', not merely foreseeable.
+Hannah: And what if the defendant finds out later?
+Will: Information given after contracting doesn't count, even if it arrives before the breach. Let me make that stick. A courier contracts to deliver an oven part to a bakery, and nothing special is said. Two days later, before delivery is due, the bakery emails that a lucrative wedding order depends on it. Delivery is late and the order is lost. Is the lost order recoverable, or too remote, or recoverable because the courier knew before the breach?
+Hannah: Recoverable, too remote, or recoverable because it knew by the breach?
+Will: <think>
+Hannah (thinking aloud): Limb two is judged when the contract was made. The email came after, so it doesn't count. And a one-off lucrative order isn't a usual-course loss. Too remote.
+Will: Right. Relying on what the courier knew at the breach is the trap.
+Hannah (wary): Does tort work the same way?
+Will: No. The tort test is reasonable foreseeability at the time of the breach of duty, which is less strict than contract. Fraud, and misrepresentation under section 2(1) of the Misrepresentation Act, allow all losses directly flowing, foreseeable or not. And a tort duty arising from the same assumption of responsibility as the contract takes the contract test.
+Hannah (brisk): So four claims. Contract, serious possibility at contracting. Tort, foreseeability at breach. Tort on the same assumption of responsibility, the contract test. Fraud, all direct losses.
+Will: Yes. Two more points. A duty of care in giving information or advice covers only losses from the risk the duty guarded against, for example not a general market fall.
+Hannah: That sounds like remoteness.
+Will: It's the look-alike. Scope of duty applies to advice or information duties, and a foreseeable loss is still excluded if it lies outside the risk the duty guarded against.
+Hannah (summing up): Remoteness asks whether the loss was a serious possibility. Scope of duty asks whether it was the risk the advice was about.
+Will: Right. Last, exclusion clauses. An 'indirect or consequential loss' exclusion has traditionally been read as excluding only limb two losses, so ordinary lost profits stay recoverable. But courts now construe such clauses in context and may give them a different meaning.
+Hannah: So don't assume the old reading.
+Will: Yes.
+## Block 6: Mitigation
+Will: Now mitigation, the third limit. Could the claimant have avoided the loss by taking reasonable steps? Take it in steps. One: identify the loss suffered after the breach, or after the repudiation was accepted.
+Hannah: So nothing before that.
+Will: Right, and we'll come back to why. Two: has the defendant proved that the claimant failed to take reasonable steps? Three: if so, the loss those steps would have avoided is irrecoverable.
+Hannah (brisk): Who has to prove it?
+Will: The defendant. The burden of proving failure to mitigate is on the defendant. And the so-called duty isn't owed to anyone: failure simply limits damages.
+Hannah: Is the standard high?
+Will: Not at all, because the defendant is the wrongdoer. The claimant need not take risky steps, or steps that would damage its commercial reputation, or bring complex or uncertain litigation against a third party. Its conduct isn't weighed in nice scales at the wrongdoer's instance.
+Hannah (groaning): My notes said it should be weighed in nice scales.
+Will: The opposite. It ought not to be weighed in nice scales at the instance of the party in breach.
+Hannah: Fine. What about when the wrongdoer offers something?
+Will: That's a starred point. The claimant may have to accept a reasonable offer from the party in breach, for example continued supply on less favourable payment terms, or re-employment on the same terms. Refusing is reasonable where relations have broken down or the offer is a humiliation.
+Hannah (thinking aloud): So if a supplier in breach offers to go on supplying at the contract price but only for cash with order, I look at whether that's reasonable.
+Will: Yes. In sale of goods with an available market, the buyer is treated as buying substitutes, and the seller as reselling, at the date of breach, so it cannot recover more by waiting.
+Hannah: Which is the same logic as the market rule.
+Will: Right. Steps four and five are about money. Four: add the reasonable costs of any attempt to mitigate, even if the attempt fails or increases the loss, like the costly replacement of banknotes. Five: deduct any benefit from the mitigating steps, but only if caused by the breach.
+Hannah: And a benefit from something unrelated?
+Will: A benefit from an independent transaction, or a collateral benefit such as insurance, is not deducted. Here's one to test it. Haulier Quill wrongfully ends a two-year contract to carry Nadia's goods, and she accepts the repudiation. She reasonably buys her own lorry and does the carriage herself, which costs her less than Quill's price would have. Later she sells the lorry at a profit because lorry prices rose. Quill says both gains must be deducted. Are both deducted, neither, or only the saving?
+Hannah: Both, neither, or only the saving?
+Will: <think>
+Hannah (thinking aloud): She bought the lorry only to mitigate. So the saving and the resale profit both come from the asset she acquired because of the breach. Both are likely deducted.
+Will: Yes. The test is whether the benefit was caused by the breach. Contrast the ship case, where the owner already held the ship, so its sale was an independent decision. Deducting nothing because the market rose is the trap.
+Hannah: Next piece. Does mitigation always apply?
+Will: No. There's no duty to mitigate until the repudiation is accepted. After an anticipatory breach, the innocent party may affirm and perform, subject to the legitimate interest limit. And there's no mitigation or remoteness for a debt claim.
+Hannah (sceptical): What counts as a debt claim?
+Will: An action for an agreed sum, for example the price of goods where property has passed to the buyer and it wrongfully fails to pay, or where the price is payable on a day certain irrespective of delivery. It's not a claim for damages, so the claimant need not prove loss. If the price isn't yet due as a debt, the seller sues for damages for non-acceptance instead.
+Hannah (summing up): So no duty to mitigate before a repudiation is accepted, and none at all for a debt claim.
+Will: Right, subject to the affirmation point. One more: contributory negligence. It reduces damages only where the duty is to take reasonable care and matches a concurrent tort duty. It is no defence to a strict duty, or to an express duty of care with no tortious counterpart.
+Hannah: So three rules that all cut the claim: mitigation, contributory negligence, and a break in the chain.
+Will: Yes, and that's the look-alike. Mitigation covers post-breach loss that reasonable steps would have avoided, and only that avoidable loss goes. Contributory negligence, where available, is where the claimant shares responsibility for the loss itself, and damages are apportioned. A break in the chain is conduct so unreasonable it is the real cause, and that loss is wholly irrecoverable.
+Hannah (brisk): Avoidable loss goes, shared loss is split, chain broken means that loss is gone entirely.
+Will: Yes.
+## Block 7: Account of profits and negotiating damages
+Will: Now account of profits and negotiating damages. When can a claimant recover the defendant's gain rather than its own loss? Damages compensate loss, so a gain-based award needs something more.
+Hannah (thinking aloud): So an account of profits. The defendant breached and made money. Isn't that it?
+Will: No. It's awarded only exceptionally, where other remedies are inadequate and the claimant has a legitimate interest in preventing the profit-making. A deliberate breach, or one enabling a more profitable contract elsewhere, is not enough.
+Hannah: And Blake? I thought that was the Official Secrets Act.
+Will: The account of profits was for breach of his contractual undertaking of confidentiality, and it's awarded only exceptionally.
+Hannah: Fine. And negotiating damages?
+Will: The fee reasonably demanded to release the defendant. They're available only where the breach takes a valuable asset, for example a land covenant, intellectual property or confidential information. They are not available merely because loss is hard to quantify, as with an ordinary non-compete.
+Hannah (summing up): So negotiating damages need a valuable asset lost. An account needs inadequate remedies and a legitimate interest.
+Will: Right. That's the pair to keep apart. The guide has a table comparing all the measures side by side, and that's a look-up.
+Hannah: Noted. Deliberate breach is not enough for an account.
+Will: Yes.
+## Block 8: Restitution and unjust enrichment
+Will: Now restitution and unjust enrichment. When can a party get its money back, or a reasonable sum for its work, if the contract fails? Check first that no valid contract still allocates the risk.
+Hannah: Why first?
+Will: Because a valid contract's allocation of risk prevails over unjust enrichment. And restitution needs the contract to have ended, by termination, frustration or rescission, or to be void or unenforceable. Then the four questions. One: was the defendant enriched? Two: at the claimant's expense?
+Hannah (thinking aloud): Three: was it unjust?
+Will: Right, which needs an unjust factor, such as failure of consideration, mistake or duress. Four: does the defendant have a defence? And the remedy is personal restitution of the value of the enrichment, not compensation for loss.
+Hannah: So enriched, at my expense, unjust, no defence.
+Will: Yes. Now failure of consideration. In a total failure, the payer received no part of the bargained-for performance, so the money paid is recoverable. Consideration here means the promised performance, not the promise itself.
+Hannah: What if I used the goods first?
+Will: Using the goods does not bar a total failure if the payer did not get what it bargained for, such as good title.
+Hannah: And a partial failure?
+Will: No recovery at common law unless the payment can be apportioned, in severable parts or instalments. Otherwise the payer is left to damages. After frustration, a separate statute governs money paid instead.
+Hannah (brisk): So the look-alike turns on whether any of the bargained-for performance was received.
+Will: Right. Next, restitution and damages. After termination, restitution may be claimed instead of or as well as damages. It returns the whole payment, even on a bad bargain. Say Lena prepays for a printing press, the seller never delivers, she terminates, and identical presses now cost more than the contract price. What can she recover: the prepayment only, the prepayment plus the further loss of bargain, or the prepayment plus damages measured as if she had paid?
+Hannah: Prepayment only, prepayment plus further loss, or prepayment plus full damages?
+Will: <think>
+Hannah (thinking aloud): Nothing was delivered, so total failure, the whole prepayment comes back. She can add the further loss of bargain, the market above the contract price. But full damages on top would be double recovery.
+Will: Right. Restitution plus only the further loss of bargain. And restitution returns the defendant's gain, even on a bad bargain, while damages compensate the claimant's loss.
+Hannah: Now deposits. What about someone in breach?
+Will: A payer in breach recovers a part-payment, subject to the innocent party's damages counterclaim. A true deposit, a guarantee of performance, is forfeited if reasonable. For land, 10% is conventional.
+Hannah: And a bigger deposit?
+Will: A deposit above 10% needs special circumstances. Otherwise it is a penalty and must be returned. So a land buyer pays 10% and fails to complete: the seller keeps it. Another buyer paid 25% with nothing to justify it, and that is a penalty.
+Hannah (summing up): A reasonable deposit is kept. A bigger one with nothing to justify it is returned.
+Will: Yes. Next, quantum meruit, a reasonable sum for services, or quantum valebat for goods. It's available in three situations. One: work done at the other party's request in anticipation of a contract that's never concluded, unless the claimant took the risk that no contract would be made.
+Hannah: Two?
+Will: The contract is void or unenforceable. Three: the innocent party terminates for repudiatory breach after partly performing and chooses restitution instead of damages.
+Hannah (thinking aloud): And how is the benefit valued?
+Will: At its objective market value to a reasonable person in the defendant's position. By subjective devaluation, the defendant may reduce the value by showing it did not want or value the benefit, unless it freely accepted it or it was incontrovertibly beneficial. Whether the contract price caps an innocent party's quantum meruit is unsettled.
+Hannah: And the look-alike?
+Will: Quantum meruit for work on a contract never concluded, against a valid contract whose payment event fails. In the second, the valid contract allocating the risk prevails and nothing is recoverable.
+Hannah (brisk): Finally, defences?
+Will: Change of position is a defence where the defendant in good faith changed its position, for example by spending in a way it otherwise would not have, so that full restitution would be inequitable. It is not available to a wrongdoer or someone in bad faith. The other defences are estoppel, bona fide purchase for value and illegality.
+Hannah (summing up): Good faith change of position, not for wrongdoers. And a valid contract beats it all.
+Will: Right.
+## Block 9: The Achilleas: assumption of responsibility
+Will: Now The Achilleas, assumption of responsibility. When is a loss within the Hadley test still too remote? Apply Hadley first. Only exceptionally does the commercial background show that the defendant cannot reasonably be regarded as having assumed responsibility for losses of that kind.
+Hannah (sceptical): Exceptionally. So most of the time it's just Hadley.
+Will: Yes. In most cases the standard Hadley test applies without the assumption step. In The Achilleas, liability was limited to the market-minus-charter rate for the overrun days, not the loss on the renegotiated next fixture. The example given of a reason is unquantifiable or disproportionate liability.
+Hannah: So even if it was a serious possibility, the defendant can say it never took on that kind of risk.
+Will: Right, but only exceptionally. To pull the whole cluster together, ask five questions in order. Was the breach an effective cause, not merely the opportunity? Was there an unlikely third-party act, or claimant conduct that is the real cause?
+Hannah: Then, did the loss arise naturally, or from special circumstances known at contracting, so that its type was a serious possibility?
+Will: Yes. Then, exceptionally, does the commercial background show no assumption of responsibility for that kind of loss? And is it an advice or information duty with the loss outside the risk it guarded against?
+Hannah (summing up): Then it's recoverable to the full extent of the contemplated type, and I apply mitigation.
+Will: Right.
+## Block 10: Consumer remedies for goods
+Will: Now consumer remedies for goods under the Consumer Rights Act. What can a consumer do about faulty goods, and when? Ask when the goods were delivered and what has been tried. There are three tiers.
+Hannah: Go on.
+Will: Within 30 days, there is the short-term right to reject. The consumer may reject outright, with a full refund, and there is no need to try a repair first.
+Hannah (thinking aloud): So the trap would be thinking repair comes first.
+Will: Right. After 30 days, there is repair or replacement, one attempt. Then there is a price reduction or the final right to reject, and the consumer takes one only.
+Hannah: When does the 30 days start?
+Will: It runs from the latest of ownership or possession passing, delivery, or notice that installation is complete. For perishable goods, the period ends when the goods can no longer reasonably be expected to last. And the period pauses while the consumer waits for a repair or replacement.
+Hannah (brisk): And how many repairs does the consumer have to put up with?
+Will: The consumer need accept only one repair or replacement. Then the consumer can move to the final tier. The final tier also opens if repair and replacement are both impossible or disproportionate, or not done in a reasonable time without significant inconvenience.
+Hannah: And the refund on a final rejection, is it full?
+Will: It may be reduced for use, but not if rejection is within 6 months of delivery. As an exception, motor vehicles allow a deduction for use even within 6 months. Let me try one. Tessa buys a television. Five weeks after delivery the screen flickers, the retailer repairs it, and the fault returns. Five months after delivery she rejects it, and the retailer offers a refund less something for the months she watched it. Can it deduct for use, or must it refund in full?
+Hannah: Deduct, or full refund?
+Will: <think>
+Hannah (thinking aloud): It's the final right to reject, after one failed repair. She rejected within six months of delivery, and a television isn't a motor vehicle. So no deduction.
+Will: Right. The tempting answer is that use always reduces a final-rejection refund. It doesn't: the deduction applies only after 6 months, or for motor vehicles.
+Hannah (summing up): And the look-alike is short-term versus final. Within 30 days, no repair needed. The final right comes after one failed repair, with a deduction for use after 6 months.
+Will: Yes. Last piece: the presumption. A fault appearing within 6 months of delivery is presumed present at delivery. The trader can rebut it, and it doesn't apply where it is incompatible with the goods or the fault.
+Hannah: Does it help with the 30-day rejection?
+Will: No. The presumption applies to the later tiers, not to the short-term right to reject.
+## Block 11: Consumer remedies for digital content
+Will: Next, consumer remedies for digital content. The guide has nothing to teach on this one.
+Hannah (dry): As promised. Short.
+Will: Yes. On to services.
+## Block 12: Consumer remedies for services
+Will: Last topic: consumer remedies for services. What can a consumer do about a poor or late service? Ask first whether it was poorly performed or only late.
+Hannah: And can the consumer reject a poor service, like a faulty good?
+Will: There is no right to reject a service. Where a service does not conform to the contract, the consumer gets repeat performance at the trader's cost, within a reasonable time and without significant inconvenience.
+Hannah (thinking aloud): And if that doesn't work?
+Will: A price reduction, up to the full price, but only if repeat performance is impossible or the trader fails to provide it that way.
+Hannah: What if the service is just late?
+Will: A late service, not a poor one, gives a price reduction only. Damages and other remedies remain available either way, without double recovery.
+Hannah: Is lateness the only case where it's price reduction only?
+Will: No. The same goes for breach of a term the trader stated that is not about the service itself: a price reduction only, with damages still available.
+Hannah (summing up): Goods can be rejected. Services can't: repeat performance first, then a price reduction. Late means a price reduction only.
+Will: Right. That's the look-alike, and you're done.
+## Recap
+Will: Twelve topics. Introduction to remedies: every breach is actionable without proof of loss, but with no loss proved it's nominal damages only.
+Hannah: Assessment: compensatory, never punitive, expectation by default; cost of cure only if reasonable; reliance reduced or defeated if the defendant proves no recoupment; the market rule applies whether or not a substitute deal was made.
+Will: Yes. Distress is generally not recoverable, except where pleasure, relaxation or peace of mind was a major or important object, or there was physical inconvenience and discomfort.
+Hannah (brisk): A lost chance on a third party's act needs a real and substantial chance, discounted. The claimant's own act is balance of probabilities.
+Will: Right. Causation needs an effective cause, not mere opportunity, and a break in the chain only for an unlikely third-party act or the claimant's own unreasonable conduct as the real cause.
+Hannah: Remoteness is judged at contracting, and only the type of loss needs to be a serious possibility, doesn't it?
+Will: Yes. Mitigation: the defendant proves the failure, the avoidable loss goes, reasonable costs are added, and benefits are deducted only if caused by the breach.
+Hannah (thoughtful): An account of profits is only exceptional. Negotiating damages need a valuable asset.
+Will: Right. Restitution: total failure of consideration returns the money, a partial one only if apportionable, and a land deposit above 10% needs special circumstances.
+Hannah: The Achilleas: exceptionally too remote, where no responsibility was assumed for that kind of loss.
+Will: Yes. Goods: reject within 30 days, one repair or replacement, then the final tier, with no deduction within 6 months of delivery except for motor vehicles.
+Hannah (teasing): Digital content, nothing. Services, no rejection, repeat performance first. Is that everything?
+Will (warm): Introduction to remedies, the assessment of damages, particular types of loss, causation, remoteness, mitigation, account of profits and negotiating damages, restitution and unjust enrichment, The Achilleas, and consumer remedies for goods, digital content and services.
