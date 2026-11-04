@@ -1697,7 +1697,7 @@
       ],
       "summary": "An operative mistake makes a contract void, passing no title, but only in narrow cases; and in a unilateral mistake of identity, face to face is voidable for fraud while writing naming a real person is void.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
@@ -1707,7 +1707,15 @@
         "b1",
         "b2"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8174833,
+      "seconds": 1022,
+      "words": 2631,
+      "renderedHash": "2b48b974557c",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws07-v23-p1-797f5304.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws07-v23-p2",
@@ -1729,7 +1737,7 @@
       ],
       "summary": "Privity means only parties enforce, so ask about the Contracts (Rights of Third Parties) Act 1999 first, then the common law ways round privity, then what the promisee recovers; under the Act, check who can enforce, variation, defences and excluded contracts.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
@@ -1740,7 +1748,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9566673,
+      "seconds": 1196,
+      "words": 3063,
+      "renderedHash": "2699b43675bb",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws07-v23-p2-df07c8b8.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws07-v23-p3",
@@ -1760,7 +1776,7 @@
       ],
       "summary": "Illegality: unless a statute decides, a claim is barred only if enforcing it would harm the legal system's integrity; restraint of trade: a covenant is void unless its enforcer shows it protects a legitimate interest and is no wider than reasonably necessary.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed in one revision); changed lines ok",
@@ -1770,7 +1786,15 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7492384,
+      "seconds": 936,
+      "words": 2396,
+      "renderedHash": "d5f7d159a714",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws07-v23-p3-cc0601fe.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws08-v23-p1",
@@ -1792,7 +1816,7 @@
       ],
       "summary": "Contracts end without breach by expiry or full performance and by a consumer's cancellation; by performance, subject to the entire obligations rule, its four exceptions and tender; and by agreement, conditions, termination clauses and reasonable notice.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (2 findings in part 1, 5 in part 2: fixed in one revision); changed lines ok (7 of 7)",
@@ -1803,7 +1827,15 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9198310,
+      "seconds": 1150,
+      "words": 2866,
+      "renderedHash": "257e2099c3da",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws08-v23-p1-8118be8a.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws08-v23-p2",
@@ -1825,7 +1857,7 @@
       ],
       "summary": "Discharge by breach, with repudiatory and anticipatory breach, election and affirmation; discharge by frustration, with its test, categories and limits; and the consequences of frustration under the 1943 Act.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (2 findings in part 1, 5 in part 2: fixed in one revision); changed lines ok (7 of 7)",
@@ -1836,7 +1868,15 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 18024565,
+      "seconds": 2253,
+      "words": 5680,
+      "renderedHash": "e84199eb29bf",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws08-v23-p2-7f763b77.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws09-v23",
@@ -1876,7 +1916,7 @@
       ],
       "summary": "Introduction to remedies, the assessment of damages, particular types of loss, causation, remoteness, mitigation, account of profits and negotiating damages, restitution and unjust enrichment, The Achilleas, and consumer remedies for goods, digital content and services.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (3 findings + 1 source-error wording: fixed in one revision); changed lines ok (4 of 4)",
@@ -1896,7 +1936,15 @@
         "b11",
         "b12"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 16128616,
+      "seconds": 2016,
+      "words": 4929,
+      "renderedHash": "d0b58d3258ba",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws09-v23-d4a406a7.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "contract-ws10-v23",
@@ -1918,7 +1966,7 @@
       ],
       "summary": "Liquidated damages are paid as agreed unless a penalty, which is unenforceable; specific performance needs inadequate damages, while a clear negative term is ordinarily enforced by prohibitory injunction; guarantees are secondary and need signed writing, but indemnities are primary and need none.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (6 findings fixed in one revision); changed lines checked: pass",
@@ -1929,7 +1977,15 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 20220519,
+      "seconds": 2528,
+      "words": 6183,
+      "renderedHash": "20022e6c2fbf",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws10-v23-194d9d00.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     },
     {
       "id": "pp-ws09-v23-p2",
@@ -1953,7 +2009,7 @@
       ],
       "summary": "Section 25 notice, forfeiture or surrender ends protected tenancy; compensation needs success solely on E, F or G, or notice relying only on them where tenant did not apply or withdrew; section 26 requests opposed only by counter-notice within 2 months.",
       "madeAt": "2026-11-04T17:47:25+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok",
@@ -1965,7 +2021,15 @@
         "b8",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9718615,
+      "seconds": 1215,
+      "words": 3288,
+      "renderedHash": "4443ad126edd",
+      "renderedAt": "2026-11-04T17:54:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p2-a3e4a381.mp3",
+      "pubDate": "2026-11-04T17:54:15+00:00"
     }
   ],
   "replays": [
