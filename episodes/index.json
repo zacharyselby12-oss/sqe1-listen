@@ -1657,7 +1657,7 @@
       ],
       "summary": "Security of tenure needs a tenancy, the tenant's own business occupation and business use, unless the tenancy is excluded or properly contracted out for a term certain, with the warning notice and declaration completed before the tenant is bound.",
       "madeAt": "2026-11-04T12:43:20+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok",
@@ -1668,8 +1668,15 @@
         "b4"
       ],
       "spec": "2.2",
-      "lastError": "FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/sqe1-listen/sqe1-listen/scripts/pp-ws09-v23-p1.txt'",
-      "renderTries": 1
+      "renderTries": 1,
+      "bytes": 5444565,
+      "seconds": 681,
+      "words": 1767,
+      "renderedHash": "fc0380e08b99",
+      "renderedAt": "2026-11-04T12:51:48+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p1-8b15a3b4.mp3",
+      "pubDate": "2026-11-04T12:51:48+00:00"
     }
   ],
   "replays": [

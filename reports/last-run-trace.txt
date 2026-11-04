@@ -1,1 +1,8 @@
-
+    0.8s chunk 1: reused from an earlier run
+    0.8s chunk 2: reused from an earlier run
+    0.8s chunk 3: reused from an earlier run
+    0.8s chunk 1: reused from an earlier run
+    0.8s chunk 2: reused from an earlier run
+    0.8s chunk 1: reused from an earlier run
+    0.9s chunk 1: reused from an earlier run
+    0.9s chunk 2: reused from an earlier run
