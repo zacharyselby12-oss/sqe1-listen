@@ -1,0 +1,97 @@
+---
+id: pp-ws09-v23-p1
+unit: u-bpp-PP-09
+guide_hash: 34f4e4549f
+made: 2026-11-04T12:43:20+00:00
+title: PP WS09 · Business Tenancies: security of tenure (part 1 of 3)
+part: 1 of 3
+blocks: 1-2
+map:
+- Security of tenure: what it gives, and the s23 requirements
+- Excluded tenancies and contracting out
+recap:
+- A protected business tenancy continues on the same terms after the contractual end date until it is ended under the Act, and it needs a tenancy, occupation by the tenant itself (a group company, a controlled company or a controlling individual counts), and business use.
+- A covenant that bars business use of the whole property, or a whole class such as any trade, takes the tenant outside the Act unless the landlord consented or acquiesced; a covenant limiting use to a named business does not.
+- Excluded tenancies include tenancies at will, licences, short fixed terms of 6 months or less (unless the tenancy provides for renewal beyond 6 months or the tenant, with any predecessor in the same business, has occupied for more than 12 months), and agricultural, mining and service tenancies.
+- Contracting out needs a warning notice before the tenant is bound, then a simple declaration if the notice was at least 14 days before and a statutory declaration if less; it works only for a term of years certain, and if it is not followed properly the lease is protected.
+summary: Security of tenure needs a tenancy, the tenant's own business occupation and business use, unless the tenancy is excluded or properly contracted out for a term certain, with the warning notice and declaration completed before the tenant is bound.
+invented:
+- Priya
+- Marlow Print
+- Kestrel Estates
+- Ada
+---
+## Map
+Will (warm): This is the first of three parts on business tenancies and security of tenure, and it asks one thing: is the tenancy protected at all? There are two topics. The first is what security of tenure gives a business tenant, and the three requirements for qualifying. The second is which tenancies are excluded, and how the parties can contract out on purpose.
+Hannah (wary): So the order is: does this tenant qualify, and has anything switched the protection off?
+Will: Right: qualifying first, then exclusions and contracting out. The later parts take it on from there.
+## Block 1: Security of tenure: what it gives, and the s23 requirements
+Will (brisk): First, security of tenure: what it gives a business tenant, and who qualifies. Picture a shop tenant whose lease runs out on Friday. Does it have to be out on Saturday?
+Hannah (sceptical): You're about to say no, aren't you?
+Will (amused): If the tenancy is protected, then no. It carries on after the contractual end date, on the same terms, until it is ended under the Act. And while it does, the rent stays at the passing rent unless an interim rent is fixed.
+Hannah: Why would the law do that for a business?
+Will: To protect the tenant's investment in the premises. A business that has built up trade in a place shouldn't lose it just because a fixed date arrives. So the next question is who gets that protection.
+Hannah (thinking aloud): And I'm guessing it isn't everyone.
+Will: There are three requirements, and you need all three. One, there is a tenancy. Two, the tenant occupies the premises. Three, it occupies them for the purposes of a business carried on by the tenant.
+Hannah: So a tenancy, occupation and business. Which of those causes trouble?
+Will: Occupation, because the tenant must occupy for itself. If the tenant sublets the whole, it is not in occupation, so it has no protection. The subtenant may have it, but the tenant doesn't.
+Hannah: That feels harsh on a tenant who still pays the rent. Where does that come from?
+Will: From the wording of the section: the tenancy has to be of property that is, or includes, premises occupied by the tenant for the purposes of a business carried on by the tenant, or for those and other purposes. So the tenant has to be the occupier, and paying the rent isn't the test. What matters is whose occupation it is. Now there are some people whose occupation counts as the tenant's own. If the tenant is a company, occupation by a company in its group counts, and so does occupation by the individual who controls it. If the tenant is an individual, occupation by a company he controls counts.
+Hannah: So an individual tenant can trade through a company it controls, and the protection survives.
+Will: Right: group company, controlled company or controlling individual all count as the tenant's own occupation. A temporary absence doesn't break occupation either, such as after a fire or during refurbishment, as long as the tenant intends to return.
+Hannah (teasing): So here's the pair. The tenant's subsidiary trades from the whole unit, no subletting. Protected. The tenant sublets the whole to a stranger. Not protected.
+Will: Right: the deciding fact is whose occupation it is, the tenant's own, including a group company, or a subtenant's. Let's test it. The test is whose occupation it is. Priya Ltd holds a lease of a unit and has sublet the whole of it to Marlow Print, an unconnected company, which trades from there. Priya Ltd isn't connected to Marlow Print at all. Does Priya Ltd have protection for that unit?
+Hannah: So the question is whether Priya Ltd is protected, or not because someone else is in occupation?
+Will: <think>
+Hannah (thinking aloud): Occupation again. Priya Ltd isn't there itself, and Marlow Print isn't in its group or controlled by it. So the occupation isn't Priya's.
+Will: Right: Priya Ltd is not in occupation and has no protection. Marlow Print, the subtenant, may have it. The deciding fact is that the occupier is an unconnected subtenant.
+Hannah: Good. So what counts as a business, then?
+Will: A business includes a trade, a profession or employment. For a body of persons, corporate or unincorporated, any activity counts, so a members' sports club is covered.
+Hannah (wary): And what if the lease forbids business use altogether?
+Will: Careful here, because there are two different covenants. Business use in breach of a ban that covers the whole property takes the tenant outside the Act, and that includes a ban on a whole class, such as any trade. The exception is where the landlord consented or acquiesced.
+Hannah: And the other one?
+Will: A covenant that bars one specified business, or limits use to a specified business, does not take the tenant outside the Act. So a lease allowing only a bookshop, where the tenant runs a café, is still protected. A lease barring any trade on the whole premises, where the tenant trades without consent or acquiescence, is not.
+Hannah (summing up): So the question is whether the covenant bans business use or a whole class on the whole property, or only limits or bars one named business.
+Will: Yes: banning all business takes the tenant out unless the landlord consented or acquiesced, while limiting to a named business doesn't.
+## Block 2: Excluded tenancies and contracting out
+Hannah (brisk): Right, so after qualifying comes the other side. Which tenancies are excluded, and how do you contract out?
+Will: Check the exclusions first. They include, in four groups, the following. The first group is things that aren't proper tenancies: tenancies at will, and licences. The second is the short fixed term. The third is the special kinds: agricultural tenancies, mining leases and service tenancies. The fourth is a lease that has been properly contracted out.
+Hannah: The short fixed term sounds like where the trap is.
+Will: It is. A fixed term of 6 months or less is excluded. There are two ways out of that exclusion. The tenancy may provide for renewal beyond 6 months. Or there has been occupation for more than 12 months. That counts any predecessor in the same business.
+Hannah (thinking aloud): So if someone's been there twelve months, they're in.
+Will: Not quite. The occupation must be more than 12 months. Exactly 12 months is not enough.
+Hannah (teasing): A whole day of difference. Fine. Short term, excluded, unless renewal or more than 12 months.
+Will: Right. Let's try it. The test is whether the occupation is more than 12 months. Ada takes a fixed term of 6 months, with nothing in it about renewal beyond 6 months. She took over a shop from a previous tenant who ran the same business there, and between them the business has occupied the premises for exactly 12 months. Is Ada's tenancy protected?
+Hannah: So it's excluded as a short fixed term, or protected because of the occupation?
+Will: <think>
+Hannah (thinking aloud): Six months, no renewal provision. The only way out is more than 12 months of occupation, and exactly 12 isn't more than 12. So it stays excluded.
+Will: Right: excluded. Exactly 12 months is not enough, so the short fixed term exclusion applies.
+Hannah: Now contracting out. How does a landlord do it deliberately?
+Will: It's a procedure, and it all has to be finished before the tenant enters into the tenancy or becomes contractually bound to do so. Step one, the landlord serves a warning notice in the prescribed form. Step two, the tenant makes a declaration. Which kind depends on timing.
+Hannah (wary): Timing of what?
+Will: Of the warning notice. If it was served at least 14 days before, the tenant signs a simple declaration. If it was served less than 14 days before, the tenant must make a statutory declaration before an independent solicitor or commissioner for oaths.
+Hannah: So three weeks ahead, a simple declaration. Five days ahead, the tougher one.
+Will: Right: at least 14 days gives the simple declaration, less than 14 days needs the statutory one. And if there's an agreement for lease, everything must be done before exchange of that agreement, and the agreement should record that the lease will be contracted out.
+Hannah: Anything on the lease itself?
+Will: Yes: the lease, or an endorsement on it, must refer to the notice, the declaration and the agreement to exclude the continuation and renewal provisions.
+Hannah (thinking aloud): Do all leases work for this?
+Will: No. Only a tenancy for a term of years certain can be contracted out. A periodic tenancy cannot. A fixed term with a break clause is still a term certain, so that can.
+Hannah (dry): Break clause or not, as long as it's a term certain. Go on, test me.
+Will (brisk): The test is whether the warning notice was served at least 14 days before. Kestrel Estates serves a warning notice on a tenant only 5 days before the tenant enters into a lease for a fixed term of years. The tenant signs a simple declaration. Is the lease contracted out?
+Hannah: Contracted out, or still protected?
+Will: <think>
+Hannah (thinking aloud): Five days is less than 14 days, so a simple declaration isn't enough. It needed a statutory declaration. So the procedure wasn't followed properly.
+Will: Right: the procedure was not properly followed, so the lease is protected.
+Hannah: And if it is done properly?
+Will: Then the lease has no continuation, no right to a new lease and no statutory compensation: it simply ends on expiry. Also, any other agreement to exclude the Act, or to penalise the tenant for applying for a new tenancy, is void.
+Hannah (summing up): So the safe route is the full procedure, and any shortcut leaves the tenant protected.
+Will: Yes: failed contracting out means a protected lease, and nothing else shortcuts it.
+Hannah: Is there a pair in here that people muddle?
+Will: Two numbers sit close together: a fixed term of 6 months or less, and a warning notice of 14 days. The first is about the length of the term and the occupation, where the tenant needs more than 12 months. The second is about the timing of the notice, where at least 14 days gives the simple declaration and less gives the statutory one.
+Hannah (summing up): So one number is about how long the term is, with occupation of more than 12 months as the way out, and the other is about how early the warning came.
+Will: Yes: occupation of more than 12 months rescues a short term, and a warning notice of at least 14 days allows the simple declaration.
+## Recap
+Hannah (dry): So protection means a tenancy, occupation by the tenant, and business use. Then exclusions and contracting out can still take it away.
+Will: Right, and the ones to remember are that a subtenant's occupation doesn't count for the tenant, and a failed contracting-out leaves the lease protected.
+Hannah (dry): Short version, then.
+Will: Protection needs a tenancy, the tenant's own business occupation and business use, unless the tenancy is excluded or properly contracted out for a term certain, with the warning notice and declaration completed before the tenant is bound.
