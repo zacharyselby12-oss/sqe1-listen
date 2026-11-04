@@ -1636,6 +1636,38 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p2-6db20a18.mp3",
       "pubDate": "2026-11-04T08:44:19+00:00"
+    },
+    {
+      "id": "pp-ws09-v23-p1",
+      "unitId": "u-bpp-PP-09",
+      "title": "PP WS09 · Business Tenancies: security of tenure (part 1 of 3)",
+      "guideHash": "34f4e4549f",
+      "script": "scripts/pp-ws09-v23-p1.txt",
+      "scriptHash": "fc0380e08b99",
+      "audio": "audio/pp-ws09-v23-p1.mp3",
+      "recap": [
+        "A protected business tenancy continues on the same terms after the contractual end date until it is ended under the Act, and it needs a tenancy, occupation by the tenant itself (a group company, a controlled company or a controlling individual counts), and business use.",
+        "A covenant that bars business use of the whole property, or a whole class such as any trade, takes the tenant outside the Act unless the landlord consented or acquiesced; a covenant limiting use to a named business does not.",
+        "Excluded tenancies include tenancies at will, licences, short fixed terms of 6 months or less (unless the tenancy provides for renewal beyond 6 months or the tenant, with any predecessor in the same business, has occupied for more than 12 months), and agricultural, mining and service tenancies.",
+        "Contracting out needs a warning notice before the tenant is bound, then a simple declaration if the notice was at least 14 days before and a statutory declaration if less; it works only for a term of years certain, and if it is not followed properly the lease is protected."
+      ],
+      "map": [
+        "Security of tenure: what it gives, and the s23 requirements",
+        "Excluded tenancies and contracting out"
+      ],
+      "summary": "Security of tenure needs a tenancy, the tenant's own business occupation and business use, unless the tenancy is excluded or properly contracted out for a term certain, with the warning notice and declaration completed before the tenant is bound.",
+      "madeAt": "2026-11-04T12:43:20+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok",
+      "part": 1,
+      "of": 3,
+      "blocks": [
+        "b2",
+        "b4"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
