@@ -1,0 +1,334 @@
+---
+id: blp-ws09-v23
+unit: u-bpp-BLP-09
+guide_hash: c0e11eba0c
+made: 2026-11-04T21:43:12+00:00
+title: BLP WS09 · Insolvency procedures, corporate and personal
+map:
+- Insolvency and the statutory demand
+- Directors in difficulty: the creditor duty and informal deals
+- The standalone (pre-insolvency) moratorium
+- Company voluntary arrangement (CVA)
+- Restructuring plan, and the rescue routes compared
+- Order of priority in a corporate insolvency
+- Personal insolvency: the IVA
+- Bankruptcy: the petition, the estate and priority
+- Bankrupt's discharge and bankruptcy restrictions
+- Voidable transactions in bankruptcy
+- Administration: purpose, appointment and the interim moratorium
+- The administrator in office: proposals, the moratorium and pre-packs
+- Receivership
+- Liquidation: types, dissolution and compulsory winding up
+- Voluntary liquidation: MVL and CVL
+- The office-holder's claims; administration or liquidation
+recap:
+- A company is deemed unable to pay its debts if a statutory demand for a debt over £750 goes unpaid for 3 weeks, and a debt disputed on substantial grounds is protected by an injunction against the winding-up petition.
+- Where the company is insolvent or bordering on insolvency, or insolvent liquidation or administration is probable, directors must consider creditors' interests and balance them against members' interests, and once insolvent liquidation or administration is inevitable creditors' interests are paramount; a real but not remote risk of insolvency does not trigger the duty.
+- A standalone moratorium lasts 20 business days, extendable by the directors for a further 20, up to a year with creditor consent or to any date the court orders, and it is a payment holiday for most pre-moratorium debts, with five exceptions.
+- A CVA approved by 75% in value of the creditors voting, unless more than 50% of the unconnected creditors vote against, binds every unsecured creditor entitled to vote, but not a secured or preferential creditor's rights without its consent, and it brings no moratorium of its own.
+- A restructuring plan is voted on class by class at 75% in value of each class voting and needs the court's sanction; it then binds every creditor and member in those classes, secured creditors included, and the court can cram down a dissenting class if none of its members would be worse off than in the relevant alternative and 75% in value of a class with a payment or genuine economic interest in that alternative agreed.
+- Expenses and preferential debts come out of floating charge assets ahead of the floating chargeholder, never out of fixed charge assets, and a fixed charge creditor's shortfall ranks as unsecured but cannot share in the prescribed part.
+- An IVA has the same creditor majorities as a CVA, binds unsecured creditors entitled to vote, cannot affect a secured creditor's right to enforce or a preferential creditor's priority without consent, and can have its own moratorium, an interim order.
+- A creditor may petition for bankruptcy on an unsecured, liquidated, undisputed debt of at least £5,000 unpaid after a statutory demand for 3 weeks, and a spouse's or civil partner's loan is postponed only if she held that status when the bankruptcy began.
+- Discharge comes after 1 year, but income payments and the trustee's claim to the home can last up to 3 years, and on a trustee's application to sell the home made more than 1 year after vesting the court assumes, unless the circumstances are exceptional, that the creditors' interests outweigh all other considerations.
+- A transaction at an undervalue is caught within 5 years before the petition, with insolvency shown beyond 2 years unless the recipient is an associate, a preference within 6 months, or 2 years for an associate, and a transaction defrauding creditors has no look-back period and needs no insolvency.
+- The administrator must aim to rescue the company unless he thinks that is not reasonably practicable or that a better result for creditors as a whole is available, and the notice period before an out-of-court appointment depends on who is appointing.
+- Proposals are due within 8 weeks and administration ends after 1 year unless extended before it expires, and the moratorium bars winding up and an administrative receiver outright, while consent or permission lifts only the other bars.
+- A fixed charge receiver acts mainly for the chargee and deals only with the charged asset, and there is no moratorium, so other creditors can still sue.
+- Liquidation is compulsory by court order or voluntary by special resolution, and it ends in dissolution 3 months after the final account or notice is registered, unless the date is deferred.
+- Whether the directors make a declaration of solvency within the 5 weeks before the special resolution decides whether the members (MVL) or the creditors (CVL) choose the liquidator, and an MVL becomes a CVL if the liquidator concludes the debts will not be paid in full within the stated period.
+- Misfeasance proceedings let the liquidator or official receiver recover from officers who misapplied company property or breached their duties, and administration aims first at rescue under a moratorium while liquidation ends the company.
+summary: We covered insolvency and the statutory demand, directors in difficulty, the standalone moratorium, the company voluntary arrangement, restructuring plans, order of priority, personal insolvency and the IVA, bankruptcy, discharge, voidable transactions, administration, the administrator in office, receivership, liquidation, voluntary liquidation, and the office-holder's claims.
+invented:
+- Alder Print Ltd
+- Tomas
+- Northgate Bank
+- Ines
+- Joel
+- Fernhill Foods Ltd
+- Castle Bank
+- Harbour Gifts Ltd
+- 7 weeks
+- 4 years
+---
+## Map
+Will: Today is insolvency, corporate and personal, in sixteen topics. First come when a company counts as unable to pay, the directors' duty to creditors, and breathing space through a moratorium.
+Hannah: So signs of trouble, then the pause.
+Will: Right. Then the rescue routes: the voluntary arrangement, the restructuring plan, and who gets paid first in a company.
+Hannah: And then people rather than companies?
+Will: Yes: the individual voluntary arrangement, bankruptcy and its petition, discharge, and transactions the trustee can unwind.
+Hannah: Then back to companies.
+Will: Right: administration, then the administrator in office, receivership, and winding up in its two kinds. We finish with the office-holder's claims.
+Hannah: Let me say it back in four groups. Warning signs and pauses. Rescue routes and priority. Personal insolvency. Then administration, receivership and liquidation.
+Will: Yes, that is the run. Let's start with the statutory demand.
+## Block 1: Insolvency and the statutory demand
+Will: First topic: insolvency and the statutory demand, meaning when a company counts as unable to pay its debts.
+Hannah: Is there a test that does the work for us?
+Will: There is. A statutory demand on a company for a debt over £750 that stays unpaid for 3 weeks makes the company deemed unable to pay.
+Hannah: Just the one debt, then.
+Will: Right. The figure is £750. The wait is 3 weeks. The point of the deeming is that nobody has to prove the company's whole financial position.
+Hannah: And if the company says it does not owe the money?
+Will: A debt disputed on substantial grounds is protected by an injunction against the winding-up petition. So a demand cannot be used to force a genuinely disputed debt.
+Hannah: You said a petition. Is unable to pay the only test?
+Will: Not the only one. A court administration order and a standalone moratorium also accept likely inability to pay, not just actual inability.
+Hannah: Is there a look-alike with the individual?
+Will: Yes: a statutory demand on a company against one on an individual. For a company it is a debt over £750 unpaid for 3 weeks. For an individual, a creditor's petition needs a debt of at least £5,000, and he may apply within 18 days to set the demand aside.
+Hannah: So, company: over £750 and 3 weeks, protected if disputed on substantial grounds. Individual: £5,000 and a set-aside application within 18 days.
+Will: Right. Next, what directors must do once trouble is close.
+## Block 2: Directors in difficulty: the creditor duty and informal deals
+Will: Now directors in difficulty, and the duty they owe to creditors.
+Hannah: Are directors not there for the shareholders?
+Will: Normally yes. A director must act in good faith in the way he considers would most likely promote the success of the company for its members as a whole, having regard to things including employees, suppliers and customers, and long-term consequences.
+Hannah: So where do creditors come in?
+Will: When the company is in trouble. If it is insolvent or bordering on insolvency, or insolvent liquidation or administration is probable, directors must consider creditors' interests and balance them against members' interests.
+Hannah: And the worse it gets?
+Will: The more weight creditors get. Once insolvent liquidation or administration is inevitable, creditors' interests are paramount. The point is that as failure nears, it is the creditors who stand to lose.
+Hannah: What about a risk that might never happen?
+Will: A real but not remote risk of insolvency does not trigger the creditor duty. That is the exception to remember.
+Hannah: So the duty bites only where the company is insolvent or bordering on insolvency, or insolvent liquidation or administration is probable?
+Will: Right. Informal deals with creditors, a standstill or rescheduling, are compared with the voluntary arrangement a few topics on.
+Hannah: Recap: the duty to creditors starts when the company is insolvent or bordering on it, or insolvent liquidation or administration is probable, and a real but not remote risk is not enough.
+Will: Yes, and creditors are paramount only once insolvent liquidation or administration is inevitable.
+## Block 3: The standalone (pre-insolvency) moratorium
+Will: Third topic: the standalone moratorium, the breathing space while a rescue is pursued.
+Hannah: How does a company get it?
+Will: Where no winding-up petition is outstanding, the directors file at court two things: their statement that the company is, or is likely to become, unable to pay its debts, and the proposed monitor's statement that rescue as a going concern is likely.
+Hannah: And if a petition is already outstanding?
+Will: Then the directors must apply to the court. It may order a moratorium only if satisfied that it would achieve a better result for the creditors as a whole than a winding up without one.
+Hannah: How long does it last?
+Will: It lasts 20 business days, starting on the business day after it comes into force. The directors can extend it for a further 20. Beyond that, up to a year in total needs creditor consent, or it can run to any date the court orders.
+Hannah: What does the company get out of it?
+Will: A payment holiday on most pre-moratorium debts. There are five exceptions. One, amounts for the monitor's remuneration or expenses. Two, goods or services supplied, or rent, for a period during the moratorium. Three, wages or salary.
+Hannah: And the other two?
+Will: Four, redundancy payments. Five, financial services debts.
+Hannah: So the pause covers old debts, but the company still pays for what it uses during the pause, its staff, and the monitor.
+Will: Right, plus redundancy payments and financial services debts. Now a deal with the creditors.
+## Block 4: Company voluntary arrangement (CVA)
+Will: Fourth topic: the company voluntary arrangement, the CVA. It is a compromise that, once approved, binds every unsecured creditor entitled to vote.
+Hannah: Who proposes it?
+Will: The directors, or an administrator or liquidator. Approval needs 75% in value of the creditors voting. It fails if more than 50% of the unconnected creditors vote against. The members must approve by over 50%.
+Hannah: And if a creditor is unhappy?
+Will: A challenge, or a member's application, goes to court within 28 days.
+Hannah: Who does it not bind?
+Will: Secured creditors keep their right to enforce their security, and preferential creditors keep their priority, unless they consent. That is the exception to the binding effect.
+Hannah: Why would a supplier who never voted be bound, but a bank not?
+Will: Take two stories. An unsecured supplier entitled to vote never voted: it is bound. A bank with a fixed charge never agreed: it may still enforce its security. The deciding fact is whether the creditor's secured or preferential rights would be affected, which needs its consent.
+Hannah: Is the informal deal a look-alike?
+Will: Yes. An informal deal, a standstill or rescheduling, is only a contract. It binds the creditors who sign it, and any other creditor owed more than £750 can still serve a statutory demand. A CVA approved by the statutory majorities binds every unsecured creditor entitled to vote, whether or not he voted or had notice.
+Hannah: So the informal deal binds only signers, and the CVA binds all unsecured creditors entitled to vote.
+Will: Right. And the second look-alike: a CVA brings no moratorium of its own. While it is negotiated a creditor can still, for example, present a winding-up petition.
+Hannah: So to hold creditors off, the company needs the standalone moratorium or administration.
+Will: Yes. Here is one to try. Alder Print Ltd has a CVA approved by the statutory majorities. Tomas, an unsecured supplier entitled to vote, was never sent notice and did not vote. Northgate Bank holds a fixed charge and never agreed. The test is who is bound. Is only Tomas bound, only the bank bound, or both?
+Hannah: Tomas bound, bank bound, or both?
+Hannah: <think>
+Hannah: This turns on who a CVA binds. Tomas is an unsecured creditor entitled to vote, so he is bound even without notice. The bank's security is affected, so it needs to consent, and it can still enforce.
+Will: Right. Only Tomas is bound. A CVA binds every unsecured creditor entitled to vote whether or not he voted or had notice, and the bank keeps its right to enforce its security unless it consents.
+Hannah: Recap: a CVA approved by the statutory majorities binds every unsecured creditor entitled to vote, but secured and preferential rights survive without consent, and it gives no moratorium.
+Will: Right. Next, the court-sanctioned alternative.
+## Block 5: Restructuring plan, and the rescue routes compared
+Will: Fifth topic: the restructuring plan, and then the rescue routes compared.
+Hannah: What does a company need before it can use a plan?
+Will: Financial difficulties that are affecting, or will or may affect, its ability to carry on business as a going concern. The plan must aim to eliminate, reduce or prevent them, or mitigate their effect.
+Hannah: Who can apply?
+Will: The company, a creditor, a member, or a liquidator or administrator. The court may order meetings of the affected classes, leaving out a class with no genuine economic interest in the company.
+Hannah: And the vote?
+Will: 75% in value of each class present and voting. Then the court may sanction the plan, and it binds every creditor and member in those classes, secured creditors included, and the company.
+Hannah: That sounds stronger than a CVA.
+Will: It is, and the exception is cram down. The court may still sanction over a dissenting class if two things hold. One, none of its members would be worse off than in the relevant alternative, meaning what the court thinks most likely without the plan. Two, 75% in value of a class with a payment or genuine economic interest in that alternative agreed.
+Hannah: So a class can say no and still be bound.
+Will: Right, if both conditions are met. Look-alike: a CVA is approved by the creditors voting together and cannot bind a secured creditor without its consent. A restructuring plan is voted on class by class and needs the court's sanction.
+Hannah: And a plan can drag in secured creditors.
+Will (neutral): Yes. Now the routes side by side. The guide compares four: the moratorium, the CVA, the plan and administration, on three points: how each starts, how it is approved, and what it binds.
+Hannah: Which contrasts?
+Will: The moratorium needs no approval to start and is a payment holiday. The CVA binds unsecured creditors entitled to vote and brings no moratorium. The plan binds whole classes, secured included. Administration has its own moratorium, with proposals to creditors within 8 weeks.
+Hannah: So the plan and administration both reach secured creditors, one by class vote and court, one by a moratorium?
+Will: Right, with one qualifier: the plan binds secured creditors in the classes, while administration only bars enforcement without consent or permission.
+## Block 6: Order of priority in a corporate insolvency
+Will: Sixth topic: the order of priority in a corporate insolvency, who is paid first, and from which assets.
+Hannah: Is it one pot?
+Will: No. Where free assets fall short, expenses and preferential debts are paid from floating charge assets ahead of the floating chargeholder, never from fixed charge assets.
+Hannah: So a fixed charge holder is safe from expenses?
+Will: From expenses and preferential debts, yes, on its fixed charge assets. Now the preferential debts. Pension contributions: second tier?
+Hannah: I would have said they are second-tier preferential debts.
+Will: Not quite. Certain pension contributions are ordinary preferential debts, with employees' wages and holiday pay. The second tier is HMRC's claims for taxes the company collected for others, from 1 December 2020.
+Hannah: And the wages cap?
+Will: Wages for the 4 months before the relevant date, up to £800 each. Any excess is unsecured.
+Hannah: Now the shortfall of a fixed charge creditor. Does it share in the prescribed part?
+Will: Its shortfall ranks as an unsecured debt, but it cannot share in the prescribed part for it, even after its security is realised.
+Hannah: So it is unsecured for the shortfall but shut out of the prescribed part.
+Will (neutral): Right. The prescribed part is 50% of the first £10,000, then 20% of the rest. It is capped at £800,000, or £600,000 for charges created before 6 April 2020.
+Hannah: Is that always taken?
+Will: Only for floating charges created from 15 September 2003. It may be skipped under £10,000 if disproportionate.
+Hannah: Recap: expenses and preferential debts come from floating charge assets and never from fixed ones, and the prescribed part applies only to floating charges from that 2003 date.
+Will: Right, and a fixed chargeholder's shortfall cannot share in it. On to the individual.
+## Block 7: Personal insolvency: the IVA
+Will: Seventh topic: personal insolvency, and the individual voluntary arrangement, the IVA. It is an individual's alternative to bankruptcy, and the counterpart of the CVA.
+Hannah: So same rules?
+Will: Largely. The look-alike is the CVA against the IVA. Both need 75% in value of the creditors voting, and both fail if more than 50% in value of the unconnected creditors vote against.
+Hannah: And who is bound?
+Will: Both bind every unsecured creditor entitled to vote, whether or not he voted. Neither can affect a secured creditor's right to enforce, or a preferential creditor's priority, without consent.
+Hannah: Where do they differ?
+Will: The moratorium. An IVA can have its own, an interim order. A CVA has none.
+Hannah: So the IVA is a CVA for a person, with an interim order available.
+Will: Right, and the majorities and the secured and preferential protections are the same. Now what happens when the individual does go bankrupt.
+## Block 8: Bankruptcy: the petition, the estate and priority
+Will: Eighth topic: bankruptcy, the petition, the estate and priority. The bankrupt's estate vests in a trustee, who pays creditors in the statutory order.
+Hannah: When can a creditor petition?
+Will: Take two stories. In the first the debt is £5,000. It is unsecured, liquidated and undisputed. The demand is unpaid after 3 weeks: the creditor may petition. A debt of £4,000 on the same facts: no petition. The deciding fact is whether the unsecured, liquidated debt is at least £5,000.
+Hannah: Is the demand deadline 2 weeks?
+Will: It is 3 weeks. He appears unable to pay once the demand has gone unpaid for 3 weeks and has not been set aside.
+Hannah: Now what the trustee takes.
+Will: On bankruptcy the estate vests in the trustee, the Official Receiver at first. The exceptions are tools, vehicles and equipment necessary for his work, and basic household items.
+Hannah: So the bankrupt keeps his work van?
+Will: If it is necessary for his work it is excluded, but the trustee may still claim any excluded item, tools and vehicles as well as household items, if its realisable value exceeds the cost of a reasonable replacement. He must then buy that replacement out of the estate.
+Hannah: What else changes for the bankrupt?
+Will: Dispositions after the petition are void unless approved by the court. An undischarged bankrupt cannot act as a company director, or take part in managing a company, without court permission. He must also disclose his status when obtaining credit of £500 or more. And a partnership he belongs to is dissolved, unless the partners have agreed otherwise.
+Hannah: Good, that covers the estate. And the order of payment?
+Will: Take two stories. A wife lent her husband money before they married and was his wife when the bankruptcy began: her loan is postponed. A couple divorced before the bankruptcy began: not postponed, and she ranks as an ordinary unsecured creditor. The deciding fact is her status at the commencement of the bankruptcy, not when she lent.
+Hannah: So it is the status on the day the bankruptcy starts.
+Will: Yes. The look-alike is the corporate order against the bankruptcy order. Both pay expenses, then ordinary and secondary preferential debts, before unsecured creditors and statutory interest. A company's order also has the prescribed part and floating charge holders, and ends with the members. A bankrupt's adds postponed debts and ends with any surplus to him.
+Hannah: Recap: in both, expenses and preferential debts come before unsecured creditors. A company's order adds floating charges and the prescribed part. A bankrupt's adds the postponed loans, and any surplus goes back to him.
+Will: Right, where postponement depends on being spouse or civil partner when the bankruptcy began.
+## Block 9: Bankrupt's discharge and bankruptcy restrictions
+Will: Ninth topic: the bankrupt's discharge, the home, and bankruptcy restrictions.
+Hannah: When does a bankrupt get out?
+Will: Discharge releases most bankruptcy debts, and it comes after 1 year. But income payments and the trustee's claim to the home can last up to 3 years.
+Hannah: So discharge does not end everything.
+Will: Right. The year frees him from most debts, but income payments and the home can stay in the trustee's reach for up to 3 years.
+Hannah: What about the trustee selling the home?
+Will: If the application is made more than 1 year after the estate first vested in a trustee, the court assumes, unless the circumstances are exceptional, that the creditors' interests outweigh all other considerations.
+Hannah: So after a year, the default favours the creditors.
+Will: Yes. And bankruptcy restrictions can last from 2 to 15 years.
+Hannah: Recap: discharge after 1 year, income payments and the home up to 3 years, on a sale application after that first year the creditors' interests are assumed to outweigh all others unless the circumstances are exceptional, and restrictions from 2 to 15 years.
+Will: Right. Now what the trustee can unwind from before the bankruptcy.
+## Block 10: Voidable transactions in bankruptcy
+Will: Tenth topic: voidable transactions in bankruptcy, the transactions the trustee can unwind.
+Hannah: How far back can he go?
+Will: Look-back periods run back from the petition, or the debtor's own bankruptcy application. A transaction at an undervalue is caught within 5 years. Insolvency must be shown beyond 2 years, and within 2 years it need not be shown at all.
+Hannah: And a preference?
+Will: A preference is caught within 6 months. Associates face a longer period for preferences, 2 years not 6 months. The exception is someone associated only as his employee, who does not count.
+Hannah: What is a preference?
+Will: Putting a creditor, surety or guarantor in a better position on his bankruptcy. It needs a desire to prefer, which is presumed for an associate, and his insolvency then or as a result.
+Hannah: And who is an associate?
+Will: They include his spouse or civil partner, and relatives of either of them, starting with a brother or sister.
+Hannah: Who else among the relatives?
+Will: An uncle or aunt.
+Hannah: And beyond those?
+Will: Nephew or niece, and a lineal ancestor or descendant. Then those relatives' spouses or civil partners.
+Hannah: Is there a test for the gift case?
+Will: Take two stories. A gift three years before the petition to his adult daughter, an associate: insolvency is presumed, unless the contrary is shown. The same gift to a friend: the trustee must prove he was insolvent then or became so as a result. The deciding fact is whether the recipient is an associate.
+Hannah: And a different kind of attack?
+Will: A transaction defrauding creditors. That is an undervalue entered into for the purpose of putting assets beyond the reach of, or otherwise prejudicing, a person who is making or may make a claim. It can be set aside without any look-back period and without the individual being insolvent.
+Hannah: Doesn't it need some intent?
+Will: It does. The purpose must be a real, substantial purpose, but need not be the only one.
+Hannah: Who can apply?
+Will: The victim, with the court's leave if the debtor is bankrupt or the company is in liquidation or administration. So can the official receiver, liquidator, administrator, trustee or supervisor of a voluntary arrangement. Limitation Act periods still apply.
+Hannah: So the look-alike is the plain undervalue against the one defrauding creditors.
+Will: Yes. An undervalue is caught only within 5 years before the petition, with insolvency shown, or presumed for an associate, beyond 2 years. The defrauding kind has no look-back and needs no insolvency, but the applicant must show a real purpose of putting assets beyond a claimant's reach or otherwise prejudicing him.
+Hannah: Recap: a plain undervalue is limited to 5 years with the insolvency rules, while a transaction defrauding creditors needs no look-back and no insolvency, only a real purpose.
+Will: Right. Time for a scenario. Ines is made bankrupt. Four years before the petition she gave her car to her brother Joel, and the trustee has no evidence she was insolvent then. The test is whether insolvency is presumed. Is it presumed because Joel is an associate, must the trustee prove it, or is the gift too old to challenge?
+Hannah: Presumed, must be proved, or too old?
+Hannah: <think>
+Hannah: This is undervalues and associates. Four years is inside the 5, and beyond 2 years insolvency has to be shown, but it is presumed for an associate. A brother is a relative, so presumed.
+Will: Right. A brother is an associate, so insolvency is presumed unless the contrary is shown. A friend would have meant the trustee had to prove it.
+## Block 11: Administration: purpose, appointment and the interim moratorium
+Will: Eleventh topic: administration, its purpose, how the administrator is appointed, and the interim moratorium.
+Hannah: What is the administrator trying to do?
+Will: He must aim to rescue the company as a going concern, unless he thinks that is not reasonably practicable, or that the second objective, a better result for creditors as a whole than a winding up without prior administration, would achieve a better result for them.
+Hannah: So rescue gives way only if it is not achievable?
+Will: Not only that. Rescue also gives way if he thinks the second objective would give creditors as a whole a better result.
+Hannah: And the last resort?
+Will: Only if he thinks neither rescue nor a better result is reasonably practicable may he aim to realise property to distribute to secured or preferential creditors. Even then he must not unnecessarily harm the creditors as a whole.
+Hannah: Who can appoint him?
+Will: There are three routes: a court order, a qualifying floating charge holder out of court, and the company or directors out of court. Take two stories. The directors appoint: they give 5 business days' notice of intention to the qualifying floating charge holder, which may appoint its own choice. The charge holder appoints: it gives 2 business days' notice, only to any prior qualifying chargeholder. The deciding fact is who is appointing.
+Hannah: Conditions for appointing out of court?
+Will: A qualifying floating charge holder cannot appoint while the floating charge it relies on is not enforceable. The company or directors may appoint only once the 5 business days' written notice has expired or everyone notified has consented in writing.
+Hannah: Is there a further limit on the company or directors?
+Will: Yes. The company or directors cannot appoint out of court within 12 months of their last appointment.
+Hannah: And the notice of appointment is filed 10 business days after the notice of intention, at the earliest?
+Will: It is the reverse. They cannot appoint after the 10 business days beginning with the day the notice of intention is filed at court.
+Hannah: So a window: not before the notice runs, not after the 10 business days.
+Will: Right, unless everyone notified consented in writing, which lifts only the earlier bar.
+Hannah: What about protection before the administrator arrives?
+Will: An interim moratorium applies from when an administration application is made or a notice of intention to appoint is filed. Only court permission lifts it, because there is no administrator to consent. It does not stop a qualifying floating charge holder appointing an administrator or an administrative receiver acting.
+Hannah: Recap: three routes, 5 business days for directors and 2 for the charge holder, no appointment after the 10 business days from filing the notice of intention, and an interim moratorium lifted only by the court.
+Will: Right. Here is a scenario. Fernhill Foods Ltd's directors want to appoint an administrator out of court. Castle Bank holds a qualifying floating charge. The test is the notice the directors must give. Is it 2 business days to any prior chargeholder, 5 business days to Castle Bank, or no notice because the charge is enforceable?
+Hannah: Two to a prior holder, five to Castle Bank, or none?
+Hannah: <think>
+Hannah: This is the three routes. Directors appoint, so it is the 5 business days' notice of intention to the qualifying floating charge holder.
+Will: Right. The 2 business days apply when the charge holder itself appoints. Here the directors do, so Castle Bank gets 5 business days and may appoint its own choice.
+## Block 12: The administrator in office: proposals, the moratorium and pre-packs
+Will: Twelfth topic: the administrator in office, his proposals, the moratorium, and pre-packs.
+Hannah: What are the time limits?
+Will: Proposals go to creditors within 8 weeks. Administration ends after 1 year unless extended before it expires.
+Hannah: Who can extend it?
+Will: The creditors' consent or the court. Neither extension can be made once the term has expired. Consent can extend it only once, and not after a court extension.
+Hannah: And the moratorium? Can I just wind the company up?
+Will: In administration no winding-up resolution may be passed and no winding-up order made, except on a public-interest or FCA or PRA petition. No administrative receiver may be appointed. Creditors need the administrator's consent or the court's permission to enforce.
+Hannah: To enforce what, in particular?
+Will: Any step to enforce security, or to repossess goods under hire purchase, conditional sale, chattel leasing or retention of title. Also forfeiting a lease by peaceable re-entry, and starting or continuing legal process.
+Hannah: So the court or the administrator can lift any bar, winding up included?
+Will: No. Winding up, save on a public-interest or FCA or PRA petition, and appointing an administrative receiver are barred outright. Consent or the court's permission lifts only the other bars.
+Hannah: Is the earlier moratorium the look-alike?
+Will: Yes. The interim one runs from the application or the filing of a notice of intention, before an administrator is in office, and only the court's permission lifts it. In administration, the administrator's consent or the court's permission lifts the bars on enforcement and legal process.
+Hannah: Recap: the interim moratorium is lifted only by the court and does not stop a qualifying floating charge holder appointing; the administration moratorium bars winding up and an administrative receiver outright, and consent or permission lifts only the other bars.
+Will: Right. Now pre-packs and the administrator's position. He is an officer of the court. There is a restriction on pre-packs to connected persons: it covers any disposal, hiring out or sale of what the administrator thinks is all or a substantial part of the business or assets, even through a series of transactions.
+Hannah: For how long?
+Will: In the 8 weeks from the day the company enters administration, it needs creditor approval or an evaluator's report.
+Hannah: So a quick sale to connected people in the first 8 weeks needs creditor approval or an evaluator's report.
+Will: Right. Next, the other enforcement route.
+## Block 13: Receivership
+Will: Thirteenth topic: receivership. It enforces one creditor's security.
+Hannah: Who appoints a receiver?
+Will: A fixed charge holder. The receiver acts mainly for the chargee and deals only with the charged asset.
+Hannah: And the moratorium?
+Will: There is none, so other creditors can still sue.
+Hannah: Where does that leave administrative receivership?
+Will: It is mostly unavailable for floating charges created from 15 September 2003.
+Hannah: Look-alike with the administrator?
+Will: Yes. A receiver acts mainly for the chargee, deals only with the charged asset, and there is no moratorium. An administrator is an officer of the court pursuing the statutory objectives, and while he is in office the moratorium bars enforcement and legal process without his consent or the court's permission.
+Hannah: Receiver: one creditor, one asset, no pause. Administrator: everyone, statutory objectives, with a moratorium.
+Will: Right, and the administrator's bars lift only with his consent or the court's permission.
+## Block 14: Liquidation: types, dissolution and compulsory winding up
+Will: Fourteenth topic: liquidation, its types, dissolution, and compulsory winding up.
+Hannah: What are the types?
+Will: Liquidation is compulsory, by court order, or voluntary, by special resolution.
+Hannah: And how does a company disappear at the end?
+Will: Liquidation ends in dissolution 3 months after the registrar registers the liquidator's final account. In a compulsory winding up it is 3 months after the registration of the official receiver's notice that it is complete. The date can be deferred.
+Hannah: What gets a company to court for winding up?
+Will: Often an actual inability to pay. That ties back to the statutory demand: over £750 unpaid for 3 weeks. And a debt disputed on substantial grounds is protected by an injunction against the winding-up petition.
+Hannah: Recap: liquidation is compulsory by court order or voluntary by special resolution, and the company is dissolved 3 months after the final account, or the official receiver's notice, is registered, unless deferred.
+Will: Right. Now the voluntary kind.
+## Block 15: Voluntary liquidation: MVL and CVL
+Will: Fifteenth topic: voluntary liquidation, the members' voluntary liquidation, the MVL, and the creditors' voluntary liquidation, the CVL. One is for solvent members, the other for an insolvent company's creditors.
+Hannah: What decides which it is?
+Will: Whether the directors make a declaration of solvency in time. If they do, the members choose the liquidator. If not, the creditors do.
+Hannah: What is in the declaration?
+Will: The directors make a statutory declaration of solvency, or a majority of them if there are more than two. It comes with a statement of assets and liabilities. It says the company will pay its debts in full with interest within a stated period of not more than 12 months.
+Hannah: And in time means?
+Will: Within the 5 weeks before the members pass the special resolution to wind up, or on that day before the resolution.
+Hannah: What if the directors had no grounds?
+Will: A director who makes it without reasonable grounds commits an offence. It is presumed if the debts are not paid within the stated period.
+Hannah: Filings?
+Will: The resolution and the declaration have short filing deadlines, and the resolution must be advertised in the Gazette. Those are look-up detail. The members appoint the liquidator.
+Hannah: And if the debts cannot be paid after all?
+Will: If the liquidator concludes the debts will not be paid in full within the period, it becomes a creditors' voluntary liquidation.
+Hannah: Recap: an MVL needs a timely declaration of solvency, the members choose the liquidator, and a later conclusion that debts cannot be paid in time turns it into a CVL.
+Will: Right. Here is a scenario. The directors of Harbour Gifts Ltd made a declaration of solvency 7 weeks before the members passed the special resolution to wind up. The test is whether the declaration was made in time. Is the liquidation a members' voluntary one chosen by the members, a creditors' one chosen by the creditors, or must the resolution be passed again?
+Hannah: Members' voluntary, creditors' voluntary, or start again?
+Hannah: <think>
+Hannah: This turns on the timing of the declaration. It has to be within the 5 weeks before the resolution, and 7 weeks is outside it, so it was not made in time. I would say creditors choose.
+Will: Right. A declaration made in time decides that the members choose the liquidator. Here it was out of time, so it is a creditors' voluntary liquidation.
+## Block 16: The office-holder's claims; administration or liquidation
+Will: Last topic: the office-holder's claims, and choosing between administration and liquidation.
+Hannah: What can a liquidator claim?
+Will: Misfeasance proceedings let the liquidator or official receiver recover from officers who misapplied company money or property or breached their duties. A creditor, or a contributory with the court's leave, may also bring them.
+Hannah: And how does a court order for administration differ from winding up?
+Will: For a court order, administration needs the company to be unable to pay its debts, or likely to become so. The order must also be reasonably likely to achieve the purpose of administration. A winding-up petition usually relies on an actual inability to pay.
+Hannah: So administration can start earlier.
+Will: Yes. Look-alike: administration against liquidation. Administration aims first at rescuing the company, under a moratorium, and ends automatically after 1 year unless extended. Liquidation ends the company: its assets are distributed in the statutory order and it is then dissolved.
+Hannah: Recap: administration aims first at rescue under a moratorium and ends after 1 year unless extended, while liquidation ends the company by distributing assets in the statutory order and then dissolving it.
+Will: Right. Administration by court order accepts likely inability to pay. A winding-up petition usually relies on actual inability.
+Hannah: Shall we run through the whole list once more?
+## Recap
+Will: We covered insolvency and the statutory demand, directors in difficulty, the standalone moratorium, the company voluntary arrangement, restructuring plans, order of priority, personal insolvency and the IVA, bankruptcy, discharge, voidable transactions, administration, the administrator in office, receivership, liquidation, voluntary liquidation, and the office-holder's claims.

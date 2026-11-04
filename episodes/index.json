@@ -1009,7 +1009,7 @@
       "renderedHash": "979aef21bf5a",
       "renderedAt": "2026-10-29T21:44:29+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p1-e01b39fd.mp3",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p1-e01b39fd.mp3?v=2",
       "pubDate": "2026-10-29T21:44:29+00:00"
     },
     {
@@ -1056,7 +1056,7 @@
       "renderedHash": "ad3fecb09da3",
       "renderedAt": "2026-10-30T08:44:19+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p2-7818e9ef.mp3",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws08-v23-p2-7818e9ef.mp3?v=2",
       "pubDate": "2026-10-30T08:44:19+00:00"
     },
     {
@@ -1569,7 +1569,7 @@
       "renderedHash": "e3568ba421a9",
       "renderedAt": "2026-11-03T21:45:18+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p1-515f9730.mp3",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p1-515f9730.mp3?v=2",
       "pubDate": "2026-11-03T21:45:18+00:00"
     },
     {
@@ -1634,7 +1634,7 @@
       "renderedHash": "734dea8466a5",
       "renderedAt": "2026-11-04T08:44:19+00:00",
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
-      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p2-6db20a18.mp3",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p2-6db20a18.mp3?v=2",
       "pubDate": "2026-11-04T08:44:19+00:00"
     },
     {
@@ -2030,6 +2030,58 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p2-a3e4a381.mp3",
       "pubDate": "2026-11-04T17:54:15+00:00"
+    },
+    {
+      "id": "blp-ws09-v23",
+      "unitId": "u-bpp-BLP-09",
+      "title": "BLP WS09 · Insolvency procedures, corporate and personal",
+      "guideHash": "c0e11eba0c",
+      "script": "scripts/blp-ws09-v23.txt",
+      "scriptHash": "eedb63e55c92",
+      "audio": "audio/blp-ws09-v23.mp3",
+      "recap": [
+        "A company is deemed unable to pay its debts if a statutory demand for a debt over £750 goes unpaid for 3 weeks, and a debt disputed on substantial grounds is protected by an injunction against the winding-up petition.",
+        "Where the company is insolvent or bordering on insolvency, or insolvent liquidation or administration is probable, directors must consider creditors' interests and balance them against members' interests, and once insolvent liquidation or administration is inevitable creditors' interests are paramount; a real but not remote risk of insolvency does not trigger the duty.",
+        "A standalone moratorium lasts 20 business days, extendable by the directors for a further 20, up to a year with creditor consent or to any date the court orders, and it is a payment holiday for most pre-moratorium debts, with five exceptions.",
+        "A CVA approved by 75% in value of the creditors voting, unless more than 50% of the unconnected creditors vote against, binds every unsecured creditor entitled to vote, but not a secured or preferential creditor's rights without its consent, and it brings no moratorium of its own.",
+        "A restructuring plan is voted on class by class at 75% in value of each class voting and needs the court's sanction; it then binds every creditor and member in those classes, secured creditors included, and the court can cram down a dissenting class if none of its members would be worse off than in the relevant alternative and 75% in value of a class with a payment or genuine economic interest in that alternative agreed.",
+        "Expenses and preferential debts come out of floating charge assets ahead of the floating chargeholder, never out of fixed charge assets, and a fixed charge creditor's shortfall ranks as unsecured but cannot share in the prescribed part.",
+        "An IVA has the same creditor majorities as a CVA, binds unsecured creditors entitled to vote, cannot affect a secured creditor's right to enforce or a preferential creditor's priority without consent, and can have its own moratorium, an interim order.",
+        "A creditor may petition for bankruptcy on an unsecured, liquidated, undisputed debt of at least £5,000 unpaid after a statutory demand for 3 weeks, and a spouse's or civil partner's loan is postponed only if she held that status when the bankruptcy began.",
+        "Discharge comes after 1 year, but income payments and the trustee's claim to the home can last up to 3 years, and on a trustee's application to sell the home made more than 1 year after vesting the court assumes, unless the circumstances are exceptional, that the creditors' interests outweigh all other considerations.",
+        "A transaction at an undervalue is caught within 5 years before the petition, with insolvency shown beyond 2 years unless the recipient is an associate, a preference within 6 months, or 2 years for an associate, and a transaction defrauding creditors has no look-back period and needs no insolvency.",
+        "The administrator must aim to rescue the company unless he thinks that is not reasonably practicable or that a better result for creditors as a whole is available, and the notice period before an out-of-court appointment depends on who is appointing.",
+        "Proposals are due within 8 weeks and administration ends after 1 year unless extended before it expires, and the moratorium bars winding up and an administrative receiver outright, while consent or permission lifts only the other bars.",
+        "A fixed charge receiver acts mainly for the chargee and deals only with the charged asset, and there is no moratorium, so other creditors can still sue.",
+        "Liquidation is compulsory by court order or voluntary by special resolution, and it ends in dissolution 3 months after the final account or notice is registered, unless the date is deferred.",
+        "Whether the directors make a declaration of solvency within the 5 weeks before the special resolution decides whether the members (MVL) or the creditors (CVL) choose the liquidator, and an MVL becomes a CVL if the liquidator concludes the debts will not be paid in full within the stated period.",
+        "Misfeasance proceedings let the liquidator or official receiver recover from officers who misapplied company property or breached their duties, and administration aims first at rescue under a moratorium while liquidation ends the company."
+      ],
+      "map": [
+        "Insolvency and the statutory demand",
+        "Directors in difficulty: the creditor duty and informal deals",
+        "The standalone (pre-insolvency) moratorium",
+        "Company voluntary arrangement (CVA)",
+        "Restructuring plan, and the rescue routes compared",
+        "Order of priority in a corporate insolvency",
+        "Personal insolvency: the IVA",
+        "Bankruptcy: the petition, the estate and priority",
+        "Bankrupt's discharge and bankruptcy restrictions",
+        "Voidable transactions in bankruptcy",
+        "Administration: purpose, appointment and the interim moratorium",
+        "The administrator in office: proposals, the moratorium and pre-packs",
+        "Receivership",
+        "Liquidation: types, dissolution and compulsory winding up",
+        "Voluntary liquidation: MVL and CVL",
+        "The office-holder's claims; administration or liquidation"
+      ],
+      "summary": "We covered insolvency and the statutory demand, directors in difficulty, the standalone moratorium, the company voluntary arrangement, restructuring plans, order of priority, personal insolvency and the IVA, bankruptcy, discharge, voidable transactions, administration, the administrator in office, receivership, liquidation, voluntary liquidation, and the office-holder's claims.",
+      "madeAt": "2026-11-04T21:43:12+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 4 hits, all cleared by the Opus accuracy check (script states the correct rule); Opus accuracy + line-by-line checks (12 findings fixed, 2 further rounds of fixes); changed lines ok (final check passed, 0 problems); hash re-checked r202611042119: stored guideHash c0e11eba0c equals the guide text hash now, script unchanged",
+      "spec": "2.2"
     }
   ],
   "replays": [
