@@ -1571,6 +1571,63 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws09-v23-p1-515f9730.mp3",
       "pubDate": "2026-11-03T21:45:18+00:00"
+    },
+    {
+      "id": "dr-ws09-v23-p2",
+      "unitId": "u-bpp-DR-09",
+      "title": "DR WS09 · Trial, judgments and enforcement (part 2 of 2)",
+      "guideHash": "7d681bcb63",
+      "script": "scripts/dr-ws09-v23-p2.txt",
+      "scriptHash": "734dea8466a5",
+      "audio": "audio/dr-ws09-v23-p2.mp3",
+      "recap": [
+        "Trial: etiquette, order of events, judgment and costs: no CPR rule fixes the order of closing speeches, so the judge decides; leading questions are not allowed of your own witness in examination-in-chief or re-examination on disputed matters; a final judgment ends the dispute, and the general rule is that the unsuccessful party pays the successful party's costs, but the court may make a different order.",
+        "Judgments and orders: effect, payment, interest and stays: a judgment or order takes effect from the day it is given unless the court specifies a later date; money is due within 14 days unless it specifies another date or the court has stayed it; simple interest at 8 per cent a year applies to all High Court judgments, but to County Court judgments only if £5,000 or more (or a qualifying debt under late payment legislation).",
+        "Debt Respite Scheme (breathing space): nothing is checked on it yet, so nothing is taught here.",
+        "Investigating the debtor's means and orders to obtain information: an order to obtain information helps choose a method but is not itself one; it must be served personally not less than 14 days before the hearing; County Court money judgments stay on the Register of Judgments for 6 years.",
+        "Choosing a method and which court enforces: any available method, and more than one, may be used; for taking control of goods on a County Court judgment, under £600 is the County Court only, £600 to £4,999 either court, and £5,000 or more the High Court, unless it arises under a regulated Consumer Credit Act agreement.",
+        "Enforcing an English judgment abroad: nothing beyond the heading is checked yet, so nothing is taught here.",
+        "Taking control of goods: permission is needed if 6 years or more have passed since the judgment; at least 14 clear days' notice (28 clear days where a debt advice provider asks for an extension in time, except for non-eligible business debt); only between 6 am and 9 pm, subject to exceptions; no forced entry to a home on a first visit; exempt tools of the trade up to £1,350 in total.",
+        "Third party debt orders: the interim order catches only money due when it is served, not later credits and not a joint account with someone who is not a judgment debtor.",
+        "Charging orders: a charging order only secures the debt, so to obtain money the creditor needs a separate order for sale, which cannot be made for a regulated consumer credit debt of less than £1,000.",
+        "Attachment of earnings orders: County Court only, only where the debtor has earnings, and none if the debt or the amount still unpaid is less than £50.",
+        "Insolvency proceedings: bankruptcy and winding up: an individual has 21 days after a statutory demand, and a petition needs an unsecured debt of £5,000 or more; a company owing more than £750 is deemed unable to pay if a written demand is not satisfied within 3 weeks; neither gives the creditor priority."
+      ],
+      "map": [
+        "Trial: etiquette, order of events, judgment and costs",
+        "Judgments and orders: effect, payment, interest and stays",
+        "Debt Respite Scheme (breathing space)",
+        "Investigating the debtor's means and orders to obtain information",
+        "Choosing a method and which court enforces",
+        "Enforcing an English judgment abroad",
+        "Taking control of goods",
+        "Third party debt orders",
+        "Charging orders",
+        "Attachment of earnings orders",
+        "Insolvency proceedings: bankruptcy and winding up"
+      ],
+      "summary": "That was trial and judgment, judgments and orders, the Debt Respite Scheme, investigating the debtor's means, choosing a method and court, enforcing a judgment abroad, taking control of goods, third party debt orders, charging orders, attachment of earnings orders, and insolvency proceedings.",
+      "madeAt": "2026-11-04T08:43:19+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks, fixes applied, Opus changed-lines check passed",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b10",
+        "b11",
+        "b12",
+        "b13",
+        "b14",
+        "b15",
+        "b16",
+        "b17",
+        "b18",
+        "b19",
+        "b20"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

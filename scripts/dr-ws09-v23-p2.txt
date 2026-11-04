@@ -1,0 +1,222 @@
+---
+id: dr-ws09-v23-p2
+unit: u-bpp-DR-09
+guide_hash: 7d681bcb63
+made: 2026-11-04T08:43:19+00:00
+title: DR WS09 · Trial, judgments and enforcement (part 2 of 2)
+part: 2 of 2
+blocks: 9-19
+map:
+- Trial: etiquette, order of events, judgment and costs
+- Judgments and orders: effect, payment, interest and stays
+- Debt Respite Scheme (breathing space)
+- Investigating the debtor's means and orders to obtain information
+- Choosing a method and which court enforces
+- Enforcing an English judgment abroad
+- Taking control of goods
+- Third party debt orders
+- Charging orders
+- Attachment of earnings orders
+- Insolvency proceedings: bankruptcy and winding up
+recap:
+- Trial: etiquette, order of events, judgment and costs: no CPR rule fixes the order of closing speeches, so the judge decides; leading questions are not allowed of your own witness in examination-in-chief or re-examination on disputed matters; a final judgment ends the dispute, and the general rule is that the unsuccessful party pays the successful party's costs, but the court may make a different order.
+- Judgments and orders: effect, payment, interest and stays: a judgment or order takes effect from the day it is given unless the court specifies a later date; money is due within 14 days unless it specifies another date or the court has stayed it; simple interest at 8 per cent a year applies to all High Court judgments, but to County Court judgments only if £5,000 or more (or a qualifying debt under late payment legislation).
+- Debt Respite Scheme (breathing space): nothing is checked on it yet, so nothing is taught here.
+- Investigating the debtor's means and orders to obtain information: an order to obtain information helps choose a method but is not itself one; it must be served personally not less than 14 days before the hearing; County Court money judgments stay on the Register of Judgments for 6 years.
+- Choosing a method and which court enforces: any available method, and more than one, may be used; for taking control of goods on a County Court judgment, under £600 is the County Court only, £600 to £4,999 either court, and £5,000 or more the High Court, unless it arises under a regulated Consumer Credit Act agreement.
+- Enforcing an English judgment abroad: nothing beyond the heading is checked yet, so nothing is taught here.
+- Taking control of goods: permission is needed if 6 years or more have passed since the judgment; at least 14 clear days' notice (28 clear days where a debt advice provider asks for an extension in time, except for non-eligible business debt); only between 6 am and 9 pm, subject to exceptions; no forced entry to a home on a first visit; exempt tools of the trade up to £1,350 in total.
+- Third party debt orders: the interim order catches only money due when it is served, not later credits and not a joint account with someone who is not a judgment debtor.
+- Charging orders: a charging order only secures the debt, so to obtain money the creditor needs a separate order for sale, which cannot be made for a regulated consumer credit debt of less than £1,000.
+- Attachment of earnings orders: County Court only, only where the debtor has earnings, and none if the debt or the amount still unpaid is less than £50.
+- Insolvency proceedings: bankruptcy and winding up: an individual has 21 days after a statutory demand, and a petition needs an unsecured debt of £5,000 or more; a company owing more than £750 is deemed unable to pay if a written demand is not satisfied within 3 weeks; neither gives the creditor priority.
+summary: That was trial and judgment, judgments and orders, the Debt Respite Scheme, investigating the debtor's means, choosing a method and court, enforcing a judgment abroad, taking control of goods, third party debt orders, charging orders, attachment of earnings orders, and insolvency proceedings.
+invented:
+- Taj
+- Imogen
+- Freya
+- Marlow Ltd
+- £2,000
+- £800
+- £1,500
+- £900
+---
+## Map
+Will: This is part two of two. Part one took appeals, settlement and preparing for trial. This part runs from the trial to getting paid.
+Hannah: So the trial first, and then the money.
+Will: Yes. Three groups. First, the trial and what follows it: how the trial runs, then the judgment and what it means for payment, interest and stays. Second, finding out what the debtor has: breathing space, which has nothing checked yet, then investigating the debtor's means, then choosing a method and the court.
+Hannah: And the third group?
+Will: The methods themselves: enforcing abroad, which also has nothing checked yet, then taking control of goods and third party debt orders.
+Hannah: Then charging orders, I guess?
+Will: Yes, then attachment of earnings. Last, insolvency as the alternative.
+Hannah: So trial and judgment, then investigating and choosing, then the methods, then insolvency.
+Will: Right. Trial first.
+## Block 9: Trial: etiquette, order of events, judgment and costs
+Will: The trial itself: etiquette, the order of events, judgment and costs. How does a civil trial run, and what does final judgment settle?
+Hannah: Etiquette first, I suppose. Do I need to learn who says my lord and who says your honour?
+Will: Stand when the judge enters or leaves, and when addressing the court in a formal hearing. Do not interrupt the judge or a witness. Opposing counsel is my learned friend, and an opposing solicitor is my friend.
+Hannah: And how do I address the judge?
+Will: Supreme Court, Court of Appeal and High Court judges are My Lord or My Lady. Circuit Judges and Recorders are Your Honour. District Judges, Deputy District Judges and Masters are Judge, formerly Sir or Madam and Master. Magistrates are Your Worship, or Sir or Madam.
+Hannah: Fine. What is the order of the trial, then?
+Will: The usual order is the claimant's opening, often short or dispensed with because the judge has pre-read. Then the claimant's witnesses, each giving examination-in-chief, cross-examination and re-examination. The defendant's witnesses likewise. Then closing speeches, then judgment.
+Hannah: And the defendant gets the last word in the closing speeches, surely?
+Will: That is the trap. No CPR rule fixes the order of closing speeches. The judge decides.
+Hannah: What about the questioning? Can I lead my own witness?
+Will: Not on disputed matters. Leading questions may not be asked of your own witness in examination-in-chief or re-examination on disputed matters. They are allowed for introductory or undisputed matters. In cross-examination they are permitted and usual.
+Hannah: And re-examination can go anywhere?
+Will: No. Re-examination is limited to matters arising out of cross-examination. It cannot introduce new matters without permission.
+Hannah: What does the judgment settle?
+Will: A final judgment ends the dispute. The cause of action merges in the judgment, and the parties cannot re-litigate it. That is cause of action and issue estoppel. Raising in new proceedings points that could and should have been raised earlier is an abuse of process.
+Hannah: And costs?
+Will: The general rule is that the unsuccessful party is ordered to pay the successful party's costs. The court may make a different order.
+Hannah: So no rule fixes the closing speeches, and the loser generally pays.
+Will: Right, with the point that the court may make a different order.
+## Block 10: Judgments and orders: effect, payment, interest and stays
+Will: Now judgments and orders: when they take effect, when the money is payable, and whether it carries interest.
+Hannah: Who writes the order up?
+Will: Judgments and orders are normally drawn up by the court and served by it, unless the court orders or permits a party to do so. Consent orders are usually drawn up by the parties.
+Hannah: And what does a consent judgment need?
+Will: It must be drawn up in the agreed terms, be expressed as By Consent, and be signed by the legal representative of each party, or by a litigant in person.
+Hannah: Can a judge be avoided altogether?
+Will: Sometimes. A court officer, without a judge, may enter and seal simple agreed orders, for example for payment of money or dismissal. That is only if no party is a litigant in person and no court approval is required.
+Hannah: And otherwise?
+Will: A judge must approve it, for example any order involving a litigant in person, or a child's settlement.
+Hannah: When does a judgment take effect?
+Will: From the day it is given or made, unless the court specifies a later date.
+Hannah: And when must I pay?
+Will: A party must comply with a judgment or order for payment of money, including costs. The time is 14 days from the date of the judgment or order. Two exceptions. The judgment or order may specify another date, for example instalments. Or the court may have stayed it.
+Hannah: Does it earn interest?
+Will: Judgment debts carry simple interest at 8% a year from the date of judgment. That covers all High Court judgments. County Court judgments only qualify if the debt is £5,000 or more. The other route in is a qualifying debt under late payment legislation.
+Hannah: So a County Court judgment for less than that carries nothing?
+Will: Right, apart from that late payment route. And the last point: a debtor facing enforcement may apply to vary the payment terms, or to suspend a warrant of control and pay by instalments. Or apply for a stay of execution, or to set aside the judgment.
+Hannah: So money due within 14 days unless another date is set or it is stayed, and interest on High Court judgments, but in the County Court only at £5,000 or more.
+Will: Right, with the exception for qualifying late payment debts.
+## Block 11: Debt Respite Scheme (breathing space)
+Will: Debt Respite Scheme, the breathing space. The guide has no checked points on it yet, so we teach nothing here and stay with what is verified.
+Hannah: Short stop. Investigating the debtor next?
+Will: Yes.
+## Block 12: Investigating the debtor's means and orders to obtain information
+Will: Investigating the debtor's means. How does a creditor find out what the debtor has before enforcing?
+Hannah: Is any tactic allowed to get paid?
+Will: No. A solicitor must not harass the debtor or use oppressive or misleading tactics, for example threatening criminal proceedings to secure payment. And must not take unfair advantage of an unrepresented debtor.
+Hannah: So what is an order to obtain information?
+Will: It requires a judgment debtor, or an officer of a debtor company, to attend court and answer questions on oath about its means or any other matter needed to enforce the judgment. They must also produce documents. It replaced the old oral examination. The key point is that it helps choose an enforcement method but is not itself a method of enforcement.
+Hannah: How does the creditor get one?
+Will: The creditor applies without notice, giving the debtor's details, the judgment and the amount still owed. A court officer deals with it without a hearing. Questioning is by a court officer unless there are compelling reasons for a judge.
+Hannah: And then it gets served?
+Will: Personal service is what the exam turns on. The order must be served personally on the person ordered to attend. That must be not less than 14 days before the hearing.
+Hannah: What if they have to travel?
+Will: The person ordered to attend has 7 days from being served to ask the creditor for a sum reasonably sufficient for travel to and from court. The creditor must pay it. The creditor must also file an affidavit giving details of service, any travel-money request and payment, and how much of the judgment remains unpaid. Its timing is look-up detail.
+Hannah: And if the person simply does not turn up?
+Will: If they fail to attend or otherwise to comply, for example by not producing documents, the matter is referred to a High Court or Circuit Judge.
+Hannah: And then?
+Will: The judge may hold the person in contempt and punish them, for example by committal or a fine. That depends on the creditor having complied with the rules on travelling expenses and the affidavit. The order must be suspended on condition the person attends and complies.
+Hannah: Are there other places to look?
+Will: Yes, including the Register of Judgments, HM Land Registry for property, Companies House and credit reference agents. The statement of means in attachment of earnings proceedings counts too, and so does a bank's disclosure under an interim third party debt order.
+Hannah: And the register itself?
+Will: County Court money judgments go on the Register of Judgments, Orders and Fines. If paid in full within one month, the entry is removed. If paid later, it can be marked satisfied. Entries stay on the register for 6 years.
+Hannah: So the order to obtain information is a step towards choosing a method, served personally not less than 14 days before the hearing.
+Will: Right, and not itself a method of enforcement.
+## Block 13: Choosing a method and which court enforces
+Will: Choosing a method, and which court enforces. Which method fits the debtor's assets, and which court can seize goods?
+Hannah: Do I have to pick just one?
+Will: No. A judgment creditor may use any available method of enforcement and may use more than one, at the same time or one after another.
+Hannah: How do I match method to asset?
+Will: Including these. For an employed debtor, attachment of earnings. For money in a bank, a third party debt order.
+Hannah: Then land and goods?
+Will: For land, a charging order, then an order for sale. For goods, taking control of goods. And insolvency proceedings work as a lever where the debt is large enough.
+Hannah: Now, which court takes control of goods?
+Will: The test is the sum. For a County Court judgment, £5,000 or more must be enforced in the High Court, by a writ of control by a High Court Enforcement Officer, unless it arises under a regulated Consumer Credit Act agreement. Under £600, it is the County Court only, by warrant of control through a county court bailiff. For £600 to £4,999, either court.
+Hannah: So three bands: under £600, the middle, and £5,000 or more.
+Will: Yes, with the regulated Consumer Credit Act exception for the top band. A story. The test is the sum. Taj has a County Court judgment for £2,000 and wants to take control of goods.
+Hannah: He must use the County Court, he must use the High Court, or either?
+Will: <think>
+Hannah: This is which court enforces. £2,000 sits in the middle band, between £600 and £4,999.
+Will: Right: either court. Under £600 it would be the County Court only, and £5,000 or more would go to the High Court.
+## Block 14: Enforcing an English judgment abroad
+Will: Enforcing an English judgment abroad. The guide gives only the heading: ask whether one of the listed regimes applies, then what the written evidence must exhibit and state. There is nothing checked beyond that, so we teach nothing more.
+Hannah: Quick one. On to taking control of goods?
+Will: Yes.
+## Block 15: Taking control of goods
+Will: Taking control of goods. How does an enforcement agent take control, and what is exempt?
+Hannah: Where do I start?
+Will: Ask first whether permission is needed. A writ or warrant of control needs the court's permission if 6 years or more have passed since the date of the judgment.
+Hannah: Then notice. Seven clear days, I think.
+Will: That is the old figure. The notice of enforcement must give the debtor at least 14 clear days. If a debt advice provider asks for an extension before the notice period expires, it is 28 clear days. That does not apply to non-eligible business debt.
+Hannah: Always that long?
+Will: Unless the court orders a shorter period, because the goods would otherwise likely be moved or disposed of to avoid enforcement.
+Hannah: And then they can walk in?
+Will: Then the agent may take control, for example by a controlled goods agreement or removal, and sell the goods, usually at public auction. That pays the debt and the enforcement costs. On hours and entry, the agent may take control only between 6 am and 9 pm. The exceptions are where the court orders otherwise, or at business premises open for trade at other times.
+Hannah: Can they break in?
+Will: They normally enter through the usual means of entry. Forced entry to a home is not allowed on a first visit to take control under a High Court writ or County Court warrant for a money judgment.
+Hannah: What can they not take?
+Will: Exempt goods. First, items necessary for the debtor's personal use in work or study, such as tools and vehicles. That is up to £1,350 in total.
+Hannah: Anything else exempt?
+Will: Yes. Items and provisions reasonably required for the basic domestic needs of the debtor and every member of the household, such as clothing, bedding and furniture.
+Hannah: And things that are not even the debtor's?
+Will: Goods belonging to third parties, such as a spouse's or hire purchase goods, cannot be taken.
+Hannah: So permission after 6 years, at least 14 clear days' notice, 6 am to 9 pm, and exempt goods.
+Will: Right, with the 28 clear days extension and the exceptions on hours and entry.
+## Block 16: Third party debt orders
+Will: Third party debt orders. How can a creditor reach money a bank or other third party owes the debtor?
+Hannah: Presumably the bank has to pay the creditor.
+Will: Yes. It requires a third party who owes money to the debtor, usually a bank or building society, to pay it to the creditor. The interim order is made without notice or a hearing. It freezes the account up to the judgment debt and costs, and a final hearing follows.
+Hannah: Who gets told, and when?
+Will: The interim order is served on the third party at least 21 days before the hearing. It is served on the debtor not less than 7 days after service on the third party. It must also be at least 7 days before the hearing.
+Hannah: And the bank?
+Will: The bank must search and disclose the debtor's accounts. It has 7 days from service.
+Hannah: What does the order actually catch?
+Will: That is what the exam turns on. It catches only money due or accruing due when the interim order is served. Later credits, such as next month's salary, are not caught. And a joint account held with someone who is not a judgment debtor is not caught either.
+Hannah: What if the debtor can't live?
+Will: An individual debtor in hardship may apply for a hardship payment order. A story to test the timing. The test is what is due when the interim order is served. Taj serves an interim order on the bank. The debtor's sole account holds £800 then, and £1,500 of salary arrives the following week. The judgment debt is far larger.
+Hannah: Is just the £800 caught, is the £800 plus the salary caught, or is nothing caught?
+Will: <think>
+Hannah: This is third party debt orders and timing. Money due when the interim order is served is caught, and the salary came later, so only the £800.
+Will: Right: only the £800. Later credits such as the salary are not caught.
+## Block 17: Charging orders
+Will: Charging orders. How does a charging order secure a debt on land, and how does the creditor actually get paid?
+Hannah: Does it give me the money?
+Will: No, and that is the key point. A charging order only secures the debt. To obtain money, the creditor must bring separate proceedings for an order for sale.
+Hannah: What does the charge attach to?
+Will: The debtor's beneficial interest in land, or securities. An interim order is made without a hearing and served on the debtor. It is also served on any co-owner, the debtor's spouse or civil partner, and such creditors and trustees as the court directs.
+Hannah: Can they object?
+Will: Objections must be filed and served within 28 days of service, on the County Court and CNBC route. Then the court decides whether to make it final.
+Hannah: What does it weigh?
+Will: All the circumstances, in particular the debtor's personal circumstances and whether other creditors would be unduly prejudiced, for example where the debtor is insolvent.
+Hannah: If the debtor is paying by instalments, is that the end of it?
+Will: An order can be made even if the debtor is up to date with instalments. But an order for sale cannot then be made.
+Hannah: How is it protected?
+Will: By entry on the register. On registered land, that is a notice if the debtor owns the whole legal estate. It is a restriction if the charge is over a co-owner's beneficial interest. For co-owned land, the order for sale is decided under the TOLATA factors.
+Hannah: Is there a limit on sale?
+Will: An order for sale cannot be made to enforce a charging order securing a regulated consumer credit debt of less than £1,000.
+Hannah: So a charging order only secures the debt, and the money needs a separate order for sale, which may be barred.
+Will: Right.
+## Block 18: Attachment of earnings orders
+Will: Attachment of earnings orders. When can a creditor have the debt deducted from the debtor's earnings?
+Hannah: Whenever the debtor has a job?
+Will: Nearly. It directs the debtor's employer, or a person paying the debtor a pension, to deduct regular sums from earnings and pay them to the court. For a judgment debt it is available only in the County Court. And only where the debtor has earnings, meaning wages, salary or pension. A self-employed or unemployed debtor does not qualify.
+Hannah: How much comes off?
+Will: The court sets a normal deduction rate and a protected earnings rate. Earnings cannot be reduced below the protected rate.
+Hannah: Is there a minimum debt?
+Will: Yes. No order may be made if the judgment debt, or the amount still unpaid under the judgment, is less than £50.
+Hannah: So County Court only, only where there are earnings, and not for under £50.
+Will: Right, whether the shortfall is the whole debt or the amount still unpaid.
+## Block 19: Insolvency proceedings: bankruptcy and winding up
+Will: Last topic: insolvency, bankruptcy and winding up. When can a creditor use them against a debtor?
+Hannah: Is a bankruptcy petition for a judgment debt of more than £5,000?
+Will: Careful. A creditor's bankruptcy petition needs an unsecured debt equal to or above the bankruptcy level of £5,000 for an individual. It is not tied to a judgment, and it is £5,000 or more, not more than.
+Hannah: And how does it start?
+Will: A statutory demand to an individual gives the debtor 21 days to pay, secure or compound the debt. If not complied with, the creditor may petition for bankruptcy.
+Hannah: What about a company?
+Will: A company is deemed unable to pay its debts if a creditor owed more than £750 serves a written demand. The demand must not be satisfied within 3 weeks. Then the creditor may petition for winding up. A petition can also rest on a judgment where enforcement has been returned unsatisfied.
+Hannah: So the look-alike is the individual with 21 days and £5,000 or more, against the company with 3 weeks and more than £750.
+Will: Yes, and the fact that tells them apart is whether the debtor is an individual or a company. One point shared by both: these are collective remedies giving the creditor no priority.
+Hannah: Test me.
+Will: A story. The test is individual or company. Freya's supplier, Marlow Ltd, owes her £900. She serves a written demand on the company and it is not satisfied within 3 weeks. Can she petition?
+Hannah: Yes for winding up, no because she needs £5,000, or no because she must give 21 days?
+Will: <think>
+Hannah: This is insolvency, and the debtor is a company, so the company rule applies: more than £750 and 3 weeks.
+Will: Right: she can petition for winding up. The £5,000 and 21 days belong to an individual.
+## Recap
+Hannah: That's the lot for this part. Appeals and settlement were in part one.
+Will: That was trial and judgment, judgments and orders, the Debt Respite Scheme, investigating the debtor's means, choosing a method and court, enforcing a judgment abroad, taking control of goods, third party debt orders, charging orders, attachment of earnings orders, and insolvency proceedings.
