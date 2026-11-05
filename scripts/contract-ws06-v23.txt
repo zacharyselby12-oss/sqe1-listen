@@ -1,0 +1,212 @@
+---
+id: contract-ws06-v23
+unit: u-bpp-Contract-06
+guide_hash: fbc35ac57d
+made: 2026-11-05T12:44:57+00:00
+title: Contract WS06 · Misrepresentation
+map:
+- Elements of an actionable misrepresentation
+- Statements of fact: opinion, future intention and silence
+- Categories: fraudulent, negligent and wholly innocent
+- Remedies, and clauses excluding liability
+- Alternative claims: a term, or negligent misstatement
+recap:
+- Elements: an unambiguous, false statement of existing fact or law, made by one party to the other before or at the time of contracting, that induced the contract, and the contract is then voidable, not void.
+- Opinion and future intention are generally not statements of fact, and silence is generally not a misrepresentation, unless an exception applies: an opinion not honestly held or from a maker better placed to know the facts, an intention not held when stated, or an exception to silence.
+- Categories: if the claimant cannot prove fraud, the representor is liable in damages under section 2(1) unless it proves reasonable grounds to believe, and actual belief, up to the contract; if it proves both, the misrepresentation is wholly innocent.
+- Remedies: rescission is open in every category, subject to the bars and, for a non-fraudulent misrepresentation, to the court's discretion to award damages in lieu; fraud and section 2(1) give all direct loss; wholly innocent gives no damages as of right; an exclusion clause must be reasonable, or fair in a consumer contract.
+- Alternatives: a statement the parties objectively intended to be binding is a term, and a non-party's statement points to Hedley Byrne.
+summary: Elements of a misrepresentation; statements of fact, where opinion, intention and silence count only through exceptions; fraudulent, negligent or wholly innocent categories; remedies and exclusion clauses; alternatives: a term or negligent misstatement.
+invented:
+- Marcus
+- Nina
+- Leah
+- Tom
+- Leeds
+---
+## Map
+Will (warm): Right. Picture this. You buy a warehouse because the seller says one thing about it, the thing turns out to be wrong, and now you want your money back. Where do you even start?
+Hannah (wary): Presumably by asking whether he's allowed to get away with it.
+Will (amused): Right, nearly. It's five topics, always in the same order. First, what makes a statement an actionable misrepresentation at all. Then which statements count as statements of fact, because opinion, future intention and silence are awkward.
+Hannah (thinking aloud): So: is it a misrepresentation, and what counts as a statement. Go on.
+Will: Yes. Third, what kind of misrepresentation it is: fraudulent, negligent or wholly innocent. Fourth, the remedies, and whether a clause can exclude them. And last, the alternative claims: that the statement was really a term, or that it's negligent misstatement.
+Hannah (brisk): Okay, so: what is it, what counts, what kind, what remedy, what else.
+Will (pleased): Right, that's the whole episode. Let's start with the elements.
+## Block 1: Elements of an actionable misrepresentation
+Will (brisk): So, the elements of an actionable misrepresentation. Check each element. It's an unambiguous, false statement of existing fact or law, made by one party to the other before or at the time of contracting, that induced the contract.
+Hannah (thinking aloud): So a false statement, who made it and when, and whether it actually made them sign. And what happens if it's all there?
+Will: Yes. And the effect is the thing to remember: the contract is voidable, not void. It binds until the misled party rescinds.
+Hannah (wry): So it's a real contract until someone pulls the plug.
+Will (pleased): Right. Now the first element has some small print. Unambiguous, false, and fact or law.
+Hannah: Go on, start with unambiguous.
+Will: If the claimant put its own unreasonable construction on the statement, there's no liability. If the seller says something that could sensibly be read one way and you pick the daft reading, that's on you.
+Hannah (amused): Fair. And false?
+Will: A substantially correct statement is not false if the inaccuracy would not induce a reasonable person. And a statement that is a misstatement of law can be actionable.
+Hannah (thoughtful): So fact or law, but tiny inaccuracies that wouldn't induce a reasonable person don't count.
+Will: Right. Now the look-alike: a statement of fact against mere puff.
+Hannah (teasing): Puff being "this is the best warehouse in the north"?
+Will (laughing): Basically. Puff is vague sales talk, like land that is "fertile and improvable", and it isn't actionable. A specific, verifiable claim is fact. Vague praise is puff.
+Hannah: So "no enforcement notices" is fact, and "lovely spot" is puff.
+Will: Yes, specific and checkable against vague praise. Now inducement.
+Hannah (wary): Where do students lose marks?
+Will: On who proves what. Say a seller tells you there are no enforcement notices on a warehouse, and there is one. If the statement was material, meaning it would influence a reasonable person, inducement is inferred. The representor must rebut it.
+Hannah: So the seller has to show it made no difference.
+Will: Yes. And if the statement was not material, the claimant must prove it was actually influenced. It then succeeds.
+Hannah (teasing): So immaterial isn't fatal, you just carry the burden yourself.
+Will (warm): Right. Two more points. The claimant is still induced where its own mistaken belief also contributed to the decision. That's Edgington.
+Hannah: So does it have to be pure, or can your own wrong idea sit alongside?
+Will: It can sit alongside. The claimant is still induced even where its own mistaken belief also contributed. And suspecting the statement is false does not defeat inducement. Only knowing it is false does.
+Hannah (groaning): That suspicion versus knowledge line is going to catch me out. Is there an example?
+Will (dry): It's meant to. Say the buyer suspects the register is wrong but still buys: still induced. Now the look-alike for inducement: relying on your own investigation, against failing to take a chance to check.
+Hannah: Go on.
+Will: Relying on its own investigation means no inducement. Failing to take a chance to check means the claimant is still induced. What matters is whether the claimant actually relied on its own checks instead of the statement.
+Hannah (summing up): So if I actually checked and trusted my own checks, I'm out. If I could have checked but didn't, I'm still induced.
+Will (pleased): Right. That's the elements. On to which statements count.
+## Block 2: Statements of fact: opinion, future intention and silence
+Will (warm): So that's what a misrepresentation is. Now the second topic: statements of fact, and in particular opinion, future intention and silence. Opinion and future intention are generally not statements of fact, and silence is generally not a misrepresentation. So you look for the exception.
+Hannah (wry): So everything's a rule with a trapdoor, is it?
+Will (laughing): Pretty much. Take opinion first, say a seller praising his own land. The exceptions are an opinion not honestly held, or one from a maker better placed to know the facts.
+Hannah (thinking aloud): So two ways in. Either he didn't believe it, or he was better placed and the opinion quietly implies he knows something.
+Will: Right. Here's the pair. A seller gives an honest estimate of the sheep capacity of land that has never been sheep-farmed, and he's no better placed than the buyer. As an opinion, that's not actionable. That's Bisset.
+Hannah: Fine. Honest, and not better placed. What about the other way?
+Will: Now a landlord calls a tenant in arrears "most desirable". That opinion implies facts the landlord knows. None existed, so this is a false fact, and it is actionable.
+Hannah (groaning): So "most desirable" about someone who owes rent is secretly a statement of fact.
+Will: Yes. And an expert's forecast implies it was made with reasonable care. A careless forecast is actionable. That's Esso.
+Hannah (summing up): So honest opinion from someone no better placed is out, but opinion that implies facts, or isn't honestly held, is in.
+Will (pleased): Right, and that's the look-alike. The test is whether the maker was better placed to know, or had no honest belief.
+Hannah: Next, future intention.
+Will: Here the exception is an intention not held when stated. A stated purpose of improving buildings, when the real intention was to pay off debts, is actionable. That's Edgington again.
+Hannah: And if he really meant it and then changed his mind?
+Will (brisk): Then it isn't a misrepresentation. An intention genuinely held when stated and abandoned after the contract is not one.
+Hannah (dry): So the question is what was in his head when he opened his mouth.
+Will: Yes. Misstated present intention is actionable, a genuine intention later changed isn't. And a promise about future conduct is not a representation. If it is anything, it is a term.
+Hannah: Good, that gets me to silence.
+Will: A landlord who knows a house is unfit for immediate occupation but says nothing makes no misrepresentation.
+Hannah (incredulous): That seems harsh.
+Will (dry): It is. But there are exceptions, including half-truths, continuing statements, conduct and some special relationships.
+Hannah (thinking aloud): Give me one of each.
+Will: Half-truth first. Saying the farms are let, without saying the tenants have given notice to quit, is a misrepresentation.
+Hannah: Because "let" suggested something that wasn't the full picture. Okay, and the continuing one?
+Will: A statement continues until the contract. So if the value of a doctor's practice falls before the sale, failing to correct the earlier figure is a misrepresentation. That's With v O'Flanagan.
+Hannah (wry): So the truth has a sell-by date.
+Will (amused): Right. Now conduct. Actively concealing dry rot is a representation, not mere silence. That's Gordon v Selico.
+Hannah (thoughtful): So hiding it is saying something.
+Will: Right. Then fiduciary relationships, such as solicitor and client. They require disclosure of material facts.
+Hannah: And insurance?
+Will: Here's a tempting version: that insurance requires disclosure of all material facts to the insurer. That's not the law. A business insured must make a fair presentation of the risk.
+Hannah (sceptical): And a consumer?
+Will: A consumer has no duty to volunteer information. The only duty is to take reasonable care not to make a misrepresentation to the insurer.
+Hannah (pleased): Right. Business has the heavier duty.
+Will: Yes. Now the look-alike. On one side is silence, with no duty of disclosure. On the other is a half-truth, an uncorrected change, or active concealment. What separates them is a positive statement or act that misleads, as against saying nothing at all.
+Hannah (summing up): So saying nothing is generally safe, but a misleading statement or act, like hiding dry rot, can itself be a misrepresentation.
+Will (warm): Yes, with the qualifier that silence is only generally safe. Now we know what counts. Next, what kind of misrepresentation it is.
+## Block 3: Categories: fraudulent, negligent and wholly innocent
+Will (brisk): So, categories: fraudulent, negligent and wholly innocent. Where do you start? First ask whether the claimant can prove fraud. If not, the representor is liable in damages under section 2(1) unless it proves reasonable grounds to believe, and actual belief, up to the contract. If it proves both, the misrepresentation is wholly innocent.
+Hannah (thinking aloud): So fraud first, then negligent unless the maker proves his way out, and if he does, innocent.
+Will: Right. Start with fraud. The claimant has to prove the maker spoke knowingly, without belief in the statement, or recklessly. Fraud is the tort of deceit.
+Hannah: And recklessness?
+Will: Recklessness here means a flagrant disregard for the truth.
+Hannah (sceptical): Flagrant. So not just sloppy.
+Will (dry): Not just sloppy, no. And failing to correct a statement through inadvertence is not fraud either. That's the doctor's practice case again.
+Hannah (wry): So forgetting isn't lying.
+Will: Yes. Now, fraud has to be proved by the claimant, which is hard, so claimants usually prefer section 2(1).
+Hannah: Which is the negligent one.
+Will: Right. The representor is liable in damages unless it proves reasonable grounds to believe, and actual belief, up to the contract. The burden is on the representor.
+Hannah (thinking aloud): So I don't have to prove he was careless. He has to prove he was careful.
+Will (pleased): That's it. And here's the trap. It's not "honest, so no damages". Honest belief defeats only fraud. Under section 2(1) the maker must also prove reasonable grounds.
+Hannah (groaning): Ah, so "he honestly believed it" isn't the end of the story.
+Will: Not at all. For section 2(1), relying on an inaccurate register when its own files held the correct figure gives no reasonable grounds. That's Howard Marine.
+Hannah: So he had the right answer in his own drawer.
+Will: Yes. Now the look-alike: fraud against negligent misrepresentation under section 2(1). Fraud needs proven dishonesty or recklessness. An honest but careless belief is section 2(1).
+Hannah: And the third category, wholly innocent?
+Will: There the maker proves both reasonable grounds and actual belief, up to the contract. The result is rescission plus indemnity. Damages come only in lieu, under section 2(2).
+Hannah (wary): My notes say innocent misrepresentation is also a claim under section 2(1).
+Will: That's the muddle, and it's wrong. Section 2(1) gives no damages for a wholly innocent misrepresentation. Proving reasonable grounds and belief up to the contract is the representor's answer to section 2(1), and damages are available only at the court's discretion in lieu of rescission.
+Hannah (summing up): So the maker's own proof is both the answer to 2(1) and the very thing that makes it innocent.
+Will: Right. So the look-alike is section 2(1) against wholly innocent, and it turns on whether the maker makes that proof.
+## Block 4: Remedies, and clauses excluding liability
+Will (warm): Right, remedies, and whether a clause can exclude them. Rescission is open in every category, subject to the bars and, for a non-fraudulent misrepresentation, to the court's discretion to award damages in lieu under section 2(2). Fraud and section 2(1) add damages measured in tort. A wholly innocent misrepresentation gives none as of right. And an exclusion clause must be reasonable, or fair in a consumer contract.
+Hannah (thinking aloud): So rescission for everyone, damages for fraud and 2(1), and clauses have to pass a test. Where do we begin?
+Will: Rescission and its bars. On lapse of time, for fraud, time runs from discovery. For a non-fraudulent misrepresentation, Leaf v International Galleries held that a reasonable time runs from the contract, on the footing that a buyer deemed to have accepted the goods after a reasonable time could not rescind either.
+Hannah (thoughtful): So for non-fraud the clock starts at the contract.
+Will: Yes, but the Court of Appeal has since doubted that reasoning. In Salt v Stratstone it did not count delay before the claimant could reasonably have discovered the truth of a negligent misrepresentation.
+Hannah (brisk): So Leaf's clock is doubtful for the negligent kind.
+Will (pleased): Right. Now the look-alike: voidable, for misrepresentation, against void, for mistake. A voidable contract binds until rescinded, so a third party can take good title first.
+Hannah (summing up): Voidable means someone can get in before you rescind.
+Will: Right. Next, indemnity. The look-alike is indemnity against damages in lieu under section 2(2). An indemnity comes with rescission and covers only obligations the contract created.
+Hannah: And damages in lieu?
+Will: Section 2(2) damages replace rescission.
+Hannah (wry): One goes with it, one instead of it.
+Will (amused): Neat summary. Now damages for fraud and under section 2(1). There's a trap. It's not "foreseeable loss only", because that's Hedley Byrne. Fraud and section 2(1) cover all direct loss.
+Hannah (sceptical): I thought remoteness applied, so foreseeability.
+Will: Not here. Fraud and section 2(1) damages cover all direct losses flowing from the contract, whether or not foreseeable, subject to the claimant's duty to mitigate once it discovers the truth.
+Hannah (thinking aloud): And contributory negligence?
+Will: Contributory negligence is no defence to fraud. It can reduce section 2(1) damages where the maker is also liable in negligence.
+Hannah (summing up): So fraud, no reduction. 2(1), possibly reduced, where the maker is also negligent.
+Will: Right. The look-alike is the tort measure against the expectation measure in contract. Tort puts you where you'd be had the statement not been made. Expectation puts you where you'd be had it been true.
+Hannah: Which leaves damages in lieu.
+Will: Under section 2(2), damages in lieu are discretionary for negligent and wholly innocent misrepresentation, and not available for fraud. Want the comparison side by side?
+Hannah (brisk): How do the three compare?
+Will: Rescission is open in all three. Damages as of right are all direct loss for fraud and section 2(1), and none for wholly innocent. Indemnity goes with rescission for wholly innocent. And lapse of time runs from discovery for fraud, while for negligent and wholly innocent it is the contract, though the Court of Appeal has doubted that.
+Hannah (summing up): So fraud is the odd one out on lapse and on section 2(2).
+Will (pleased): Right. Two more things in this topic. Consumers have redress against a trader for a misleading action or aggressive practice: unwinding the contract, a discount or damages.
+Hannah: Has that moved to the new digital markets law?
+Will: Not yet. The older regulations were revoked, but that redress continues until regulations under the digital markets act come into force.
+Hannah: And the clauses?
+Will: A tempting version says the reasonableness requirement is in section 8 of the unfair contract terms act. The law: it is in section 11 of that act, applied by section 3 of the Misrepresentation Act. In consumer contracts the consumer rights act fairness test applies instead.
+Hannah (wary): And an entire agreement clause?
+Will: Another tempting version says it limits any liability to the terms in the contract. It doesn't. An entire agreement clause stops pre-contract statements being relied on as terms or collateral warranties, but does not by itself exclude liability for misrepresentation.
+Hannah (incredulous): So an entire agreement clause doesn't kill a misrepresentation claim?
+Will: Not by itself. That needs a non-reliance or exclusion clause, which is subject to the reasonableness test under the Misrepresentation Act.
+Hannah (summing up): So entire agreement stops terms, but to stop misrepresentation you need an exclusion or non-reliance clause, and that has to be reasonable.
+Will: Yes. Next, the alternatives.
+## Block 5: Alternative claims: a term, or negligent misstatement
+Will (warm): Last topic: alternative claims, a term or negligent misstatement. Is the statement a term instead, and when do you sue for negligent misstatement? A statement the parties objectively intended to be binding is a term. A non-party's statement points to Hedley Byrne.
+Hannah (thinking aloud): So if, judged objectively, the parties intended it to bind, it's a term. And a promise about future conduct?
+Will: That isn't a representation. If it is anything, it is a term.
+Hannah: And Hedley Byrne?
+Will: Here's a tempting version: that it needs a fiduciary relationship of trust and confidence. It doesn't. Hedley Byrne liability turns on a special relationship in which the maker assumes responsibility for the statement and the claimant reasonably relies on it.
+Hannah (summing up): So no fiduciary relationship needed, but responsibility assumed and reasonable reliance.
+Will: Right. The look-alike turns on who made the statement: the other party to the contract, or someone outside it.
+Hannah: Go on.
+Will: A claim under section 2(1) lies against the other party to the contract, which escapes only by proving reasonable grounds to believe, and actual belief, up to the contract. Damages cover all direct loss.
+Hannah (thinking aloud): And the outsider?
+Will: A Hedley Byrne claim can lie against a maker who is not a party to the contract, but the claimant must prove fault, and damages cover foreseeable loss only.
+Hannah (teasing): Burden on him for 2(1), burden on me for Hedley Byrne.
+Will (laughing): Ha. Yes. Right, let's try some.
+## Exam mode
+Will (brisk): Scenario one. In March a seller truthfully tells a buyer there are no enforcement notices on his warehouse. In April the council serves one on him. Busy, he forgets to mention it, and contracts are exchanged in May. Is there an actionable misrepresentation, and of which type?
+Hannah (thinking aloud): Okay. So the question: is it actionable, and is it fraud, negligent under section 2(1), or wholly innocent?
+Will: <think>
+Hannah (thinking aloud): It was true when he said it. But a statement continues until the contract, so it went stale and he didn't correct it. That's actionable. Fraud? He forgot, and forgetting isn't dishonest.
+Will: Right so far. Last bit?
+Hannah: He got the notice before exchange, so he can't prove reasonable grounds or belief up to the contract. So negligent, section 2(1).
+Will (pleased): Yes. Most likely negligent under section 2(1). "True when made" fails because the statement continues until the contract, and fraud fails because forgetting is not dishonest.
+Hannah (wry): Warehouse, notice, forgot. I'll never forget that one.
+Will (brisk): Scenario two. The test is section 2(1). Marcus sells a machine to Nina, telling her its capacity is as shown in an old register, which turns out to be wrong. His own files held the correct figure. He honestly believed the register. Can she recover?
+Hannah (thinking aloud): So the question: is Marcus off the hook because he was honest, or liable under section 2(1), or liable only if it's fraud?
+Will: <think>
+Hannah: Honest belief only defeats fraud, so fraud's out. But under section 2(1) he must prove reasonable grounds, and his own files had the right figure, so he can't. So he's liable under 2(1).
+Will (pleased): Right. That's the Howard Marine point, and the trap is thinking honesty is enough. Nina recovers damages for all direct loss, whether or not foreseeable, subject to her duty to mitigate once she discovers the truth.
+Hannah (dry): Honest isn't the same as reasonable. Got it.
+Will (warm): Scenario three. The test is inducement. Tom is selling a flat in Leeds, and before Leah buys it he tells her the loft was converted with approval. That is false. Leah could have asked the council but didn't, and she did no checks of her own. Tom says she should have checked.
+Hannah (thinking aloud): So: is Leah induced because she merely failed to take a chance to check, or is she out because she relied on her own investigation?
+Will: <think>
+Hannah: She did no checks of her own, so she didn't rely on her own investigation. Failing to take a chance to check, she's still induced.
+Will (pleased): Yes. Different from a buyer who did his own checks and trusted those. The contract is voidable, so she may rescind, subject to the bars.
+Hannah (teasing): And it had better not be lapse of time.
+Will (amused): Quite. Two traps left. Honest belief defeats only fraud. And damages for fraud and section 2(1) are all direct loss, not foreseeable loss only.
+Hannah (brisk): Right, and a wholly innocent one gives no damages as of right, only in lieu under section 2(2).
+Will: Yes.
+## Recap
+Will (warm): So, five topics. Elements first.
+Hannah: It's an unambiguous, false statement of existing fact or law, made by one party to the other before or at the time of contracting, that induced the contract. The contract is voidable, not void.
+Will: Second, opinion, future intention and silence.
+Hannah (brisk): Opinion and future intention are generally not statements of fact, and silence is generally not a misrepresentation, unless an opinion is not honestly held or comes from a maker better placed to know the facts, an intention was not held when stated, or an exception to silence applies.
+Will: Right. Third, the kind. Fraud first, then section 2(1).
+Hannah (thoughtful): If the claimant can't prove fraud, the representor is liable in damages under section 2(1) unless it proves reasonable grounds and actual belief up to the contract. If it proves both, it's wholly innocent. Did I get that right?
+Will: Yes. Fourth, remedies and clauses.
+Hannah: Rescission is open in every category, subject to the bars and, for a non-fraudulent misrepresentation, to the court's discretion to award damages in lieu. Fraud and section 2(1) give all direct loss, wholly innocent gives none as of right, and an exclusion clause must be reasonable, or fair in a consumer contract.
+Will: And last, alternatives.
+Hannah (pleased): A statement the parties objectively intended to be binding is a term, and a non-party's statement points to Hedley Byrne.
+Will (warm): Elements of a misrepresentation; statements of fact, where opinion, intention and silence count only through exceptions; fraudulent, negligent or wholly innocent categories; remedies and exclusion clauses; alternatives: a term or negligent misstatement.

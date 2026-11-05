@@ -2129,6 +2129,133 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p3-c7952f8d.mp3",
       "pubDate": "2026-11-05T08:46:00+00:00"
+    },
+    {
+      "id": "contract-ws06-v23",
+      "unitId": "u-bpp-Contract-06",
+      "title": "Contract WS06 · Misrepresentation",
+      "guideHash": "fbc35ac57d",
+      "script": "scripts/contract-ws06-v23.txt",
+      "scriptHash": "e3b731976bbf",
+      "audio": "audio/contract-ws06-v23.mp3",
+      "recap": [
+        "Elements: an unambiguous, false statement of existing fact or law, made by one party to the other before or at the time of contracting, that induced the contract, and the contract is then voidable, not void.",
+        "Opinion and future intention are generally not statements of fact, and silence is generally not a misrepresentation, unless an exception applies: an opinion not honestly held or from a maker better placed to know the facts, an intention not held when stated, or an exception to silence.",
+        "Categories: if the claimant cannot prove fraud, the representor is liable in damages under section 2(1) unless it proves reasonable grounds to believe, and actual belief, up to the contract; if it proves both, the misrepresentation is wholly innocent.",
+        "Remedies: rescission is open in every category, subject to the bars and, for a non-fraudulent misrepresentation, to the court's discretion to award damages in lieu; fraud and section 2(1) give all direct loss; wholly innocent gives no damages as of right; an exclusion clause must be reasonable, or fair in a consumer contract.",
+        "Alternatives: a statement the parties objectively intended to be binding is a term, and a non-party's statement points to Hedley Byrne."
+      ],
+      "map": [
+        "Elements of an actionable misrepresentation",
+        "Statements of fact: opinion, future intention and silence",
+        "Categories: fraudulent, negligent and wholly innocent",
+        "Remedies, and clauses excluding liability",
+        "Alternative claims: a term, or negligent misstatement"
+      ],
+      "summary": "Elements of a misrepresentation; statements of fact, where opinion, intention and silence count only through exceptions; fraudulent, negligent or wholly innocent categories; remedies and exclusion clauses; alternatives: a term or negligent misstatement.",
+      "madeAt": "2026-11-05T12:44:57+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (3 findings fixed in one revision); changed-lines check passed (r202611051119)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "clp-ws10-v23-p1",
+      "unitId": "u-bpp-CLP-10",
+      "title": "CLP WS10 · Sentencing children (part 1 of 2)",
+      "guideHash": "e8f6068429",
+      "script": "scripts/clp-ws10-v23-p1.txt",
+      "scriptHash": "d92ca92fce86",
+      "audio": "audio/clp-ws10-v23-p1.mp3",
+      "recap": [
+        "Every court sentencing a child must follow the children guideline unless that would be contrary to the interests of justice; without a children's guideline for the offence, the court may look at the adult guideline but must not apply it mechanically.",
+        "A parent or guardian must attend court with a child under 16 unless the court considers that unreasonable; any court sentencing a child, including the Crown Court, may bind over a parent, with the parent's consent and not alongside a referral order.",
+        "A detention and training order for a child aged 12 to 14 at conviction, and a youth rehabilitation order with ISS or fostering for a child under 15 at conviction, need a persistent offender; three findings of guilt in the past 12 months for comparable imprisonable offences can certainly justify that label, but one previous offence is not enough.",
+        "A youth rehabilitation order with ISS or fostering needs an imprisonable offence and the custody threshold passed, plus persistence only if the child is under 15 at conviction, so a 15-year-old need not be persistent.",
+        "A referral order always needs a guilty plea to the offence or a connected offence; it must be made if the compulsory conditions are met (an imprisonable offence, a guilty plea to it and any connected offences, and no previous conviction in the UK), unless the court proposes custody, an absolute discharge, a hospital order or a conditional discharge.",
+        "A detention and training order lasts 4 to 24 months, never longer than the adult maximum, and a plea reduction that takes it below 4 months means a non-custodial sentence; custody beyond 24 months is only available in the Crown Court."
+      ],
+      "map": [
+        "General principles and the Sentencing Children and Young People guideline",
+        "Parents: attendance at court, parental bind-overs and parenting orders",
+        "Persistent offenders; the sentences available and which court passes them",
+        "Youth rehabilitation orders, including ISS and fostering",
+        "Referral orders",
+        "Detention and training orders; Crown Court custody"
+      ],
+      "summary": "This part covered six topics: the general principles of sentencing children, parents, persistent offenders and the sentences available, youth rehabilitation orders, referral orders, and detention and training orders with Crown Court custody.",
+      "madeAt": "2026-11-05T12:44:57+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (fixed in one revision); changed-lines check passed (r202611051119)",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b4",
+        "b5",
+        "b6",
+        "b7"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "clp-ws10-v23-p2",
+      "unitId": "u-bpp-CLP-10",
+      "title": "CLP WS10 · The youth court and the police station (part 2 of 2)",
+      "guideHash": "e8f6068429",
+      "script": "scripts/clp-ws10-v23-p2.txt",
+      "scriptHash": "9a0b96678e8e",
+      "audio": "audio/clp-ws10-v23-p2.mp3",
+      "recap": [
+        "A youth is aged 10 to 17 inclusive; age at first appearance decides the court, and a defendant who is 18 by then goes to the adult courts, while sentencing powers depend on age at conviction.",
+        "Youths are presumed to be tried in the youth court and have no right to elect Crown Court trial, but some appear in the adult magistrates' court.",
+        "The youth court must send some cases to the Crown Court, such as homicide; for a grave crime, after a not guilty (or no) plea indication, it should send only if there is a real prospect of long-term detention, in practice more than 2 years, and it must send a specified offence if the extended sentence criteria would be met, which is rarely decided at the first hearing.",
+        "A youth charged alongside an adult first appears in the adult magistrates' court. If the adult is sent for trial, the youth goes too under the youth's own sending rules, or if the court considers it necessary in the interests of justice.",
+        "After a Crown Court conviction for anything other than homicide, the youth is remitted to the youth court for sentence unless the Crown Court is satisfied that would be undesirable.",
+        "Only in the youth court is the press automatically barred from identifying the youth, and youth court trials are not open to the public.",
+        "A juvenile needs an appropriate adult, who must be present for an interview or a written statement, save an urgent interview authorised on strict conditions.",
+        "A charged juvenile refused bail must be moved to local authority accommodation unless that is impracticable or, for a juvenile of 12 or over, no secure local authority accommodation is available and other accommodation would not protect the public from serious harm."
+      ],
+      "map": [
+        "The youth court: who is a youth, age and jurisdiction",
+        "First hearings: where a youth appears, and no right to elect",
+        "Grave crimes, plea before venue and allocation; dangerous young offenders",
+        "Youths jointly charged with adults, and remittal",
+        "The youth court: privacy, reporting restrictions and informality",
+        "Juveniles at the police station: appropriate adults and safeguards",
+        "After charge: bail and detention of juveniles"
+      ],
+      "summary": "This part covered seven topics: the youth court and its age rules, first hearings, grave crimes and dangerous young offenders, youths jointly charged with adults, youth court privacy, juveniles at the police station, and what happens after charge.",
+      "madeAt": "2026-11-05T12:44:57+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (fixed in one revision); changed-lines check passed (r202611051119)",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b9",
+        "b10",
+        "b11",
+        "b13",
+        "b14",
+        "b15",
+        "b16"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

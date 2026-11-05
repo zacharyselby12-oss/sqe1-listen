@@ -1,0 +1,214 @@
+---
+id: clp-ws10-v23-p1
+unit: u-bpp-CLP-10
+guide_hash: e8f6068429
+made: 2026-11-05T12:44:57+00:00
+title: CLP WS10 · Sentencing children (part 1 of 2)
+part: 1 of 2
+blocks: 1-6
+map:
+- General principles and the Sentencing Children and Young People guideline
+- Parents: attendance at court, parental bind-overs and parenting orders
+- Persistent offenders; the sentences available and which court passes them
+- Youth rehabilitation orders, including ISS and fostering
+- Referral orders
+- Detention and training orders; Crown Court custody
+recap:
+- Every court sentencing a child must follow the children guideline unless that would be contrary to the interests of justice; without a children's guideline for the offence, the court may look at the adult guideline but must not apply it mechanically.
+- A parent or guardian must attend court with a child under 16 unless the court considers that unreasonable; any court sentencing a child, including the Crown Court, may bind over a parent, with the parent's consent and not alongside a referral order.
+- A detention and training order for a child aged 12 to 14 at conviction, and a youth rehabilitation order with ISS or fostering for a child under 15 at conviction, need a persistent offender; three findings of guilt in the past 12 months for comparable imprisonable offences can certainly justify that label, but one previous offence is not enough.
+- A youth rehabilitation order with ISS or fostering needs an imprisonable offence and the custody threshold passed, plus persistence only if the child is under 15 at conviction, so a 15-year-old need not be persistent.
+- A referral order always needs a guilty plea to the offence or a connected offence; it must be made if the compulsory conditions are met (an imprisonable offence, a guilty plea to it and any connected offences, and no previous conviction in the UK), unless the court proposes custody, an absolute discharge, a hospital order or a conditional discharge.
+- A detention and training order lasts 4 to 24 months, never longer than the adult maximum, and a plea reduction that takes it below 4 months means a non-custodial sentence; custody beyond 24 months is only available in the Crown Court.
+summary: This part covered six topics: the general principles of sentencing children, parents, persistent offenders and the sentences available, youth rehabilitation orders, referral orders, and detention and training orders with Crown Court custody.
+invented:
+- Kai
+- Mia
+- Leo
+- Priya
+---
+## Map
+Will (warm): Right, this one is about sentencing children. It's the first of two parts, and part two picks up the youth court and the police station.
+Hannah (wary): Sentencing children. So the same as adults, only smaller?
+Will (dry): Not quite. We start with the general principles and the guideline for sentencing children, then parents at court, then persistent offenders and the sentences available.
+Hannah (thinking aloud): Okay, so principles and parents first, then persistence and the sentences.
+Will: Then three orders in turn: the youth rehabilitation order, the referral order, and the detention and training order, with Crown Court custody at the end.
+Hannah (brisk): Principles first, three orders last. Let's go.
+## Block 1: General principles and the Sentencing Children and Young People guideline
+Will (warm): First, the general principles and the guideline for sentencing children. Every court sentencing a child must follow the children guideline.
+Hannah (sceptical): Must? No wiggle room?
+Will: One exception. Unless that would be contrary to the interests of justice.
+Hannah: Fine. What if there's no children's guideline for the offence?
+Will: Then the court may look at the adult guideline, but it must not apply it mechanically.
+Hannah (thinking aloud): So it's a guide, not a formula.
+Will: Right, a guide, not a formula. Where only an adult guideline exists, take a child aged 15 to 17. A sentence broadly in the region of half to two-thirds of the adult sentence may be appropriate. For under-15s there is a greater reduction.
+Hannah (curious): And the guilty plea? Does a child get the same credit as an adult?
+Will: Same reduction as for adults. It is up to one-third for a plea at the first stage of proceedings.
+Hannah: And later?
+Will: It falls after the first stage. And there's a safeguard: it must not be used to pressure a child to plead.
+Hannah (thoughtful): Does the plea only change the length?
+Will: No. It can take a sentence below a threshold, for example from a detention and training order down to a youth rehabilitation order.
+Hannah (summing up): So a plea can change the type of sentence, not just the length.
+Will: Right. Now robbery, the worked example. For robbery, the factors at step one point to a type of sentence, not to a number of years.
+Hannah (brisk): Look-alike time? Adult guideline against children's guideline.
+Will: Say there is a children's guideline for the offence. Then the court follows it. Say there isn't. Then the adult guideline is only a guide, and never applied mechanically.
+Hannah (summing up): So the question is whether there's a children's guideline for this offence.
+Will: Right. That's the fact that tells them apart.
+Hannah (warm): Recap: every court follows the children guideline unless that would be contrary to the interests of justice, and an adult guideline is only ever a guide.
+Will: Yes, a guide, never applied mechanically. Next, the parents.
+## Block 2: Parents: attendance at court, parental bind-overs and parenting orders
+Will (brisk): On to parents at court, and what a court can order against a parent. Start with the child's age. Why does the age matter?
+Hannah (guessing): Because the older the child, the less the parent has to be there?
+Will: Right, and that's the rule. A parent or guardian must attend court with a youth aged under 16, unless the court considers that unreasonable.
+Hannah: And for 16 and 17?
+Will: The court may require attendance. So under 16, must. At 16 or 17, may.
+Hannah (thinking aloud): I suspect that must and may pattern comes back.
+Will (amused): You are getting ahead of me. Yes. Now the orders against a parent. The court may bind over a parent or guardian to take proper care of the child and exercise proper control over the child.
+Hannah (sceptical): Only the youth court and the magistrates' court, I assume?
+Will: That's the trap. It is any court sentencing a child, including the Crown Court.
+Hannah: Any conditions?
+Will: Two. The parent consents, and it isn't made alongside a referral order.
+Hannah (curious): And is it ever compulsory?
+Will: For a child under 16, yes. The court must bind over a parent if satisfied that it's desirable to prevent further offences. Or else it must state in open court why it is not.
+Hannah (summing up): So under 16 it's must-or-explain, and for 16 and 17 it's discretionary.
+Will: Right: for under-16s the court must do it or explain itself in open court. Let's pair them. Take a 15-year-old, with a parent who consents and no referral order. If the court is satisfied a bind-over is desirable to prevent further offences, it must make one; if not, it must say in open court why not.
+Hannah: And a 17-year-old in the same position?
+Will: Then it's a discretion. The court may, and nothing forces it to explain.
+Hannah (brisk): Recap: a parent must attend with a child under 16 unless that's unreasonable, and any court sentencing a child may bind over a parent, with consent and not alongside a referral order.
+Will (warm): Yes. Next is persistence, and the sentences available.
+## Block 3: Persistent offenders; the sentences available and which court passes them
+Will (warm): Now persistent offenders, and then the sentences available. Why start with persistence? Because it unlocks two sentences. One is a detention and training order for a child aged 12 to 14 at conviction. The other is a youth rehabilitation order with ISS or fostering for a child under 15.
+Hannah: So how do you become persistent?
+Will: The statute doesn't define it. The guideline looks at findings of guilt. Three findings in the past 12 months, for comparable imprisonable offences.
+Hannah (checking): Three in a year. And then the court can call the child persistent?
+Will: The court can certainly justify classing the child as persistent. One previous offence is not enough.
+Hannah: What counts as a finding of guilt?
+Will: Admissions count too. Conditional cautions for imprisonable offences count towards the three.
+Hannah (thinking aloud): So the question is how many comparable imprisonable findings there are in the past 12 months.
+Will: Right, that's the deciding fact. Three, or admissions counting towards three, and the court can certainly call the child persistent. One previous offence, no. It is read with the overall history.
+Hannah (brisk): Now the sentences. Is a reparation order one of them?
+Will: That is a trap. A reparation order is no longer available.
+Hannah: From when?
+Will: For convictions on or after 28 June 2022.
+Hannah (dry): So if a note says the youth court or the Crown Court can make one, that note is out of date.
+Will: Right. Now fines in the youth court. The maximum fine is £250 for a child under 14.
+Hannah: And older?
+Will: The maximum is £1,000 for a child aged 14 to 17.
+Hannah (curious): And who pays?
+Will: For a child under 16, the court must order a parent or guardian to pay. For 16 and 17-year-olds it may. The exception is where the parent cannot be found or it would be unreasonable.
+Hannah (summing up): So the parent pays by default under 16, unless they can't be found or it's unreasonable.
+Will: Right. Over to you for the recap.
+Hannah (brisk): Three comparable imprisonable findings in 12 months can certainly justify calling a child persistent, one previous offence isn't enough, and under 16 the court must order the parent to pay the fine, with two exceptions.
+Will: Yes. Next, the first of the three orders.
+## Block 4: Youth rehabilitation orders, including ISS and fostering
+Will: Youth rehabilitation orders, including ISS and fostering. Two questions come first. Is the offence serious enough for a youth rehabilitation order, a YRO? And must a compulsory referral order be made instead?
+Hannah: And how long does a YRO last?
+Will: The order ends no more than 3 years ahead.
+Hannah (curious): And if the youth turns 18 during it?
+Will: The order continues.
+Hannah (thinking aloud): Right. And the exam-favourite version?
+Will: A YRO with intensive supervision and surveillance, ISS, or with fostering. It needs, one, an imprisonable offence. Two, the custody threshold passed. And three, if the child is under 15 at conviction, the child must also be a persistent offender.
+Hannah (guessing): So a 15-year-old needs to be persistent as well?
+Will: That's the trap. Only a child under 15 at conviction must be a persistent offender. A 15-year-old can receive a YRO with ISS or fostering without being persistent, if the offence is imprisonable and the custody threshold is passed.
+Hannah (groaning): Ugh. I'd have drawn the line at 15 or below.
+Will (dry): Everyone does. Here's a case. Leo is 15 and is convicted after a trial of an imprisonable offence, and the custody threshold is passed. He is not a persistent offender. Can the court make a YRO with ISS or fostering?
+Hannah: The test is his age at conviction. Is the answer yes, no, or only if he's persistent?
+Will: <think>
+Hannah (reasoning): The test is age at conviction. He's 15, not under 15, so persistence isn't required. The offence is imprisonable and the custody threshold is passed. So yes.
+Will: Yes. Under 15 would need persistence. At 15 it doesn't.
+Hannah (brisk): Right. Requirements, then. Do I need the whole list?
+Will: No. The list of requirements is look-up material, and so are the minimum ages for residence and drug requirements. The ones with limits to learn come next.
+Hannah (curious): Such as?
+Will: Unpaid work is only available if the child is 16 or 17 at conviction. The range is 40 to 240 hours.
+Hannah: And curfew?
+Will: A curfew can run up to 20 hours a day. It can be up to 112 hours a week. It can last up to 12 months.
+Hannah (checking): That 20-hour limit sounds new.
+Will: It is. It applies from 28 June 2022. For convictions before that date, the daily maximum was 16 hours. It is electronically monitored unless that's inappropriate.
+Hannah (thinking aloud): And ISS itself?
+Will: It is supervision plus an electronically monitored curfew. The exact length of its extended activity requirement is look-up.
+Hannah (brisk): Now breach.
+Will: Without reasonable excuse, the court may fine up to £2,500. It may amend the order by adding or substituting requirements. Or it may revoke the order and re-sentence for the original offence.
+Hannah: Is any of that compulsory?
+Will: Referral to court is compulsory, unless exceptional circumstances, for a breach within the 12-month warned period. That applies after a further warning has already been given in it.
+Hannah (thinking aloud): So once a further warning has been given, another breach within the warned period means back to court.
+Will: Right.
+Hannah (brisk): Recap: ISS or fostering needs an imprisonable offence and the custody threshold passed, and persistence only if the child is under 15 at conviction.
+Will (warm): Yes, spot on. Next, referral orders.
+## Block 5: Referral orders
+Will (brisk): Referral orders. The first question is whether the compulsory conditions are met. Number them as we go. One, the offence is imprisonable.
+Hannah: And two?
+Will: Two, the child pleads guilty to it and to any connected offences. Three, no previous conviction in the UK.
+Hannah (checking): If those are met, the court must make one?
+Will: Yes, with exceptions. A referral order is not available, so need not be made, where the court proposes custody or an absolute discharge.
+Hannah (checking): Any others?
+Will: Yes: a hospital order, or a conditional discharge.
+Hannah (thinking aloud): And the hospital order covers the offence or a connected offence, while the conditional discharge is for the offence?
+Will: Right. Those two are the ones people forget. Here is a case. Priya has never been convicted anywhere in the UK. She pleads guilty to an imprisonable offence and to all the connected offences. The court proposes a conditional discharge. Must it make a referral order?
+Hannah: So the test is the compulsory conditions plus the exceptions: must it make one, is it unavailable, or is it merely discretionary?
+Will: <think>
+Hannah (reasoning): The compulsory conditions are met. But a proposed conditional discharge is one of the exceptions. So it's not available and the court needn't make one.
+Will: Right. The conditional discharge is an exception, so no compulsory referral order.
+Hannah (curious): And the discretionary referral order? Is that the second conviction?
+Will: That's the other trap. A referral order always needs a guilty plea to the offence or to a connected offence. The discretionary order is available whatever the child's previous convictions.
+Hannah: And a not guilty plea to everything?
+Will: Then no referral order is possible.
+Hannah (brisk): How long does it last?
+Will: The length is 3 to 12 months. The court fixes it according to seriousness.
+Hannah (thinking aloud): And parents come to the panel meetings?
+Will: By age again. The court must order a parent or guardian to attend for a child under 16. It may for a child of 16 or 17.
+Hannah (cautious): Can the order be mixed with other sentences?
+Will: Not with everything. One you already know: a referral order can't go alongside a bind-over of a parent.
+Hannah: And a further offence while the order runs?
+Will: The court may extend the order instead of revoking it. The total must be not more than 12 months.
+Hannah (summing up): Recap: a referral order always needs a guilty plea. It is compulsory only if the compulsory conditions are met, and not if the court proposes custody, a discharge or a hospital order.
+Will (warm): Yes, and that keeps every qualifier. Last order next.
+## Block 6: Detention and training orders; Crown Court custody
+Will (brisk): Detention and training orders, and Crown Court custody. First: can this child get a detention and training order, a DTO, at all? The age at conviction is 12 to 17. A child aged 12 to 14 needs to be a persistent offender.
+Hannah: And under 12?
+Will: Never for under-12s.
+Hannah (checking): That sounds close to the rule for ISS. Is it the same line?
+Will: Close, but not the same. A DTO is available for a child aged 12 to 14 at conviction only if the court considers the child a persistent offender. A YRO with ISS or fostering needs persistence only if the child is under 15 at conviction, so a 15-year-old need not be a persistent offender.
+Hannah (summing up): So the question is which order, and how old the child is at conviction.
+Will: Right: 12 to 14 for a DTO, or under 15 for ISS or fostering. That's the fact that tells them apart.
+Hannah (brisk): Recap on that: persistence matters at 12 to 14 for a DTO, and under 15 for ISS or fostering.
+Will: Yes. Now the term.
+Hannah: Go on.
+Will: The term is 4 to 24 months. It is any term in that range, because the fixed terms were abolished from 28 June 2022. And it is never longer than the maximum prison term an adult could receive for the offence.
+Hannah (curious): And a guilty plea?
+Will: The plea reduction applies. If it takes the term below 4 months, a non-custodial sentence must be imposed.
+Hannah: And a DTO at the top of the range, after a plea?
+Will: A DTO of up to 24 months after a guilty plea is only possible where, but for the plea, the offence would have attracted detention in excess of 24 months.
+Hannah (brisk): Walk me through a case.
+Will: Kai is 16 and pleads guilty at the first stage. The offence carries 5 years' imprisonment for an adult. After a trial the court would have imposed a DTO of 12 months. The test is the plea reduction first, then the limits. How long is the DTO?
+Hannah (guessing): Take off the maximum one-third. Eight months.
+Will: Yes. Eight months, which is within 4 to 24 and below the adult maximum.
+Hannah: And how long in detention?
+Will: Half. Normally 4 months. The other half is under supervision in the community by the Youth Offending Team, subject to early or late release.
+Hannah (checking): How early is early release?
+Will: That's look-up, so only the idea: on longer DTOs the youth may be released early, and the court can also order late release.
+Hannah (brisk): Now a case that goes the other way.
+Will: Mia is 15 and pleads guilty at the first stage to an imprisonable offence. After a trial the court would have imposed a DTO of 5 months. The test is whether the plea-reduced term still reaches the 4-month minimum. Can the court impose a DTO?
+Hannah: So is it a DTO of about three months, a DTO at the four-month minimum, or a non-custodial sentence?
+Will: <think>
+Hannah (reasoning): The plea reduction comes off first, a maximum of one-third. That takes five months to just over three. Below four. So the court can't impose a DTO and must go non-custodial.
+Will: Right. The reduction takes it below the 4-month minimum, so a non-custodial sentence must be imposed.
+Hannah (thinking aloud): And consecutive DTOs for several offences?
+Will: The total can't exceed 24 months. Any excess is treated as remitted.
+Hannah (curious): And time on remand?
+Will: For sentences passed on or after 28 June 2022, remand in youth detention accommodation is credited automatically against the DTO.
+Hannah (brisk): And custody beyond 24 months?
+Will: That is only in the Crown Court. It includes long-term detention for a grave crime, an extended sentence for a dangerous offender, or detention during His Majesty's pleasure for murder.
+Hannah: Is there a floor for long-term detention?
+Will: It goes up to the adult maximum. A term under 2 years is only exceptional, where a DTO is unavailable. And an offender aged 18 at conviction cannot receive a DTO. For 18 to 20, that means detention in a young offender institution.
+Hannah (cautious): And the minimum term for His Majesty's pleasure? I remember 12 years.
+Will: That's the old rule. The 12-year starting point now applies only where the offender was convicted before 28 June 2022. After that, it depends on the offender's age when the offence was committed, and on the starting point that would apply to an adult.
+Hannah (summing up): So a DTO is 4 to 24 months, it's never above the adult maximum, and if a plea takes it below 4 months it must be non-custodial.
+Will: Right. And custody beyond 24 months is only in the Crown Court.
+## Recap
+Will (warm): Ready? Five things to carry out of this part.
+Hannah: One. Follow the children guideline unless that would be contrary to the interests of justice, and treat an adult guideline as a guide only, never applied mechanically.
+Will: Two. A parent must attend with a child under 16 unless that is unreasonable, and any court sentencing a child may bind over a parent, with consent and not alongside a referral order.
+Hannah (brisk): Three. A persistent offender can certainly be shown by three comparable imprisonable findings in 12 months. ISS or fostering needs persistence only under 15 at conviction. A DTO needs it at 12 to 14.
+Will: Four. A referral order always needs a guilty plea. It is compulsory only on the compulsory conditions, and not if the court proposes custody, a discharge or a hospital order.
+Hannah (dry): Five. A DTO is 4 to 24 months, never beyond the adult maximum, and non-custodial if the plea takes it below four; custody beyond 24 months is only in the Crown Court.
+Will (warm): This part covered six topics: the general principles of sentencing children, parents, persistent offenders and the sentences available, youth rehabilitation orders, referral orders, and detention and training orders with Crown Court custody.

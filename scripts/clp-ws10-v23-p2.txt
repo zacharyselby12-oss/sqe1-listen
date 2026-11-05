@@ -1,0 +1,188 @@
+---
+id: clp-ws10-v23-p2
+unit: u-bpp-CLP-10
+guide_hash: e8f6068429
+made: 2026-11-05T12:44:57+00:00
+title: CLP WS10 · The youth court and the police station (part 2 of 2)
+part: 2 of 2
+blocks: 7-13
+map:
+- The youth court: who is a youth, age and jurisdiction
+- First hearings: where a youth appears, and no right to elect
+- Grave crimes, plea before venue and allocation; dangerous young offenders
+- Youths jointly charged with adults, and remittal
+- The youth court: privacy, reporting restrictions and informality
+- Juveniles at the police station: appropriate adults and safeguards
+- After charge: bail and detention of juveniles
+recap:
+- A youth is aged 10 to 17 inclusive; age at first appearance decides the court, and a defendant who is 18 by then goes to the adult courts, while sentencing powers depend on age at conviction.
+- Youths are presumed to be tried in the youth court and have no right to elect Crown Court trial, but some appear in the adult magistrates' court.
+- The youth court must send some cases to the Crown Court, such as homicide; for a grave crime, after a not guilty (or no) plea indication, it should send only if there is a real prospect of long-term detention, in practice more than 2 years, and it must send a specified offence if the extended sentence criteria would be met, which is rarely decided at the first hearing.
+- A youth charged alongside an adult first appears in the adult magistrates' court. If the adult is sent for trial, the youth goes too under the youth's own sending rules, or if the court considers it necessary in the interests of justice.
+- After a Crown Court conviction for anything other than homicide, the youth is remitted to the youth court for sentence unless the Crown Court is satisfied that would be undesirable.
+- Only in the youth court is the press automatically barred from identifying the youth, and youth court trials are not open to the public.
+- A juvenile needs an appropriate adult, who must be present for an interview or a written statement, save an urgent interview authorised on strict conditions.
+- A charged juvenile refused bail must be moved to local authority accommodation unless that is impracticable or, for a juvenile of 12 or over, no secure local authority accommodation is available and other accommodation would not protect the public from serious harm.
+summary: This part covered seven topics: the youth court and its age rules, first hearings, grave crimes and dangerous young offenders, youths jointly charged with adults, youth court privacy, juveniles at the police station, and what happens after charge.
+invented:
+- Dev
+- Sana
+- Tom
+- Ellis
+- Jas
+---
+## Map
+Will (warm): This is part two of two. Part one covered sentencing children, and here we move to the youth court and the police station.
+Hannah (curious): So where does the youth case start? At the police station?
+Will: In time order, yes. But we'll take it in the guide's order: the youth court and who counts as a youth, then first hearings, then grave crimes and dangerous young offenders.
+Hannah (thinking aloud): Okay. Who is a youth, where do they appear, and when do they go up to the Crown Court.
+Will: Right. Then youths charged with adults, and remittal, and privacy in the youth court. Last, the police station and what happens after charge.
+Hannah (brisk): Court first, police station last. Fine.
+## Block 7: The youth court: who is a youth, age and jurisdiction
+Will (brisk): Start with the youth court, and who is a youth. In the criminal courts, a youth is aged 10 to 17 inclusive.
+Hannah: And under 10?
+Will: A child under 10 cannot be prosecuted. The age of criminal responsibility is 10.
+Hannah (thinking aloud): So which court depends on how old they are. But on what date?
+Will: That's the key. Age at first appearance decides the court.
+Hannah: And if they're 18 by then?
+Will: The defendant is 18 by the first appearance, so the adult courts deal with the case.
+Hannah (checking): So there are two dates. One for the court, and one for the sentence?
+Will: Right. Age at first appearance decides the court, and age at conviction decides the sentencing powers. Let's test it. Dev is charged when he is 17, but he turns 18 the day before his first appearance. The test is his age at the first appearance. Which court deals with the case?
+Hannah: So is it the youth court because he was a youth when charged, the adult courts, or the youth court because he'll be sentenced as a youth?
+Will: <think>
+Hannah (reasoning): The test is age at first appearance, not age at charge. He's 18 by then, so the adult courts.
+Will: Right. The adult courts, because he is 18 by the first appearance. Age at charge doesn't count.
+Hannah (brisk): Now powers. What can the adult magistrates' court give, to compare with the youth court?
+Will: For a single summary offence, the limit is 6 months. For a single either-way offence, it is 12 months.
+Hannah: And consecutive terms?
+Will: For summary offences, 6 months in aggregate. For two or more either-way offences, 12 months.
+Hannah: And the youth court?
+Will: It can impose a detention and training order of up to 24 months. But never longer than the maximum prison term the Crown Court could impose on an adult of 21 or over for the offence. For a summary offence, that's its own maximum.
+Hannah (summing up): So the question is whether the defendant is being sentenced as a youth in the youth court, or as an adult in the magistrates' court.
+Will: Right. That's the fact that tells the two sets of limits apart.
+Hannah (warm): Recap: a youth is 10 to 17 inclusive, age at first appearance decides the court, and sentencing powers follow age at conviction.
+Will: Yes. Now the first hearings.
+## Block 8: First hearings: where a youth appears, and no right to elect
+Will: First hearings. Where does a youth appear, and can a youth choose a jury? The starting point is that youths are presumed to be tried in the youth court.
+Hannah (sceptical): Can a youth choose a jury, then?
+Will: No. A youth has no right to elect Crown Court trial. That's the whole point of the heading.
+Hannah (thinking aloud): So if a youth ends up at the Crown Court, it's because the court sent them, never because they chose it.
+Will: Right. Now, the other surprise. Some youths appear in the adult magistrates' court.
+Hannah: When?
+Will: One case you will meet shortly: a youth jointly charged with an adult makes the first appearance in the adult magistrates' court.
+Hannah (summing up): So youths are presumed to go to the youth court, with no right to elect Crown Court trial, but some appear in the adult magistrates' court.
+Will: Right. The usual route is the youth court, and the adult magistrates' court takes some cases. Now the Crown Court route.
+## Block 9: Grave crimes, plea before venue and allocation; dangerous young offenders
+Will (warm): Grave crimes, plea before venue, and dangerous young offenders. Ask first: must the youth be sent? The youth court must send a youth straight to the Crown Court for a homicide offence, meaning murder or manslaughter.
+Hannah: Anything else that's automatic?
+Will: A firearms offence carrying a mandatory minimum sentence, if the youth was 16 or over when it was committed. Also certain offences of using someone to mind a dangerous weapon.
+Hannah (curious): And any other route?
+Will: Yes. The prosecution may serve a notice in a serious or complex fraud case, or in certain cases involving child witnesses. That notice requires sending to the Crown Court.
+Hannah (thinking aloud): Those are the must-be-sent cases. What counts as a grave crime itself?
+Will: The test starts with the adult maximum. The figure is 14 years or more. Domestic burglary carries 14 years, so it is grave.
+Hannah: And what isn't?
+Will: Theft, which carries 7 years. Non-dwelling burglary, which carries 10 years. Section 20 GBH and ABH, which carry 5 years.
+Hannah (guessing): And burglary generally? I'd have said it's grave.
+Will: That's the trap. Of the two forms of simple burglary, only domestic burglary, 14 years for an adult, is a grave crime. Non-dwelling burglary, 10 years, is not. Aggravated burglary, life, is always a grave crime.
+Hannah (summing up): So domestic burglary is in, non-dwelling burglary is out, and aggravated burglary is always in.
+Will: Right. Now plea before venue. For a grave crime, the youth court first asks for an indication of plea.
+Hannah: And a guilty indication?
+Will: The youth is convicted. The youth court then sentences or, if its powers are inadequate, commits to the Crown Court for sentence.
+Hannah (curious): And not guilty?
+Will: A not guilty indication, or no indication, leads to the grave crimes test. The test is whether, taking the prosecution case at its highest, there is a real prospect of long-term detention if convicted. In practice, that is a sentence of more than 2 years.
+Hannah (thinking aloud): And if the answer is no?
+Will: Then the youth court must keep the case, because youths are presumed to be tried there.
+Hannah (wary): Does that change for very young children?
+Will: Slightly. A child of 10 or 11 cannot receive a DTO. Nor can a child of 12 to 14 who is not persistent. So long-term detention could be justified for less than 2 years. But sending a child that young should be exceptional.
+Hannah (brisk): Let me test that. Walk me through one.
+Will: Sana is 16, charged with domestic burglary, which is a grave crime. She gives a not guilty indication. The test is whether, taking the prosecution case at its highest, there is a real prospect of a sentence of more than 2 years. Here there isn't. What does the youth court do?
+Hannah: So does it send her to the Crown Court for trial, keep the case, or send her for sentence straight away?
+Will: <think>
+Hannah (reasoning): No real prospect of more than two years, so the test isn't met. The presumption is the youth court. So it keeps the case.
+Will: Right. It keeps the case. And if it convicts, it may still commit her for sentence if it now considers that long-term detention ought to be available.
+Hannah (curious): So keeping the case doesn't bind the court on sentence?
+Will: Yes. That's the point. Now dangerousness.
+Hannah: What's the rule?
+Will: A specified offence is a violent, sexual or terrorism offence. If the court considers the youth would meet the criteria for an extended sentence on conviction, the youth must be sent to the Crown Court.
+Hannah (checking): What are the criteria?
+Will: A significant risk of serious harm to the public from further specified offences. And an appropriate custodial term of at least 4 years.
+Hannah (thinking aloud): At the first hearing?
+Will: The guideline says that should rarely be decided at the first hearing. Usually the court decides after conviction, with a pre-sentence report, and commits for sentence if the criteria are met.
+Hannah: Is that the same test as the grave crime one?
+Will: No, and it's a good look-alike. The grave crimes test is how long the detention is likely to be. The dangerousness test is whether the youth poses a significant risk of serious harm.
+Hannah (summing up): So one test looks at likely length, and the other looks at risk.
+Will: Right. Likely long-term detention for a grave crime, significant risk for a specified offence.
+Hannah (brisk): Recap: the youth court should send a grave crime only if there is a real prospect of more than 2 years, and otherwise keeps it, subject to committal for sentence.
+Will (warm): Yes. And homicide and dangerousness cases follow their own rules. Next, youths charged with adults.
+## Block 10: Youths jointly charged with adults, and remittal
+Will (warm): Youths jointly charged with adults, and remittal. Start in the adult magistrates' court, with the adult. A youth jointly charged with an adult makes the first appearance with the adult in the adult magistrates' court, not the youth court.
+Hannah: And if the adult is sent for trial?
+Will: Does the youth go too? Yes, under the youth's own sending rules, or if the court considers it necessary in the interests of justice.
+Hannah (summing up): So the youth doesn't automatically follow the adult up to the Crown Court.
+Will: Right. Now remittal for sentence.
+Hannah: What's the rule?
+Will: After a Crown Court conviction for anything other than homicide, the youth is remitted to the youth court for sentence. The exception is where the Crown Court is satisfied that would be undesirable.
+Hannah (brisk): A case, please.
+Will: Tom is 16 and is convicted of robbery in the Crown Court after a joint trial with an adult, Ellis. The test is whether the offence is homicide, and whether remittal would be undesirable. Who sentences Tom?
+Hannah: So is it the Crown Court, because it tried him, or the youth court, unless the Crown Court finds remittal undesirable?
+Will: <think>
+Hannah (reasoning): Robbery isn't homicide, so remittal to the youth court is the default. The Crown Court only keeps him if it's satisfied remittal would be undesirable.
+Will: Right. The youth court sentences him, unless the Crown Court is satisfied that would be undesirable.
+Hannah (warm): Recap: the youth first appears in the adult magistrates' court with the adult, goes with a sent adult under the youth's own sending rules or if the court considers it necessary in the interests of justice, and after a Crown Court conviction for anything but homicide is remitted for sentence unless undesirable.
+Will: Yes. Now privacy in the youth court.
+## Block 11: The youth court: privacy, reporting restrictions and informality
+Will (brisk): Privacy in the youth court, and the reporting restrictions. Ask which court it is. Only in the youth court is the press automatically barred from identifying the youth.
+Hannah: Is the hearing open to the public?
+Will: No. A youth court trial is not open to the public.
+Hannah (summing up): So the automatic bar on identifying the youth is a youth court rule.
+Will: Right. That's the fact that tells the courts apart.
+Hannah (curious): And informality?
+Will: One principle. Every court dealing with a child must have regard to the child's welfare.
+Hannah (brisk): Recap: in the youth court the press is automatically barred from identifying the youth, and the trial is not open to the public.
+Will (warm): Yes. Now the police station.
+## Block 12: Juveniles at the police station: appropriate adults and safeguards
+Will (warm): Juveniles at the police station, appropriate adults and safeguards. Start with who counts. Anyone who appears to be under 18 is treated as a juvenile.
+Hannah (sceptical): Unless they say they're older?
+Will: Unless there is clear evidence that they are older. A 17-year-old is a juvenile at the police station, and so needs an appropriate adult.
+Hannah (brisk): Who can be the appropriate adult?
+Will: Another responsible adult can act, aged 18 or over. Not a police officer, and not someone employed by the police.
+Hannah: Now what does the appropriate adult actually do?
+Will: Here's a trap. Is helping the juvenile communicate with the police part of the role?
+Hannah (guessing): I'd have said no. The solicitor does the talking.
+Will: Careful. It is part of the role. The appropriate adult is expected to help the juvenile communicate with the police, while respecting their right to say nothing unless they want to. And to help them understand their rights.
+Hannah (brisk): Now interviews.
+Will: A juvenile needs an appropriate adult, who must be present for an interview or a written statement. The one exception is an urgent interview authorised on strict conditions.
+Hannah (curious): And identification procedures?
+Will: Consent goes by age. The dividing line is 14. For a juvenile aged 14 to 17, both the juvenile and the parent or guardian must consent. For a child under 14, the parent or guardian alone. The appropriate adult must be present.
+Hannah (brisk): Time for a case.
+Will: Jas is 17, arrested, and the parent is on the way. The police want to interview now, and nobody has authorised an urgent interview. The test is whether the appropriate adult is present. Can they interview?
+Hannah: Is it yes because he's nearly an adult, or no, wait for the appropriate adult?
+Will: <think>
+Hannah (reasoning): At 17 he's a juvenile at the station. He needs the appropriate adult present for an interview. Without an urgent authorisation, they have to wait.
+Will: Right. They must wait for the appropriate adult. Only an urgent interview authorised on strict conditions is an exception.
+Hannah (summing up): Recap: a juvenile needs an appropriate adult for an interview or a written statement, unless an urgent interview is authorised on strict conditions.
+Will (warm): Right. Last topic: after charge.
+## Block 13: After charge: bail and detention of juveniles
+Will (brisk): After charge, bail and detention of juveniles. Ask where a juvenile who is refused bail is held.
+Hannah: In a cell?
+Will: Not by default. After charge, the juvenile is moved to local authority accommodation unless an exception applies.
+Hannah (checking): What are the exceptions?
+Will: The move is impracticable. Or the juvenile is 12 or over. Then it is where no secure local authority accommodation is available and other local authority accommodation would not be adequate to protect the public from serious harm.
+Hannah (thinking aloud): So the second exception needs three things together?
+Will: Right. Aged 12 or over, no secure local authority accommodation available, and other local authority accommodation not enough to protect the public from serious harm. All together.
+Hannah: And after the court gets involved?
+Will: On a court remand, youth detention accommodation is only available if the statutory conditions are met. Otherwise it is local authority accommodation.
+Hannah (curious): And those conditions?
+Will: They cover age, the type of offence or history, and the need to protect the public or prevent further offences. The detail is look-up.
+Hannah (summing up): So after charge it's local authority accommodation unless an exception applies, and on a court remand youth detention only if the statutory conditions are met.
+Will: Right. That's the whole route, from the station to sentence.
+Hannah (brisk): Recap: a charged juvenile refused bail goes to local authority accommodation, unless the move is impracticable or, for a juvenile of 12 or over, no secure place is available and other local authority accommodation would not protect the public from serious harm.
+Will (warm): Yes. That's the end of the topics.
+## Recap
+Will (warm): Ready? Five things to carry out of this part.
+Hannah: One. A youth is 10 to 17 inclusive. Age at first appearance decides the court, and age at conviction decides sentencing powers.
+Will: Two. The youth court should send a grave crime only if there is a real prospect of long-term detention, in practice more than 2 years. Homicide and dangerousness cases follow their own rules.
+Hannah (brisk): Three. A youth charged alongside an adult first appears in the adult magistrates' court. After a Crown Court conviction for anything but homicide, the youth is remitted for sentence unless that would be undesirable. And youths are presumed to be tried in the youth court, with no right to elect Crown Court trial.
+Will: Four. Only in the youth court is the press automatically barred from identifying the youth.
+Hannah (dry): Five. At the police station, an appropriate adult must be present for an interview unless an urgent interview is authorised on strict conditions, and a charged juvenile refused bail goes to local authority accommodation unless an exception applies.
+Will (warm): This part covered seven topics: the youth court and its age rules, first hearings, grave crimes and dangerous young offenders, youths jointly charged with adults, youth court privacy, juveniles at the police station, and what happens after charge.
