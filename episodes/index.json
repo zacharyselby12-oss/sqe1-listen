@@ -2113,14 +2113,22 @@
       ],
       "summary": "Applying to court must be within the statutory period unless extended in writing beforehand; the court sets only disputed terms; once an application is made the current tenancy ends 3 months after final disposal; a section 25 notice must come from the competent landlord.",
       "madeAt": "2026-11-05T08:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok; guide re-staged with thinner sections: 15 script lines revised to the current source; code ok (v2.3); known-error scan 0 hits (5 judged not the error); fresh Opus changed-lines check ok",
       "part": 3,
       "of": 3,
       "blocks": [],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 5900349,
+      "seconds": 737,
+      "words": 1984,
+      "renderedHash": "b3918f00ba05",
+      "renderedAt": "2026-11-05T08:46:00+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws09-v23-p3-c7952f8d.mp3",
+      "pubDate": "2026-11-05T08:46:00+00:00"
     }
   ],
   "replays": [
