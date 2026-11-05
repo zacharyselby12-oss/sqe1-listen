@@ -2154,7 +2154,7 @@
       ],
       "summary": "Elements of a misrepresentation; statements of fact, where opinion, intention and silence count only through exceptions; fraudulent, negligent or wholly innocent categories; remedies and exclusion clauses; alternatives: a term or negligent misstatement.",
       "madeAt": "2026-11-05T12:44:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (3 findings fixed in one revision); changed-lines check passed (r202611051119)",
@@ -2167,7 +2167,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11728314,
+      "seconds": 1466,
+      "words": 3484,
+      "renderedHash": "e3b731976bbf",
+      "renderedAt": "2026-11-05T12:45:57+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/contract-ws06-v23-30679d46.mp3",
+      "pubDate": "2026-11-05T12:45:57+00:00"
     },
     {
       "id": "clp-ws10-v23-p1",
@@ -2195,7 +2203,7 @@
       ],
       "summary": "This part covered six topics: the general principles of sentencing children, parents, persistent offenders and the sentences available, youth rehabilitation orders, referral orders, and detention and training orders with Crown Court custody.",
       "madeAt": "2026-11-05T12:44:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (fixed in one revision); changed-lines check passed (r202611051119)",
@@ -2209,7 +2217,15 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9386929,
+      "seconds": 1173,
+      "words": 2986,
+      "renderedHash": "d92ca92fce86",
+      "renderedAt": "2026-11-05T12:45:57+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws10-v23-p1-dc2df954.mp3",
+      "pubDate": "2026-11-05T12:45:57+00:00"
     },
     {
       "id": "clp-ws10-v23-p2",
@@ -2240,7 +2256,7 @@
       ],
       "summary": "This part covered seven topics: the youth court and its age rules, first hearings, grave crimes and dangerous young offenders, youths jointly charged with adults, youth court privacy, juveniles at the police station, and what happens after charge.",
       "madeAt": "2026-11-05T12:44:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (fixed in one revision); changed-lines check passed (r202611051119)",
@@ -2255,7 +2271,15 @@
         "b15",
         "b16"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8050124,
+      "seconds": 1006,
+      "words": 2606,
+      "renderedHash": "9a0b96678e8e",
+      "renderedAt": "2026-11-05T12:45:57+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws10-v23-p2-df8caba3.mp3",
+      "pubDate": "2026-11-05T12:45:57+00:00"
     }
   ],
   "replays": [
