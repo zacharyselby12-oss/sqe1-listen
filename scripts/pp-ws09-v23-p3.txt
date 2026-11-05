@@ -1,0 +1,115 @@
+---
+id: pp-ws09-v23-p3
+unit: u-bpp-PP-09
+guide_hash: 422e35cbae
+made: 2026-11-05T08:44:54+00:00
+title: PP WS09 · Business Tenancies: security of tenure (part 3 of 3)
+part: 3 of 3
+blocks: 7-10
+map:
+- Applying to court: timing and extension
+- Terms of the new lease; interim rent
+- Court orders and the end of the current tenancy
+- Service and timing of notices; the competent landlord
+recap:
+- An application must be made within the statutory period, which ends on the termination date in a section 25 notice or immediately before the start date in a section 26 request; only a written agreement made before the period ends can extend it, and after a section 26 request no application can be made until 2 months after the request unless the landlord has already served its counter-notice.
+- The court decides only the terms in dispute: the holding, a duration of not more than 15 years, an open market rent with its disregards, and other terms the proposer must justify; interim rent can be applied for no later than 6 months after the current tenancy ends.
+- Only one party's application can proceed; the current tenancy continues until 3 months after the proceedings are finally disposed of, and an unwanted order can be revoked on the tenant's application within 14 days.
+- A notice properly sent or left is treated as served even if not received, and only the competent landlord can give the section 25 notice, which is the immediate landlord only if its interest will not end within 14 months.
+summary: Applying to court must be within the statutory period unless extended in writing beforehand; the court sets only disputed terms; once an application is made the current tenancy ends 3 months after final disposal; a section 25 notice must come from the competent landlord.
+invented:
+- Nadia
+- Owen
+- Calder Foods
+- Harlow Estates
+- Bridge Street
+- Fenwick Properties
+- Rosa
+---
+## Map
+Will (warm): This is the last of three parts. The first said whether the tenancy is protected, and the second covered ending it and the fight over renewal. This one is about the court and the new lease, and it has four topics. First, applying to court: the deadline and how it can be extended. Second, the terms of the new lease and the rent paid meanwhile. Third, the court's orders and when the old tenancy actually ends. Fourth, the notice rules: how a notice is served, and which landlord has to give it.
+Hannah (thinking aloud): So it's: when do you apply, what does the court set, when does the old tenancy end, and was the notice right in the first place?
+Will: Right: deadline, terms, end date, and then the rules on notices.
+## Block 7: Applying to court: timing and extension
+Hannah (brisk): Let's start with applying to court. Who can apply, and by when?
+Will: Either party can apply to court for a new tenancy. A landlord whose section 25 notice opposed renewal can instead apply for a termination order on its stated grounds. But all of this must happen within the statutory period.
+Hannah: And when does that period end?
+Will: It depends which notice started things. After a section 25 notice, the period ends on the date specified in the notice, so an application is in time up to and including that date. After a section 26 request, it ends immediately before the date specified in the request.
+Hannah (wary): That's close but different. Is there anything else on the request side?
+Will: Yes. There's an earliest date as well as a latest. No application can be made until 2 months after the request. The exception is where the landlord has already served its counter-notice.
+Hannah (summing up): So after the landlord's notice you apply up to the termination date, and after the tenant's request you apply before the start date, but not in the first 2 months unless there's a counter-notice.
+Will: Yes: and the question to ask is which notice started the process, the landlord's notice or the tenant's request.
+Hannah: What if nobody applies?
+Will: Then the tenancy ends and the right to renew is lost. That is the harsh bit.
+Hannah (teasing): There must be a way round it.
+Will: There is. The parties can agree in writing to extend the time for applying. But the agreement must be made by the deadline. An agreement made after it has gone is too late. Here's one. The test is whether the agreement was made before the period ended. Rosa is a tenant under a protected lease, and Fenwick Properties served a section 25 notice, which does not oppose renewal. The termination date in the notice passes without either side applying. A week later, they sign a written agreement to extend the time for applying, and Rosa applies for a new tenancy the next day. Does her application succeed in time?
+Hannah: So the application is in time because of the agreement, or too late because the agreement came after the deadline?
+Will: <think>
+Hannah (thinking aloud): The agreement has to be made before the period ends. This one came a week after the termination date. So nothing was extended, and nobody applied in time.
+Will: Right: the agreement was too late. The tenancy ended on the termination date and the right to renew is lost.
+Hannah: One line for that?
+Will: After a section 25 notice, apply up to the termination date. After a section 26 request, apply before the start date. And only a written agreement made before the deadline expires extends it.
+## Block 8: Terms of the new lease; interim rent
+Hannah (brisk): Right, so you're in time. Now the terms of the new lease. Who decides them, and what rent is paid while this goes on?
+Will: The parties normally agree the terms. The court decides only the terms in dispute, and each has its own test. It orders a new tenancy if the landlord establishes no ground of opposition, unless, on a landlord's application, the tenant tells the court it does not want one.
+Hannah: And a near miss?
+Will: If a ground D, E or F would have succeeded with a termination date up to a year later, the court declares that and refuses a new tenancy. The tenant may then, within 14 days, have that date substituted.
+Hannah (thinking aloud): OK. So the terms, one at a time.
+Will: First, the property. The new lease is of the holding. That is the property in the current tenancy, less any part occupied neither by the tenant nor its business employees, such as sublet parts, fixed as at the date of the order. The exception is where the landlord requires a new lease of the whole. Rights enjoyed with the holding are included unless otherwise agreed or determined by the court.
+Hannah: Duration?
+Will: Such term as the court considers reasonable in all the circumstances, not exceeding 15 years.
+Hannah: And the rent?
+Will: The rent is the open market rent fixed under section 34, with its disregards. One of them is the tenant's own improvements: those carried out during the current tenancy or, where the premises have been continuously let on protected tenancies, within a set period before the application.
+Hannah (sceptical): So the tenant doesn't pay more for its own hard work.
+Will: Right: it's about not charging the tenant for what the tenant itself created. And the court may include a rent review clause. The test is what the court disregards when fixing the rent. Calder Foods has run a bakery in a unit on Bridge Street for years. During the current tenancy, and with no obligation to the landlord, it fitted out the shop at its own cost. Harlow Estates argues that the new rent should reflect the fit-out. Does the court take it into account?
+Hannah: Taking it into account, or disregarding it?
+Will: <think>
+Hannah (thinking aloud): The tenant's improvements during the current tenancy are on the disregard list, and the fit-out is one. So it comes out.
+Will: Right: it is disregarded, so the new rent should not be raised for the fit-out.
+Hannah: What about other terms?
+Will: For the other terms, the court has regard to the terms of the current tenancy and all relevant circumstances. The party proposing a change must justify it as fair and reasonable. For example, it cannot shift the burden of repair or service costs onto the tenant without good reason. The court can require a guarantor, and must have regard to the covenants legislation, for example an authorised guarantee agreement on assignment.
+Hannah: And the rent meanwhile?
+Will: That is interim rent. Either party may apply for it once a section 25 notice or section 26 request has been served. The deadline is 6 months after the current tenancy ends. Otherwise the passing rent continues.
+Hannah (wary): From when does it run?
+Will: From the earliest termination date that could have been specified in the notice or request. That is 6 months after the notice was given or the request made. Or it is later, in two cases. For a section 25 notice, it is the date the tenancy could end at common law. For a section 26 request, it is the date the tenancy would end by effluxion or could be ended by the tenant's notice to quit.
+Hannah (thinking aloud): So not simply 6 months after service.
+Will: Right: it is the earliest date the notice or request could have specified, which may be later than 6 months after service.
+Hannah: How much is it?
+Will: It is the rent the court fixes for the period while the old tenancy continues. If nobody applies in time, the passing rent simply continues.
+Hannah (summing up): So there are two rents. One is under the new lease, and one is for the stretch while the old tenancy carries on.
+Will: Yes: the new-lease rent is the open market rent with its disregards and possibly a review clause, and the interim rent is the rent fixed for the time while the old tenancy continues.
+## Block 9: Court orders and the end of the current tenancy
+Hannah (brisk): Next, court orders and the end of the current tenancy. Once the court has decided, can the tenant back out?
+Will: First a rule about who applies. Only one application can proceed, so the question is who applied first.
+Hannah: And the old tenancy keeps going?
+Will: If an application is made, the current tenancy goes on. It ends 3 months after the proceedings are finally disposed of, and they are not finally disposed of until any time for appealing has expired.
+Hannah (thinking aloud): And the time for appealing is?
+Will: 21 days after the order. So with no appeal, the tenancy ends 3 months and 21 days after the order. Time to test it. The test is when the proceedings are finally disposed of. Owen applies for a new tenancy. Fenwick Properties does not oppose. The court orders a new tenancy, Owen is content with it, and nobody appeals. Does the old tenancy end on the day of the order, 3 months after the order, or later?
+Hannah: On the order, 3 months after it, or after the appeal period as well?
+Will: <think>
+Hannah (thinking aloud): The tenancy continues until 3 months after final disposal. Final disposal needs the time for appealing to have expired. So it's later than 3 months after the order.
+Will: Right: it ends 3 months and 21 days after the order, because the appeal period runs first.
+Hannah: And if the tenant doesn't like what the court ordered?
+Will: If the court orders a new tenancy on terms the tenant does not want, the tenant may apply within 14 days of the order to have it revoked. The current tenancy then continues for a period to let the landlord re-let.
+Hannah (wary): That sounds like the near miss.
+Will: It's the look-alike. In a near miss, the court has refused a new tenancy, and the tenant may within 14 days have the later termination date substituted. In revocation, the court has ordered a new tenancy the tenant does not want. Both are 14 days, so the question is which order the court made.
+Hannah (summing up): So revoke means the court gave me a lease I don't want, and substitute means the court said no but only just.
+Will: Yes: revocation follows an order for a new tenancy, and substitution follows a refusal with a near-miss declaration.
+## Block 10: Service and timing of notices; the competent landlord
+Hannah (dry): Last topic: service of notices and the competent landlord. How does a notice count as served?
+Will: A notice properly sent or left is treated as served even if it is never received. That matters for counting the 6 to 12 month window.
+Hannah: So a notice lost in the post still counts.
+Will: Right, if it was properly sent. Now, which landlord gives the section 25 notice? The competent landlord.
+Hannah: Which is?
+Will: The tenant's immediate landlord, if its own interest will not end within 14 months.
+Hannah (thinking aloud): And if it will?
+Will: Then it's the nearest landlord further up the chain whose interest is the freehold, or will not end within 14 months. A notice from the wrong landlord is invalid. The test is whose interest will end within 14 months. Nadia is a business tenant. Her immediate landlord, Harlow Estates, holds a lease that has 10 months left. Above Harlow is Fenwick Properties, which owns the freehold. Harlow serves a prescribed-form section 25 notice on Nadia. Is it valid or not?
+Hannah: Valid because Harlow is her immediate landlord, or invalid because someone else is competent?
+Will: <think>
+Hannah (thinking aloud): Harlow's interest will end within 14 months, so Harlow isn't the competent landlord. It passes up to the nearest landlord whose interest is the freehold, so Fenwick.
+Will: Right: the notice is invalid, because it came from the wrong landlord. Fenwick Properties is the competent landlord.
+## Recap
+Hannah (dry): So the court part runs in order. A notice starts it, you apply within the statutory period, the court sets the disputed terms, and the old tenancy ends 3 months after the proceedings are finally disposed of.
+Will: Right: and a section 25 notice has to come from the competent landlord, and any notice must be properly served.
+Hannah (dry): Short version, then.
+Will: Applying to court must be within the statutory period unless extended in writing beforehand; the court sets only disputed terms; once an application is made the current tenancy ends 3 months after final disposal; a section 25 notice must come from the competent landlord.

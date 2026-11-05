@@ -2090,6 +2090,37 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws09-v23-f20adf11.mp3",
       "pubDate": "2026-11-04T21:44:25+00:00"
+    },
+    {
+      "id": "pp-ws09-v23-p3",
+      "unitId": "u-bpp-PP-09",
+      "title": "PP WS09 · Business Tenancies: security of tenure (part 3 of 3)",
+      "guideHash": "422e35cbae",
+      "script": "scripts/pp-ws09-v23-p3.txt",
+      "scriptHash": "b3918f00ba05",
+      "audio": "audio/pp-ws09-v23-p3.mp3",
+      "recap": [
+        "An application must be made within the statutory period, which ends on the termination date in a section 25 notice or immediately before the start date in a section 26 request; only a written agreement made before the period ends can extend it, and after a section 26 request no application can be made until 2 months after the request unless the landlord has already served its counter-notice.",
+        "The court decides only the terms in dispute: the holding, a duration of not more than 15 years, an open market rent with its disregards, and other terms the proposer must justify; interim rent can be applied for no later than 6 months after the current tenancy ends.",
+        "Only one party's application can proceed; the current tenancy continues until 3 months after the proceedings are finally disposed of, and an unwanted order can be revoked on the tenant's application within 14 days.",
+        "A notice properly sent or left is treated as served even if not received, and only the competent landlord can give the section 25 notice, which is the immediate landlord only if its interest will not end within 14 months."
+      ],
+      "map": [
+        "Applying to court: timing and extension",
+        "Terms of the new lease; interim rent",
+        "Court orders and the end of the current tenancy",
+        "Service and timing of notices; the competent landlord"
+      ],
+      "summary": "Applying to court must be within the statutory period unless extended in writing beforehand; the court sets only disputed terms; once an application is made the current tenancy ends 3 months after final disposal; a section 25 notice must come from the competent landlord.",
+      "madeAt": "2026-11-05T08:44:54+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (findings fixed over two revisions); changed lines ok; guide re-staged with thinner sections: 15 script lines revised to the current source; code ok (v2.3); known-error scan 0 hits (5 judged not the error); fresh Opus changed-lines check ok",
+      "part": 3,
+      "of": 3,
+      "blocks": [],
+      "spec": "2.2"
     }
   ],
   "replays": [
