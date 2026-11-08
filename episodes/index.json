@@ -2280,6 +2280,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws10-v23-p2-df8caba3.mp3",
       "pubDate": "2026-11-05T12:45:57+00:00"
+    },
+    {
+      "id": "tort-ws01-rev-v1",
+      "unitId": "u-bpp-Tort-01",
+      "title": "Tort WS01 · Revision · 13 min",
+      "guideHash": "e6dc950a06",
+      "script": "scripts/tort-ws01-rev-v1.txt",
+      "scriptHash": "f04d93444f0e",
+      "audio": "audio/tort-ws01-rev-v1.mp3",
+      "recap": [
+        "Personal injury, property damage and consequential economic loss are recoverable in the ordinary way; pure economic loss and psychiatric harm need their special rules.",
+        "Apply precedent in an established duty situation and Caparo only in a genuinely novel one; either way, the claimant (or her class) must be reasonably foreseeable as likely to be harmed; a manufacturer of products sold in a form showing that they are intended to reach the ultimate consumer in the form in which they left him, with no reasonable possibility of intermediate examination, owes the consumer a duty to take reasonable care in their preparation, knowing that lack of care may cause injury to life or property; and a duty is owed to a rescuer.",
+        "No duty for a pure omission unless D made matters worse or an exception applies, such as assumed responsibility.",
+        "No duty to prevent a third party deliberately harming C unless an exception applies; an occupier owes a measured duty for dangers created on its land by trespassers or nature only where it knew or ought to have known of the danger and could reasonably have abated it.",
+        "Public bodies owe the same duties as private persons; statutory powers alone create no duty to protect."
+      ],
+      "map": [
+        "Negligence and the kinds of loss",
+        "Whether a duty of care is owed",
+        "Liability for omissions",
+        "Liability for acts of third parties",
+        "Public bodies and duty of care"
+      ],
+      "summary": "Negligence and the kinds of loss; whether a duty of care is owed; liability for omissions and for acts of third parties, with no duty unless an exception applies; and public bodies, whose statutory powers alone give no duty to protect.",
+      "madeAt": "2026-11-08T12:43:02+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (podcast spec 2.3 and the revision check: 13 min, 2,089 words, 3 think-gaps, all 20 coverage items); known-error scan 0 hits (1 phrase hit cleared by the Opus accuracy check); Opus accuracy + line-by-line checks (7 fixes in one revision; the changed lines checked by a fresh Opus, 1 more fix in the guide's own words); the revision template's sample for Zac's OK (z75, b163)",
+      "part": 1,
+      "of": 1,
+      "blocks": [],
+      "spec": "2.2"
     }
   ],
   "replays": [
