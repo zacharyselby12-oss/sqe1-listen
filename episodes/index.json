@@ -2428,7 +2428,7 @@
       ],
       "summary": "A duty comes from precedent, or from Caparo if the situation is genuinely novel, and is owed to a claimant reasonably foreseeable as likely to be harmed; but failing to protect gives no duty unless the defendant made matters worse or an exception applies.",
       "madeAt": "2026-11-09T20:49:02+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (1 fuzzy match cleared: the correct rule); a fresh Opus review against the cases (Tindall, Poole, Robinson) with 1 must-fix and 2 clarity fixes, then a fresh Opus check of the changed lines (all right, 1 wording); template v2.3's second sample for Zac's comparison with v1 (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 18802cf8fd",
@@ -2441,7 +2441,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7475995,
+      "seconds": 934,
+      "words": 2235,
+      "renderedHash": "e60cf2d6d0b0",
+      "renderedAt": "2026-11-09T20:49:51+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws01-rev-v2-1583eec5.mp3",
+      "pubDate": "2026-11-09T20:49:51+00:00"
     },
     {
       "id": "dr-ws07-rev-v1-p1",
@@ -2467,7 +2475,7 @@
       ],
       "summary": "Relevant evidence goes in unless excluded; served statements stand as evidence in chief unless the court orders otherwise; hearsay isn't excluded for being hearsay; and only a summons, not a served statement, compels a witness to attend.",
       "madeAt": "2026-11-09T20:49:02+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (4 fuzzy matches cleared: each the correct rule); a fresh Opus review against the CPR, PDs and the Civil Evidence Act 1995 with 6 must-fixes and 3 clarity fixes, then a fresh Opus check of the changed lines (2 more fixes, and the matching one-liners); template v2.3's DR sample (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 91e7fc99a6",
@@ -2480,7 +2488,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 10757819,
+      "seconds": 1345,
+      "words": 3175,
+      "renderedHash": "fb23b4030651",
+      "renderedAt": "2026-11-09T20:49:51+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-rev-v1-p1-22466c5f.mp3",
+      "pubDate": "2026-11-09T20:49:51+00:00"
     },
     {
       "id": "dr-ws07-rev-v1-p2",
@@ -2506,7 +2522,7 @@
       ],
       "summary": "Expert evidence needs the court's permission, and the expert's duty is to the court; a disclosed report can be used by any party; and an agreement between experts binds a party only if it expressly agrees to be bound.",
       "madeAt": "2026-11-09T20:49:02+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (4 fuzzy matches cleared: each the correct rule); a fresh Opus review against the CPR, PDs and the Civil Evidence Act 1995 with 6 must-fixes and 3 clarity fixes, then a fresh Opus check of the changed lines (2 more fixes, and the matching one-liners); template v2.3's DR sample (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 91e7fc99a6",
@@ -2519,7 +2535,15 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7941819,
+      "seconds": 993,
+      "words": 2321,
+      "renderedHash": "3d6dd5654fd8",
+      "renderedAt": "2026-11-09T20:49:51+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws07-rev-v1-p2-61bfcd6b.mp3",
+      "pubDate": "2026-11-09T20:49:51+00:00"
     }
   ],
   "replays": [
