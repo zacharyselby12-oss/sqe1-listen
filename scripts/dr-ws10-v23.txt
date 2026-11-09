@@ -1,0 +1,288 @@
+---
+id: dr-ws10-v23
+unit: u-bpp-DR-10
+guide_hash: 585af3dec3
+made: 2026-11-09T17:44:34+00:00
+title: Dispute Resolution WS10 · Jurisdiction and Conflict of Laws
+map:
+- International disputes: jurisdiction and applicable law
+- Choice of court clauses and the Hague Convention 2005
+- Common law jurisdiction: presence and permission to serve out
+- Serving the claim form outside the jurisdiction
+- Difficulties with service: alternative service and dispensing with service
+- Disputing and submitting to the jurisdiction
+- Jurisdiction within the UK: the 1982 Act
+- Applicable law in contract: Rome I
+- Applicable law in tort: Rome II
+recap:
+- Jurisdiction (can the English court hear it) and applicable law (whose law decides it) are separate questions; foreign law must be pleaded and proved, while procedure and evidence follow English law.
+- A contract term giving the English courts jurisdiction, exclusive or not, lets you serve abroad without permission, but a governing-law clause alone does not; an exclusive foreign clause normally means a stay, and the Hague Convention makes the stay mandatory, subject to limited exceptions.
+- Serving a defendant in England and Wales, even briefly, gives jurisdiction as of right, subject to a forum non conveniens challenge; otherwise you need a ground to serve out without permission, or permission, which needs a good arguable case on a gateway, a serious issue to be tried, and England as the proper place.
+- Serving abroad needs permission unless a ground applies, in which case you file a notice of the grounds; service must be within 6 months of issue, by a method not contrary to the law of the country of service.
+- Alternative service needs a good reason, and more than that where a service convention applies; it cannot get round the strict rule on extending time, and dispensing with service needs exceptional circumstances.
+- To dispute jurisdiction, acknowledge service, then apply under Part 11, with evidence, within 14 days after filing the acknowledgment; if you do not, you are treated as accepting jurisdiction, and a step inconsistent with the challenge may amount to submission.
+- Service in Scotland or Northern Ireland needs no permission only if all three conditions are met: power under the 1982 Act, no pending proceedings on the same claim elsewhere in the UK, and a UK-domiciled defendant (or one of the two special cases).
+- For a contract, the chosen law governs, subject to three limits; without a choice, the special rules and the type of contract decide, then the characteristic performer's habitual residence, unless the contract is manifestly more closely connected with another country.
+- For a tort, a valid choice comes first, then the law of the country of common habitual residence, then the law of the country where the damage occurs, unless the tort is manifestly more closely connected with another country; defamation and privacy claims sit outside Rome II.
+summary: International disputes; choice of court clauses and Hague Convention; common law jurisdiction and permission; serving abroad; difficulties with service, alternative or dispensed; disputing and submitting to jurisdiction; UK 1982 Act; applicable law in contract, Rome I; in tort, Rome II.
+invented:
+- Calloway Ltd
+- Marlow Tiles
+- Lyon
+- Norvik
+- Priya
+- Oslo
+- Bristol
+- Harlan
+- Dolores
+- Spain
+- Portugal
+---
+## Map
+Will (warm): Right, Hannah. Say a client rings you: they want to sue a company that sits in another country. Everything that follows comes down to two questions, in this order. Which court can hear it, and then which country's law decides it.
+Hannah (thinking aloud): Court first, law second. Fine. But "which court" sounds like it's doing a lot of work, doesn't it?
+Will (dry): It is, so we take it in steps. First, how the two questions differ and how foreign law gets proved. Then choice of court clauses and the Hague Convention.
+Hannah: So the split, then the clauses. What comes after those?
+Will: How an English court gets jurisdiction at common law, then serving the claim form abroad, then what to do when service goes wrong.
+Hannah (brisk): Right: getting jurisdiction, serving abroad, service problems. Then?
+Will: Yes. After that, how a defendant disputes jurisdiction, or accidentally accepts it, and then jurisdiction within the UK.
+Hannah (wary): Accidentally accepting it sounds like an exam trap.
+Will (amused): It is. Then we switch to the law: Rome I for contracts, and Rome II for torts.
+Hannah: Disputing it, the UK bit, then contract law and tort law.
+Will: Right, that's the whole route. Let's start at the top.
+## Block 1: International disputes: jurisdiction and applicable law
+Will (warm): First, international disputes, and the idea that jurisdiction and applicable law are separate. Jurisdiction is whether the English court can hear the claim. Applicable law is which country's law decides the dispute.
+Hannah: So an English court can sit there, hear a claim, and apply another country's law?
+Will: Yes, it can apply foreign law. And the two questions even meet in one place: a contract governed by English law is a gateway for getting permission to serve out of the jurisdiction. We will come to gateways.
+Hannah (thoughtful): Why keep them apart, though? Seems like the same question wearing two hats.
+Will (dry): Because the answer to one doesn't give you the other. The court having power to hear the case tells you nothing about whose rules it uses once it is hearing it.
+Hannah: Okay. And how does an English judge know what that foreign law says? Surely they can't just guess.
+Will: They don't. Foreign law is treated as a question of fact. So it must be pleaded and proved, usually by expert evidence.
+Hannah (wary): And if nobody bothers?
+Will: That is the part the exam turns on. If neither party pleads it, the court applies English law. That is the default rule.
+Hannah (teasing): So ignoring the foreign law quietly rescues the English one.
+Will: Right, English law fills the gap. Now the middle case: it is pleaded but not proved. Then the court may presume that foreign law is the same as English law, but only where that is a fair and reasonable assumption.
+Hannah (thinking aloud): So there are two ways to fall back on English law, and the second one has a condition attached.
+Will: Yes, pleaded but not proved comes with the fair and reasonable condition. Not pleaded at all means English law applies.
+Hannah (curious): And once the foreign law is in, what does it actually decide?
+Will: Three things: liability, the assessment of damages, and limitation periods. Procedure and evidence are different. Those follow English law, because England is the forum.
+Hannah (summing up): So foreign law decides whether you win, how much, and by when; English law runs the courtroom.
+Will: Right, that's it. Courtroom rules are always the forum's. So that is the first topic done, and it leads straight to the clauses people put in contracts about where disputes go.
+## Block 2: Choice of court clauses and the Hague Convention 2005
+Will (warm): Now choice of court clauses and the Hague Convention. The point of these clauses is that parties have already said where they want to fight, so the law lets the claimant skip some hurdles.
+Hannah: Which hurdle?
+Will: Permission to serve abroad. Without permission, you may serve a claim form outside the UK where each claim falls within one of four situations. One is an exclusive choice of court agreement in favour of the English courts, covered by the Hague Choice of Court Convention 2005. Two is any contract term giving the English courts jurisdiction, exclusive or not.
+Hannah (brisk): So non-exclusive counts. Good to know. What are three and four?
+Will: Three is certain consumer and employee claims where the 1982 Act gives jurisdiction. Four is an enactment giving the court power to determine the claim even though the defendant is abroad.
+Hannah: And one is narrow, because the Hague one has to be exclusive, but two covers either type.
+Will: Right. Now the pair that matters. English company, New York company, and a contract giving the English courts non-exclusive jurisdiction. The English company sues for breach. It can serve in New York without permission, because the term need not be exclusive.
+Hannah (wary): And the look-alike?
+Will: Same parties, but the contract only says English law governs it. That is a governing-law clause, not a jurisdiction clause. It is a gateway, but not a ground for serving without permission, so the claimant needs the court's permission.
+Hannah (groaning): Because "English law governs" sounds like it should mean English courts.
+Will: Yes, and it doesn't. The deciding fact is whether the contract gives the English courts jurisdiction, or only chooses English law.
+Hannah (summing up): So a jurisdiction clause, even a non-exclusive one, means no permission needed; a governing-law clause alone means ask the court.
+Will: Right. Now flip it. What if the exclusive jurisdiction clause favours a foreign court?
+Hannah: Then English proceedings get stopped?
+Will: Normally yes, the English court will stay them unless there are strong reasons not to. And where the Hague Convention applies, it must stay them, subject to limited exceptions.
+Hannah (curious): Is there a list of countries the Hague Convention covers that I should memorise?
+Will (dry): Don't. Lists go out of date. For example, Ukraine has become a Contracting State. And other states can join, so check the current list before relying on one.
+Hannah: Right, so the block in one go: clauses giving English jurisdiction mean serve without permission; a foreign exclusive clause normally means a stay, and under the Hague Convention it must, with limited exceptions.
+Will: Yes, and note that "normally" in there. Next, what if there is no clause at all, and the claimant just has to get the English court some jurisdiction.
+## Block 3: Common law jurisdiction: presence and permission to serve out
+Will (warm): This is common law jurisdiction: presence, and permission to serve out. There are two routes. The easy one is that the defendant is served here.
+Hannah: Here meaning England?
+Will: England and Wales, plus adjoining UK territorial waters. A defendant who is physically present there, even briefly, can be validly served personally, and that gives the court jurisdiction as of right.
+Hannah (amused): Even briefly. So a defendant changing planes is fair game?
+Will: Briefly is enough for presence. The only caveat is that the defendant can still challenge on forum non conveniens, which we come to later. And a quick contrast: Scotland or Northern Ireland count as service out of the jurisdiction. Without permission where the special rule applies, otherwise with permission.
+Hannah: Got it. And how do you serve someone personally?
+Will: That is look-up detail, so one sentence: leave the claim form with an individual, with a senior person at a company, or with a partner or manager for a firm. There are also rules for where to serve if no solicitor is nominated. Now suppose a solicitor is named for service. That means the defendant gave the solicitor's business address in the jurisdiction in writing, or the solicitor told the claimant in writing that they are instructed to accept service at a business address in the jurisdiction. Then serve at that solicitor's address. Personal service on the defendant is then not permitted. The exception is where a rule, practice direction, enactment or court order requires it.
+Hannah (wary): That last bit sounds like a trap in the making.
+Will: It is a fair one. Moving on: a timing point. Following a pre-action protocol does not stop time running.
+Hannah: So if limitation is about to expire?
+Will: Issue proceedings to protect the position, and then the parties apply to the court for a stay while the protocol steps are completed.
+Hannah (summing up): Issue first to stop the clock, then ask for a stay for the protocol.
+Will: Right. Now the second route. If you cannot serve here and no ground lets you serve out without permission, the court's permission is needed. There are three things the claimant must show, and all three are needed.
+Hannah: Go on.
+Will: One, a good arguable case that each claim falls within one of the gateways. Two, a serious issue to be tried on the merits, meaning a real prospect of success. Three, that England and Wales is the proper place to bring the claim, which means clearly the appropriate forum.
+Hannah (thinking aloud): Gateway, serious issue, proper place. And how do you ask?
+Will: By application made without notice, supported by evidence of the grounds, the claimant's belief that the claim has a reasonable prospect of success, and the defendant's address or where they are likely to be found.
+Hannah: Okay, and what are the gateways?
+Will: The key ones fall into five groups. First, a remedy against a person domiciled in the jurisdiction. Second, an injunction to do or stop doing an act in the jurisdiction. Third, a necessary or proper party to a claim against a defendant who has been or will be served.
+Hannah (curious): Necessary or proper party, with some condition on it?
+Will: Yes: there must be a real issue between the claimant and that defendant which it is reasonable to try.
+Hannah: And the other two groups?
+Will: Contract claims, and tort claims. A contract claim fits if the contract was made in the jurisdiction, or concluded by acceptance of an offer received here, or made through an agent here.
+Hannah: That's making. What about the other ways in?
+Will: The contract is governed by English law, or it was breached in the jurisdiction. And remember: a contract with an English jurisdiction clause needs no permission at all.
+Hannah (brisk): Right, so English law governing is a gateway, but it still needs permission, while a jurisdiction clause skips it. Same pair as before.
+Will: Yes, that is the look-alike again, and it is the one to hold on to. Last group: tort claims. Damage that was or will be sustained in the jurisdiction, or damage resulting from an act committed here, or likely to be committed here, or a claim governed by English law.
+Hannah: And "sustained in the jurisdiction" means what, exactly?
+Will: It includes significant indirect damage, like continuing pain and financial loss suffered in England after an accident abroad.
+Hannah (summing up): So if no one can serve here and no clause helps, you need permission and you must show gateway, serious issue and proper place, all three.
+Will: Right. Next, the actual mechanics of serving abroad.
+## Block 4: Serving the claim form outside the jurisdiction
+Will (warm): Now serving the claim form outside the jurisdiction. Start with a change in the world. The old Brussels and Lugano regime stopped applying to the UK, so there is no general right to serve out without permission on a defendant domiciled in an EU or EFTA state.
+Hannah (wary): So those defendants aren't special any more.
+Will: Right, they are no exception. You need permission, unless one of the grounds for serving without permission applies, such as an exclusive English jurisdiction clause within the Hague Convention, or any contract term giving the English courts jurisdiction.
+Hannah: And if a ground does apply?
+Will: Then there is a paperwork duty. The claimant must file with the claim form a notice stating the grounds on which it is entitled to serve out without permission, and serve a copy with the claim form.
+Hannah (thinking aloud): So the route is: can you serve here, if not does a ground apply and file a notice, if not apply for permission.
+Will: Yes, in that order. Now time. Abroad, the period for service is 6 months. It runs from issue of the claim form.
+Hannah: Longer than the usual?
+Will: Yes. Within the jurisdiction it is 4 months. Abroad is the generous one.
+Hannah (curious): And how do you actually serve it abroad?
+Will: There are three routes. One, through the Foreign Process Section, via the foreign government, judicial authorities or British consular authorities, which includes the central authority under the Hague Service Convention. Two, by any method permitted by the law of the country where the claim form is to be served. Three, under a civil procedure convention.
+Hannah (dry): And presumably none of them lets you do something illegal over there.
+Will: Right: nothing authorises a method contrary to the law of that country. That is the line to remember. And if it goes through foreign authorities, it needs a translation into the official language, unless English is an official language there or the defendant is a British citizen, and no convention or treaty requires a translation.
+Hannah (summing up): So six months, three routes, never against local law, and a translation unless English is official there or the defendant is British.
+Will: Yes, with the condition that no convention requires a translation. Last piece: foreign states and response times. Serving a foreign state has its own detailed rules, and it goes through the Foreign, Commonwealth and Development Office. Response periods for individual countries are set out in a table in the practice direction. Both are look-up material, so we leave them there.
+Hannah: Is any of it worth learning?
+Will: One bit. When a claim is served in Scotland or Northern Ireland without permission, the defendant gets 21 days. That time runs from service of the particulars. It covers acknowledging service or filing a defence.
+Hannah: And if they acknowledge?
+Will: Then the defence period is 35 days. When permission is given, the order sets the periods.
+Hannah: So twenty-one days to acknowledge or defend, thirty-five for the defence if they've acknowledged.
+Will: Right. That is serving abroad covered. But what if the usual methods simply fail?
+## Block 5: Difficulties with service: alternative service and dispensing with service
+Will (warm): That brings us to difficulties with service: alternative service and dispensing with service. These are the safety valves, and they have different strictness.
+Hannah: Start with alternative service.
+Will: Where there is a good reason, the court may order service by a method or at a place not otherwise permitted. Examples include email without prior consent, social media messaging, or service on a relative or at an alternative address.
+Hannah (sceptical): And what's a good reason? Surely not just "I couldn't be bothered".
+Will (dry): Quite. It depends on all the circumstances. A significant factor is whether the defendant actually learned of the claim form's contents, but that alone is not enough. And a litigant in person who simply failed to follow the rules does not have a good reason.
+Hannah: Can you use it for a defendant abroad?
+Will: Yes, but not by a method contrary to the law of the country where service takes place. And where a service convention applies, such as the Hague Service Convention, more than good reason is generally needed. It also applies to documents other than the claim form.
+Hannah (thinking aloud): So alternative service abroad has two limits: not against local law, and more than good reason if a convention applies.
+Will: Right. Now the application and the order. The application must be supported by evidence stating why the order is needed, what method or place is proposed, and why that is likely to bring the claim form to the defendant's attention. It may be made without notice.
+Hannah: And the order itself?
+Will: It must specify the method or place of service, the date on which the claim form is deemed served, and the period for acknowledging service, admitting or filing a defence.
+Hannah: What about when the claimant has already tried something unauthorised?
+Will: The court may order that steps already taken to bring the claim form to the defendant's attention, by an unauthorised method or place, amount to good service. That is retrospective validation, and again it needs good reason.
+Hannah (wary): So alternative service can be used retrospectively, which is the opposite of what I'd assumed.
+Will: Yes, you can. What it cannot do is get round the strict rule on extending time for serving the claim form after the 4 month period has expired.
+Hannah: That's a subtle line. So steps already taken can stand as good service, but you can't use it as a back door to more time.
+Will: Right, and only if there is good reason. Now the extreme option: dispensing with service altogether. The court may do it, but only in exceptional circumstances.
+Hannah (summing up): So that's the look-alike: good reason for alternative service, exceptional circumstances for dispensing, and dispensing is the stricter test.
+Will: Yes, it is stricter. Alternative service changes how or where; dispensing removes service completely, so the bar is higher. Next, what the defendant does once it has been served.
+## Block 6: Disputing and submitting to the jurisdiction
+Will (warm): Now disputing and submitting to the jurisdiction. The question is how a defendant challenges jurisdiction without accepting it.
+Hannah: Go on, what's the procedure?
+Will: Two steps. First the defendant files an acknowledgment of service. Second, it applies for a declaration under Part 11, with evidence. That application must be made within 14 days after filing the acknowledgment.
+Hannah (thinking aloud): And the challenge could be that the court shouldn't hear it, or that service was invalid or late.
+Will: Yes: that the court has no jurisdiction, or should not exercise it, for example because another country's courts are the appropriate forum, or because service was invalid or late.
+Hannah: Does filing the acknowledgment itself count as accepting jurisdiction?
+Will: No, filing the acknowledgment does not mean accepting jurisdiction. Failing to apply in time does. The acknowledgment is signed by the defendant or its legal representative, gives an address for service in the UK, and states whether the defendant intends to defend all or part of the claim or to contest jurisdiction.
+Hannah: And while the application is pending, does it have to file a defence?
+Will: It does not. And if the court declares it has no jurisdiction or will not exercise it, it may set aside the claim form or its service, discharge earlier orders and stay the proceedings.
+Hannah (brisk): Okay, now the trap. What if it doesn't apply?
+Will: This is what the topic turns on. If the defendant files an acknowledgment but does not apply within 14 days, it is treated as having accepted that the court has jurisdiction. That includes losing the right to complain that the claim form was served late or invalidly.
+Hannah (wary): Harsh.
+Will: Compare two defendants. One files an acknowledgment on 1 May and applies under Part 11, with evidence, by 15 May, saying the claim form was served late. It has not accepted jurisdiction, and it need not file a defence while the application is pending.
+Hannah: And the other?
+Will: Files an acknowledgment, makes no application within 14 days, then files a defence. It is treated as having accepted jurisdiction, so it can no longer complain about late service. The deciding fact is whether it applied under Part 11 within 14 days after filing the acknowledgment.
+Hannah (summing up): So apply in time, keep the challenge; sit on your hands, lose it.
+Will: Right. And if the application fails, the acknowledgment ceases to have effect. The defendant may file a further acknowledgment within 14 days, or as directed, and is then treated as accepting jurisdiction. The court gives directions for the defence.
+Hannah (groaning): So losing the application is itself acceptance, once the new acknowledgment goes in.
+Will: Yes. And there's another way to submit: taking a step inconsistent with the challenge, such as filing a defence on the merits or applying for summary judgment, may amount to submission to the jurisdiction.
+Hannah: Fine. Is there a way out for a defendant served here?
+Will: Yes: a stay for forum non conveniens. A defendant served within the jurisdiction as of right can seek a stay. It must show another available forum is clearly or distinctly more appropriate. The claimant can then resist by showing that justice requires trial in England, for example because it would not get substantial justice abroad.
+Hannah (thinking aloud): Doesn't that sound like the proper-place test from permission?
+Will: That is the look-alike. For permission to serve out, the claimant has to show England and Wales is the proper place, clearly the appropriate forum. For a stay, a defendant served here as of right has to show that somewhere else is clearly or distinctly better. The fact that tells them apart is whether the defendant was served out with permission, or within as of right. That decides who must show what.
+Hannah (summing up): So it all depends on how the defendant was served. Out with permission, the burden is on the claimant; here as of right, the burden is on the defendant.
+Will: Right. Next, a short court topic that is purely about the UK.
+## Block 7: Jurisdiction within the UK: the 1982 Act
+Will (warm): This is jurisdiction within the UK, the 1982 Act. Serving in Scotland or Northern Ireland is service out of the jurisdiction, but it needs no permission if three conditions are met, and you need all three.
+Hannah: Go on.
+Will: One, the court has power to determine each claim under the Civil Jurisdiction and Judgments Act 1982. Two, no proceedings between the parties on the same claim are pending in the courts of any other part of the UK.
+Hannah (thinking aloud): And the third is about the defendant, presumably.
+Will: Right. Three, the defendant is domiciled in the UK, or the claim falls within one of the two special cases in the Act's schedule.
+Hannah (curious): Domiciled in the UK. How do you tell where a company is domiciled?
+Will: Here is the correction to what a lot of people assume. A company is not domiciled in just one place. A company with its seat in the UK has its seat, and so its domicile, in each part of the UK that matches any of three descriptions. Where it has its registered office or other official address. Where its central management and control is exercised. Or where it has a place of business.
+Hannah: So a company can be domiciled in more than one part.
+Will: Yes, in more than one part. And remember the response times from earlier: 21 days to acknowledge or file a defence, and 35 days for the defence if service is acknowledged.
+Hannah (summing up): So Scotland or Northern Ireland without permission needs the Act's power, nothing pending elsewhere in the UK, and a UK-domiciled defendant, or one of the special cases.
+Will: Right. All three. That is the court side finished. Now the second question, which country's law, starting with contracts.
+## Block 8: Applicable law in contract: Rome I
+Will (warm): Now applicable law in contract, which is Rome I. Courts in England and Wales decide the governing law of a contract under UK Rome I, and of a non-contractual obligation, including a tort, under UK Rome II. These are the retained, or assimilated, versions of the EU Regulations.
+Hannah: Does that mean they only point to UK law?
+Will: No: they apply whether the law they point to is that of the UK or of another country.
+Hannah (curious): Does Rome II reach back to older torts?
+Will: Only so far: it applies where the event giving rise to the damage occurred on or after 11 January 2009. Not 10 January, which is a common slip.
+Hannah (brisk): Fine. What's the first question for a contract?
+Will: Did the parties choose a law? In Rome I, the contract is governed by the law the parties chose. The choice must be express or clearly demonstrated by the terms or circumstances, and may cover all or part of the contract.
+Hannah (wary): And can they pick anything?
+Will: There are three limits. One, the mandatory rules of another country, where all the other elements of the situation are located there. Two, the overriding mandatory provisions of English law as the law of the forum. Three, English public policy, where applying the chosen law would be manifestly incompatible with it.
+Hannah (thinking aloud): So a chosen law can be overridden by another country's mandatory rules, by English overriding rules, or by English public policy.
+Will: Yes, with the condition that the first one applies only where everything else is in that other country. Now consumers. If the business pursues its activities in, or directs them to, the consumer's country of habitual residence, and the contract falls within those activities, the law of that country applies.
+Hannah: Even if the contract picks a different law?
+Will: A choice of law is allowed, but it cannot deprive the consumer of the protection of that country's mandatory rules. And there are carve-outs. They include services supplied to the consumer exclusively outside that country, most contracts of carriage, and land contracts other than timeshares.
+Hannah: And employees?
+Will: A similar rule protecting the employee, under the law of the country where the employee habitually works.
+Hannah (summing up): So the consumer's home mandatory protection survives any choice, as long as the business targets their country.
+Will: Right, as long as the contract also falls within those activities, and with the carve-outs I gave. Now, no choice. The exam turns on the type of contract. Without a choice, and subject to the special rules for carriage, consumer, insurance and employment contracts, Rome I fixes the law for six particular contracts. Take the first three. Sale of goods: the seller's habitual residence. Services: the service provider's habitual residence. And rights in land, or a tenancy: where the land is.
+Hannah (curious): Any twist on the land one?
+Will: A tenancy for temporary private use has its own rule: the landlord's habitual residence, if the tenant is an individual habitually resident in the same country. That figure is look-up, so just keep the idea that short private lets differ.
+Hannah: And the other three?
+Will: Franchise: the franchisee's habitual residence. Distribution: the distributor's habitual residence. And sale of goods by auction: where the auction takes place, if that can be determined.
+Hannah (thinking aloud): Seller, provider, land, franchisee, distributor, auction place. Where does habitual residence come from for a company?
+Will: For a company, its place of central administration. For an individual acting in the course of business, their principal place of business. If the contract is concluded through a branch, or performance is the branch's responsibility, the branch's location counts. And residence is judged at the time the contract is concluded.
+Hannah: And a contract that isn't on the list?
+Will: Or fits more than one category. Then it is governed by the law of the habitual residence of the party who performs the characteristic performance, which is usually the party supplying goods or services, not the one paying.
+Hannah (summing up): So seller or supplier's home law, not the payer's.
+Will: Right, usually the supplier, not the payer. Last piece is the escape clause. If it is clear from all the circumstances that the contract is manifestly more closely connected with another country, that country's law applies. And if the law cannot be found under the other rules, the law of the country most closely connected applies.
+Hannah: That's a lot of routes, so what's the order?
+Will: Choice, with its limits and the consumer and employee protections; then, with no choice, the type of contract, then characteristic performance, with the escape clause able to displace either of those last two where the connection with another country is manifestly closer.
+Hannah (brisk): Choice, type, characteristic performance, escape clause.
+Will: Right. Now the same job for torts.
+## Block 9: Applicable law in tort: Rome II
+Will (warm): Last topic: applicable law in tort, which is Rome II. And the reason to learn it is that tort follows a different order from contract, starting with the parties' choice.
+Hannah: Can parties choose the law for a tort?
+Will: Yes, in two ways. By agreement after the event giving rise to the damage. Or, where all of them are pursuing a commercial activity, by an agreement freely negotiated before the event.
+Hannah (thinking aloud): So before the event, only if everyone is commercial; after the event, anyone.
+Will: Right. Now no choice. There are two conditions to check, and they come in order. First: did the claimant and defendant both have their habitual residence in the same country when the damage occurred? If so, that country's law applies.
+Hannah: And if not?
+Will: Then the general rule: the law of the country where the damage occurs applies, regardless of where the event giving rise to it occurred, and regardless of where any indirect consequences are felt.
+Hannah (wary): So a crash in one country with the injured person flying home to be treated elsewhere is judged by the crash country.
+Will: Right: the place of damage, not the indirect consequences. And then the escape clause. If the tort is manifestly more closely connected with another country, for example through a pre-existing relationship such as a contract between the parties, that country's law applies.
+Hannah: Can the escape clause override a choice the parties made?
+Will: No. It can displace only the law of the place of damage or of the common habitual residence, never a law the parties validly chose.
+Hannah (summing up): So the order is: choice, then common residence, then place of damage, with the escape clause only able to displace the last two.
+Will: Yes, that's the whole chain. Now the look-alike. Under Rome II, damage means where the damage occurs, wherever the indirect consequences are felt. But for the tort gateway to serve out, damage sustained in England and Wales includes significant indirect damage, like continuing pain and financial loss after an accident abroad.
+Hannah (thinking aloud): Same words, opposite treatment of indirect harm.
+Will: Right. The fact that tells them apart is the question being asked: which country's law decides the claim, or whether the claim form can be served out with permission.
+Hannah: Any special rules?
+Will: Special Rome II rules apply in four groups of claims: product liability, unfair competition, environmental damage and intellectual property. For product liability, you start with the law of the injured person's habitual residence if the product was marketed there. For environmental damage, the claimant may choose the law of the country of the event.
+Hannah (curious): And what falls outside Rome II?
+Will: Non-contractual obligations from violations of privacy and personality rights, including defamation. For defamation and malicious falsehood, the common law double actionability rule applies: the claim must be actionable both under English law and under the law of the place of the tort, subject to a flexible exception.
+Hannah: And the other privacy claims?
+Will: They fall under a separate statutory rule: the law of the country where the events constituting the tort occur, displaced where another law is substantially more appropriate.
+Hannah (summing up): So defamation is double actionability, other privacy is where it happened unless another law is substantially more appropriate.
+Will: Right. That completes the law side. Time to put it to work.
+## Exam mode
+Will (brisk): Three scenarios. First one. Calloway Ltd, an English company, has a contract with Marlow Tiles, a company domiciled in Lyon. The contract says only that English law governs it. Marlow Tiles breaches it, and Calloway wants to serve the claim form there.
+Hannah: So, can Calloway serve without permission, does it need the court's permission, or does it have to wait until the protocol steps finish?
+Will: <think>
+Hannah (thinking aloud): This is the clauses topic. A governing-law clause isn't a jurisdiction clause. So there is no ground to serve without permission, and the old Brussels and Lugano regime gives no special route. Permission it is, and English law governing the contract is a gateway.
+Will: Right: it needs the court's permission. The deciding fact is that the contract only chooses English law, so the claimant must show a good arguable case on a gateway, a serious issue to be tried, and that England is the proper place.
+Hannah (pleased): Got it. Scenario two.
+Will (brisk): Priya's Bristol firm sues Norvik, a company in Oslo. Norvik files an acknowledgment of service, makes no application within 14 days, and then files a defence on the merits. Months later it says the claim form was served late.
+Hannah: Can Norvik still complain about late service, or has it lost that right?
+Will: <think>
+Hannah (thinking aloud): This turns on disputing jurisdiction. The test is whether it applied under Part 11 within 14 days after filing the acknowledgment. It didn't, and filing a defence on the merits is a step inconsistent with challenging. So it is treated as having accepted jurisdiction.
+Will: Right, Norvik has lost the right to complain. Failing to apply in time means acceptance, including losing any complaint about late or invalid service.
+Hannah (teasing): Third scenario, then.
+Will (dry): Harlan and Dolores are both habitually resident in Spain. They are on holiday in Portugal when Harlan's car hits Dolores. She suffers the injury there, and her continuing pain follows her home to Spain. She sues in the English court, and there is no choice of law and no contract between them.
+Hannah: Which law applies to the tort: Portuguese law, Spain's law, or English law?
+Will: <think>
+Hannah (thinking aloud): This is tort under Rome II. There's no choice. Next check: common habitual residence when the damage occurred. They both lived in Spain, so Spain's law, and the general place of damage rule doesn't get a look in.
+Will: Right: Spain's law. Common habitual residence beats the place of damage, and nothing here shows a closer connection with another country, so the escape clause doesn't change it.
+## Recap
+Will (warm): Nine topics, one line each. Hannah, you start.
+Hannah: Jurisdiction and applicable law are separate questions; foreign law must be pleaded and proved, while procedure and evidence follow English law.
+Will: A jurisdiction clause, exclusive or not, lets you serve abroad without permission, but a governing-law clause alone doesn't. An exclusive foreign clause normally means a stay, and under the Hague Convention it must, subject to limited exceptions.
+Hannah: Serving here, even briefly, gives jurisdiction as of right, subject to a forum non conveniens challenge. Otherwise you need a ground to serve out without permission, or permission, which needs a good arguable case on a gateway, a serious issue to be tried, and England as the proper place.
+Will: Serving abroad needs permission unless a ground applies, and then you file a notice of the grounds. You serve within 6 months of issue, by a method not contrary to the law of the country of service.
+Hannah: Alternative service needs a good reason, and more than that where a service convention applies. It can't get round the strict rule on extending time, and dispensing with service needs exceptional circumstances. Shall I carry on?
+Will: To dispute jurisdiction you acknowledge service and then apply under Part 11, with evidence, within 14 days after filing the acknowledgment. If you don't, you are treated as accepting jurisdiction, and a step inconsistent with the challenge may amount to submission.
+Hannah: Scotland or Northern Ireland without permission needs all three conditions: the Act's power, nothing pending elsewhere in the UK, and a UK-domiciled defendant, or one of the two special cases.
+Will: For contracts, the chosen law governs, subject to three limits. Without a choice, the special rules and the type of contract decide, then the characteristic performer's habitual residence, unless the contract is manifestly more closely connected with another country.
+Hannah: For torts, choice first, then common habitual residence, then the place of damage, and the closer-connection escape can displace only those last two, never a chosen law. Defamation and privacy claims sit outside Rome II. Is that the lot?
+Will: International disputes; choice of court clauses and Hague Convention; common law jurisdiction and permission; serving abroad; difficulties with service, alternative or dispensed; disputing and submitting to jurisdiction; UK 1982 Act; applicable law in contract, Rome I; in tort, Rome II.

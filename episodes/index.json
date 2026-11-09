@@ -2321,6 +2321,72 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws01-rev-v1-c7e042d3.mp3",
       "pubDate": "2026-11-08T12:43:57+00:00"
+    },
+    {
+      "id": "blp-ws10-v23",
+      "unitId": "u-bpp-BLP-10",
+      "title": "BLP WS10 · Trading and voidable transactions",
+      "guideHash": "990ce13663",
+      "script": "scripts/blp-ws10-v23.txt",
+      "scriptHash": "e3c239c97afc",
+      "audio": "audio/blp-ws10-v23.mp3",
+      "recap": [
+        "Fraudulent trading: anyone knowingly party to it can be ordered to contribute, not only directors; dishonesty is judged in two steps, what he actually knew or believed and then the standard of ordinary decent people; only the liquidator or administrator can bring the claim, or assign it.",
+        "Wrongful trading: a director, shadow directors included, may be ordered to contribute if he knew or ought to have concluded that there was no reasonable prospect of avoiding insolvent liquidation or administration; the only defence is having taken every step to minimise potential loss to creditors that he ought to have taken, and the honest-and-reasonable relief is not available.",
+        "Undervalues and section 423: an undervalue needs value, timing and inability to pay debts, with a good-faith defence; section 423 needs a real purpose, with no look-back period and no need for insolvency.",
+        "Preferences and floating charges: connection changes the period (except for undervalues, always 2 years) and reverses the burden of proof; a floating charge stays valid to the extent of new value given at the same time or after."
+      ],
+      "map": [
+        "Fraudulent trading",
+        "Wrongful trading",
+        "Voidable transactions generally, undervalues and transactions defrauding creditors",
+        "Preferences, floating charges, and the claims compared"
+      ],
+      "summary": "Fraudulent trading: anyone knowingly party, two steps, claimed only by the liquidator or administrator; wrongful trading: one defence; voidable transactions: undervalues turn on value, timing and insolvency, section 423 on a real purpose; preferences and floating charges depend on connection.",
+      "madeAt": "2026-11-09T17:44:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; Opus accuracy + line-by-line checks; one revision; Opus changed-lines check pass; known-error scan 0 hits; build chat re-stamp (Mon 9 Nov 17:36, b181 step 3): its guide moved after the script was checked, so 15 lines revised (the three points corrected on 5 Nov in the same run: wrongful and fraudulent trading, the look-back periods; line 60 in plain words; the s 424 applicants) against the current guide and checked texts by an Opus helper (F4), then a fresh changed-lines check (C7: 6 lines fixed as it said), code check (v2.3) ok, known-error scan 0 hits; guideHash 990ce13663",
+      "spec": "2.2"
+    },
+    {
+      "id": "dr-ws10-v23",
+      "unitId": "u-bpp-DR-10",
+      "title": "Dispute Resolution WS10 · Jurisdiction and Conflict of Laws",
+      "guideHash": "585af3dec3",
+      "script": "scripts/dr-ws10-v23.txt",
+      "scriptHash": "9f2c20d5688d",
+      "audio": "audio/dr-ws10-v23.mp3",
+      "recap": [
+        "Jurisdiction (can the English court hear it) and applicable law (whose law decides it) are separate questions; foreign law must be pleaded and proved, while procedure and evidence follow English law.",
+        "A contract term giving the English courts jurisdiction, exclusive or not, lets you serve abroad without permission, but a governing-law clause alone does not; an exclusive foreign clause normally means a stay, and the Hague Convention makes the stay mandatory, subject to limited exceptions.",
+        "Serving a defendant in England and Wales, even briefly, gives jurisdiction as of right, subject to a forum non conveniens challenge; otherwise you need a ground to serve out without permission, or permission, which needs a good arguable case on a gateway, a serious issue to be tried, and England as the proper place.",
+        "Serving abroad needs permission unless a ground applies, in which case you file a notice of the grounds; service must be within 6 months of issue, by a method not contrary to the law of the country of service.",
+        "Alternative service needs a good reason, and more than that where a service convention applies; it cannot get round the strict rule on extending time, and dispensing with service needs exceptional circumstances.",
+        "To dispute jurisdiction, acknowledge service, then apply under Part 11, with evidence, within 14 days after filing the acknowledgment; if you do not, you are treated as accepting jurisdiction, and a step inconsistent with the challenge may amount to submission.",
+        "Service in Scotland or Northern Ireland needs no permission only if all three conditions are met: power under the 1982 Act, no pending proceedings on the same claim elsewhere in the UK, and a UK-domiciled defendant (or one of the two special cases).",
+        "For a contract, the chosen law governs, subject to three limits; without a choice, the special rules and the type of contract decide, then the characteristic performer's habitual residence, unless the contract is manifestly more closely connected with another country.",
+        "For a tort, a valid choice comes first, then the law of the country of common habitual residence, then the law of the country where the damage occurs, unless the tort is manifestly more closely connected with another country; defamation and privacy claims sit outside Rome II."
+      ],
+      "map": [
+        "International disputes: jurisdiction and applicable law",
+        "Choice of court clauses and the Hague Convention 2005",
+        "Common law jurisdiction: presence and permission to serve out",
+        "Serving the claim form outside the jurisdiction",
+        "Difficulties with service: alternative service and dispensing with service",
+        "Disputing and submitting to the jurisdiction",
+        "Jurisdiction within the UK: the 1982 Act",
+        "Applicable law in contract: Rome I",
+        "Applicable law in tort: Rome II"
+      ],
+      "summary": "International disputes; choice of court clauses and Hague Convention; common law jurisdiction and permission; serving abroad; difficulties with service, alternative or dispensed; disputing and submitting to jurisdiction; UK 1982 Act; applicable law in contract, Rome I; in tort, Rome II.",
+      "madeAt": "2026-11-09T17:44:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok; known-error scan 0 hits; Opus accuracy + line-by-line checks; one revision; Opus changed-lines check, one wording restored and code check re-run; build chat re-stamp (Mon 9 Nov 17:36, b181 step 3): its guide moved after the script was checked, so 5 lines revised (the foreign-state service line, DR-4.4-12 checked in the same run; Ukraine; the tort gateway; Rome II's scope; the consumer carve-outs as examples) against the current guide and checked texts by an Opus helper (F4), then a fresh changed-lines check (C7: 6 lines fixed as it said), code check (v2.3) ok, known-error scan 0 hits; guideHash 585af3dec3",
+      "spec": "2.2"
     }
   ],
   "replays": [

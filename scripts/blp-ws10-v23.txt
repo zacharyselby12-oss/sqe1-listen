@@ -1,0 +1,175 @@
+---
+id: blp-ws10-v23
+unit: u-bpp-BLP-10
+guide_hash: 990ce13663
+made: 2026-11-09T17:44:34+00:00
+title: BLP WS10 · Trading and voidable transactions
+map:
+- Fraudulent trading
+- Wrongful trading
+- Voidable transactions generally, undervalues and transactions defrauding creditors
+- Preferences, floating charges, and the claims compared
+recap:
+- Fraudulent trading: anyone knowingly party to it can be ordered to contribute, not only directors; dishonesty is judged in two steps, what he actually knew or believed and then the standard of ordinary decent people; only the liquidator or administrator can bring the claim, or assign it.
+- Wrongful trading: a director, shadow directors included, may be ordered to contribute if he knew or ought to have concluded that there was no reasonable prospect of avoiding insolvent liquidation or administration; the only defence is having taken every step to minimise potential loss to creditors that he ought to have taken, and the honest-and-reasonable relief is not available.
+- Undervalues and section 423: an undervalue needs value, timing and inability to pay debts, with a good-faith defence; section 423 needs a real purpose, with no look-back period and no need for insolvency.
+- Preferences and floating charges: connection changes the period (except for undervalues, always 2 years) and reverses the burden of proof; a floating charge stays valid to the extent of new value given at the same time or after.
+summary: Fraudulent trading: anyone knowingly party, two steps, claimed only by the liquidator or administrator; wrongful trading: one defence; voidable transactions: undervalues turn on value, timing and insolvency, section 423 on a real purpose; preferences and floating charges depend on connection.
+invented:
+- Marlow Print Ltd
+- Tessa
+- Omar
+- Kestrel Joinery Ltd
+- Dev
+- Mara
+- Bright Bay Cafe Ltd
+- Northgate Bank
+- Priya
+- eighteen months
+- nine months
+- five years
+- the van
+- the flat
+---
+## Map
+Will (warm): Today is two pairs of claims against a failing company, and I'll give you the map first so we don't get lost.
+Hannah (wary): Go on.
+Will: First, fraudulent trading: who is liable, how dishonesty is judged, and who can bring the claim. Then wrongful trading: when a director is liable, and the one defence he has.
+Hannah: So that's the trading pair. What's after that?
+Will: Voidable transactions. First, undervalues, including the date the look-back periods count back from, and the section 423 claim for transactions defrauding creditors. Then preferences and floating charges, and what being connected changes.
+Hannah (thinking aloud): So trading, then undervalues and section 423, then preferences and charges, with connection tying the last bit together.
+Will: Right, that's the order.
+## Block 1: Fraudulent trading
+Will (brisk): Let's start with fraudulent trading, and first what it is. It's where the company's business turns out to have been carried on with intent to defraud creditors or for any fraudulent purpose. If that comes out in a winding up or an administration, the court may order anyone who was knowingly a party to it to contribute to the company's assets whatever it thinks proper.
+Hannah: Anyone? Not just the directors?
+Will: Not just the directors. Outsiders who deal with the company can be liable too, if they knowingly took part. What's needed is dishonest participation. And fraudulent trading is also a crime, whether or not the company is wound up.
+Hannah (thinking aloud): So the contribution order needs a winding up or an administration, but the crime doesn't need either.
+Will: Right. Now the question people half-answer: how is dishonesty judged?
+Hannah (teasing): Easy. It's subjective: what did this director actually think was going on?
+Will: Half right, and the other half is the trap. There are two steps. Step one is subjective: what did he actually know or believe about the facts?
+Hannah: And step two?
+Will: Step two is objective. Was his conduct dishonest by the standards of ordinary decent people?
+Hannah (thoughtful): So he can't say "I didn't think I was being dishonest" and walk away.
+Will: Right: it doesn't matter whether he saw it as dishonest. Step two is the ordinary decent people standard.
+Hannah (wry): Fine. But what about the director who honestly believed the problems would blow over and the creditors would be paid? Surely that's a defence.
+Will: Not by itself. That belief is part of what he knew or believed about the facts, so it goes into step one, and his conduct is judged in the light of it.
+Hannah: Does it have to be a sensible belief?
+Will: It need not be reasonable. But the less reasonable it is, the less likely it was genuinely held.
+Hannah (sceptical): So the belief goes in at step one, and step two still asks what ordinary decent people would make of the conduct.
+Will: Yes. That's the whole test, and it's why "purely subjective" is wrong.
+Hannah: Okay. Who actually brings the claim?
+Will: Only the liquidator or administrator, though they can also assign it. And the point of it is the creditors: recoveries go into the general pool for unsecured creditors, and a floating charge doesn't catch them.
+Hannah (dry): So the bank with the floating charge doesn't get first dibs on the recovery.
+Will: Right. And that pool treatment isn't just for fraudulent trading. It's the same for wrongful trading, transactions at an undervalue and preferences. The court may also disqualify a director who is liable for wrongful or fraudulent trading.
+Hannah: So, fraudulent trading: anyone knowingly party to it can be made to contribute, not only directors. Dishonesty is judged in two steps, what he knew or believed and then ordinary decent people. Only the liquidator or administrator can claim, or assign it, and the money goes to unsecured creditors generally.
+Will (pleased): That's it. Next, wrongful trading and its one defence.
+## Block 2: Wrongful trading
+Will: Wrongful trading now, and first, when a director is liable. Once the company is in insolvent liquidation or insolvent administration, the liquidator or administrator can apply, and the court may order a director to contribute to the company's assets whatever it thinks proper.
+Hannah: On what basis?
+Will: That before the winding up or administration began, and while he was a director, he knew or ought to have concluded that there was no reasonable prospect of avoiding insolvent liquidation or administration.
+Hannah: Does that cover a shadow director?
+Will: Yes, shadow directors are included. And what he ought to have concluded is judged by a reasonably diligent person with two things. First, the general knowledge, skill and experience reasonably expected of someone carrying out his functions, including any entrusted to him that he doesn't actually carry out. Second, the general knowledge, skill and experience he actually has.
+Hannah (thinking aloud): So the bar never drops below what's expected of the role, and it goes up if he's more experienced.
+Will: Right. And then the defence. When a director faces a wrongful trading claim, the only defence is that from then on he took every step to minimise potential loss to creditors that he ought to have taken, judged by that same standard.
+Hannah (incredulous): Only one? What about the usual line for a director that he acted honestly and reasonably?
+Will: That's the trap. The court's general power to relieve a director from liability because he acted honestly and reasonably can't be used against a wrongful trading claim.
+Hannah: So honesty alone doesn't save him. It's all about the steps.
+Will: Right: only the steps he ought to have taken to minimise potential loss to creditors. And that relief isn't dead everywhere: it remains available for breach-of-duty and misfeasance claims.
+Hannah (wry): So the relief works against breach of duty and misfeasance, but not against wrongful trading.
+Will: Yes. Now a quick one. Tessa is a director of Kestrel Joinery Ltd. She carried on after she ought to have concluded there was no reasonable prospect of avoiding insolvent liquidation. She acted honestly and reasonably throughout, but from then on she took no steps to minimise potential loss to creditors. The company is now in insolvent liquidation, and its liquidator brings a wrongful trading claim against her.
+Hannah (brisk): So can Tessa rely on the relief for honest and reasonable directors, rely on having taken every step she ought to have taken, or does she have no defence?
+Will: <think>
+Hannah (thinking aloud): This turns on the only defence to wrongful trading. The honest-and-reasonable relief isn't available against it, and she took no steps, so she has nothing.
+Will: Right: no defence, so the court may order her to contribute whatever it thinks proper. Honesty doesn't help, and the one defence needs steps she never took.
+Hannah: Wrongful trading: a director, shadow directors included, may be ordered to contribute if he knew or ought to have concluded that there was no reasonable prospect of avoiding insolvent liquidation or administration. The one defence is every step to minimise potential loss, and the honest-and-reasonable relief doesn't help.
+Will (warm): Yes. Now onto transactions that can be undone.
+## Block 3: Voidable transactions generally, undervalues and transactions defrauding creditors
+Will: Voidable transactions, starting with undervalues and transactions defrauding creditors. The question is when a gift or a sale at an undervalue can be undone. It turns on value, timing and whether the company was unable to pay its debts, and then on the good-faith defence.
+Hannah: Three things, then. Go on.
+Will: A transaction at an undervalue has three conditions, and you need all three. One: the company made a gift, or received consideration significantly less in value than it gave.
+Hannah (guessing): Two is the timing.
+Will: Right. Two: it was within a period counting back from the onset of insolvency. The look-back period is 2 years.
+Hannah: And when is the onset of insolvency?
+Will: In a liquidation, it's the date the winding up commences. For a voluntary winding up, that's the date the winding-up resolution was passed. For a compulsory one, it's the date the petition was presented. But if a resolution for voluntary winding up was passed before the petition, it's the date of that resolution.
+Hannah: And in an administration?
+Will: It's the date the administration application was made, or the date the copy notice of intention to appoint was filed, or otherwise the date the appointment took effect. And one wrinkle for undervalues and preferences only: if the company goes into liquidation when an administrator's appointment ends, you count back from the administration date.
+Hannah (thinking aloud): So for a floating charge, that wrinkle doesn't apply.
+Will: Right. Now back to the undervalue.
+Hannah: And three?
+Will: Three: at the time the company was unable to pay its debts, or became so as a result of the transaction.
+Hannah (wary): Can the company just say "we were fine"?
+Will: Not so easily if the other party is connected to it. For a connected person, inability to pay debts is presumed, so the burden of proof is reversed. And the 2 years is the same whether or not the other party is connected.
+Hannah: So connection changes the proof on insolvency, not the period.
+Will: Yes. Now the defence. The company is safe if it acted in good faith, for the purpose of its business, with reasonable grounds to believe the transaction would benefit it. Otherwise the court restores the position, for example by ordering the return of the asset.
+Hannah (thoughtful): The reason being that creditors shouldn't lose out because the company gave things away.
+Will: Right, that's what it protects. Here's a story. Marlow Print Ltd sells its delivery van to Omar, a director's brother, for a token sum, eighteen months before the company goes into liquidation. The company was unable to pay its debts at the time, and the van was worth far more than the sum.
+Hannah (brisk): So is the sale caught as an undervalue because of timing and value, is it safe unless the company's inability to pay is proved, or is it outside the period?
+Will: <think>
+Hannah (thinking aloud): This is the undervalue test. The sum is significantly less than the value, eighteen months is inside the 2 years, and Omar is connected, so inability to pay is presumed anyway.
+Will: Right: it's caught, subject to the good-faith defence. The company would need to show good faith, a business purpose and reasonable grounds to believe it would benefit, and nothing here suggests that.
+Hannah: So an undervalue is a gift or much less value, within 2 years, while unable to pay debts, unless the good-faith defence applies.
+Will: Right. Now the look-alike: a transaction defrauding creditors, under section 423. It's a transaction at an undervalue entered into for a particular purpose: putting assets beyond the reach of, or otherwise prejudicing, a person who is making or may make a claim.
+Hannah: So it's the same sort of transaction, but now it's all about why he did it.
+Will: Right. The purpose must be a real, substantial purpose, but it needn't be the only one. And the contrasts matter. There is no look-back period, though Limitation Act periods still apply. And neither the company nor the individual needs to be insolvent.
+Hannah (groaning): So the two-year limit and the insolvency conditions just vanish?
+Will: For section 423, yes. The question is whether a real purpose was to put assets beyond the reach of someone making or likely to make a claim, or otherwise to prejudice him.
+Hannah: And who can apply?
+Will: The victim can. If the debtor is bankrupt, or the company is in liquidation or administration, the victim needs the court's leave. Office-holders can also apply, including the official receiver, the liquidator and the administrator.
+Hannah (brisk): And the trustee in bankruptcy, or the supervisor of a voluntary arrangement?
+Will: They can apply too.
+Hannah (brisk): And the one that sounds similar, misfeasance?
+Will: Separate point. Misfeasance proceedings let the liquidator or official receiver recover from officers who misapplied company money or property or breached their duties. A creditor can bring them too, and so can a contributory with the court's leave.
+Hannah: So section 423 is about a transaction made for a purpose, and misfeasance is about officers who misapplied the money or broke their duties.
+Will: Right. Here's the exam version. Dev gives his flat to his daughter for nothing, five years ago. One of his purposes was to keep it out of reach of Mara, who was then making a claim against him. Mara now wants the transfer set aside.
+Hannah: So is Mara too late because the 2 years has passed, does she need to show Dev was insolvent, or can the transfer be set aside under section 423?
+Will: <think>
+Hannah (thinking aloud): This is a transaction defrauding creditors. It was a gift, so an undervalue, and a real purpose was to put the flat beyond Mara's reach. It needn't be the only purpose, there's no look-back period, and no insolvency is needed.
+Will: Right: it can be set aside under section 423. The two-year limit and the insolvency test belong to undervalues, not here, though Limitation Act periods still apply.
+Hannah: Undervalues have a look-back and an insolvency condition, section 423 has a real purpose and no look-back.
+Will (pleased): Yes. And now from undervalues to preferences and floating charges.
+## Block 4: Preferences, floating charges, and the claims compared
+Will: Preferences and floating charges now, and what being connected changes. First question for each claim: is the other party connected? That sets the period and what must be proved.
+Hannah: So connection first. Then?
+Will: Then whether the company was unable to pay its debts, or became so as a result. For a preference, there's one more thing, whether a desire to prefer influenced the company. For a floating charge, it's whether new value was given.
+Hannah (brisk): Start with preferences, then.
+Will: A preference has four conditions, and you need all four. One: the company did something that put a creditor or guarantor in a better position in an insolvent liquidation than he would otherwise have been in.
+Hannah: Two is the desire.
+Will: Right. Two: it was influenced by a desire to prefer him, and that's presumed for a connected person.
+Hannah: Three the timing, four the insolvency?
+Will: Yes. Three: within a period counting back from the onset of insolvency. For a person who is not connected, that's 6 months. For a connected person, it's 2 years. And four: the company was unable to pay its debts, or became so as a result.
+Hannah (wary): So the 6 months for an unconnected creditor, and the desire has to be shown.
+Will: Right. For a connected person, the desire is presumed. The catch is a person connected only as the company's employee: then the 6 months apply and the desire must be shown.
+Hannah (groaning): So someone connected only as an employee is the exception. Anyone else connected, and the presumption bites.
+Will: Yes. And a trap: some people think the presumption only applies if the person had notice of the circumstances and of the proceedings, or was an associate of the party who transacted at the undervalue. That is wrong. If the person was connected with the company when the preference was given, a desire to prefer is presumed unless the contrary is shown. No notice or association is needed, though the other conditions of a preference still have to be met.
+Hannah: So where do notice and associates come from?
+Will: A different presumption: that someone who acquired an interest in property from a person other than the company, or received a benefit from the preference, did not act in good faith.
+Hannah (thinking aloud): Right, so the connected-person presumption is about the desire to prefer, and the notice and associate stuff is about good faith. Different presumption.
+Will: Yes. Now the pair, and what decides it. Three months before liquidation, while unable to pay its debts, Bright Bay Cafe Ltd repays a loan to one of its directors. Compare that with the same company granting its bank, Northgate Bank, security only because the bank genuinely threatens to call in its overdraft.
+Hannah: So the repayment to the director is a preference?
+Will: Unless he shows otherwise, yes. A desire to prefer him is presumed, so the court restores the position. With the bank, genuine commercial pressure rebuts the desire to prefer, so it can't be set aside as a preference. What decides it is whether a desire to prefer influenced the company, or it acted only under genuine commercial pressure.
+Hannah (brisk): And the look-alike is the undervalue, isn't it? Both are about a company being unfair to its creditors.
+Will: Right. A preference improves one creditor's or guarantor's position, and the desire to prefer is part of it. An undervalue is a gift, or a deal where the company got significantly less than it gave. So ask: did the company improve a creditor's or guarantor's position, or receive significantly less than it gave?
+Hannah: So preference is about the creditor being better off, undervalue about the company getting too little.
+Will: Yes. Now floating charges.
+Hannah: A floating charge can be set aside too?
+Will: It can be invalid. Take a floating charge in favour of an unconnected person. The period is 12 months before the onset of insolvency. The charge is invalid if the company was then unable to pay its debts or became so as a result. For a connected person, the period is 2 years. And there, insolvency need not be shown.
+Hannah (wry): And what saves it?
+Will: New value. The charge remains valid to the extent of new value given at the same time as, or after, its creation. New value means money paid, goods or services supplied, or debts discharged.
+Hannah: So connection stretches the period and drops the insolvency requirement.
+Will: Right. Now two stories. Nine months before administration, while unable to pay its debts, a company grants its bank a floating charge, and the bank lends new money at the same time. In the other, the bank takes the same charge only to secure the existing overdraft and lends nothing more.
+Hannah (brisk): Is the first charge valid in full, valid to the extent of the new money, or invalid? And the second?
+Will: <think>
+Hannah (thinking aloud): It turns on whether new value was given. First one: the bank lent new money at the same time, so it's valid to the extent of that new money. Second: no new value, so it's invalid.
+Will: Right on both. What decides it is whether new value was given at the same time as, or after, the charge's creation.
+Hannah: Now, who counts as connected?
+Will: Connected persons for these rules include directors and shadow directors, their associates, and associated companies.
+Hannah: What counts as an associate?
+Will: Including spouses, civil partners, relatives and business partners.
+Hannah (brisk): And connection stretches everything?
+Will: Not everything. It extends the time limit for preferences, from 6 months to 2 years, and for floating charges, from 12 months to 2 years. It doesn't for transactions at an undervalue, where it's always 2 years. And it reverses the burden of proof.
+Hannah (thinking aloud): So the undervalue is 2 years whoever it's with. Preference is 6 months, or 2 years if connected. Floating charge is 12 months, or 2 years if connected.
+Will: Yes. And one more row: the section 423 claim has no look-back period either way, and no need for insolvency, although Limitation Act periods still apply.
+Hannah: And on proof, connection makes inability to pay debts presumed for an undervalue, and the desire to prefer presumed for a preference, unless connected only as an employee. For a floating charge to a connected person, inability to pay debts doesn't need to be shown at all.
+Will (warm): That's the table in your head. Now the recap.
+## Recap
+Will: Fraudulent trading: anyone knowingly party, two steps, claimed only by the liquidator or administrator; wrongful trading: one defence; voidable transactions: undervalues turn on value, timing and insolvency, section 423 on a real purpose; preferences and floating charges depend on connection.
