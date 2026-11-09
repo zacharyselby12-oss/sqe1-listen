@@ -1,0 +1,242 @@
+---
+id: dr-ws07-rev-v1-p2
+unit: u-bpp-DR-07
+guide_hash: 91e7fc99a6
+made: 2026-11-09T20:49:02+00:00
+kind: revision
+title: DR WS07 (2 of 2) · Revision · 16 min
+part: 2 of 2
+blocks: 6-10
+map:
+- Expert evidence: permission, court control and tracks
+- Experts' duty to the court and instructions
+- Expert reports, exchange and written questions
+- Single joint experts
+- Discussions between experts, oral expert evidence, unfavourable reports
+recap:
+- No expert evidence without the court's permission, and each track limits it further.
+- The expert's duty is to the court, not the client, but the client can still sue the expert in negligence.
+- Disclose a report and anyone can use it; written questions go once, within 28 days, to clarify, unless the court permits or the other party agrees.
+- One expert for all: copy everything and meet no one alone; if unhappy, ask questions, then seek permission for your own.
+- The joint statement goes before the judge, the discussion doesn't, and nothing binds a party unless it expressly agrees.
+summary: Expert evidence needs the court's permission, and the expert's duty is to the court; a disclosed report can be used by any party; and an agreement between experts binds a party only if it expressly agrees to be bound.
+invented:
+- six weeks
+guide_only: []
+---
+
+## Map
+
+Will (warm): Part two of evidence: the experts. The big question: when can expert evidence be used, and on what terms? Five areas: permission and the tracks, the expert's duty, and reports with written questions. Then single joint experts, and discussions between experts.
+
+Hannah: First, a warm-up from part one. A witness's statement has been served, but no summons, and the witness doesn't turn up. Can the statement still be used, or is it lost?
+
+Will: <think>
+
+Will (thinking aloud): It can be used, but only as hearsay, unless the court orders otherwise, and the court may give it less weight. The tempting answer is that serving the statement made the witness bound to attend, but only a summons compels attendance.
+
+Hannah: Right: a served statement doesn't compel attendance.
+
+## Block 6: Expert evidence: permission, court control and tracks
+
+Hannah: Now expert evidence: who counts as an expert?
+
+Will: Anyone with relevant skill or knowledge beyond the court's, from training or experience. A connection with a party, such as employment, doesn't automatically disqualify. But it must be disclosed, and the court decides admissibility and weight. Expert evidence is restricted to what is reasonably required to resolve the proceedings.
+
+Hannah: And permission?
+
+Will: No party may call an expert or put in an expert's report without the court's permission. The application identifies four things: the field, the expert where practicable, the issues, and an estimate of costs. Permission covers only the named field or expert. And the court may limit the expert's fees and expenses recoverable from another party.
+
+Hannah: How do the tracks limit it?
+
+Will: On the small claims track, no expert evidence may be used without permission, whether written or oral. Recoverable expert fees are capped. The fast track is for claims over the small claims limits, up to £25,000. Its trial must be likely to last no more than one day. And its oral expert evidence must be likely limited to one expert per party in any field, and to two expert fields.
+
+Hannah: And the intermediate and multi-tracks?
+
+Will: The intermediate track's upper limit is £100,000. It's the normal track only if, among other conditions, oral expert evidence at trial is likely limited to two experts per party. But its directions limit oral expert evidence to one expert per party, unless a second is reasonably required and proportionate. The multi-track, for claims that fit no other track, sets no number of experts, only what is reasonably required.
+
+Hannah (summing up): No expert evidence without the court's permission, and each track limits it further.
+
+Will: Right.
+
+## Block 7: Experts' duty to the court and instructions
+
+Hannah: Before the expert's duty, a question on permission. On the multi-track, a party wants to rely on an expert's report it never asked the court about. Can it, or not?
+
+Will: <think>
+
+Will (thinking aloud): Not without the court's permission. No party may call an expert or put in an expert's report without it. The tempting answer is that permission is only a small claims rule.
+
+Hannah: Right: permission first, whatever the track. Now the expert's duty: to whom is it owed?
+
+Will: To the court. The expert's overriding duty is to help the court on matters within their expertise, and it overrides any obligation to whoever instructs or pays them. So the evidence must be the expert's independent product: objective and unbiased, never acting as an advocate.
+
+Hannah: What does that mean in practice?
+
+Will: Four things. Consider all material facts, including those that detract from the opinion. Say when a matter is outside their expertise, or when no definite opinion is possible. If their view on a material matter changes after the report, tell all parties, not just those instructing them, and the court where appropriate, without delay. And state in the report that they understand and have complied with the duty, and know Part 35, its practice direction and the guidance.
+
+Hannah: Anything else in the report?
+
+Will: A statement of truth, including the contempt warning.
+
+Hannah: And if an expert breaches the duty?
+
+Will: If an expert is partisan at trial, for example, the court may exclude the evidence or give it little weight. Breach may bring costs orders, in flagrant cases against the expert personally. A false statement can bring contempt proceedings and referral to the expert's professional body.
+
+Hannah: Can the client sue its own expert?
+
+Will: Yes. There's no immunity from suit: the expert can be liable in negligence to the instructing client, for example for an inaccurate joint statement. That's Jones v Kaney. Only absolute privilege against defamation claims remains. So the trap is treating an expert like a witness of fact, immune from suit.
+
+Hannah: And the solicitor's limits?
+
+Will: Two. The solicitor must not seek to influence the substance of an expert's evidence. And the solicitor must not pay a fee that depends on the nature of the evidence or the outcome.
+
+Hannah (summing up): The expert's duty is to the court, not the client, but the client can still sue the expert in negligence.
+
+Will: Right.
+
+## Block 8: Expert reports, exchange and written questions
+
+Hannah: Before reports, a question on the expert's duty. An expert offers to charge more if the claim succeeds. Can the solicitor agree, or must it refuse?
+
+Will: <think>
+
+Will (thinking aloud): Refuse. A solicitor must not pay a fee that depends on the outcome or the nature of the evidence. The tempting answer is to agree if the client is happy, but the solicitor must still refuse.
+
+Hannah: Right: no fee that depends on the outcome. Now expert reports: how is expert evidence given?
+
+Will: In a written report, unless the court directs otherwise. On the small claims and fast tracks, the court won't direct an expert to attend a hearing unless that's necessary in the interests of justice. The report is addressed to the court, and its required contents include the expert's qualifications, the substance of all material instructions, and a statement of truth.
+
+Hannah: Are the instructions privileged?
+
+Will: No. But the court won't order disclosure of specific documents, or allow questioning about them except by the instructing party, unless there are reasonable grounds to consider the statement of instructions inaccurate or incomplete.
+
+Hannah: And a report you don't like?
+
+Will: A report obtained but not relied on is privileged, and needn't be disclosed. But if a party seeks permission to change expert after permission was given, or after a pre-action protocol report, the court will usually require disclosure of the first report as a condition. That deters expert shopping.
+
+Hannah: And once a report is disclosed?
+
+Will: Any party may use it as evidence at trial. And a party that fails to disclose a report may not use it at trial, or call the expert to give oral evidence, without the court's permission.
+
+Hannah: Now written questions.
+
+Will: A party may put written questions to another party's expert, or to a single joint expert. It may do so once only, within 28 days of service of the report, and only to clarify it. Each of those three limits gives way if the court permits or the other party agrees. The answers form part of the report. If another party's expert doesn't answer, the court may order that the instructing party can't rely on that expert, or can't recover their fees.
+
+Hannah: Can the expert ask the court for help?
+
+Will: Yes, by a written request for directions. But unless the court orders otherwise, the expert must first give the instructing party, and then all the other parties, a copy of the proposed request.
+
+Hannah (summing up): Disclose a report and anyone can use it; written questions go once, within 28 days, to clarify, unless the court permits or the other party agrees.
+
+Will: Right.
+
+## Block 9: Single joint experts
+
+Hannah: Before single joint experts, a question on reports. A party sends written questions to the other side's expert six weeks after the report was served, asking him to rethink his conclusions. Must he answer, or not?
+
+Will: <think>
+
+Will (thinking aloud): Not unless the court permits or the other party agrees. Written questions go once, within 28 days of service, and only to clarify. These are late, and ask for a rethink. The tempting answer is that an expert must always answer, but that holds only for questions within the rule.
+
+Hannah: Right: late, and beyond clarification. Now single joint experts: how do they work?
+
+Will: Four points. One: where two or more parties wish to submit expert evidence on a particular issue, the court may direct a single joint expert. Two: if they can't agree who, the court selects from the parties' list, or directs another method. Three: each party may instruct the expert, but must send a copy to the other parties at the same time. Four: no meeting or conference with the expert without the other party's consent.
+
+Hannah: When is one usual?
+
+Will: It's the court's general approach on the fast, intermediate and multi-tracks, unless there's good reason otherwise. It's common for quantum, such as valuation or care, and less suitable where the issue is central and contentious, such as liability in clinical negligence. All communications with the expert should be copied to all parties.
+
+Hannah: Who pays?
+
+Will: The instructing parties are jointly and severally liable for the fees and expenses, unless the court directs otherwise; they aren't simply split equally. The court may also limit the fees, order payment into court before instruction, and direct inspections or tests.
+
+Hannah: That's the look-alike, then: a joint expert against your own.
+
+Will: Right. With a joint expert, copy all instructions, and meet the expert only with the other party's consent. Your own expert is privileged, and you can contact them alone. So ask who appointed the expert.
+
+Hannah: And if a party is unhappy with the joint expert's report?
+
+Will: First, written questions, as for another party's expert. Its own expert needs permission: its reasons mustn't be fanciful, and it must be just and proportionate. That's Daniels v Walker. Dissatisfaction alone gives no right to a second expert. Alternatively, it can take advice from an adviser expert, usually at its own cost. Oral cross-examination of a single joint expert is exceptional, and no discussion between experts is needed.
+
+Hannah (summing up): One expert for all: copy everything and meet no one alone; if unhappy, ask questions, then seek permission for your own.
+
+Will: Right.
+
+## Block 10: Discussions between experts, oral expert evidence, unfavourable reports
+
+Hannah: Before the last area, a question on joint experts. Unhappy with a joint valuer's report, the defendant emails the valuer to arrange a call to talk it through, without telling the claimant. Is that allowed, or not?
+
+Will: <think>
+
+Will (thinking aloud): Not without the claimant's consent. The right steps are written questions within 28 days of service of the report, copied to the claimant. Then, if still unhappy, an application for permission to rely on the defendant's own expert. The tempting step, a private call, breaks the rule against meeting the expert without consent.
+
+Hannah: Right: no private contact with a joint expert. Now discussions between experts: what are they for?
+
+Will: Three points. The court may direct a discussion between experts at any stage. Its purpose is to identify and discuss the expert issues and, where possible, reach an agreed opinion. And the court may specify the issues and direct a joint statement: what's agreed, what isn't, and a summary of the reasons for disagreeing.
+
+Hannah: Who attends, and what's signed?
+
+Will: The parties must discuss and, if possible, agree whether an agenda is needed, and if so, try to agree one. Parties and lawyers don't attend unless the court orders it, or all parties and experts agree. Lawyers who attend shouldn't normally intervene, except to answer the experts' questions or advise on law. All the experts sign the joint statement, copies go to the parties, and an expert who significantly changes an opinion must explain the change in it.
+
+Hannah: Can a client tell its expert not to agree?
+
+Will: No. Experts must not be instructed to avoid or defer agreement on matters within their competence. Such an instruction also breaches the solicitor's duty not to influence the substance of evidence.
+
+Hannah: And at trial?
+
+Will: The joint statement may be used; the content of the discussion may not, unless the parties agree. An agreement between experts binds the parties only if they expressly agree to be bound. And the court may direct concurrent expert evidence, hot-tubbing, where the experts are questioned together, often led by the judge.
+
+Hannah: Last, unfavourable reports.
+
+Will: A party may ask its expert to correct factual errors or clarify the report. It may not ask its expert to change a genuinely held opinion, for example by deleting an unhelpful paragraph. Instead, it may decide not to rely on the report, subject to the expert-shopping condition.
+
+Hannah (summing up): The joint statement goes before the judge, the discussion doesn't, and nothing binds a party unless it expressly agrees.
+
+Will: Right.
+
+## Recap
+
+Hannah: Last question, before the round-up. The experts' joint statement records the defendant's engineer conceding a key point. The defendant's managing director tells the solicitor the company isn't accepting it, and to instruct the engineer to agree nothing next time. Is the defendant bound, and may the solicitor pass that on, or not?
+
+Will: <think>
+
+Will (thinking aloud): The defendant isn't bound, unless it expressly agreed to be. And the solicitor must not pass that on, because experts mustn't be instructed to avoid or defer agreement. The tempting answer, that a client may steer its own expert, fails: that breaches the solicitor's duty not to influence the substance of evidence.
+
+Hannah: Right: not bound, and no instruction to withhold agreement.
+
+Will (brisk): Quick-fire round: one line for each of the five areas.
+
+Hannah: Expert permission and tracks?
+
+Will: <think>
+
+Will: No expert evidence without the court's permission, and each track limits it further.
+
+Hannah: The expert's duty?
+
+Will: <think>
+
+Will: The expert's duty is to the court, not the client, but the client can still sue the expert in negligence.
+
+Hannah: Reports and questions?
+
+Will: <think>
+
+Will: Disclose a report and anyone can use it; written questions go once, within 28 days, to clarify, unless the court permits or the other party agrees.
+
+Hannah: Single joint experts?
+
+Will: <think>
+
+Will: One expert for all: copy everything and meet no one alone; if unhappy, ask questions, then seek permission for your own.
+
+Hannah: Discussions between experts?
+
+Will: <think>
+
+Will: The joint statement goes before the judge, the discussion doesn't, and nothing binds a party unless it expressly agrees.
+
+Hannah (warm): And this part in one sentence?
+
+Will: Expert evidence needs the court's permission, and the expert's duty is to the court; a disclosed report can be used by any party; and an agreement between experts binds a party only if it expressly agrees to be bound.

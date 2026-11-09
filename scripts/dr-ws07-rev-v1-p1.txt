@@ -1,0 +1,315 @@
+---
+id: dr-ws07-rev-v1-p1
+unit: u-bpp-DR-07
+guide_hash: 91e7fc99a6
+made: 2026-11-09T20:49:02+00:00
+kind: revision
+title: DR WS07 (1 of 2) · Revision · 21 min
+part: 1 of 2
+blocks: 1-5
+map:
+- Evidence basics, admissibility and opinion evidence
+- Witness statements: use, exchange and time limits
+- Form of witness statements; affidavits
+- Hearsay and previous convictions
+- Witness summonses and trial procedure
+recap:
+- Relevant evidence is admissible unless it's excluded, and improperly obtained evidence is generally admitted.
+- Late needs permission; unused can be put in as hearsay by any other party; unobtainable means a witness summary.
+- A witness statement by default; an affidavit only where required, sworn before someone independent of every party and their representatives.
+- Civil hearsay isn't excluded for being hearsay: a missing notice goes to weight, costs and case management, and within the hearsay rules, only a maker shown not competent shuts it out.
+- Issue decides permission and service decides binding; and you don't lead your own witness on a disputed point.
+summary: Relevant evidence goes in unless excluded; served statements stand as evidence in chief unless the court orders otherwise; hearsay isn't excluded for being hearsay; and only a summons, not a served statement, compels a witness to attend.
+invented: []
+guide_only: []
+---
+
+## Map
+
+Will (warm): Today's big question: how does evidence get before a civil court, and what limits it? Ten areas, in two parts. Part one has five, on facts and witnesses: evidence basics, witness statements, and their form, with affidavits. Then hearsay, and witness summonses with the trial. Experts are part two.
+
+Hannah: First, a warm-up from disclosure. Your opponent's list leaves out a document you know exists. Do you apply for specific disclosure, or specific inspection?
+
+Will: <think>
+
+Will (thinking aloud): Specific disclosure. Specific inspection is the tempting answer, but inspection orders need a listed document.
+
+Hannah: Right: not listed, so specific disclosure.
+
+## Block 1: Evidence basics, admissibility and opinion evidence
+
+Will: First, evidence basics: when is evidence admissible? Four steps. One: identify the facts in issue, which the statements of case define. Two: evidence is relevant if it tends to make a fact in issue more or less probable. Three: irrelevant evidence is inadmissible. Four: relevant evidence may still be withheld or excluded, for privilege, for without prejudice communications, or by the court's control.
+
+Hannah: What can the court's control do?
+
+Will: It may direct the issues needing evidence, the nature of the evidence, and how it's placed before the court. It may exclude admissible evidence, and limit cross-examination. And a without prejudice offer generally isn't put before the trial judge, however relevant; the exceptions are covered elsewhere.
+
+Hannah: What about evidence obtained improperly, like covert surveillance?
+
+Will: It's generally admissible. The court may exclude it, or reflect the conduct in costs. Separately, a solicitor must not misuse or tamper with evidence, or seek to influence its substance.
+
+Hannah: Now the two notices: to admit facts, and to prove documents.
+
+Will: A notice to admit facts is served no later than 21 days before trial. If facts aren't admitted and are later proved, the refusing party may pay the costs of proving them. A disclosed document's authenticity is deemed admitted unless a notice to prove it is served. The deadline: the latest date for witness statements, or 7 days after disclosure, whichever is later.
+
+Hannah: And opinion evidence?
+
+Will: Witnesses give evidence of fact, not opinion. Opinion is admissible only from an expert on a matter requiring expertise, or from a lay witness as a way of conveying facts personally perceived. Examples are speed, distance, and that someone seemed drunk.
+
+Hannah: So is a treating doctor a witness of fact, or an expert?
+
+Will: Usually a witness of fact, about what they did and saw. Opinion evidence from them needs permission, as expert evidence.
+
+Hannah (summing up): Relevant evidence is admissible unless it's excluded, and improperly obtained evidence is generally admitted.
+
+Will: Right.
+
+## Block 2: Witness statements: use, exchange and time limits
+
+Hannah: Before witness statements, a question on evidence basics. A defendant's investigator films the claimant covertly, trespassing to do it. Is the film admissible, or excluded?
+
+Will: <think>
+
+Will (thinking aloud): Generally admissible. The tempting answer is excluded, but improperly obtained evidence is generally admitted; the court may exclude it, or reflect the conduct in costs.
+
+Hannah: Right: improperly obtained isn't the same as inadmissible. Now witness statements: what are they, and how are they used?
+
+Will: A witness statement is a written statement, signed by a person, of the evidence that person could give orally. The court orders each party to serve statements of the oral evidence of fact it will rely on at trial, usually by simultaneous exchange. It may also limit the issues, the witnesses called or read, and the statements' length or format.
+
+Hannah: And at trial?
+
+Will: The served statement stands as evidence in chief, unless the court orders otherwise. Amplifying it, or adding new matters arising since service, needs permission, for good reason. And the witness may be cross-examined on the statement, whether or not it was referred to in chief.
+
+Hannah: And at interim hearings?
+
+Will: Evidence is normally given in writing, by witness statements, or by statements of case or application notices verified by a statement of truth.
+
+Hannah: Now the three problem statements: late, unused and unobtainable.
+
+Will: Late first. A witness whose statement wasn't served in time gives oral evidence only with permission, and relief from sanctions principles apply.
+
+Hannah: Can't the parties just agree more time?
+
+Will: Only within limits. Where a time limit specifies the consequence of failure, the parties can extend it without the court only by prior written agreement, made before it expires. The maximum is 28 days, and no hearing date may be put at risk. Anything longer, or after expiry, needs the court, and once the sanction has bitten, relief from sanctions.
+
+Hannah: Unused?
+
+Will: If a served statement's witness isn't called, and the statement isn't put in as hearsay, any other party may put it in as hearsay.
+
+Hannah: And unobtainable?
+
+Will: Apply without notice for permission to serve a witness summary. It gives the evidence, if known, or the matters to question the witness about. It gives the witness's name and address unless the court orders otherwise. It's served within the time for witness statements, and a witness summons may also be needed.
+
+Hannah: Who signs the statement of truth?
+
+Will: The witness. A legal representative may sign one for a statement of case, but never for a witness statement. Without a statement of truth, the statement may be held inadmissible. And anyone who makes a false statement in a document verified by a statement of truth, without an honest belief in its truth, faces contempt proceedings, which need the court's permission.
+
+Hannah: Can the statement be used in other proceedings?
+
+Will: Only in these proceedings, unless the witness consents in writing, the court permits, or it was put in evidence at a public hearing. Don't confuse a disclosed document: there it's a public hearing, permission, or the agreement of the disclosing party and the owner. So ask whose consent counts.
+
+Hannah (summing up): Late needs permission; unused can be put in as hearsay by any other party; unobtainable means a witness summary.
+
+Will: Right.
+
+## Block 3: Form of witness statements; affidavits
+
+Hannah: Before form and affidavits, a question on witness statements. A key witness refuses to give you a statement, and exchange is three weeks away. Serve your note of his evidence as his statement, or something else?
+
+Will: <think>
+
+Will (thinking aloud): Something else: apply without notice for permission to serve a witness summary, and get a witness summons for his attendance. Serving your note fails, because a statement must be signed by the witness.
+
+Hannah: Right: no statement obtainable means a witness summary, with permission. Now the form of witness statements.
+
+Will: It's in the witness's own words if practicable, but always in their own language, and in the first person. It gives the witness's details and says how it was prepared. It separates own knowledge from information and belief, giving the source, and uses numbered paragraphs and identified exhibits.
+
+Hannah: And if the witness doesn't speak English?
+
+Will: Draft it in their language, have it translated, and file the foreign-language statement. The translator signs the original and certifies accuracy.
+
+Hannah: Anything special in the Business and Property Courts?
+
+Will: Yes: Practice Direction 57AC. Trial statements give only facts within personal knowledge relevant to the issues, in the witness's own words, with no argument or commentary on documents. They also need a list of documents referred to, the witness's confirmation, and the legal representative's certificate of compliance. Breach can bring sanctions.
+
+Hannah: Now affidavits. When is one needed?
+
+Will: Only where the court, a rule, a practice direction or another enactment requires it. Examples are freezing injunctions and search orders. A contempt application needs an affidavit or affirmation too, unless the court directs otherwise. Otherwise, use witness statements.
+
+Hannah: And who can take the oath?
+
+Will: An affidavit is written evidence sworn on oath or affirmed before an authorised person, such as a solicitor, a commissioner for oaths or a court officer. That person must be independent of all the parties and their representatives. So not the deponent's own solicitor, not anyone at the acting firm, and not the other side's solicitors either.
+
+Hannah: Can a witness use an affidavit when it isn't required?
+
+Will: Yes, at a non-trial hearing, but the extra cost isn't recoverable from another party, unless the court orders otherwise. So the trap is calling it inadmissible: only the extra cost is lost.
+
+Hannah: And lying in one?
+
+Will: A false statement in an affidavit can be perjury, a crime, as well as contempt.
+
+Hannah (summing up): A witness statement by default; an affidavit only where required, sworn before someone independent of every party and their representatives.
+
+Will: Right.
+
+## Block 4: Hearsay and previous convictions
+
+Hannah: Before hearsay, a question on affidavits. A trainee at the claimant's own firm offers to take the oath on an urgent freezing injunction affidavit. Can the trainee do it, or not?
+
+Will: <think>
+
+Will (thinking aloud): The trainee can't: the oath must be taken before someone independent, and the acting firm's members and employees are excluded. The tempting answer is that anyone at a solicitors' firm will do.
+
+Hannah: Right: independent of every party and their representatives. Now hearsay: what is it?
+
+Will: Hearsay is a statement made otherwise than by a person giving oral evidence in the proceedings, tendered as evidence of the matters stated. It includes multiple hearsay. But a statement relied on only to show it was said is original evidence, not hearsay.
+
+Hannah: And is it admissible?
+
+Will: Yes: civil hearsay isn't excluded because it's hearsay. Within the hearsay rules, it's inadmissible only if, and to the extent, it's shown that the maker wasn't competent as a witness when it was made, through mental or physical infirmity or lack of understanding. A child is treated as competent if they meet the Children Act test. Don't confuse this with criminal hearsay, which is excluded subject to exceptions.
+
+Hannah: What notice is needed?
+
+Will: If the hearsay will be given by a witness you're calling, serving that witness's statement is the notice. If the maker of a witness statement isn't called, serve the statement and say the witness won't be called, and why. Otherwise, serve a hearsay notice identifying the evidence, stating that you'll rely on it and why the maker won't be called. The deadline is the latest date for serving witness statements.
+
+Hannah: And if no notice is given?
+
+Will: The evidence is still admissible. The court may reflect the failure in case management and costs, and give the evidence less weight.
+
+Hannah: Is notice ever not needed?
+
+Will: Four cases. One: evidence at a hearing other than trial, such as an interim application or summary judgment. Two: a trial affidavit or witness statement containing no hearsay. Three: a probate statement alleged to be the deceased's. Four: a practice direction excludes the requirement.
+
+Hannah: Can the other side cross-examine a maker who isn't called?
+
+Will: Only with the court's permission. Any other party may apply to call and cross-examine the maker. The deadline is 14 days after service of the hearsay notice. A late application needs the court to extend time. The same 14 days applies to notice of an attack on the absent maker's credibility, for example with a fraud conviction.
+
+Hannah: How does the court weigh hearsay?
+
+Will: It asks whether it was reasonable and practicable to call the maker, whether the statement was contemporaneous, and whether it's multiple hearsay. It also looks for a motive to conceal or misrepresent, an attempt to prevent proper evaluation, and whether the statement was edited, collaborative or made for a purpose.
+
+Hannah: Now plans, records and convictions.
+
+Will: Plans, photographs and models need notice and a chance to inspect, with three exceptions: they're in a witness statement, affidavit or expert's report; they're given orally; or a hearsay notice covers them. Without notice, they're not receivable at trial, unless the court orders otherwise. Business records are covered too.
+
+Hannah: When is that notice due?
+
+Will: As evidence of fact, by the latest date for witness statements. As part of expert evidence, with the expert's report. And 21 days before the hearing if there are no witness statements, if it only disproves an allegation in one, or if it isn't put in as factual or expert evidence.
+
+Hannah: And records and convictions?
+
+Will: A document shown to form part of the records of a business or public authority may be received without further proof. An officer's signed certificate is enough to show this, but isn't the only way, and the court may direct otherwise for a particular document. A subsisting UK conviction is admissible to prove the person committed the offence, where relevant to an issue. Once it's proved, they're taken to have committed it, unless the contrary is proved.
+
+Hannah (summing up): Civil hearsay isn't excluded for being hearsay: a missing notice goes to weight, costs and case management, and within the hearsay rules, only a maker shown not competent shuts it out.
+
+Will: Right.
+
+## Block 5: Witness summonses and trial procedure
+
+Hannah: Before summonses, a question on hearsay. The claimant relies on a neighbour's statement at trial, but served no hearsay notice. Admissible, or not?
+
+Will: <think>
+
+Will (thinking aloud): Admissible. The tempting answer is inadmissible for want of notice, but a missing notice goes only to weight, costs and case management.
+
+Hannah: Right: notice goes to weight, not admissibility. Now witness summonses: what does one do?
+
+Will: A witness summons is a court document requiring a witness to attend court to give evidence, produce documents, or both. It can be issued without permission, unless it's sought less than 7 days before trial, for a date other than the trial date, or for a hearing other than the trial.
+
+Hannah: And when does it bind?
+
+Will: Only if it's served at least 7 days before the date the witness must attend, unless the court directs that later service binds. On service, conduct money is offered or paid: reasonable travel to and from court, plus compensation for loss of time. The court serves the summons unless the party says it will. If the court serves, the party deposits the conduct money with the court.
+
+Hannah: So which date matters: issue, or service?
+
+Will: Both, for different things. Issue decides permission. Service decides whether it binds.
+
+Hannah: What if the witness just doesn't come?
+
+Will: If a properly served summons, with conduct money paid or tendered, is disobeyed without good reason, the County Court can fine the witness. The fine is up to £1,000. In the High Court, it's contempt, punishable by a fine or imprisonment. A summons is available for any witness, including an expert whose report has been served. And the court may set one aside or vary it.
+
+Hannah: Doesn't a served witness statement do the same job?
+
+Will: No, and that's the trap: a served statement doesn't compel attendance. Without the witness, it may be used only as hearsay, unless the court orders otherwise, and the court may give it less weight. A witness who can't attend can give evidence by video link or by deposition before an examiner. A witness abroad may need a letter of request. And no benefit to a witness may depend on the nature of the evidence or the outcome, though reasonable expenses and loss of time may be paid.
+
+Hannah: Now the trial itself. What's the order?
+
+Will: Five steps. One: the claimant's opening, often short or dispensed with. Two: the claimant's witnesses, examined in chief, cross-examined and re-examined. Three: the defendant's witnesses, in the same way. Four: closing speeches. Five: judgment. Civil examination in chief is usually brief, because the statement stands, whereas criminal chief is normally oral, or a video-recorded interview under a special measures direction.
+
+Hannah: And a submission of no case to answer?
+
+Will: In a civil trial, the defendant is normally put to its election: the judge usually hears it only if the defendant elects to call no evidence. If it then fails, the case is decided on the claimant's evidence alone. In a criminal trial, the defence can submit and still call evidence if it fails.
+
+Hannah: Now questioning witnesses. When can you lead?
+
+Will: A leading question suggests the answer wanted, or assumes a disputed fact: "The car was speeding, wasn't it?" A non-leading question is open: "What did you see?" You can't lead your own witness, in chief or re-examination, on a disputed matter. But you can on introductory or undisputed matters, and in cross-examination leading is permitted and usual.
+
+Hannah: And re-examination?
+
+Will: Only matters arising out of cross-examination; a new matter needs permission. In cross-examination, put your case on every material point you dispute, or unchallenged evidence may be treated as accepted. That rule, from Browne v Dunn, is flexible, not rigid.
+
+Hannah: What if your own witness turns against you?
+
+Will: If they're merely unfavourable, you can't cross-examine them. But the judge may rule them hostile, meaning unwilling to tell the truth for the party calling them. Then, with permission, you may ask leading questions and put a previous inconsistent statement. In civil proceedings, that statement is admissible as evidence of its truth.
+
+Hannah: Now hearings and conduct. Public or private?
+
+Will: Public as a rule. A hearing is private only if that's necessary for justice and a listed ground applies. Four to know: publicity would defeat the object, confidential information, protecting a child or protected party, or national security. Embarrassment alone isn't enough.
+
+Hannah: And the advocate's duties?
+
+Will: Four basics: don't mislead the court, make only properly arguable submissions, don't influence witnesses' evidence, and don't waste the court's time. The advocate must also draw the court's attention to relevant cases, statutory provisions and procedural irregularities likely to affect the outcome, even if adverse. On etiquette, stand when the judge enters or leaves and when addressing the court, and don't interrupt the judge or a witness. Opposing counsel is "my learned friend", and an opposing solicitor "my friend".
+
+Hannah: And if the client admits his evidence was false?
+
+Will: Don't continue in a way that misleads the court. Without the client's consent to correct it, you can't disclose the admission, and you must cease to act. And a witness part-way through evidence, even over an adjournment, mustn't discuss it with anyone, their own lawyers included, until finished; the advocate mustn't confer with them about it.
+
+Hannah (summing up): Issue decides permission and service decides binding; and you don't lead your own witness on a disputed point.
+
+Will: Right.
+
+## Recap
+
+Hannah: Last question, before the round-up. On summonses: trial is on 20 June. A summons is issued on 9 June, and served with conduct money on 16 June. The witness stays away. Can the witness be fined, or not?
+
+Will: <think>
+
+Will (thinking aloud): Not unless the court directed that later service binds. Service was only 3 clear days before attendance, since neither the day of service nor the day of attendance counts. The tempting answer is that issuing it more than 7 days before trial made it binding, but issue decides only permission.
+
+Hannah: Right: binding depends on service.
+
+Will (brisk): Quick-fire round: one line for each of the five areas.
+
+Hannah: Evidence basics?
+
+Will: <think>
+
+Will: Relevant evidence is admissible unless it's excluded, and improperly obtained evidence is generally admitted.
+
+Hannah: Witness statements?
+
+Will: <think>
+
+Will: Late needs permission; unused can be put in as hearsay by any other party; unobtainable means a witness summary.
+
+Hannah: Form and affidavits?
+
+Will: <think>
+
+Will: A witness statement by default; an affidavit only where required, sworn before someone independent of every party and their representatives.
+
+Hannah: Hearsay?
+
+Will: <think>
+
+Will: Civil hearsay isn't excluded for being hearsay: a missing notice goes to weight, costs and case management, and within the hearsay rules, only a maker shown not competent shuts it out.
+
+Hannah: Summonses and trial?
+
+Will: <think>
+
+Will: Issue decides permission and service decides binding; and you don't lead your own witness on a disputed point.
+
+Hannah (warm): And this part in one sentence?
+
+Will: Relevant evidence goes in unless excluded; served statements stand as evidence in chief unless the court orders otherwise; hearsay isn't excluded for being hearsay; and only a summons, not a served statement, compels a witness to attend.

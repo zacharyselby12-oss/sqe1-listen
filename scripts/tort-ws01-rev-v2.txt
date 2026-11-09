@@ -1,0 +1,211 @@
+---
+id: tort-ws01-rev-v2
+unit: u-bpp-Tort-01
+guide_hash: 18802cf8fd
+made: 2026-11-09T20:49:02+00:00
+kind: revision
+title: Tort WS01 v2 · Revision · 15 min
+map:
+- Negligence and the kinds of loss
+- Whether a duty of care is owed
+- Liability for omissions
+- Liability for acts of third parties
+- Public bodies and duty of care
+recap:
+- Sort each loss: only pure economic loss and psychiatric harm need special rules.
+- Precedent if the situation is established, Caparo only if it is genuinely novel; either way, the claimant must be reasonably foreseeable as likely to be harmed.
+- Make matters worse, and there's a duty; fail to make them better, and there's none, unless an exception applies.
+- No duty to stop a third party harming the claimant unless an exception applies, and knowing of a threat isn't enough.
+- Same rules as anyone else: liable for their own positive acts, but statutory powers alone give no duty to protect.
+summary: A duty comes from precedent, or from Caparo if the situation is genuinely novel, and is owed to a claimant reasonably foreseeable as likely to be harmed; but failing to protect gives no duty unless the defendant made matters worse or an exception applies.
+invented: []
+guide_only: []
+---
+
+## Map
+
+Will (warm): Today's big question: when does one person owe another a duty of care in negligence? Five areas. Two basics first: the kinds of loss, and whether a duty is owed at all. Then three areas on failing to protect someone: omissions, harm done by third parties, and public bodies.
+
+## Block 1: Negligence and the kinds of loss
+
+Hannah: First, the kinds of loss. Which losses does negligence compensate in the ordinary way, and which need special rules?
+
+Will: Three kinds are recoverable in the ordinary way: personal injury, including a recognised psychiatric illness; damage to property; and consequential economic loss, which flows from them. Pure economic loss and psychiatric harm are recoverable only under their special rules.
+
+Hannah: How do I tell consequential loss from pure economic loss?
+
+Will: Ask whether the loss flows from injury to the claimant, or damage to the claimant's own property. If it does, it's consequential: profits lost while the claimant's damaged delivery van is off the road are recoverable. If it doesn't, it's pure economic loss.
+
+Hannah: And the two that need special rules?
+
+Will: Pure economic loss, and psychiatric harm to secondary victims, are governed by special duty rules, not ordinary foreseeability: assumption of responsibility, and the Alcock control mechanisms. Each is covered in depth elsewhere. But a primary victim within the range of foreseeable physical injury recovers for a recognised psychiatric illness without proof that psychiatric harm was foreseeable.
+
+Hannah (summing up): Sort each loss: only pure economic loss and psychiatric harm need special rules.
+
+Will: Right.
+
+## Block 2: Whether a duty of care is owed
+
+Hannah: Before duty, a question on loss. A contractor carelessly cuts the electricity board's cable, and a nearby factory loses a day's profits. Consequential loss, or pure economic loss?
+
+Will: <think>
+
+Will (thinking aloud): Pure economic loss. The tempting answer is consequential loss, because something was physically damaged. But it was the board's cable, not the factory's own property, so the lost profits don't flow from damage to the claimant's property.
+
+Hannah: Right: no injury to the claimant and no damage to its own property, so it's pure economic loss. Now, whether a duty of care is owed at all. How do you decide?
+
+Will: Start with precedent. If the claim fits an established duty situation, including driver to road users, doctor to patient and employer to employee, the court applies that precedent. Caparo's three stages are foreseeability, proximity, and whether a duty would be fair, just and reasonable. But Caparo is used only for genuinely novel situations, developing the law incrementally, by analogy.
+
+Hannah (wary): So that's the trap: running Caparo on every claim.
+
+Will: Right. Either way, foreseeability is judged for the particular claimant. A duty is owed only to a claimant, or a class, reasonably foreseeable as likely to be harmed by the defendant's carelessness. A claimant outside the range of foreseeable danger, such as someone some distance away, outside the zone of danger, is owed no duty. But a blind pedestrian is a foreseeable user of the pavement, so she is owed one.
+
+Hannah: Isn't that just remoteness?
+
+Will: Different question, and that's the trap. At the duty stage, ask whether this claimant could foreseeably be harmed. Remoteness asks whether the damage the claimant suffered was too remote.
+
+Hannah: Now manufacturers and the ultimate consumer. When is a duty owed?
+
+Will: Two conditions. The products are sold in a form showing they're meant to reach the ultimate consumer in the form in which they left the manufacturer. And there's no reasonable possibility of intermediate examination. Then the manufacturer owes the consumer a duty to take reasonable care in preparing them, knowing that lack of care may cause injury to life or property. So a consumer who drinks from an opaque bottle containing a decomposed snail is owed a duty: that's Donoghue v Stevenson. The absence of a contract between them is irrelevant.
+
+Hannah: And is a rescuer owed a duty?
+
+Will: Yes, because danger invites rescue: it's foreseeable that someone will go to the aid of a person the defendant's negligence has put in danger. The rescuer's duty is independent, so it's owed even where the defendant endangered only himself. And a reasonable rescuer isn't volenti, and doesn't break the chain of causation.
+
+Hannah (summing up): Precedent if the situation is established, Caparo only if it is genuinely novel; either way, the claimant must be reasonably foreseeable as likely to be harmed.
+
+Will: Right.
+
+## Block 3: Liability for omissions
+
+Hannah: Before omissions, a question on duty. An employer carelessly leaves a machine unguarded, and an employee is hurt. Must the employee get through Caparo's three stages, or not?
+
+Will: <think>
+
+Will (thinking aloud): No need. Employer to employee is an established duty situation, so the court applies that precedent. The tempting answer is Caparo, but that's only for genuinely novel situations.
+
+Hannah: Right: an established situation, so the precedent applies. Now omissions: when is a defendant liable for failing to act?
+
+Will: There's no general duty to act to prevent harm, or to rescue: that's a pure omission. A defendant is liable for failing to protect only if it made matters worse than if it had done nothing, or an exception applies.
+
+Hannah: So what do I actually ask?
+
+Will: Would the claimant have been better off if the defendant had done nothing? If not, it's a pure omission. So a passer-by or a public body that sees danger and does nothing, or attends and leaves without warning others, owes no duty. And foreseeing the harm isn't enough, on its own, to create a duty to act.
+
+Hannah: And if the defendant steps in, but it doesn't help?
+
+Will: The comparison is always with doing nothing at all. Say the police put up their own warning sign, then leave and take it with them. The driver is no worse off than if they'd never come, so there's no duty. But if a defendant's conduct puts off or prevents someone else from protecting the claimant, that's making matters worse, so a duty can arise. That's only where the defendant knew, or ought reasonably to have known, that its conduct would have that effect.
+
+Hannah: Now the exceptions. How many?
+
+Will: Two here, and two more with third parties. First, assumed responsibility: if the defendant has assumed responsibility for the claimant, creating reliance, a duty to act or protect arises. Taking charge of a drunk person does it. So do police who take into custody a man known to be a suicide risk, because they assume responsibility for him and have control over him. Second, created danger: if the defendant created or increased the danger, including by a positive act that makes matters worse, a duty arises.
+
+Hannah: So does the fire brigade owe a duty to fight a fire well?
+
+Will: No. It owes no duty to attend a fire, or to fight it effectively, because that's an omission. But firefighters who switch off sprinklers commit a positive act that makes matters worse, so they owe a duty.
+
+Hannah: And the ambulance service and the police? That's the classic trap.
+
+Will: Right. An ambulance service that accepts a 999 call for a patient assumes responsibility, so a delay without good reason is actionable. It must arrive within a reasonable time, though a delay with good reason, like prioritising more urgent calls, isn't a breach. The police are different. They owe no duty to protect from crime, for example by a slow response to a warning or a 999 call. That's unless an exception applies, such as assuming responsibility to the claimant or creating the danger.
+
+Hannah (summing up): So the question is whether the service accepted the call for the claimant, or merely received it. Receiving it, even from an identifiable caller, isn't enough.
+
+Will: Yes, that's the difference.
+
+Hannah (brisk): Make matters worse, and there's a duty; fail to make them better, and there's none, unless an exception applies.
+
+Will: Right.
+
+## Block 4: Liability for acts of third parties
+
+Hannah: Before third parties, a question on omissions. A guest collapses drunk at a party, and the host takes charge of him, then leaves him alone, and he chokes. Did the host owe him a duty, or not?
+
+Will: <think>
+
+Will (thinking aloud): A duty was owed. Taking charge of a drunk person is an assumption of responsibility, which creates reliance. The tempting answer is that there's no general duty to rescue, but assumed responsibility is an exception to that.
+
+Hannah: Right: once he took charge, he assumed responsibility. Now acts of third parties: when must a defendant protect the claimant from harm a third party causes?
+
+Will: There's no duty to prevent a third party deliberately harming the claimant, unless an exception applies. There are four, and then a special rule for occupiers. One: the defendant had a special level of control over the third party, or over the source of danger. Two: it assumed responsibility for the claimant. Three: it created the danger the third party sparked off. Four: it has a status imposing a duty to protect, but the police's role in protecting the public isn't such a status. In one line: control, responsibility, created danger, status.
+
+Hannah: So young offenders escape from the officers supervising them, and damage boats. Is a duty owed to the boat owners?
+
+Will: Yes: the officers had control over them. Likewise, a defendant who created the danger a third party exploited, for example by leaving fireworks in unlocked premises, owes a duty.
+
+Hannah: And if the defendant only knew the claimant had been threatened?
+
+Will: Not enough. Knowing that a third party has threatened the claimant, even an identifiable claimant at special risk, isn't enough without an exception. Occupiers are the special case. If trespassers or nature create a danger on an occupier's land, the occupier owes neighbouring landowners a duty only where it knew or ought to have known of the danger, and could reasonably have abated it. It's a measured duty to take reasonable steps, which takes account of the occupier's resources.
+
+Hannah (summing up): No duty to stop a third party harming the claimant unless an exception applies, and knowing of a threat isn't enough.
+
+Will: Right.
+
+## Block 5: Public bodies and duty of care
+
+Hannah: Before public bodies, a question on third parties. A woman rings 999 and tells the police her ex-partner has just threatened to kill her. The response is slow, and he attacks her. Do the police owe her a duty, or not?
+
+Will: <think>
+
+Will (thinking aloud): No duty, unless an exception applies. Merely receiving a 999 call isn't assuming responsibility, and knowing of a threat, even to an identifiable caller, isn't enough. The tempting answer treats the police like the ambulance service, which owes a duty because it accepts the call for the patient.
+
+Hannah: Right: receiving a call isn't accepting responsibility. Now public bodies: do the police and other public bodies owe the same duties of care as anyone else?
+
+Will: Yes. Police and other public authorities are subject to the same negligence principles as private persons. So they owe a duty not to cause foreseeable injury by their positive acts. But statutory powers or duties don't, on their own, create a duty to protect people from crime or other harm by third parties. There's no such duty unless an exception applies, such as assuming responsibility or creating the danger. So a council that fails to protect a child from neighbours owes her no duty just because it has statutory powers or duties.
+
+Hannah: What about the old line between policy decisions and operational ones?
+
+Will: That distinction has been rejected. Public authorities are generally subject to the same principles as private persons, unless legislation excludes or restricts a duty.
+
+Hannah: So what's the trap?
+
+Will: Thinking there's blanket immunity. Police who knock over a bystander during an arrest owe a duty, because their own positive act foreseeably caused the injury. Police who fail to protect someone from crime owe no duty, unless an exception applies. So ask who caused the injury: the police by their own act, or a third party?
+
+Hannah (summing up): Same rules as anyone else: liable for their own positive acts, but statutory powers alone give no duty to protect.
+
+Will: Right.
+
+## Recap
+
+Hannah: Last question, before the round-up. A council crew takes away a resident's warning sign beside an oil spill, and leaves the spill uncleaned, without warning anyone. A motorcyclist skids on it and is hurt. Does the council owe him a duty, or not?
+
+Will: <think>
+
+Will (thinking aloud): Yes. Taking the sign away is a positive act. It left the motorcyclist worse off than if the crew had done nothing, so they created or increased the danger. The tempting answer is that a public body owes no duty for failing to clear a hazard. That would be right if they had simply left the spill alone.
+
+Hannah: Right. That's the contrast with the police who took away their own sign: without them, there'd have been no sign at all. Without this crew, the resident's sign would still be there.
+
+Will (brisk): Quick-fire round, then: one line for each of the five areas.
+
+Hannah: The kinds of loss?
+
+Will: <think>
+
+Will: Sort each loss: only pure economic loss and psychiatric harm need special rules.
+
+Hannah: Whether a duty is owed?
+
+Will: <think>
+
+Will: Precedent if the situation is established, Caparo only if it is genuinely novel; either way, the claimant must be reasonably foreseeable as likely to be harmed.
+
+Hannah: Omissions?
+
+Will: <think>
+
+Will: Make matters worse, and there's a duty; fail to make them better, and there's none, unless an exception applies.
+
+Hannah: Third parties?
+
+Will: <think>
+
+Will: No duty to stop a third party harming the claimant unless an exception applies, and knowing of a threat isn't enough.
+
+Hannah: Public bodies?
+
+Will: <think>
+
+Will: Same rules as anyone else: liable for their own positive acts, but statutory powers alone give no duty to protect.
+
+Hannah (warm): And the whole workshop in one sentence?
+
+Will: A duty comes from precedent, or from Caparo if the situation is genuinely novel, and is owed to a claimant reasonably foreseeable as likely to be harmed; but failing to protect gives no duty unless the defendant made matters worse or an exception applies.

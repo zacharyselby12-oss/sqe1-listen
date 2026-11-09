@@ -2403,6 +2403,123 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws10-v23-2e142666.mp3",
       "pubDate": "2026-11-09T17:45:31+00:00"
+    },
+    {
+      "id": "tort-ws01-rev-v2",
+      "unitId": "u-bpp-Tort-01",
+      "title": "Tort WS01 v2 · Revision · 15 min",
+      "guideHash": "18802cf8fd",
+      "script": "scripts/tort-ws01-rev-v2.txt",
+      "scriptHash": "e60cf2d6d0b0",
+      "audio": "audio/tort-ws01-rev-v2.mp3",
+      "recap": [
+        "Sort each loss: only pure economic loss and psychiatric harm need special rules.",
+        "Precedent if the situation is established, Caparo only if it is genuinely novel; either way, the claimant must be reasonably foreseeable as likely to be harmed.",
+        "Make matters worse, and there's a duty; fail to make them better, and there's none, unless an exception applies.",
+        "No duty to stop a third party harming the claimant unless an exception applies, and knowing of a threat isn't enough.",
+        "Same rules as anyone else: liable for their own positive acts, but statutory powers alone give no duty to protect."
+      ],
+      "map": [
+        "Negligence and the kinds of loss",
+        "Whether a duty of care is owed",
+        "Liability for omissions",
+        "Liability for acts of third parties",
+        "Public bodies and duty of care"
+      ],
+      "summary": "A duty comes from precedent, or from Caparo if the situation is genuinely novel, and is owed to a claimant reasonably foreseeable as likely to be harmed; but failing to protect gives no duty unless the defendant made matters worse or an exception applies.",
+      "madeAt": "2026-11-09T20:49:02+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (1 fuzzy match cleared: the correct rule); a fresh Opus review against the cases (Tindall, Poole, Robinson) with 1 must-fix and 2 clarity fixes, then a fresh Opus check of the changed lines (all right, 1 wording); template v2.3's second sample for Zac's comparison with v1 (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 18802cf8fd",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "dr-ws07-rev-v1-p1",
+      "unitId": "u-bpp-DR-07",
+      "title": "DR WS07 (1 of 2) · Revision · 21 min",
+      "guideHash": "91e7fc99a6",
+      "script": "scripts/dr-ws07-rev-v1-p1.txt",
+      "scriptHash": "fb23b4030651",
+      "audio": "audio/dr-ws07-rev-v1-p1.mp3",
+      "recap": [
+        "Relevant evidence is admissible unless it's excluded, and improperly obtained evidence is generally admitted.",
+        "Late needs permission; unused can be put in as hearsay by any other party; unobtainable means a witness summary.",
+        "A witness statement by default; an affidavit only where required, sworn before someone independent of every party and their representatives.",
+        "Civil hearsay isn't excluded for being hearsay: a missing notice goes to weight, costs and case management, and within the hearsay rules, only a maker shown not competent shuts it out.",
+        "Issue decides permission and service decides binding; and you don't lead your own witness on a disputed point."
+      ],
+      "map": [
+        "Evidence basics, admissibility and opinion evidence",
+        "Witness statements: use, exchange and time limits",
+        "Form of witness statements; affidavits",
+        "Hearsay and previous convictions",
+        "Witness summonses and trial procedure"
+      ],
+      "summary": "Relevant evidence goes in unless excluded; served statements stand as evidence in chief unless the court orders otherwise; hearsay isn't excluded for being hearsay; and only a summons, not a served statement, compels a witness to attend.",
+      "madeAt": "2026-11-09T20:49:02+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (4 fuzzy matches cleared: each the correct rule); a fresh Opus review against the CPR, PDs and the Civil Evidence Act 1995 with 6 must-fixes and 3 clarity fixes, then a fresh Opus check of the changed lines (2 more fixes, and the matching one-liners); template v2.3's DR sample (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 91e7fc99a6",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "dr-ws07-rev-v1-p2",
+      "unitId": "u-bpp-DR-07",
+      "title": "DR WS07 (2 of 2) · Revision · 16 min",
+      "guideHash": "91e7fc99a6",
+      "script": "scripts/dr-ws07-rev-v1-p2.txt",
+      "scriptHash": "3d6dd5654fd8",
+      "audio": "audio/dr-ws07-rev-v1-p2.mp3",
+      "recap": [
+        "No expert evidence without the court's permission, and each track limits it further.",
+        "The expert's duty is to the court, not the client, but the client can still sue the expert in negligence.",
+        "Disclose a report and anyone can use it; written questions go once, within 28 days, to clarify, unless the court permits or the other party agrees.",
+        "One expert for all: copy everything and meet no one alone; if unhappy, ask questions, then seek permission for your own.",
+        "The joint statement goes before the judge, the discussion doesn't, and nothing binds a party unless it expressly agrees."
+      ],
+      "map": [
+        "Expert evidence: permission, court control and tracks",
+        "Experts' duty to the court and instructions",
+        "Expert reports, exchange and written questions",
+        "Single joint experts",
+        "Discussions between experts, oral expert evidence, unfavourable reports"
+      ],
+      "summary": "Expert evidence needs the court's permission, and the expert's duty is to the court; a disclosed report can be used by any party; and an agreement between experts binds a party only if it expressly agrees to be bound.",
+      "madeAt": "2026-11-09T20:49:02+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok, apart from the two old checks that reject template v2.3's own shape (check_script_v23's quick-fire prompts; revcheck's 2-3 think-gaps); known-error scan 0 hits (4 fuzzy matches cleared: each the correct rule); a fresh Opus review against the CPR, PDs and the Civil Evidence Act 1995 with 6 must-fixes and 3 clarity fixes, then a fresh Opus check of the changed lines (2 more fixes, and the matching one-liners); template v2.3's DR sample (b172); build chat re-stamp (Mon 9 Nov 18:40, b192): the guide chat corrected the guide at 17:50 (g50); this script already teaches each corrected line (checked line by line against the new guide text), so guideHash 91e7fc99a6",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
