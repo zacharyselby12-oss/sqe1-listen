@@ -2344,11 +2344,19 @@
       ],
       "summary": "Fraudulent trading: anyone knowingly party, two steps, claimed only by the liquidator or administrator; wrongful trading: one defence; voidable transactions: undervalues turn on value, timing and insolvency, section 423 on a real purpose; preferences and floating charges depend on connection.",
       "madeAt": "2026-11-09T17:44:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; Opus accuracy + line-by-line checks; one revision; Opus changed-lines check pass; known-error scan 0 hits; build chat re-stamp (Mon 9 Nov 17:36, b181 step 3): its guide moved after the script was checked, so 15 lines revised (the three points corrected on 5 Nov in the same run: wrongful and fraudulent trading, the look-back periods; line 60 in plain words; the s 424 applicants) against the current guide and checked texts by an Opus helper (F4), then a fresh changed-lines check (C7: 6 lines fixed as it said), code check (v2.3) ok, known-error scan 0 hits; guideHash 990ce13663",
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9780228,
+      "seconds": 1222,
+      "words": 3176,
+      "renderedHash": "e3c239c97afc",
+      "renderedAt": "2026-11-09T17:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws10-v23-672e4047.mp3",
+      "pubDate": "2026-11-09T17:45:31+00:00"
     },
     {
       "id": "dr-ws10-v23",
@@ -2382,11 +2390,19 @@
       ],
       "summary": "International disputes; choice of court clauses and Hague Convention; common law jurisdiction and permission; serving abroad; difficulties with service, alternative or dispensed; disputing and submitting to jurisdiction; UK 1982 Act; applicable law in contract, Rome I; in tort, Rome II.",
       "madeAt": "2026-11-09T17:44:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok; known-error scan 0 hits; Opus accuracy + line-by-line checks; one revision; Opus changed-lines check, one wording restored and code check re-run; build chat re-stamp (Mon 9 Nov 17:36, b181 step 3): its guide moved after the script was checked, so 5 lines revised (the foreign-state service line, DR-4.4-12 checked in the same run; Ukraine; the tort gateway; Rome II's scope; the consumer carve-outs as examples) against the current guide and checked texts by an Opus helper (F4), then a fresh changed-lines check (C7: 6 lines fixed as it said), code check (v2.3) ok, known-error scan 0 hits; guideHash 585af3dec3",
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 17650430,
+      "seconds": 2206,
+      "words": 5738,
+      "renderedHash": "9f2c20d5688d",
+      "renderedAt": "2026-11-09T17:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws10-v23-2e142666.mp3",
+      "pubDate": "2026-11-09T17:45:31+00:00"
     }
   ],
   "replays": [
