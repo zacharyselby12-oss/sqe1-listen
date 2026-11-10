@@ -2642,7 +2642,7 @@
       ],
       "summary": "Judge breach objectively against the reasonable person in the defendant's position, with Bolam for professionals and Montgomery for risk advice, at the time of the act; the claimant must prove it on the balance of probabilities.",
       "madeAt": "2026-11-10T21:43:46+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 27/27 items (flags: about 15.6 min, 4 recall pauses); known-error scan 0 hits; Opus accuracy + line-by-line (5 problems: Bolitho qualifier and pre-birth occurrence, fixed); changed-lines checks: Montgomery wording fixed, one-liner tightened, then pass",
@@ -2653,7 +2653,15 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7615797,
+      "seconds": 952,
+      "words": 2346,
+      "renderedHash": "49f8fe049644",
+      "renderedAt": "2026-11-10T21:44:39+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws02-rev-v1-4054344a.mp3",
+      "pubDate": "2026-11-10T21:44:39+00:00"
     }
   ],
   "replays": [
