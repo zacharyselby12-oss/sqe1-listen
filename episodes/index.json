@@ -2589,7 +2589,7 @@
       ],
       "summary": "Ask first whether the 1954 Act protects the tenancy, because then it ends only in a way the Act allows; and a landlord choosing a remedy asks whether it wants to keep the lease, because forfeiture ends it, and any underlease, subject to relief.",
       "madeAt": "2026-11-10T12:43:56+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); known-error scan 0 hits; Opus accuracy + line-by-line checks (13 + 10 problems); one Sonnet revision; fresh Opus changed-lines check (one question tag fixed); code check and known-error scan re-run, ok | b203 (build chat, Tue 10 Nov): re-checked on the guide's 31 lines added since it was written (fresh Opus C1: 12 clashes in 6 turns, 16 lines never taught); round 1 fixed the clashes, added Block 15's surrender/merger contrast and a real closing summary (decision 136), checked by a fresh Opus C2 (2 small fixes made); round 2 added the 13 examinable lines never taught, checked by a fresh Opus C3 (1 fix made; its known-error near-miss judged not the error and cleared); C4 checked the last three small edits; code check (v2.3) and known-error scan (227 errors, 1 cleared) pass; re-stamped 452f5cd78d (the publisher's render at 08:40).",
@@ -2612,7 +2612,15 @@
         "b14",
         "b15"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 19145868,
+      "seconds": 2393,
+      "words": 6287,
+      "renderedHash": "f1a5d92bdcc4",
+      "renderedAt": "2026-11-10T12:44:44+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws10-v23-0167bfa2.mp3",
+      "pubDate": "2026-11-10T12:44:44+00:00"
     }
   ],
   "replays": [
