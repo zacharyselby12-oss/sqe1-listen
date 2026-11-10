@@ -1,0 +1,164 @@
+---
+id: tort-ws02-rev-v1
+unit: u-bpp-Tort-02
+guide_hash: 1a789aad5a
+made: 2026-11-10T21:43:46+00:00
+kind: revision
+title: Tort WS02 · Revision · 15 min
+map:
+- Standard of care
+- Establishing breach
+- The unborn child and wrongful conception
+recap:
+- Inexperience never lowers the standard; professionals backed by a responsible body of opinion withstanding logical analysis aren't negligent; Montgomery: doctors must take reasonable care to disclose material risks and reasonable alternatives, within limits; a child is judged against same-age children.
+- Breach is judged at the time of the act; common practice is strong evidence, not conclusive; res ipsa lets the court infer negligence, but the burden stays on the claimant.
+- A child born disabled by an occurrence before its birth can sue if the defendant was, or would have been, liable in tort to the affected parent; after negligent sterilisation, parents cannot recover a healthy child's upkeep.
+summary: Judge breach objectively against the reasonable person in the defendant's position, with Bolam for professionals and Montgomery for risk advice, at the time of the act; the claimant must prove it on the balance of probabilities.
+invented:
+- a passer-by who sees a stranger in danger (warm-up)
+- a newly qualified nurse on her first day
+- a trader following the usual practice of her trade
+- a couple with a healthy baby after a negligent sterilisation
+guide_only: []
+---
+## Map
+Will: Today's big question is breach of duty: did the defendant fail to meet the standard, and can the claimant prove it? There are three areas: the standard of care, establishing breach, and the unborn child and wrongful conception.
+Hannah: Before we start, a warm-up from duty of care: a passer-by sees a stranger in danger and does nothing at all. Does the passer-by owe a duty?
+Will (scenario pause): <think>
+Will: That's a pure omission, so there is no duty unless an exception applies. The tempting answer, a duty because harm was foreseeable, fails because foreseeability alone creates no duty to act.
+Hannah: Yes: doing nothing is a pure omission, and foreseeability alone doesn't create a duty.
+## Block 1: Standard of care
+Will: Now, the standard of care: which standard is the defendant judged by? We start with the reasonable person in the defendant's position, and then ask whether a special rule applies.
+Hannah: So what is the starting standard, and does it bend for a beginner?
+Will: Breach is judged objectively: the defendant must meet the standard of the reasonable person in the defendant's position. Personal characteristics such as inexperience or low intelligence do not lower it. So a learner driver is judged as a reasonably competent driver.
+Hannah: Does that hold for professionals as well, such as a junior doctor?
+Will: Inexperience is no defence for professionals, because the standard is that of the post or task undertaken. So a junior hospital doctor is judged by the standard of a reasonably competent doctor in that post.
+Hannah: And what about an amateur who takes on a skilled task, like DIY?
+Will: A person who undertakes a skilled task is judged by the skill the task requires, so an amateur doing DIY is judged as a reasonably competent amateur.
+Hannah: Can a junior ever escape liability by asking someone more senior?
+Will: A junior who seeks a senior's advice may thereby discharge the duty.
+Hannah: So is the standard about how hard the defendant tried?
+Will: It isn't a best-efforts standard: the standard attaches to the task or post, so inexperience is ignored however hard the beginner tried.
+Hannah: Yes: the task sets the standard, not the person. Now, how are specialists judged?
+Will: A specialist is judged as a reasonably competent practitioner of that specialism, and a GP as a GP, not a consultant.
+Hannah: And what about someone who merely holds out a skill?
+Will: A person holding out a skill is judged by that skill, not a different profession's higher standard.
+Hannah: What is the professional test itself?
+Will: Under Bolam, a professional is not negligent if he acted in accordance with a practice accepted as proper by a responsible body of professional opinion in that field. That is so even if other professionals would have acted differently.
+Hannah: Does the responsible body have to be a majority?
+Will: The responsible body need not be a majority.
+Hannah: Can the court ever reject a practice that some professionals support?
+Will: The body of opinion must be capable of withstanding logical analysis, which means weighing risks and benefits. In rare cases the court may reject it and find negligence even though some professionals support the practice.
+Hannah: And does a professional have to read every new article?
+Will: A professional must keep reasonably up to date, but need not have read every new article.
+Hannah: Is advice about the risks of treatment judged by Bolam too?
+Will: Advice on risks of treatment is not governed by Bolam. This is the Montgomery duty.
+Hannah: So what must the doctor do?
+Will: The doctor must take reasonable care to ensure the patient is aware of any material risks of the recommended treatment and of reasonable alternatives.
+Hannah: And when is a risk material?
+Will: A risk is material if a reasonable person in the patient's position would be likely to attach significance to it, or the doctor knows or should know that this patient would. So a surgeon who knows her patient is a professional cellist should mention even a small risk of losing fingertip sensation, although most surgeons would not.
+Hannah: Are there limits to that duty?
+Will: There are three limits, and the first is that the doctor need not discuss risks with a patient who makes clear she would prefer not to.
+Hannah: And what is the second limit?
+Will: The doctor may withhold a risk whose disclosure he reasonably considers would be seriously detrimental to the patient's health, which is a limited therapeutic exception.
+Hannah: And the third limit?
+Will: The third is necessity: the doctor is excused where, for example, an unconscious patient needs urgent treatment.
+Hannah: Who decides whether an alternative treatment is reasonable, so that it must be disclosed?
+Will: Whether an alternative is reasonable is judged by the Bolam professional practice test. So risks are judged by the patient's view, and the reasonableness of alternatives by professional practice.
+Hannah: What about a child who is the defendant?
+Will: A child defendant is judged by the standard of a reasonable child of the same age, not that of an adult.
+Hannah: And what if the defendant's ability is impaired by a condition?
+Will: If he was not and could not reasonably have been aware of the condition, he is judged against a reasonable person unaware of it.
+Hannah: And if he did know?
+Will: If he knew or ought to have known, he is liable. For example, he felt symptoms and carried on driving.
+Hannah: Does mental illness lower the standard?
+Will: Mental illness does not lower the standard unless the defendant's conduct was entirely involuntary.
+Hannah: So would a defendant who acts on delusions escape liability?
+Will: Acting on delusions is not entirely involuntary, so the standard is not lowered.
+Hannah (summing up): Inexperience never lowers the standard; professionals backed by a responsible body of opinion withstanding logical analysis aren't negligent; Montgomery: doctors must take reasonable care to disclose material risks and reasonable alternatives, within limits; a child is judged against same-age children.
+Will: Yes: inexperience is ignored, Bolam covers professionals, Montgomery covers risk advice, and a child is judged by a child of the same age.
+## Block 2: Establishing breach
+Hannah: Before breach, a question on the standard: a newly qualified nurse, on her first day, misses a risk that a reasonably competent nurse would have spotted. Is she judged more leniently?
+Will (scenario pause): <think>
+Will: She isn't, because she is judged by the standard of the post, a reasonably competent nurse. The tempting answer, a lower standard for a beginner, fails because the standard attaches to the task, not the person.
+Hannah: Yes: the post sets the standard, and her inexperience is ignored.
+Will: Now, establishing breach: did the defendant fail to meet the standard, and can the claimant prove it? First, the likelihood and seriousness of harm and the cost of precautions.
+Hannah: How does likelihood of harm work?
+Will: The greater the probability of harm, the more care is required. A reasonable person may ignore a very small risk, but a real risk must be guarded against if the precaution is easy and cheap.
+Hannah: And how does seriousness of harm work?
+Will: More precautions are required where the potential injury is more serious, including because of a known vulnerability of the claimant. That is about breach: the eggshell skull rule is different, because it concerns the extent of loss once breach and causation are established.
+Hannah: Must the defendant remove every risk?
+Will: The defendant need only take precautions proportionate to the risk. It is not required to eliminate every risk at great expense.
+Hannah: How does the social value of the activity come in?
+Will: The importance of the defendant's objective, such as emergency services saving life, may justify taking greater risks. The court may also consider whether imposing liability would deter desirable activities.
+Hannah: And what must the court consider?
+Will: The court must consider three things, and the first is whether the defendant acted for the benefit of society.
+Hannah: What are the other two?
+Will: Whether it took a predominantly responsible approach to safety, and whether it acted heroically in an emergency.
+Hannah: Are those a defence?
+Will: The matters the court must consider are factors in breach, not a defence. Social value is not a licence.
+Hannah: What weight does common practice carry?
+Will: Following common or approved practice is strong evidence of reasonable care but not conclusive. Departure from it is evidence of negligence.
+Hannah: Can a court find the practice itself negligent?
+Will: The court, not the trade, sets the standard, so it may find the practice itself negligent.
+Hannah: Which knowledge is breach judged by?
+Will: Breach is judged by the knowledge and standards at the time of the act, not with hindsight.
+Hannah: What care do sports players owe each other?
+Will: Players owe each other the care reasonable in all the circumstances of the game.
+Hannah: Is that a low bar?
+Will: The threshold is high, and an error of judgment or lapse in play is no breach. But recklessness is not required.
+Hannah: And what about spectators?
+Will: Towards spectators, a competitor is liable only for conduct showing a reckless disregard of their safety.
+Hannah: Who must prove breach, and to what standard?
+Will: The claimant must prove breach on the balance of probabilities.
+Hannah: Does a criminal conviction help?
+Will: A defendant's subsisting UK criminal conviction, for example for careless driving, is admissible in civil proceedings, where relevant to an issue, as evidence that he committed the offence. He must then prove he did not.
+Hannah: And when does res ipsa loquitur apply?
+Will: There are three conditions, and the first is that the thing causing harm was under the defendant's control.
+Hannah: And what are the other two?
+Will: The accident would not ordinarily happen without negligence, and the cause is unknown.
+Hannah: What follows if all three are met?
+Will: The court may infer negligence. The defendant can rebut it by showing a plausible non-negligent explanation or that it took reasonable care.
+Hannah: Does the burden of proof shift to the defendant?
+Will: Even where res ipsa loquitur applies, the legal burden of proving breach stays on the claimant. So the tempting idea that the burden shifts is wrong: it only lets the court infer negligence.
+Hannah: Does an apology count as an admission?
+Will: An apology, offer of treatment or other redress does not of itself amount to an admission of negligence or breach of statutory duty.
+Hannah (summing up): Breach is judged at the time of the act; common practice is strong evidence, not conclusive; res ipsa lets the court infer negligence, but the burden stays on the claimant.
+Will: Yes: time of the act, common practice as evidence only, and the burden staying on the claimant.
+## Block 3: The unborn child and wrongful conception
+Hannah: Before the unborn child, a question mixing common practice and Bolam: a trader follows the usual practice of her trade and a customer is hurt. Does following that practice settle that she is not in breach?
+Will (scenario pause): <think>
+Will: It doesn't. Common practice is strong evidence of reasonable care but not conclusive, and the court, not the trade, sets the standard. The tempting answer is to apply Bolam, but that protects professionals following a responsible body of opinion that withstands logical analysis, not traders.
+Hannah: Yes: common practice is only evidence, and Bolam is for professionals.
+Will: Now, the unborn child and wrongful conception: can a child born disabled sue, and what can parents recover after a negligent sterilisation?
+Hannah: When can a child born disabled sue?
+Will: A child born disabled because of an occurrence before its birth can sue a person who was, or would have been, liable in tort to the affected parent.
+Hannah: Which kinds of occurrence count?
+Will: There are three kinds: one affecting a parent's ability to have a healthy child, one affecting the mother in pregnancy, and one affecting mother or child during birth.
+Hannah: Is there a limit for occurrences before conception?
+Will: For a pre-conception occurrence there is no liability if either parent knew of the risk at the time of conception.
+Hannah: Is there an exception to that?
+Will: Yes: where the child's father is the defendant, and he knew of the risk but the mother did not, there is liability.
+Hannah: Can the mother herself be liable to her child?
+Will: The mother is liable only for negligent driving of a motor vehicle when she knew or ought reasonably to have known she was pregnant.
+Hannah: And what can parents recover after a negligent sterilisation?
+Will: Parents cannot recover the cost of bringing up a healthy child born after negligent sterilisation. A conventional award is given instead.
+Hannah: What if the child is disabled?
+Will: Extra costs attributable to a child's disability may be recoverable. So a healthy child's upkeep is not recoverable, but the extra costs of a disabled child may be.
+Hannah (summing up): A child born disabled by an occurrence before its birth can sue if the defendant was, or would have been, liable in tort to the affected parent; after negligent sterilisation, parents cannot recover a healthy child's upkeep.
+Will: Yes: the child's claim follows the defendant's liability to the parent, and a healthy child's upkeep is not recoverable.
+## Recap
+Hannah: Last recall question: a couple have a healthy baby after a negligent sterilisation. Can they claim the cost of bringing the child up?
+Will (scenario pause): <think>
+Will: They cannot. They receive a conventional award instead, although extra costs attributable to a disability may be recoverable. The tempting answer, full upkeep as the loss the negligence caused, fails for a healthy child.
+Hannah: Yes: a conventional award for a healthy child, with only the disability extras recoverable. Now the quick-fire round. What's the summary for the standard of care?
+Will (quick-fire pause): <think>
+Will: Inexperience never lowers the standard; professionals backed by a responsible body of opinion withstanding logical analysis aren't negligent; Montgomery: doctors must take reasonable care to disclose material risks and reasonable alternatives, within limits; a child is judged against same-age children.
+Hannah: What's the summary for establishing breach?
+Will (quick-fire pause): <think>
+Will: Breach is judged at the time of the act; common practice is strong evidence, not conclusive; res ipsa lets the court infer negligence, but the burden stays on the claimant.
+Hannah: What's the summary for the unborn child and wrongful conception?
+Will (quick-fire pause): <think>
+Will: A child born disabled by an occurrence before its birth can sue if the defendant was, or would have been, liable in tort to the affected parent; after negligent sterilisation, parents cannot recover a healthy child's upkeep.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Judge breach objectively against the reasonable person in the defendant's position, with Bolam for professionals and Montgomery for risk advice, at the time of the act; the claimant must prove it on the balance of probabilities.

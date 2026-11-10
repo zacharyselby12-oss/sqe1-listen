@@ -2621,6 +2621,39 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/pp-ws10-v23-0167bfa2.mp3",
       "pubDate": "2026-11-10T12:44:44+00:00"
+    },
+    {
+      "id": "tort-ws02-rev-v1",
+      "unitId": "u-bpp-Tort-02",
+      "title": "Tort WS02 · Revision · 15 min",
+      "guideHash": "1a789aad5a",
+      "script": "scripts/tort-ws02-rev-v1.txt",
+      "scriptHash": "49f8fe049644",
+      "audio": "audio/tort-ws02-rev-v1.mp3",
+      "recap": [
+        "Inexperience never lowers the standard; professionals backed by a responsible body of opinion withstanding logical analysis aren't negligent; Montgomery: doctors must take reasonable care to disclose material risks and reasonable alternatives, within limits; a child is judged against same-age children.",
+        "Breach is judged at the time of the act; common practice is strong evidence, not conclusive; res ipsa lets the court infer negligence, but the burden stays on the claimant.",
+        "A child born disabled by an occurrence before its birth can sue if the defendant was, or would have been, liable in tort to the affected parent; after negligent sterilisation, parents cannot recover a healthy child's upkeep."
+      ],
+      "map": [
+        "Standard of care",
+        "Establishing breach",
+        "The unborn child and wrongful conception"
+      ],
+      "summary": "Judge breach objectively against the reasonable person in the defendant's position, with Bolam for professionals and Montgomery for risk advice, at the time of the act; the claimant must prove it on the balance of probabilities.",
+      "madeAt": "2026-11-10T21:43:46+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 27/27 items (flags: about 15.6 min, 4 recall pauses); known-error scan 0 hits; Opus accuracy + line-by-line (5 problems: Bolitho qualifier and pre-birth occurrence, fixed); changed-lines checks: Montgomery wording fixed, one-liner tightened, then pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
