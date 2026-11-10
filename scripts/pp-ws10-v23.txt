@@ -1,0 +1,360 @@
+---
+id: pp-ws10-v23
+unit: u-bpp-PP-10
+guide_hash: 452f5cd78d
+made: 2026-11-10T12:43:56+00:00
+title: Property Practice workshop 10 · Lease Termination
+map:
+- Effluxion of time and holding over
+- Break clauses and protected tenancies
+- Notice to quit
+- Surrender
+- Merger; holding over by a protected tenant
+- Landlord's remedies: damages and action in debt
+- Guarantor and rent deposit
+- Commercial Rent Arrears Recovery (CRAR)
+- Equitable remedies: specific performance and injunction
+- Forfeiture: the right, the procedure and waiver
+- Relief from forfeiture
+- Breach of a repairing covenant
+- Landlord's strategy: choosing a remedy
+- Calculating the contractual expiry date
+- Effect of surrender and forfeiture on a sublease
+recap:
+- If the 1954 Act protects the tenancy, it continues after the contractual term until it is ended under the Act; if not, a tenant who stays on paying rent the landlord accepts may become a periodic tenant, but if a new lease is still being negotiated a tenancy at will is more likely.
+- Even after its break, a landlord can end a protected tenancy only by a section 25 notice, forfeiture or accepting a surrender.
+- A periodic tenancy not protected by the Act ends by a notice to quit of the right length, expiring at the end of a period; if the Act protects it, a landlord's notice to quit is ineffective and a section 25 notice is needed.
+- A landlord can end even a protected tenancy by accepting a surrender, but an agreement to surrender it in advance is void unless the contracting-out procedure is followed; an immediate surrender by deed, with no prior binding agreement, needs no procedure.
+- In equity, merger turns on intention, so a tenant who shows it intends to keep the lease alive prevents merger; a protected tenant who stays on defeats expiry and a landlord's notice to quit, because the tenancy continues on the same terms until it is ended under the Act.
+- Rent arrears are recoverable as a debt for 6 years from each payment falling due; against a former tenant or a former tenant's guarantor, only if a section 17 notice was served within 6 months of the sum falling due.
+- A guarantor of a tenant of a new lease is released when the tenant is released on lawful assignment; recovery from the guarantor of a former tenant needs a section 17 notice within 6 months; a rent deposit lets the landlord draw on it for arrears without court proceedings.
+- CRAR recovers only principal rent, with VAT and interest on it; at least 7 days' rent must be unpaid both when notice of enforcement is given and when goods are taken, and the notice must be at least 14 clear days before goods are taken, since 1 May 2026.
+- A tenant can get specific performance of the landlord's repairing covenant, but a landlord gets it against a tenant only exceptionally; a keep-open covenant brings damages, not an order; and an injunction restrains a breach of a negative covenant.
+- For non-payment of rent, no section 146 notice is needed, but a formal demand is, unless the lease dispenses with it; any other breach needs a section 146 notice and a reasonable time to remedy before re-entry.
+- Relief for rent arrears is generous, and which route applies depends on whether the landlord forfeited in the county court, in the High Court or by peaceable re-entry, and on when the tenant pays all the arrears and costs.
+- For a repairing covenant in a lease granted for 7 years or more with 3 years or more unexpired, the section 146 notice must tell the tenant of its right to serve a counter-notice within 28 days, and if it does, the landlord needs leave of the court to forfeit or claim damages.
+- First ask whether the landlord wants to keep the lease, because forfeiture ends it, subject to relief.
+- A term granted "from" a date excludes that day and ends on the anniversary; "from and including" a date includes it and ends the day before the anniversary; this is a presumption that clear wording in the lease can displace.
+- Surrender or merger of the head lease leaves the underlease in place, the undertenant holding directly from the landlord above on the underlease terms; forfeiture ends it, but the undertenant may apply for relief, and the court may vest the premises in it for a term no longer than its underlease.
+summary: Ask first whether the 1954 Act protects the tenancy, because then it ends only in a way the Act allows; and a landlord choosing a remedy asks whether it wants to keep the lease, because forfeiture ends it, and any underlease, subject to relief.
+invented:
+- Dana
+- Quay Lane
+- Oakfield Estates Ltd
+- Marlow Bakery Ltd
+- Tomas
+- Wren Court
+- Halden Properties Ltd
+- Priya
+- Fenn Street
+- Calder Holdings Ltd
+- Imran
+- Albion Mews
+- Rook Estates Ltd
+- 12 June
+- 11 June
+- 10 years
+- 5 years
+- 2 years
+- 8 days
+---
+## Map
+Will (brisk): Right, lease termination. Fifteen topics, in four groups. Group one is ending a lease. Expiry and holding over. Break clauses. Notice to quit. Surrender.
+Hannah: Expiry, breaks, notice to quit, surrender. Four so far.
+Will: And one more in that group: merger, and what a protected tenant defeats by staying on. Group two is the landlord's remedies short of forfeiture. Damages and action in debt. Guarantors and rent deposits.
+Hannah (thinking aloud): So merger closes group one. Then damages and debt, guarantors and deposits.
+Will: Yes. Then the statutory rent recovery, CRAR, and the equitable remedies, specific performance and injunctions.
+Hannah: Group three?
+Will: Forfeiture and relief. The right to forfeit, the procedure and waiver, and then relief for the tenant. Group four is repairs, choosing a remedy, expiry dates and subleases. Repairing covenants, the landlord's strategy, calculating the expiry date, and what happens to a sublease.
+Hannah (pleased): Ending a lease, remedies short of forfeiture, forfeiture and relief, then repairs and the rest. I can hold that.
+## Block 1: Effluxion of time and holding over
+Will: First, expiry and holding over. When does a fixed-term lease end on its own, and what happens if the tenant stays on?
+Hannah: Start with the simple case. Does a fixed-term lease need a notice to end it?
+Will: No. At common law a fixed-term lease ends automatically when its contractual term expires, and neither party needs to serve notice.
+Hannah: What if the tenant just stays on past the end?
+Will: It depends on one question you ask first. Does the 1954 Act protect the tenancy? If it does, the tenancy continues after the contractual term ends, until it is ended under the Act.
+Hannah: And if it doesn't?
+Will: Then a tenant who stays on and pays rent that the landlord accepts may become a periodic tenant. But if the parties are still negotiating a new lease, a tenancy at will is more likely.
+Hannah: Why does the difference matter?
+Will: Because a periodic tenancy of business premises is protected by the Act: a periodic tenancy cannot be contracted out. A tenancy at will is outside the Act. So the label decides whether the tenant has protection.
+Hannah (thinking aloud): So a lease that was contracted out expires, the tenant stays, pays monthly rent, the landlord takes it... that gives an implied periodic tenancy, which is then protected.
+Will: Right, an implied periodic tenancy may arise, and that tenancy is protected, because it is not contracted out. Now the same facts, but the parties are still negotiating a new lease, and the court is more likely to find a tenancy at will, which is outside the Act.
+Hannah: So the deciding fact is the negotiation.
+Will: Yes: whether they are still negotiating a new lease while the tenant holds over and pays rent that the landlord accepts.
+Hannah: Let me have one.
+Will (brisk): Dana's company, Marlow Bakery Ltd, has a contracted-out lease of a shop on Quay Lane from Oakfield Estates Ltd, and the term expires. The company stays on, pays monthly rent, and Oakfield accepts it. Both sides are still haggling over the terms of a new lease. The test is what kind of tenancy the company is likely to have.
+Hannah: So: a protected periodic tenancy, a tenancy at will outside the Act, or still a contracted-out lease?
+Hannah: <think>
+Hannah (thinking aloud): This is holding over. The rent is accepted, which points to periodic. But the parties are still negotiating a new lease, so the court is more likely to find a tenancy at will. The second one.
+Will: Right: the court is more likely to find a tenancy at will, outside the Act. Without the negotiations, an implied periodic tenancy may have arisen, and it would be protected.
+Hannah: And residential tenancies? Do I need those here?
+Will: Only a line. For residential tenancies in England, under the Renters' Rights Act, from 1 May 2026 private-sector assured tenancies are periodic and assured shorthold tenancies are abolished, so fixed terms no longer end by effluxion. It is outside the business lease focus of this workshop.
+Hannah (summing up): So: if the Act protects the tenancy, it carries on after the term; if not, rent accepted may mean a periodic tenancy, but a new lease still being negotiated makes a tenancy at will more likely.
+Will: Right. Now, can a landlord use a break clause to get round that protection?
+## Block 2: Break clauses and protected tenancies
+Will: Break clauses and protected tenancies. The question is whether a landlord can use a break clause to end a lease that the 1954 Act protects.
+Hannah: I'd guess no, or the Act would be pointless.
+Will: Right, and here is the precise version. Even after its break, a landlord can end a protected tenancy only by a section 25 notice, by forfeiture, or by accepting a surrender.
+Hannah: Three routes, and the break is not one of them.
+Will: Yes. A landlord's break notice does not by itself end a protected tenancy: the landlord must also serve a section 25 notice and prove a statutory ground, such as redevelopment, which is often why a landlord's break is there. And here is a related point. Only a tenancy for a term of years certain can be contracted out. A fixed term with a break clause is still a term certain.
+Hannah: So a lease with a break can be contracted out?
+Will: Right, because it is still a term certain. A periodic tenancy cannot be contracted out.
+Hannah: And how strictly is a break clause applied?
+Will: Very strictly. A break clause lets one or both parties end the lease early by notice, on a date the clause fixes, and time is of the essence.
+Hannah: So what exactly must be complied with?
+Will: Every requirement of the clause, strictly. Four things about the notice: its timing, its form, its service and the parties. And every precondition, such as paying the rent or giving vacant possession.
+Hannah: So one slip in the notice and the break fails?
+Will: Not necessarily. The notice's wording is read as a reasonable recipient would understand it, so an obvious slip, such as a wrong date, need not invalidate it. But a requirement or condition that isn't met, such as rent left unpaid or the premises not vacated, defeats the break.
+Hannah (summing up): Break clauses, then: even after its break, a landlord can end a protected tenancy only by a section 25 notice, forfeiture or accepting a surrender.
+Will: Right. Which brings us to notice, and what it does to a periodic tenancy.
+## Block 3: Notice to quit
+Will: Notice to quit. How is a periodic tenancy ended by notice, and what changes when the Act protects it?
+Hannah: Same question as before: does the Act protect it?
+Will: Yes, ask that first. If not, a notice to quit of the right length, expiring at the end of a period, ends it. A periodic tenancy does not end by effluxion; it ends by notice to quit.
+Hannah: And the right length?
+Will: Unless the lease says otherwise, there are two cases. A yearly tenancy needs at least half a year's notice, expiring at the end of a completed year.
+Hannah: And the others?
+Will: Other periodic tenancies, such as weekly, monthly or quarterly, need at least one full period's notice, expiring at the end of a period.
+Hannah (wary): So a monthly tenant needs at least a full month's notice, ending at the end of one of its monthly periods. Not part-way through a period.
+Will: Right: at least one full period, expiring at the end of a period. Now the protected case. A landlord's notice to quit is ineffective, and relying on the expiry date is ineffective too. The landlord needs a section 25 notice instead, or forfeiture, or an accepted surrender.
+Hannah: What goes into a section 25 notice?
+Will: Three conditions, and all three are needed. One, it must be in the prescribed form. Two, it must be given by the competent landlord.
+Hannah: And the third?
+Will: Three, it must specify a termination date. That date must be not less than 6 nor more than 12 months after the notice is given, and not earlier than the date the tenancy could end at common law.
+Hannah: Which is?
+Will: The contractual expiry date. For a periodic tenancy, the earliest date a notice to quit could end it. And the notice can be served during the continuation, but the date must still be 6 to 12 months ahead.
+Hannah (groaning): So you can't just serve it and shorten the wait.
+Will: Right, you can't. Then there are two kinds of notice. A hostile one, which opposes renewal, must state which grounds the landlord relies on, and it cannot add or change grounds later.
+Hannah: And a friendly one?
+Will: A non-hostile notice must set out the landlord's proposals for the new tenancy: the property, the rent and the other terms.
+Hannah: Now the tenant's side.
+Will: A tenant under a protected tenancy for a term of years certain, not the periodic tenancy we are discussing, has three routes. One, cease business occupation before the contractual expiry date. Two, serve at least 3 months' written notice before the contractual expiry date. Three, once the tenancy is continuing, serve at least 3 months' written notice ending on any day.
+Hannah (thoughtful): And the tenant can also ask for a new tenancy.
+Will: That is the section 26 request, with a limit. A tenant may serve one only if its tenancy was granted for a fixed term of more than one year. Not periodic tenants, and not terms of one year or less.
+Hannah: Any time?
+Will: No. It cannot serve one if the landlord has already served a section 25 notice, or the tenant has served a section 27 notice.
+Hannah (summing up): So: an unprotected periodic tenancy ends by notice to quit of the right length, expiring at the end of a period; a protected one needs a section 25 notice, and a landlord's notice to quit does nothing.
+Will: Right. And the other way a lease can end: the tenant hands it back.
+## Block 4: Surrender
+Will: Surrender. How does a lease end by surrender, and does the Act change anything?
+Hannah: First, what is a surrender?
+Will: The tenant gives up the lease to its immediate landlord, who accepts it, and the lease is absorbed by the reversion and ends. It needs both parties' agreement: a landlord can't be forced to accept a surrender. Contrast a break clause, which one party exercises on its own.
+Hannah: Does the Act stop a landlord accepting a surrender?
+Will: No. A landlord can end even a protected tenancy by accepting a surrender. But there is a catch. An agreement to surrender it in advance is void unless the contracting-out procedure is followed.
+Hannah: Give me an example of an agreement in advance.
+Will: An offer-back clause, say, or an agreement to surrender at a future date. The procedure has two parts. The landlord serves a warning notice at least 14 days before the tenant becomes bound.
+Hannah: And the second part?
+Will: The tenant makes a simple declaration. If it is served less than 14 days before, the tenant makes a statutory declaration instead. Without the procedure, the agreement is void.
+Hannah: So what if they just do it on the day?
+Will: That is the look-alike. An immediate surrender by deed, with no prior binding agreement, needs no procedure. What tells them apart is whether there was a binding agreement to surrender before the surrender itself.
+Hannah (summing up): So promising to surrender a protected lease later is void unless the procedure is followed, but handing it back by deed on the spot, with no earlier binding promise, needs none.
+Will: Right. Next, registration. Surrender of a registered lease is completed by an application to HM Land Registry, to close the leasehold title and cancel the notice of the lease on the landlord's title.
+Hannah: So handing back the keys is not the end.
+Will: Right, and not just for a registered lease. Handing back the keys does not by itself surrender any lease. An express surrender must be made by deed to be effective at law, and a contract to surrender must be in writing, contain all the expressly agreed terms and be signed by or for each party.
+Hannah: Is there any way to surrender a lease without a deed?
+Will: Yes: surrender by operation of law, which works by estoppel. Simply accepting the keys, securing the premises with new locks or marketing them is not enough. Both sides' conduct must be unequivocally inconsistent with the lease continuing: typically the tenant gives up possession and the landlord takes it back, for example by re-letting to a new tenant or occupying the premises itself.
+Hannah: And once a lease is surrendered, is the tenant free of everything?
+Will: Only of the future. The tenant and any guarantor are released from future obligations. But they stay liable for breaches before the surrender, unless the deed of surrender releases them. In practice, a deed of surrender usually contains mutual releases. Next, a different way a lease can disappear: merger.
+## Block 5: Merger; holding over by a protected tenant
+Will: Merger, and holding over by a protected tenant. When does a lease merge into the reversion, and what can a protected tenant defeat by staying on?
+Hannah: What decides whether a lease merges?
+Will: In equity, merger turns on intention. If the tenant shows an intention to keep the lease alive, for example to preserve the leasehold title or the covenants, the lease does not merge. And no merger is presumed where it would be against the person's interest.
+Hannah: And what does a merger need in the first place?
+Will: Both interests must be held by the same person in the same capacity, so not one as a trustee and the other beneficially, and the reversion acquired must be the one immediately above the lease, with no intervening estate.
+Hannah: And on registered land?
+Will: The leasehold title is closed only on application.
+Hannah: Now the protected tenant.
+Will: If a protected tenant stays on, it defeats expiry and a landlord's notice to quit. Its tenancy continues on the same terms after the contractual expiry until it is ended under the Act. The rent stays at the passing rent, unless an interim rent is fixed.
+Hannah: So staying put is a defence.
+Will: Yes: against expiry and against a landlord's notice to quit. The tenancy carries on until it is ended under the Act.
+Hannah (summing up): Merger turns on intention, so a tenant who shows it intends to keep the lease alive prevents merger; and a protected tenant who stays on defeats expiry and a notice to quit, because the tenancy continues on the same terms until ended under the Act.
+Will: Right. That finishes ways of ending a lease. Now what a landlord can do about a tenant who has not paid or has broken the lease, short of forfeiture.
+## Block 6: Landlord's remedies: damages and action in debt
+Will: Landlord's remedies: damages and action in debt. What can a landlord claim as damages or as a debt, and from whom?
+Hannah: The debt first, I suppose. Unpaid rent.
+Will: Right. Unpaid rent and other sums reserved in the lease are recoverable as a debt by court proceedings, often with summary judgment. The limitation period is 6 years from each payment falling due.
+Hannah: Each payment, not the first one.
+Will: Each payment has its own 6 years from the day it falls due. Now the person being sued. The current tenant needs no special notice.
+Hannah (suspicious): So former tenants are different?
+Will: Yes. A former tenant, or a former tenant's guarantor, can be sued in debt only if a section 17 notice was served within 6 months of the sum falling due.
+Hannah: So the section 17 notice is the test.
+Will: Yes: ask whether the notice was in time. Without it, the former tenant or its guarantor cannot be sued in debt for that sum.
+Hannah: Let me check I have the look-alike. Current tenant, no notice. Former tenant or its guarantor, a notice within 6 months.
+Will: Right. What tells them apart is whether the person is still the tenant.
+Hannah: Can the landlord add interest to late rent?
+Will: Only if the lease provides for it, commonly a stated percentage above base rate from the due date. Otherwise there is no right to interest: the late payment legislation for commercial debts covers only contracts for the supply of goods or services, and the court merely has a discretion to award simple interest in proceedings.
+Hannah: And damages for the tenant's other breaches, such as of the user or alienation covenants?
+Will: Those are assessed on ordinary contract principles: the loss to the reversion caused by the breach. The cap on damages that we come to under repairs applies only to repair.
+Hannah (summing up): So rent arrears are recoverable as a debt for 6 years from each payment falling due, but from a former tenant or its guarantor only if a section 17 notice was served within 6 months of the sum falling due.
+Will: Right. There is also a route where the debt is undisputed: insolvency. Two options.
+Hannah: Go on.
+Will: A statutory demand followed by a winding-up petition for a company owing a debt exceeding £750. Or a bankruptcy petition against an individual owing at least £5,000, which is the bankruptcy level.
+Hannah: And if the tenant is already insolvent?
+Will: If the tenant enters administration, the moratorium stops proceedings and forfeiture, including peaceable re-entry, without the administrator's consent or the court's permission. Once a winding-up order is made, proceedings need the court's permission.
+Hannah (groaning): So insolvency can freeze the other remedies.
+Will: Yes, it can. Next, who else might pay.
+## Block 7: Guarantor and rent deposit
+Will: Guarantors and rent deposits. When can a landlord turn to a guarantor or a rent deposit for the tenant's arrears?
+Hannah: Guarantor first. How far is a guarantor liable?
+Will: Usually in two ways: as guarantor, that the tenant will pay and perform, and under an indemnity, which is primary liability. So once the tenant defaults, the landlord can go straight to the guarantor; it need not sue the tenant first. A well-drafted guarantee also obliges the guarantor to take a new lease if the lease is disclaimed on the tenant's insolvency, and disclaimer does not itself release the guarantor.
+Hannah: And when is the guarantor released?
+Will: A guarantor of a tenant of a new lease is released when the tenant is released on lawful assignment. A guarantor is also released if the lease is varied, or the tenant is given time, without the guarantor's consent, unless the variation is plainly insubstantial or the guarantee says the guarantor is not released by such things, as most do. And a former tenant's guarantor is not liable for any increase from a later variation that the landlord had an absolute right to refuse. For the guarantor of a former tenant, recovery needs a section 17 notice within 6 months.
+Hannah: That's the same notice as before.
+Will: Yes, the same trap. Now the deposit. Under a rent deposit deed, the landlord holds a sum and may draw on it to meet arrears or other defaults, without court proceedings.
+Hannah: Without going to court. That sounds useful.
+Will: It is. The tenant must top it up. And it is returned at the end of the term, on lawful assignment, or when the tenant meets agreed financial tests. The amount is a look-up detail, so I will leave it in the guide.
+Hannah: What about insolvency?
+Will: Two protections. A deposit charged to the landlord protects the landlord on the tenant's insolvency, and such a charge is not registrable at Companies House. And holding the money in a separate account on trust for the tenant protects the tenant if the landlord becomes insolvent.
+Hannah (summing up): A guarantor of a new lease goes when the tenant is released on lawful assignment; the guarantor of a former tenant needs a section 17 notice within 6 months; and a deposit lets the landlord draw without court proceedings.
+Will: Right. Now a remedy that skips the court entirely: taking the tenant's goods.
+## Block 8: Commercial Rent Arrears Recovery (CRAR)
+Will: CRAR, commercial rent arrears recovery. When can a landlord take the tenant's goods for rent arrears, and what must happen first?
+Hannah: Which leases can it be used under?
+Will: Only a lease of commercial premises that is evidenced in writing.
+Hannah: What if the premises include a flat?
+Will: Then CRAR is excluded. It can't be used if any part of the premises is let as a dwelling under the lease or an underlease, or is occupied as a dwelling. So a mixed-use letting is excluded. The exception is where the underletting or the occupation is in breach of the lease or a superior lease.
+Hannah: And what can it recover?
+Will: Ask first what is owed. CRAR recovers only principal rent, which is rent for possession and use of the premises, plus VAT and interest on it. It cannot be used for service charge, insurance rent or rates, even if reserved as rent.
+Hannah (wary): Even if the lease calls them rent.
+Will: Even then. Next, how much must be unpaid. At least 7 days' rent must be unpaid, both when the notice of enforcement is given and when goods are taken.
+Hannah: Seven days overdue, you mean.
+Will: That is the trap. The test is an amount, not lateness. It is not that the rent is 7 clear days overdue; it is that at least 7 days' rent is unpaid at both moments.
+Hannah (thinking aloud): So two moments: when the notice is given, and when the goods are taken.
+Will: Right. Then the notice itself. A certificated enforcement agent must give the tenant at least 14 clear days' notice of enforcement before taking control of goods. That has been the position since 1 May 2026; before then it was 7 clear days. And there must be further notice before any sale.
+Hannah: Any way that gets longer?
+Will: Yes. If a debt advice provider asks on the tenant's behalf before that notice period expires, the minimum becomes 28 clear days. But this extension does not apply to non-eligible business debt.
+Hannah: And how are the days counted? Any way it gets shorter?
+Will: The court may order a shorter period, if the goods would otherwise be likely to be moved or disposed of to avoid being taken. And in counting clear days, Sundays, bank holidays, Good Friday and Christmas Day do not count.
+Hannah: That's a lot of detail. Give me a scenario.
+Will (brisk): Tomas lets a unit at Wren Court to a company, and the company owes only service charge and insurance rent, which the lease reserves as rent. Tomas wants to use CRAR. The test is what CRAR can recover.
+Hannah: So: yes, because the lease reserves them as rent; no, because CRAR recovers only principal rent; or yes, if at least 7 days' rent is unpaid?
+Hannah: <think>
+Hannah (thinking aloud): This is CRAR and which rent. Only principal rent, plus VAT and interest on it. Service charge and insurance rent are out, even if reserved as rent. So the second one.
+Will: Right: no. Calling them rent does not change it. The 7 days' rent test only matters once there is principal rent unpaid.
+Hannah: One more thing, though. What if the landlord would rather not take goods?
+Will: Instead of taking goods, the landlord may serve notice on any subtenant, requiring it to pay its rent direct to the landlord until the arrears are cleared. It takes effect after 14 clear days.
+Hannah (summing up): So CRAR recovers only principal rent with VAT and interest on it, at least 7 days' rent must be unpaid at both moments, and notice of enforcement must be at least 14 clear days since 1 May 2026.
+Will: Right. Now remedies that come from equity.
+## Block 9: Equitable remedies: specific performance and injunction
+Will: Equitable remedies: specific performance and injunctions. When will a court order a party to do, or to stop doing, something the lease requires?
+Hannah: Do and stop. Two different orders.
+Will: Yes, and the guide gives you the question to ask. Who wants the order, and would it make the other party do something or stop doing something?
+Hannah: So two kinds of order: one makes the other side do something, the other makes it stop.
+Will: Right. Take specific performance first. It is discretionary, and granted only where damages are inadequate. A tenant can obtain it against a landlord in breach of a repairing covenant, and residential tenants also have a statutory route to it.
+Hannah: And can a landlord get it against a tenant who won't repair?
+Will: Only in exceptional circumstances, for example where the lease has no forfeiture clause and no self-help clause for repairs, because the landlord normally has adequate remedies.
+Hannah: What if a tenant closes its shop despite a covenant to keep it open?
+Will: The court won't order a tenant to carry on a business, because that would need constant supervision, so the landlord gets damages. An injunction is the usual remedy to restrain a breach of a negative covenant, such as the user or alienation covenants.
+Hannah (summing up): So a tenant can get specific performance of the landlord's repairing covenant, but a landlord gets it against a tenant only exceptionally; a keep-open covenant brings damages, not an order; and an injunction restrains a breach of a negative covenant.
+Will: Right. That is the end of the remedies short of forfeiture. Now forfeiture itself.
+## Block 10: Forfeiture: the right, the procedure and waiver
+Will: Forfeiture: the right, the procedure and waiver. When can a landlord forfeit a lease, what must it do first, and how can it lose the right?
+Hannah: Where does a landlord start?
+Will: With the lease. Forfeiture is available only if the lease contains an express right of re-entry, a forfeiture clause. Forfeiting ends the lease, and with it any underleases and charges, subject to relief.
+Hannah: And if the lease has one?
+Will: Then ask whether the breach is non-payment of rent. If so, no section 146 notice is needed.
+Hannah: No notice at all?
+Will: No section 146 notice, but a formal demand is needed, unless the lease dispenses with it. The usual wording is "whether formally demanded or not".
+Hannah: And then how does the landlord get in?
+Will: By court proceedings or, for commercial premises with no one lawfully residing, by peaceable re-entry.
+Hannah: And for any other breach?
+Will: Any other breach needs a section 146 notice and a reasonable time to remedy before re-entry. Take it in time order. One, serve the notice specifying the breach. Two, it must require the breach to be remedied, if capable of remedy.
+Hannah: And the rest?
+Will: Three, it must require compensation, if the landlord wants it. Then four, allow a reasonable time to remedy. Five, re-enter, by court proceedings, or by peaceable re-entry for commercial premises with no one lawfully residing.
+Hannah: What is a reasonable time?
+Will: It depends on the breach. Where the breach is irremediable, a short period suffices.
+Hannah: Which breaches can be remedied?
+Will: Most breaches of positive covenants can, and so can many breaches of negative covenants, for example parting with or sharing possession without creating an interest. But a breach of a covenant against underletting, and very probably against assigning, is incapable of remedy. Illegal or immoral use can't be remedied either, because of the stigma it leaves, unless the tenant did not know of the use, as where an undertenant was responsible.
+Hannah: Let me do a pair. A shop where no one lives, a quarter's rent behind, lease dispenses with the formal demand.
+Will: Right: no section 146 notice, and the landlord may forfeit by court proceedings or by peaceable re-entry. Now the tenant breaches its user covenant instead.
+Hannah (thinking aloud): Then the section 146 notice, and a reasonable time to remedy before re-entering.
+Will: Yes. The deciding fact is whether the breach is non-payment of rent or a breach of another covenant.
+Hannah: Scenario time?
+Will (brisk): Priya's lease of a shop on Fenn Street, where no one lives upstairs, from Calder Holdings Ltd, has a forfeiture clause. Priya has paid the rent, but she has broken the covenant about how the shop may be used. Calder wants to re-enter. The test is what it must do first.
+Hannah: So: nothing, it can re-enter at once; a formal demand for rent; or a section 146 notice and a reasonable time to remedy?
+Hannah: <think>
+Hannah (thinking aloud): This is forfeiture, rent or another breach. It is a user covenant, not rent, so no formal demand matters here. It needs the section 146 notice and a reasonable time before re-entry. The third.
+Will: Right: a section 146 notice specifying the breach, remedy if capable, compensation if Calder wants it, then a reasonable time to remedy before re-entering.
+Hannah: And electing to forfeit, and waiver?
+Will: The landlord elects to forfeit in one of two ways: by serving proceedings claiming possession, since issuing them is not enough, or by peaceable re-entry. The lease is forfeited then, subject to relief. The election is final, so later acts such as demanding or accepting rent cannot waive it. For the period after forfeiture, the landlord claims mesne profits, not rent.
+Hannah: So how can a landlord lose the right to forfeit before it elects?
+Will: By waiver. If it knows the facts of a breach and does an unequivocal act recognising the lease as continuing, for example demanding or accepting rent due after the breach, even 'without prejudice', it waives the right to forfeit for that breach. But for a continuing breach, such as disrepair or a breach of the user covenant, the right arises afresh each day, so waiver covers only the past.
+Hannah (summing up): For rent, no section 146 notice, but a formal demand unless the lease dispenses with it; for any other breach, a section 146 notice and a reasonable time to remedy before re-entry.
+Will: Right. And once a lease is forfeited, can the tenant get it back?
+## Block 11: Relief from forfeiture
+Will: Relief from forfeiture. When can a tenant get a forfeited lease back?
+Hannah: Is relief hard to get?
+Will: For rent arrears, it is the opposite: relief is generous. Ask how the landlord forfeited, and when the tenant pays everything owed. Three routes: the county court, the High Court, or peaceable re-entry.
+Hannah: County court first.
+Will: In county court proceedings, the action ceases if the tenant pays all the arrears and costs into court, or to the landlord, not less than 5 clear days before the return day.
+Hannah: And peaceable re-entry?
+Will: After peaceable re-entry, the tenant may apply for relief, usually within 6 months of re-entry. It is normally granted relief on paying arrears and costs.
+Hannah: High Court?
+Will: There, where at least 6 months' rent is in arrear, the proceedings are stayed if the tenant pays all the arrears and costs before trial. Otherwise the court has an equitable discretion to grant relief, normally on payment of arrears and costs.
+Hannah (thinking aloud): So in the High Court: at least 6 months' rent in arrear and everything paid before trial, and the proceedings are stayed; otherwise it's the court's discretion.
+Will: Right. And across all three: relief for non-payment of rent is almost always granted where the tenant pays.
+Hannah (summing up): Relief for rent arrears is generous: it depends on whether the landlord forfeited in the county court, in the High Court or by peaceable re-entry, and on the tenant paying all the arrears and costs in time.
+Will: Right. Now relief for other breaches. The tenant may apply for relief while the landlord is proceeding to enforce its right, including after a peaceable re-entry, but not after the landlord has re-entered under a court order.
+Hannah: And undertenants and lenders?
+Will: Undertenants and mortgagees may apply for a vesting order of a new lease, and we pick up the undertenant at the end. Now repairs.
+## Block 12: Breach of a repairing covenant
+Will: Breach of a repairing covenant. What can a landlord do about a tenant's disrepair, during the lease and when it ends?
+Hannah: What about during the term?
+Will: Ask whether the lease was granted for 7 years or more and has 3 years or more unexpired. Both are needed. If so, the Leasehold Property (Repairs) Act 1938 applies.
+Hannah: And what does it do?
+Will: The section 146 notice must tell the tenant of its right to serve a counter-notice within 28 days. If the tenant serves one, the landlord needs leave of the court to forfeit or claim damages.
+Hannah: So damages too, not just forfeiture.
+Will: Yes. During the term, a damages claim for breach of a repairing covenant in a lease of that kind needs the same notice; and if the tenant serves a counter-notice, the landlord needs the court's leave.
+Hannah: Show me the difference with a pair.
+Will: Let me give you a pair. A 10-year lease with five years left, and the tenant is in breach of the repairing covenant.
+Hannah (thinking aloud): Seven years or more granted, and three or more unexpired. So the notice must tell the tenant about the counter-notice, and if one comes, the landlord needs leave.
+Will: Right. Now the same lease with two years left.
+Hannah: Fewer than three unexpired, so the Act doesn't apply. No counter-notice, no leave.
+Will: Right, but to forfeit the landlord must still serve a section 146 notice and allow a reasonable time to remedy. The deciding fact is whether the lease was granted for 7 years or more and has 3 years or more unexpired.
+Hannah: Scenario?
+Will (brisk): Imran's landlord, Rook Estates Ltd, wants to forfeit a lease of a unit at Albion Mews for breach of the repairing covenant. The test is what the section 146 notice must say. The lease was granted for 10 years, and 5 years are left.
+Hannah: So: only the breach and a reasonable time; the breach plus the tenant's right to serve a counter-notice within 28 days; or that the landlord must ask the court first?
+Hannah: <think>
+Hannah (thinking aloud): This is the repairs Act. Ten years granted, five unexpired, so both limits are met. So the notice has to carry the warning about the counter-notice. The second.
+Will: Right: within 28 days. And if Imran serves one, Rook cannot forfeit or claim damages without the court's leave.
+Hannah (summing up): So the Act bites only on a lease granted for 7 years or more with 3 years or more unexpired: the notice must flag the 28-day counter-notice, and once the tenant serves one, the landlord needs the court's leave to forfeit or claim damages.
+Will: Right. Now the measure of damages. Damages for breach of the tenant's repairing covenant are capped at the diminution in value of the landlord's reversion, and nothing is recoverable if the premises are to be demolished, or structurally altered so that the repairs would be valueless, at or shortly after the end of the term.
+Hannah: What can the landlord do about disrepair once the lease has ended?
+Will: It cannot forfeit then. Its remedy is a terminal dilapidations claim for damages, with the same cap, and nil if it will demolish or make structural alterations that make the repairs valueless. That claim follows the dilapidations pre-action protocol: a schedule of dilapidations, a quantified demand, the tenant's response, and a valuation of the diminution.
+Hannah: And what does a self-help clause add?
+Will: A Jervis v Harris clause lets the landlord, after notice, enter and carry out the repairs the tenant has failed to do, and recover the cost from the tenant as a debt. Because that is a debt, not damages, neither the cap on damages nor the 1938 Act's leave requirement applies. Now how a landlord picks between all of this.
+## Block 13: Landlord's strategy: choosing a remedy
+Will: Landlord's strategy: choosing a remedy. How does a landlord choose between its remedies, such as CRAR and forfeiture?
+Hannah: So which one first?
+Will: The guide's first question is whether the landlord wants to keep the lease. Forfeiture ends it, though relief may bring it back.
+Hannah: Subject to relief, so the tenant might get it back.
+Will: Yes. And that question settles CRAR against forfeiture. Using CRAR affirms the lease, so it is inconsistent with forfeiture: once the landlord forfeits, it cannot use CRAR, and taking control of goods may waive its right to forfeit for the arrears. So the landlord must choose.
+Hannah (summing up): Start by asking whether the landlord wants the lease to survive, since forfeiture ends it, subject to relief.
+Will: Right. Next, a short topic about dates.
+## Block 14: Calculating the contractual expiry date
+Will: Calculating the contractual expiry date. On what date does a lease term end?
+Hannah: Doesn't ten years from a date just end ten years later?
+Will: Not always. It depends on the words. Ask exactly how the lease words the start of the term before working out its last day.
+Hannah: Go on.
+Will: A term granted "from" a date excludes that day. So it starts the next day and ends on the anniversary. Say 10 years from 12 June ends on 12 June, ten years on.
+Hannah: And the other wording?
+Will: A term "from and including", or "beginning with", a date includes that day. So it ends on the day before the anniversary. Ten years from and including 12 June ends on 11 June.
+Hannah (thinking aloud): One day apart, from one word.
+Will: Yes. And it is only a presumption of construction. Clear wording in the lease can displace it.
+Hannah (summing up): A term "from" a date ends on the anniversary; "from and including" ends the day before; and clear wording in the lease can displace either presumption.
+Will: Right. Last topic: the sublease.
+## Block 15: Effect of surrender and forfeiture on a sublease
+Will: The effect on a sublease. What happens to an underlease when the head lease ends?
+Hannah: Does it depend on how it ended?
+Will: Ask first how the head lease ended: by surrender, by merger or by forfeiture. For forfeiture, the guide has a trap. People say forfeiture of the head lease extinguishes the sublease.
+Hannah: And it doesn't?
+Will: It does end it: forfeiture of the head lease ends the underlease too. The trap is stopping there. The undertenant may apply for relief, and then the court may vest the premises in it, for a term no longer than the underlease.
+Hannah (thinking aloud): So the undertenant can apply, and a term no longer than the underlease it already had.
+Will: Right. That is the section 146 power.
+Hannah: And if the head lease ends by surrender or merger instead?
+Will: Then the underlease survives. On a surrender, the undertenant becomes the head landlord's direct tenant, on the terms of the underlease. On a merger, the same: the undertenant holds directly from the owner of the merged interest, on the underlease terms.
+Hannah (summing up): So surrender or merger leaves the sublease in place, with the undertenant holding directly from the landlord above on the underlease terms; forfeiture ends it, but the undertenant can apply for relief and be given a new term, no longer than the underlease.
+Will: Right. That is lease termination.
+## Recap
+Hannah: So what decides most questions on ending a lease?
+Will: Ask first whether the 1954 Act protects the tenancy, because then it ends only in a way the Act allows; and a landlord choosing a remedy asks whether it wants to keep the lease, because forfeiture ends it, and any underlease, subject to relief.
