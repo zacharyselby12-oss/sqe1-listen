@@ -15,6 +15,7 @@ import io
 import json
 import math
 import os
+import re
 import struct
 import subprocess
 import sys
@@ -286,20 +287,77 @@ def _line_content(t):
     return [item]
 
 
-THINK_GAP = 6.0      # seconds of real silence for a <think> turn (podcast spec v2 think-gaps)
+THINK_GAP = 6.0      # seconds a <think> turn with no kind adds (podcast spec v2 think-gaps): the chime and then silence, as long as before
+# (BUILD-ADDENDUM §56.2, decision 139, tracker b201) a thinking pause's length by the kind the script marks in the turn's style
+# ("Will (scenario pause): <think>"): the seconds it adds, chime included. The voices' own edges add about half a second, so the pauses
+# heard come to about 9 s for a scenario, 13-14 s for a calculation, 6 s in the quick-fire round and 6.5-7 s unmarked (as measured
+# before this change, when every gap was THINK_GAP).
+THINK_KIND_GAP = {"scenario": 8.4, "calculation": 12.9, "quick-fire": 5.4}
+CHIME_SEC = 0.6      # the soft chime that starts every thinking pause (made here with ffmpeg: no outside audio)
+CHIME_PEAK = 0.10    # of full scale: well below the voices (their peaks run at about 0.5-0.9 before loudness normalising)
+
+
+def pause_kind(style):
+    """'quick-fire', 'calculation', 'scenario' or None, from a <think> turn's style ("Will (calculation pause): <think>").
+    The word 'pause' is required; then quick-fire, calculation, scenario, in that order; any case; 'calc', 'quickfire', 'quick fire'.
+    The same rule as the pipeline kit's check (tools/check_script_v23.py style_kind, b210): a script that passes it renders with its
+    kind, and the kit's test checks the two agree."""
+    s = re.sub(r"[\s_-]+", " ", (style or "").lower())
+    if not re.search(r"\bpause\b", s):
+        return None
+    if re.search(r"\bquick ?fire\b", s):
+        return "quick-fire"
+    if re.search(r"\bcalc(?:ulation)?s?\b", s):
+        return "calculation"
+    if re.search(r"\bscenarios?\b", s):
+        return "scenario"
+    return None
+
+
+_CHIME = []
+
+
+def chime():
+    """PCM (mono 16-bit 24 kHz) of a short, soft two-tone chime, made once with ffmpeg's sine source. If ffmpeg can't make it,
+    the pause starts with the same length of silence instead: a render never fails for the chime."""
+    if _CHIME:
+        return _CHIME[0]
+    n = int(RATE * CHIME_SEC)
+    try:
+        cmd = ["ffmpeg", "-loglevel", "error", "-f", "lavfi", "-i", "sine=frequency=880:sample_rate=%d:duration=%s" % (RATE, CHIME_SEC),
+               "-f", "lavfi", "-i", "sine=frequency=1320:sample_rate=%d:duration=%s" % (RATE, CHIME_SEC),
+               "-filter_complex", "[0][1]amix=inputs=2:normalize=1,afade=t=in:d=0.01,afade=t=out:st=0.05:d=%s:curve=exp" % (CHIME_SEC - 0.05),
+               "-ac", "1", "-ar", str(RATE), "-f", "s16le", "-"]
+        pcm = subprocess.run(cmd, capture_output=True, check=True, timeout=60).stdout
+        pcm = (pcm + silence(CHIME_SEC))[: n * 2]
+        v = struct.unpack("<%dh" % n, pcm)
+        top = max(abs(x) for x in v) or 1
+        k = CHIME_PEAK * 32767 / top          # set the level here, not by ffmpeg's defaults
+        pcm = struct.pack("<%dh" % n, *(int(round(x * k)) for x in v))
+    except Exception:
+        pcm = silence(CHIME_SEC)
+    _CHIME.append(pcm)
+    return pcm
+
+
+def think_audio(turn):
+    """The audio for one <think> turn: the chime, then silence, together as long as its kind asks (an unmarked one: THINK_GAP)."""
+    return chime() + silence(THINK_KIND_GAP.get(pause_kind(turn.get("style")), THINK_GAP) - CHIME_SEC)
 
 
 def render_pcm(turns, voices, fake=False, log=print):
     """Return PCM bytes (mono 16-bit 24 kHz) for the turns.
 
-    A turn whose whole text is <think> becomes THINK_GAP seconds of silence (spec v2 think-gaps): the turns
-    either side are rendered as separate pieces. Scripts without <think> are rendered exactly as before."""
+    A turn whose whole text is <think> becomes a thinking pause (spec v2 think-gaps; §56.2): a soft chime, then silence whose length
+    follows the kind marked in the turn's style (think_audio). The turns either side are rendered as separate pieces. Scripts without
+    <think> are rendered exactly as before."""
     if not any(t["text"].strip().lower() == "<think>" for t in turns):
         return _render_pcm_turns(turns, voices, fake=fake, log=log)
-    pieces, cur = [], []
+    pieces, gaps, cur = [], [], []
     for t in turns:
         if t["text"].strip().lower() == "<think>":
             pieces.append(cur)
+            gaps.append(t)
             cur = []
         else:
             cur.append(t)
@@ -310,7 +368,7 @@ def render_pcm(turns, voices, fake=False, log=print):
             log("  piece %d/%d (%d turns)" % (k + 1, len(pieces), len(piece)))
             out.append(_render_pcm_turns(piece, voices, fake=fake, log=log))
         if k < len(pieces) - 1:
-            out.append(silence(THINK_GAP))
+            out.append(think_audio(gaps[k]))
     return b"".join(out)
 
 
