@@ -1,0 +1,228 @@
+---
+id: tort-ws07-rev-v1
+unit: u-bpp-Tort-07
+guide_hash: bdc1925360
+made: 2026-11-11T12:43:19+00:00
+kind: revision
+title: Tort WS07 · Revision · 14 min
+map:
+- Pure economic loss: what it is, and the general rule
+- Exceptions: wills and references
+- Negligent statements: Hedley Byrne, reliance and disclaimers
+recap:
+- Loss flowing from physical damage to the claimant's own person or property is consequential and recoverable; pure economic loss from a negligent act has, as a general rule, no duty.
+- A solicitor's negligent will-making owes the beneficiary who loses the legacy a duty without reliance, and an employer owes the employee a duty over a reference.
+- Careless advice creates a duty for pure economic loss where the maker assumed responsibility and the claimant reasonably relied; a clear disclaimer can stop that, but statute controls it.
+summary: Pure economic loss from a negligent act is not recoverable as a general rule, so a duty needs a recognised exception or an assumption of responsibility on which the claimant reasonably relied.
+invented:
+- Priya
+guide_only: []
+---
+
+## Map
+
+Will: Today's big question is this: when can you recover purely financial loss that someone's carelessness caused? There are three areas. First, what pure economic loss is, and the general rule. Second, the exceptions for wills and references. Third, negligent statements: when careless advice creates a duty, and whether a disclaimer can stop it.
+
+Hannah: So where do we begin: with what makes a loss pure economic loss?
+
+## Block 1: Pure economic loss: what it is, and the general rule
+
+Will: Yes. Now, pure economic loss and the general rule: what makes a loss pure economic loss, and can it be recovered when a negligent act causes it? Start by asking whether the loss flows from physical damage to the claimant's own person or property.
+
+Hannah: And if it does flow from that damage?
+
+Will: Then it's consequential economic loss, and it's recoverable in the ordinary way. If it doesn't, it's pure economic loss: financial loss that does not flow from that kind of damage.
+
+Hannah: Can you give me a pair, so I can hear the difference?
+
+Will: If a fire destroys your machine, the profit you lose because the machine is gone is consequential. If someone else's cable is cut and your factory stops, the profit you lose is pure.
+
+Hannah: So what's the general rule when a negligent act causes pure economic loss?
+
+Will: As a general rule, no duty is owed for it. In Spartan Steel, the claimant recovered for the damaged melt and the profit on it, which was consequential. But it did not recover the profit lost on melts it couldn't process during the power cut, which was pure, because the cable wasn't the claimant's.
+
+Hannah: What if the loss comes from damage to someone else's property?
+
+Will: Then a claimant cannot recover loss caused by damage to property owned by a third party. He must have had legal ownership of, or a possessory title to, the property when it was damaged. Contractual rights or risk alone are not enough.
+
+Hannah: And what about someone who owns the property only as a beneficial owner?
+
+Will: A beneficial owner may also recover, provided the legal owner is joined in the proceedings.
+
+Hannah: What about a defect in a product or a building?
+
+Will: A defect that has not caused damage to other property or injury is pure economic loss. So the cost of repair, replacement or the drop in value is not recoverable in negligence, whether against the builder or the local authority.
+
+Hannah: Is a builder ever liable for the defect, then?
+
+Will: Yes, but outside negligence. A builder of a dwelling owes a statutory duty to see that the work is done in a workmanlike or professional manner, with proper materials, so that the dwelling is fit for habitation when completed. That duty allows recovery of pure economic loss.
+
+Hannah: Does pure economic loss share its approach with any other kind of harm?
+
+Will: Yes, psychiatric harm to secondary victims. Pure economic loss and that psychiatric harm are governed by special duty rules, not ordinary foreseeability: assumption of responsibility for the first, and the Alcock control mechanisms for the second. A primary victim within the range of foreseeable physical injury recovers for a recognised psychiatric illness without proof that psychiatric harm was foreseeable. Psychiatric harm has its own rules, in its own workshop.
+
+Hannah (summing up): Loss flowing from physical damage to the claimant's own person or property is consequential and recoverable; pure economic loss from a negligent act has, as a general rule, no duty.
+
+Will: Yes: consequential loss is recoverable in the ordinary way, and pure economic loss from a negligent act gets no duty as a general rule.
+
+## Block 2: Exceptions: wills and references
+
+Hannah: Before the exceptions, a question on the general rule. Priya loses a legacy because her aunt's solicitor negligently failed to execute the will properly, and she never relied on him for anything. Her loss is pure economic loss, so why doesn't the general rule defeat her claim?
+
+Will (scenario pause): <think>
+
+Will: Because a disappointed beneficiary is a recognised exception to the general rule: the solicitor owes her a duty for the lost legacy even though she didn't rely on him. The tempting answer is that the general rule leaves her with no duty, but that misses the exception for an intended beneficiary who loses the legacy.
+
+Hannah: So is it the exception that carries her claim, with no reliance needed?
+
+Will: Yes, the exception carries it. Now, the exceptions for wills and references: who, other than the person who relied on the advice, can be owed a duty for pure economic loss? Ask who the claimant is.
+
+Hannah: Who is the first claimant who gets a duty without relying on anyone?
+
+Will: The disappointed beneficiary. A solicitor who negligently fails to prepare or execute a will properly owes a duty to an intended beneficiary who loses the legacy, even though there is no reliance by the beneficiary. That's the contrast with ordinary advice cases, where the claimant must have relied.
+
+Hannah: What if a solicitor realises he has made a mistake in his own work?
+
+Will: If the mistake may give a current client a negligence claim, he must tell the client promptly and openly, and put matters right if possible.
+
+Hannah: And what if his own interest now conflicts with the client's?
+
+Will: Then he must not continue acting, for example by advising on a claim against himself.
+
+Hannah: And what duty does an employer owe when giving a reference?
+
+Will: An employer giving a reference about an employee owes a duty of care to the employee who is the subject of the reference.
+
+Hannah (summing up): A solicitor's negligent will-making owes the beneficiary who loses the legacy a duty without reliance, and an employer owes the employee a duty over a reference.
+
+Will: Yes: no reliance is needed for the beneficiary, and the reference duty runs to the employee it is about.
+
+## Block 3: Negligent statements: Hedley Byrne, reliance and disclaimers
+
+Hannah: Before negligent statements, a question on the exceptions. An employer carelessly gives a reference about an employee, who loses a job offer because of it. Does the employee have to show he relied on the reference to be owed a duty?
+
+Will (scenario pause): <think>
+
+Will: No, he doesn't. The employer owes a duty of care to the employee who is the subject of the reference, whether or not he relied on it. The tempting answer is that he must have relied, as with ordinary advice, but he is the person the reference is about, not the person who acted on it.
+
+Hannah: Yes: the duty runs to the subject of the reference, so his reliance isn't what decides it.
+
+Will: Now, negligent statements under Hedley Byrne: when does careless advice create a duty for the financial loss it causes, and can a disclaimer stop it? First ask what the statement caused.
+
+Hannah: Why does that come first?
+
+Will: Because the special-relationship requirements apply only to pure economic loss. Where a negligent statement causes personal injury or damage to property, the ordinary duty of care principles apply.
+
+Hannah: So what creates the duty for pure economic loss?
+
+Will: A special relationship. The defendant voluntarily assumed responsibility for the statement, knowing, or when he ought to have known, that the claimant would rely on it.
+
+Hannah: And what must the claimant show?
+
+Will: That he reasonably relied on it.
+
+Hannah: Is any reliance enough, or does it have to be reasonable?
+
+Will: Reliance must be both actual and reasonable. No duty arises from informal advice on a social occasion, unless the adviser knows the matter is serious and that the claimant will rely on his considered advice, for example a friend acting as agent who claims expertise.
+
+Hannah: Does this cover only statements?
+
+Will: No, assumption of responsibility extends to the negligent performance of services, not only statements. And a professional can be liable concurrently in contract and tort to its client.
+
+Hannah: What if the statement reaches someone the maker wasn't advising directly?
+
+Will: A statement that reaches a third party has its own test, with two conditions. One: the maker knew the statement would be communicated to the claimant, individually or as a member of an identifiable class, specifically in connection with a particular transaction or kind of transaction.
+
+Hannah: And the second condition?
+
+Will: Two: the maker also knew that the claimant would be very likely to rely on it without independent inquiry in deciding whether to enter that transaction. Without both, there is no duty.
+
+Hannah: Does that mean a lender's valuer is liable to the buyer?
+
+Will: A valuer instructed by a mortgage lender owes a duty to a purchaser of a modest residential property who it knows will rely on the valuation without an independent survey.
+
+Hannah: And what about a company's auditors and an investor?
+
+Will: Statutory auditors owe their duty to the company and shareholders as a body, for exercising governance. They owe none to individual shareholders or investors deciding whether to buy shares.
+
+Hannah: What about the other side's solicitor?
+
+Will: A solicitor acting for one party generally owes no duty of care to the opposing party, for example in replies to enquiries, save in special cases where he assumes responsibility to them.
+
+Hannah: How is that different from the solicitor who botches a will?
+
+Will: Ask whether the claimant is on the other side of the client's transaction, or is the person the client meant to benefit. The opposing party generally gets no duty, but the intended beneficiary who loses the legacy does, even without reliance.
+
+Hannah: And what about a company director?
+
+Will: A company director is personally liable only if he assumed personal responsibility to the claimant, judged objectively from what he said or did, and the claimant reasonably relied on that personal assumption.
+
+Hannah: Can a disclaimer stop a duty arising?
+
+Will: A clear disclaimer can prevent a responsibility being assumed, but statute controls it. A non-consumer notice excluding business liability for negligence must be reasonable, and a consumer notice must be fair.
+
+Hannah: Can a disclaimer ever exclude liability for death or personal injury?
+
+Will: It can't: liability for negligently caused death or personal injury cannot be excluded at all.
+
+Hannah: Who has to prove the notice is reasonable?
+
+Will: The person relying on a non-contractual notice must prove it is fair and reasonable to allow reliance on it, having regard to all the circumstances when the liability arose. For example, a mortgage valuer's disclaimer to the purchaser of a modest house was unreasonable.
+
+Hannah: If a misstatement induced a contract with the maker, is a Hedley Byrne claim the best one?
+
+Will: Usually not. A claim under the Misrepresentation Act is usually better, because the burden is on the representor to prove reasonable belief. Deceit requires proof of fraud, and Hedley Byrne covers statements by non-contracting parties.
+
+Hannah: And how long do you have to sue for non-personal-injury loss?
+
+Will: The limit is 6 years from the date damage occurred.
+
+Hannah: What about latent damage?
+
+Will: Latent damage has an alternative: 3 years. It runs from the date the claimant knew, or ought to have known, the material facts.
+
+Hannah: Is there a cap on that alternative?
+
+Will: Yes: the 3 years is subject to a 15-year longstop from the negligent act.
+
+Hannah: So do the 6 years run from the negligent act?
+
+Will: They don't. The 6 years run from the date damage occurred; it is the 15-year longstop that runs from the negligent act.
+
+Hannah (summing up): Careless advice creates a duty for pure economic loss where the maker assumed responsibility and the claimant reasonably relied; a clear disclaimer can stop that, but statute controls it.
+
+Will: Yes: assumed responsibility plus reasonable reliance creates the duty, and a disclaimer can stop it only within the statutory limits.
+
+## Recap
+
+Hannah: Before the quick-fire round, a last question on advice. A surveyor's negligent advice is given in one year, but the client's loss only occurs years later. Do the 6 years run from the advice or from the damage?
+
+Will (calculation pause): <think>
+
+Will: From the date damage occurred, not from the advice. The tempting answer is the date of the negligent act, but that is wrong for the 6 years: it is only the 15-year longstop that runs from the negligent act.
+
+Hannah: Right: the 6 years start when the damage occurred, and only the longstop is counted from the act.
+
+Will: Now the quick-fire round, one line for each area.
+
+Hannah: What's the summary for pure economic loss and the general rule?
+
+Will (quick-fire pause): <think>
+
+Will: Loss flowing from physical damage to the claimant's own person or property is consequential and recoverable; pure economic loss from a negligent act has, as a general rule, no duty.
+
+Hannah: What's the summary for the exceptions for wills and references?
+
+Will (quick-fire pause): <think>
+
+Will: A solicitor's negligent will-making owes the beneficiary who loses the legacy a duty without reliance, and an employer owes the employee a duty over a reference.
+
+Hannah: What's the summary for negligent statements and disclaimers?
+
+Will (quick-fire pause): <think>
+
+Will: Careless advice creates a duty for pure economic loss where the maker assumed responsibility and the claimant reasonably relied; a clear disclaimer can stop that, but statute controls it.
+
+Hannah: And in one sentence, what decides most of this workshop's questions?
+
+Will: Pure economic loss from a negligent act is not recoverable as a general rule, so a duty needs a recognised exception or an assumption of responsibility on which the claimant reasonably relied.

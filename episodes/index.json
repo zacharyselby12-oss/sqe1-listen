@@ -2753,6 +2753,78 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws08-rev-v1-a2ff1eb1.mp3",
       "pubDate": "2026-11-11T08:46:59+00:00"
+    },
+    {
+      "id": "tort-ws07-rev-v1",
+      "unitId": "u-bpp-Tort-07",
+      "title": "Tort WS07 · Revision · 14 min",
+      "guideHash": "bdc1925360",
+      "script": "scripts/tort-ws07-rev-v1.txt",
+      "scriptHash": "6bd7a73c18da",
+      "audio": "audio/tort-ws07-rev-v1.mp3",
+      "recap": [
+        "Loss flowing from physical damage to the claimant's own person or property is consequential and recoverable; pure economic loss from a negligent act has, as a general rule, no duty.",
+        "A solicitor's negligent will-making owes the beneficiary who loses the legacy a duty without reliance, and an employer owes the employee a duty over a reference.",
+        "Careless advice creates a duty for pure economic loss where the maker assumed responsibility and the claimant reasonably relied; a clear disclaimer can stop that, but statute controls it."
+      ],
+      "map": [
+        "Pure economic loss: what it is, and the general rule",
+        "Exceptions: wills and references",
+        "Negligent statements: Hedley Byrne, reliance and disclaimers"
+      ],
+      "summary": "Pure economic loss from a negligent act is not recoverable as a general rule, so a duty needs a recognised exception or an assumption of responsibility on which the claimant reasonably relied.",
+      "madeAt": "2026-11-11T12:43:19+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 34/34 items; known-error scan 0 hits; Opus accuracy + line-by-line, fixes applied, changed lines pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "tort-ws09-rev-v1",
+      "unitId": "u-bpp-Tort-09",
+      "title": "Tort WS09 · Revision · 19 min",
+      "guideHash": "201baf17c6",
+      "script": "scripts/tort-ws09-rev-v1.txt",
+      "scriptHash": "19fc6195662b",
+      "audio": "audio/tort-ws09-rev-v1.mp3",
+      "recap": [
+        "A visitor is owed the common duty of care; a visitor who goes beyond the permission becomes a trespasser, owed only the 1984 Act duty.",
+        "A warning discharges the duty only if it makes the visitor reasonably safe; volenti is a complete defence, but contributory negligence only reduces damages.",
+        "A duty to a trespasser arises only if all three conditions are met, and the 1984 Act covers injury only, never damage to property.",
+        "A private occupier is outside UCTA and the CRA, so it can in principle exclude its duty to visitors by an adequate notice, even for personal injury.",
+        "Trespass is actionable without proof of loss: ask about an intrusion onto land in the claimant's possession, whether permission or lawful authority justified it, and which remedy fits."
+      ],
+      "map": [
+        "Introduction to occupiers' liability: the 1957 Act's duty to visitors",
+        "The 1957 Act: breach to defences",
+        "The 1984 Act: non-visitors",
+        "Occupiers' liability and exclusion clauses",
+        "Trespass to land"
+      ],
+      "summary": "Whether the claimant is a visitor decides the duty: visitors get the common duty of care, while non-visitors get at most the 1984 Act duty, only if its three conditions are met, and for injury only.",
+      "madeAt": "2026-11-11T12:43:19+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "rewritten in full (was held: guide changed); code ok (v2.3, revision shape, 0 errors); revcheck ok 65/65 items (flags: about 19 min, 6 recall pauses); known-error scan 0 hits; Opus accuracy + line-by-line (9 problems, fixed by fixflow); changed-lines check: 2 more fixes, then pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

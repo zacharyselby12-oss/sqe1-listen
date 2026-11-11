@@ -1,0 +1,195 @@
+---
+id: tort-ws09-rev-v1
+unit: u-bpp-Tort-09
+guide_hash: 201baf17c6
+made: 2026-11-11T12:43:19+00:00
+kind: revision
+title: Tort WS09 · Revision · 19 min
+map:
+- Introduction to occupiers' liability: the 1957 Act's duty to visitors
+- The 1957 Act: breach to defences
+- The 1984 Act: non-visitors
+- Occupiers' liability and exclusion clauses
+- Trespass to land
+recap:
+- A visitor is owed the common duty of care; a visitor who goes beyond the permission becomes a trespasser, owed only the 1984 Act duty.
+- A warning discharges the duty only if it makes the visitor reasonably safe; volenti is a complete defence, but contributory negligence only reduces damages.
+- A duty to a trespasser arises only if all three conditions are met, and the 1984 Act covers injury only, never damage to property.
+- A private occupier is outside UCTA and the CRA, so it can in principle exclude its duty to visitors by an adequate notice, even for personal injury.
+- Trespass is actionable without proof of loss: ask about an intrusion onto land in the claimant's possession, whether permission or lawful authority justified it, and which remedy fits.
+summary: Whether the claimant is a visitor decides the duty: visitors get the common duty of care, while non-visitors get at most the 1984 Act duty, only if its three conditions are met, and for injury only.
+invented:
+- Priya
+- Meera
+- Jo
+- Rob
+- Lena
+- Ali
+guide_only:
+- P:TL-4.1-02 (what counts as premises)
+- P:TL-4.1-18 (the right to roam and its exclusions)
+- P:TL-4.2-04 (checking a contractor's insurance)
+- P:TL-4.3-08 (strangers to the contract)
+- P:TL-1.1-21 (likelihood of harm, taught in the negligence workshop)
+- P:TL-1.1-22 (seriousness of harm, taught in the negligence workshop)
+- P:TL-1.1-23 (cost of precautions, taught in the negligence workshop)
+- P:TL-1.1-24 (social value of the activity)
+- P:TL-1.3-04 (causation and remoteness)
+- P:TL-2.2-09 (where contributory negligence applies)
+- P:TL-1.5-09 (clear disclaimers and the statutes that control them)
+---
+## Map
+Will: Today's big question: when does an occupier owe someone on its premises a duty, and what stands in the way of a claim? There are five areas. The first two cover the 1957 Act's duty to visitors and its defences; the last three are non-visitors, exclusion clauses and trespass to land.
+Hannah: Before we start, a question from nuisance: a lodger's room fills with smoke from the neighbour's bonfire, so can the lodger sue in private nuisance?
+Will (scenario pause): <think>
+Will: No. Only a person with a proprietary interest in the affected land, or exclusive possession, such as an owner or tenant, can sue. The tempting answer is that anyone who suffers can sue, but family members, lodgers and guests cannot.
+Hannah: Good: the lodger has neither, so only the owner or tenant sues.
+## Block 1: Introduction to occupiers' liability: the 1957 Act's duty to visitors
+Will: Now, the introduction to occupiers' liability: when does an occupier owe someone on its premises the common duty of care?
+Hannah: So what are the two questions to ask first?
+Will: Ask whether the defendant has sufficient control to be an occupier, then whether the claimant is a visitor, because only a visitor is owed the common duty of care.
+Hannah: So who counts as an occupier?
+Will: An occupier is anyone with a sufficient degree of control over the premises, so ownership or possession is not required, and there can be more than one occupier.
+Hannah: What does the common duty of care actually require?
+Will: It is a duty to take such care as in all the circumstances is reasonable to see that the visitor, not the premises, will be reasonably safe in using the premises for the purposes for which he is invited or permitted to be there.
+Hannah: And what does the 1957 Act cover?
+Will: It covers dangers due to the state of the premises or things done or omitted to be done on them. It covers personal injury and damage to property, including property of non-visitors on the premises.
+Hannah: Does an occupier have to protect an adult from obvious risks?
+Will: Normally not: an occupier is normally under no duty, to a visitor or a trespasser, to protect an adult from obvious risks inherent in an activity he freely chooses, such as diving into shallow water.
+Hannah: So when does a duty arise after all?
+Will: Only where there is no genuine and informed choice, as with a child unable to recognise the danger.
+Hannah: Now, who is a visitor?
+Will: A visitor has the occupier's express or implied permission to be there. Persons entering in exercise of a right conferred by law, such as police with a warrant, are treated as visitors too.
+Hannah: What about someone who enters under a contract?
+Will: A contractual entrant is owed the common duty of care as an implied term, unless the contract's express terms provide otherwise.
+Hannah: And what if a visitor goes beyond what was permitted?
+Will: A visitor who goes beyond the permitted area, stays beyond the permitted time or uses the premises for a purpose outside the permission becomes a trespasser, owed only the 1984 Act duty. A customer in a staff-only stockroom has gone beyond the permitted area.
+Hannah: Does the occupier merely knowing about trespassers make them visitors?
+Will: No: implied permission requires more than knowledge of or toleration of repeated trespass, because there must be evidence the occupier accepted the entry. Neighbours crossing a field by a well-worn path for years, with no objection, may be visitors; children using a railway-yard shortcut, where the occupier repairs the fence each time, remain trespassers.
+Hannah: What about people using rights of way?
+Will: A person using a public right of way is neither a visitor nor owed the 1984 Act duty. A person using a private right of way is not a visitor either, but is protected by the 1984 Act.
+Hannah (summing up): A visitor is owed the common duty of care; a visitor who goes beyond the permission becomes a trespasser, owed only the 1984 Act duty.
+Will: Yes: going beyond the permission turns a visitor into a trespasser.
+## Block 2: The 1957 Act: breach to defences
+Hannah: Before breach and defences, a question on visitors: Priya, a customer, stays in the shop after closing time has passed, so is she still owed the common duty of care?
+Will (scenario pause): <think>
+Will: No. Staying beyond the permitted time makes her a trespasser, owed only the 1984 Act duty. The tempting answer, that she came in as a visitor so she stays one, is wrong because the permission has run out.
+Hannah: Yes: staying beyond the permitted time ends her visitor status.
+Will: Now, the 1957 Act from breach to defences: has the occupier breached the common duty of care, and what defences are open to it? First, the standard of care.
+Hannah: What must an occupier expect of children?
+Will: An occupier must be prepared for children to be less careful than adults, and must guard against allurements, such as attractive poisonous berries; but it may expect parents to supervise very young children.
+Hannah: And for visitors exercising a calling?
+Will: An occupier may expect a person exercising his calling to appreciate and guard against special risks ordinarily incident to it, so far as the occupier leaves him free to do so, as with a chimney sweep and fumes, but not risks outside that specialism.
+Hannah: Now the warnings: when does a warning discharge the duty to a visitor?
+Will: A warning discharges the common duty of care only if, in all the circumstances, it was enough to enable the visitor to be reasonably safe. There is no need to warn of obvious dangers.
+Hannah: How is a warning different from an exclusion notice?
+Will: A warning discharges the duty by making the visitor reasonably safe, so there is no breach. An exclusion notice removes liability for a breach, and is subject to UCTA and the CRA. Limiting where a visitor may go defines the scope of permission rather than excluding liability.
+Hannah: When is an occupier not liable for a contractor's faulty work?
+Will: An occupier is not liable for damage caused by faulty construction, maintenance or repair work by an independent contractor if it acted reasonably in entrusting the work to the contractor and took reasonable steps to satisfy itself that the contractor was competent and the work properly done.
+Hannah: What does that mean for checking the work?
+Will: Checking technical work may be impossible, as with specialist engineers servicing a lift. Simple work like clearing snow must be checked.
+Hannah: Now the defences: what is consent, or volenti?
+Will: There is no duty in respect of risks willingly accepted by the visitor or non-visitor with full knowledge, as with a trespasser crossing a railway line through a fence knowing the danger.
+Hannah: What must the occupier prove?
+Will: The defendant must prove that the claimant had full knowledge of the nature and extent of the risk, and freely and voluntarily agreed, expressly or impliedly, to accept the legal risk of injury caused by the defendant's negligence. It is a complete defence.
+Hannah: By when must that agreement be given?
+Will: Before or at the time of the negligent act. An occupier's statutory duties preserve the defence for risks willingly accepted by visitors and non-visitors.
+Hannah: And what does contributory negligence do?
+Will: It reduces damages under both Acts, as with a child trespasser climbing onto a roof.
+Hannah: And how is a child judged for contributory negligence?
+Will: By what can reasonably be expected of a child of that age, so young children are rarely found contributorily negligent.
+Hannah: So what is the difference between volenti and contributory negligence?
+Will: Volenti is a complete defence, because no duty is owed for a risk the claimant willingly accepted with full knowledge. Contributory negligence only reduces damages, where the claimant failed to take enough care for his own safety.
+Hannah (summing up): A warning discharges the duty only if it makes the visitor reasonably safe; volenti is a complete defence, but contributory negligence only reduces damages.
+Will: Yes: of the two defences, only volenti defeats the claim entirely.
+## Block 3: The 1984 Act: non-visitors
+Hannah: Before non-visitors, a question on contractors: Meera hired a contractor to clear snow from her entrance steps and never checked the work, so is she protected when a visitor slips on the icy steps?
+Will (scenario pause): <think>
+Will: No, she may be liable. Simple work like clearing snow must be checked. The tempting answer is that an independent contractor did the work, but that only protects an occupier who took reasonable steps to check it was properly done.
+Hannah: Yes: simple work must be checked, so the contractor does not protect her.
+Will: Now, the 1984 Act and non-visitors: when does an occupier owe a trespasser a duty, and how can it meet that duty?
+Hannah: What loss can a non-visitor recover for under the 1984 Act?
+Will: Injury only: death, personal injury, disease and impairment of mental condition. A visitor can recover under the 1957 Act for personal injury and for damage to property, but a non-visitor cannot recover for damage to property.
+Hannah: When does a duty to a non-visitor arise?
+Will: Only if the occupier meets three conditions. One: it is aware of the danger or has reasonable grounds to believe it exists.
+Hannah: And the second condition?
+Will: Two: it knows or has reasonable grounds to believe the non-visitor is or may come into its vicinity.
+Hannah: And the third condition?
+Will: Three: the risk is one against which, in all the circumstances, it may reasonably be expected to offer some protection.
+Hannah: Is constructive knowledge enough for reasonable grounds to believe?
+Will: No: it requires actual knowledge of facts from which a reasonable person would infer the danger or the trespasser's presence. Constructive knowledge, what the occupier ought to have found out, is not enough.
+Hannah: When is a trespasser's presence judged foreseeable?
+Will: At the time of the injury, including time of day and season, so there is no reason to expect a swimmer in a harbour at night in winter.
+Hannah: Does the Act protect against a claimant's own risky activity?
+Will: No: it protects only against dangers from the state of the premises, not from the claimant's own risky activity on safe premises, such as climbing a fire escape or diving.
+Hannah: What is the duty itself, and how can the occupier meet it?
+Will: It is a duty to take such care as is reasonable in all the circumstances to see that the non-visitor does not suffer injury on the premises by reason of the danger concerned.
+Hannah: And how can the occupier meet it?
+Will: In an appropriate case, by taking reasonable steps to give warning of the danger or to discourage persons from incurring the risk, which is a lower bar than for visitors.
+Hannah: Do warnings work for children?
+Will: Warnings are less likely to protect against children, who may not read or heed them, so physical barriers may be needed.
+Hannah: Does illegality bar a trespasser's claim?
+Will: Not automatically: a burglar shot by an occupier who used disproportionate force recovered damages, reduced for contributory negligence. Because the injury came from the occupier's activity, not the state of the premises, the claim lay in common-law negligence, with the 1984 Act standard applied by analogy.
+Hannah (summing up): A duty to a trespasser arises only if all three conditions are met, and the 1984 Act covers injury only, never damage to property.
+Will: Yes: three conditions, and injury only.
+## Block 4: Occupiers' liability and exclusion clauses
+Hannah: Before exclusion clauses, a question on non-visitors: Jo, a trespasser, breaks her wrist and smashes her laptop when she falls through a rotten floor the occupier knew about and knew trespassers regularly crossed, so what can she recover under the 1984 Act?
+Will (scenario pause): <think>
+Will: At most her wrist, and only if all three conditions for a duty are met and the occupier failed to take reasonable care. The 1984 Act covers injury only, not damage to property, so the laptop is never recoverable under it. The tempting answer is that she recovers for both, as a visitor would under the 1957 Act, but that is wrong here.
+Hannah: Yes: the wrist is injury, but the laptop is property damage.
+Will: Now, occupiers' liability and exclusion clauses: can an occupier exclude its liability by a notice or a contract term?
+Hannah: Can an occupier limit its duty to visitors at all?
+Will: An occupier may extend, restrict, modify or exclude its duty to visitors by agreement or otherwise, such as a notice, in so far as it is free to do so.
+Hannah: When is an exclusion notice effective?
+Will: Only if reasonable steps were taken to bring it to the visitor's attention before or at the time of entry. For contractual entrants, it must be incorporated into the contract before it is made.
+Hannah: When does UCTA apply?
+Will: UCTA applies only to business liability, which includes liability arising from occupation of premises used for the occupier's business purposes. It does not cover liability to a person allowed access for recreational or educational purposes, unless granting such access falls within the occupier's business purposes.
+Hannah: What can a business occupier not exclude?
+Will: A business occupier cannot exclude or restrict negligence liability for death or personal injury, save to recreational entrants admitted outside its business purposes and hurt by dangerous premises.
+Hannah: And for other loss?
+Will: A business occupier can exclude liability to a non-consumer visitor for other loss or damage, such as property damage, only if the term or notice is reasonable. For a notice, that means fair and reasonable to allow reliance on it in all the circumstances when liability arose.
+Hannah: Who bears the burden, and what about consumers?
+Will: The burden is on the occupier. For a consumer, the CRA fairness test applies instead: where the entrant is a consumer and the occupier a trader, the Consumer Rights Act applies instead of UCTA, so liability for death or personal injury from negligence cannot be excluded, and other exclusions in consumer contracts or notices are not binding if unfair.
+Hannah: What about a private occupier, not in business?
+Will: By contrast, a private, non-business occupier is not subject to UCTA or the CRA, so it can in principle exclude the duty to visitors by an adequate notice, even for personal injury.
+Hannah: Is there a common humanity minimum that can never be excluded?
+Will: No: that test came from the old common law on trespassers, which the 1984 Act replaced, so it does not stop a private occupier excluding its duty to visitors.
+Hannah: Can the duty to non-visitors be excluded?
+Will: The 1984 Act contains no power to exclude the duty to non-visitors, and the prevailing view is that it is a minimum duty that cannot be excluded.
+Hannah (summing up): A private occupier is outside UCTA and the CRA, so it can in principle exclude its duty to visitors by an adequate notice, even for personal injury.
+Will: Yes: being outside UCTA and the CRA is what lets a private occupier exclude.
+## Block 5: Trespass to land
+Hannah: Before trespass to land, a question on exclusion: Rob, a private homeowner, adequately brings to a visitor's attention a notice excluding his liability even for personal injury, so does UCTA bar it?
+Will (scenario pause): <think>
+Will: No. A private occupier is outside UCTA and the CRA. The tempting answer is that UCTA always bars excluding personal injury, but that is wrong because UCTA applies only to business liability.
+Hannah: Yes: UCTA reaches only business liability, so Rob's notice can in principle work.
+Will: Now, trespass to land: what makes an intrusion onto land a trespass, who can sue, and what can the court award?
+Hannah: What is the first thing to ask?
+Will: Trespass is actionable without proof of loss, so first ask what was entered: was it land in the claimant's possession?
+Hannah: And what comes after that?
+Will: Then ask whether the entry was justified by permission or by lawful authority, and what remedy fits.
+Hannah (summing up): Trespass is actionable without proof of loss: ask about an intrusion onto land in the claimant's possession, whether permission or lawful authority justified it, and which remedy fits.
+Will: Yes: no proof of loss is needed.
+## Recap
+Hannah: One last question: Lena walks onto Ali's land, which he possesses, without permission or lawful authority and causes no damage, so must Ali prove loss to sue in trespass?
+Will (scenario pause): <think>
+Will: No. Trespass is actionable without proof of loss. The tempting answer is that no damage means no claim, but that is wrong.
+Hannah: Yes: the intrusion alone is enough.
+Will: Now the quick-fire round.
+Hannah: What's the summary for the introduction to occupiers' liability and the duty to visitors?
+Will (quick-fire pause): <think>
+Will: A visitor is owed the common duty of care; a visitor who goes beyond the permission becomes a trespasser, owed only the 1984 Act duty.
+Hannah: What's the summary for breach and defences under the 1957 Act?
+Will (quick-fire pause): <think>
+Will: A warning discharges the duty only if it makes the visitor reasonably safe; volenti is a complete defence, but contributory negligence only reduces damages.
+Hannah: What's the summary for the 1984 Act and non-visitors?
+Will (quick-fire pause): <think>
+Will: A duty to a trespasser arises only if all three conditions are met, and the 1984 Act covers injury only, never damage to property.
+Hannah: What's the summary for occupiers' liability and exclusion clauses?
+Will (quick-fire pause): <think>
+Will: A private occupier is outside UCTA and the CRA, so it can in principle exclude its duty to visitors by an adequate notice, even for personal injury.
+Hannah: What's the summary for trespass to land?
+Will (quick-fire pause): <think>
+Will: Trespass is actionable without proof of loss: ask about an intrusion onto land in the claimant's possession, whether permission or lawful authority justified it, and which remedy fits.
+Hannah: And in one sentence, what decides most of this whole workshop?
+Will: Whether the claimant is a visitor decides the duty: visitors get the common duty of care, while non-visitors get at most the 1984 Act duty, only if its three conditions are met, and for injury only.
