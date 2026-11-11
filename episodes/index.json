@@ -2901,6 +2901,63 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws02-rev-v1-3b2fcaa5.mp3",
       "siteAudio": "audio/dr-ws02-rev-v1-3b2fcaa5.mp3",
       "pubDate": "2026-11-11T17:47:15+00:00"
+    },
+    {
+      "id": "dr-ws03-rev-v1",
+      "unitId": "u-bpp-DR-03",
+      "title": "DR WS03 · Revision · 19 min",
+      "guideHash": "f9da217c8a",
+      "script": "scripts/dr-ws03-rev-v1.txt",
+      "scriptHash": "1d04668d7620",
+      "audio": "audio/dr-ws03-rev-v1.mp3",
+      "recap": [
+        "A counterclaim is an independent claim; against the claimant it needs no permission if filed with the defence, otherwise the court's permission.",
+        "A set-off reduces or extinguishes the claim; where the cross-claim is bigger, the balance can also be counterclaimed.",
+        "A claimant must defend a counterclaim within 14 days after service, with no acknowledgment of service, or the defendant can enter default judgment.",
+        "A reply is optional, and without one the defendant must still prove its new matters; after a reply, no statement of case without permission.",
+        "Any claim other than the claimant's against the defendant is an additional claim; after service, changing parties needs a Part 19 application.",
+        "An additional claim needs no permission if made with the defence (before it too, except a counterclaim against the claimant or a contribution notice; within 28 days after a later-added defendant's defence, for a contribution notice); otherwise permission.",
+        "A Part 20 defendant that does not acknowledge service or file a defence is deemed to admit the claim, except the claimant on a counterclaim or a co-defendant given a contribution notice.",
+        "After service, amend only with all the other parties' written consent or the court's permission; but changing a party always needs a Part 19 application.",
+        "Desirability decides whether the court adds or removes a party; once the claim form is served, permission is always needed, even with consent.",
+        "After limitation, a new claim needs substantially the same facts; a new party needs a period current at issue and a necessary change, or, in personal injury, a direction disapplying limitation or leaving it to trial.",
+        "A Part 18 request must be confined to what is reasonably necessary and proportionate; with no response, the requesting party may apply for an order."
+      ],
+      "map": [
+        "Counterclaims",
+        "Set-off",
+        "Defence to counterclaim",
+        "Reply",
+        "New causes of action and parties: which Part; additional claims and their types",
+        "Additional claims: permission, form and service",
+        "Additional claims: case management and default",
+        "Amending statements of case",
+        "Adding, removing and substituting parties",
+        "Amendments after limitation",
+        "Requests for further information (Part 18)"
+      ],
+      "summary": "Timing decides permission: amendments need none before service; after service, all other parties' written consent or permission, and always permission to change parties.",
+      "madeAt": "2026-11-11T21:43:24+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 63/63 items; known-error scan: 4 phrase matches cleared by an Opus triage, 0 left; Opus accuracy + line-by-line, 16 fixes applied (one accuracy SOURCE-ERROR on CPR 20.5(1) rejected against CPR r 20.5(1) and 20.7 on justice.gov.uk); one revision (code checks, length); changed lines verified twice (10 then 1 fix, the last the verifier's own wording); final code checks ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10",
+        "b11"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

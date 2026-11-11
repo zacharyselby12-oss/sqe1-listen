@@ -1,0 +1,239 @@
+---
+id: dr-ws03-rev-v1
+unit: u-bpp-DR-03
+guide_hash: f9da217c8a
+made: 2026-11-11T21:43:24+00:00
+kind: revision
+title: DR WS03 · Revision · 19 min
+map:
+- Counterclaims
+- Set-off
+- Defence to counterclaim
+- Reply
+- New causes of action and parties: which Part; additional claims and their types
+- Additional claims: permission, form and service
+- Additional claims: case management and default
+- Amending statements of case
+- Adding, removing and substituting parties
+- Amendments after limitation
+- Requests for further information (Part 18)
+recap:
+- A counterclaim is an independent claim; against the claimant it needs no permission if filed with the defence, otherwise the court's permission.
+- A set-off reduces or extinguishes the claim; where the cross-claim is bigger, the balance can also be counterclaimed.
+- A claimant must defend a counterclaim within 14 days after service, with no acknowledgment of service, or the defendant can enter default judgment.
+- A reply is optional, and without one the defendant must still prove its new matters; after a reply, no statement of case without permission.
+- Any claim other than the claimant's against the defendant is an additional claim; after service, changing parties needs a Part 19 application.
+- An additional claim needs no permission if made with the defence (before it too, except a counterclaim against the claimant or a contribution notice; within 28 days after a later-added defendant's defence, for a contribution notice); otherwise permission.
+- A Part 20 defendant that does not acknowledge service or file a defence is deemed to admit the claim, except the claimant on a counterclaim or a co-defendant given a contribution notice.
+- After service, amend only with all the other parties' written consent or the court's permission; but changing a party always needs a Part 19 application.
+- Desirability decides whether the court adds or removes a party; once the claim form is served, permission is always needed, even with consent.
+- After limitation, a new claim needs substantially the same facts; a new party needs a period current at issue and a necessary change, or, in personal injury, a direction disapplying limitation or leaving it to trial.
+- A Part 18 request must be confined to what is reasonably necessary and proportionate; with no response, the requesting party may apply for an order.
+summary: Timing decides permission: amendments need none before service; after service, all other parties' written consent or permission, and always permission to change parties.
+invented: []
+guide_only:
+- P:DR-6.1-20 (unverified set-off)
+- P:DR-6.4-09 (consequential amendments)
+- P:DR-6.4-05 (costs of an amendment)
+- P:DR-6.4-10 (solicitor amending)
+- P:DR-4.2-11 (death or bankruptcy during proceedings)
+- P:DR-4.2-05 (consent of a new claimant)
+- P:DR-4.2-06 (application procedure)
+- P:DR-6.3-08 (further information as part of the statement of case)
+- P:DR-6.3-07 (non-compliance with an order)
+- P:DR-6.2-04 (combined reply and defence document)
+- P:DR-6.2-09 (non-party claim: permission and service)
+- add:4 (serving a non-party claim)
+- P:DR-4.2-09 (correcting a party's name)
+- P:DR-6.3-02 (request before applying)
+- add:6 (filing the amended statement of case)
+- P:DR-4.2-03 (substituting a party)
+---
+## Map
+Will: Today's big question is how a case grows and changes after the statements of case, and what permission that needs.
+Hannah: How many areas are there, and how are they grouped?
+Will: Eleven areas, in four groups: counterclaims, set-off and replies; additional claims under Part 20; amendment and changing parties; and further information under Part 18.
+Hannah: As a warm-up from last time, what does a defendant's acknowledgment of service do to its time for the defence?
+Will (scenario pause): <think>
+Will: It extends the defence to 28 days after service of the particulars. The tempting answer, 28 days from the acknowledgment itself, is wrong.
+Hannah: Yes: filing the acknowledgment moves the defence from 14 to 28 days.
+
+## Block 1: Counterclaims
+Will: Now counterclaims: how does a defendant make one against the claimant? A counterclaim is an independent claim, so it survives discontinuance or striking out of the main claim and can give judgment for more than the claim. A set-off only reduces or defeats the claim.
+Hannah: Does the defendant need permission?
+Will: Not if the counterclaim is filed with the defence; at any other time, the court's permission is needed.
+Hannah (summing up): A counterclaim is an independent claim; against the claimant it needs no permission if filed with the defence, otherwise the court's permission.
+Will: Yes: filing with the defence decides.
+
+## Block 2: Set-off
+Hannah: Before set-off, a question on counterclaims: the main claim is struck out. Does a counterclaim filed with the defence survive?
+Will (scenario pause): <think>
+Will: Yes: a counterclaim is independent, unlike a set-off, which falls with the claim.
+Hannah: Yes: independence means survival.
+Will: Now set-off: when can a defendant set off a cross-claim, and what if it is bigger? A set-off is a defence that reduces or extinguishes the claim. Legal set-off is for mutual liquidated debts; equitable set-off is for a cross-claim so closely connected that it would be unjust to ignore it.
+Hannah: What if the cross-claim exceeds the claim?
+Will: The balance can also be counterclaimed, since a counterclaim is a separate Part 20 claim that can exceed the claim.
+Hannah (summing up): A set-off reduces or extinguishes the claim; where the cross-claim is bigger, the balance can also be counterclaimed.
+Will: Yes: it reduces; the excess is counterclaimed.
+
+## Block 3: Defence to counterclaim
+Hannah: Before the defence to a counterclaim, a question: can a set-off alone win the defendant more than the claim?
+Will (scenario pause): <think>
+Will: No: it only reduces or extinguishes the claim; the excess needs a counterclaim.
+Hannah: Yes: a set-off cannot itself pay the excess.
+Will: Now the defence to a counterclaim: how long does the claimant have? The claimant must file a defence within 14 days of service. Acknowledgment of service does not apply, so time cannot be extended to 28 days that way. If the claimant does not defend, the defendant can obtain default judgment on the counterclaim.
+Hannah (summing up): A claimant must defend a counterclaim within 14 days after service, with no acknowledgment of service, or the defendant can enter default judgment.
+Will: Yes: 14 days, no acknowledgment, then default judgment.
+
+## Block 4: Reply
+Hannah: Before the reply, a question: does acknowledging service give a claimant defending a counterclaim 28 days?
+Will (scenario pause): <think>
+Will: No: it has 14 days after service; 28 days belongs to an ordinary defendant.
+Hannah: Yes: 14 days, whatever the acknowledgment.
+Will: Now the reply: must the claimant reply, and what can follow one? A reply is the claimant's optional response to new matters raised in the defence. If none is filed, the defendant must still prove those matters.
+Hannah: What can a reply not do?
+Will: It must not contradict the particulars or bring in a new claim, which needs an amendment. It is filed with the directions questionnaire and served on all other parties at once.
+Hannah: What can follow a reply?
+Will: No statement of case may be filed or served after it without the court's permission.
+Hannah (summing up): A reply is optional, and without one the defendant must still prove its new matters; after a reply, no statement of case without permission.
+Will: Yes: optional, silence admits nothing, permission after it.
+
+## Block 5: New causes of action and parties: which Part; additional claims and their types
+Hannah: Before new causes of action and parties, a question on replies: the claimant files no reply. Is the defendant's new matter taken as admitted?
+Will (scenario pause): <think>
+Will: No: the defendant must still prove it; admission by silence is the tempting error.
+Hannah: Yes: a reply is optional, so silence admits nothing.
+Will: Now new parties and additional claims: what is an additional claim? Any claim other than the claimant's claim against the defendant is a Part 20 claim. There are three kinds. First, a counterclaim, against the claimant or against the claimant and another person. Second, a claim for contribution or indemnity against a co-defendant.
+Hannah: And the third kind?
+Will: A claim against a non-party, a third party, for contribution, indemnity or any other remedy, including a third party's claim against a fourth party. Adding a party after service needs a Part 19 application; before service, amendment without permission is enough.
+Hannah: How does a Part 20 defendant respond?
+Will: Other than the claimant, it responds like an ordinary defendant, acknowledging service within 14 days.
+Hannah: What about its defence?
+Will: It is due 14 days after service of the particulars.
+Hannah: And what if the Part 20 defendant acknowledges service?
+Will: Then the defence is due 28 days after service of the particulars.
+Hannah: Does a claimant defending a counterclaim get the same extension?
+Will: No: a claimant defending a counterclaim has only 14 days.
+Hannah (summing up): Any claim other than the claimant's against the defendant is an additional claim; after service, changing parties needs a Part 19 application.
+Will: Yes: the claimant's own claim is excluded.
+
+## Block 6: Additional claims: permission, form and service
+Hannah: Before permission for additional claims, a question on their types: is a contribution claim against a co-defendant an additional claim?
+Will (scenario pause): <think>
+Will: Yes: only the claimant's own claim is excluded; the tempting error is that only outsiders count.
+Hannah: Yes: a claim against a co-defendant counts.
+Will: Now permission and service: the kind of additional claim decides when permission is needed. A counterclaim against the claimant needs no permission if filed with the defence; otherwise permission is needed. Against someone other than the claimant, no permission is needed if it is issued before or at the same time as the defence.
+Hannah: What if it is issued later?
+Will: Then the defendant must apply for an order adding that person as an additional party, and may do so without notice unless the court directs otherwise.
+Hannah: What about contribution or indemnity against a co-defendant?
+Will: It is made by filing and serving a notice of its nature and grounds. No permission is needed if done with the defence, or, against a later-added defendant, within 28 days after it files its defence; otherwise permission is needed.
+Hannah: And a claim against a non-party?
+Will: No permission is needed if it is issued before or at the same time as the defence is filed; otherwise permission is needed. 
+Hannah (summing up): An additional claim needs no permission if made with the defence (before it too, except a counterclaim against the claimant or a contribution notice; within 28 days after a later-added defendant's defence, for a contribution notice); otherwise permission.
+Will: Yes: with the defence means none, later means permission.
+
+## Block 7: Additional claims: case management and default
+Hannah: Before case management and default, a question on permission: a defendant files its defence on Monday, and on Wednesday claims contribution from a non-party. Is permission needed?
+Will (scenario pause): <think>
+Will: Yes: it was not issued before or with the defence; non-party claims are not always free.
+Hannah: Yes: later than the defence means permission.
+Will: Now case management and default: how does the court manage additional claims? When a defence is filed to any additional claim, the court must consider the future conduct of the proceedings and give directions, so far as practicable managing the main claim and all additional claims together. Where the defence is to an additional claim other than a counterclaim, the court arranges a case management hearing.
+Hannah: What if a Part 20 defendant does not respond at all?
+Will: If it fails to acknowledge service or file a defence, it is deemed to admit the Part 20 claim and is bound by any judgment or decision in the main proceedings, so far as relevant to it. That excludes the claimant on a counterclaim and a co-defendant served with a contribution notice.
+Hannah: And if default judgment is then given against the Part 20 claimant?
+Will: The Part 20 claimant may obtain judgment on the Part 20 claim by filing a request. But it needs the court's permission if it has not satisfied that judgment, or wants a remedy other than contribution or indemnity.
+Hannah (summing up): A Part 20 defendant that does not acknowledge service or file a defence is deemed to admit the claim, except the claimant on a counterclaim or a co-defendant given a contribution notice.
+Will: Yes: silence means deemed admission.
+
+## Block 8: Amending statements of case
+Hannah: Before amending, a question on default: a third party served with a claim neither acknowledges service nor defends. What follows?
+Will (scenario pause): <think>
+Will: It is deemed to admit the claim, not lapse.
+Hannah: Yes: deemed admission, not lapse.
+Will: Now amending statements of case: first ask whether the statement of case has been served. Before service, a party may amend at any time without permission. The court may disallow it, and any party may apply to do so within 14 days of service of the amended statement of case.
+Hannah: What about after service?
+Will: Only with the written consent of all the other parties or the court's permission; but removing, adding or substituting a party needs an application under Part 19.
+Hannah (summing up): After service, amend only with all the other parties' written consent or the court's permission; but changing a party always needs a Part 19 application.
+Will: Yes: consent or permission, and party changes by application.
+
+## Block 9: Adding, removing and substituting parties
+Hannah: Before changing parties, a question on amendment: after service the defendant refuses consent. Can the claimant still amend?
+Will (scenario pause): <think>
+Will: Yes, by applying for permission; refusal does not end it.
+Hannah: Yes: consent is only one of two routes.
+Will: Now adding, removing and substituting parties: when can the court do it, and is consent enough? The court may add a new party if it is desirable to resolve all the matters in dispute, or if there is a connected issue between the new party and an existing party which it is desirable to resolve.
+Hannah: What about removing a party?
+Will: The court may order a person to cease to be a party if it is not desirable for them to be a party.
+Hannah: Is everyone's consent enough?
+Will: No. Before the claim form is served, the claimant can add, remove or substitute parties without permission. After service, permission is always needed, even if all parties consent, unlike most other amendments.
+Hannah (summing up): Desirability decides whether the court adds or removes a party; once the claim form is served, permission is always needed, even with consent.
+Will: Yes: desirability, and consent never replaces permission.
+
+## Block 10: Amendments after limitation
+Hannah: Before amendments after limitation, a question on parties: after service, all parties consent to adding a defendant. Is permission still needed?
+Will (scenario pause): <think>
+Will: Yes: after service, consent is not enough for party changes, unlike most other amendments.
+Hannah: Yes: permission is always needed.
+Will: Now amendments after limitation: once it has expired, can a party add a new claim or a new party? A new claim can be added only if it arises out of the same or substantially the same facts as a claim already in issue.
+Hannah: What about adding or substituting a party?
+Will: That is allowed only if the limitation period was current when proceedings started and the change is necessary.
+Hannah: When is it necessary?
+Will: There are three cases. One, the new party is substituted for a party named in the claim form in mistake for the new party. Two, the claim cannot properly be carried on by or against the original party unless the new party is added or substituted.
+Hannah: And the third case?
+Will: Three, the original party has died or been made bankrupt and its interest or liability has passed to the new party. In a personal injury claim, the court may also add or substitute a party if it directs that the ordinary limitation period does not apply, or that this be decided at trial.
+Hannah (summing up): After limitation, a new claim needs substantially the same facts; a new party needs a period current at issue and a necessary change, or, in personal injury, a direction disapplying limitation or leaving it to trial.
+Will: Yes: same facts for a claim, necessity for a party.
+
+## Block 11: Requests for further information (Part 18)
+Hannah: Before further information, a question: limitation has expired. Is it enough that adding a defendant is desirable?
+Will (scenario pause): <think>
+Will: No: the limitation period must have been current at the start and the change necessary; desirability alone is the tempting answer.
+Hannah: Yes: necessity governs after limitation.
+Will: Now requests for further information under Part 18: how does a party get it? The court may order a party to clarify any matter in dispute or give additional information about it, whether or not it is in a statement of case. A request must be confined to matters reasonably necessary and proportionate to enable the requesting party to prepare its own case or understand the case it has to meet.
+Hannah: What if there is no response?
+Will: Then the requesting party can apply for an order. The application need not be served, and the court may deal with it without a hearing, but only where no response at all has been made.
+Hannah: Is there a time condition as well?
+Will: Yes: at least 14 days must have passed since the request was served, and the response date must have expired.
+Hannah (summing up): A Part 18 request must be confined to what is reasonably necessary and proportionate; with no response, the requesting party may apply for an order.
+Will: Yes: confined and proportionate, then an application.
+
+## Recap
+Hannah: Last question, on Part 18: a party has responded in part only, the response date has expired and 14 days have passed. Can the court deal with the application without a hearing?
+Will (scenario pause): <think>
+Will: No: that route is only for where no response at all has been made, however much time has passed.
+Hannah: Yes: no response at all is the condition.
+Hannah: Now the quick-fire round. What's the summary for counterclaims?
+Will (quick-fire pause): <think>
+Will: A counterclaim is an independent claim; against the claimant it needs no permission if filed with the defence, otherwise the court's permission.
+Hannah: What's the summary for set-off?
+Will (quick-fire pause): <think>
+Will: A set-off reduces or extinguishes the claim; where the cross-claim is bigger, the balance can also be counterclaimed.
+Hannah: What's the summary for the defence to a counterclaim?
+Will (quick-fire pause): <think>
+Will: A claimant must defend a counterclaim within 14 days after service, with no acknowledgment of service, or the defendant can enter default judgment.
+Hannah: What's the summary for the reply?
+Will (quick-fire pause): <think>
+Will: A reply is optional, and without one the defendant must still prove its new matters; after a reply, no statement of case without permission.
+Hannah: What's the summary for additional claims and their types?
+Will (quick-fire pause): <think>
+Will: Any claim other than the claimant's against the defendant is an additional claim; after service, changing parties needs a Part 19 application.
+Hannah: What's the summary for permission on additional claims?
+Will (quick-fire pause): <think>
+Will: An additional claim needs no permission if made with the defence (before it too, except a counterclaim against the claimant or a contribution notice; within 28 days after a later-added defendant's defence, for a contribution notice); otherwise permission.
+Hannah: What's the summary for default on additional claims?
+Will (quick-fire pause): <think>
+Will: A Part 20 defendant that does not acknowledge service or file a defence is deemed to admit the claim, except the claimant on a counterclaim or a co-defendant given a contribution notice.
+Hannah: What's the summary for amending statements of case?
+Will (quick-fire pause): <think>
+Will: After service, amend only with all the other parties' written consent or the court's permission; but changing a party always needs a Part 19 application.
+Hannah: What's the summary for adding, removing and substituting parties?
+Will (quick-fire pause): <think>
+Will: Desirability decides whether the court adds or removes a party; once the claim form is served, permission is always needed, even with consent.
+Hannah: What's the summary for amendments after limitation?
+Will (quick-fire pause): <think>
+Will: After limitation, a new claim needs substantially the same facts; a new party needs a period current at issue and a necessary change, or, in personal injury, a direction disapplying limitation or leaving it to trial.
+Hannah: What's the summary for requests for further information?
+Will (quick-fire pause): <think>
+Will: A Part 18 request must be confined to what is reasonably necessary and proportionate; with no response, the requesting party may apply for an order.
+Hannah: And in one sentence, what decides most of the questions in this workshop?
+Will: Timing decides permission: amendments need none before service; after service, all other parties' written consent or permission, and always permission to change parties.
