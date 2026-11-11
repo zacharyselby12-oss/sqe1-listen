@@ -2774,7 +2774,7 @@
       ],
       "summary": "Pure economic loss from a negligent act is not recoverable as a general rule, so a duty needs a recognised exception or an assumption of responsibility on which the claimant reasonably relied.",
       "madeAt": "2026-11-11T12:43:19+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 34/34 items; known-error scan 0 hits; Opus accuracy + line-by-line, fixes applied, changed lines pass",
@@ -2785,7 +2785,15 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 6671209,
+      "seconds": 834,
+      "words": 2132,
+      "renderedHash": "6bd7a73c18da",
+      "renderedAt": "2026-11-11T12:44:17+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws07-rev-v1-284bcc1a.mp3",
+      "pubDate": "2026-11-11T12:44:17+00:00"
     },
     {
       "id": "tort-ws09-rev-v1",
@@ -2811,7 +2819,7 @@
       ],
       "summary": "Whether the claimant is a visitor decides the duty: visitors get the common duty of care, while non-visitors get at most the 1984 Act duty, only if its three conditions are met, and for injury only.",
       "madeAt": "2026-11-11T12:43:19+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "rewritten in full (was held: guide changed); code ok (v2.3, revision shape, 0 errors); revcheck ok 65/65 items (flags: about 19 min, 6 recall pauses); known-error scan 0 hits; Opus accuracy + line-by-line (9 problems, fixed by fixflow); changed-lines check: 2 more fixes, then pass",
@@ -2824,7 +2832,15 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9621165,
+      "seconds": 1203,
+      "words": 2870,
+      "renderedHash": "19fc6195662b",
+      "renderedAt": "2026-11-11T12:44:17+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws09-rev-v1-75e39094.mp3",
+      "pubDate": "2026-11-11T12:44:17+00:00"
     }
   ],
   "replays": [
