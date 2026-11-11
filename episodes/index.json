@@ -2874,7 +2874,7 @@
       ],
       "summary": "Time runs in clear days from deemed service of the particulars, and that decides default judgment; a default judgment wrongly entered must be set aside, but otherwise the defendant needs a real prospect of defending or some other good reason, and must have applied promptly.",
       "madeAt": "2026-11-11T17:46:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 77/77 items; known-error scan 0 hits; Opus accuracy + line-by-line, fixes applied; one revision (code checks, length); changed lines verified (second round of 4 fixes and a length trim re-verified: pass)",
@@ -2891,7 +2891,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9466725,
+      "seconds": 1183,
+      "words": 2775,
+      "renderedHash": "c7f7ac01ac70",
+      "renderedAt": "2026-11-11T17:47:15+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws02-rev-v1-3b2fcaa5.mp3",
+      "siteAudio": "audio/dr-ws02-rev-v1-3b2fcaa5.mp3",
+      "pubDate": "2026-11-11T17:47:15+00:00"
     }
   ],
   "replays": [
