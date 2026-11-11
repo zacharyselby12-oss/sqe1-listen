@@ -149,17 +149,26 @@ jobs:
             git push -q origin "HEAD:${GITHUB_REF_NAME}"
           fi
 
+      # b237: a site without its feed (a run stopped part-way) is never uploaded or deployed; the live site stays as it is
       - uses: actions/configure-pages@v5
-        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true' && hashFiles('_site/feed.xml') != ''
 
       - uses: actions/upload-pages-artifact@v3
-        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true' && hashFiles('_site/feed.xml') != ''
         with:
           path: _site
 
       - id: deployment
-        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true'
+        if: steps.run.outputs.skipped != 'true' && steps.quiet.outputs.shabbat != 'true' && hashFiles('_site/feed.xml') != ''
         uses: actions/deploy-pages@v4
+
+      # b199: each episode address on the site must answer a range request with 206, audio/mpeg or audio/mp3 (Pages sends audio/mp3) and no redirect, and the file must
+      # be the size the feed gives. A failure shows as a warning on the run; it never stops the run.
+      - name: Check the website's episode addresses
+        if: steps.deployment.outcome == 'success'
+        continue-on-error: true
+        timeout-minutes: 5
+        run: python3 tools/check_site_audio.py _site/feed.xml
 
       - name: Fail the run if any episode failed to render
         if: steps.run.outcome == 'failure'

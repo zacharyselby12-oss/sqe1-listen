@@ -7,13 +7,16 @@
 2. Voice audition, if audition/request.json has a new id.
 3. Render every episode with status "queued" (pilots go to "review" until approved).
 4. Publish approved pilots, retire superseded episodes.
-5. Build _site: feeds, cover, index page, review page, audition page. Audio lives in the repo's audio release.
+5. Build _site: feeds, cover, index page, review page, audition page. Audio lives in the repo's audio release; the newest
+   episodes' MP3s are also put on the site itself and the feeds point there (b199, place_site_audio).
 Writes episodes/index.json back. Sets GitHub outputs "skipped" and "failed".
 """
 import json
 import os
+import re
 import shutil
 import sys
+import time
 from datetime import timedelta, datetime, timezone
 from html import escape
 from pathlib import Path
@@ -117,6 +120,8 @@ def copy_fixed_audio(index, config, fake=False):
             stored = upload_audio(tmp, new)
             if stored:
                 ep["audioUrl"] = stored
+                if ep.get("siteAudio"):
+                    ep["siteAudio"] = "audio/" + new   # (b239) the website copy follows the new file name too
                 print("  audio copied for %s: %s" % (ep["id"], stored), flush=True)
         except Exception as e:  # noqa: BLE001
             print("  could not copy the audio of %s yet: %s" % (ep["id"], e), flush=True)
@@ -132,9 +137,11 @@ def store_audio(ep, voices_text):
     if not local.exists():
         return
     tag = hashlib.sha256(((ep.get("renderedHash") or ep.get("scriptHash") or "") + voices_text).encode()).hexdigest()[:8]
-    url = upload_audio(local, "%s-%s.mp3" % (ep["id"], tag))
+    name = "%s-%s.mp3" % (ep["id"], tag)
+    url = upload_audio(local, name)
     if url:
         ep["audioUrl"] = url
+        ep["siteAudio"] = "audio/" + name   # (b199) also served from the website while it is among the newest (place_site_audio)
         print("  audio stored: %s" % url, flush=True)
 
 
@@ -196,6 +203,7 @@ def render_queued(index, voices, now, fake, config=None, only_pilots=False, voic
                       renderedHash=script_hash(text), renderedAt=now.isoformat(timespec="seconds"),
                       voices=voices.get("mode", "pair") + ":" + voices["lead"]["voice"] + "+" + voices["second"]["voice"])
             ep.pop("audioUrl", None)
+            ep.pop("siteAudio", None)   # (b199) a remake gets a new file name; the old one must never carry the new audio
             if not fake:
                 try:
                     store_audio(ep, ep["voices"])
@@ -285,6 +293,109 @@ def review_page(index):
             + "</body></html>")
 
 
+STARTED = time.monotonic()
+SITE_MAX_MB = 900            # (b199) GitHub Pages refuses a site over 1 GB: the whole site (voice test and covers too) stays under this
+SITE_SPARE_BYTES = 2000000   # room kept for the feeds and pages, written after the audio
+SITE_AUDIO_NAME = re.compile(r"^audio/[A-Za-z0-9][A-Za-z0-9._-]*\.mp3$")
+
+
+def tree_bytes(path):
+    path = Path(path)
+    return sum(f.stat().st_size for f in path.rglob("*") if f.is_file()) if path.exists() else 0
+
+
+def place_site_audio(index, config, site):
+    """(b199) The newest episodes' MP3s go on the website itself, so the feeds give them a plain .mp3 address that GitHub Pages
+    serves with byte ranges and no redirect (its Content-Type is audio/mp3; the feed's enclosure type stays audio/mpeg). (A release download answers with a redirect to an expiring
+    application/octet-stream link, and Apple Podcasts sometimes fails its first try at one and then won't play it.)
+    Only published episodes rendered since b199 (they carry "siteAudio"), newest audio first, as many as fit under the site cap
+    (config "siteMaxMB", default SITE_MAX_MB); the first that doesn't fit ends the list, so an episode that rotates out never comes
+    back. The release copy stays the master: each run copies the file from this run's render or downloads it from the release
+    (in GitHub Actions only), checked against the recorded size. An episode that isn't placed keeps its release address.
+    Opt-in: config "siteAudioFrom" (a date) also takes episodes rendered since then without "siteAudio" (under their release name).
+    Returns {episode id: path of its MP3 under the site}."""
+    from concurrent.futures import ThreadPoolExecutor
+    try:   # "siteMaxMB": 0 switches site audio off (b239); a missing or unreadable value means the default
+        cap_mb = config.get("siteMaxMB")
+        cap_mb = SITE_MAX_MB if cap_mb is None else float(cap_mb)
+    except (TypeError, ValueError):
+        cap_mb = SITE_MAX_MB
+    if cap_mb <= 0:
+        print("website audio: switched off (config siteMaxMB is 0); every episode keeps its release address", flush=True)
+        return {}
+    room = (int(cap_mb * 1000000) - tree_bytes(site)
+            - tree_bytes(ROOT / "audition" / "out") - SITE_SPARE_BYTES)   # main() copies the voice test in after this
+    def made(e):   # newest audio first; a date that can't be read sorts last rather than stopping the run
+        try:
+            return feed.parse_dt(e.get("renderedAt") or e.get("pubDate"))
+        except Exception:  # noqa: BLE001
+            return datetime(1970, 1, 1, tzinfo=timezone.utc)
+
+    try:   # opt-in (off by default): config "siteAudioFrom" (a date) also takes episodes rendered since then, before b199 landed
+        since = feed.parse_dt(config["siteAudioFrom"]) if config.get("siteAudioFrom") else None
+    except Exception:  # noqa: BLE001
+        since = None
+        print("  config siteAudioFrom is not a date: ignored", flush=True)
+
+    def site_path(e):
+        if SITE_AUDIO_NAME.match(e.get("siteAudio") or ""):
+            return e["siteAudio"]
+        url = (e.get("audioUrl") or "").split("?")[0]
+        if since and e.get("renderedAt") and "/releases/download/" in url and made(e) >= since:
+            name = "audio/" + url.rsplit("/", 1)[-1]
+            return name if SITE_AUDIO_NAME.match(name) else None
+        return None
+
+    eps = [e for e in index.get("episodes", []) if e.get("status") == "published" and e.get("audioUrl")
+           and isinstance(e.get("bytes"), int) and e["bytes"] > 0 and site_path(e)]
+    eps.sort(key=made, reverse=True)
+    window = []
+    for e in eps:
+        if int(e["bytes"]) > room:
+            break
+        window.append(e)
+        room -= int(e["bytes"])
+    stop = min(time.monotonic() + float(os.environ.get("SITE_AUDIO_SECONDS", "300")), STARTED + 32 * 60)   # the step stops at 35
+    fetch = bool(os.environ.get("GITHUB_REPOSITORY"))   # downloads in GitHub Actions only, as copy_fixed_audio
+
+    tmpdir = Path(str(site) + ".tmp")   # (b237) outside the site: a stopped run leaves nothing half-copied in what is deployed
+    shutil.rmtree(tmpdir, ignore_errors=True)
+
+    def place(e):
+        dest = site / site_path(e)
+        tmp = tmpdir / site_path(e).replace("/", "_")
+        local = ROOT / e["audio"]
+        try:
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            tmp.parent.mkdir(parents=True, exist_ok=True)
+            if local.exists() and local.stat().st_size == int(e["bytes"]):
+                shutil.copy2(local, tmp)                  # made in this run
+            elif fetch and time.monotonic() < stop:
+                fetch_audio(e["audioUrl"], tmp)           # from the release, the master copy
+            else:
+                return e, "not fetched (%s)" % ("out of time" if fetch else "outside GitHub Actions")
+            if tmp.stat().st_size != int(e["bytes"]):    # a download cut short raises nothing: never serve a short file
+                raise IOError("%d bytes, expected %d" % (tmp.stat().st_size, int(e["bytes"])))
+            os.replace(tmp, dest)                         # only a whole, size-checked file ever appears under its real name
+            return e, None
+        except Exception as err:  # noqa: BLE001
+            for f in (tmp, dest):
+                if f.exists():
+                    f.unlink()
+            return e, "%s: %s" % (type(err).__name__, str(err)[:200])
+
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        results = list(ex.map(place, window))
+    shutil.rmtree(tmpdir, ignore_errors=True)
+    placed = {e["id"]: site_path(e) for e, err in results if err is None}
+    for e, err in results:
+        if err:
+            print("  %s stays on its release address this run: %s" % (e["id"], err), flush=True)
+    print("website audio: %d episode(s) on the site (%.0f MB); %d newer-than-b199 episode(s) on the release address only"
+          % (len(placed), sum(int(e["bytes"]) for e in window if e["id"] in placed) / 1e6, len(eps) - len(placed)), flush=True)
+    return placed
+
+
 def build_site(index, config, site, burl):
     if site.exists():
         shutil.rmtree(site)
@@ -296,8 +407,9 @@ def build_site(index, config, site, burl):
         shutil.copy2(ROOT / "cover.png", site / "cover.png")
     if (ROOT / "covers").exists():
         shutil.copytree(ROOT / "covers", site / "covers")
+    # (b237) Feeds and pages first, on release addresses, so that a run stopped while the audio is placed still leaves a complete
+    # site; then the audio (temporary name, then rename); then the feeds again with the site addresses of what was placed.
     counts = feed.build_all(index, config, burl, site)
-    n = counts["all"]
     (site / "review").mkdir()
     (site / "review" / "index.html").write_text(review_page(index), encoding="utf-8")
     (site / "index.html").write_text(
@@ -305,7 +417,10 @@ def build_site(index, config, site, burl):
         "content=\"noindex\"><title>SQE1 Listen</title></head><body><h1>SQE1 Listen</h1>"
         "<p>Private podcast. <a href=\"subscribe/\">Add it to Apple Podcasts</a> (everything, or one show per area of law).</p>"
         "<p><a href=\"review/\">Episodes waiting for review</a> &middot; <a href=\"audition/\">Voice test</a></p></body></html>", encoding="utf-8")
-    return n
+    on_site = place_site_audio(index, config, site)   # (b199) the newest episodes' MP3s, served from the site
+    if on_site:
+        counts = feed.build_all(index, config, burl, site, on_site=on_site)
+    return counts["all"]
 
 
 PACIFIC = ZoneInfo("America/Los_Angeles")   # Google's daily limits reset at midnight here

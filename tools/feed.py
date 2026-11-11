@@ -99,8 +99,11 @@ def items_for(index, fixes=None):
     return items
 
 
-def build(index, config, base_url, out_path, area=None):
-    """Write one feed: everything (area=None) or one area of law. Returns the number of items."""
+def build(index, config, base_url, out_path, area=None, on_site=None):
+    """Write one feed: everything (area=None) or one area of law. Returns the number of items.
+    `on_site` (b199, from run.place_site_audio): {episode id: path of its MP3 on this site}. Those episodes (and their replays) get
+    the site's plain .mp3 address; every other item keeps its audioUrl (the release), so existing items are unchanged."""
+    on_site = on_site or {}
     show = config["show"]
     names = config.get("areaNames", {})
     base_url = base_url.rstrip("/")
@@ -144,8 +147,9 @@ def build(index, config, base_url, out_path, area=None):
         _text(item, "title", it["title"])
         _text(item, "description", it["notes"])
         _text(item, q("itunes", "summary"), it["notes"])
-        ET.SubElement(item, "enclosure", {"url": e.get("audioUrl") or "%s/%s" % (base_url, e["audio"]),
-                                          "length": str(e.get("bytes", 0)), "type": "audio/mpeg"})
+        url = ("%s/%s" % (base_url, on_site[e["id"]]) if e.get("id") in on_site
+               else e.get("audioUrl") or "%s/%s" % (base_url, e["audio"]))
+        ET.SubElement(item, "enclosure", {"url": url, "length": str(e.get("bytes", 0)), "type": "audio/mpeg"})
         _text(item, "guid", it["guid"], isPermaLink="false")
         _text(item, "pubDate", format_datetime(it["pub"]))
         _text(item, q("itunes", "duration"), hms(e.get("seconds")))
@@ -163,13 +167,13 @@ def build(index, config, base_url, out_path, area=None):
     return len(items)
 
 
-def build_all(index, config, base_url, site):
+def build_all(index, config, base_url, site, on_site=None):
     """feed.xml, one feed per area of law that has episodes, and the page that lists them. Returns item counts."""
     site = Path(site)
-    counts = {"all": build(index, config, base_url, site / "feed.xml")}
+    counts = {"all": build(index, config, base_url, site / "feed.xml", on_site=on_site)}
     areas = sorted({area_of(it["ep"])[0] for it in items_for(index, config.get("feedFixes"))} - {None})
     for a in areas:
-        counts[a] = build(index, config, base_url, site / "feeds" / ("%s.xml" % a), area=a)
+        counts[a] = build(index, config, base_url, site / "feeds" / ("%s.xml" % a), area=a, on_site=on_site)
     subscribe_page(config, base_url, counts, site / "subscribe" / "index.html")
     return counts
 
