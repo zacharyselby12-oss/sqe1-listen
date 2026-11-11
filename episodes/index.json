@@ -2662,6 +2662,81 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws02-rev-v1-4054344a.mp3",
       "pubDate": "2026-11-10T21:44:39+00:00"
+    },
+    {
+      "id": "tort-ws03-rev-v1",
+      "unitId": "u-bpp-Tort-03",
+      "title": "Tort WS03 · Revision · 17 min",
+      "guideHash": "abaf0ccbca",
+      "script": "scripts/tort-ws03-rev-v1.txt",
+      "scriptHash": "bd3e20ba926b",
+      "audio": "audio/tort-ws03-rev-v1.mp3",
+      "recap": [
+        "Work in order: factual causation, normally by the but for test, then several causes or tortfeasors, then whether a later event broke the chain.",
+        "Causation is all or nothing: a greater than 50% probability establishes it in full, and anything less fails the claim entirely.",
+        "A more than negligible contribution to cumulative indivisible harm that science can't apportion means liability in full; mesothelioma needs a material increase in risk; a lost medical chance isn't recoverable.",
+        "Each tortfeasor causing the same indivisible damage is liable for the whole, and contribution settles shares; a later tort leaves the first liable for the continuing loss, but a later unrelated natural illness reduces it from that point.",
+        "The claimant's own conduct breaks the chain only if so unreasonable that it eclipses the defendant's wrong, and then the later claim fails entirely; mere carelessness only reduces damages."
+      ],
+      "map": [
+        "Introduction to causation",
+        "Factual causation: the 'but for' test",
+        "Factual causation where the 'but for' test cannot be satisfied",
+        "Apportionment and multiple sufficient causes",
+        "Legal causation"
+      ],
+      "summary": "But for is proved on the balance of probabilities, all or nothing; special route only if but for cannot be satisfied; each tortfeasor causing the same indivisible damage is liable for the whole; later chain-breaking event ends liability for later harm.",
+      "madeAt": "2026-11-11T08:46:05+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 28/28 items (flags: about 16.6 min, 6 recall pauses for 5 areas); known-error scan 0 hits; Opus accuracy + line-by-line (7 problems: one-liner and recap qualifiers — science can't apportion, from that point, later event breaking the chain — fixed); changed-lines check 1: 4 follow-on recap/quick-fire wording fixes (natural illness; cumulative-harm condition) applied, summary shortened; changed-lines check 2: content pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "tort-ws08-rev-v1",
+      "unitId": "u-bpp-Tort-08",
+      "title": "Tort WS08 · Revision · 19 min",
+      "guideHash": "907a93765c",
+      "script": "scripts/tort-ws08-rev-v1.txt",
+      "scriptHash": "f320cfd28190",
+      "audio": "audio/tort-ws08-rev-v1.mp3",
+      "recap": [
+        "Someone with a proprietary interest or exclusive possession can sue for substantial indirect interference, judged by locality unless physical damage, from a use that is not a common and ordinary use of land conveniently done; personal injury isn't recoverable.",
+        "Prescription needs 20 years' enjoyment as of right of an actionable nuisance; coming to the nuisance, public benefit and planning permission are no defences; an injunction is primary but discretionary, so damages may replace it.",
+        "In public nuisance an individual needs special damage beyond the public's, but no interest in land, and can recover personal injury and economic loss.",
+        "Rylands is strict liability for escapes of dangerous things in non-natural use, but only someone with an interest in the land affected can sue, and only for land or property damage."
+      ],
+      "map": [
+        "Private nuisance: who can sue and be sued, and the elements",
+        "Private nuisance: defences and remedies",
+        "Public nuisance",
+        "The rule in Rylands v Fletcher"
+      ],
+      "summary": "Private nuisance: land interest or exclusive possession; substantial indirect interference from a use not a common and ordinary use of land conveniently done; public: special damage beyond the public's; Rylands: escape from non-natural use; strict liability, land or property only.",
+      "madeAt": "2026-11-11T08:46:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 86/86 items (flags: about 19.6 min, 5 recall pauses for 4 areas); known-error scan 1 hit (prescription 20-years line) judged not the error by the Opus accuracy check: cleared; Opus accuracy + line-by-line (20 problems merged to 16: standing and the common-and-ordinary-use limb in recaps, the prescription rationale and its extent, the summary's exclusive-possession limb; fixed); changed-lines check 1: 5 problems ('conveniently done' dropped or limb garbled in recaps, quick-fire and summary) fixed; code-check revision (summary length, under 20 minutes by cutting repetition); changed-lines check 2: pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

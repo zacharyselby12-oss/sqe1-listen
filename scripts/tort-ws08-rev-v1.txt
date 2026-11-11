@@ -1,0 +1,186 @@
+---
+id: tort-ws08-rev-v1
+unit: u-bpp-Tort-08
+guide_hash: 907a93765c
+made: 2026-11-11T08:46:06+00:00
+kind: revision
+title: Tort WS08 · Revision · 19 min
+map:
+- Private nuisance: who can sue and be sued, and the elements
+- Private nuisance: defences and remedies
+- Public nuisance
+- The rule in Rylands v Fletcher
+recap:
+- Someone with a proprietary interest or exclusive possession can sue for substantial indirect interference, judged by locality unless physical damage, from a use that is not a common and ordinary use of land conveniently done; personal injury isn't recoverable.
+- Prescription needs 20 years' enjoyment as of right of an actionable nuisance; coming to the nuisance, public benefit and planning permission are no defences; an injunction is primary but discretionary, so damages may replace it.
+- In public nuisance an individual needs special damage beyond the public's, but no interest in land, and can recover personal injury and economic loss.
+- Rylands is strict liability for escapes of dangerous things in non-natural use, but only someone with an interest in the land affected can sue, and only for land or property damage.
+summary: Private nuisance: land interest or exclusive possession; substantial indirect interference from a use not a common and ordinary use of land conveniently done; public: special damage beyond the public's; Rylands: escape from non-natural use; strict liability, land or property only.
+invented:
+- a solicitor and an intended beneficiary (warm-up)
+- a landlord and a tenant who holds loud parties every weekend
+- a village cricket club whose balls land in a neighbour's garden
+- a dangerous projection over the highway and a passer-by with no interest in land
+- thistles spreading from the defendant's land to a neighbour's crops
+guide_only:
+- P:TL-3-14
+- P:TL-1.3-15
+- P:TL-6.1-04
+- P:TL-6.3-01
+- P:TL-6.3-05
+- P:TL-6.1-12
+---
+## Map
+Will: Today's big question is land-based torts: when can someone sue over interference with land, and what must they prove? There are two sections: private nuisance, with two areas, and then public nuisance and Rylands v Fletcher, with two more. So four areas: who can sue and be sued in private nuisance, and its elements; private nuisance defences and remedies; public nuisance; and the rule in Rylands v Fletcher.
+Hannah: Before we start, a warm-up from pure economic loss: a solicitor carelessly fails to execute a client's will properly, so an intended beneficiary loses the legacy. Does the solicitor owe her a duty, even though she never relied on him?
+Will (scenario pause): <think>
+Will: He does. The tempting answer, no duty without reliance, fails because reliance is the test for statements, not for wills.
+Hannah: Yes: the intended beneficiary who loses the legacy is owed a duty with no reliance needed.
+## Block 1: Private nuisance: who can sue and be sued, and the elements
+Will: Now private nuisance: who can sue and be sued, and when is an interference actionable? Private nuisance is an unlawful interference with a person's use or enjoyment of land, or some right over or in connection with it.
+Hannah: What forms can that take?
+Will: There are three forms: encroachment, such as roots, branches or knotweed; physical damage to land; and interference with quiet enjoyment, such as noise, smells, dust or vibration.
+Hannah: Does the interference have to be direct?
+Will: No, it must be indirect, because a direct physical intrusion is trespass to land.
+Hannah: So who is allowed to sue?
+Will: Only a person with a proprietary interest in the affected land, or exclusive possession, can sue in private nuisance. So an owner or tenant can, but family members, lodgers and guests cannot.
+Hannah: And who can be sued?
+Will: The creator of a nuisance is liable whether or not he occupies the land. An occupier is liable for a nuisance created by a trespasser or third party if he continues or adopts it.
+Hannah: What does continuing or adopting mean?
+Will: It means he knows or ought to know of it and fails to take reasonable steps to end it, or he uses it for his own purposes.
+Hannah: And what about a landlord whose tenant causes the nuisance?
+Will: A landlord is liable for a tenant's nuisance only if he authorised it, expressly or by necessary implication, or participated in it. Merely knowing and failing to act is not enough, unlike an occupier.
+Hannah: Can a landlord be liable in any other way?
+Will: Yes: he may also be liable for a nuisance existing before the letting, or from disrepair he is obliged to remedy.
+Hannah: Now the elements. Does knotweed count as damage?
+Will: Encroachment by roots or invasive plants, such as Japanese knotweed, is actionable without physical damage if it interferes with the claimant's ability to use and enjoy land. But pure loss of market value, by itself, is not.
+Hannah: And what about personal injury?
+Will: Personal injury is not recoverable in private nuisance, because it protects land, so the claimant must sue in negligence or public nuisance. Damages also require that damage of the relevant type was reasonably foreseeable.
+Hannah: Does it matter how long it lasts?
+Will: Duration, frequency and time of day matter. Temporary building works are not a nuisance if carried out with reasonable care at reasonable times. An isolated escape is actionable only if it results from a dangerous state of affairs on the defendant's land.
+Hannah: So what is the test for unreasonableness?
+Will: Is the interference substantial, judged by the standards of an ordinary person in that locality? And is the defendant's use a common and ordinary use of land conveniently done? That is give and take, live and let live.
+Hannah: Is the defendant's fault part of that test?
+Will: No: the reasonableness of the defendant's conduct as such is not the test, so taking all reasonable care is no defence to his own nuisance.
+Hannah: Where does locality come in?
+Will: Locality is relevant to interference with enjoyment, but not to material physical damage to property. What is a nuisance in Belgrave Square may not be one in Bermondsey.
+Hannah: Does planning permission change that?
+Will: Planning permission is not a defence and does not authorise a nuisance. Its implementation may change the character of the locality only like any other development, not so far as it creates the nuisance, and its terms may be of some evidential value.
+Hannah: Do the defendant's own activities count towards the locality?
+Will: They count only so far as they are not themselves a nuisance.
+Hannah: What about a claimant who is unusually sensitive?
+Will: A claimant cannot make an ordinary use of neighbouring land a nuisance by putting his own land to an unusually sensitive use.
+Hannah: Is the claimant's own use otherwise relevant?
+Will: No, it is otherwise irrelevant, and he need not take steps to protect himself. For example, claimants with glass-walled flats need not put up net curtains against a gallery's viewing platform.
+Hannah: Can the defendant's motive make a difference?
+Will: Yes: malice can make otherwise reasonable conduct a nuisance, such as making noise deliberately to annoy a neighbour.
+Hannah (summing up): Someone with a proprietary interest or exclusive possession can sue for substantial indirect interference, judged by locality unless physical damage, from a use that is not a common and ordinary use of land conveniently done; personal injury isn't recoverable.
+Will: Yes: an interest in the land or exclusive possession, substantial indirect interference, locality ignored for physical damage, and no personal injury.
+## Block 2: Private nuisance: defences and remedies
+Hannah: Before defences, a question on who is liable: a landlord lets a flat to a tenant who holds loud parties every weekend, and the landlord knows but does nothing. Is the landlord liable to the neighbour?
+Will (scenario pause): <think>
+Will: Not on those facts. The tempting answer, liable because he knew and failed to act, fails because a landlord is liable only if he authorised the nuisance or participated in it.
+Hannah: Yes: for a landlord, knowledge alone is not enough; authorising or participating is.
+Will: Now defences and remedies in private nuisance: what answers a claim, and what will the court give? First, by prescription a right to commit a private nuisance can be acquired as an easement. The period is 20 years.
+Hannah: What must the defendant show?
+Will: Enjoyment as of right, so not by force, secrecy or permission, of an activity that was an actionable nuisance throughout. The 20 years need not be strictly continuous, but time runs only from when the activity began to be a nuisance to the claimant.
+Hannah: Can it be acquired for a public nuisance?
+Will: No, no such right can be acquired for a public nuisance.
+Hannah: How far does the right go?
+Will: Only as far as the nuisance went during the 20 years: the right acquired is limited to that extent.
+Hannah: Is statutory authority a defence?
+Will: Statutory authority is a complete defence where the nuisance is the inevitable result of carrying out what a statute authorises, done with reasonable care. Planning permission is not statutory authority.
+Hannah: What about consent and contributory negligence?
+Will: The claimant's consent is available as a defence, and contributory negligence gives a reduction.
+Hannah: And what is the limitation period?
+Will: The limit is 6 years from the damage, for nuisance and Rylands. For a continuing nuisance a fresh cause of action arises each day, so damages can be claimed for the 6 years before issue.
+Hannah: Is a one-off escape continuing, and is any limit shorter?
+Will: A one-off escape that leaves contamination on the claimant's land is not a continuing nuisance. And the limit is 3 years where personal injury is claimed in public nuisance.
+Hannah: Now, what is not a defence?
+Will: There are five things that are not defences. First, the claimant came to the nuisance, meaning he moved there after it began. Second, the activity is useful to the public. Third, the defendant has planning permission.
+Hannah: And the other two?
+Will: Fourth, the defendant took all reasonable care, for his own nuisance. Fifth, the nuisance is caused by several people whose individual contributions would not be a nuisance.
+Hannah: Now the remedies. What is the primary one?
+Will: An injunction is the primary remedy for a continuing nuisance, but it is discretionary, because it is equitable. It may be prohibitory, mandatory, or quia timet where substantial harm is imminent.
+Hannah: And what other forms can it take?
+Will: It may also be interim, partial, such as limiting hours or number of events, or suspended to give the defendant time.
+Hannah: Can damages replace an injunction?
+Will: Yes: the court may award damages in lieu, the burden being on the defendant to show why an injunction should not be granted.
+Hannah: How does public benefit fit in?
+Will: Public benefit is not a defence to nuisance, but it can lead the court to award damages instead of an injunction.
+Hannah (summing up): Prescription needs 20 years' enjoyment as of right of an actionable nuisance; coming to the nuisance, public benefit and planning permission are no defences; an injunction is primary but discretionary, and damages may replace it.
+Will: Yes: 20 years as of right of an actionable nuisance for prescription, three of the five things that are no defence, and an injunction as the primary but discretionary remedy.
+## Block 3: Public nuisance
+Hannah: Before public nuisance, a question on defences: a village cricket club's balls keep landing in a neighbour's garden, and the club says cricket benefits the community. Is that a defence, and can it affect the remedy?
+Will (scenario pause): <think>
+Will: It is not a defence, but it can lead the court to award damages instead of an injunction. The tempting answer, that public benefit defeats the claim outright, fails because it only affects the remedy.
+Hannah: Yes: public benefit is no defence, but it can turn an injunction into damages.
+Will: Now public nuisance: what is it, and when can an individual sue? It is an act or omission that materially affects the reasonable comfort and convenience of life of a class of the public, meaning a sufficiently large representative cross-section. It is both a crime, now a statutory offence, and a tort.
+Hannah: Must it be continuing?
+Will: No, it may arise from a single event, such as an explosion, as well as a continuing state of affairs. But there must be a common injury: an injury to the public or a significant section of it as a whole, not separate injuries to individuals one by one.
+Hannah: And what about the highway?
+Will: Unreasonable obstruction of the highway, or dangerous projections over it, are public nuisances. Temporary, reasonable use of the highway, such as a hosepipe across the pavement during a drought, is not.
+Hannah: Can the same facts be both private and public nuisance?
+Will: Yes: for those with land affected it is private nuisance, and for the class it is public nuisance. Private nuisance does not require a class to be affected.
+Hannah: Now, who can sue in public nuisance?
+Will: An individual can sue only if he suffered special damage over and above that suffered by the public generally. That includes personal injury, property damage, or substantial business loss or extra expense.
+Hannah: Does he need an interest in land?
+Will: He need have no interest in land, and he can recover personal injury and economic loss. In private nuisance, by contrast, only someone with a proprietary interest or exclusive possession can sue, and personal injury is not recoverable.
+Hannah: And what if there is no special damage?
+Will: Then a public nuisance is restrained by the Attorney-General, in a relator action, or by a local authority seeking an injunction for the public.
+Hannah: What remedies does he have?
+Will: He may claim damages and an injunction. Rylands claims, by contrast, are usually for damages for property damage only.
+Hannah (summing up): In public nuisance an individual needs special damage beyond the public's, but no interest in land, and can recover personal injury and economic loss.
+Will: Yes: special damage beyond the public's is the gateway, and once through it no land interest is needed and personal injury is recoverable.
+## Block 4: The rule in Rylands v Fletcher
+Hannah: Before Rylands, a question mixing public and private nuisance: a dangerous projection over the highway falls and injures a passer-by who has no interest in land. Can he sue in public nuisance?
+Will (scenario pause): <think>
+Will: He can, because personal injury is special damage, and a public nuisance claimant needs no interest in land. The tempting answer, no claim without an interest in land, is the private nuisance rule, which would not give him personal injury anyway.
+Hannah: Yes: special damage, and no land interest needed, so he can sue in public nuisance.
+Will: Now the rule in Rylands v Fletcher: when is a defendant strictly liable for something it brought onto its land that escapes? A person who, for his own purposes, brings on his land and collects and keeps there anything likely to do mischief if it escapes is liable for the damage that is the natural consequence of its escape. That is strict liability, with no need to prove negligence.
+Hannah: And who can sue?
+Will: Rylands is a sub-species of private nuisance, not of negligence. So only a claimant with an interest in the land affected can sue, and only for damage to land or property; personal injury is not recoverable.
+Hannah: Now the elements. What must the defendant do with the thing?
+Will: The thing must be brought onto or accumulated on the land by the defendant for his own purposes. Things naturally there, such as thistles, rainwater or rocks, are outside the rule, though nuisance may apply.
+Hannah: How dangerous must it be?
+Will: There must be an exceptionally high risk of danger or mischief if it escapes, even if it might not be dangerous in itself.
+Hannah: And what about the escape itself?
+Will: There must be an escape from land under the defendant's control to a place outside it, so injury on the defendant's own premises is not covered.
+Hannah: What must be foreseeable?
+Will: Damage of the relevant type must be reasonably foreseeable, though the escape itself need not be.
+Hannah: And what use of the land is needed?
+Will: The use must be non-natural: an extraordinary and unusual use of land, judged by contemporary standards, bringing increased danger. Ordinary domestic or general community use, such as normal water supply pipes to flats, does not qualify, though bulk industrial storage of chemicals does.
+Hannah: How does fire fit in?
+Will: For fire, Rylands will rarely apply. The thing brought onto the land must itself be exceptionally dangerous and its keeping an extraordinary use. The thing itself, not just the fire, must escape, so storing tyres was not enough.
+Hannah: Is there a statutory rule on fire too?
+Will: Under the Fires Prevention (Metropolis) Act, no action lies for a fire that begins accidentally. But this does not cover a fire begun or spread through negligence.
+Hannah: Now the defences. What is act of a stranger?
+Will: There is no liability where the escape was caused by the unforeseeable deliberate act of a third party over whom the defendant had no control. But there is liability if the act was foreseeable and could have been guarded against.
+Hannah: And what about act of God?
+Will: It covers an escape caused solely by natural forces so extreme that no human foresight could guard against them. It rarely succeeds, because heavy rainfall is usually foreseeable.
+Hannah: Are there other defences?
+Will: There are three. The first is statutory authority, where a statute authorises the activity and the escape is its inevitable result, depending on the statute's wording.
+Hannah: And what are the other two?
+Will: The claimant's consent, express or implied, including where the thing is kept for the common benefit of claimant and defendant; and the claimant's own default, wholly or partly via contributory negligence.
+Hannah: How do Rylands, nuisance and negligence compare?
+Will: Rylands requires an escape of an accumulated dangerous thing from non-natural use; liability is strict, and an isolated escape suffices. Private nuisance concerns an unreasonable, usually continuing, interference. Negligence requires proof of fault and covers personal injury.
+Hannah (summing up): Rylands is strict liability for escapes of dangerous things in non-natural use, but only someone with an interest in the land affected can sue, and only for land or property damage.
+Will: Yes: strict liability, a land interest to sue, land or property damage only, and a dangerous thing from a non-natural use.
+## Recap
+Hannah: Last recall question: thistles growing naturally on the defendant's land spread to a neighbour's crops. Is the defendant strictly liable under Rylands?
+Will (scenario pause): <think>
+Will: No, because things naturally there, such as thistles, are outside the rule, though nuisance may apply. The tempting answer, strict liability for any escape, fails because the thing must be brought or accumulated by the defendant for his own purposes.
+Hannah: Yes: naturally occurring things are outside Rylands, though nuisance may still apply. Now the quick-fire round. What's the summary for private nuisance, who can sue and be sued, and the elements?
+Will (quick-fire pause): <think>
+Will: Someone with a proprietary interest or exclusive possession can sue for substantial indirect interference, judged by locality unless physical damage, from a use that is not a common and ordinary use of land conveniently done; personal injury isn't recoverable.
+Hannah: What's the summary for private nuisance defences and remedies?
+Will (quick-fire pause): <think>
+Will: Prescription needs 20 years' enjoyment as of right of an actionable nuisance; coming to the nuisance, public benefit and planning permission are no defences; an injunction is primary but discretionary, so damages may replace it.
+Hannah: What's the summary for public nuisance?
+Will (quick-fire pause): <think>
+Will: In public nuisance an individual needs special damage beyond the public's, but no interest in land, and can recover personal injury and economic loss.
+Hannah: What's the summary for the rule in Rylands v Fletcher?
+Will (quick-fire pause): <think>
+Will: Rylands is strict liability for escapes of dangerous things in non-natural use, but only someone with an interest in the land affected can sue, and only for land or property damage.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Private nuisance needs a land interest or exclusive possession and substantial indirect interference from a use that is not a common and ordinary use of land conveniently done, public nuisance needs special damage beyond the public's, and Rylands needs an escape from a non-natural use, with strict liability to land or property only.

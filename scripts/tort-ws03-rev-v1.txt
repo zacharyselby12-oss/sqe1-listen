@@ -1,0 +1,154 @@
+---
+id: tort-ws03-rev-v1
+unit: u-bpp-Tort-03
+guide_hash: abaf0ccbca
+made: 2026-11-11T08:46:05+00:00
+kind: revision
+title: Tort WS03 · Revision · 17 min
+map:
+- Introduction to causation
+- Factual causation: the 'but for' test
+- Factual causation where the 'but for' test cannot be satisfied
+- Apportionment and multiple sufficient causes
+- Legal causation
+recap:
+- Work in order: factual causation, normally by the but for test, then several causes or tortfeasors, then whether a later event broke the chain.
+- Causation is all or nothing: a greater than 50% probability establishes it in full, and anything less fails the claim entirely.
+- A more than negligible contribution to cumulative indivisible harm that science can't apportion means liability in full; mesothelioma needs a material increase in risk; a lost medical chance isn't recoverable.
+- Each tortfeasor causing the same indivisible damage is liable for the whole, and contribution settles shares; a later tort leaves the first liable for the continuing loss, but a later unrelated natural illness reduces it from that point.
+- The claimant's own conduct breaks the chain only if so unreasonable that it eclipses the defendant's wrong, and then the later claim fails entirely; mere carelessness only reduces damages.
+summary: But for is proved on the balance of probabilities, all or nothing; special route only if but for cannot be satisfied; each tortfeasor causing the same indivisible damage is liable for the whole; later chain-breaking event ends liability for later harm.
+invented: []
+guide_only: []
+---
+
+## Map
+
+Will: Today's big question is causation: what must a claimant prove, and in what order? There are five areas: the order of questions; the but for test; the other routes where but for can't be satisfied; apportionment and multiple causes; and legal causation, which asks whether a later event broke the chain.
+Hannah: Before we start, a warm-up from breach of duty. A surgeon uses a technique that a respected minority of surgeons accept as proper. Is she negligent?
+Will (scenario pause): <think>
+Will: No, not if a responsible body of professional opinion accepts the practice as proper, and that body need not be a majority. The tempting answer, yes because most would act differently, is wrong. The one limit is that the opinion must withstand logical analysis.
+Hannah: Yes: a respected body of opinion is enough even when it's a minority, so long as it survives logical analysis.
+
+## Block 1: Introduction to causation
+
+Will: First, the introduction to causation: what must a claimant prove, and in what order?
+Hannah: So what's the first question a claimant has to answer?
+Will: Factual causation, which is normally the but for test: on the balance of probabilities, would the harm have occurred without the breach? If not, factual causation is proved.
+Hannah: And what if there are several causes or several tortfeasors?
+Will: That is the second question, and it decides which route applies and who pays. The last question is whether a later event was a successive cause, or an intervening act that broke the chain.
+Hannah (summing up): Work in order: factual causation, normally by the but for test, then several causes or tortfeasors, then whether a later event broke the chain.
+Will: Yes: factual causation comes first, then the question of several causes or tortfeasors, and only then whether a later event broke the chain.
+
+## Block 2: Factual causation: the 'but for' test
+
+Hannah: Before the but for test, a question on the order of questions. A claimant has proved factual causation, but a stranger's act then came along and added to the harm. What are the next two questions, and what follows if the chain was broken?
+Will (scenario pause): <think>
+Will: Ask first whether there are several causes or tortfeasors, and who pays; then ask whether the stranger's act broke the chain. If it did, there is no liability for the later harm. The tempting answer is to stop once but for is proved, but that is wrong, because a later event can still break the chain.
+Hannah: Yes: proving factual causation is only the first question.
+Will: Now, the but for test: would the harm have happened anyway, without the breach? Factual causation is decided by the but for test: the claimant must prove, on the balance of probabilities, that but for the defendant's breach the harm would not have occurred.
+Hannah: And how likely does that have to be for the claimant to succeed?
+Will: Causation is all or nothing, so think of a switch, not a dial. The threshold is greater than 50%. If the claimant proves it, causation is established in full; if not, the claim fails entirely, with no proportionate award.
+Hannah: What if the breach was a failure to act, such as a doctor who fails to attend?
+Will: Then the court asks what the defendant would have done had it acted. If it would not have taken the step that would have avoided harm, causation fails, unless not taking that step would itself have been negligent.
+Hannah: And what must a claimant show in a failure to warn claim?
+Will: She must show that, properly warned, she would not have undergone the procedure, or not at that time.
+Hannah: What if she would still have had the same operation at the same time?
+Will: Then causation fails, because the missing warning made no difference. Exceptionally, if she would have deferred the operation to a later date, she can recover, even though the risk would have been the same later. That is a narrow policy-based modification.
+Hannah (summing up): Causation is all or nothing: a greater than 50% probability establishes it in full, and anything less fails the claim entirely.
+Will: Yes: greater than 50% means causation in full, and anything less means the claim fails entirely, with nothing in between.
+
+## Block 3: Factual causation where the 'but for' test cannot be satisfied
+
+Hannah: Before the routes where but for can't be satisfied, a question on the but for test. A patient isn't warned of a small risk, and it injures her. Properly warned, she would still have had the operation, but at a later date. Does she recover?
+Will (scenario pause): <think>
+Will: Yes, exceptionally: a claimant who would have deferred the operation can recover, even though the risk would have been the same later. The tempting answer is no, because the warning made no difference; but that is the rule only where she would have had the same operation at the same time.
+Hannah: Yes: deferral is the narrow exception, so she recovers.
+Will: Now, factual causation where but for can't be satisfied: which other route can prove causation? There are four routes: material contribution, divisible harm, mesothelioma and lost chances.
+Hannah: Starting with material contribution, when does it apply?
+Will: If an indivisible disease or injury results cumulatively from tortious and non-tortious causes, and science can't apportion them, it is enough that the breach made a more than negligible contribution. The defendant is then liable in full.
+Hannah: And what if the harm is divisible, like asbestosis or industrial deafness?
+Will: Then each defendant is liable only for the share of the harm it caused, apportioned for example by period of exposure. So the outcomes differ: one indivisible injury means liability in full, while dose-related harm means only your share.
+Hannah: And what is the route for mesothelioma?
+Will: There the test is material increase in risk. Where several defendants exposed the claimant to asbestos and it is scientifically impossible to show whose fibre caused the disease, each defendant that materially increased the risk is liable.
+Hannah: Does it matter if only one of the exposures was negligent?
+Will: No: it applies even if there was only one negligent exposure plus environmental exposure.
+Hannah: Does that route cover injuries that several different agents could have caused?
+Will: No. It doesn't apply where the injury could have been caused by several different agents, such as one of five distinct possible causes of a baby's blindness. There the claimant must prove but for causation.
+Hannah: And what about a lost chance of a better medical outcome in a personal injury claim?
+Will: That is not recoverable: the claimant must prove on the balance of probabilities that the negligence caused the injury.
+Hannah: Does the same apply in economic loss claims?
+Will: Not where the loss depends on a third party's hypothetical action. The claimant need only show a real and substantial, not speculative, chance that the third party would have acted to benefit him, and damages are assessed by the percentage chance.
+Hannah: And what if the loss depends on what the claimant himself would have done?
+Will: Then he must prove it on the balance of probabilities.
+Hannah (summing up): A more than negligible contribution to cumulative indivisible harm that science can't apportion means liability in full; mesothelioma needs a material increase in risk; a lost medical chance isn't recoverable.
+Will: Yes: a more than negligible contribution to cumulative indivisible harm that science can't apportion means liability in full, mesothelioma turns on a material increase in risk, and a lost medical chance in personal injury is not recoverable.
+
+## Block 4: Apportionment and multiple sufficient causes
+
+Hannah: Before apportionment and multiple causes, a question mixing the routes with the balance of probabilities. A surveyor negligently fails to pass a developer's bid to a landowner before the deadline. Experts put the landowner's chance of accepting at 35%. The developer proves it would have bid as instructed. Can it recover, and how much?
+Will (scenario pause): <think>
+Will: Yes: 35% of the profit it would have made from the land. Acceptance depended on a third party, so a real and substantial chance suffices, and damages follow the percentage chance. The tempting answer is nothing, because the chance is below the balance of probabilities, but that test applies only to what the claimant itself would have done, and the developer proved its bid.
+Hannah: Yes: the third party's decision needs only a real chance, while the developer's own bid had to be proved, and it was.
+Will: Now, apportionment and multiple causes: with several causes or tortfeasors, who pays, and how much? Where two or more tortfeasors cause the same indivisible damage, each is jointly and severally liable for the whole, so the claimant can recover in full from any one.
+Hannah: Can that tortfeasor then recover anything from the others?
+Will: Yes, he can claim contribution from the others, in a just and equitable amount having regard to each person's responsibility.
+Hannah: Is there a time limit on a contribution claim?
+Will: The limit is 2 years. It runs from the judgment or settlement that fixes the claiming party's liability, and after that the claim is out of time.
+Hannah: And what does the statute do for mesothelioma?
+Will: For mesothelioma, each responsible person is jointly and severally liable for the whole of the damage, with contribution between defendants. That reverses the earlier proportionate liability.
+Hannah: Now what about successive causes, where a second event follows the first?
+Will: A second tortfeasor is liable only for additional damage he causes, not for damage already done.
+Hannah: And what does a later event do to the first tortfeasor's liability?
+Will: If the later event is a tort, the first tortfeasor stays liable for the continuing loss. If it is a natural illness unrelated to the tort, his liability is reduced from that point, because it is one of the vicissitudes of life.
+Hannah: Can you give me the tort example?
+Will: A defendant injures a claimant's leg, and later robbers shoot the same leg. The first defendant stays liable for the continuing loss, and the robbers only for the additional damage.
+Hannah (summing up): Each tortfeasor causing the same indivisible damage is liable for the whole, and contribution settles shares; a later tort leaves the first liable for the continuing loss, but a later unrelated natural illness reduces it from that point.
+Will: Yes: each is liable for the whole and contribution settles the shares, and the later event matters because a tort leaves the first defendant liable for the continuing loss, while an unrelated natural illness reduces it from that point.
+
+## Block 5: Legal causation
+
+Hannah: Before legal causation, a question on successive causes. A driver negligently injures a claimant's back. Months later, an unrelated spinal disease disables him. Is the driver's liability for the continuing loss reduced?
+Will (scenario pause): <think>
+Will: Yes, from that point: a later natural illness unrelated to the tort reduces it, as one of the vicissitudes of life. The tempting answer is no, because the driver caused the first injury; but that rule is for a later tort, which leaves the first tortfeasor liable.
+Hannah: Yes: an unrelated natural illness reduces the liability from that point, whereas a later tort would not.
+Will: Now, legal causation: did a later act or event break the chain? Ask what intervened and apply its own test. There are four kinds of intervention: nature, a third party, medical treatment and the claimant's own conduct. A natural event breaks the chain only if it is independent of the breach and unforeseeable, such as storm damage to a ship already being repaired for collision damage.
+Hannah: What about an act by a third party?
+Will: It breaks the chain if it is a free, deliberate and informed act, or so unreasonable or unforeseeable as to eclipse the defendant's wrong.
+Hannah: And when does a third party's act not break the chain?
+Will: If it was the very thing the defendant had a duty to guard against, or a foreseeable consequence of the breach.
+Hannah: And what about negligent medical treatment of the injuries?
+Will: It does not normally break the chain. It does so only if the treatment was so grossly negligent as to be a completely inappropriate response.
+Hannah: And what about the claimant's own conduct?
+Will: That breaks the chain only if it was so unreasonable as to eclipse the defendant's wrong, which is a very high threshold. An example is going down steep stairs unaided on a leg known to give way. Merely careless conduct only reduces damages for contributory negligence.
+Hannah: Which kinds of conduct never break the chain at all?
+Will: Reasonable conduct, and conduct in an emergency. Suicide from depression caused by the tort does not break it either.
+Hannah: So what is the difference in outcome between the two findings?
+Will: If the claimant's conduct broke the chain, the claim for the later harm fails entirely. If it was only contributory negligence, damages are merely reduced.
+Hannah (summing up): The claimant's own conduct breaks the chain only if so unreasonable that it eclipses the defendant's wrong, and then the later claim fails entirely; mere carelessness only reduces damages.
+Will: Yes: a very high threshold breaks the chain and defeats the later claim, while mere carelessness only reduces damages.
+
+## Recap
+
+Hannah: Before the quick-fire round, a last question on the claimant's own conduct. A claimant on crutches because of the defendant's negligence carelessly trips over his own bag and is hurt again. Is the chain broken?
+Will (scenario pause): <think>
+Will: No: merely careless conduct only reduces damages for contributory negligence, so the defendant is still liable for the later harm. The tempting answer is yes, so no recovery for the later harm; but that needs conduct so unreasonable that it eclipses the defendant's wrong.
+Hannah: Yes: carelessness leaves the chain intact and only reduces his damages.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for the order of questions?
+Will (quick-fire pause): <think>
+Will: Work in order: factual causation, normally by the but for test, then several causes or tortfeasors, then whether a later event broke the chain.
+Hannah: What's the summary for the but for test?
+Will (quick-fire pause): <think>
+Will: Causation is all or nothing: a greater than 50% probability establishes it in full, and anything less fails the claim entirely.
+Hannah: What's the summary for the routes where but for can't be satisfied?
+Will (quick-fire pause): <think>
+Will: A more than negligible contribution to cumulative indivisible harm that science can't apportion means liability in full; mesothelioma needs a material increase in risk; a lost medical chance isn't recoverable.
+Hannah: What's the summary for apportionment and multiple causes?
+Will (quick-fire pause): <think>
+Will: Each tortfeasor causing the same indivisible damage is liable for the whole, and contribution settles shares; a later tort leaves the first liable for the continuing loss, but a later unrelated natural illness reduces it from that point.
+Hannah: What's the summary for legal causation?
+Will (quick-fire pause): <think>
+Will: The claimant's own conduct breaks the chain only if so unreasonable that it eclipses the defendant's wrong, and then the later claim fails entirely; mere carelessness only reduces damages.
+Hannah: In one sentence, what decides most of the questions in this whole workshop?
+Will: Prove but for on the balance of probabilities, all or nothing, using a special route only where but for cannot be satisfied; then each tortfeasor causing the same indivisible damage is liable for the whole, but not for later harm once a later event breaks the chain.
