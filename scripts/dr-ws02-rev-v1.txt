@@ -1,0 +1,215 @@
+---
+id: dr-ws02-rev-v1
+unit: u-bpp-DR-02
+guide_hash: 0dfa60f1df
+made: 2026-11-11T17:46:26+00:00
+kind: revision
+title: DR WS02 · Revision · 20 min
+map:
+- Responding to the claim and acknowledging service
+- Time for the defence: deadlines, longer periods and extensions
+- Defence that the money claimed has been paid
+- Admitting the claim and judgment on an admission
+- Counting time (clear days)
+- The defence: contents and structure (including set-off and counterclaim)
+- Reply to the defence and requests for further information
+- Default judgment
+- Setting aside default judgment, and other challenges to a judgment
+recap:
+- An acknowledgment of service falls due 14 days after service of the particulars and extends the defence to 28 days; an arbitration clause means a stay, not a jurisdiction challenge.
+- The defence is due 14 days from service of the particulars, or 28 if service is acknowledged, never counted from the acknowledgment.
+- If the only claim is a specified sum and the defence says it is paid, silence from the claimant for 28 days after the court's notice stays the claim.
+- Admitting a specified sum in full means judgment on request; admitting part means judgment for that part, and by written notice the claim continues for the balance; admitting liability for an unspecified sum leaves the amount to the court.
+- Count clear days, leaving out the day the period begins and the day of any event that ends it; only in periods of 5 days or less are weekends, bank holidays, Christmas Day and Good Friday left out too.
+- Silence on an allegation admits it unless the defence sets out its case on it, and the amount claimed needs proof unless expressly admitted; a set-off only reduces or extinguishes the claim, but a counterclaim can exceed it.
+- A reply is optional, and without one the claimant is not taken to admit the defence; a party wanting more information should first serve a written request.
+- Default judgment needs a defendant in default and no bar when the court considers it; a defence filed late but before judgment prevents it.
+- A wrongly entered default judgment must be set aside; otherwise the court may do so for a real prospect or other good reason, and considers promptness.
+summary: Time runs in clear days from deemed service of the particulars, and that decides default judgment; a default judgment wrongly entered must be set aside, but otherwise the defendant needs a real prospect of defending or some other good reason, and must have applied promptly.
+invented:
+- Questions use only the guide's own dates and amounts (2 June, 4 June, 1 September, 3 September, 10 September, 21 December, 28 December, 2 March, 16 March; £10,000 and £4,000)
+guide_only:
+- P:DR-6.1-18 (the statement of truth and its wording)
+- P:DR-5.1-01 (the admission forms in the response pack)
+- P:DR-8.4-05 (sanctions take effect unless relief is obtained)
+- P:NEW-DR-B-03 (a bare denial may be struck out)
+- P:DR-11.4-11 (strike-out when a party does not attend trial)
+- P:DR-5.4-10 (the application to set aside: Part 23, conditions and costs)
+- num:N5 (the £50,000 limit for a court officer's decision on time to pay)
+- num:N6 (the 14 days for a judge's re-determination)
+- P:DR-6.3-02 (the written request before an application for further information)
+- P:DR-7.2.1-11 (default judgment compared with summary judgment and strike out)
+- P:DR-9.2-02 (the defendant's burden of proving its defences)
+- P:DR-5.1-10 (the solicitor must not admit a claim without instructions or mislead)
+- P:DR-5.5-13 (the solicitor settling within instructions; ostensible authority)
+- num:N17 (the NDA rule for victims of crime)
+---
+## Map
+Will: Today's big question: once a claim is served, how does the defendant respond, and what if it does not?
+Hannah: How many areas does that cover?
+Will: Nine. First the response: acknowledging service, the time for the defence, and a defence of payment.
+Hannah: What comes after those?
+Will: Admissions, counting time and the contents of the defence, then the reply, default judgment and setting it aside.
+## Block 1: Responding to the claim and acknowledging service
+Hannah: Starting with responding to the claim: what can a defendant do once the particulars are served?
+Will: There are four options: admit, defend, do both by admitting part and defending the rest, or file an acknowledgment of service.
+Hannah: When does a defendant acknowledge service?
+Will: If it cannot file a defence in time, or wants to dispute the court's jurisdiction.
+Hannah: When is the acknowledgment due?
+Will: It is due 14 days after service of the particulars of claim, or 14 days after service of the claim form if the particulars were served with it.
+Hannah: And what does it do for the defence?
+Will: It extends the time for the defence to 28 days after service of the particulars.
+Hannah: What if there is an arbitration clause?
+Will: The defendant seeks a stay under the Arbitration Act, after acknowledging service and before taking a step to answer the claim, not by arguing the court lacks jurisdiction.
+Hannah (summing up): An acknowledgment of service falls due 14 days after service of the particulars and extends the defence to 28 days; an arbitration clause means a stay, not a jurisdiction challenge.
+Will: Yes, the due date, the extension, and a stay.
+## Block 2: Time for the defence: deadlines, longer periods and extensions
+Hannah: Before the time for the defence, a question on acknowledging service. Claim form and particulars are posted on Monday 2 June and deemed served on Wednesday 4 June. When is the acknowledgment due?
+Will (calculation pause): <think>
+Will: 18 June, 14 days after deemed service, not counted from posting.
+Hannah: Right, the periods run from deemed service.
+Will: Now the time for the defence. It is due 14 days after service of the particulars of claim, or 28 days after service of the particulars if an acknowledgment of service is filed.
+Hannah: Is the 28 days counted from the acknowledgment?
+Will: Not quite: both run from service of the particulars, counted in clear days from deemed service.
+Hannah: What changes if the defendant is served outside the jurisdiction?
+Will: Served without permission in Scotland or Northern Ireland, it has 21 days after service of the particulars to acknowledge service or file a defence.
+Hannah: And if it acknowledges service?
+Will: Then it has 35 days for the defence. For other countries a practice direction table sets the periods, and with permission, the court's order does.
+Hannah: Can the parties agree more time?
+Will: Yes, by up to 28 days, so up to 56 days after service of the particulars if service was acknowledged. The defendant must tell the court in writing, and a longer extension needs the court's order.
+Hannah (summing up): The defence is due 14 days from service of the particulars, or 28 if service is acknowledged, never counted from the acknowledgment.
+Will: Yes, both periods run from service of the particulars.
+## Block 3: Defence that the money claimed has been paid
+Hannah: A question on the time for the defence. Particulars are deemed served on Thursday 3 September, and service is acknowledged on 10 September. When is the defence due?
+Will (calculation pause): <think>
+Will: Thursday 1 October, which is 28 days after deemed service.
+Hannah: Yes, from deemed service.
+Will: Now a defence that the money claimed has been paid. If the only claim, apart from costs and interest, is for a specified sum, and the defence pleads payment, the court asks the claimant to state in writing whether it wishes to continue.
+Hannah: And if the claimant stays silent?
+Will: If it does not respond within 28 days after service of the court's notice, the claim is stayed, and any party may apply to lift the stay, explaining the delay.
+Hannah (summing up): If the only claim is a specified sum and the defence says it is paid, silence from the claimant for 28 days after the court's notice stays the claim.
+## Block 4: Admitting the claim and judgment on an admission
+Hannah: Before admissions, a question on the paid defence. The claimant does not respond within 28 days of the court's notice being served. Is the claim struck out?
+Will (scenario pause): <think>
+Will: No, it is stayed, and any party may apply to lift the stay; it has not ended.
+Hannah: Right, a stay is not an end.
+Will: Now admitting the claim and judgment on an admission. There is no Part 14 time limit: after proceedings begin a party may admit at any time, but the court's permission is needed to amend or withdraw it. The admission, of the whole or any part of the claim, is made by notice in writing.
+Hannah: What does an admission of the whole of a specified sum give the claimant?
+Will: A request for judgment for the amount admitted less payments, plus interest if calculated in the request and fixed costs. It is payable on agreed terms, or immediately or as the claimant specifies, unless the defendant asked for time to pay.
+Hannah: And what if the defendant did ask for time to pay?
+Will: If the claimant does not accept the proposal, the court decides the time and rate of payment.
+Hannah: And a part admission of a specified sum?
+Will: The claimant may request judgment for the admitted amount, which the court must enter, and give written notice that the claim continues for the balance.
+Hannah: And an admission of liability only, for an unspecified sum?
+Will: The claimant can request judgment for an amount to be decided by the court, plus costs. If the defendant offers a sum, the claimant can accept it, or reject it and have the court decide.
+Hannah (summing up): Admitting a specified sum in full means judgment on request; admitting part means judgment for that part, and by written notice the claim continues for the balance; admitting liability for an unspecified sum leaves the amount to the court.
+Will: Yes: judgment on request, judgment for the part, or an amount for the court to decide.
+## Block 5: Counting time (clear days)
+Hannah: Before counting time, a question on admissions. On a £10,000 claim, the defendant writes admitting £4,000 and disputing the rest. What may the claimant do, and must it wait?
+Will (scenario pause): <think>
+Will: Request judgment for £4,000, which the court must enter, and give written notice that the claim continues for the balance. It need not wait.
+Hannah: Right, no waiting.
+Will: Now counting time in clear days. Clear days exclude the day on which the period begins and, if the end is defined by an event, the day of that event.
+Hannah: Do weekends count in those periods?
+Will: Only in periods of 5 days or less are weekends, bank holidays, Christmas Day and Good Friday also excluded.
+Hannah: How much notice does an application notice need?
+Will: It must be served as soon as practicable after issue and at least 3 clear days before the hearing, unless a rule sets a longer period. Summary judgment and interim payment hearings need 14 days.
+Hannah: For a Monday hearing, when must it be served?
+Will: By the Tuesday before, as the clear days are Wednesday, Thursday and Friday.
+Hannah (summing up): Count clear days, leaving out the day the period begins and the day of any event that ends it; only in periods of 5 days or less are weekends, bank holidays, Christmas Day and Good Friday left out too.
+Will: Yes, the weekend exclusion applies only to short periods.
+## Block 6: The defence: contents and structure (including set-off and counterclaim)
+Hannah: Before the contents of the defence, a question on counting time. An ordinary application is listed for Tuesday 29 December; Christmas Day is Friday 25 December, and Monday 28 December is a bank holiday. By what day must the notice be deemed served?
+Will (calculation pause): <think>
+Will: Monday 21 December. Christmas Day, the weekend and the bank holiday are excluded.
+Hannah: Yes, the exclusions push it back.
+Will: Now the contents of the defence. For each allegation it must state which are denied, with reasons and its own version if different, which the defendant cannot admit or deny and requires proved, and which are admitted.
+Hannah: What about an allegation the defence ignores?
+Will: The defendant is taken to admit it, unless the defence sets out the nature of its case on that issue, in which case it is taken to require proof. In a money claim, the amount is taken to require proof unless expressly admitted.
+Hannah: How do a set-off and a counterclaim differ?
+Will: A set-off is a defence that reduces or extinguishes the claim, but a counterclaim is a separate Part 20 claim that can exceed the claim. Say a buyer sued for the price pleads that goods under the same contract were defective: equitable set-off reduces or extinguishes the claim, and a counterclaim recovers any excess.
+Hannah: And the kinds of set-off?
+Will: Legal set-off is for mutual liquidated debts, and equitable set-off is for a cross-claim so closely connected that it would be unjust to ignore it.
+Hannah: How long has a claimant to defend a counterclaim?
+Will: 14 days from service, and acknowledging service cannot extend it to 28 days. If it does not defend, the defendant can obtain default judgment on the counterclaim.
+Hannah (summing up): Silence on an allegation admits it unless the defence sets out its case on it, and the amount claimed needs proof unless expressly admitted; a set-off only reduces or extinguishes the claim, but a counterclaim can exceed it.
+Will: Yes, only a counterclaim can recover more.
+## Block 7: Reply to the defence and requests for further information
+Hannah: Before the reply and requests for further information, a question on the defence. A seller sues for a £30,000 price; the buyer says goods supplied under the same contract were defective, causing it £50,000 of loss. How should it plead?
+Will (scenario pause): <think>
+Will: As equitable set-off, and as a counterclaim for the £20,000 balance, since set-off alone cannot give judgment for the excess.
+Hannah: Yes, both.
+Will: Now the reply to the defence. It is the claimant's optional response to new matters in the defence. It must not contradict the particulars or bring in a new claim, which needs an amendment.
+Hannah: What if the claimant files no reply?
+Will: Then it is not taken to admit the matters in the defence, and the defendant must still prove them. A claimant who files a reply but fails to deal with a matter is taken to require it proved.
+Hannah (summing up): A reply is optional, and without one the claimant is not taken to admit the defence, but a matter a filed reply leaves unanswered must be proved; a party wanting more information should first serve a written request.
+Will: Yes, no reply admits nothing, and a written request comes first.
+## Block 8: Default judgment
+Hannah: Before default judgment, a question on the reply. A claimant files no reply to an allegation of contributory negligence. Is it taken to admit it?
+Will (scenario pause): <think>
+Will: No, the defendant must still prove it; silence admits only for a defendant.
+Hannah: Right, nothing admitted.
+Will: Now default judgment. It is judgment without trial where the defendant has failed to file an acknowledgment of service or a defence.
+Hannah: When is the defendant in default?
+Will: With no acknowledgment, it has filed neither an acknowledgment nor a defence and the time has expired. With no defence, it has acknowledged service but not filed a defence and the time has expired.
+Hannah: What stops default judgment when the court considers it?
+Will: A pending application by the defendant to strike out or for summary judgment, or its having satisfied the whole claim including costs. A defence filed late but before judgment is entered also stops it.
+Hannah: Are there any other bars?
+Will: It is also barred if the defendant has admitted liability for all of a money claim and asked for time to pay, or a Justice and Security Act section 6 application is pending.
+Hannah: What is the judgment for?
+Will: On a specified sum, the amount claimed plus interest if properly claimed, and fixed costs. On an unspecified sum, an amount to be decided by the court.
+Hannah: Is there an automatic stay?
+Will: If at least 6 months have passed since the defence was due, no defendant has served or filed an admission or filed a defence or counterclaim, no party has entered or applied for default or summary judgment, and no defendant has applied to strike out, the claim is stayed. Any party may apply to lift the stay, explaining the delay.
+Hannah (summing up): Default judgment needs a defendant in default and no bar when the court considers it; a defence filed late but before judgment prevents it.
+Will: Yes, the bars are checked when the court considers it.
+## Block 9: Setting aside default judgment, and other challenges to a judgment
+Hannah: Before setting aside, a question on default judgment. The defendant's summary judgment application is pending, and its time for a defence has expired. Can the claimant get default judgment?
+Will (scenario pause): <think>
+Will: No, a pending application is a bar.
+Hannah: Yes, the pending application blocks it.
+Will: Now setting aside default judgment. The court must set it aside where it was wrongly entered, for example because time had not expired or a defence had been filed, or the whole claim was paid before judgment.
+Hannah: Must the defendant show a defence on the merits?
+Will: No, not for a wrongly entered judgment. Otherwise the court may set aside or vary it if the defendant has a real prospect of successfully defending, or there is some other good reason.
+Hannah: Is a real prospect enough on its own?
+Will: Not quite: it only opens the discretion. The court must also consider promptness, and weigh the seriousness of the default, the reason for it and all the circumstances.
+Hannah: What other routes challenge a judgment?
+Will: An accidental slip goes to the slip rule, and judgment after non-attendance at trial to an application to set aside. An error of law, fact or discretion needs an appeal with permission.
+Hannah: What must a party who missed trial show?
+Will: All three: it acted promptly on finding out, had a good reason for not attending, and has a reasonable prospect of success at trial.
+Hannah (summing up): A wrongly entered default judgment must be set aside; otherwise the court may do so for a real prospect or other good reason, and considers promptness.
+Will: Yes, wrongly entered means must; otherwise it is discretion.
+## Recap
+Hannah: One last question, on setting aside. Particulars are deemed served on 2 March, the defendant files nothing, and default judgment is entered on 16 March. With no arguable defence, can it have it set aside?
+Will (calculation pause): <think>
+Will: Yes, as of right: it was wrongly entered, as the 14 clear days after deemed service run to the end of 16 March. A real prospect is needed only for a regularly entered judgment.
+Hannah: Right, a wrongly entered judgment is set aside without merits.
+Will: Now the quick-fire round.
+Hannah: What's the summary for responding and acknowledging service?
+Will (quick-fire pause): <think>
+Will: An acknowledgment of service falls due 14 days after service of the particulars and extends the defence to 28 days; an arbitration clause means a stay, not a jurisdiction challenge.
+Hannah: What's the summary for the time for the defence?
+Will (quick-fire pause): <think>
+Will: The defence is due 14 days from service of the particulars, or 28 if service is acknowledged, never counted from the acknowledgment.
+Hannah: What's the summary for a defence that the money claimed has been paid?
+Will (quick-fire pause): <think>
+Will: If the only claim is a specified sum and the defence says it is paid, silence from the claimant for 28 days after the court's notice stays the claim.
+Hannah: What's the summary for admissions?
+Will (quick-fire pause): <think>
+Will: Admitting a specified sum in full means judgment on request; admitting part means judgment for that part, and by written notice the claim continues for the balance; admitting liability for an unspecified sum leaves the amount to the court.
+Hannah: What's the summary for counting time in clear days?
+Will (quick-fire pause): <think>
+Will: Count clear days, leaving out the day the period begins and the day of any event that ends it; only in periods of 5 days or less are weekends, bank holidays, Christmas Day and Good Friday left out too.
+Hannah: What's the summary for the contents of the defence?
+Will (quick-fire pause): <think>
+Will: Silence on an allegation admits it unless the defence sets out its case on it, and the amount claimed needs proof unless expressly admitted; a set-off only reduces or extinguishes the claim, but a counterclaim can exceed it.
+Hannah: What's the summary for the reply and further information?
+Will (quick-fire pause): <think>
+Will: A reply is optional, and without one the claimant is not taken to admit the defence; a party wanting more information should first serve a written request.
+Hannah: What's the summary for default judgment?
+Will (quick-fire pause): <think>
+Will: Default judgment needs a defendant in default and no bar when the court considers it; a defence filed late but before judgment prevents it.
+Hannah: What's the summary for setting aside and other challenges?
+Will (quick-fire pause): <think>
+Will: A wrongly entered default judgment must be set aside; otherwise the court may do so for a real prospect or other good reason, and considers promptness.
+Hannah: And what is the whole workshop in one sentence?
+Will: Time runs in clear days from deemed service of the particulars, and that decides default judgment; a default judgment wrongly entered must be set aside, but otherwise the court may set it aside for a real prospect of defending or some other good reason, having regard to whether the defendant applied promptly.

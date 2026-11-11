@@ -2841,6 +2841,57 @@
       "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws09-rev-v1-75e39094.mp3",
       "pubDate": "2026-11-11T12:44:17+00:00"
+    },
+    {
+      "id": "dr-ws02-rev-v1",
+      "unitId": "u-bpp-DR-02",
+      "title": "DR WS02 · Revision · 20 min",
+      "guideHash": "0dfa60f1df",
+      "script": "scripts/dr-ws02-rev-v1.txt",
+      "scriptHash": "c7f7ac01ac70",
+      "audio": "audio/dr-ws02-rev-v1.mp3",
+      "recap": [
+        "An acknowledgment of service falls due 14 days after service of the particulars and extends the defence to 28 days; an arbitration clause means a stay, not a jurisdiction challenge.",
+        "The defence is due 14 days from service of the particulars, or 28 if service is acknowledged, never counted from the acknowledgment.",
+        "If the only claim is a specified sum and the defence says it is paid, silence from the claimant for 28 days after the court's notice stays the claim.",
+        "Admitting a specified sum in full means judgment on request; admitting part means judgment for that part, and by written notice the claim continues for the balance; admitting liability for an unspecified sum leaves the amount to the court.",
+        "Count clear days, leaving out the day the period begins and the day of any event that ends it; only in periods of 5 days or less are weekends, bank holidays, Christmas Day and Good Friday left out too.",
+        "Silence on an allegation admits it unless the defence sets out its case on it, and the amount claimed needs proof unless expressly admitted; a set-off only reduces or extinguishes the claim, but a counterclaim can exceed it.",
+        "A reply is optional, and without one the claimant is not taken to admit the defence; a party wanting more information should first serve a written request.",
+        "Default judgment needs a defendant in default and no bar when the court considers it; a defence filed late but before judgment prevents it.",
+        "A wrongly entered default judgment must be set aside; otherwise the court may do so for a real prospect or other good reason, and considers promptness."
+      ],
+      "map": [
+        "Responding to the claim and acknowledging service",
+        "Time for the defence: deadlines, longer periods and extensions",
+        "Defence that the money claimed has been paid",
+        "Admitting the claim and judgment on an admission",
+        "Counting time (clear days)",
+        "The defence: contents and structure (including set-off and counterclaim)",
+        "Reply to the defence and requests for further information",
+        "Default judgment",
+        "Setting aside default judgment, and other challenges to a judgment"
+      ],
+      "summary": "Time runs in clear days from deemed service of the particulars, and that decides default judgment; a default judgment wrongly entered must be set aside, but otherwise the defendant needs a real prospect of defending or some other good reason, and must have applied promptly.",
+      "madeAt": "2026-11-11T17:46:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 77/77 items; known-error scan 0 hits; Opus accuracy + line-by-line, fixes applied; one revision (code checks, length); changed lines verified (second round of 4 fixes and a length trim re-verified: pass)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
