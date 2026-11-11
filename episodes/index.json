@@ -2938,7 +2938,7 @@
       ],
       "summary": "Timing decides permission: amendments need none before service; after service, all other parties' written consent or permission, and always permission to change parties.",
       "madeAt": "2026-11-11T21:43:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 63/63 items; known-error scan: 4 phrase matches cleared by an Opus triage, 0 left; Opus accuracy + line-by-line, 16 fixes applied (one accuracy SOURCE-ERROR on CPR 20.5(1) rejected against CPR r 20.5(1) and 20.7 on justice.gov.uk); one revision (code checks, length); changed lines verified twice (10 then 1 fix, the last the verifier's own wording); final code checks ok",
@@ -2957,7 +2957,16 @@
         "b10",
         "b11"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9807780,
+      "seconds": 1226,
+      "words": 2681,
+      "renderedHash": "1d04668d7620",
+      "renderedAt": "2026-11-11T22:39:39+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws03-rev-v1-b8ee4b56.mp3",
+      "siteAudio": "audio/dr-ws03-rev-v1-b8ee4b56.mp3",
+      "pubDate": "2026-11-11T22:39:39+00:00"
     }
   ],
   "replays": [
