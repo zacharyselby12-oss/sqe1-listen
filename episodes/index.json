@@ -3060,7 +3060,7 @@
       ],
       "summary": "Most questions turn on what a step does and when: a protocol breach never invalidates the claim, service within the jurisdiction needs the step within 4 months, and limitation needs the claim form at the court office in time.",
       "madeAt": "2026-11-12T12:43:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 198/198 items; known-error scan 0 hits; Opus accuracy + line-by-line, 11 fixes applied; one mechanical revision (turn order, a 5-item list, a repeat, 3 figures in a turn); changed lines verified twice (3 then 0 fixes); final code checks ok; r202611121119: re-stamped 1617d6dbc4 -> b1488cd3c3 after the publisher hold (guide text unchanged against the staged guide; pfix.py scan: no old wording in this script)",
@@ -3083,7 +3083,16 @@
         "b14",
         "b15"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8717742,
+      "seconds": 1090,
+      "words": 2153,
+      "renderedHash": "774e02988525",
+      "renderedAt": "2026-11-12T12:44:08+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws01-rev-v1-136e05b7.mp3",
+      "siteAudio": "audio/dr-ws01-rev-v1-136e05b7.mp3",
+      "pubDate": "2026-11-12T12:44:08+00:00"
     }
   ],
   "replays": [
