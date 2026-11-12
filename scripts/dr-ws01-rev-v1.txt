@@ -1,0 +1,367 @@
+---
+id: dr-ws01-rev-v1
+unit: u-bpp-DR-01
+guide_hash: b1488cd3c3
+made: 2026-11-12T12:43:14+00:00
+kind: revision
+title: DR WS01 · Revision · 17 min
+map:
+- Pre-action conduct and pre-action protocols
+- Parties: partnerships, sole traders, companies, children and protected parties
+- High Court or County Court, value and the tracks
+- Issuing the claim
+- Service of the claim form and other documents
+- Deemed dates of service
+- Statements of case and statements of truth
+- The claim form
+- Particulars of claim and interest
+- High Court divisions, specialist lists and judges
+- Welsh language in civil proceedings
+- The CPR and the overriding objective
+- Burden and standard of proof
+- Costs
+- Limitation
+recap:
+- A protocol breach never invalidates the claim, but a breach of substance can bring sanctions.
+- Any settlement by or against a child or protected party needs the court's approval.
+- Money claims may start in the High Court only above a hundred thousand pounds, or from fifty thousand with injury damages.
+- Proceedings start on the date the court enters on the claim form.
+- Within the jurisdiction, finish the service step before midnight on the 4-month date.
+- A claim form served within the UK is deemed served the second business day after the step, by any method.
+- An unverified statement of case stands unless struck out, but can't be relied on as evidence.
+- Separately served particulars follow within 14 days of serving the claim form, never after its last service date.
+- A non-admission suits only what the defendant neither knows nor can readily find out.
+- Commercial Court defendants always acknowledge service, so their defence falls due 28 days after the particulars are served.
+- In Wales, tell the court whenever Welsh may be used, and repeat it at interlocutory hearings and the pre-trial checklist.
+- Cases are handled justly and at proportionate cost, and the duty to the court beats the client's interests in a conflict.
+- Civil claims are always proved on the balance of probabilities, even fraud; contempt needs the criminal standard.
+- The loser usually pays the winner's costs, but not on the small claims track.
+- Limitation must be pleaded, and a claim is brought when the court office receives the claim form.
+summary: Most questions turn on what a step does and when: a protocol breach never invalidates the claim, service within the jurisdiction needs the step within 4 months, and limitation needs the claim form at the court office in time.
+invented:
+- £60,000
+- 50%
+- £40,000
+- Monday
+- Thursday
+- Wednesday
+- Friday
+guide_only:
+- P:DR-2.1-05 (A pre-action protocol is a code approved by the...)
+- P:DR-2.4-01 (The Practice Direction – Pre-Action Conduct and Protocols (PD-PAC)...)
+- P:DR-2.5-01 (Pre-action protocols aim to encourage early and full exchange...)
+- P:DR-2.4-10 (starred: minor or technical infringements)
+- P:DR-2.4-11 (The court may find non-compliance where a party has...)
+- P:DR-2.4-12 (Where there has been non-compliance, the court may order...)
+- P:DR-2.4-13 (Sanctions include: the party at fault paying all or...)
+- P:DR-2.4-14 (The court may also order a party who has...)
+- P:DR-2.5-15 (Even a party that wins can be deprived of...)
+- P:DR-2.1-03 (Following a pre-action protocol does not stop time running...)
+- P:DR-2.4-15 (starred: apply for a stay while they comply)
+- P:DR-2.5-04 (Personal Injury Protocol: the claimant sends a letter of...)
+- P:DR-2.5-05 (Under the Personal Injury Protocol, an admission made by...)
+- P:DR-2.5-07 (Under the Personal Injury Protocol, before instructing a medical...)
+- P:DR-2.4-05 (The defendant should reply within a reasonable time: 14...)
+- P:DR-2.4-07 (Litigation should be a last resort. The parties should...)
+- P:DR-2.5-09 (Under the Debt Claims Protocol the letter of claim...)
+- P:DR-2.5-11 (Professional Negligence Protocol: the claimant sends a preliminary notice...)
+- P:DR-2.5-12 (Clinical Disputes Protocol: the defendant acknowledges the letter of...)
+- P:DR-2.2-03 (Where a (non-LLP) partnership has a name, claims by...)
+- P:DR-2.2-04 (An individual sues and is sued in their own...)
+- P:DR-2.2-05 (A child (under 18) or a protected party (someone...)
+- P:G34-DR-01-02 (An adult is assumed to have capacity unless it...)
+- P:DR-2.2-06 (A litigation friend must be able to conduct the...)
+- P:DR-2.2-01 (Identify every potential cause of action and every potential...)
+- P:DR-2.2-11 (starred: before or within 7 days after they began)
+- P:DR-2.2-12 (starred: must be made a defendant)
+- P:NEW-DR-A-02 (starred: only with the court's permission; imposes no automatic...)
+- P:DR-3.1-04 (Even above the threshold, a claim should be started...)
+- P:DR-3.1-08 (If a claim is started in the wrong court...)
+- P:DR-3.1-09 (Claims can be transferred between the High Court and...)
+- P:DR-4.1-03 (A Part 7 claim uses form N1 and the...)
+- P:DR-4.1-09 (A solicitor must not issue proceedings that they know...)
+- P:DR-4.3-10 (A claimant who serves the claim form itself must...)
+- P:DR-5.4-12 (starred: before it can obtain default judgment)
+- P:DR-4.3-01 (Methods of service: personal service; first class post, document...)
+- P:DR-4.3-04 (Personal service: on an individual, by leaving the claim...)
+- P:DR-4.3-07 (Service by email or other electronic means is valid...)
+- P:DR-4.3-03 (If the defendant has given in writing a solicitor's...)
+- P:DR-4.3-05 (If no solicitor has been nominated and the defendant...)
+- P:DR-4.3-06 (If the claimant has reason to believe an individual...)
+- P:DR-4.3-09 (A claim form against a child (who is not...)
+- P:DR-4.3-11 (starred: jurisdiction as of right)
+- P:DR-4.5-07 (starred: a good reason for the extension; acted promptly)
+- P:DR-4.5-08 (If the claim form is not served in time...)
+- P:DR-4.5-09 (Where a claim form has been issued but not...)
+- P:DR-4.5-03 (A business day is any day except a Saturday...)
+- D12.3 (starred: Tuesday; Wednesday)
+- P:DR-4.5-04 (Documents other than the claim form (including particulars of...)
+- P:DR-4.5-05 (Particulars of claim served with the claim form are...)
+- P:DR-4.5-11 (starred: is not displaced)
+- P:NEW-DR-B-03 (A defence that is a bare denial or sets...)
+- P:DR-6.3-08 (Further information given voluntarily or under an order is...)
+- P:DR-6.1-18 (The claim form, particulars and defence must be verified...)
+- P:DR-6.1-19 (For a company the statement of truth is signed...)
+- P:DR-4.1-08 (A solicitor may sign the statement of truth on...)
+- P:DR-6.1-01 (A claim form must contain a concise statement of...)
+- P:DR-6.1-02 (Statement of value: for a specified sum, state the...)
+- P:DR-6.1-03 (In a personal injury claim the claim form must...)
+- P:DR-4.1-04 (The particulars of claim must be contained in or...)
+- P:DR-4.1-07 (When the particulars of claim are served, they must...)
+- P:DR-6.1-05 (starred: within 14 days after service of the claim...)
+- P:DR-6.1-08 (Structure of a contract claim: parties; the contract (date...)
+- P:G34-DR-01-03 (Interest under Senior Courts Act 1981 s35A or County...)
+- P:DR-3.2-01 (The Business and Property Courts of the High Court...)
+- P:DR-3.2-02 (The Commercial Court hears complex commercial claims arising from...)
+- P:DR-3.2-03 (The Technology and Construction Court hears technically complex claims...)
+- P:DR-3.2-04 (The Circuit Commercial Court (formerly the Mercantile Courts) hears...)
+- P:DR-3.2-08 (Claims in the Commercial Court, the TCC and the...)
+- P:DR-11.3-08 (Modes of address: Supreme Court, Court of Appeal and...)
+- P:DR-2.7-01 (The PD reflects the principle in the Welsh Language...)
+- P:DR-2.7-08 (starred: in, or having a connection with, Wales)
+- P:NEW-DR-A-05 (If costs are incurred because a party fails to...)
+- P:DR-2.7-04 (Where Welsh is to be used, the listing officer...)
+- P:DR-2.7-05 (Where an interpreter is needed to translate evidence from...)
+- P:DR-8.1-02 (Dealing justly includes, so far as practicable: (a) putting...)
+- P:DR-8.1-04 (The court furthers the objective by active case management...)
+- P:DR-8.1-07 (The court, with the parties' help, should try to...)
+- P:DR-9.2-06 (An acquittal has no such effect: the civil court...)
+- P:DR-2.1-01 (Limitation is a procedural defence. In most contract and...)
+- P:DR-2.3-02 (Contract made by deed (specialty): 12 years from the...)
+- P:DR-2.3-03 (starred: from when damage is suffered)
+- P:NEW-DR-A-03 (starred: when the claimant acts in reliance on the...)
+- P:DR-2.3-04 (Defamation and malicious falsehood: 1 year from the date...)
+- P:DR-2.3-06 (Date of knowledge is when the claimant first knew...)
+- P:DR-2.3-07 (An injury is 'significant' if the claimant would reasonably...)
+- P:DR-2.3-10 (Fatal Accidents Act 1976 claims by dependants: 3 years...)
+- P:DR-6.2-15 (starred: within 2 years)
+- P:DR-2.3-12 (starred: 15 years)
+- P:DR-2.3-13 (starred: only to claims in the tort of negligence)
+- P:DR-2.3-17 (starred: could with reasonable diligence have discovered it)
+- P:DR-2.3-18 (starred: cannot be revived)
+- P:DR-2.1-07 (A solicitor must provide a competent and timely service...)
+- P:DR-2.3-20 (Counting: the day the cause of action accrues is...)
+- num:N0 (4 months: Claim form issued -> Service must follow...)
+- num:N1 (14 days: Request for a partnership membership statement served...)
+- num:N4 (7 days: Road traffic claim against an insured driver...)
+- num:N7 (12 years: Contract or guarantee executed as a deed...)
+- num:N8 (6 years from damage: Tort other than PI or...)
+- num:N9 (1 year: Defamation or malicious falsehood -> Barred unless...)
+- num:N11 (3 years: Fatal Accidents Act dependants' claim, or estate...)
+- num:N12 (6 years, or 3 years from knowledge: Latent non-PI...)
+- num:N13 (15 years: Negligence longstop (not PI) -> Absolute bar...)
+- num:N15 (18; 21st birthday (PI): Claimant was a child when...)
+- num:N17 (6 years from damage; 3 years from knowledge; 15-year...)
+- num:N18 (14 days (straightforward); maximum 3 months (very complex): Reply...)
+- num:N20 (21 days: PI Protocol: defendant's reply to letter of...)
+- num:N21 (3 months: PI Protocol: insurer investigates and admits or...)
+- num:N22 (14 days: PI Protocol: defendant's objection to claimant's proposed...)
+- num:N23 (£25,000: PI Protocol designed mainly for fast track claims...)
+- num:N24 (30 days: Debt Protocol: debtor's reply to letter of...)
+- num:N26 (21 days: Professional Negligence Protocol: acknowledgment of preliminary notice...)
+- num:N27 (21 days: Professional Negligence Protocol: acknowledgment of letter of...)
+- num:N28 (3 months: Professional Negligence Protocol: letter of response or...)
+- num:N29 (14 days: Clinical Disputes Protocol: acknowledgment of letter of...)
+- num:N30 (4 months: Clinical Disputes Protocol: reasoned letter of response...)
+- num:N40 (up to 25%: Claim that should have been in...)
+- num:N43 (14 days: Part 8 acknowledgment of service (with evidence)...)
+- num:N46 (6 months: Serving a claim form out of the...)
+- num:N48 (second day (post): Documents other than the claim form...)
+- num:N49 (4.30pm: Other documents served personally, delivered, left, faxed or...)
+- num:N50 (21 days: Claimant served the claim form itself ->...)
+- num:N51 (14 days: Defendant challenges late service under Part 11...)
+- num:N52 (at least 14 days: Defendant's notice requiring the claimant...)
+- num:N56 (£10,000 / £25,000 / £100,000: Statement of value for...)
+- num:N57 (8% above base rate: Late Payment of Commercial Debts...)
+- num:N58 (8%: Discretionary interest under s35A Senior Courts Act 1981...)
+- num:N59 (2 years: Contribution claim -> The contribution claim is...)
+- num:N63 (6 years: Writ or warrant of control on an...)
+- add:5 (42 days; 6 months: Personal Injury Protocol: accident outside...)
+- add:6 (£10,000 / £25,000 / £100,000: Normal track by value...)
+- add:7 (14 days; 28 days: Acknowledgment of service; defence ->...)
+- add:8 (£1,500 / £5,000 / £1,000: Personal injury claim form...)
+- add:9 (£200: Judgment for damages for personal injury or death...)
+- add:10 (6 years: Fresh action on a judgment; arrears of...)
+- add:11 (3 years: Consumer Protection Act 1987 product claim ->...)
+- add:12 (10 years: Consumer Protection Act 1987 longstop -> Absolute...)
+---
+## Map
+Will: Today: what must happen before a claim, and how is it started, served and kept in time? Fifteen areas, four groups.
+Hannah: Which four groups are they?
+Will: Before issue; starting the claim; statements of case; and courts, rules, proof, costs and time limits.
+## Block 1: Pre-action conduct and pre-action protocols
+Hannah: First, before issue: what if a party ignores the pre-action protocols?
+Will: Breaking a protocol never stops the claimant issuing or invalidates the claim. But for a breach of substance, not a minor or technical one, the court can order costs, even indemnity costs; adjust interest, up to 10% above base rate against a defendant; stay the claim for the protocol steps; or, where a party failed without good reason, order payment into court.
+Hannah (summing up): A protocol breach never invalidates the claim, but a breach of substance can bring sanctions.
+Will: Yes: substance, not technicalities.
+## Block 2: Parties: partnerships, sole traders, companies, children and protected parties
+Hannah: Before the parties: a supplier ignored a letter before claim, then won at trial. Is it sure of all its costs?
+Will (scenario pause): <think>
+Will: No: pre-action conduct can cut even a winner's costs. Costs following the event is the trap.
+Hannah: Right: winning doesn't cure it. What does a child or protected party need?
+Will: A litigation friend, though the court may let a child, meaning under 18, act without one. And any settlement by or against either is valid only with the court's approval, even before proceedings, through a Part 8 claim.
+Hannah (summing up): Any settlement by or against a child or protected party needs the court's approval.
+Will: Yes: even before proceedings.
+## Block 3: High Court or County Court, value and the tracks
+Hannah: Before choosing a court: a child's injury claim settles before proceedings. Is it valid as it stands?
+Will (scenario pause): <think>
+Will: No: it needs the court's approval, through a Part 8 claim. Thinking a pre-issue deal is exempt is the trap.
+Hannah: Right: approval first. When can a claim start in the High Court?
+Will: A money claim needs more than £100,000.
+Hannah: And what if the claim includes personal injury damages?
+Will: With personal injury damages, £50,000 or more. Value is what the claimant reasonably expects to recover, ignoring possible interest or costs; contributory negligence; any counterclaim or set-off; and recoverable state benefits.
+Hannah: What happens to a claim that's below the threshold?
+Will: Below the threshold it must start in the County Court: started in the High Court, it's usually transferred, may be struck out if the claimant knew or ought to have known, and its recoverable costs can be cut by up to 25%.
+Hannah (summing up): Money claims may start in the High Court only above a hundred thousand pounds, or from fifty thousand with injury damages.
+Will: Yes: on expected recovery.
+## Block 4: Issuing the claim
+Hannah: Before issuing: a cyclist expects £60,000 for injury, but 50% contributory negligence is alleged. Is that High Court value?
+Will (scenario pause): <think>
+Will: Yes: it's £60,000, as possible contributory negligence is ignored, though complexity or importance must justify the High Court. Halving it is the trap.
+Hannah: Right: the allegation is ignored. When do proceedings start?
+Will: When the court issues the claim form at the claimant's request, on the date the court enters on it; and the court seals it on issue.
+Hannah (summing up): Proceedings start on the date the court enters on the claim form.
+Will: Yes: not when it's sent.
+## Block 5: Service of the claim form and other documents
+Hannah: Before service: a claim form goes to court on Monday, and the court enters Thursday's date. When did proceedings start?
+Will (scenario pause): <think>
+Will: Thursday, the date the court entered on it. Monday is tempting, but proceedings start on issue; receipt at court matters only for limitation.
+Hannah: Right: the court's date. By when must the claim form be served?
+Will: Within the jurisdiction, the claimant must complete the step, such as posting or emailing it, before midnight on the calendar day 4 months after issue.
+Hannah: And what happens if the claimant misses that deadline?
+Will: Then the claim form can't be validly served unless time is extended. Only the step must meet that deadline: deemed service can fall after it.
+Hannah (summing up): Within the jurisdiction, finish the service step before midnight on the 4-month date.
+Will: Yes: the step, not deemed service.
+## Block 6: Deemed dates of service
+Hannah: Before deemed dates: a claim form issued on 20 January is posted first class, within the jurisdiction, on 20 May. Was it served in time?
+Will (scenario pause): <think>
+Will: Yes: posting, the step, came before midnight on the 4-month date. Later deemed service is the trap.
+Hannah: Right: only the step counts. When is a claim form deemed served?
+Will: Within the UK, on the second business day after the step, whatever the method, and the defendant's response times run from that date.
+Hannah (summing up): A claim form served within the UK is deemed served the second business day after the step, by any method.
+Will: Yes: business days only.
+## Block 7: Statements of case and statements of truth
+Hannah: Before statements of case: a claim form is posted on a Friday, with no bank holiday. When is it deemed served?
+Will (calculation pause): <think>
+Will: Tuesday, the second business day after posting. Monday, by the second-day rule for other documents, is the trap.
+Hannah: Right: business days. What if a statement of case isn't verified?
+Will: It stays effective unless struck out, but the party can't rely on it as evidence, and the court may order verification. A false statement in a verified document, made without an honest belief in its truth, can bring contempt proceedings, with the court's permission.
+Hannah (summing up): An unverified statement of case stands unless struck out, but can't be relied on as evidence.
+Will: Yes: it stands, but proves nothing.
+## Block 8: The claim form
+Hannah: Before the claim form: a defence has no statement of truth. Is it a nullity?
+Will (scenario pause): <think>
+Will: No: it stays effective unless struck out, but isn't evidence. Calling it void is the trap.
+Hannah: Right: alive, but not evidence. When must the particulars follow?
+Will: In or with the claim form, or, if the claim form says they'll follow, within 14 days after it's served, but no later than the last date for serving it. And the statement of value never limits the judgment the court can give.
+Hannah (summing up): Separately served particulars follow within 14 days of serving the claim form, never after its last service date.
+Will: Yes: that last date is only a cap.
+## Block 9: Particulars of claim and interest
+Hannah: Before particulars: the claim form says not more than £25,000, but the court finds £40,000 due. Can it award that?
+Will (scenario pause): <think>
+Will: Yes: the statement of value doesn't limit the judgment. Treating the band as a cap is the trap.
+Hannah: Right: no ceiling. When may a defence decline to admit a fact?
+Will: Only where the matter is neither within the defendant's knowledge nor readily ascertainable. Otherwise it must admit or deny, and a denial needs reasons, and its own version if different.
+Hannah (summing up): A non-admission suits only what the defendant neither knows nor can readily find out.
+Will: Yes: otherwise admit or deny.
+## Block 10: High Court divisions, specialist lists and judges
+Hannah: Before the High Court's divisions: a defendant pleads not admitted to signing the contract. Is that proper?
+Will (scenario pause): <think>
+Will: No: signing is within its own knowledge, so it must admit or deny. Not admitted is the tempting dodge.
+Hannah: Right: admit or deny. When is a Commercial Court defence due?
+Will: There, the defendant must always acknowledge service, so its defence is due 28 days after service of the particulars.
+Hannah (summing up): Commercial Court defendants always acknowledge service, so their defence falls due 28 days after the particulars are served.
+Will: Yes: always twenty-eight days there.
+## Block 11: Welsh language in civil proceedings
+Hannah: Before Welsh: when is a Commercial Court defence due once the particulars are served?
+Will (scenario pause): <think>
+Will: 28 days after, as acknowledgment is always required there. The 14 days without an acknowledgment is the trap.
+Hannah: Right: twenty-eight days. When must the parties tell the court about Welsh?
+Will: In a case in Wales where Welsh may be used by a party or witness, or in a document, the parties must tell the court, with details in the directions questionnaire. And the duty recurs at interlocutory hearings and in the pre-trial checklist.
+Hannah (summing up): In Wales, tell the court whenever Welsh may be used, and repeat it at interlocutory hearings and the pre-trial checklist.
+Will: Yes: a recurring duty.
+## Block 12: The CPR and the overriding objective
+Hannah: Before the overriding objective: Welsh was flagged in the directions questionnaire. Must the pre-trial checklist repeat it?
+Will (scenario pause): <think>
+Will: Yes: the duty recurs. Thinking one notice is enough is the trap.
+Hannah: Right: it keeps coming back. What is the overriding objective?
+Will: To deal with cases justly and at proportionate cost. And a solicitor's duty to the court comes before the client's interests where they conflict, and solicitors mustn't waste the court's time.
+Hannah (summing up): Cases are handled justly and at proportionate cost, and the duty to the court beats the client's interests in a conflict.
+Will: Yes: the court comes first.
+## Block 13: Burden and standard of proof
+Hannah: Before the burden of proof: a client wants his solicitor to spin hearings out. Should the solicitor oblige?
+Will (scenario pause): <think>
+Will: No: the duty to the court comes first, and its time mustn't be wasted. Doing what the client wants is the trap.
+Hannah: Right: court before client. Who proves the case, and to what standard?
+Will: Whoever asserts a fact must prove it, on the balance of probabilities in every civil claim, even fraud; there's no higher civil standard, though inherent improbability counts in weighing the evidence. Contempt, though, needs the criminal standard.
+Hannah (summing up): Civil claims are always proved on the balance of probabilities, even fraud; contempt needs the criminal standard.
+Will: Yes: no higher civil standard.
+## Block 14: Costs
+Hannah: Before costs: must a civil claimant alleging fraud prove it beyond reasonable doubt?
+Will (scenario pause): <think>
+Will: No: the balance of probabilities, though improbability is weighed. A higher civil standard for fraud is the trap.
+Hannah: Right: one civil standard. Who usually pays the costs?
+Will: Generally the loser pays the winner's costs, subject to the court's discretion and except on the small claims track, and court fees are payable too.
+Hannah (summing up): The loser usually pays the winner's costs, but not on the small claims track.
+Will: Yes: subject to the court's discretion.
+## Block 15: Limitation
+Hannah: Before limitation: a client loses on the small claims track. Does the general loser-pays rule apply?
+Will (scenario pause): <think>
+Will: No: the general rule excludes that track. Assuming losers always pay is the trap.
+Hannah: Right: small claims differ. How is limitation raised, and when is a claim brought?
+Will: The defendant must plead it, since the court won't raise it itself; unpleaded, the claim proceeds. And a claim is brought when the claim form is received in the court office, not when it's issued or served.
+Hannah: And what are the key periods?
+Will: A simple contract: 6 years from the breach, even before any loss is suffered or discovered, with no latent damage extension. Personal injury, in any cause of action, contract included: 3 years from the injury or, if later, the date of knowledge, and the court can disapply that if it's equitable, balancing the prejudice to each side.
+Hannah (summing up): Limitation must be pleaded, and a claim is brought when the court office receives the claim form.
+Will: Yes: not on issue or service.
+## Recap
+Hannah: Last one: limitation ends on Friday; the court office receives the claim form on Wednesday and issues it on Monday. Is it time-barred?
+Will (scenario pause): <think>
+Will: No: it was brought on Wednesday, on receipt. Counting from issue is the trap.
+Hannah: Right: receipt counts. Quick-fire now: what's the summary for protocols?
+Will (quick-fire pause): <think>
+Will: A protocol breach never invalidates the claim, but a breach of substance can bring sanctions.
+Hannah: What's the summary for parties?
+Will (quick-fire pause): <think>
+Will: Any settlement by or against a child or protected party needs the court's approval.
+Hannah: What's the summary for the High Court?
+Will (quick-fire pause): <think>
+Will: Money claims may start in the High Court only above a hundred thousand pounds, or from fifty thousand with injury damages.
+Hannah: What's the summary for issuing?
+Will (quick-fire pause): <think>
+Will: Proceedings start on the date the court enters on the claim form.
+Hannah: What's the summary for service?
+Will (quick-fire pause): <think>
+Will: Within the jurisdiction, finish the service step before midnight on the 4-month date.
+Hannah: What's the summary for deemed service?
+Will (quick-fire pause): <think>
+Will: A claim form served within the UK is deemed served the second business day after the step, by any method.
+Hannah: What's the summary for statements of truth?
+Will (quick-fire pause): <think>
+Will: An unverified statement of case stands unless struck out, but can't be relied on as evidence.
+Hannah: What's the summary for the claim form?
+Will (quick-fire pause): <think>
+Will: Separately served particulars follow within 14 days of serving the claim form, never after its last service date.
+Hannah: What's the summary for the defence?
+Will (quick-fire pause): <think>
+Will: A non-admission suits only what the defendant neither knows nor can readily find out.
+Hannah: What's the summary for the Commercial Court?
+Will (quick-fire pause): <think>
+Will: Commercial Court defendants always acknowledge service, so their defence falls due 28 days after the particulars are served.
+Hannah: What's the summary for Welsh?
+Will (quick-fire pause): <think>
+Will: In Wales, tell the court whenever Welsh may be used, and repeat it at interlocutory hearings and the pre-trial checklist.
+Hannah: What's the summary for the overriding objective?
+Will (quick-fire pause): <think>
+Will: Cases are handled justly and at proportionate cost, and the duty to the court beats the client's interests in a conflict.
+Hannah: What's the summary for proof?
+Will (quick-fire pause): <think>
+Will: Civil claims are always proved on the balance of probabilities, even fraud; contempt needs the criminal standard.
+Hannah: What's the summary for costs?
+Will (quick-fire pause): <think>
+Will: The loser usually pays the winner's costs, but not on the small claims track.
+Hannah: And what's the summary for limitation?
+Will (quick-fire pause): <think>
+Will: Limitation must be pleaded, and a claim is brought when the court office receives the claim form.
+Hannah: And what decides most of this workshop, in one sentence?
+Will: Most questions turn on what a step does and when: a protocol breach never invalidates the claim, service within the jurisdiction needs the step within 4 months, and limitation needs the claim form at the court office in time.
