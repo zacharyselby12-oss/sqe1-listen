@@ -2992,7 +2992,7 @@
       ],
       "summary": "Under the Act, liability is strict but only for unsafe products and covered damage, with the 10-year longstop absolute; in negligence, fault must be proved and the product itself is never recoverable.",
       "madeAt": "2026-11-12T08:43:29+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "written fresh (Sonnet, template v2.7); code ok (v2.3, revision shape, 0 errors after one fix round: a year not in the guide, turn order, a repeated run); revcheck ok 49/49 items (flag: about 19 min, 6 recall pauses for 5 areas); known-error scan 0 hits; Opus accuracy + line-by-line (10 problems, fixed by fixflow and one Sonnet round); changed-lines check: 1 more fix, then pass",
@@ -3005,7 +3005,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9272796,
+      "seconds": 1159,
+      "words": 2810,
+      "renderedHash": "0ee3f5a421e8",
+      "renderedAt": "2026-11-12T08:44:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws10-rev-v1-062c0392.mp3",
+      "siteAudio": "audio/tort-ws10-rev-v1-062c0392.mp3",
+      "pubDate": "2026-11-12T08:44:19+00:00"
     }
   ],
   "replays": [
