@@ -1,0 +1,204 @@
+---
+id: tort-ws10-rev-v1
+unit: u-bpp-Tort-10
+guide_hash: 39226c0c82
+made: 2026-11-12T08:43:29+00:00
+kind: revision
+title: Tort WS10 · Revision · 19 min
+map:
+- Possible actions; CPA 1987: strict liability, product and defect
+- CPA 1987: recoverable damage and its limits
+- CPA 1987: who is liable and who can claim
+- CPA 1987: defences, exclusion and limitation
+- Negligence for defective products
+recap:
+- The Act is strict liability for unsafe products: a product that is merely poor quality, without being unsafe, is not defective, though the buyer may still sue in contract.
+- The Act covers death, personal injury and damage to private-use property, not the product itself; property damage of £275 or less gets nothing, but more gets the whole amount.
+- Producers, own-branders and importers are liable; a supplier is liable only if, when asked, it fails within a reasonable period to identify one of them or its own supplier.
+- Development risks fails once the risk is known, even if it cannot be detected in a particular item; liability cannot be excluded; the 10-year longstop is absolute.
+- Negligence needs proof of fault and recovers only injury and other property, never the product itself; a mere opportunity to examine does not negate the duty.
+summary: Under the Act, liability is strict but only for unsafe products and covered damage, with the 10-year longstop absolute; in negligence, fault must be proved and the product itself is never recoverable.
+invented:
+- Amira
+- Imran
+- Priya
+- £300
+guide_only:
+- P:TL-1.1-21
+- P:TL-1.1-22
+- P:TL-1.1-23
+- P:TL-1.1-20
+- P:TL-1.2-15
+---
+
+## Map
+
+Will: Today's workshop is product liability, and the big question is this: when a product is defective and someone is hurt, which claims arise?
+Hannah: So how is it laid out?
+Will: Five areas. The first four are possible actions and the Consumer Protection Act, which I'll call the Act: strict liability with product and defect, recoverable damage, who is liable and who can claim, and defences with limitation. The fifth is negligence for defective products.
+Hannah: First, a warm-up from last week on occupiers' liability. A visitor wanders into a part of the building that is off limits to visitors. What is he now, and which duty does he get?
+Will (scenario pause): <think>
+Will: He has become a trespasser, owed only the lower duty to non-visitors. The tempting answer is that he stays a visitor because he was invited in, but permission covers only the area it was given for.
+Hannah: Yes: going beyond the permitted area makes him a trespasser, with only the lower duty.
+
+## Block 1: Possible actions; CPA 1987: strict liability, product and defect
+
+Will: Now, the possible actions and the Act: what claims arise from a defective product, and when is the product defective?
+Hannah: Which claims could arise?
+Will: There are three claims: contract, negligence and the Act. In contract, a buyer can sue the seller for goods that are not of satisfactory quality or fit for purpose, which is strict liability and includes the loss of the product itself.
+Hannah: Can anyone other than the buyer use contract?
+Will: Generally only the buyer can, because of privity, so a third party such as a gift recipient usually must sue in negligence or under the Act, unless the contract gives him enforceable rights under the Contracts (Rights of Third Parties) Act.
+Hannah: And what does strict liability under the Act mean?
+Will: Where damage is caused wholly or partly by a defect in a product, the producer, and the others listed, is liable without proof of fault.
+Hannah: So what must the claimant prove?
+Will: The claimant must prove the defect, the damage, and that the defect caused the damage.
+Hannah: What counts as a product?
+Will: A product is any goods or electricity, including a product comprised in another product as a component or raw material, and agricultural produce is included.
+Hannah: And when is a product defective?
+Will: This one decides most questions. A product is defective if its safety is not such as persons generally are entitled to expect, including risks of damage to property and of death or injury, but a product that is merely poor quality or does not work, without being unsafe, is not defective. A kettle that gives electric shocks is defective; one that simply does not boil is not, though the buyer may sue the seller in contract.
+Hannah: How does the court decide what people are entitled to expect?
+Will: It considers all the circumstances, including how and for what purposes the product was marketed, with its get-up, instructions and warnings.
+Hannah: Does it weigh anything else?
+Will: It also considers what might reasonably be expected to be done with it, and the time when it was supplied. A later, safer product does not of itself show the earlier one was defective.
+Hannah: Whose expectations count, and does fault matter?
+Will: Expectations are judged objectively, meaning what the public is entitled to expect, not what it actually expects. The court takes a holistic view of all relevant circumstances, such as risk-benefit and regulatory approval, rather than asking whether the producer was at fault.
+Hannah: What about a rogue item that is not like the rest of the batch?
+Will: The public may be entitled to expect even a non-standard, rogue item to be safe.
+Hannah: Does the claimant have to explain why the product failed?
+Will: Under the Act the claimant must prove the defect and causation, but need not prove the precise mechanism or cause of the defect, meaning why the product failed. Proof that it was unsafe in a way persons generally were not entitled to expect is enough.
+Hannah (summing up): The Act is strict liability for unsafe products: a product that is merely poor quality, without being unsafe, is not defective, though the buyer may still sue in contract.
+Will: Yes: safety decides defect, and poor quality alone leaves the buyer with contract.
+
+## Block 2: CPA 1987: recoverable damage and its limits
+
+Hannah: Before damage, a question on defects. Amira's toaster never heats up, but it is perfectly safe. Can she claim under the Act?
+Will (scenario pause): <think>
+Will: No: a toaster that is poor quality but safe is not defective, so she has no claim under the Act. The tempting answer is that any fault makes it defective, but the test is safety, not quality.
+Hannah: Right: safety is the test, so poor quality alone means contract.
+Will: Now, recoverable damage under the Act: what loss can be claimed, and what is left out?
+Hannah: What loss is covered?
+Will: Recoverable damage is death, personal injury and loss of or damage to property, including land.
+Hannah: What about pure economic loss?
+Will: Pure economic loss is not damage under the Act and cannot be claimed, but economic loss consequential on the death, personal injury or recoverable property damage is recovered with it.
+Hannah: And the product itself?
+Will: There is no liability for loss of or damage to the product itself, or to any product supplied with the defective product comprised in it.
+Hannah: Now the limits on property damage: is there a minimum?
+Will: Yes, and this one decides most questions. There are no damages for property damage if the amount to be awarded would not exceed £275. If it is more, the whole amount is recoverable.
+Hannah: Does the threshold apply to personal injury too?
+Will: No, it applies only to property damage.
+Hannah: And the second limit on property damage?
+Will: Property damage is recoverable only if the property is of a type ordinarily intended for private use, occupation or consumption, and the claimant intended it mainly for his own private use.
+Hannah (summing up): The Act covers death, personal injury and damage to private-use property, not the product itself; property damage of £275 or less gets nothing, but more gets the whole amount.
+Will: Yes: the product itself is out, and the threshold is all or nothing for property damage.
+
+## Block 3: CPA 1987: who is liable and who can claim
+
+Hannah: Before who is liable, a question on the threshold. A claimant's damaged property would earn an award of £300 under the Act. How much can she recover?
+Will (scenario pause): <think>
+Will: The whole amount. The tempting answer is only the part above the threshold, but over £275 the whole of it is recoverable.
+Hannah: Right: over the threshold means the whole amount.
+Will: Now, who is liable under the Act, and who can claim?
+Hannah: Who can be sued?
+Will: Three kinds of defendant. First, the producer, meaning the manufacturer of the finished product or of a component.
+Hannah: Does producer cover anyone who did not manufacture it?
+Will: Yes: also the person who won or abstracted it, or whose industrial or other process gave it essential characteristics.
+Hannah: And who else is liable?
+Will: Second, a person who holds himself out as producer by putting his name or brand on it, the own-brander. Third, the importer: the person who imported it into the UK in the course of business to supply it to another.
+Hannah: What about a mere supplier, such as a retailer?
+Will: This one decides most questions. A supplier is liable only if the claimant asked it to identify the producer, own-brander or importer, within a reasonable period after the damage and when it was not reasonably practicable to identify them all, and the supplier failed within a reasonable period to do so or to identify its own supplier.
+Hannah: So when does the supplier escape?
+Will: If it identifies the producer, own-brander or importer, or its own supplier, within a reasonable period, it escapes. It is liable only if it does neither.
+Hannah: What if two or more people are liable for the same damage?
+Will: Then they are jointly and severally liable.
+Hannah: Now who can claim?
+Will: Any person who suffers damage caused by a defective product can sue, not just the buyer, such as a bystander. No contract and no proof of fault are needed.
+Hannah (summing up): Producers, own-branders and importers are liable; a supplier is liable only if, when asked, it fails within a reasonable period to identify one of them or its own supplier.
+Will: Yes: three kinds of defendant, and a supplier escapes by naming one of them or its own supplier within a reasonable period.
+
+## Block 4: CPA 1987: defences, exclusion and limitation
+
+Hannah: Before defences, a question on suppliers. Imran's shop sells a faulty heater, and the injured customer asks who made it. Within a reasonable period he names the importer. Is Imran liable under the Act?
+Will (scenario pause): <think>
+Will: He escapes, because naming the importer within a reasonable period is enough. The tempting answer is that the seller is always liable, but a supplier is liable only if it fails to name any of them or its own supplier.
+Hannah: Yes: naming the importer in time means Imran is not liable under the Act.
+Will: Now, defences, exclusion and limitation under the Act: what defences are there, and what are the time limits?
+Hannah: How many defences are there?
+Will: Six. First, it is a defence that the defect did not exist in the product at the relevant time, for example because misuse or tampering caused it later.
+Hannah: What is the relevant time?
+Will: For a producer, own-brander or importer, it is when it supplied the product. For a mere supplier, it is when a producer, own-brander or importer last supplied it.
+Hannah: And the development risks defence?
+Will: This one decides most questions. The defence is that the state of scientific and technical knowledge at the time of supply was not such that a producer of products of that kind might be expected to have discovered the defect. It is judged by the most advanced knowledge accessible, and it fails once the risk is known, even if it cannot be detected in a particular item. So an unknown drug side-effect gets the defence, but a known infection risk in blood products does not, even though it could not be detected in one bag.
+Hannah: What are the other defences?
+Will: It is a defence that the defect is attributable to compliance with a requirement imposed by law.
+Hannah: And the next defence?
+Will: It is a defence that the defendant did not at any time supply the product to another, for example because it was stolen from the factory.
+Hannah: Is it a defence that the product was supplied in the course of a business?
+Will: It is the opposite: the defence applies where the only supply was not in the course of a business and not with a view to profit, for example home-made goods given to a friend.
+Hannah: And for someone who made only a component?
+Will: A component producer has a defence if the defect was in the finished product and was wholly attributable to its design or to compliance with instructions given by its producer.
+Hannah: Can contributory negligence or a contract term limit the liability?
+Will: Contributory negligence applies and reduces the damages, but liability to the injured person cannot be limited or excluded by any contract term, notice or other provision.
+Hannah: Now the time limits. What is the basic period?
+Will: Three years from the date damage was caused or, if later, the date of knowledge.
+Hannah: Can the court extend that?
+Will: The court's discretion to disapply can extend the 3-year personal injury period.
+Hannah: And is there an outer limit on top of that?
+Will: Yes, an absolute 10-year longstop from the date the defendant put the product into circulation, meaning supplied it, and it extinguishes the right even if no damage has yet occurred.
+Hannah (summing up): Development risks fails once the risk is known, even if it cannot be detected in a particular item; liability cannot be excluded; the 10-year longstop is absolute.
+Will: Yes: known risk defeats the defence, exclusion is impossible, and the longstop is absolute.
+
+## Block 5: Negligence for defective products
+
+Hannah: Before negligence, a question mixing limits. A claimant is injured by a product supplied more than 10 years earlier. Can she use the Act, and what else is open to her?
+Will (scenario pause): <think>
+Will: Not the Act, because the 10-year longstop is absolute. The tempting answer is that the court can extend it, but its discretion only extends the 3-year personal injury period. Negligence is still open, but she must prove fault.
+Hannah: Right: the longstop is absolute, and negligence survives it, with fault to be proved.
+Will: Now, negligence for defective products: why sue in negligence as well, and what must the claimant prove?
+Hannah: Why does negligence still matter?
+Will: It is still useful where the Act fails: for property damage of £275 or less, for damage to business property, and for claims after the 10-year longstop. But the claimant must prove fault.
+Hannah: Who owes the duty?
+Will: A manufacturer of products sold in a form showing that they are intended to reach the ultimate consumer in the form in which they left him, with no reasonable possibility of intermediate examination, owes the consumer a duty to take reasonable care in their preparation, knowing that lack of care may cause injury to life or property.
+Hannah: And who is it owed to?
+Will: Anyone foreseeably affected by the product, not only the purchaser or user, such as a pedestrian hit by a defective wheel. It also extends beyond manufacturers to repairers, assemblers, installers and suppliers who would be expected to inspect or test.
+Hannah: What loss can be recovered in negligence?
+Will: This one decides most questions. Only personal injury and damage to other property are recoverable; the cost of repairing or replacing the defective product itself, or its loss of value, is pure economic loss and irrecoverable in negligence. So when a defective freezer breaks down, the spoiled food is recoverable but the freezer is not.
+Hannah: Now breach: what must the claimant prove about the defect?
+Will: That it existed when the product left the defendant and resulted from its lack of care, but the court may infer negligence from an unexplained manufacturing defect. The claim fails if other causes are equally likely, such as faulty fitting.
+Hannah: Where can breach lie?
+Will: In the manufacturing process, where an individual item departs from design, in the design itself, or in a failure to warn. Once a danger is discovered after sale, the manufacturer may need to warn or recall.
+Hannah: Do instructions and warnings count as part of the product?
+Will: Yes: products include anything manufactured, including packaging and labels. That covers instructions and warnings too, so inadequate ones can be a breach.
+Hannah: When is the duty negated by an intermediate examination?
+Will: This one decides most questions. The duty is negated only where an intermediate examination that would reveal the defect was reasonably to be expected, or the claimant knew of the defect and used the product anyway; a mere opportunity to examine is not enough. So a retailer's chance to inspect sealed goods does not negate it, but a claimant who knew the ladder was cracked and climbed it anyway does.
+Hannah: What are the limitation periods in negligence?
+Will: Three years for personal injury, from damage or knowledge.
+Hannah: And for property damage?
+Will: Six years from damage, with the latent damage extension.
+Hannah: What is the latent damage extension?
+Will: Three years from knowledge, within a 15-year longstop.
+Hannah (summing up): Negligence needs proof of fault and recovers only injury and other property, never the product itself; a mere opportunity to examine does not negate the duty.
+Will: Yes: fault must be proved, and the product itself is pure economic loss.
+
+## Recap
+
+Hannah: One last question, on negligence. Priya's washing machine floods her kitchen floor and is itself ruined. In negligence, what can she recover?
+Will (scenario pause): <think>
+Will: The floor, because it is other property, but not the machine. The tempting answer is both, but the defective product itself is pure economic loss.
+Hannah: Yes: other property is recoverable, the machine itself is not.
+Hannah: Now the quick-fire round. What's the summary for strict liability, products and defects?
+Will (quick-fire pause): <think>
+Will: The Act is strict liability for unsafe products: a product that is merely poor quality, without being unsafe, is not defective, though the buyer may still sue in contract.
+Hannah: What's the summary for recoverable damage and its limits?
+Will (quick-fire pause): <think>
+Will: The Act covers death, personal injury and damage to private-use property, not the product itself; property damage of £275 or less gets nothing, but more gets the whole amount.
+Hannah: What's the summary for who is liable and who can claim?
+Will (quick-fire pause): <think>
+Will: Producers, own-branders and importers are liable; a supplier is liable only if, when asked, it fails within a reasonable period to identify one of them or its own supplier.
+Hannah: What's the summary for defences, exclusion and limitation?
+Will (quick-fire pause): <think>
+Will: Development risks fails once the risk is known, even if it cannot be detected in a particular item; liability cannot be excluded; the 10-year longstop is absolute.
+Hannah: What's the summary for negligence for defective products?
+Will (quick-fire pause): <think>
+Will: Negligence needs proof of fault and recovers only injury and other property, never the product itself; a mere opportunity to examine does not negate the duty.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Under the Act, liability is strict but only for unsafe products and covered damage, with the 10-year longstop absolute; in negligence, fault must be proved and the product itself is never recoverable.

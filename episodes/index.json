@@ -2967,6 +2967,45 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws03-rev-v1-b8ee4b56.mp3",
       "siteAudio": "audio/dr-ws03-rev-v1-b8ee4b56.mp3",
       "pubDate": "2026-11-11T22:39:39+00:00"
+    },
+    {
+      "id": "tort-ws10-rev-v1",
+      "unitId": "u-bpp-Tort-10",
+      "title": "Tort WS10 · Revision · 19 min",
+      "guideHash": "39226c0c82",
+      "script": "scripts/tort-ws10-rev-v1.txt",
+      "scriptHash": "0ee3f5a421e8",
+      "audio": "audio/tort-ws10-rev-v1.mp3",
+      "recap": [
+        "The Act is strict liability for unsafe products: a product that is merely poor quality, without being unsafe, is not defective, though the buyer may still sue in contract.",
+        "The Act covers death, personal injury and damage to private-use property, not the product itself; property damage of £275 or less gets nothing, but more gets the whole amount.",
+        "Producers, own-branders and importers are liable; a supplier is liable only if, when asked, it fails within a reasonable period to identify one of them or its own supplier.",
+        "Development risks fails once the risk is known, even if it cannot be detected in a particular item; liability cannot be excluded; the 10-year longstop is absolute.",
+        "Negligence needs proof of fault and recovers only injury and other property, never the product itself; a mere opportunity to examine does not negate the duty."
+      ],
+      "map": [
+        "Possible actions; CPA 1987: strict liability, product and defect",
+        "CPA 1987: recoverable damage and its limits",
+        "CPA 1987: who is liable and who can claim",
+        "CPA 1987: defences, exclusion and limitation",
+        "Negligence for defective products"
+      ],
+      "summary": "Under the Act, liability is strict but only for unsafe products and covered damage, with the 10-year longstop absolute; in negligence, fault must be proved and the product itself is never recoverable.",
+      "madeAt": "2026-11-12T08:43:29+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "written fresh (Sonnet, template v2.7); code ok (v2.3, revision shape, 0 errors after one fix round: a year not in the guide, turn order, a repeated run); revcheck ok 49/49 items (flag: about 19 min, 6 recall pauses for 5 areas); known-error scan 0 hits; Opus accuracy + line-by-line (10 problems, fixed by fixflow and one Sonnet round); changed-lines check: 1 more fix, then pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
