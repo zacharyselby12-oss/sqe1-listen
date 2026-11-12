@@ -3116,7 +3116,7 @@
       ],
       "summary": "Ask whether the employer broke its own personal duty, answers for an employee's tort, or both, and for vicarious liability ask whether the wrong was so closely connected with the job that it is fair and just to hold the employer liable.",
       "madeAt": "2026-11-12T17:44:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 42/42 items (flags: about 17.7 min, 5 recall pauses for 4 areas); known-error scan 1 hit (Police Act s 88 line) judged not the error by both Opus checks: cleared; Opus accuracy + line-by-line (14 problems: scenario facts, 'on the balance of probabilities', akin-to-employment and whole-episode wording; fixed); code-check revision (one-liner lengths, a repeat); changed-lines check 1: 5 problems (editor's notes in two questions, 'business or activities') fixed; changed-lines check 2: pass; fix fx-p-gcor-TL-1.7-08 (r202611121530): line 76 corrected (the may-assume qualifier, Hatton para 43(3)); code ok (0 errors, flags unchanged); known-error scan: 0 hits on the changed lines, the cleared s 88 hit unchanged; pfix scan 0 hits; changed-lines check (Opus) (opus (fresh), 2026-11-12T15:11:27Z; opus-check/result.json sha1 ddcd44b8f9): pass; full accuracy check against today's guide, every line (Opus) (opus (fresh), 2026-11-12T15:25:59Z; opus-check2/WS05/result.json sha1 6adb1afe5b): fix (NOT passed): lines 31, 33, 34, 63, 66, 69, 82, 86, 113 revised to its rows (31-34 restated as Tort WS04's guide teaches the eggshell skull rule), line 51 not changed (build chat (12 Nov): no script change, the audio is the same either way; the guide misnames the Act (\"Employer's\" for \"Employers' Liability (Defective Equipment) Act 1969\"): guide fix on the tracker); revcheck about 18.0 min (2693 words; limit 25), 0 length/shape errors; changed-lines check of the revision (Opus) (opus (fresh), 2026-11-12T15:35:32Z; opus-check3/WS05/result.json sha1 c1b789842c): fix; line 33 then takes its fix word for word; check of line 33 (Opus) (opus (fresh), 2026-11-12T15:40:08Z; opus-check4/WS05/result.json sha1 fd5b5bf898): pass; guideHash re-stamped 6862aa040f -> 5cab00c6ca (textV 1) only after all four checks",
@@ -3128,7 +3128,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9032469,
+      "seconds": 1129,
+      "words": 2693,
+      "renderedHash": "262e61595982",
+      "renderedAt": "2026-11-12T17:55:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws05-rev-v1-0312026a.mp3",
+      "siteAudio": "audio/tort-ws05-rev-v1-0312026a.mp3",
+      "pubDate": "2026-11-12T17:55:30+00:00"
     },
     {
       "id": "tort-ws06-rev-v1",
@@ -3152,7 +3161,7 @@
       ],
       "summary": "Ask first whether there is a recognised psychiatric illness or shock-induced physical condition, and whether the claimant was in danger, or reasonably believed so: a primary victim needs foreseeable personal injury; a secondary victim must meet every control mechanism, starting with an accident.",
       "madeAt": "2026-11-12T17:44:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 29/29 items; known-error scan 0 hits (2 matches cleared by Opus); Opus accuracy + line-by-line, fixes applied (2 rounds), changed lines checked (summary length: Opus counted 43 words, code check passes); fix group of fx-p-gcor-TL-1.7-08 (r202611121530): full accuracy check against today's guide, every line (Opus) (opus (fresh), 2026-11-12T15:27:20Z; opus-check2/WS06/result.json sha1 9fc4682314): fix: lines 76, 84, 156, 160, 208, 232, 246 take its fixes; 182 and 184 teach TL-1.6-12 (pcheck pc-TL-1.6-12 secondary-only in this batch: one first-instance ruling); TL-1.6-05 (review r47 must-fix 1, variant b): stays unresolved; lines 146-149 deleted (the full check's own fix), so later lines move up by 4; changed-lines check of variant b (Opus) (opus (fresh), 2026-11-12T16:37:56Z; opus-check5/WS06-b/result.json sha1 f183aab972): pass; code ok (0 errors) on the new guide; revcheck about 17.6 min, 0 length/shape errors; known-error scan 0 hit(s) on the changed lines; changed-lines check of the revision (Opus) (opus (fresh), 2026-11-12T16:06:41Z; opus-check3/WS06/result.json sha1 fcc09569ab): fix; line 184 then takes its fix word for word, and its final check is the full review r47, which rechecks every revised line; guideHash re-stamped 986b8701c0 -> 378cc2facb (textV 1), the new guide text with TL-1.6-12 shown (TL-1.6-05 stays unresolved and is not taught)",
@@ -3164,7 +3173,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8736972,
+      "seconds": 1092,
+      "words": 2629,
+      "renderedHash": "279ab529505f",
+      "renderedAt": "2026-11-12T17:55:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/tort-ws06-rev-v1-b47f2114.mp3",
+      "siteAudio": "audio/tort-ws06-rev-v1-b47f2114.mp3",
+      "pubDate": "2026-11-12T17:55:30+00:00"
     },
     {
       "id": "eth-ws01-rev-v1",
@@ -3192,7 +3210,7 @@
       ],
       "summary": "Match the conduct to the specific Code standard, then the Principles it engages; public-interest Principles override the client's interests; and dishonesty is judged by ordinary decent people's standards on what the solicitor actually believed about the facts, while a lack of integrity needs no dishonesty.",
       "madeAt": "2026-11-12T17:44:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 39/39 items; known-error scan 0 hits; Opus accuracy + line-by-line (7 + 7 problems), 8 fixes applied; changed-lines verify 5 problems (fixer notes left in lines, one 'only if'), one targeted revision with the summing-up lengths and a repeat; changed lines verified again (pass, 0); final code checks ok",
@@ -3206,7 +3224,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9202165,
+      "seconds": 1150,
+      "words": 2577,
+      "renderedHash": "5c38b0843c44",
+      "renderedAt": "2026-11-12T17:55:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws01-rev-v1-4524a0da.mp3",
+      "siteAudio": "audio/eth-ws01-rev-v1-4524a0da.mp3",
+      "pubDate": "2026-11-12T17:55:30+00:00"
     },
     {
       "id": "dr-ws04-rev-v1",
@@ -3234,7 +3261,7 @@
       ],
       "summary": "Each main application has its own test: summary judgment turns on real prospect, while an interim payment's would-obtain-judgment condition needs the balance of probabilities.",
       "madeAt": "2026-11-12T17:44:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 78/78 items; known-error scan: 1 phrase hit cleared by the Opus triage (warm-up line, not the error), final 0; Opus accuracy + line-by-line (9 + 4 problems), 8 fixes applied; changed-lines verify 4 problems (a Part 19 qualifier, recap/quick-fire consistency), one targeted revision; changed lines verified again (pass, 0); final code checks ok",
@@ -3248,7 +3275,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8974996,
+      "seconds": 1122,
+      "words": 2653,
+      "renderedHash": "153c5564480d",
+      "renderedAt": "2026-11-12T17:55:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws04-rev-v1-69af7331.mp3",
+      "siteAudio": "audio/dr-ws04-rev-v1-69af7331.mp3",
+      "pubDate": "2026-11-12T17:55:30+00:00"
     }
   ],
   "replays": [
