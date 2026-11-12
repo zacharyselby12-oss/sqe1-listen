@@ -1,0 +1,137 @@
+---
+id: eth-ws02-rev-v1
+unit: u-bpp-ETH-02
+guide_hash: ed1aa3fd8f
+made: 2026-11-12T21:43:34+00:00
+kind: revision
+title: Ethics WS02 · Revision · 17 min
+map:
+- Unfair discrimination
+- Unfair advantage
+- Undertakings
+- Not misleading
+- Treatment of colleagues
+recap:
+- A discriminatory reason for refusing a client, or serving them worse, breaches the Code; a legitimate reason doesn't; a disabled client never bears the cost of reasonable adjustments.
+- Act firmly for the client, but never abuse your position against anyone, especially an unrepresented opponent; direct contact with a represented party breaches only where it takes unfair advantage.
+- An undertaking binds the solicitor personally even if the client countermands it, and must be performed in the agreed time or, if none was agreed, a reasonable time.
+- Silence can be acceptable but a half-truth or false statement isn't; if you can't avoid misleading without disclosing a confidence, seek consent, and if it's refused, cease acting.
+- Bullying or harassment at a work-related social event is still conduct relating to practice, and offensive or discriminatory messages aimed at colleagues are regulatory matters even outside work.
+summary: A solicitor may act firmly for a client but must never unfairly discriminate, take unfair advantage or mislead by even a half-truth; and every undertaking they give binds them personally.
+invented:
+- Priya
+- Tom
+guide_only:
+- P:ETH-CS-1-22 (conveyancing undertakings to redeem mortgages, and conditional undertakings: not in the checked guide text)
+---
+## Map
+Will: Today's question is how a solicitor acts firmly for a client and still keeps trust and acts fairly. There are five areas. The first two are unfair discrimination and unfair advantage.
+Hannah: And what are the other three areas?
+Will: Undertakings, not misleading anyone, and how solicitors treat colleagues.
+Hannah: First, a warm-up from the Principles: a solicitor recklessly allows the court to be misled, though she isn't dishonest. Is that dishonesty, a lack of integrity, or no breach?
+Will (scenario pause): <think>
+Will: It's a lack of integrity, not dishonesty. The tempting answer is dishonesty, but honesty and integrity are separate Principles, and a solicitor can lack integrity without being dishonest.
+Hannah: Yes: recklessly letting the court be misled shows a lack of integrity, with no dishonesty needed.
+## Block 1: Unfair discrimination
+Will: Now, unfair discrimination: when is refusing a client, or serving them worse, a breach? A solicitor must not unfairly discriminate by letting their personal views affect their professional relationships or the way they provide their services. So refusing a client or giving a worse service because of something like race, religion or disability breaches the Code.
+Hannah: But surely a solicitor can still turn some clients away?
+Will: Yes, and this is the deciding rule. A solicitor may decline instructions for a legitimate reason. And they must not act where acting would breach the Code or the law: for example a conflict, lack of competence, or the client's unlawful purpose.
+Hannah: Are there any other reasons why the solicitor mustn't act?
+Will: Incomplete client due diligence, and unresolved doubts that the instructions are genuine. So the reason decides it: decline work beyond your competence and that's legitimate; refuse a client because of his religion and that's a breach.
+Hannah: And what does a solicitor owe a disabled client?
+Will: Disabled clients must be offered reasonable adjustments, for example documents in large print, longer appointments or a sign-language interpreter. And the cost of a reasonable adjustment can't be passed on to the disabled client.
+Hannah (summing up): A discriminatory reason for refusing a client, or serving them worse, breaches the Code; a legitimate reason doesn't; a disabled client never bears the cost of reasonable adjustments.
+Will: Yes: the reason decides it, and an adjustment's cost is never passed on to the client.
+## Block 2: Unfair advantage
+Hannah: Before unfair advantage, a question on discrimination: Priya declines a new client's claim because it's beyond her competence, and he calls that discrimination. Is he right, or is her refusal legitimate?
+Will (scenario pause): <think>
+Will: Her refusal is legitimate: lack of competence is a legitimate reason, and in fact she must not act. The tempting answer is that any refusal is discrimination, but only a refusal for a discriminatory reason breaches the Code.
+Hannah: Agreed: lack of competence isn't just a permitted reason to decline, it means she mustn't act at all.
+Will: Now, unfair advantage: when does a solicitor take unfair advantage of a client or anyone else? A solicitor must not abuse their position by taking unfair advantage of clients or others. Others include opposing parties, and especially unrepresented ones. Witnesses, third parties and the public count too.
+Hannah: How far can a solicitor push against an opponent who has no lawyer?
+Will: Against a litigant in person, the solicitor may act firmly for the client but must not take unfair advantage. For example: they mustn't misstate the law or procedure, demand costs that aren't legally recoverable, or make threats that have no proper basis.
+Hannah: And when the other side does have a lawyer, can you contact them directly?
+Will: This is the deciding rule. The current Code has no express rule against contacting a party you know is legally represented: the old Code's indicative behaviour wasn't carried over. So direct contact is a breach only where it takes unfair advantage of that party, for example pressing them to settle, or extracting information or admissions without their lawyer.
+Hannah: So what's the safe course in practice?
+Will: Deal through their solicitor, unless that solicitor consents or it's a genuine emergency.
+Hannah: And when does a threat cross the line?
+Will: Making improper threats to gain advantage is taking unfair advantage: for example, threatening to report the opponent to the police, a regulator or the tax authorities unless they pay or settle a civil claim.
+Hannah: Does that mean a solicitor can't send a tough letter in a reputation or privacy claim?
+Will: It doesn't. Acting in a reputation or privacy claim isn't itself improper, and a solicitor may send a firm letter of claim on a properly arguable claim. What's prohibited is abusive tactics and unarguable or exaggerated claims, and the client's instructions don't excuse them.
+Hannah: What should you do with a privileged document the other side's solicitor sends you by mistake?
+Will: Where it's sent by obvious mistake, the receiving solicitor must not take unfair advantage of it. They should stop reading, tell the sender and return it. And in litigation they can't use it without the court's permission.
+Hannah: Can a solicitor take unfair advantage of their own client too?
+Will: Yes: charging fees that are unfair for the work done, or getting the client's agreement to a fee arrangement by misrepresenting it, is taking unfair advantage of a client and against the client's best interests. The client can also challenge the bill by having it assessed by the court.
+Hannah (summing up): Act firmly for the client, but never abuse your position against anyone, especially an unrepresented opponent; direct contact with a represented party breaches only where it takes unfair advantage.
+Will: Right: firmness is allowed, abuse isn't, and contact on its own is no breach.
+## Block 3: Undertakings
+Hannah: Before undertakings, a question on unfair advantage: Tom's solicitor knows Tom's opponent has a lawyer, but rings her directly and presses her to settle. Is the call itself the breach, or something else?
+Will (scenario pause): <think>
+Will: It's a breach because pressing her to settle takes unfair advantage of her. The tempting answer is that contacting a represented party is always a breach, but the Code has no express rule against that.
+Hannah: Yes: the call broke the rules by pressing her to settle, not simply by being made.
+Will: Now, undertakings: what makes a statement an undertaking, and what follows once it's given? Here's the deciding rule. An undertaking is a statement to someone who reasonably relies on it that the solicitor or a third party will do something, cause it to be done, or refrain from doing something. It can be oral or written, and it needn't use the word "undertake" or "undertaking".
+Hannah: Who's bound by an undertaking once it's given?
+Will: The solicitor personally, even if the client later countermands it or fails to put them in funds. And it can't be withdrawn or varied without the recipient's agreement. So give one only about matters within your control: for example, only undertake to pay costs from funds already held or irrevocably authorised.
+Hannah: And what if a trainee or a secretary gives the undertaking?
+Will: An undertaking given by a member of staff on the firm's behalf binds the firm, so firms should control who may give undertakings, and record them. And an ambiguous undertaking is generally construed in favour of the recipient.
+Hannah: Does the solicitor need the client's say-so before giving one?
+Will: Where it commits the client's money or property, yes: obtain the client's authority first, for example before undertaking to pay part of the sale proceeds to a third party. Once it's given, the client can't revoke it.
+Hannah: How quickly must an undertaking be performed?
+Will: A solicitor must perform every undertaking they give. The time is the agreed timescale. If none was agreed, it's a reasonable time.
+Hannah: And what happens when an undertaking is broken?
+Will: Breach is a conduct matter for the solicitor and the firm. The court may also, in its discretion, enforce an undertaking a solicitor gives in their professional capacity, under its supervisory jurisdiction over solicitors as officers of the court. It can order performance or compensation, and no consideration is needed.
+Hannah: Does that court power reach every undertaking a firm gives?
+Will: It doesn't reach undertakings given by or on behalf of an incorporated firm, an LLP or a company, because that firm isn't an officer of the court. So if a partner gives one on behalf of her firm, an LLP, and the firm breaks it, that jurisdiction doesn't reach it, though the breach is still a conduct matter.
+Hannah (summing up): An undertaking binds the solicitor personally even if the client countermands it, and must be performed in the agreed time or, if none was agreed, a reasonable time.
+Will: Yes: it's personal, the client can't undo it, and it's due on time.
+## Block 4: Not misleading
+Hannah: Before not misleading, a question on undertakings: a trainee tells the buyer's solicitor on the phone, "We'll send the deeds tomorrow", and he reasonably relies on it, but nobody says "undertake". Is the firm bound?
+Will (scenario pause): <think>
+Will: Yes. An oral statement that's reasonably relied on is an undertaking without the word, and a staff member's undertaking on the firm's behalf binds the firm. The tempting answer is no, because the word wasn't used, but the word isn't needed.
+Hannah: Right: no magic word is needed, and the trainee's promise binds the firm.
+Will: Now, not misleading: what counts as misleading, and what if the truth is confidential? A solicitor must not mislead or attempt to mislead clients, the court or others. That covers their own acts or omissions, and allowing or being complicit in the acts or omissions of others, including the client. And an attempt is enough: nobody need actually be misled.
+Hannah: How could a client mislead others through the solicitor's work?
+Will: A solicitor must not let a client do that: for example, they must not prepare a document they know misstates the price, or a reference or statement they know is false.
+Hannah: In a negotiation, does the solicitor have to answer every question?
+Will: No, and this is the main trap: silence can be acceptable, but a half-truth is not. Asked for the client's lowest acceptable price, the solicitor may decline to say, as they may decline to disclose confidential information. But they mustn't make a false statement, such as inventing a rival offer, or give a partial answer that creates a false impression.
+Hannah: And what if the solicitor can't stay silent without misleading someone?
+Will: That's the deciding rule. Where the solicitor cannot avoid misleading someone without disclosing confidential information, they must seek the client's consent to disclose. If the client refuses, the solicitor must cease to act.
+Hannah: Does the duty not to mislead cover the solicitor's own client?
+Will: It does: a solicitor must not tell a client that work has been done when it hasn't, or hide a mistake, such as a missed limitation date. They must tell the client promptly, and suggest independent advice where there may be a claim against the firm.
+Hannah (summing up): Silence can be acceptable but a half-truth or false statement isn't; if you can't avoid misleading without disclosing a confidence, seek consent, and if it's refused, cease acting.
+Will: Right: declining to disclose a confidence can be fine, a false impression never is, and if you can't avoid misleading without disclosing it, refused consent means stopping acting.
+## Block 5: Treatment of colleagues
+Hannah: Before treatment of colleagues, a question on misleading: Priya can't avoid misleading the other side, even by staying silent, unless she discloses confidential information, and her client refuses consent. Can she carry on with a careful partial answer?
+Will (scenario pause): <think>
+Will: No: she must cease to act. The tempting answer is a careful partial answer, but one that creates a false impression is still misleading.
+Hannah: Yes: with consent refused and no way to avoid misleading, ceasing to act is her only course.
+Will: Now, treatment of colleagues: how must solicitors treat colleagues, at work and beyond it? A solicitor must treat colleagues fairly and with respect, and must not bully, harass or unfairly discriminate against them. And a manager must also challenge behaviour that falls below this standard.
+Hannah: Does that duty stop at the office door?
+Will: No, and this is the deciding rule. Bullying or harassment at work-related social events, such as a firm party or client drinks, is still conduct relating to practice under the standard on treating colleagues fairly. It may also breach Principles two, five and six. So a work party isn't private time.
+Hannah: And what about emails or social media posts from a personal account?
+Will: Offensive or discriminatory communications aimed at colleagues can breach Principles two, five and six and the standard on treating colleagues fairly. It covers emails, messages and social media posts, including on personal accounts, and the SRA treats them as regulatory matters even outside work. Aimed at anyone else, offensive communications can still breach those three Principles.
+Hannah (summing up): Bullying or harassment at a work-related social event is still conduct relating to practice, and offensive or discriminatory messages aimed at colleagues are regulatory matters even outside work.
+Will: Yes: the party and the personal account don't take it outside the rules.
+## Recap
+Hannah: Before the quick-fire round, a question on colleagues: at the firm's summer party, a partner harasses a trainee, then asks a colleague to tell the SRA nothing happened. What's gone wrong?
+Will (scenario pause): <think>
+Will: Two things. The harassment at a work-related party is still conduct relating to practice. And a false account to the SRA would be misleading, and asking for one is being complicit: an attempt is enough. The tempting answer is that a party is private, but work-related social events are covered.
+Hannah: Yes: the party still counts as work, and a false story to the regulator is misleading even if nobody believes it.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for unfair discrimination against clients?
+Will (quick-fire pause): <think>
+Will: A discriminatory reason for refusing a client, or serving them worse, breaches the Code; a legitimate reason doesn't; a disabled client never bears the cost of reasonable adjustments.
+Hannah: What's the summary for taking unfair advantage?
+Will (quick-fire pause): <think>
+Will: Act firmly for the client, but never abuse your position against anyone, especially an unrepresented opponent; direct contact with a represented party breaches only where it takes unfair advantage.
+Hannah: What's the summary for undertakings?
+Will (quick-fire pause): <think>
+Will: An undertaking binds the solicitor personally even if the client countermands it, and must be performed in the agreed time or, if none was agreed, a reasonable time.
+Hannah: What's the summary for not misleading anyone?
+Will (quick-fire pause): <think>
+Will: Silence can be acceptable but a half-truth or false statement isn't; if you can't avoid misleading without disclosing a confidence, seek consent, and if it's refused, cease acting.
+Hannah: What's the summary for how solicitors treat colleagues?
+Will (quick-fire pause): <think>
+Will: Bullying or harassment at a work-related social event is still conduct relating to practice, and offensive or discriminatory messages aimed at colleagues are regulatory matters even outside work.
+Hannah: And how would you sum up the whole workshop in one sentence?
+Will: A solicitor may act firmly for a client but must never unfairly discriminate, take unfair advantage or mislead by even a half-truth; and every undertaking they give binds them personally.

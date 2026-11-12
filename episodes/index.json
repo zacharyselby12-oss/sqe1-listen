@@ -3285,6 +3285,85 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws04-rev-v1-69af7331.mp3",
       "siteAudio": "audio/dr-ws04-rev-v1-69af7331.mp3",
       "pubDate": "2026-11-12T17:55:30+00:00"
+    },
+    {
+      "id": "eth-ws02-rev-v1",
+      "unitId": "u-bpp-ETH-02",
+      "title": "Ethics WS02 · Revision · 17 min",
+      "guideHash": "ed1aa3fd8f",
+      "script": "scripts/eth-ws02-rev-v1.txt",
+      "scriptHash": "4352976a4b31",
+      "audio": "audio/eth-ws02-rev-v1.mp3",
+      "recap": [
+        "A discriminatory reason for refusing a client, or serving them worse, breaches the Code; a legitimate reason doesn't; a disabled client never bears the cost of reasonable adjustments.",
+        "Act firmly for the client, but never abuse your position against anyone, especially an unrepresented opponent; direct contact with a represented party breaches only where it takes unfair advantage.",
+        "An undertaking binds the solicitor personally even if the client countermands it, and must be performed in the agreed time or, if none was agreed, a reasonable time.",
+        "Silence can be acceptable but a half-truth or false statement isn't; if you can't avoid misleading without disclosing a confidence, seek consent, and if it's refused, cease acting.",
+        "Bullying or harassment at a work-related social event is still conduct relating to practice, and offensive or discriminatory messages aimed at colleagues are regulatory matters even outside work."
+      ],
+      "map": [
+        "Unfair discrimination",
+        "Unfair advantage",
+        "Undertakings",
+        "Not misleading",
+        "Treatment of colleagues"
+      ],
+      "summary": "A solicitor may act firmly for a client but must never unfairly discriminate, take unfair advantage or mislead by even a half-truth; and every undertaking they give binds them personally.",
+      "madeAt": "2026-11-12T21:43:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 41/41 items; known-error scan: 1 phrase match cleared by the Opus triage (the half-truth line, not the convictions error); Opus accuracy + line-by-line (2 + 2 problems), 2 fixes applied; changed lines verified (pass, 0); final code checks and known-error scan ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "blp-ws08-accounts-v1",
+      "unitId": "u-bpp-BLP-08",
+      "title": "BLP WS08 extra: business accounts",
+      "guideHash": "b3100fd315",
+      "script": "scripts/blp-ws08-accounts-v1.txt",
+      "scriptHash": "dbb1189451c5",
+      "audio": "audio/blp-ws08-accounts-v1.mp3",
+      "recap": [
+        "A share issue for cash raises net assets by the whole price received, nominal value going to share capital and the premium to the share premium account, while borrowing, or spending a loan on machinery, leaves net assets unchanged.",
+        "The profit and loss account covers a period and the balance sheet one date; an accrual left out overstates profit, and a prepayment left out understates it.",
+        "In a partnership's appropriation statement, salaries and interest on capital come first and the rest is shared in the agreed ratio, and none of them, nor drawings, is an expense.",
+        "Any parent company, even with only one subsidiary, must prepare group accounts as well as its own, unless it is exempt.",
+        "Capital reserves cannot be paid out as dividends, a final dividend becomes a liability only once declared, and an interim one is normally shown only once paid."
+      ],
+      "map": [
+        "Equity and debt finance on the balance sheet; earnings per share; gearing",
+        "Book-keeping, financial statements and year-end adjustments",
+        "Partnership accounts",
+        "Company accounts: reference date and filing",
+        "Company accounts: capital, reserves and dividends"
+      ],
+      "summary": "A share issue for cash raises net assets but a loan doesn't; an accrual left out overstates profit, a prepayment left out understates it; partners' salaries and drawings aren't expenses; even one subsidiary means group accounts unless exempt; and capital reserves can't fund dividends.",
+      "madeAt": "2026-11-12T21:43:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23: 0 errors; 1 flag, \"summary may not name every topic\", accepted by the build chat); known-error scan ok (live preg, 261 entries: 0 hits); Opus accuracy and coverage check (helper E, 2026-11-12T13:50:42Z): fix, 9 fixes (3 legal, 1 coverage, 5 rule), applied; changed-lines verify (helper D, 2026-11-12T13:53:18Z): all 9 right against the staged guide and pcheck texts, none changed; code ok and known-error scan ok on the final script; re-stamp (K218, Thu 12 Nov): guideHash 4f43e146d3 -> b3100fd315 (textV 2), the publisher's render of the applied guide (pipeId pw-u-bpp-BLP-08-r202611121700-g; its v4 identical to the staged one the checks read); the staged guide rendered over the library as at 13:54 (pcheck rolled back by checkedAt/prev) is also b3100fd315, so no line changed since the stamp and 4f43e146d3 was not the publisher's render; fresh Opus check of the script against the 31 point lines (K218 packet): pass, Thu 12 Nov about 18:08 London (fresh Opus check C11: all 31 point lines ok, the 13 in blocks b1-b5 and b8 read against the whole script; stamp 4f43e146d3 was never the publisher's render, the guide text is the staged one)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b8"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

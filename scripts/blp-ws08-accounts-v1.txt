@@ -1,0 +1,127 @@
+---
+id: blp-ws08-accounts-v1
+unit: u-bpp-BLP-08
+guide_hash: b3100fd315
+made: 2026-11-12T21:43:34+00:00
+title: BLP WS08 extra: business accounts
+part: 1 of 1
+blocks: 1-5
+map:
+- Equity and debt finance on the balance sheet; earnings per share; gearing
+- Book-keeping, financial statements and year-end adjustments
+- Partnership accounts
+- Company accounts: reference date and filing
+- Company accounts: capital, reserves and dividends
+recap:
+- A share issue for cash raises net assets by the whole price received, nominal value going to share capital and the premium to the share premium account, while borrowing, or spending a loan on machinery, leaves net assets unchanged.
+- The profit and loss account covers a period and the balance sheet one date; an accrual left out overstates profit, and a prepayment left out understates it.
+- In a partnership's appropriation statement, salaries and interest on capital come first and the rest is shared in the agreed ratio, and none of them, nor drawings, is an expense.
+- Any parent company, even with only one subsidiary, must prepare group accounts as well as its own, unless it is exempt.
+- Capital reserves cannot be paid out as dividends, a final dividend becomes a liability only once declared, and an interim one is normally shown only once paid.
+summary: A share issue for cash raises net assets but a loan doesn't; an accrual left out overstates profit, a prepayment left out understates it; partners' salaries and drawings aren't expenses; even one subsidiary means group accounts unless exempt; and capital reserves can't fund dividends.
+invented:
+- Larkfield Ltd
+- Mabry Ltd
+- 10,000 shares of £1 each, sold at £3 a share
+- £2 a share premium
+- £10,000 share capital
+- £20,000 share premium
+- £30,000 cash
+- £50,000 five-year term loan
+- £2,000 of electricity
+---
+## Map
+Will: An extra on business accounts, in five topics. First, share issues and borrowing on the balance sheet. Then the financial statements and the year-end adjustments.
+Hannah: And what are the other three?
+Will: Partnership accounts and group accounts, then capital, reserves and dividends last.
+Hannah: So money in and the year's figures first, then partners, groups and dividends.
+Will: Right, that's the run.
+## Block 1: Equity and debt finance on the balance sheet; earnings per share; gearing
+Will: Equity and debt finance on the balance sheet first. Its two halves always balance. The top half shows net assets: assets less liabilities. The bottom half shows the capital behind them: for a company, its share capital and reserves, called equity. So a transaction changes net assets only if it also changes the capital.
+Hannah: What does a share issue do, then?
+Will: When a company issues fully paid shares for cash, both halves rise by the amount received. The cash is a current asset, so net assets increase, and equity rises by the same amount. Nominal value goes to share capital; anything above it, the premium, goes to the share premium account, which is undistributable.
+Hannah: Can we try that with numbers?
+Will: The test is where each part of the price goes. Larkfield Ltd issues 10,000 fully paid shares for cash, each with a nominal value of £1.
+Hannah: And what are the buyers paying for each share?
+Will: £3 a share, all in cash.
+Hannah: So does the whole price go to share capital, or only the nominal value, with the rest in the share premium account?
+Will (scenario pause): <think>
+Hannah: This is a share issue at a premium. Only the nominal value goes to share capital, and the rest to the share premium account.
+Will: Right: share capital rises by £10,000.
+Hannah: And the premium is £2 a share, so £20,000 goes to share premium?
+Will: Yes. And the cash, £30,000, is a current asset, so net assets rise by the whole amount, matching the rise in equity.
+Hannah: Is there a catch for the existing shareholders?
+Will: There can be. Earnings per share measures the return due to each ordinary share: it's the profit after tax available to ordinary shareholders, so after any preference dividends, divided by the average number of ordinary shares in issue while that profit was earned. A new issue dilutes it unless profits rise at least in proportion.
+Hannah: Does a loan work the same way?
+Will: Not at all, and this is the classic question. The test is whether the capital changes. Say Larkfield borrows £50,000 on a five-year term loan and spends all of it on a new machine.
+Hannah: So do its net assets rise, fall, or not move at all?
+Will (scenario pause): <think>
+Hannah: This is borrowing on the balance sheet. The loan adds cash to the assets and the same amount to the liabilities, and the machine just swaps the cash for an asset of the same value. So nothing moves.
+Will: Right: only the top half changed, so net assets and total equity are unchanged at both steps. And buying the machine isn't an expense: it's a fixed asset, and if it has a limited useful life, its cost is charged against profits over that life by depreciation.
+Hannah: But the loan makes Larkfield more highly geared, doesn't it?
+Will: It does. Gearing compares debt with equity, the shareholders' funds, and a highly geared company is a greater credit risk. Its interest must be paid whether or not it's doing well, so it needs more profit before interest and tax to meet it. It has less equity to absorb losses and protect creditors, and may find it harder to borrow more or offer security for a new loan.
+Hannah: And what does gearing mean for the shareholders?
+Will: Borrowing avoids diluting their holdings, and the profit made with the borrowed money, after the interest, belongs to them. So high gearing increases earnings per share while the company earns more on that money than the interest costs, and reduces it, magnifying losses, when it earns less.
+Hannah: So a share issue for cash raises net assets by the whole price, while borrowing, or spending the loan on an asset, leaves them where they were.
+Will: That's it: the issue changes the capital and the loan doesn't.
+## Block 2: Book-keeping, financial statements and year-end adjustments
+Will: Now from the balance sheet to the books behind it: the financial statements and the year-end adjustments. The profit and loss account, or income statement, covers a period, usually a year. The balance sheet shows the position at one date, the period's last day.
+Hannah: So one is a film of the year and the other a photo of its last day?
+Will: That's a good way to hold it. The film is drawn up only from income and expenses, giving the profit or loss. Assets, liabilities and capital never go into it.
+Hannah: On the photo, what makes an asset fixed rather than current?
+Will: A fixed asset is one the business intends to use on a continuing basis, such as premises or machinery; it's also called non-current. Current assets are cash and assets not intended for that use, which generally turn into cash within a year, like stock and debtors. Liabilities are current if payable within a year, like an overdraft, and non-current if due later, like a term loan, so far as it's repayable after more than a year.
+Hannah: Is goodwill an asset on the balance sheet?
+Will: It depends whose. A business's own goodwill, built up internally, is never shown on its balance sheet. Goodwill it pays for when it buys a business is recognised as an intangible asset; for a subsidiary bought through its shares, that's in the group accounts.
+Hannah: Where do the year-end adjustments come in?
+Will: In three groups: depreciation; accruals and prepayments; and bad and doubtful debts. They make the accounts take in all the income and expenses relating to the period, whatever the date of receipt or payment: the accruals, or matching, concept. And they stop assets being shown at more than can be recovered.
+Hannah: Isn't depreciation just the machine getting older?
+Will: Careful. It spreads the cost of a fixed asset with a limited useful life, less any expected residual value, systematically over that life, as closely as possible to the way the asset's benefits are used up. Each year's charge is an expense. The depreciation built up so far comes off the asset's cost, giving its net book value, which is not necessarily its market value. So accumulated depreciation is not a liability.
+Hannah: And which method suits which kind of asset?
+Will: Straight-line gives the same charge every year, suiting an asset used evenly throughout its life, such as shelving. Reducing balance charges a fixed percentage of the net book value at the start of each year, so the charge is highest in year one and falls every year, suiting an asset whose benefits are used up mostly in its early years, such as a van.
+Hannah: Now accruals and prepayments, which I always mix up.
+Will: The test: was the expense incurred in this period but not yet paid or recorded, or paid in this period for the next? Say Mabry Ltd's year ends in December. It used £2,000 of electricity in December, but the bill arrives in January.
+Hannah: If the accountant leaves that out, is profit overstated, understated or unaffected?
+Will (scenario pause): <think>
+Hannah: This is an accrual. The expense belongs to this year, with the amount owing shown as a liability. Leave it out and expenses and liabilities are understated, so profit is overstated.
+Will: Right: overstated, here by the £2,000. Now the mirror image: Mabry pays January's rent in December. That's a prepayment: only the part relating to this period is an expense, and the part paid in advance is a current asset. If it's left out, what happens to profit?
+Hannah: Expenses are overstated and assets understated, so profit is understated.
+Will: Correct: an accrual left out overstates profit, and a prepayment left out understates it.
+Hannah: That leaves debts that won't be paid.
+Will: A debt is bad when the business knows with certainty it will never be paid, for example because the debtor is insolvent and nothing will be recovered. It's written off: receivables fall by the debt, and that amount is an expense.
+Hannah: And one that only might not be paid?
+Will: That's doubtful, for example where the debtor is in financial difficulty or disputes the debt. It isn't written off. The business makes a provision for doubtful debts, for specific debts or as a general percentage of its debtors, though the accounting standard needs objective evidence of impairment. The provision is deducted from receivables, so it isn't a liability. And only the year's increase in it is an expense, not the whole provision; a decrease reduces expenses.
+Hannah: So the adjustments make each year carry its own income and expenses, and keep assets at no more than can be recovered.
+Will: Spot on: those are the two jobs they do.
+## Block 3: Partnership accounts
+Will: Partnership accounts next. They're prepared like a sole trader's, with the same year-end adjustments, plus an appropriation statement showing how the net profit is divided between the partners.
+Hannah: In what order is it divided?
+Will: First any salaries and interest on capital the partnership agreement gives them, which are shares of profit, not expenses. Then the residual profit, in the agreed profit-sharing ratio. Those terms displace the defaults of equal sharing, no interest and no salary.
+Hannah: Where do a partner's drawings fit in?
+Will: His capital account holds the long-term capital he has put in, which normally stays in the business while he's a partner. His current account records his share of the profits less his drawings, the money he takes out during the year. Drawings, by a partner or a sole trader, are not an expense of the business.
+Hannah: So a partnership divides its profit rather than deducting those payments from it.
+Will: Right: salaries, interest on capital and drawings are not expenses of the firm.
+## Block 4: Company accounts: reference date and filing
+Will: Company accounts now, where the reference date and filing rules sit beside group accounts. If at the end of a financial year a company is a parent company, with at least one subsidiary undertaking, its directors must prepare group accounts as well as its own individual accounts, unless it's exempt.
+Hannah: Even with one subsidiary? I'd heard it had to be more than one.
+Will: Careful: one is enough. The exemptions include one for the parent of a small group. The group must have no traded, banking, insurance or certain other regulated member. Another covers a parent included in the accounts of a larger group, and an exempt company may still prepare group accounts.
+Hannah: So one subsidiary is enough, unless an exemption applies.
+Will: Yes: a single subsidiary already makes it a parent company.
+## Block 5: Company accounts: capital, reserves and dividends
+Will: Last, company accounts again: capital, reserves and dividends. A company's capital is its called-up share capital, the nominal value of its issued shares so far as called up, plus its reserves. Share capital excludes any premium and isn't affected by the shares' market price.
+Hannah: Which reserves can pay a dividend?
+Will: Capital reserves, like the share premium account, the revaluation reserve and the capital redemption reserve, can't be paid out as dividends. Revenue reserves, chiefly retained earnings, can, so far as they are profits available for distribution.
+Hannah: Why can't a revaluation fund one?
+Will: Take Larkfield revaluing its buildings upwards. The increase goes on the asset in the top half and into a revaluation reserve in the bottom half, so net assets and equity both rise. But the gain is unrealised, so it can't be paid out as a dividend until it's realised, for example on a sale. A later fall is set against that reserve so far as it covers it, and any excess is an expense.
+Hannah: And where do dividends show up?
+Will: Not as an expense. The profit and loss account deducts corporation tax to give profit after tax. Dividends are an appropriation of that profit, deducted from retained earnings, and what isn't paid out stays as retained earnings.
+Hannah: Shall we finish with a timing question?
+Will: The test is whether the dividend is a debt at the year end. Say Larkfield's directors recommend a final dividend before the year end, but the shareholders only declare it afterwards.
+Hannah: So is that dividend a liability in that year's accounts, or not?
+Will (scenario pause): <think>
+Hannah: This is dividends in the accounts. Recommended but not declared by the year end, so it isn't a liability of that year.
+Will: Right: a recommendation creates no debt. Once declared, a final dividend is a debt owed to the shareholders, so one declared but unpaid at the year end is a current liability. An interim dividend the directors decide on is normally shown only once paid, because until then they can rescind it.
+Hannah: So a final dividend is a liability once it's declared, and an interim one is normally shown only once it's paid.
+Will: Right, and neither kind is an expense.
+## Recap
+Hannah: The traps to remember: accumulated depreciation and a provision for doubtful debts aren't liabilities, and a business's own goodwill never goes on its balance sheet. So what's the whole thing in one sentence?
+Will: A share issue for cash raises net assets but a loan doesn't; an accrual left out overstates profit, a prepayment left out understates it; partners' salaries and drawings aren't expenses; even one subsidiary means group accounts unless exempt; and capital reserves can't fund dividends.
