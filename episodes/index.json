@@ -3310,7 +3310,7 @@
       ],
       "summary": "A solicitor may act firmly for a client but must never unfairly discriminate, take unfair advantage or mislead by even a half-truth; and every undertaking they give binds them personally.",
       "madeAt": "2026-11-12T21:43:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 41/41 items; known-error scan: 1 phrase match cleared by the Opus triage (the half-truth line, not the convictions error); Opus accuracy + line-by-line (2 + 2 problems), 2 fixes applied; changed lines verified (pass, 0); final code checks and known-error scan ok",
@@ -3323,7 +3323,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8313166,
+      "seconds": 1039,
+      "words": 2439,
+      "renderedHash": "4352976a4b31",
+      "renderedAt": "2026-11-12T21:44:36+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws02-rev-v1-fa43ef31.mp3",
+      "siteAudio": "audio/eth-ws02-rev-v1-fa43ef31.mp3",
+      "pubDate": "2026-11-12T21:44:36+00:00"
     },
     {
       "id": "blp-ws08-accounts-v1",
@@ -3349,7 +3358,7 @@
       ],
       "summary": "A share issue for cash raises net assets but a loan doesn't; an accrual left out overstates profit, a prepayment left out understates it; partners' salaries and drawings aren't expenses; even one subsidiary means group accounts unless exempt; and capital reserves can't fund dividends.",
       "madeAt": "2026-11-12T21:43:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23: 0 errors; 1 flag, \"summary may not name every topic\", accepted by the build chat); known-error scan ok (live preg, 261 entries: 0 hits); Opus accuracy and coverage check (helper E, 2026-11-12T13:50:42Z): fix, 9 fixes (3 legal, 1 coverage, 5 rule), applied; changed-lines verify (helper D, 2026-11-12T13:53:18Z): all 9 right against the staged guide and pcheck texts, none changed; code ok and known-error scan ok on the final script; re-stamp (K218, Thu 12 Nov): guideHash 4f43e146d3 -> b3100fd315 (textV 2), the publisher's render of the applied guide (pipeId pw-u-bpp-BLP-08-r202611121700-g; its v4 identical to the staged one the checks read); the staged guide rendered over the library as at 13:54 (pcheck rolled back by checkedAt/prev) is also b3100fd315, so no line changed since the stamp and 4f43e146d3 was not the publisher's render; fresh Opus check of the script against the 31 point lines (K218 packet): pass, Thu 12 Nov about 18:08 London (fresh Opus check C11: all 31 point lines ok, the 13 in blocks b1-b5 and b8 read against the whole script; stamp 4f43e146d3 was never the publisher's render, the guide text is the staged one)",
@@ -3363,7 +3372,16 @@
         "b5",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 6863024,
+      "seconds": 858,
+      "words": 2179,
+      "renderedHash": "dbb1189451c5",
+      "renderedAt": "2026-11-12T21:44:36+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws08-accounts-v1-045f0377.mp3",
+      "siteAudio": "audio/blp-ws08-accounts-v1-045f0377.mp3",
+      "pubDate": "2026-11-12T21:44:36+00:00"
     }
   ],
   "replays": [
