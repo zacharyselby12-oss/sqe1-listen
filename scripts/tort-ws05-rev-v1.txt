@@ -1,0 +1,175 @@
+---
+id: tort-ws05-rev-v1
+unit: u-bpp-Tort-05
+guide_hash: 5cab00c6ca
+made: 2026-11-12T17:44:14+00:00
+kind: revision
+title: Tort WS05 · Revision · 17 min
+map:
+- Employers' primary liability: the personal, non-delegable duty and its four facets
+- Breach, causation, remoteness and defences in employers' primary liability
+- Vicarious liability: the three elements, close connection and the employer's indemnity
+- Identifying an employment relationship: relationships akin to employment, independent contractors and lent employees
+recap:
+- The employer's safety duty is personal and non-delegable: handing the task of ensuring safety to someone else doesn't end its liability, though it may seek contribution.
+- Breach is judged for this employee; the claimant must prove on the balance of probabilities that the harm wouldn't have happened but for the breach; volenti rarely succeeds against an employee.
+- Vicarious liability needs a tort, employment or something akin to it, and close connection; a personal vendetta fails that, even though the job gave the opportunity.
+- Status turns on reality, not the label: a genuine independent contractor means no vicarious liability, while work integral to the defendant's business or activities and for its benefit, assigned by it creating the risk, can be akin to employment.
+summary: Ask whether the employer broke its own personal duty, answers for an employee's tort, or both, and for vicarious liability ask whether the wrong was so closely connected with the job that it is fair and just to hold the employer liable.
+invented:
+- Brightway Ltd
+- Priya
+- Dan
+- Mo
+- Hartwell Trust
+- Amara
+guide_only:
+- P:TL-1.1-22 (seriousness of harm: homed in Tort WS02)
+- P:TL-1.7-09 (health and safety regulations: no civil claim of itself; the cut-off date is a look-up figure, so the rule cannot be said whole)
+---
+
+## Map
+Will: Today's workshop asks one big question about work: when is an employer liable for harm to its employees, or for what its employees do to others? There are four areas: the employer's own duty, breach and defences, vicarious liability, and who counts as an employee.
+Hannah: First, a question from the last workshop. The defendant's breach causes the claimant a foreseeable kind of harm, and the claimant's pre-existing condition makes it far worse, even fatal. How much is the defendant liable for?
+Will (scenario pause): <think>
+Will: For all of it, even death. Under the eggshell skull rule, the defendant is liable for all harm worsened by the claimant's pre-existing condition, where the kind of harm was foreseeable and the condition only increases its extent. Only what a healthy person would have suffered is the tempting wrong answer.
+Hannah: Yes: all the harm, even death, as long as the kind of harm was foreseeable.
+
+## Block 1: Employers' primary liability: the personal, non-delegable duty and its four facets
+Will: Now, employers' primary liability: what duty does an employer owe its employees, and can it hand that duty to someone else? First, the split. Primary liability is the employer's own breach of its personal duty, while vicarious liability makes the employer liable for an employee's tort without its own fault.
+Hannah: So when a colleague injures the claimant, which of the two do we argue?
+Will: Both may be argued, so ask first whether the claim rests on the employer's own breach, an employee's tort, or both.
+Hannah: And what exactly is the duty the employer owes?
+Will: An employer owes each employee a personal duty to take reasonable care for his safety, and it has four facets.
+Hannah: What are the four facets?
+Will: Competent fellow employees, adequate plant and equipment, a safe place of work, and a safe system of work.
+Hannah: Can the employer hand that duty to someone else?
+Will: No, because the duty is non-delegable: the employer remains liable if the task of ensuring safety is entrusted to someone else, though it may seek contribution. That covers a contractor, or another company directing the employee's work.
+Hannah: Let's take the facets in turn. What do I need on competent staff?
+Will: The employer is liable if it knew or ought to have known that a fellow employee was incompetent or dangerous, and failed to act. A known practical joker is the example.
+Hannah: And on adequate equipment?
+Will: The employer must provide and maintain reasonably safe plant and equipment.
+Hannah: What if a third party, like the manufacturer, is to blame for the defect?
+Will: Under the Employer's Liability (Defective Equipment) Act, if an employee is injured in the course of employment by a defect in equipment the employer provided for its business, and the defect is wholly or partly a third party's fault, identified or not, such as the manufacturer's, the employer is deemed negligent.
+Hannah: Does contributory negligence still apply, and can the employer contract out?
+Will: Contributory negligence still applies, but any exclusion is void.
+Hannah: What counts as equipment?
+Will: Equipment includes plant, vehicles and clothing, and is read widely, so a ship and a flagstone both count.
+Hannah: Now the safe place of work?
+Will: The employer must take reasonable steps to make the workplace safe, but the response must be proportionate to the risk, so it need not close a factory to remove every hazard. The duty applies, adjusted, where employees work at third parties' premises.
+Hannah: And the last facet, the safe system of work?
+Will: It includes training and supervision, in three parts: devise and enforce a reasonably safe method of work, give instructions and supervision, and provide necessary protective equipment and take reasonable steps to ensure it is used.
+Hannah: Does an experienced employee need all that?
+Will: Yes, experience does not exempt the employer from this duty, though some dangers are so obvious to an experienced employee that no warning or instruction is needed.
+Hannah (summing up): The employer's safety duty is personal and non-delegable: handing the task of ensuring safety to someone else doesn't end its liability, though it may seek contribution.
+Will: Yes: personal, non-delegable, and handing it on leaves the employer liable, though it may seek contribution.
+
+## Block 2: Breach, causation, remoteness and defences in employers' primary liability
+Hannah: Before breach, a question on the duty. Brightway Ltd hires a contractor to run its safety training, and its employee, Priya, is hurt by poor training. Can Brightway escape liability by pointing to the contractor?
+Will (scenario pause): <think>
+Will: No. The duty is non-delegable, so Brightway remains liable, though it may seek contribution. The tempting answer is that hiring a contractor passes the duty on, which is wrong because the duty stays personal.
+Hannah: Yes: Brightway stays liable, though it may seek contribution.
+Will: Now, breach, causation, remoteness and defences in employers' primary liability: did the employer fail this particular employee, did that cause his harm, and what defences apply? Start with breach. The duty is owed to each employee individually, so the employer must take account of known characteristics making that employee more vulnerable.
+Hannah: Next, causation. How is it decided?
+Will: Factual causation is decided by the 'but for' test: the claimant must prove on the balance of probabilities that, but for the defendant's breach, the harm would not have occurred.
+Hannah: What about psychiatric injury from stress at work?
+Will: The duty includes taking reasonable care to avoid psychiatric injury to the employee from stress at work, and the threshold question is whether this kind of harm to this particular employee was reasonably foreseeable.
+Hannah: Foreseeable judged by what?
+Will: By what the employer knew or ought reasonably to have known about him. It is usually entitled to assume he can withstand the normal pressures of the job, unless it knows of some particular problem or vulnerability.
+Hannah: Now the defences. Does volenti work against an employee?
+Will: Rarely, because knowledge of a risk at work is not consent, and economic pressure means acceptance of risk is not truly voluntary. A worker who knows a floor is often wet has not agreed to slip.
+Hannah: Has it ever succeeded?
+Will: Exceptionally, where employees jointly and deliberately defied safety rules and the employer was liable only vicariously, not for its own fault.
+Hannah: And do courts readily find contributory negligence?
+Will: Not for momentary inattention in repetitive or tiring work: courts are slow to find contributory negligence there.
+Hannah: What counts as the claimant's own fault?
+Will: A failure to take reasonable care for his own safety, judged objectively. It need not contribute to the accident, only to the damage.
+Hannah: So how do I tell the two defences apart?
+Will: Ask whether the employee truly and voluntarily accepted the risk, or only failed to take reasonable care of his own safety. Volenti needs true, voluntary acceptance, and rarely succeeds against an employee.
+Hannah (summing up): Breach is judged for this employee; the claimant must prove on the balance of probabilities that the harm wouldn't have happened but for the breach; volenti rarely succeeds against an employee.
+Will: Yes: breach is personal, but-for causation is the claimant's to prove, and volenti is rare.
+
+## Block 3: Vicarious liability: the three elements, close connection and the employer's indemnity
+Hannah: Before vicarious liability, a question on consent. Dan knew his saw had no guard, used it anyway, and was injured. Does his knowledge defeat his claim for the employer's own breach?
+Will (scenario pause): <think>
+Will: Almost certainly not: volenti rarely succeeds against employees. The tempting answer is that he knew and carried on, so he consented, which is wrong because knowledge of a risk at work is not consent.
+Hannah: Yes: knowing a risk at work is not agreeing to it.
+Will: Now, vicarious liability: when is an employer liable for its employee's tort, and can it recover from him? Vicarious liability makes a defendant strictly liable, without its own fault, for a tort committed by another. There are three elements: a tort by the wrongdoer, a relationship of employment or one akin to employment, and a close connection between that relationship and the tort.
+Hannah: Which element decides most questions?
+Will: Close connection. The court identifies the field of activities entrusted to the employee, viewed broadly, and asks whether the wrongful conduct was so closely connected with that position that it is fair and just to hold the employer liable.
+Hannah: Can that cover deliberate wrongdoing?
+Will: Yes: employers can be vicariously liable for deliberate wrongdoing, including crimes and sexual abuse, where closely connected with the duties. Examples are a warden of a boarding house abusing pupils, a nightclub bouncer stabbing a customer, and a kiosk attendant assaulting a customer.
+Hannah: And when does the employer escape?
+Will: There is no vicarious liability where the employee was pursuing a personal vendetta or 'frolic of his own' rather than, even misguidedly, the employer's business. The fact that the job gave the opportunity is not enough.
+Hannah: What if the employer expressly forbade the act?
+Will: An express prohibition does not prevent vicarious liability if it limits only the way the employee does his job; it does if it limits the scope of the job itself.
+Hannah: Does that cover giving a lift against orders?
+Will: Giving a lift against orders is within employment if the passenger is helping with the employer's work, but not if not.
+Hannah: What about detours and the journey to work?
+Will: An employee on a detour or 'frolic of his own' for his own purposes is outside the course of employment. Travelling to and from work is normally outside it, unless the employee travels in the employer's time or as part of the job, for example paid to travel to a distant site.
+Hannah: Who can the claimant sue?
+Will: Employer and employee are jointly and severally liable, so the claimant can sue either or both, and the employee remains personally liable.
+Hannah: And can the employer recover from the employee?
+Will: An employer held vicariously liable is entitled in law to an indemnity from the negligent employee, and may claim contribution, though in practice this is rarely pursued.
+Hannah: How do I keep those two apart?
+Will: Ask who is asking: the claimant choosing whom to sue, or the employer seeking to recover from its own employee? So the claimant may sue the negligent employee directly, while the employer, once found vicariously liable, is entitled in law to recover from him, though in practice this is rarely pursued.
+Hannah: One more: what about a vehicle owner?
+Will: A vehicle owner is liable for a driver's negligence where the driver was driving as the owner's agent for the owner's purposes, but not merely because the owner permitted use for the driver's own purposes.
+Hannah (summing up): Vicarious liability needs a tort, employment or something akin to it, and close connection; a personal vendetta fails that, even though the job gave the opportunity.
+Will: Yes: close connection does the work, and a vendetta lacks it however much opportunity the job gave.
+
+## Block 4: Identifying an employment relationship: relationships akin to employment, independent contractors and lent employees
+Hannah: Before employment status, a question on prohibitions. Mo, a driver, is forbidden to carry passengers but gives a colleague a lift to help unload the employer's stock, and he drives carelessly and crashes, injuring the colleague. Is the employer vicariously liable?
+Will (scenario pause): <think>
+Will: Yes, because the passenger was helping with the employer's work. The tempting answer is that breaking the order takes him outside the job, which is wrong because the ban limited only the way he did the job, not its scope.
+Hannah: Yes: the lift helped the employer's work, and a ban on the way he works doesn't remove liability.
+Will: Now, identifying an employment relationship: who counts as an employee or close enough to one, and who answers for a lent employee? Employment status is decided on the reality of the relationship, not the label the parties give it.
+Hannah: What does the reality look at?
+Will: Factors including control, integration into the business and personal service.
+Hannah: Is there anything else it looks at?
+Will: Yes: who bears the financial risk, and who provides the equipment.
+Hannah: What if he isn't an employee at all?
+Will: Stage one can be met by a non-employee whose activities are an integral part of the defendant's business or activities and for its benefit, not a recognisably independent business of his own.
+Hannah: Is that enough on its own?
+Will: Not quite: the defendant must also have created the risk by assigning those activities. Examples are prisoners in a prison kitchen, religious brothers, local-authority foster parents and a church elder.
+Hannah: So is close connection still needed?
+Will: Yes, close connection must still be shown: in BXB the elder's relationship was akin to employment, but the rape was not closely connected, so there was no liability.
+Hannah: And a genuine independent contractor?
+Will: There is no vicarious liability for a genuine independent contractor carrying on his own independent business, such as a self-employed doctor engaged to carry out medical examinations for many clients. So a prisoner assigned to the prison kitchen is akin to employment, but that doctor with many other clients is not.
+Hannah: What are the policy factors the courts sometimes mention?
+Will: They include deeper pockets or insurance, activity on the defendant's behalf, and being part of its business.
+Hannah: Are there any more policy factors?
+Will: Creation of risk, and control.
+Hannah: Do those factors decide the question?
+Will: No, they are not the test: the court applies the two-stage test of relationship and close connection. The factors may help in doubtful cases at the first stage, and policy may serve as a final check on the outcome.
+Hannah: Now lent employees. Who is liable for them?
+Will: The general, permanent employer is presumed to remain vicariously liable, and shifting liability to the temporary employer requires clear proof of control over how the work is done. In some cases both can be liable, which is dual vicarious liability.
+Hannah: What about police officers, are they employees?
+Will: Police officers are office holders, not employees.
+Hannah: So who answers for their torts?
+Will: The chief officer of police. He is liable for unlawful conduct of constables under his direction and control in the performance or purported performance of their functions, as an employer is for its employees' torts.
+Hannah: Is he treated like an employer in every way?
+Will: He is also treated as a joint tortfeasor.
+Hannah (summing up): Status turns on reality, not the label: a genuine independent contractor means no vicarious liability, while work integral to the defendant's business or activities and for its benefit, assigned by it creating the risk, can be akin to employment.
+Will: Yes: reality beats the label, and integral work for the defendant's benefit that it assigns can be akin to employment.
+
+## Recap
+Hannah: One last question, across two areas. Hartwell Trust assigns a volunteer, Amara, to run its food kitchen, an integral part of its activities and for its benefit, and while serving meals she negligently scalds a visitor. The charity says she isn't an employee. Is it vicariously liable?
+Will (scenario pause): <think>
+Will: Yes: running the kitchen is an integral part of the charity's activities, for its benefit and assigned by it, so the relationship is akin to employment, and injuring a visitor while running it is closely connected with that work. The tempting answer is to call her a non-employee, so the charity escapes, which ignores akin to employment; the other trap is treating akin to employment as enough on its own, which ignores close connection.
+Hannah: Yes: akin to employment meets the relationship stage, but close connection is still needed.
+Will: Time for the quick-fire round: one summary for each area.
+Hannah: What's the summary for the employer's own primary liability and its personal duty?
+Will (quick-fire pause): <think>
+Will: The employer's safety duty is personal and non-delegable: handing the task of ensuring safety to someone else doesn't end its liability, though it may seek contribution.
+Hannah: What's the summary for breach, causation and defences in the employer's own liability?
+Will (quick-fire pause): <think>
+Will: Breach is judged for this employee; the claimant must prove on the balance of probabilities that the harm wouldn't have happened but for the breach; volenti rarely succeeds against an employee.
+Hannah: What's the summary for vicarious liability and close connection?
+Will (quick-fire pause): <think>
+Will: Vicarious liability needs a tort, employment or something akin to it, and close connection; a personal vendetta fails that, even though the job gave the opportunity.
+Hannah: What's the summary for identifying an employment relationship?
+Will (quick-fire pause): <think>
+Will: Status turns on reality, not the label: a genuine independent contractor means no vicarious liability, while work integral to the defendant's business or activities and for its benefit, assigned by it creating the risk, can be akin to employment.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Ask whether the employer broke its own personal duty, answers for an employee's tort, or both, and for vicarious liability ask whether the wrong was so closely connected with the job that it is fair and just to hold the employer liable.

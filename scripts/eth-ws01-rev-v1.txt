@@ -1,0 +1,150 @@
+---
+id: eth-ws01-rev-v1
+unit: u-bpp-ETH-01
+guide_hash: 70dd3eea4f
+made: 2026-11-12T17:44:14+00:00
+kind: revision
+title: Ethics WS01 · Revision · 17 min
+map:
+- The SRA's standards and the Principles
+- The seven Principles
+- When Principles conflict
+- Honesty and integrity
+- Conduct outside practice
+- Personal accountability and enforcement
+recap:
+- The Principles bind everyone the SRA regulates and sit above the Codes: for which standard is breached, pick the matching Code standard first, then the Principles it reflects.
+- Match the conduct to each Principle it engages; you can lack integrity without being dishonest, but dishonesty always also shows a lack of integrity.
+- Public-interest Principles override the client's interests: refuse an instruction that breaches them and, if the client still insists, cease to act without disclosing confidential or privileged information.
+- Find what the solicitor actually knew or believed about the facts, then judge the conduct by ordinary decent people's standards, which office practice cannot lower; dishonesty means strike-off save in exceptional circumstances.
+- The Code covers conduct relating to practice, in any role; outside practice, the Principles reach only what realistically reflects on the solicitor's fitness or public trust and engages a standard set out in, or necessarily implicit from, the SRA's rules.
+- Following a supervisor's or client's instructions is no defence; the SRA acts only on serious failures or breaches, and only the Tribunal can strike a solicitor off.
+summary: Match the conduct to the specific Code standard, then the Principles it engages; public-interest Principles override the client's interests; and dishonesty is judged by ordinary decent people's standards on what the solicitor actually believed about the facts, while a lack of integrity needs no dishonesty.
+invented:
+- Priya
+- Jo
+- Sam
+- Dev
+- Ella
+- Mia
+guide_only: []
+---
+## Map
+Will: Today's question is who the SRA's Principles bind, what each asks, and what follows a breach. Six areas: the Principles and the Codes, the seven Principles, then conflicts between them. Then honesty and integrity, conduct outside practice, and personal accountability and enforcement.
+Hannah: Shall we start with who the Principles actually bind?
+## Block 1: The SRA's standards and the Principles
+Will: Yes: the SRA's standards and the Principles. Who do they bind, and how do they relate to the Codes? The Principles are the fundamental tenets of ethical behaviour the SRA expects of everyone it regulates.
+Hannah: And who exactly counts as everyone the SRA regulates?
+Will: Individual solicitors; RELs, RFLs and RSLs; and SRA-authorised firms, with their managers and employees. For a licensed body, it's the regulated part of it.
+Hannah: How do the Principles fit with the Codes of Conduct, then?
+Will: The Principles sit above the Codes, and one act often breaches both a Code standard and one or more Principles. So where a question asks which standard is breached, prefer the specific Code standard that matches the facts, then the Principles it reflects. Take knowingly misleading the court. It breaches the Code standard on misleading and the Code's duties to the court, and four Principles: the rule of law, public trust, honesty and integrity.
+Hannah: And what if the solicitor didn't know, but recklessly allowed the court to be misled?
+Will: Then it shows a lack of integrity, Principle 5, not dishonesty, Principle 4.
+Hannah (summing up): The Principles bind everyone the SRA regulates and sit above the Codes: for which standard is breached, pick the matching Code standard first, then the Principles it reflects.
+Will: Yes: the specific Code standard leads, and its Principles follow.
+## Block 2: The seven Principles
+Hannah: Before the seven Principles, a question on standards. Priya knowingly tells the court her client has no previous convictions, when he has. Asked which standard she breached, do you start with a Principle or a Code standard?
+Will (scenario pause): <think>
+Will: The Code standard on misleading, with the duties to the court, then the Principles. The tempting answer is honesty, but the question wants the specific standard matching the facts first.
+Hannah: Good: the specific standard first, the Principles second.
+Will: Now the seven Principles: what conduct engages each? Match the conduct to the Principle it engages; one act can engage several. Principle 1 is to uphold the constitutional principle of the rule of law and the proper administration of justice.
+Hannah: What sort of conduct engages that first Principle?
+Will: Conduct including misleading the court, tampering with evidence, helping a client breach or evade a court order, or abusing court process, for example SLAPPs.
+Hannah: And what does the second Principle protect?
+Will: Principle 2 is to uphold public trust and confidence in the solicitors' profession and in legal services provided by authorised persons. It's engaged by conduct that would damage the profession's reputation, including some conduct outside practice, such as dishonesty, criminal convictions or offensive posts.
+Hannah: Which Principle covers independence, and what does it demand?
+Will: Principle 3 is to act with independence, including from the client: being prepared to refuse to help with what the client wants, even if it's lawful. And the advice mustn't be compromised by the solicitor's own interests, or by referrers, funders and lenders, an employer or the client's family.
+Hannah: How do honesty and integrity relate, since they sound alike?
+Will: Principle 4 is to act with honesty, and Principle 5 with integrity. They're separate Principles, and that's the deciding contrast: a solicitor can lack integrity and still be honest, but a dishonest solicitor always lacks integrity too.
+Hannah: And what do the last two Principles ask of a solicitor?
+Will: Principle 6 is to encourage equality, diversity and inclusion. It's wider than not discriminating: it covers how the solicitor treats clients, colleagues and others, and making services accessible, for example reasonable adjustments for a disabled client. Principle 7 is to act in the best interests of each client. Each matters with joint clients: every client's interests must be served, and where they diverge, the solicitor faces a conflict.
+Hannah (summing up): Match the conduct to each Principle it engages; you can lack integrity without being dishonest, but dishonesty always also shows a lack of integrity.
+Will: Yes: conduct matched to Principles, and a one-way overlap.
+## Block 3: When Principles conflict
+Hannah: Before Principles conflict, a question on the seven. Jo is found to have acted dishonestly. Can the SRA also say she lacked integrity, or only that she was dishonest?
+Will (scenario pause): <think>
+Will: Both: dishonesty always shows a lack of integrity as well. The tempting answer is that separate Principles can't both apply, but integrity can fail without dishonesty, never the reverse.
+Hannah: Nice: dishonesty carries a lack of integrity with it.
+Will: Now, when Principles conflict: which prevails, the client or the public interest? Where Principles conflict, those that safeguard the wider public interest take precedence over an individual client's interests. That means the rule of law, public confidence in a trustworthy profession, and a safe and effective legal market. So the rule of law and public trust Principles override the duty to act in each client's best interests.
+Hannah: What should the solicitor tell the client about that?
+Will: Where relevant, the solicitor should tell the client at the outset when the duty to the court and other professional obligations will outweigh the duty to the client: for example, that the solicitor cannot mislead the court on the client's behalf.
+Hannah: And what happens when the client insists on something that breaches the duty to the court?
+Will: That's the deciding rule. If a client insists on an instruction that would breach the duty to the court or another public-interest Principle, the solicitor must refuse. If the client still insists, the solicitor must cease to act, without disclosing the client's confidential information or privileged communications. Say he wants you to tell the court something you know is false: you refuse, and when he won't back down, you leave, keeping his confidences.
+Hannah: Where does the law itself fit in, outside the Principles?
+Will: Overriding legal obligations apply whatever the Principles say. A court order binds the solicitor even if obeying it harms the client. And the Proceeds of Crime Act duty to disclose knowledge or suspicion of money laundering overrides confidentiality; tipping off is an offence.
+Hannah: Does that disclosure duty override privilege as well?
+Will: It doesn't. A solicitor need not disclose information received in privileged circumstances, unless it was communicated with the intention of furthering a criminal purpose.
+Hannah (summing up): Public-interest Principles override the client's interests: refuse an instruction that breaches them and, if the client still insists, cease to act without disclosing confidential or privileged information.
+Will: Yes: refuse; if the client still insists, stop acting; and keep the confidences.
+## Block 4: Honesty and integrity
+Hannah: Before honesty and integrity, a question on conflicts. Sam's client tells him, in privileged circumstances, something that makes Sam suspect money laundering, though the client isn't furthering any crime. Must Sam disclose it?
+Will (scenario pause): <think>
+Will: No: the disclosure duty overrides confidentiality, but not legal professional privilege. The tempting answer is that the money laundering duty trumps everything, but privilege survives, since no criminal purpose lay behind it.
+Hannah: That's the line: confidentiality gives way; privilege holds, unless the communication was meant to further a criminal purpose.
+Will: Now honesty and integrity: how do you tell dishonesty from a lack of integrity? Honesty is judged by the Ivey test, in two steps. First, find subjectively the person's actual knowledge or belief as to the facts; whether a belief was reasonable is evidence of whether it was genuinely held, not a separate requirement. Second, decide whether the conduct was dishonest by the objective standards of ordinary decent people.
+Hannah: Does the solicitor have to realise that what they did was dishonest?
+Will: No, and that's the deciding rule. There's no requirement that the solicitor realised it was dishonest by ordinary decent people's standards, and office or market practice cannot lower that objective standard.
+Hannah: Then does it help that everyone in the office does the same?
+Will: Only at stage one. Colleagues' practice may be evidence of what the solicitor genuinely believed, and conduct on a genuine belief that it was normal and permitted may not be dishonest, though it can still lack integrity.
+Hannah: And what does integrity add on top of honesty?
+Will: Integrity, under Wingate, is broader than honesty: adherence to the ethical standards of one's own profession, the higher standards society expects of professionals. It doesn't require dishonesty, but professionals aren't expected to be paragons of virtue. Recklessness can show a lack of integrity even where the solicitor isn't dishonest. So can wilful disregard, or turning a blind eye; subordinating clients' interests to one's own; and taking unfair advantage.
+Hannah: And what about a plain mistake, or work that's simply poor?
+Will: A mere mistake or poor-quality work is not itself a lack of integrity: it's a competence issue under the Code. But manifest incompetence going beyond ordinary negligence can breach Principle 2, public trust.
+Hannah: Once dishonesty is found, what sanction follows?
+Will: Strike-off, save in exceptional circumstances. The focus is the nature and extent of the dishonesty: whether it was momentary or prolonged, any benefit to the solicitor, and harm to others. Personal mitigation, such as stress or mental ill health, is weighed, but cannot by itself make the circumstances exceptional.
+Hannah (summing up): Find what the solicitor actually knew or believed about the facts, then judge the conduct by ordinary decent people's standards, which office practice cannot lower; dishonesty means strike-off save in exceptional circumstances.
+Will: Yes: actual belief about the facts, an objective standard, then strike-off unless exceptional.
+## Block 5: Conduct outside practice
+Hannah: Before conduct outside practice, a question on honesty. Dev knows all the facts, and ordinary decent people would call what he did dishonest, but he never realised they would. Is he off the hook?
+Will (scenario pause): <think>
+Will: He isn't: Ivey doesn't require him to realise it was dishonest by their standards. The tempting answer is that his own view saves him, but it matters only to what he believed about the facts.
+Hannah: That's the key: the standard isn't his to set.
+Will: Now, conduct outside practice: when can the SRA act on private life? The deciding rule is the scope boundary: the Code of Conduct for Solicitors applies to conduct relating to the solicitor's practice, whatever their role or employer, including in-house. The Principles can also reach conduct outside practice, where it realistically reflects on the solicitor's fitness or on public trust in the profession.
+Hannah: What private conduct is most likely to bring SRA action?
+Will: Four groups: dishonesty, for example fare evasion, or false insurance or benefit claims; criminal offences; sexual misconduct or harassment; and discriminatory or offensive communications, including on social media.
+Hannah: Does that mean every private act is the SRA's business?
+Will: It doesn't. Principle 2 and integrity do not cover every private act. Private conduct is caught only where it realistically touches on the practice or the standing of the profession, and engages a standard that is set out in the SRA's rules or necessarily implicit from them. So consensual private conduct with a colleague, with no abuse of position and no link to the profession, is outside the regulator's reach.
+Hannah (summing up): The Code covers conduct relating to practice, in any role; outside practice, the Principles reach only what realistically reflects on the solicitor's fitness or public trust and engages a standard set out in, or necessarily implicit from, the SRA's rules.
+Will: Yes: practice brings in the Code; private life needs a real link.
+## Block 6: Personal accountability and enforcement
+Hannah: Before personal accountability, a question mixing two areas. Ella, a solicitor, makes a false insurance claim on her home contents, nothing to do with work. Can the SRA act, and what does a finding of dishonesty lead to?
+Will (scenario pause): <think>
+Will: The SRA can act: private dishonesty is among the conduct most likely to bring action, and dishonesty leads to strike-off save in exceptional circumstances. The tempting answer is that private life is off limits, but that's true only of conduct with no link to the profession.
+Hannah: Right: private dishonesty still touches the profession's standing.
+Will: Now personal accountability and enforcement: is a supervisor's instruction a defence? Every regulated individual is personally accountable for compliance and must be prepared to justify their decisions. So acting on a supervisor's or client's instructions is no defence.
+Hannah: What should a trainee do when a partner says to backdate a document?
+Will: Refuse. A trainee told by a partner to backdate a document or mislead must refuse, and may need to report it.
+Hannah: When does the SRA actually take regulatory action?
+Will: Only for a serious failure to meet its standards or a serious breach of its requirements: serious in itself, or because it's persistent or part of a pattern. The SRA can then rebuke, impose conditions or fine. Only the Solicitors Disciplinary Tribunal can strike a solicitor off, and its fines are unlimited.
+Hannah: Is there a limit on the SRA's own fines?
+Will: For an individual or a traditional firm, the SRA's own fine is capped at £25,000. Licensed bodies, the ABSs, have higher caps.
+Hannah: And is there any exception to that cap?
+Will: Yes, for breaches relating to economic crime, such as money laundering failures. The date is 4 March 2024. For those breaches committed on or after that date, the SRA's fines are unlimited.
+Hannah (summing up): Following a supervisor's or client's instructions is no defence; the SRA acts only on serious failures or breaches, and only the Tribunal can strike a solicitor off.
+Will: Yes: you answer for yourself, and striking off is the Tribunal's.
+## Recap
+Hannah: Before the quick-fire round, a last question on enforcement. Mia, a newly qualified solicitor, acts dishonestly because her supervisor told her to. Is that a defence, and can the SRA strike her off itself?
+Will (scenario pause): <think>
+Will: No on both counts. She's personally accountable, so the instruction is no defence, and only the Tribunal can strike her off. The tempting answer is that the regulator strikes off, but the SRA can rebuke, impose conditions or fine: striking off is for the Tribunal alone.
+Hannah: That's it: no hiding behind the supervisor.
+Will: Now the quick-fire round: six areas, one summary each.
+Hannah: What's the summary for the SRA's standards and how the Principles fit with the Codes?
+Will (quick-fire pause): <think>
+Will: The Principles bind everyone the SRA regulates and sit above the Codes: for which standard is breached, pick the matching Code standard first, then the Principles it reflects.
+Hannah: What's the summary for the seven Principles themselves?
+Will (quick-fire pause): <think>
+Will: Match the conduct to each Principle it engages; you can lack integrity without being dishonest, but dishonesty always also shows a lack of integrity.
+Hannah: What's the summary for when Principles conflict?
+Will (quick-fire pause): <think>
+Will: Public-interest Principles override the client's interests: refuse an instruction that breaches them and, if the client still insists, cease to act without disclosing confidential or privileged information.
+Hannah: What's the summary for honesty and integrity?
+Will (quick-fire pause): <think>
+Will: Find what the solicitor actually knew or believed about the facts, then judge the conduct by ordinary decent people's standards, which office practice cannot lower; dishonesty means strike-off save in exceptional circumstances.
+Hannah: What's the summary for conduct outside practice?
+Will (quick-fire pause): <think>
+Will: The Code covers conduct relating to practice, in any role; outside practice, the Principles reach only what realistically reflects on the solicitor's fitness or public trust and engages a standard set out in, or necessarily implicit from, the SRA's rules.
+Hannah: What's the summary for personal accountability and enforcement?
+Will (quick-fire pause): <think>
+Will: Following a supervisor's or client's instructions is no defence; the SRA acts only on serious failures or breaches, and only the Tribunal can strike a solicitor off.
+Hannah: And what decides most of the questions in this workshop, in one sentence?
+Will: Match the conduct to the specific Code standard, then the Principles it engages; public-interest Principles override the client's interests; and dishonesty is judged by ordinary decent people's standards on what the solicitor actually believed about the facts, while a lack of integrity needs no dishonesty.

@@ -1,0 +1,175 @@
+---
+id: dr-ws04-rev-v1
+unit: u-bpp-DR-04
+guide_hash: 2c1a43a56b
+made: 2026-11-12T17:44:14+00:00
+kind: revision
+title: DR WS04 · Revision · 18 min
+map:
+- Interim applications: general procedure, with and without notice
+- Summary judgment
+- Interim payments
+- Security for costs
+- Interim injunctions
+- Interim hearings in practice: costs orders, further information and cross-examination
+recap:
+- Without notice needs a listed ground; the respondent then has 7 days after service, unless the court directs otherwise, to apply to set aside or vary the order.
+- Summary judgment needs no real prospect of succeeding and no other compelling reason for a trial; a real prospect is realistic, not fanciful.
+- Would obtain judgment needs the balance of probabilities, more than a real prospect; any interim payment is at most a reasonable proportion of the likely final judgment.
+- Security needs a listed condition or enactment and must be just; reason to believe a company can't pay qualifies; a poor individual resident in England and Wales doesn't, unless a nominal claimant, Part 19 representatives aside, unlikely to pay.
+- Even with a serious question to be tried, an injunction is normally refused if damages would adequately compensate the claimant and the defendant could pay them.
+- For written evidence at an interim hearing, a party may seek an order for its maker to attend for cross-examination; if the maker then fails to attend, the evidence can be used only with the court's permission.
+summary: Each main application has its own test: summary judgment turns on real prospect, while an interim payment's would-obtain-judgment condition needs the balance of probabilities.
+invented:
+- Dev
+- Kestrel Ltd
+- Priya
+- Tomas
+- Nadia
+- Orla
+guide_only:
+- P:DR-7.2.1-07 (the contents of a summary judgment application notice: look-up detail, never read out)
+---
+## Map
+Will: Today's big question: what must you show to get each kind of order before trial?
+Hannah: How is the workshop laid out?
+Will: Six areas in three groups: making any interim application; the main interim applications, which are summary judgment, interim payments, security for costs and interim injunctions; and interim hearings in practice.
+Hannah: A warm-up from last time: Dev's claim is struck out after the defendant filed a counterclaim. Does the counterclaim go too?
+Will (scenario pause): <think>
+Will: No: a counterclaim is an independent claim, so it survives. The tempting answer treats it like a set-off, which only reduces or defeats the claim.
+Hannah: Right: independence keeps the counterclaim alive.
+
+## Block 1: Interim applications: general procedure, with and without notice
+Will: Now interim applications in general: how are they made, and when without notice? The application notice is served with the evidence and draft order as soon as practicable after issue. It must be at least 3 clear days before the hearing. A rule can set longer, for example 14 days for summary judgment and interim payment.
+Hannah: What about costs at a short hearing?
+Will: At a hearing lasting not more than one day, each party seeking costs files and serves a statement of costs. It's due at least 24 hours before. Missing that without reasonable excuse is taken into account in the costs order, including the costs of any further hearing it causes.
+Hannah: What if the application was hopeless?
+Will: If it's dismissed as totally without merit, the court must record that fact and consider whether to make a civil restraint order.
+Hannah: When can you apply without serving an application notice?
+Will: Only on a listed ground, and there are seven. The first four are exceptional urgency; where the overriding objective is best furthered; the consent of all parties; and the court's permission.
+Hannah: What are the other three grounds?
+Will: The applicant seeks a direction that its address not be given to a party. A hearing is already fixed with not enough time to serve: tell the other side and the court as soon as possible, then apply orally at the hearing. Or a court order, rule or practice direction permits, for example where notice would defeat the order's purpose.
+Hannah: How does the respondent challenge a without-notice order?
+Will: The applicant serves the order, application notice and evidence on it. The respondent may then apply to the same court, not by appeal, to set aside or vary the order. The limit is 7 days from service, unless the court directs otherwise. The order must state that right.
+Hannah (summing up): Without notice needs a listed ground; the respondent then has 7 days after service, unless the court directs otherwise, to apply to set aside or vary the order.
+Will: Yes: a listed ground, then a quick challenge.
+
+## Block 2: Summary judgment
+Hannah: Before summary judgment, a question on without-notice orders: Kestrel Ltd is served with one. How does it challenge it, and how fast?
+Will (scenario pause): <think>
+Will: It applies to the same court to set the order aside or vary it, within a week of service. An appeal is the tempting wrong route.
+Hannah: That's it: the same court, inside the week.
+Will: Now summary judgment: when can the court decide a claim or issue without a trial? It may give summary judgment against a claimant or defendant, on the whole claim or an issue, if both limbs are met. That party has no real prospect of succeeding, and there's no other compelling reason for a trial.
+Hannah: What counts as a real prospect?
+Will: Realistic as opposed to fanciful, and more than merely arguable. There's no mini-trial, but the court needn't accept assertions contradicted by contemporaneous documents, and it considers evidence reasonably expected at trial. The burden stays on the applicant; once it shows a prima facie case, the respondent need only show some real prospect.
+Hannah: What if the defendant admits the debt but has a cross-claim?
+Will: With a real prospect on a set-off that is a defence, summary judgment is refused, or given only for any excess. With only a separate counterclaim, judgment may be given on the claim, with execution stayed pending the counterclaim.
+Hannah: How does it differ from strike out and default judgment?
+Will: Summary judgment is a merits test on evidence. Strike out asks whether the statement of case itself discloses reasonable grounds. Default judgment is purely procedural, with no look at the merits.
+Hannah: What's the timetable for the hearing?
+Will: The court may fix a hearing of its own initiative. The respondent gets at least 14 days' notice of the date and the issues.
+Hannah: And the deadlines for each side's evidence?
+Will: The respondent files and serves its evidence at least 7 days before the hearing; the applicant's reply, at least 3 days before.
+Hannah: What orders can the court make?
+Will: Summary judgment on the claim or issue, or dismissal of the claim; dismissal of the application; or a conditional order, plus directions if the claim continues. A conditional order is typically made where a claim or defence may succeed but is improbable: for example, paying a sum into court, with the consequence of failure stated, such as dismissal.
+Hannah (summing up): Summary judgment needs no real prospect of succeeding and no other compelling reason for a trial; a real prospect is realistic, not fanciful.
+Will: Yes: both limbs, burden on the applicant.
+
+## Block 3: Interim payments
+Hannah: Before interim payments, a question on summary judgment: Priya's debtor admits the debt but shows a real prospect on a set-off that is a defence. Does Priya get summary judgment for the whole debt?
+Will (scenario pause): <think>
+Will: No: it's refused, or given only for any excess. The tempting answer treats it as a separate counterclaim, where judgment could be given with execution stayed.
+Hannah: Yes: a set-off defence blocks judgment, bar any excess.
+Will: Now interim payments: when must a defendant pay money on account before trial? It's a payment on account of any damages, debt or other sum, except costs, that the defendant may be held liable to pay. You need a condition, such as an admission of liability, or the court being satisfied that, if the claim went to trial, the claimant would obtain judgment against that defendant for a substantial amount of money, other than costs.
+Hannah: How sure must the court be for that?
+Will: Satisfied on the balance of probabilities, a higher threshold than a real prospect.
+Hannah: And how much can it order?
+Will: No more than a reasonable proportion of the likely final judgment, not of the sum claimed. It must take into account contributory negligence and any relevant set-off or counterclaim.
+Hannah: What are the deadlines for applying?
+Will: The notice and evidence are served at least 14 days before the hearing. The respondent's evidence is due at least 7 days before.
+Hannah: And when is any reply due?
+Will: At least 3 days before the hearing.
+Hannah: Can the trial judge be told about the payment?
+Will: Not until all questions of liability and quantum are decided, unless the defendant agrees, whether the payment was voluntary or ordered.
+Hannah: And what if it later proves wrong?
+Will: The court may adjust it at any time, without an application when it disposes of the claim. It can order all or part repaid, or vary or discharge the order. It can order another defendant to reimburse the payer, but only if the payer has claimed contribution, indemnity or another remedy against it. And if the payment exceeds final liability, it may award interest on the overpayment.
+Hannah (summing up): Would obtain judgment needs the balance of probabilities, more than a real prospect; any interim payment is at most a reasonable proportion of the likely final judgment.
+Will: Yes: a condition, such as probable success, then a proportionate cap.
+
+## Block 4: Security for costs
+Hannah: Before security for costs, a question mixing two areas: Tomas has a real prospect at trial, no more. Does that meet the interim payment's would-obtain-judgment condition?
+Will (scenario pause): <think>
+Will: No: that needs the balance of probabilities. The tempting answer borrows the summary judgment threshold, but a real prospect is lower.
+Hannah: Right: a real prospect isn't probable success.
+Will: Now security for costs: when can a defendant make the claimant give security? Only if the court is satisfied it's just in all the circumstances, and a listed condition applies or an enactment permits.
+Hannah: What's the first listed condition?
+Will: The claimant is resident out of the jurisdiction, outside England and Wales, and there's no longer a Hague Convention exception. The order must still be just, which in practice turns on whether enforcing a costs order where the claimant lives would be difficult or more costly.
+Hannah: And what about a company that might not pay?
+Will: That's a condition: the claimant is a company or other body, anywhere, and there's reason to believe it will be unable to pay the defendant's costs if ordered to. That's lower than proof on the balance of probabilities; its accounts can be enough.
+Hannah: Does the same go for a poor individual?
+Will: No: security can't be ordered against an individual claimant resident in England and Wales merely because he is poor. Impecuniosity is a condition only for companies or other bodies, and nominal claimants.
+Hannah: What are the remaining conditions?
+Will: Four more. The claimant changed address since the claim began, to evade the consequences of the litigation. It failed to give an address in the claim form, or gave an incorrect one. It's a nominal claimant, not a Part 19 representative, unlikely to pay. Or it has taken steps with its assets that would make enforcing a costs order difficult.
+Hannah: And what if security isn't provided?
+Will: The claim is usually stayed until it is, and may be struck out, for example by an unless order, if not provided by a set date.
+Hannah (summing up): Security needs a listed condition or enactment and must be just; reason to believe a company can't pay qualifies; a poor individual resident in England and Wales doesn't, unless a nominal claimant, Part 19 representatives aside, unlikely to pay.
+Will: Yes: a condition plus justice, and poverty counts for companies, not ordinary individuals.
+
+## Block 5: Interim injunctions
+Hannah: Before interim injunctions, a question on security: Nadia, an individual claimant resident in England and Wales, is unemployed and poor. Does that justify security?
+Will (scenario pause): <think>
+Will: No, unless she's a nominal claimant. The tempting answer borrows the company condition, where reason to believe it can't pay is enough.
+Hannah: Yes: poverty alone never catches an ordinary individual.
+Will: Now interim injunctions: when will the court grant one? It's a temporary order, prohibitory or mandatory, preserving the position until trial or further order. It can be granted before issue if urgent or otherwise desirable in the interests of justice, with directions to issue a claim.
+Hannah: What test does the court apply?
+Will: The American Cyanamid steps, in order. First, a serious question to be tried: the claim isn't frivolous or vexatious. Second, if damages would adequately compensate the claimant and the defendant could pay them, an injunction is normally refused.
+Hannah: And if damages wouldn't be adequate?
+Will: Then ask whether the claimant's cross-undertaking would adequately compensate the defendant and the claimant could pay. If so, there's no reason on this ground to refuse. Where damages are inadequate either way, the court weighs the balance of convenience. If evenly balanced, it preserves the status quo; each side's relative strength is only a last resort, and special factors may apply.
+Hannah: What must the applicant promise?
+Will: It normally must give a cross-undertaking to pay the respondent's losses if the injunction later proves wrongly granted. The court considers whether the applicant can honour it, and may require fortification. On notice, the application notice, witness statement and draft order are served at least 3 clear days before the hearing.
+Hannah: And what are the practical steps without notice?
+Will: Three. Where possible, file the notice, evidence and draft order at least 2 hours ahead. Unless secrecy is essential, notify the respondent informally. And take a note of the hearing and serve it on the respondent with the order. Full and frank disclosure of all material facts, including adverse ones, is owed throughout.
+Hannah: What does the applicant then undertake?
+Will: To serve four things as soon as practicable: the notice, evidence, a note of the hearing and the order. If not already done, it also files the notice or issues the claim and pays the fee on the same or next working day, or as the court directs. Unless the court orders otherwise, the order also sets a return date, for a hearing the respondent can attend.
+Hannah: Can the respondent give a promise instead?
+Will: Yes: an undertaking to the court has the same effect. Breach of either is contempt. It's punishable by committal for up to 2 years, a fine or sequestration. The order carries a penal notice.
+Hannah (summing up): Even with a serious question to be tried, an injunction is normally refused if damages would adequately compensate the claimant and the defendant could pay them.
+Will: Yes: payable, adequate damages normally mean no injunction.
+
+## Block 6: Interim hearings in practice: costs orders, further information and cross-examination
+Hannah: Before interim hearings in practice, a question on injunctions: damages would adequately compensate Orla, and the defendant could easily pay. Will she get an interim injunction?
+Will (scenario pause): <think>
+Will: Normally not. The tempting answer jumps to the balance of convenience, but that's weighed only where damages are inadequate either way.
+Hannah: That's right: damages first, convenience only after.
+Will: Last, interim hearings in practice. Where a costs order is made against a represented party who wasn't present, its legal representative must notify it in writing within 7 days of the representative receiving notice of the order.
+Hannah: What if a request for further information gets no response at all?
+Will: The requesting party may apply for an order. Once at least 14 days have passed since the request was served and the response date has expired, that application need not be served, and the court may deal with it without a hearing.
+Hannah: How is written evidence tested at an interim hearing?
+Will: Evidence there is normally written, so a party may apply for an order requiring the person who made it to attend to be cross-examined. Without that attendance, the evidence may not be used unless the court permits. At trial, by contrast, facts are proved by oral evidence.
+Hannah (summing up): For written evidence at an interim hearing, a party may seek an order for its maker to attend for cross-examination; if the maker then fails to attend, the evidence can be used only with the court's permission.
+Will: Yes: the maker attends, or using the evidence needs permission.
+
+## Recap
+Hannah: One last question, on interim hearings: a witness ordered to attend for cross-examination doesn't turn up. Can their statement still be used?
+Will (scenario pause): <think>
+Will: Only with the court's permission. The tempting answer is that a filed statement stands anyway, but not once its maker fails to attend.
+Hannah: Yes: no attendance, no use without permission. Now the quick-fire round: what's the summary for making any interim application?
+Will (quick-fire pause): <think>
+Will: Without notice needs a listed ground; the respondent then has 7 days after service, unless the court directs otherwise, to apply to set aside or vary the order.
+Hannah: What's the summary for summary judgment?
+Will (quick-fire pause): <think>
+Will: Summary judgment needs no real prospect of succeeding and no other compelling reason for a trial; a real prospect is realistic, not fanciful.
+Hannah: What's the summary for interim payments?
+Will (quick-fire pause): <think>
+Will: Would obtain judgment needs the balance of probabilities, more than a real prospect; any interim payment is at most a reasonable proportion of the likely final judgment.
+Hannah: What's the summary for security for costs?
+Will (quick-fire pause): <think>
+Will: Security needs a listed condition or enactment and must be just; reason to believe a company can't pay qualifies; a poor individual resident in England and Wales doesn't, unless a nominal claimant, Part 19 representatives aside, unlikely to pay.
+Hannah: What's the summary for interim injunctions?
+Will (quick-fire pause): <think>
+Will: Even with a serious question to be tried, an injunction is normally refused if damages would adequately compensate the claimant and the defendant could pay them.
+Hannah: And what's the summary for interim hearings in practice?
+Will (quick-fire pause): <think>
+Will: For written evidence at an interim hearing, a party may seek an order for its maker to attend for cross-examination; if the maker then fails to attend, the evidence can be used only with the court's permission.
+Hannah: Finally, what one sentence decides most of this workshop's questions?
+Will: Each main application has its own test: summary judgment turns on real prospect, while an interim payment's would-obtain-judgment condition needs the balance of probabilities.

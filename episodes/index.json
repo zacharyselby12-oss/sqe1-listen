@@ -3093,6 +3093,162 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws01-rev-v1-136e05b7.mp3",
       "siteAudio": "audio/dr-ws01-rev-v1-136e05b7.mp3",
       "pubDate": "2026-11-12T12:44:08+00:00"
+    },
+    {
+      "id": "tort-ws05-rev-v1",
+      "unitId": "u-bpp-Tort-05",
+      "title": "Tort WS05 · Revision · 17 min",
+      "guideHash": "5cab00c6ca",
+      "script": "scripts/tort-ws05-rev-v1.txt",
+      "scriptHash": "262e61595982",
+      "audio": "audio/tort-ws05-rev-v1.mp3",
+      "recap": [
+        "The employer's safety duty is personal and non-delegable: handing the task of ensuring safety to someone else doesn't end its liability, though it may seek contribution.",
+        "Breach is judged for this employee; the claimant must prove on the balance of probabilities that the harm wouldn't have happened but for the breach; volenti rarely succeeds against an employee.",
+        "Vicarious liability needs a tort, employment or something akin to it, and close connection; a personal vendetta fails that, even though the job gave the opportunity.",
+        "Status turns on reality, not the label: a genuine independent contractor means no vicarious liability, while work integral to the defendant's business or activities and for its benefit, assigned by it creating the risk, can be akin to employment."
+      ],
+      "map": [
+        "Employers' primary liability: the personal, non-delegable duty and its four facets",
+        "Breach, causation, remoteness and defences in employers' primary liability",
+        "Vicarious liability: the three elements, close connection and the employer's indemnity",
+        "Identifying an employment relationship: relationships akin to employment, independent contractors and lent employees"
+      ],
+      "summary": "Ask whether the employer broke its own personal duty, answers for an employee's tort, or both, and for vicarious liability ask whether the wrong was so closely connected with the job that it is fair and just to hold the employer liable.",
+      "madeAt": "2026-11-12T17:44:14+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape, 0 errors); revcheck ok 42/42 items (flags: about 17.7 min, 5 recall pauses for 4 areas); known-error scan 1 hit (Police Act s 88 line) judged not the error by both Opus checks: cleared; Opus accuracy + line-by-line (14 problems: scenario facts, 'on the balance of probabilities', akin-to-employment and whole-episode wording; fixed); code-check revision (one-liner lengths, a repeat); changed-lines check 1: 5 problems (editor's notes in two questions, 'business or activities') fixed; changed-lines check 2: pass; fix fx-p-gcor-TL-1.7-08 (r202611121530): line 76 corrected (the may-assume qualifier, Hatton para 43(3)); code ok (0 errors, flags unchanged); known-error scan: 0 hits on the changed lines, the cleared s 88 hit unchanged; pfix scan 0 hits; changed-lines check (Opus) (opus (fresh), 2026-11-12T15:11:27Z; opus-check/result.json sha1 ddcd44b8f9): pass; full accuracy check against today's guide, every line (Opus) (opus (fresh), 2026-11-12T15:25:59Z; opus-check2/WS05/result.json sha1 6adb1afe5b): fix (NOT passed): lines 31, 33, 34, 63, 66, 69, 82, 86, 113 revised to its rows (31-34 restated as Tort WS04's guide teaches the eggshell skull rule), line 51 not changed (build chat (12 Nov): no script change, the audio is the same either way; the guide misnames the Act (\"Employer's\" for \"Employers' Liability (Defective Equipment) Act 1969\"): guide fix on the tracker); revcheck about 18.0 min (2693 words; limit 25), 0 length/shape errors; changed-lines check of the revision (Opus) (opus (fresh), 2026-11-12T15:35:32Z; opus-check3/WS05/result.json sha1 c1b789842c): fix; line 33 then takes its fix word for word; check of line 33 (Opus) (opus (fresh), 2026-11-12T15:40:08Z; opus-check4/WS05/result.json sha1 fd5b5bf898): pass; guideHash re-stamped 6862aa040f -> 5cab00c6ca (textV 1) only after all four checks",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "tort-ws06-rev-v1",
+      "unitId": "u-bpp-Tort-06",
+      "title": "Tort WS06 · Revision · 13 min",
+      "guideHash": "378cc2facb",
+      "script": "scripts/tort-ws06-rev-v1.txt",
+      "scriptHash": "279ab529505f",
+      "audio": "audio/tort-ws06-rev-v1.mp3",
+      "recap": [
+        "A recognised psychiatric illness or a shock-induced physical condition counts, not ordinary grief, distress, fear or anxiety; a claimant who was himself in danger, or reasonably believed he was, is a primary victim.",
+        "A primary victim needs only foreseeable personal injury, with no fortitude test; then the court applies precedent if the claim fits one, or Caparo if the situation is novel.",
+        "A secondary victim must meet every control mechanism, starting with an accident; a medical crisis or death from illness is not an accident, so there is no claim.",
+        "Assumed responsibility can found a duty; for work stress, the employer is liable only if harm to that employee was foreseeable and it failed to take reasonable steps."
+      ],
+      "map": [
+        "Psychiatric harm: what counts, and who is a primary or secondary victim",
+        "Primary victims",
+        "Secondary victims: the control mechanisms and medical crises",
+        "Beyond primary and secondary victims: assumption of responsibility and work stress"
+      ],
+      "summary": "Ask first whether there is a recognised psychiatric illness or shock-induced physical condition, and whether the claimant was in danger, or reasonably believed so: a primary victim needs foreseeable personal injury; a secondary victim must meet every control mechanism, starting with an accident.",
+      "madeAt": "2026-11-12T17:44:14+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 29/29 items; known-error scan 0 hits (2 matches cleared by Opus); Opus accuracy + line-by-line, fixes applied (2 rounds), changed lines checked (summary length: Opus counted 43 words, code check passes); fix group of fx-p-gcor-TL-1.7-08 (r202611121530): full accuracy check against today's guide, every line (Opus) (opus (fresh), 2026-11-12T15:27:20Z; opus-check2/WS06/result.json sha1 9fc4682314): fix: lines 76, 84, 156, 160, 208, 232, 246 take its fixes; 182 and 184 teach TL-1.6-12 (pcheck pc-TL-1.6-12 secondary-only in this batch: one first-instance ruling); TL-1.6-05 (review r47 must-fix 1, variant b): stays unresolved; lines 146-149 deleted (the full check's own fix), so later lines move up by 4; changed-lines check of variant b (Opus) (opus (fresh), 2026-11-12T16:37:56Z; opus-check5/WS06-b/result.json sha1 f183aab972): pass; code ok (0 errors) on the new guide; revcheck about 17.6 min, 0 length/shape errors; known-error scan 0 hit(s) on the changed lines; changed-lines check of the revision (Opus) (opus (fresh), 2026-11-12T16:06:41Z; opus-check3/WS06/result.json sha1 fcc09569ab): fix; line 184 then takes its fix word for word, and its final check is the full review r47, which rechecks every revised line; guideHash re-stamped 986b8701c0 -> 378cc2facb (textV 1), the new guide text with TL-1.6-12 shown (TL-1.6-05 stays unresolved and is not taught)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "eth-ws01-rev-v1",
+      "unitId": "u-bpp-ETH-01",
+      "title": "Ethics WS01 · Revision · 17 min",
+      "guideHash": "70dd3eea4f",
+      "script": "scripts/eth-ws01-rev-v1.txt",
+      "scriptHash": "5c38b0843c44",
+      "audio": "audio/eth-ws01-rev-v1.mp3",
+      "recap": [
+        "The Principles bind everyone the SRA regulates and sit above the Codes: for which standard is breached, pick the matching Code standard first, then the Principles it reflects.",
+        "Match the conduct to each Principle it engages; you can lack integrity without being dishonest, but dishonesty always also shows a lack of integrity.",
+        "Public-interest Principles override the client's interests: refuse an instruction that breaches them and, if the client still insists, cease to act without disclosing confidential or privileged information.",
+        "Find what the solicitor actually knew or believed about the facts, then judge the conduct by ordinary decent people's standards, which office practice cannot lower; dishonesty means strike-off save in exceptional circumstances.",
+        "The Code covers conduct relating to practice, in any role; outside practice, the Principles reach only what realistically reflects on the solicitor's fitness or public trust and engages a standard set out in, or necessarily implicit from, the SRA's rules.",
+        "Following a supervisor's or client's instructions is no defence; the SRA acts only on serious failures or breaches, and only the Tribunal can strike a solicitor off."
+      ],
+      "map": [
+        "The SRA's standards and the Principles",
+        "The seven Principles",
+        "When Principles conflict",
+        "Honesty and integrity",
+        "Conduct outside practice",
+        "Personal accountability and enforcement"
+      ],
+      "summary": "Match the conduct to the specific Code standard, then the Principles it engages; public-interest Principles override the client's interests; and dishonesty is judged by ordinary decent people's standards on what the solicitor actually believed about the facts, while a lack of integrity needs no dishonesty.",
+      "madeAt": "2026-11-12T17:44:14+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 39/39 items; known-error scan 0 hits; Opus accuracy + line-by-line (7 + 7 problems), 8 fixes applied; changed-lines verify 5 problems (fixer notes left in lines, one 'only if'), one targeted revision with the summing-up lengths and a repeat; changed lines verified again (pass, 0); final code checks ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "dr-ws04-rev-v1",
+      "unitId": "u-bpp-DR-04",
+      "title": "DR WS04 · Revision · 18 min",
+      "guideHash": "2c1a43a56b",
+      "script": "scripts/dr-ws04-rev-v1.txt",
+      "scriptHash": "153c5564480d",
+      "audio": "audio/dr-ws04-rev-v1.mp3",
+      "recap": [
+        "Without notice needs a listed ground; the respondent then has 7 days after service, unless the court directs otherwise, to apply to set aside or vary the order.",
+        "Summary judgment needs no real prospect of succeeding and no other compelling reason for a trial; a real prospect is realistic, not fanciful.",
+        "Would obtain judgment needs the balance of probabilities, more than a real prospect; any interim payment is at most a reasonable proportion of the likely final judgment.",
+        "Security needs a listed condition or enactment and must be just; reason to believe a company can't pay qualifies; a poor individual resident in England and Wales doesn't, unless a nominal claimant, Part 19 representatives aside, unlikely to pay.",
+        "Even with a serious question to be tried, an injunction is normally refused if damages would adequately compensate the claimant and the defendant could pay them.",
+        "For written evidence at an interim hearing, a party may seek an order for its maker to attend for cross-examination; if the maker then fails to attend, the evidence can be used only with the court's permission."
+      ],
+      "map": [
+        "Interim applications: general procedure, with and without notice",
+        "Summary judgment",
+        "Interim payments",
+        "Security for costs",
+        "Interim injunctions",
+        "Interim hearings in practice: costs orders, further information and cross-examination"
+      ],
+      "summary": "Each main application has its own test: summary judgment turns on real prospect, while an interim payment's would-obtain-judgment condition needs the balance of probabilities.",
+      "madeAt": "2026-11-12T17:44:14+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 78/78 items; known-error scan: 1 phrase hit cleared by the Opus triage (warm-up line, not the error), final 0; Opus accuracy + line-by-line (9 + 4 problems), 8 fixes applied; changed-lines verify 4 problems (a Part 19 qualifier, recap/quick-fire consistency), one targeted revision; changed lines verified again (pass, 0); final code checks ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

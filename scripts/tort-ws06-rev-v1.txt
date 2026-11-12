@@ -1,0 +1,272 @@
+---
+id: tort-ws06-rev-v1
+unit: u-bpp-Tort-06
+guide_hash: 378cc2facb
+made: 2026-11-12T17:44:14+00:00
+kind: revision
+title: Tort WS06 · Revision · 13 min
+map:
+- Psychiatric harm: what counts, and who is a primary or secondary victim
+- Primary victims
+- Secondary victims: the control mechanisms and medical crises
+- Beyond primary and secondary victims: assumption of responsibility and work stress
+recap:
+- A recognised psychiatric illness or a shock-induced physical condition counts, not ordinary grief, distress, fear or anxiety; a claimant who was himself in danger, or reasonably believed he was, is a primary victim.
+- A primary victim needs only foreseeable personal injury, with no fortitude test; then the court applies precedent if the claim fits one, or Caparo if the situation is novel.
+- A secondary victim must meet every control mechanism, starting with an accident; a medical crisis or death from illness is not an accident, so there is no claim.
+- Assumed responsibility can found a duty; for work stress, the employer is liable only if harm to that employee was foreseeable and it failed to take reasonable steps.
+summary: Ask first whether there is a recognised psychiatric illness or shock-induced physical condition, and whether the claimant was in danger, or reasonably believed so: a primary victim needs foreseeable personal injury; a secondary victim must meet every control mechanism, starting with an accident.
+invented:
+- a prisoner working in a prison kitchen and the catering manager he injures
+- a man with symptomless pleural plaques who is anxious about his future health
+- a pedestrian nearly hit by a negligent driver
+- a wife whose husband dies of a heart attack at home after a hospital's negligent failure to diagnose
+- an employee with no signs of strain who becomes ill through work stress
+guide_only: []
+---
+
+## Map
+
+Will: Today's big question is this: when can someone recover for psychiatric harm caused by someone else's negligence? There are four areas. First, what harm counts, and who is a primary or secondary victim. Second, primary victims. Third, secondary victims, the control mechanisms and medical crises. And fourth, who else can recover, through assumed responsibility and stress at work.
+
+Hannah: Before we start, a warm-up from the last workshop. A prisoner is assigned to work in the prison kitchen and negligently injures the catering manager. Is the prison vicariously liable?
+
+Will (scenario pause): <think>
+
+Will: Not automatically, but the relationship can count. A prisoner's work is an integral part of the prison's activities and for its benefit, and the prison created the risk by assigning it, so the relationship is akin to employment. The tempting answer is that he isn't an employee, so there's no liability, but that's wrong. Close connection must still be shown, though.
+
+Hannah: Yes: akin to employment is enough for the first stage, but the close connection test still has to be met.
+
+## Block 1: Psychiatric harm: what counts, and who is a primary or secondary victim
+
+Will: Now, psychiatric harm: what counts, and who is a primary or secondary victim? The question is what harm counts, and whether the claimant is a primary or secondary victim.
+
+Hannah: Is this governed by ordinary foreseeability, like most negligence claims?
+
+Will: Not entirely. Psychiatric harm to secondary victims is governed by special duty rules, the Alcock control mechanisms, and so is pure economic loss, which is governed by assumption of responsibility. But a primary victim within the range of foreseeable physical injury recovers for a recognised psychiatric illness without proof that psychiatric harm was foreseeable.
+
+Hannah: Let's start with the harm. What kind of psychiatric harm can a claimant recover for?
+
+Will: If the claimant suffers a medically recognised psychiatric illness, such as post-traumatic stress disorder or clinical depression, that counts. But ordinary grief, distress, fear or anxiety is not enough, however real it feels.
+
+Hannah: What if grief played a part in the illness?
+
+Will: If witnessing the accident or its immediate aftermath materially contributed to the illness, it is recoverable even though grief partly caused it. No sudden shock to the nervous system need be shown.
+
+Hannah: And does the harm have to be psychiatric at all?
+
+Will: No, because a shock-induced physical condition caused by perceiving the event, such as a miscarriage or a heart attack, also counts. Those claims turn on how the injury was caused, not on whether it is physical or psychiatric. But transient physical symptoms of ordinary stress and anxiety are not material damage.
+
+Hannah: What about someone who only has symptomless pleural plaques?
+
+Will: Negligence is not actionable without damage that is more than minimal. Symptomless pleural plaques, the risk of future disease and anxiety about it are not actionable damage, alone or added together. But a symptomless physical change that impairs bodily capacity can be actionable damage.
+
+Hannah: So can anxiety about a future disease ever lead to a claim?
+
+Will: Only if it has caused a psychiatric illness, and even then the claim fails unless that illness was reasonably foreseeable in a person of ordinary fortitude. The primary victim rule doesn't extend to it either. So the tell is simple: is the claimant only worried, or has the worry caused a recognised psychiatric illness?
+
+Hannah: Now to the two kinds of victim. When is a claimant a primary victim?
+
+Will: A primary victim is someone within the range of foreseeable physical injury, meaning he was actually in danger, or reasonably believed himself to be in danger, from the defendant's negligence.
+
+Hannah: And a secondary victim?
+
+Will: A secondary victim suffers psychiatric illness from witnessing an accident or its immediate aftermath, in which another person is killed, injured or put in danger, without being in physical danger himself. He must satisfy the Alcock control mechanisms.
+
+Hannah: Can you make that contrast concrete?
+
+Will: If a van mounts the pavement where a pedestrian is standing and she jumps clear, unhurt, but develops post-traumatic stress disorder, she was in danger herself, so she is a primary victim. If a woman watches her son being crushed at the far end of a stadium, is never in danger herself and develops post-traumatic stress disorder, she is a secondary victim and must satisfy the control mechanisms.
+
+Hannah: What about rescuers, including professional ones such as police officers?
+
+Will: Rescuers have no special status. They recover as primary victims only if exposed to physical danger or reasonably believing themselves to be; otherwise they must satisfy the secondary victim rules.
+
+Hannah (summing up): A recognised psychiatric illness or a shock-induced physical condition counts, not ordinary grief, distress, fear or anxiety; a claimant who was himself in danger, or reasonably believed he was, is a primary victim.
+
+Will: Yes: that gets the illness requirement and the test for a primary victim, which is danger to the claimant himself, actual or reasonably believed.
+
+## Block 2: Primary victims
+
+Hannah: Before primary victims, a question on harm. A man learns he has symptomless pleural plaques and becomes very anxious about his future health, but has no recognised illness. Can he claim?
+
+Will (scenario pause): <think>
+
+Will: No. The plaques, the risk of future disease and the anxiety are not actionable damage, alone or added together. The tempting answer is that three small harms add up to something more than minimal, but they don't, so there's no claim.
+
+Hannah: Right: adding them together doesn't turn non-actionable harms into actionable damage.
+
+Will: Now, primary victims: when is a duty owed to one? Ask whether personal injury to the claimant was foreseeable, whether physical or psychiatric.
+
+Hannah: Does psychiatric harm itself have to be foreseeable?
+
+Will: No. A primary victim need only show that personal injury, physical or psychiatric, was foreseeable.
+
+Hannah: Must any physical injury actually have occurred?
+
+Will: No: if physical injury was foreseeable, he can recover for psychiatric illness even if none occurred.
+
+Hannah: And is there a fortitude test for him?
+
+Will: There is no reasonable fortitude requirement, and the eggshell skull rule applies.
+
+Hannah: And after foreseeability, what does the court ask?
+
+Will: It asks whether the claim fits an established duty situation, including driver to road users, doctor to patient and employer to employee. If it does, the court applies that precedent.
+
+Hannah: And if the situation is genuinely new?
+
+Will: Then the court applies the three-stage Caparo test: foreseeability, proximity, and whether it is fair, just and reasonable. It develops the law incrementally, by analogy.
+
+Hannah (summing up): A primary victim needs only foreseeable personal injury, with no fortitude test; then the court applies precedent if the claim fits one, or Caparo if the situation is novel.
+
+Will: Yes: foreseeable injury to the claimant, then precedent for the familiar case and Caparo for the new one.
+
+## Block 3: Secondary victims: the control mechanisms and medical crises
+
+Hannah: Before secondary victims, a question on primary victims. A pedestrian is nearly hit by a negligent driver and, being unusually fragile, develops post-traumatic stress disorder. Must she show that an ordinary person would have become ill?
+
+Will (scenario pause): <think>
+
+Will: No. She is a primary victim, so she only needs to show that personal injury was foreseeable, and the eggshell skull rule applies. The tempting answer is that she needs ordinary fortitude, but that test belongs to secondary victims.
+
+Hannah: Yes: a primary victim has no fortitude test, and her fragility doesn't count against her.
+
+Will: Now, secondary victims and the control mechanisms: what must a secondary victim show? He must meet every one of them, so ask first whether there was an accident.
+
+Hannah: Let's take the fortitude requirement first. What does a secondary victim have to show there?
+
+Will: That psychiatric illness was a reasonably foreseeable consequence in a person of ordinary fortitude. Once that is shown, he recovers for the full extent of his illness.
+
+Hannah: And how does that differ from a primary victim?
+
+Will: A primary victim needs only foreseeable personal injury, with no fortitude requirement. So the tell is whether the claimant was himself in danger, or reasonably believed he was.
+
+Hannah: Next, the close tie of love and affection. Can a stranger recover?
+
+Will: No. A bystander with no close tie to the victim cannot recover as a secondary victim, even after witnessing a horrific event.
+
+Hannah: And how must the claimant perceive the accident?
+
+Will: With his own unaided senses, either the accident or its immediate aftermath. Being told by someone else, or seeing a broadcast where individuals cannot be identified, is not enough.
+
+Hannah: How close in time must the aftermath be?
+
+Will: A secondary victim needs proximity in time and space to the accident or its immediate aftermath. In the example, seeing family at hospital about two hours after the accident, in the state they were left, is within the immediate aftermath.
+
+Hannah: And what is too late?
+
+Will: In the example, identifying a body in a mortuary eight hours later is too late.
+
+Hannah: Now to the accident requirement. How does an accident differ from a medical crisis?
+
+Will: A negligent driver knocks a cyclist down in front of her son, who sees it and develops post-traumatic stress disorder. That is an accident, so he can recover if he meets the other requirements.
+
+Hannah: And what does the contrasting case look like, with a medical crisis?
+
+Will: A man collapses and dies of a heart attack at home in front of his wife, months after a hospital negligently failed to diagnose his heart disease. That is not an accident, so she cannot recover as a secondary victim.
+
+Hannah: So what decides it?
+
+Will: Whether there was an unexpected external event causing, or threatening, injury to the primary victim, rather than a medical crisis or death from illness. There is no separate requirement of sudden shock or of a horrifying event.
+
+Hannah: Does an earlier negligent failure to diagnose change that?
+
+Will: No. A medical crisis or death from illness is not an accident even if an earlier negligent failure to diagnose or treat caused it, so relatives who witness it cannot recover. Nor can someone who witnesses a later collapse or death caused by an earlier accident that he did not witness.
+
+Hannah: Does a gap in time between the negligence and the accident bar the claim?
+
+Will: No, because the control mechanisms concern closeness to the accident, not to the breach. He also need not witness injury to the victim, since an accident is an external event that causes or could cause injury.
+
+Hannah: Last in this area, what if someone negligently injures himself and a relative who sees it is made ill?
+
+Will: One first-instance ruling holds that no duty is owed by a primary victim who negligently injures himself to a relative who, as a secondary victim, suffers psychiatric harm from seeing it.
+
+Hannah (summing up): A secondary victim must meet every control mechanism, starting with an accident; a medical crisis or death from illness is not an accident, so there is no claim.
+
+Will: Yes: every mechanism must be met, and a medical crisis fails the first because it is not an accident.
+
+## Block 4: Beyond primary and secondary victims: assumption of responsibility and work stress
+
+Hannah: Before the last area, a question on secondary victims. A man dies of a heart attack at home in front of his wife, months after a hospital negligently failed to diagnose his heart disease. She has a close tie and saw it happen. Can she recover?
+
+Will (scenario pause): <think>
+
+Will: No. A heart attack is a medical crisis, not an accident, so she fails the first control mechanism. The tempting answer is that her close tie and presence are enough, but the control mechanisms must all be met.
+
+Hannah: Right: a medical crisis is not an accident, however close she was.
+
+Will: Now, who else can recover, such as an employee made ill by stress at work? First, assumption of responsibility.
+
+Hannah: What does that add outside the primary and secondary victim rules?
+
+Will: A duty to take reasonable care to avoid foreseeable psychiatric harm can arise where the defendant has assumed responsibility for the claimant, as employer to employee or doctor to patient.
+
+Hannah: Does that responsibility have no limits?
+
+Will: It has limits: its scope depends on the purpose of the relationship. So a doctor's responsibility to a patient does not extend to protecting the patient's family from the trauma of witnessing the patient's death.
+
+Hannah: Now work stress. What is the first question?
+
+Will: Whether harm to this particular employee's health was reasonably foreseeable, judged by what the employer knew or ought reasonably to know. Signs of strain, an earlier stress-related illness or uncharacteristic absences are the sort of thing that count.
+
+Hannah: Can the employer assume anything about its staff?
+
+Will: Usually yes, it is entitled to assume the employee can withstand the normal pressures of the job, unless it knows of a particular problem or vulnerability.
+
+Hannah: Does a counselling service protect the employer?
+
+Will: A confidential advice service with referral to counselling makes breach unlikely, but it is no panacea. It does not discharge the duty where only management action, such as reducing the workload, would help.
+
+Hannah: And once harm was foreseeable, when is the employer in breach?
+
+Will: Only if it failed to take steps reasonable in the circumstances. The court weighs the size of the risk, the gravity of the harm, the cost and practicability of preventing it, and any justification for running the risk.
+
+Hannah: What must the signs look like?
+
+Will: They must be plain enough for any reasonable employer to realise it should act, and the court must identify what it could and should have done.
+
+Hannah: Is this the same foreseeability test as for a secondary victim?
+
+Will: No. For a secondary victim, psychiatric illness must be reasonably foreseeable in a person of ordinary fortitude. For stress at work, the question is whether harm to that particular employee was reasonably foreseeable, judged by what the employer knew or ought reasonably to know. So ask whether it is an employee suing for stress at work, or someone who witnessed an accident.
+
+Hannah (summing up): Assumed responsibility can found a duty; for work stress, the employer is liable only if harm to that employee was foreseeable and it failed to take reasonable steps.
+
+Will: Yes: assumed responsibility founds the duty, and for work stress both foreseeability for that employee and a failure to take reasonable steps are needed.
+
+## Recap
+
+Hannah: Last recall question, on work stress. An employee shows no signs of strain and has never complained, but becomes ill from the pressure of his job. Is the employer liable because his illness would have been foreseeable in a person of ordinary fortitude?
+
+Will (scenario pause): <think>
+
+Will: No, not on that basis. The test is whether harm to that particular employee was reasonably foreseeable, judged by what the employer knew or ought reasonably to know, and it is usually entitled to assume he can withstand the normal pressures of the job unless it knows of a particular problem or vulnerability. The ordinary fortitude test is the secondary victim's, so it's the wrong one here.
+
+Hannah: Yes: the question is about this employee and what the employer knew or ought reasonably to know, not an ordinary person.
+
+Hannah: Now the quick-fire round. What's the summary for what harm counts and who is a primary or secondary victim?
+
+Will (quick-fire pause): <think>
+
+Will: A recognised psychiatric illness or a shock-induced physical condition counts, not ordinary grief, distress, fear or anxiety; a claimant who was himself in danger, or reasonably believed he was, is a primary victim.
+
+Hannah: What's the summary for primary victims?
+
+Will (quick-fire pause): <think>
+
+Will: A primary victim needs only foreseeable personal injury, with no fortitude test; then the court applies precedent if the claim fits one, or Caparo if the situation is novel.
+
+Hannah: What's the summary for secondary victims and the control mechanisms?
+
+Will (quick-fire pause): <think>
+
+Will: A secondary victim must meet every control mechanism, starting with an accident; a medical crisis or death from illness is not an accident, so there is no claim.
+
+Hannah: What's the summary for assumed responsibility and work stress?
+
+Will (quick-fire pause): <think>
+
+Will: Assumed responsibility can found a duty; for work stress, the employer is liable only if harm to that employee was foreseeable and it failed to take reasonable steps.
+
+Hannah: And what is the whole workshop in one sentence?
+
+Will: Ask first whether there is a recognised psychiatric illness or shock-induced physical condition, and whether the claimant was in danger, or reasonably believed so: a primary victim needs foreseeable personal injury; a secondary victim must meet every control mechanism, starting with an accident.
