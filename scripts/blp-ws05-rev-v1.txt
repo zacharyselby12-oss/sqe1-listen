@@ -1,0 +1,182 @@
+---
+id: blp-ws05-rev-v1
+unit: u-bpp-BLP-05
+guide_hash: 7bbd7faaf5
+made: 2026-11-13T08:43:26+00:00
+kind: revision
+part: 1 of 2
+blocks: 1-5
+title: BLP WS05 (part 1 of 2) · Revision · 22 min
+map:
+- Financial services: the general prohibition and the FSMA decision tree
+- Offering shares: financial promotion and offers to the public
+- Share capital, methods of financing and the nature of a share
+- Classes of shares and variation of class rights
+- Dividends and distributable profits
+recap:
+- A specified activity in a specified investment, by way of business, is regulated; an exclusion takes it out altogether, and Part XX matters only where none applies.
+- Inviting investment in the course of business needs an authorised person, authorised approval or an exemption; and offering shares to the public in the UK is unlawful unless the offer falls within an exception.
+- Shares can't be allotted at a discount to nominal value, and any premium goes to the share premium account; only a public company needs non-cash consideration independently valued.
+- Follow the articles' variation provision; if there's none, the class consents in writing, by at least 75% in nominal value, or by special resolution at a separate class meeting.
+- Dividends come only from profits available for distribution; under the Model Articles, shareholders declare a final dividend only on the directors' recommendation and never above it, and directors decide interims.
+summary: Most questions here turn on two things: work through the investment rules in order, with exclusions before Part XX, and keep the company's capital intact, with no shares below nominal value and dividends only from profits available for distribution.
+invented:
+- 60% of a company's voting shares
+- Larch Ltd
+- Priya
+- £1 shares
+- 80p
+- 20p
+- 80% consent
+- Rowan Ltd
+- £90,000
+- £20,000
+- £30,000
+- £40,000
+- £70,000
+guide_only:
+- P:LS-1.2.3.b-01 (the list of specified investments is look-up detail kept in the guide; the episode says only that shares are one and land isn't)
+- P:LS-1.2.3.b-03 (the list of specified activities is look-up detail kept in the guide; the episode teaches advising and the exclusions for dealing and arranging)
+- P:BLP-5.1-11 (the rights of ordinary and preference shares: not in the checked guide text the episode is written from)
+---
+## Map
+Will: The big question: when does investment work need authorisation, and what may a company take for its shares and pay to its shareholders? This is part one of two: five areas in two groups, and part two starts at share transfers.
+Hannah: What's in the first group?
+Will: Financial services and offers of shares: when investment work needs authorisation, and when a company may promote or offer its shares.
+Hannah: And what does the second group cover?
+Will: The start of equity finance: share capital, classes of shares and their variation, and dividends.
+Hannah: Before we start, a warm-up from shareholders' rights: two members each hold exactly half the votes, and one votes against the other's ordinary resolution. Does it pass?
+Will (scenario pause): <think>
+Will: It fails. A holding over 50% passes an ordinary resolution; exactly 50% can only block it. The tempting answer is that half is a majority, but it isn't.
+Hannah: Right: you need more than half to pass it, and half is only a blocking stake.
+
+## Block 1: Financial services: the general prohibition and the FSMA decision tree
+Will: Now financial services: does a solicitor need authorisation for investment work, or is it excluded or exempt? Under the general prohibition, no one may carry on a regulated activity in the UK, or purport to, unless they're authorised or exempt. Authorisation comes from the FCA, or the PRA for deposit-takers and insurers.
+Hannah: And what happens to someone who breaches it?
+Will: It's a criminal offence, with a defence of taking all reasonable precautions and exercising all due diligence. Agreements made in breach are unenforceable against the other party, who can recover money or property paid, and compensation; but the court may allow enforcement where that's just and equitable. For a solicitor, it's a regulatory breach too.
+Hannah: What makes an activity regulated?
+Will: A specified activity, carried on by way of business, relating to a specified investment or certain property, as the Regulated Activities Order specifies. So ask four questions in order. One: is there a specified investment? Two: a specified activity in relation to it? Three: is it by way of business? Four: does an exclusion apply? Yes to the first three and no exclusion means the firm needs authorisation or an exemption, usually Part XX, the professional firms exemption.
+Hannah: Is a conveyancing transaction regulated?
+Will: Not the conveyance itself: shares are specified investments, but land isn't. Arranging or advising on a regulated mortgage contract is regulated, though.
+Hannah: What's a regulated mortgage contract?
+Will: The key figure is 40%. It's credit to an individual or trustees secured by a mortgage on land; at least that much of the land is used, or intended to be used, as or in connection with a dwelling. For trustee borrowers, that's use by a beneficiary or related person. Conveyancing on a mortgage the client has already arranged with a lender or broker isn't normally arranging or advising on it.
+Hannah: And what counts as regulated advice?
+Will: Advice to someone as an investor or potential investor on the merits of dealing in a particular investment, such as buying, selling or holding it, or of exercising or not exercising rights under it. Generic advice, like equities rather than property, isn't regulated advice; nor is explaining a document's legal effect.
+Hannah: Which comes first, an exclusion or Part XX?
+Will: The exclusions: where one applies, the activity isn't regulated at all, so Part XX is used only where none applies. First, the professional exclusion. Arranging and advising are excluded in the course of a profession where they may reasonably be regarded as a necessary part of the other legal services and aren't remunerated separately. Necessary is strict: advising whether to accept a shareholding in a divorce settlement may qualify; recommending which shares to buy won't.
+Hannah: And what about selling a company?
+Will: The sale of a body corporate exclusion covers dealing, arranging and advising on acquiring or disposing of shares in a company, other than an OEIC. It applies where the shares carry 50% or more of the voting shares, with any the buyer already holds, and the parties qualify: each is a company, partnership, single individual or group of connected individuals. Failing that, it applies where the object may reasonably be regarded as acquiring day-to-day control. It never covers contracts of insurance.
+Hannah: What's the third exclusion?
+Will: Dealing as agent and arranging, where the deal is entered into with or through an authorised person, such as a stockbroker, and either the client has been advised by an authorised person or it's clearly execution-only. That's provided it isn't a contract of insurance, and the solicitor gets no reward from anyone but the client that it doesn't account to the client for.
+Hannah: Where no exclusion applies, what does Part XX need?
+Will: Six conditions, for a firm that's SRA-regulated but not FCA-authorised. One: it's controlled or managed by members of the profession. Two: it accounts to the client for any commission or other reward from a third party. Three: the activity is incidental to its professional services, arising out of, or complementary to, a particular service to a particular client.
+Hannah: What are the other three conditions?
+Will: Four: the activity isn't prohibited by the Treasury's Non-Exempt Activities Order or the SRA Scope Rules. Five: the firm doesn't carry on, or hold itself out as carrying on, other regulated activities. Six: regulated activities aren't a major part of its practice. Third-party commission is paid over or offset, or kept only with the client's informed agreement; that's needed for Part XX, and to act in the client's best interests.
+Hannah: What about a firm doing mainstream investment business?
+Will: Most firms rely on the exclusions or Part XX. But a firm doing mainstream investment business, such as discretionary portfolio management, must be FCA-authorised, and then it's regulated by both the FCA and the SRA; or it refers the work to an authorised person.
+Hannah (summing up): A specified activity in a specified investment, by way of business, is regulated; an exclusion takes it out altogether, and Part XX matters only where none applies.
+Will: Yes: four questions in order, with the exclusions before Part XX.
+
+## Block 2: Offering shares: financial promotion and offers to the public
+Hannah: Before offering shares, a question on financial services: a firm that isn't FCA-authorised arranges a client's share purchase through a stockbroker, execution-only, and keeps the broker's commission without accounting to the client for it. Is the dealing-through exclusion available?
+Will (scenario pause): <think>
+Will: No: that exclusion doesn't cover a solicitor that takes a reward from someone other than the client without accounting to the client for it. The tempting answer is that execution-only through a stockbroker is always excluded; the commission proviso decides it.
+Hannah: Yes: unaccounted commission loses the exclusion, and it would sink Part XX as well.
+Will: Now offering shares: may a company invite people to invest, and may it offer its shares to the public? First, financial promotion. In the course of business, no one may communicate an invitation or inducement to engage in investment activity unless they're authorised, the content is approved by an appropriately permitted authorised person, or an exemption applies, such as one for Part XX firms providing professional services, subject to conditions. Breach is an offence.
+Hannah: Which exemptions help a company raising money from shares?
+Will: They include a communication, such as an information memorandum, made only to people reasonably believed to be investment professionals, like authorised persons; and one made to high net worth companies, which have a size test.
+Hannah: What's the size test for those companies?
+Will: It's £500,000 with more than 20 members, or as a subsidiary of an undertaking that has them. That's called-up share capital or net assets, its own or a group member's.
+Hannah: And what's the figure for any other company?
+Will: Then it's £5 million.
+Hannah: What about a communication on selling a company?
+Will: It's exempt where shares carrying 50% or more of the voting shares, with any the buyer already holds, change hands between qualifying parties: companies, partnerships, single individuals or groups of connected individuals. It's also exempt where the transaction's object is to acquire day-to-day control.
+Hannah: And what about individual investors?
+Will: Communications to certified high net worth individuals and self-certified sophisticated investors are exempt only for investments in unlisted companies, with the investor's recently signed statement and the prescribed warning. A certified sophisticated investor needs an authorised person's recent certificate for that kind of investment, plus their own recently signed statement and the warning.
+Hannah: When may a company offer shares to the public in the UK?
+Will: Only within an exception: otherwise, offering relevant securities, such as shares, to the public in the UK is unlawful. The exceptions include an offer made solely to qualified investors, and an offer conditional on admission to trading on a regulated market or primary MTF, or of securities already admitted. Breach is an offence, and actionable by a person who suffers loss.
+Hannah: And what about a small offer?
+Will: The limit is fewer than 150 persons in the UK. Qualified investors don't count towards it. The trap is the old rule: the question is no longer whether there's an FCA-approved prospectus, but whether an exception applies.
+Hannah: Can a private company offer its shares to the public?
+Will: A private company is any company that isn't public; it can have one shareholder and one director, and needs no minimum share capital. It mustn't offer its securities to the public, or allot them with a view to such an offer, unless it acts in good faith under arrangements to re-register as public before they're allotted; or it undertakes, in the terms of the offer, to re-register within a specified period of no more than six months, and does so.
+Hannah: And when isn't an offer an offer to the public at all?
+Will: When it isn't calculated to result in the securities becoming available to anyone other than those receiving it, or it's otherwise a private concern of offeror and offeree.
+Hannah (summing up): Inviting investment in the course of business needs an authorised person, authorised approval or an exemption; and offering shares to the public in the UK is unlawful unless the offer falls within an exception.
+Will: Right: a promotion made in the course of business must be authorised, approved or exempt, and any public offer needs an exception.
+
+## Block 3: Share capital, methods of financing and the nature of a share
+Hannah: Before share capital, a question mixing the two areas so far: a solicitor arranges for one individual to sell 60% of a company's voting shares to another, and sends the buyer an information memorandum. Does the firm need Part XX, and is the memorandum a restricted promotion?
+Will (scenario pause): <think>
+Will: No to both. The sale of a body corporate exclusion takes the arranging outside regulation, and the matching exemption covers the memorandum, because 50% or more of the voting shares pass between single individuals. The tempting answer is Part XX, but it only matters where no exclusion applies.
+Hannah: Yes: the sale of a company is excluded for the arranging and exempt for the promotion.
+Will: Now share capital: should a company borrow or issue shares, and what must it get for them? Debt first. A lender is a creditor, paid interest whether or not there are profits, and the interest is deductible for corporation tax. The loan is repayable, may be secured and ranks ahead of shareholders on insolvency, but gives no vote.
+Hannah: And what does a shareholder get instead?
+Will: Dividends only where there are distributable profits and one is declared, and they aren't deductible. Shares aren't normally repaid, new shares dilute control, and shareholders rank last on a winding up.
+Hannah: Which debt facilities should I know?
+Will: Three. An overdraft is repayable on demand. A term loan is advanced for a fixed period and repaid by instalments or at the end, and the lender can accelerate on an event of default. A revolving credit facility can be drawn, repaid and redrawn up to a limit. Lenders protect themselves with covenants, positive, negative or financial; with representations; and with events of default.
+Hannah: Do the directors need shareholder approval to borrow?
+Will: Not under the Model Articles: the directors' general management power includes borrowing and granting security. Approval is needed only where the articles require it, such as an older company's borrowing limit; where the lender's terms require it; or where a statutory approval applies, like a loan to or security for a director.
+Hannah: Can a company issue shares for less than their nominal value?
+Will: No. Shares can't be allotted at a discount to nominal value, and the allottee must pay the shortfall with interest. They may be issued at a premium, which goes to the share premium account and is undistributable. A private company may accept non-cash consideration without a valuation, whereas a public company needs an independent valuation, and can't accept an undertaking to do work or perform services.
+Hannah: What do allotted, issued and paid-up mean?
+Will: Shares are allotted when someone acquires the unconditional right to be entered in the register of members, and issued when they're entered. Paid-up share capital is the amount actually paid on the shares' nominal value, and the company can call for any unpaid amount on partly paid shares.
+Hannah: And what's called-up share capital?
+Will: The total of the calls made on the shares, paid or not, plus capital paid up without being called, plus capital payable on a fixed future date under the articles or the terms of allotment.
+Hannah: What happens to shares a company buys back but doesn't cancel?
+Will: Where it bought them out of distributable profits, it may hold them in treasury. While they're held, no rights can be exercised, so no votes, and no dividend or other distribution is paid on them, save fully paid bonus shares. The company may sell them for cash, transfer them for an employees' share scheme or cancel them, filing a return. And a sale of ordinary shares out of treasury counts as an allotment of equity securities, so statutory pre-emption applies to it.
+Hannah (summing up): Shares can't be allotted at a discount to nominal value, and any premium goes to the share premium account; only a public company needs non-cash consideration independently valued.
+Will: Yes: never below nominal value, and the valuation rule bites only on a public company.
+
+## Block 4: Classes of shares and variation of class rights
+Hannah: Before classes of shares, a question on share capital: Larch Ltd allots £1 shares to Priya for 80p each. Is that allowed, and what does Priya owe?
+Will (scenario pause): <think>
+Will: It's an allotment at a discount to nominal value, which isn't allowed, so Priya must pay the 20p shortfall, with interest. The tempting answer is that a private company can set any price it likes: it can go above nominal value, at a premium, but never below.
+Hannah: Right: no discount, so she pays the shortfall plus interest.
+Will: Now classes of shares: what rights does each class carry, and how can they be changed? Shares are of one class where their rights are uniform in all respects. Besides ordinary and fixed preference shares, three other kinds come up, each as its articles or terms of issue provide. Participating preference shares also share with the ordinary shares in surplus profits, or surplus capital on a winding up, after their preferred dividend. Deferred shares carry no, or postponed, rights to dividends and votes. And convertible shares carry a right to convert into shares of another class.
+Hannah: How are class rights varied?
+Will: As any provision in the articles says. If there's none, the class agrees in one of two ways. One: written consent of holders of at least 75% of the class, by nominal value. Two: a special resolution at a separate class meeting. The registrar is then notified.
+Hannah: Can holders who didn't agree fight it?
+Will: Yes. The threshold is 15% of the class. Holders of at least that, who didn't consent, can apply to court to have the variation cancelled. They have 21 days.
+Hannah (summing up): Follow the articles' variation provision; if there's none, the class consents in writing, by at least 75% in nominal value, or by special resolution at a separate class meeting.
+Will: Right: the articles first, then the class itself, by consent or resolution.
+
+## Block 5: Dividends and distributable profits
+Hannah: Before dividends, a question on class rights: the articles are silent on variation, and holders of 80% in nominal value of the preference shares agree in writing to cut their dividend. Is the variation valid, or must every preference holder agree?
+Will (scenario pause): <think>
+Will: It's valid: with no provision in the articles, written consent of at least 75% in nominal value of the class is enough. The tempting answer is unanimity; instead, non-consenting holders of at least 15% of the class can apply to court.
+Hannah: Yes: the written consent binds the class, and the dissenters' remedy is the court.
+Will: Now dividends: can the company pay this dividend, and who decides? A company may make a distribution only out of profits available for the purpose. That's its accumulated realised profits not previously distributed or capitalised, less its accumulated realised losses not previously written off in a reduction or reorganisation of capital. So past losses must be made good before a dividend can be paid.
+Hannah: How would I work that out in a question?
+Will: Three steps. Start with the accumulated realised profits. Take off what's already been distributed. Then take off the accumulated realised losses not yet written off. The exam gives you the figures.
+Hannah: Is there an extra test for a public company?
+Will: Yes: its net assets must not be less than its called-up share capital plus undistributable reserves, and the distribution mustn't reduce them below that amount.
+Hannah: And who decides to pay a dividend?
+Will: Under the Model Articles, the shareholders declare a final dividend by ordinary resolution, but only on the directors' recommendation and not above the amount recommended. The directors may decide to pay an interim dividend without a shareholders' resolution. And unless the resolution, decision or terms of issue say otherwise, it's paid by reference to each holding on the date of the resolution or decision.
+Hannah: Isn't it the shareholders' money, though?
+Will: That's the trap: they're the ones who declare a final dividend, but they can't go above what the directors recommend.
+Hannah (summing up): Dividends come only from profits available for distribution; under the Model Articles, shareholders declare a final dividend only on the directors' recommendation and never above it, and directors decide interims.
+Will: Yes: profits first, then the recommendation as the ceiling.
+
+## Recap
+Hannah: One last question, on dividends: Rowan Ltd, a private company, has accumulated realised profits of £90,000, has already paid out £20,000 in dividends, and has £30,000 of realised losses never written off. What's the largest dividend it can pay?
+Will (calculation pause): <think>
+Will: £40,000. Take off what's been distributed, then the losses, because past losses must be made good first. The tempting answer is £70,000, which forgets the losses.
+Hannah: Yes: profits, less what's been paid out, less the losses not written off.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for regulated investment work?
+Will (quick-fire pause): <think>
+Will: A specified activity in a specified investment, by way of business, is regulated; an exclusion takes it out altogether, and Part XX matters only where none applies.
+Hannah: What's the summary for promoting and offering shares?
+Will (quick-fire pause): <think>
+Will: Inviting investment in the course of business needs an authorised person, authorised approval or an exemption; and offering shares to the public in the UK is unlawful unless the offer falls within an exception.
+Hannah: What's the summary for share capital?
+Will (quick-fire pause): <think>
+Will: Shares can't be allotted at a discount to nominal value, and any premium goes to the share premium account; only a public company needs non-cash consideration independently valued.
+Hannah: What's the summary for varying class rights?
+Will (quick-fire pause): <think>
+Will: Follow the articles' variation provision; if there's none, the class consents in writing, by at least 75% in nominal value, or by special resolution at a separate class meeting.
+Hannah: What's the summary for dividends?
+Will (quick-fire pause): <think>
+Will: Dividends come only from profits available for distribution; under the Model Articles, shareholders declare a final dividend only on the directors' recommendation and never above it, and directors decide interims.
+Hannah: And this part in one sentence: what decides most of its questions?
+Will: Most questions here turn on two things: work through the investment rules in order, with exclusions before Part XX, and keep the company's capital intact, with no shares below nominal value and dividends only from profits available for distribution.

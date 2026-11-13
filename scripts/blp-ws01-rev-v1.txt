@@ -1,0 +1,211 @@
+---
+id: blp-ws01-rev-v1
+unit: u-bpp-BLP-01
+guide_hash: 508683ca4a
+made: 2026-11-13T08:43:26+00:00
+kind: revision
+title: BLP WS01 (1 of 2) · Revision · 22 min
+part: 1 of 2
+blocks: 1-8
+map:
+- Choosing a business vehicle: sole trader, partnership, LLP or company
+- Forming a partnership: definition and when one exists
+- Partners' fiduciary duties and good faith
+- Partners' liability: contract, tort, incoming, outgoing and holding out
+- Partners' authority: contracts binding the firm
+- Taxation of partnerships
+- The partnership agreement and the Partnership Act 1890 default terms
+- Dissolution and distribution of assets
+recap:
+- Only companies and LLPs give limited liability and, generally, a floating charge; sole traders and partnerships get privacy and informality, but unlimited liability.
+- Carrying on a business in common with a view of profit makes a partnership, whatever anyone intends; a profit share is evidence of one, but not conclusive.
+- Without the others' consent, a partner accounts for benefits from firm transactions or its property, name or connection, and for all profits of a competing business of the same nature.
+- A retiring partner stays liable for debts incurred before he retired unless a novation with the creditor releases him; an indemnity from the continuing partners doesn't stop the creditor.
+- A partner's usual-way act for the firm's kind of business binds it, unless he lacked authority and the third party knew that, or didn't know or believe him a partner.
+- Partners, not the firm, are taxed, each only on his own profit share; partners' salaries and interest on capital are allocations of profit, not deductible expenses.
+- Unless agreed otherwise, profits and losses are shared equally and ordinary matters go to a majority by number; admitting a partner needs everyone, and expulsion needs an express power.
+- Unless otherwise agreed, assets go to outside creditors, then to partners' advances and then capital, each rateably; the residue follows profit-sharing proportions.
+summary: Only companies and LLPs give limited liability; partners are personally liable for firm debts incurred while they're partners, and, unless the agreement says otherwise, the Partnership Act 1890 defaults decide profit shares, management and the order of payment on dissolution.
+invented:
+- Kit
+- Mo
+- Lia
+- Nia
+- Jo
+- a tenth of the net profits
+guide_only:
+- P:BLP-3-06 (the six statutory exceptions to limited liability)
+- add:0 (21 days: plc without a trading certificate)
+- add:1 (1 year: payment for own shares out of capital)
+- P:BLP-3-07 (directors' liability in contract and tort)
+- P:BLP-2-17 (company limited by guarantee)
+- P:BLP-2-16 (re-registration between private and public)
+- add:2 (5% or 50 members; 28 days: objecting to re-registration as private)
+- P:BLP-9-04 (the taxes on incorporating a business)
+- add:3 (6 April 2026: incorporation relief must be claimed)
+- add:4 (2 years: BPR on shares received on incorporation)
+- P:BLP-4.2-13 (business names: sensitive words and disclosure)
+- P:NEW-BLP-A-13 (assigning a partnership share)
+- P:BLP-5.4-09 (accounts and the partnership books)
+- P:BLP-7.2-03 (management terms in the agreement)
+- P:NEW-BLP-A-14 (the firm's indemnity to partners)
+- P:BLP-7.2-04 (partners' duties in the agreement)
+- P:BLP-7.2-08 (other usual terms of the agreement)
+- P:BLP-2-14 (salary or dividends from a company)
+- P:BLP-11.1-03 (CGT on partners' fractional shares of assets)
+- P:BLP-7.2-02 (the agreement's financial terms)
+- P:BLP-7.2-06 (continuation and buying the outgoing partner's share)
+- P:BLP-10.2-05 (the tax-year basis for sole traders and partners)
+- add:6 (6 April to 5 April: the tax year; apportioning other periods of account)
+---
+## Map
+Will: The big question here: which business vehicle suits the client, and how does a partnership work from start to finish? Two areas: choosing a vehicle, then partnerships, in seven topics: forming one, duties, liability and authority; then tax, the agreement and dissolution. LLPs and acting for business clients come in part two.
+## Block 1: Choosing a business vehicle: sole trader, partnership, LLP or company
+Hannah: First, choosing a business vehicle: what does each one give the client?
+Will: Limited liability, and generally the ability to grant a floating charge, are available only to companies and LLPs. Sole traders and partnerships get privacy, informality and lower compliance costs, but unlimited liability. And an LLP combines limited liability with partnership tax treatment and a private, flexible internal agreement.
+Hannah: Does a partnership never publish accounts?
+Will: Not unless all its partners are limited companies.
+Hannah: What does it take to be a sole trader, and what's the risk?
+Will: A sole trader is an individual carrying on business alone on his own account. There are no formation formalities beyond registering with HMRC and complying with the business names rules, and the business assets belong to him personally. He has no separate legal personality and unlimited personal liability for all the business debts: creditors can enforce against all his personal assets, including his home, and he may be made bankrupt.
+Hannah: And how is a sole trader taxed?
+Will: He's entitled to all the profits, and he pays income tax and class 4 national insurance on all the trading profits, whether or not he draws them; his drawings aren't a deductible expense. And no accounts are filed publicly.
+Hannah: What makes a company so different?
+Will: A registered company is a separate legal person, distinct from its members and directors. It owns its property and makes contracts; it sues and is sued; and it's liable for its own debts, even if one person owns almost all the shares and runs it. A shareholder's liability is limited to any amount unpaid on his shares, including unpaid premium. Once they're fully paid, he has no further liability for the company's debts, even in insolvent liquidation.
+Hannah: Can a creditor ever get past that protection?
+Will: Sometimes. Limited liability doesn't protect a shareholder or director who has personally guaranteed the company's borrowing: the lender can sue him on the guarantee. And the court will pierce the corporate veil, but only under the evasion principle: where a person under an existing legal obligation or restriction deliberately evades it, or frustrates its enforcement, by interposing a company under his control. Even then, it pierces only to deprive the company or controller of that advantage.
+Hannah: Is a facade, or a one-person company, enough on its own?
+Will: No. But moving assets into your company to dodge an existing court order is evasion.
+Hannah: Who can give a lender a floating charge?
+Will: Generally only companies and LLPs, a farmer's agricultural charge to a bank aside. Sole traders and partners, as individuals, can't in practice grant floating charges over their business chattels. So they give mortgages of land, fixed security and personal guarantees.
+Hannah: And how is a company taxed?
+Will: As a separate taxable person, paying corporation tax on its own income profits and chargeable gains. Its directors and shareholders are taxed separately, by income tax or capital gains tax, only on what they take out, so dividends are taxed in the company and again in the shareholder's hands.
+Hannah (summing up): Only companies and LLPs give limited liability and, generally, a floating charge; sole traders and partnerships get privacy and informality, but unlimited liability.
+Will: Yes: limited liability needs a company or LLP.
+## Block 2: Forming a partnership: definition and when one exists
+Hannah: Before forming a partnership, a question on choosing a vehicle. Two designers want their profit shares taxed as their own income, no personal liability, and to borrow against their changing stock; they accept public accounts. Which vehicle fits?
+Will (scenario pause): <think>
+Will: An LLP: only it combines tax transparency with limited liability and a floating charge. A company is tempting, but its profits are taxed in the company.
+Hannah: Yes: only an LLP gives them all three.
+Will: Now forming a partnership. A partnership is the relation between persons carrying on a business in common with a view of profit. It arises from the facts, without any written agreement, registration or intention to be partners, because the court decides on the facts, not the parties' label. It needs at least two persons, with no maximum.
+Hannah: Is the firm a separate legal person?
+Will: No. In England and Wales a partnership has no separate legal personality. The firm name is only a collective name for the partners, who own the business assets, and the firm may sue and be sued in its name only as a procedural convenience.
+Hannah: Does sharing profits make someone a partner?
+Will: Co-ownership of property doesn't of itself create a partnership, and nor does sharing gross returns. Receiving a share of profits is evidence of partnership but not conclusive. So a lender paid interest varying with profits under a written signed contract isn't a partner by that alone, and nor is an employee paid by profit share, or a seller of goodwill paid out of profits.
+Hannah (summing up): Carrying on a business in common with a view of profit makes a partnership, whatever anyone intends; a profit share is evidence of one, but not conclusive.
+Will: Yes: facts decide, and a profit share is only evidence.
+## Block 3: Partners' fiduciary duties and good faith
+Hannah: Before partners' duties, a question on forming a partnership. Kit orally lends to Mo's bakery for interest of a tenth of its net profits. Does the lender protection stop him being treated as a partner?
+Will (scenario pause): <think>
+Will: No. That protection needs a written signed contract, so his profit share stays evidence of partnership. It's tempting to think lenders are always safe.
+Hannah: Right: an oral loan gets no lender protection.
+Will: Now partners' fiduciary duties. Partners owe each other utmost good faith, so they must render true accounts and full information to each other. They must account for any benefit obtained without the other partners' consent from a partnership transaction, or from use of the firm's property, name or business connection. And they must account for all profits of a business of the same nature competing with the firm, carried on without their consent.
+Hannah (summing up): Without the others' consent, a partner accounts for benefits from firm transactions or its property, name or connection, and for all profits of a competing business of the same nature.
+Will: Yes: consent is what matters, and competing means all the profits.
+## Block 4: Partners' liability: contract, tort, incoming, outgoing and holding out
+Hannah: Before partners' liability, a question on duties. Lia secretly runs a catering business like the firm's, competing with it. What must she account for?
+Will (scenario pause): <think>
+Will: All its profits: it's a competing business of the same nature, run without consent. Only what she made using firm property is the tempting half-answer.
+Hannah: Yes: all the profits, not just some.
+Will: Now partners' liability. Partners have unlimited liability: each is jointly liable for firm debts and obligations incurred while he's a partner. And every partner is jointly and severally liable for a partner's wrongs done in the ordinary course of the firm's business, or with his co-partners' authority, where the firm becomes liable while he's a partner. A creditor may enforce against any one partner's personal assets, and that partner then seeks contribution from the others.
+Hannah: And what about partners who join or leave?
+Will: A new partner isn't liable for debts incurred before he joined, unless he agrees to take them on, for example by novation. A retiring partner remains liable for debts incurred before he retired, unless released by a novation agreed between him, the continuing firm and the creditor, express or inferred from dealings. Otherwise his protection is an indemnity from the continuing partners, which doesn't stop a creditor suing him.
+Hannah: What about debts incurred after he retires?
+Will: He's liable to someone who dealt with the firm before the change and has had no actual notice of it, and to new creditors unless notice was published in the London Gazette. He's not liable to someone who never knew he was a partner. And a deceased or bankrupt partner's estate isn't liable for later debts.
+Hannah: So is a Gazette notice enough for a long-standing supplier?
+Will: No: a long-standing supplier needs actual notice.
+Hannah: And what if his name stays on the letterhead?
+Will: That's holding out. A person who by words or conduct represents himself, or knowingly allows himself to be represented, as a partner is liable as a partner to anyone who gives credit to the firm on the faith of that representation. So a retiree who knowingly stays on the letterhead is liable to a new creditor who relied on it. But continued use of a deceased partner's name doesn't make his estate liable.
+Hannah (summing up): A retiring partner stays liable for debts incurred before he retired unless a novation with the creditor releases him; an indemnity from the continuing partners doesn't stop the creditor.
+Will: Yes: only a novation with the creditor releases him.
+## Block 5: Partners' authority: contracts binding the firm
+Hannah: Before partners' authority, a question on liability. Nia retires with a Gazette notice, but knowingly leaves her name on the letterhead, and a new supplier gives credit relying on it. Is she liable?
+Will (scenario pause): <think>
+Will: Yes: she knowingly let herself be held out, and the supplier relied on it. The Gazette notice is the tempting answer, but it doesn't beat holding out.
+Hannah: Right: knowingly staying on the letterhead defeats the notice, for a creditor who relied on it.
+Will: Now partners' authority. Every partner is an agent of the firm and of the other partners, so an act done for carrying on in the usual way business of the kind the firm carries on binds the firm. The exception is where the partner had no authority and the third party either knew he lacked it, or did not know or believe him to be a partner. Say a builder's partner orders materials over an internal spending limit from a supplier who knows he's a partner: the firm is bound, unless the supplier knew of the limit.
+Hannah: Does an internal limit ever bind an outsider?
+Will: Only if he had notice of it. And a partner who pledges the firm's credit for a purpose apparently unconnected with the firm's ordinary business doesn't bind the firm, unless specially authorised.
+Hannah (summing up): A partner's usual-way act for the firm's kind of business binds it, unless he lacked authority and the third party knew that, or didn't know or believe him a partner.
+Will: Yes: the usual way binds the firm, with that one exception.
+## Block 6: Taxation of partnerships
+Hannah: Before partnership tax, a question on authority. A firm's agreement bars borrowing, and Jo borrows for the firm from a bank holding a copy. Is the firm bound?
+Will (scenario pause): <think>
+Will: No, unless the partners ratify it: the bank had notice of the restriction. Borrowing being usual for a trading firm is the tempting answer.
+Hannah: Yes: a bank that knew of the bar can't rely on the usual-way rule.
+Will: Now taxation of partnerships. The partners, not the firm, are taxed. Each partner is taxed only on his own share of the partnership's taxable profit, allocated under the profit-sharing arrangements for the period. Salaries and interest on capital paid to partners are allocations of profit, not deductible expenses of the firm. The firm files a partnership return, but each partner returns and pays his own tax.
+Hannah (summing up): Partners, not the firm, are taxed, each only on his own profit share; partners' salaries and interest on capital are allocations of profit, not deductible expenses.
+Will: Yes: the firm isn't taxed, and a partner's salary is just profit.
+## Block 7: The partnership agreement and the Partnership Act 1890 default terms
+Hannah: Before the partnership agreement, a question on tax. A firm's agreement pays one partner a salary before the profits are split. Does that salary reduce the firm's taxable profit?
+Will (scenario pause): <think>
+Will: No: it's an allocation of profit, taxed as part of her share, not a deductible expense. The word salary is what makes yes tempting.
+Hannah: Right: a partner's salary is profit, whatever it's called.
+Will: Now the partnership agreement and the Partnership Act 1890 default terms. A partnership needs no constitutional document: its terms may be written, oral or implied from conduct, and the Act's defaults apply unless excluded. Terms may be varied by consent of all the partners, express or inferred from a course of dealing.
+Hannah: Does a variation have to be in writing?
+Will: No. Years of accounts signed by everyone at 60:40 override a deed's equal split. And for trading before the deed's commencement date, the Act's defaults govern that period.
+Hannah: How long should the agreement say it lasts?
+Will: It should state a fixed term, or that the partnership continues until ended by notice or retirement. That avoids a partnership at will, which any partner can dissolve at any time by notice.
+Hannah: What counts as partnership property?
+Will: Property brought into partnership stock, or acquired on account of the firm or for its business, is partnership property. Property bought with firm money is presumed to be partnership property. But the firm's mere use of a partner's own asset doesn't make it partnership property: a building one partner owned before the firm started stays hers, even if the firm trades from it.
+Hannah: How is money shared when nothing is agreed?
+Will: Unless agreed otherwise, partners share capital and profits equally and contribute equally to losses. Income profits stay equal whatever the capital contributed or hours worked. There's no interest on capital, and no partner is entitled to a salary. A partner who advances money beyond his agreed capital gets interest on it. That's 5 per cent a year.
+Hannah: And if profit shares are unequal but losses aren't mentioned?
+Will: Then losses are presumed to be shared in the same proportions as profits.
+Hannah: Who makes the decisions by default?
+Will: Six rules, all subject to agreement. Every partner may take part in management. Ordinary matters are decided by a majority of the partners, by number. But a change in the nature of the business, or admitting a new partner, needs the consent of all. No majority can expel a partner unless the agreement expressly gives that power. And terms can be varied only by consent of all, express or inferred from a course of dealing.
+Hannah: So where's the trap on expulsion?
+Will: Without an express power, even all the other partners together can't expel him. So an expulsion clause is essential: it should specify the grounds and procedure, and it must be exercised in good faith.
+Hannah: Can a partner who leaves set up in competition?
+Will: By default, yes: there's no default restraint on an outgoing partner. The duty to account for a competing business binds only while he's still a partner.
+Hannah: So when is a restrictive covenant enforceable?
+Will: Only if it protects a legitimate interest such as clients, goodwill or confidential information. It must also be no wider than reasonably necessary in area, duration and activities; otherwise it's void as a restraint of trade. That goes for non-compete, non-solicitation and non-dealing covenants.
+Hannah (summing up): Unless agreed otherwise, profits and losses are shared equally and ordinary matters go to a majority by number; admitting a partner needs everyone, and expulsion needs an express power.
+Will: Yes: equal shares and majority rule, but everyone for a new partner.
+## Block 8: Dissolution and distribution of assets
+Hannah: Before dissolution, a question on the agreement. Three café partners with no agreement vote two to one to open a second café and to admit a new partner. Which decision stands?
+Will (scenario pause): <think>
+Will: Only the second café: expanding the same business is an ordinary matter for the majority. Admitting a partner needs the consent of all, so both is the tempting wrong answer.
+Hannah: Right: expansion by majority, a new partner only by everyone.
+Will: Now dissolution and distribution of assets. Six things dissolve a partnership. One: the end of a fixed term or the single venture. Two: for a partnership at will, any partner's notice, from the date stated or the date of communication. Three: the death or bankruptcy of any partner, automatically, unless otherwise agreed.
+Hannah: And what are the other three?
+Will: Four: at the other partners' option, if a partner's share is charged for his private debt. Five: illegality. Six: a court order. Its grounds include permanent incapacity, prejudicial conduct and persistent breach; a business only possible at a loss; and where it's just and equitable.
+Hannah: Can the partners still act after dissolution?
+Will: Only so far as needed to wind up the firm's affairs and complete transactions begun but unfinished at dissolution. Then, unless otherwise agreed, losses are met first from profits, then capital, then by the partners in profit-sharing proportions; and assets go first to outside creditors, then to partners' advances rateably, then to capital rateably, and the residue in profit-sharing proportions.
+Hannah: Isn't each partner's capital repaid before the advances?
+Will: No, that's the trap: advances come before capital.
+Hannah: What if an outgoing partner's share stays in the business?
+Will: Without final settlement, he or his estate can choose either the share of profits made since dissolution that's attributable to the use of his share, or interest on its amount. That interest is 5 per cent a year. His share is a debt accruing at the date of dissolution or death.
+Hannah (summing up): Unless otherwise agreed, assets go to outside creditors, then to partners' advances and then capital, each rateably; the residue follows profit-sharing proportions.
+Will: Yes: creditors, advances, capital, then the residue.
+## Recap
+Hannah: Before the quick-fire round, one mixing the agreement and dissolution. A fixed-term deed expires, the partners trade on without a new one, and later one emails that she's leaving on 30 June. What's the effect?
+Will (scenario pause): <think>
+Will: It dissolves the partnership on 30 June. Trading on after expiry without any express new agreement made it a partnership at will, which any partner's notice ends from the date stated. The old deed binding her is tempting, but its terms survive only so far as consistent with that.
+Hannah: Right: once the term ran out, her notice ends it on her date.
+Will: Now the quick-fire round.
+Hannah: What's the summary for choosing a business vehicle?
+Will (quick-fire pause): <think>
+Will: Only companies and LLPs give limited liability and, generally, a floating charge; sole traders and partnerships get privacy and informality, but unlimited liability.
+Hannah: What's the summary for forming a partnership?
+Will (quick-fire pause): <think>
+Will: Carrying on a business in common with a view of profit makes a partnership, whatever anyone intends; a profit share is evidence of one, but not conclusive.
+Hannah: What's the summary for partners' duties to each other?
+Will (quick-fire pause): <think>
+Will: Without the others' consent, a partner accounts for benefits from firm transactions or its property, name or connection, and for all profits of a competing business of the same nature.
+Hannah: What's the summary for partners' liability?
+Will (quick-fire pause): <think>
+Will: A retiring partner stays liable for debts incurred before he retired unless a novation with the creditor releases him; an indemnity from the continuing partners doesn't stop the creditor.
+Hannah: What's the summary for partners' authority?
+Will (quick-fire pause): <think>
+Will: A partner's usual-way act for the firm's kind of business binds it, unless he lacked authority and the third party knew that, or didn't know or believe him a partner.
+Hannah: What's the summary for partnership tax?
+Will (quick-fire pause): <think>
+Will: Partners, not the firm, are taxed, each only on his own profit share; partners' salaries and interest on capital are allocations of profit, not deductible expenses.
+Hannah: What's the summary for the partnership agreement and its defaults?
+Will (quick-fire pause): <think>
+Will: Unless agreed otherwise, profits and losses are shared equally and ordinary matters go to a majority by number; admitting a partner needs everyone, and expulsion needs an express power.
+Hannah: What's the summary for dissolution?
+Will (quick-fire pause): <think>
+Will: Unless otherwise agreed, assets go to outside creditors, then to partners' advances and then capital, each rateably; the residue follows profit-sharing proportions.
+Hannah: And the whole of this first part in one sentence: what decides most of its questions?
+Will: Only companies and LLPs give limited liability; partners are personally liable for firm debts incurred while they're partners, and, unless the agreement says otherwise, the Partnership Act 1890 defaults decide profit shares, management and the order of payment on dissolution.

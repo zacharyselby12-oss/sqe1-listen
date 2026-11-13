@@ -1,0 +1,260 @@
+---
+id: blp-ws04-rev-v1
+unit: u-bpp-BLP-04
+guide_hash: af386d27de
+made: 2026-11-13T08:43:26+00:00
+kind: revision
+title: BLP WS04 · Revision · 24 min
+map:
+- Membership rights and the articles
+- Shareholding thresholds and voting
+- Shareholders' agreements
+- Removing a director and forcing a meeting
+- Protecting a director from removal
+- Compensation for loss of office
+- Derivative claims
+- Unfair prejudice petitions
+- Just and equitable winding up; choosing the remedy
+recap:
+- A member enforces the articles only for rights held as a member, usually by injunction or declaration, not outsider rights.
+- More than half passes an ordinary resolution, exactly half only blocks it; at least three-quarters passes a special resolution, more than a quarter blocks it.
+- A shareholders' agreement binds only its parties; the articles bind every present and future member.
+- A director goes by ordinary resolution at a meeting after special notice; members with 5 per cent of paid-up voting capital can force the meeting.
+- The articles can't raise the majority, but weighted votes can protect a director-shareholder; removal breaching a unanimity agreement still stands.
+- A payment the company is legally obliged to make needs no members' approval; a gratuitous loss-of-office payment over £200 needs an ordinary resolution first.
+- The company sues for wrongs to it; a member's derivative claim needs the court's permission, and any remedy goes to the company.
+- Conduct must be prejudicial to his interests as a member and unfair; the usual order is a fair-value buy-out, and after a reasonable fair-value offer, petitioning usually fails.
+- Just and equitable winding up ends the company and is a last resort: it may be refused if he's unreasonably not pursuing another remedy.
+summary: Count the votes and ask whose right it is: a member enforces his own membership rights, a wrong to the company is the company's claim, and unfair prejudice usually ends in a fair-value buy-out.
+invented:
+- Asha
+- Ben
+- Carl
+- Dina
+- Erin
+- 3 March
+- 22 March
+- 30 April
+- Gail
+- Ivan
+- £5,000
+- Jade
+- Kim
+- Leo
+- Nina
+guide_only:
+- P:BLP-6.1-13 (the list of shareholders' main rights: taught in WS03, read in the guide)
+- P:BLP-6.2-10 (how votes are counted at a meeting and in writing: taught in WS02, read in the guide)
+- P:BLP-6.2-11 (written resolutions: taught in WS02, read in the guide)
+- P:BLP-6.2-09 (show of hands, poll and casting vote: taught in WS02; only the two-person poll correction is said)
+- P:BLP-6.2-05 (the 48-hour deemed receipt and the notice's contents are look-up detail; the 14 and 21 clear-day minimums and clear days are said)
+- P:BLP-6.1-09 (the list of remedies for breach of duty: taught in WS03; the company as claimant and the derivative claim are said)
+- P:BLP-6.1-10 (ratification and the court's relief: taught in WS03; ratification as a bar to permission is said)
+---
+## Map
+Will: Nine areas today, in three groups. First, members' rights and voting: the articles, voting thresholds and shareholders' agreements.
+Hannah: And what are the other two groups?
+Will: Removing a director: removal, protection from it, and compensation. Then minority remedies: derivative claims, unfair prejudice, and just and equitable winding up.
+Hannah: First, a warm-up on directors from last time: the board always follows the company's solicitor's professional advice. Is she a shadow director?
+Will (scenario pause): <think>
+Will: She isn't: advice given in a professional capacity doesn't make the adviser a shadow director, even if the board always follows it. The tempting answer is yes, because the board always acts on it.
+Hannah: Good: professional advice doesn't make her one.
+## Block 1: Membership rights and the articles
+Will: First, membership rights and the articles. The articles bind the company and its members as if each had covenanted to observe them, but a member can enforce only rights he holds as a member, like voting or a declared dividend.
+Hannah: So what can't he enforce through them?
+Will: Outsider rights, like a right to be the company's solicitor or a director. And the remedy is usually an injunction or declaration; damages are rare.
+Hannah: Are there limits on what he can complain about?
+Will: Mere internal irregularities the majority could cure aren't actionable. And the court won't imply terms into the articles from outside circumstances, so protect unwritten rights in a shareholders' agreement.
+Hannah (summing up): A member enforces the articles only for rights held as a member, usually by injunction or declaration, not outsider rights.
+Will: Yes: membership rights only.
+## Block 2: Shareholding thresholds and voting
+Hannah: Before thresholds and voting, a question on the articles: Asha's articles name her as the company's solicitor, but it instructs another firm. Can she enforce that article?
+Will (scenario pause): <think>
+Will: She can't: that's an outsider right, not one she holds as a member. The tempting answer is that every term of the articles binds; only membership rights do.
+Hannah: That's it: only rights held as a member.
+Will: Now thresholds and voting, starting with the deciding one. More than 50 per cent passes an ordinary resolution, so it can appoint and remove directors. Exactly 50 per cent can only block it.
+Hannah: And what does a special resolution need?
+Will: At least 75 per cent passes it. More than 25 per cent can block it.
+Hannah: What do the smaller holdings give you?
+Will: 10 per cent can demand a poll and require an audit. 5 per cent can requisition a general meeting or circulate a written resolution.
+Hannah: What about class rights?
+Will: 15 per cent of a class can challenge a variation of class rights.
+Hannah: And who can consent to short notice?
+Will: A majority in number holding 90 per cent of the voting shares in a private company. In a public company, it's 95 per cent.
+Hannah: Can a private company's articles change that threshold?
+Will: A private company's articles can raise that to up to 95 per cent.
+Hannah: Can members make the company circulate a statement before a meeting?
+Will: Yes, of up to 1,000 words on a proposed resolution or other business at it. Members with 5 per cent of the total voting rights can require it.
+Hannah: Is there another way to qualify?
+Will: At least 100 members entitled to vote, averaging at least £100 paid up each.
+Hannah: And when must that request arrive?
+Will: At least one week before the meeting. Don't confuse it with 10 per cent, which is the poll threshold.
+Hannah: Can a small group demand a poll?
+Will: Under the Model Articles, any two or more persons entitled to vote can, whatever their holding. And the articles can't exclude the statutory right, or require more than five members or 10 per cent of the voting rights.
+Hannah (summing up): More than half passes an ordinary resolution, exactly half only blocks it; at least three-quarters passes a special resolution, more than a quarter blocks it.
+Will: Yes: exactly half only blocks.
+## Block 3: Shareholders' agreements
+Hannah: Before shareholders' agreements, a question on voting: Ben holds exactly half the votes and votes for an ordinary resolution; everyone else votes against. Does it pass?
+Will (scenario pause): <think>
+Will: It fails: it needs more than half. The tempting answer treats half as a majority, but exactly half can only block.
+Hannah: Agreed: half blocks but can't pass.
+Will: Now shareholders' agreements, where the deciding question is who is bound. The agreement is a private contract binding only its parties, and changing it needs all their consent. The articles are public, bind all present and future members, and are altered by special resolution.
+Hannah: What can the agreement do for a minority?
+Will: Give personal rights, like a veto or a board seat, and bind members on how they vote. A unanimity clause gives the minority a veto and often avoids an unfair prejudice petition. But the company can't validly contract not to exercise its statutory power to alter its articles.
+Hannah: How is a right that's only in the agreement enforced?
+Will: Directly by the parties, as an ordinary contract.
+Hannah (summing up): A shareholders' agreement binds only its parties; the articles bind every present and future member.
+Will: Right: who's bound decides it.
+## Block 4: Removing a director and forcing a meeting
+Hannah: Before removing a director, a question on shareholders' agreements: Carl and Dina agree to vote together. Erin later buys newly issued shares. Is she bound by their promise?
+Will (scenario pause): <think>
+Will: She isn't: the agreement binds only its parties. The tempting answer treats it like the articles, which do bind every future member.
+Hannah: Correct: only the parties are bound.
+Will: Now removing a director and forcing a meeting. Members can remove a director by ordinary resolution at a meeting, despite anything in the articles or any agreement, but not by written resolution. Director-members may vote their shares on it.
+Hannah: Can the board remove a director instead?
+Will: Not under the Model Articles. Besides the members' resolution, there may be a removal power in the articles or a shareholders' agreement, or the office ends automatically under the Model Articles.
+Hannah: What does special notice involve?
+Will: Three steps. One: special notice to the company at least 28 clear days before the meeting. Two: a copy to the director at once. Three: the company tells members with the notice of meeting, or, if impracticable, by advert or as the articles allow, at least 14 days before.
+Hannah: What if the meeting is then called for 28 days or less after the notice?
+Will: The notice is still deemed properly given. And the trap: 14 days is the company's notice to members, not special notice.
+Hannah: What rights does the director have?
+Will: He may make written representations of reasonable length for circulation, read out if not sent. And he may always be heard, member or not.
+Hannah: And what if the board won't call the meeting?
+Will: It needn't call one or table the resolution, so send a requisition, ideally with the special notice. That's the deciding rule: members holding at least 5 per cent of the paid-up voting capital can require the directors to call a general meeting, with no 100-member alternative.
+Hannah: How fast must the directors act?
+Will: They call it within 21 days of the request. The meeting must be no more than 28 days after the notice.
+Hannah: Isn't it 14 days to call the meeting?
+Will: That's the trap: 14 days is the minimum notice period, and they have 21 to call it.
+Hannah: What if the directors do nothing?
+Will: The requesters, or any of them holding over half their votes, may call it themselves, for a meeting within 3 months of the request. It's at the company's expense, recouped from the defaulting directors' fees.
+Hannah: How much notice does a general meeting need?
+Will: At least 14 clear days, or 21 for a public company's AGM. Clear days exclude the day of notice and the meeting day.
+Hannah: So how do you find the earliest date members can hold a meeting?
+Will: Any meeting still needs at least 14 clear days' notice, so add 14 clear days.
+Hannah: And what's the slowest lawful timetable after a request?
+Will: Notice on day 21, for a meeting 28 days later; neither period is in clear days.
+Hannah (summing up): A director goes by ordinary resolution at a meeting after special notice; members with 5 per cent of paid-up voting capital can force the meeting.
+Will: Yes: and the requisition beats a stalling board.
+## Block 5: Protecting a director from removal
+Hannah: Before protecting a director from removal, a timetable question: members validly request a meeting on 3 March. On 22 March the directors give notice of a meeting for 30 April. Have they complied?
+Will (calculation pause): <think>
+Will: They haven't. The notice was within 21 days of the request, but the meeting is more than 28 days after the notice. The tempting answer checks only the deadline for calling it.
+Hannah: Got it: notice in time, meeting too late.
+Will: Now protecting a director from removal. The articles can't raise the majority above an ordinary resolution, but a Bushell v Faith clause is valid: they may give a director-shareholder weighted votes on a resolution to remove him, say three votes per share, which can prevent his removal.
+Hannah: How do you stop the others removing that clause?
+Will: Give him weighted votes on any special resolution altering it, or use a shareholders' agreement or an entrenched article.
+Hannah: What if a shareholders' agreement requires unanimity for removal?
+Will: Removal by ordinary resolution in breach is still valid; the director sues the other members in contract or seeks an injunction. And check for compulsory transfer of his shares.
+Hannah (summing up): The articles can't raise the majority, but weighted votes can protect a director-shareholder; removal breaching a unanimity agreement still stands.
+Will: Spot on: the agreement only gives him a claim.
+## Block 6: Compensation for loss of office
+Hannah: Before compensation for loss of office, a question on protection: Gail's shareholders' agreement bars removal without everyone's consent. The others remove her by ordinary resolution anyway. Is that valid?
+Will (scenario pause): <think>
+Will: It is: she sues in contract or seeks an injunction. The tempting answer is that the agreement makes the removal void.
+Hannah: Yes: valid removal, contract claim.
+Will: Now compensation for loss of office, where the deciding contrast is obligation or gift. A payment the company is legally obliged to make, a contractual payment or damages, needs no members' approval. A gratuitous payment for loss of office over £200 does.
+Hannah: What approval does the gift need, and what if there's none?
+Will: Prior approval by ordinary resolution, whether in cash or in kind. Without it, the payment is held on trust for the company, and the directors who authorised it must indemnify it.
+Hannah: Which payments are exempt?
+Will: Four, made in good faith: discharging an existing legal obligation, damages for its breach, settling a claim arising from termination, and a pension for past services. Payments of £200 or less in total are exempt too.
+Hannah: Does anything have to be in place before the vote?
+Will: A memorandum of the payment's particulars, including its amount, or the resolution can't be passed. It's sent with a written resolution. For a meeting, it's at the registered office for at least 15 days. That ends with the meeting, and it's at the meeting too.
+Hannah: Does removal end his contractual rights?
+Will: It doesn't. He keeps any right to compensation or damages for termination of his service contract, and unfair dismissal and redundancy rights if he's an employee with the qualifying service.
+Hannah (summing up): A payment the company is legally obliged to make needs no members' approval; a gratuitous loss-of-office payment over £200 needs an ordinary resolution first.
+Will: That's right: owed means no vote.
+## Block 7: Derivative claims
+Hannah: Before derivative claims, a question on compensation: Ivan is removed, and gets damages for the rest of his fixed term, plus a £5,000 thank-you gift. Which needs members' approval?
+Will (scenario pause): <think>
+Will: Only the gift, as it's gratuitous and over £200; the damages discharge a legal obligation. The tempting answer is that every payment on removal needs a vote.
+Hannah: Yes: the gift does, the damages don't.
+Will: Now derivative claims. Where a wrong is done to the company, the company is the proper claimant. That's the deciding point: a shareholder can't sue for a fall in his share value or dividends that merely reflects a loss the company can claim from the same wrongdoer, even if the company doesn't sue.
+Hannah: Does that bar all his own claims?
+Will: It doesn't reach his other losses or his claims as a creditor. For the company's own claim, a member can bring a derivative claim on its behalf, but needs the court's permission to continue it.
+Hannah: What can a derivative claim be about?
+Will: A cause of action vested in the company, from an actual or proposed act or omission by a director involving any of four things: negligence, default, breach of duty or breach of trust. It may be against the director, a third party, or both.
+Hannah: Who counts as a director, and who can sue?
+Will: Former and shadow directors count. The member need not have been a member when the wrong occurred: a transferee or transmittee can sue for earlier wrongs, but a former member can't.
+Hannah: Who gets the remedy?
+Will: The company, not the claimant member, though the court may order the company to indemnify his costs.
+Hannah: How does the court decide on permission?
+Will: Three stages. First, it dismisses the claim if the evidence discloses no prima facie case. Second, it must refuse permission if a person acting under the duty to promote success wouldn't continue it, or the act was authorised in advance or has been ratified.
+Hannah: And what happens at the third stage?
+Will: It weighs factors. They include his good faith, the importance a director would attach to it, and likely authorisation or ratification. Others are the company's decision not to sue, any personal claim he has, and disinterested members' views, which get particular regard.
+Hannah: Which stage catches people out?
+Will: The second's refusal grounds apply at the full permission hearing, not on the prima facie review. And permission is often refused, especially to a lone member opposing the majority.
+Hannah (summing up): The company sues for wrongs to it; a member's derivative claim needs the court's permission, and any remedy goes to the company.
+Will: Yes: the company's claim, and the company's remedy.
+## Block 8: Unfair prejudice petitions
+Hannah: Before unfair prejudice petitions, a question on derivative claims: a director, since resigned, diverted a contract to himself before Jade bought shares. The majority will probably ratify. Must the court refuse Jade permission?
+Will (scenario pause): <think>
+Will: It needn't: former directors and wrongs before she joined are covered, and likely ratification is only a factor. The tempting answer treats it as a bar, but only actual authorisation or ratification is.
+Hannah: Understood: only actual ratification forces a refusal.
+Will: Now unfair prejudice petitions. Any member may petition that the company's affairs are being or have been conducted in a manner unfairly prejudicial to the interests of members generally or some part of them, including him, or that an actual or proposed act or omission would be. The conduct must be both prejudicial to his interests as a member and unfair.
+Hannah: What makes the prejudice unfair?
+Will: A breach of the agreed terms or of equitable considerations, judged objectively.
+Hannah: And what isn't enough for a petition?
+Will: Mere disagreement with policy or the business's direction, or incompetent management unless it's serious enough to put his shares' value at risk. He needn't show bad faith or an intention to harm him, or clean hands, though his own conduct may make the conduct not unfair or affect the relief.
+Hannah: What if the majority acted within the articles?
+Will: That's the deciding point: conduct in accordance with the articles isn't unfair unless it breaches an understanding or legitimate expectation, typically in a quasi-partnership. And where the majority makes a reasonable offer for his shares at a fair value, fairly determined and normally without a minority discount, continuing to petition will usually fail.
+Hannah: What marks out a quasi-partnership?
+Will: Mutual trust, expected participation in management, and share transfer restrictions. There, exclusion from management is unfair, so a removed shareholder-director may petition for unfair prejudice or just and equitable winding up. But loss of trust alone isn't enough: a member has no right to exit at will.
+Hannah: What will the court order?
+Will: Any order it thinks fit, most commonly that the other members or the company buy his shares at a fair value. Its other orders include regulating the company's affairs, requiring it to do or stop doing something, authorising civil proceedings in its name, or restricting alterations to its articles.
+Hannah: How are the shares valued?
+Will: Pro rata, without a minority discount, especially in a quasi-partnership, though a pure investment holding may be discounted. They're valued at the date of the order, not the petition, unless another date is fairer.
+Hannah (summing up): Conduct must be prejudicial to his interests as a member and unfair; the usual order is a fair-value buy-out, and after a reasonable fair-value offer, petitioning usually fails.
+Will: Yes: and a fair offer usually ends it.
+## Block 9: Just and equitable winding up; choosing the remedy
+Hannah: Before just and equitable winding up, a question mixing removal and unfair prejudice: in their quasi-partnership company, Leo validly removes Kim as a director. Does the lawful removal leave Kim without a remedy?
+Will (scenario pause): <think>
+Will: It doesn't: in a quasi-partnership, exclusion from management is unfair even when it follows the articles, so she can petition. The tempting answer is that a valid removal ends the matter.
+Hannah: Understood: lawful can still be unfairly prejudicial.
+Will: Now just and equitable winding up, and choosing the remedy. The deciding rule: a member, or contributory, may petition to wind up on the just and equitable ground. Examples are deadlock or loss of substratum. Breakdown of trust or exclusion from management in a quasi-partnership, or a fraudulent purpose, also counts.
+Hannah: What must he show to petition?
+Will: A tangible interest, meaning a likely surplus. He must have held the shares for 6 of the last 18 months. That doesn't apply to an original allottee, or where they came to him on a death.
+Hannah: What if the company is insolvent?
+Will: There's no likely surplus, so a fully paid member's petition fails. And as a last resort, it may be refused if he's unreasonably not pursuing another remedy, like a fair offer for his shares.
+Hannah: Isn't that the unfair prejudice fairness test again?
+Will: That's the trap: it fails because another remedy is unreasonably refused, not because the conduct is fair.
+Hannah: How do you choose between the remedies?
+Will: Ask who suffered the wrong and what the client wants. A derivative claim is for a wrong to the company, needs permission, and its remedy goes to the company. Unfair prejudice is for unfair harm to his interests as a member: a personal remedy, usually a buy-out.
+Hannah: And what about the other two remedies?
+Will: A personal claim enforces his own membership rights under the articles, like a refused vote. And winding up on the just and equitable ground ends the company.
+Hannah (summing up): Just and equitable winding up ends the company and is a last resort: it may be refused if he's unreasonably not pursuing another remedy.
+Will: Right: a refused fair offer can sink it.
+## Recap
+Hannah: Last recall question, on choosing the remedy: the directors' bonuses have soaked up all the profits for years, with no dividends. Nina, a minority shareholder, wants to leave with the value of her shares. Which claim suits her best?
+Will (scenario pause): <think>
+Will: An unfair prejudice petition for a buy-out, since she wants to exit with value herself. The tempting answer is a derivative claim, but its remedy goes only to the company.
+Hannah: Spot on: she wants a personal buy-out.
+Will: Now the quick-fire round: one summary for each of the nine areas.
+Hannah: What's the summary for membership rights and the articles?
+Will (quick-fire pause): <think>
+Will: A member enforces the articles only for rights held as a member, usually by injunction or declaration, not outsider rights.
+Hannah: What's the summary for voting thresholds?
+Will (quick-fire pause): <think>
+Will: More than half passes an ordinary resolution, exactly half only blocks it; at least three-quarters passes a special resolution, more than a quarter blocks it.
+Hannah: What's the summary for shareholders' agreements?
+Will (quick-fire pause): <think>
+Will: A shareholders' agreement binds only its parties; the articles bind every present and future member.
+Hannah: What's the summary for removing a director and forcing a meeting?
+Will (quick-fire pause): <think>
+Will: A director goes by ordinary resolution at a meeting after special notice; members with 5 per cent of paid-up voting capital can force the meeting.
+Hannah: What's the summary for protecting a director from removal?
+Will (quick-fire pause): <think>
+Will: The articles can't raise the majority, but weighted votes can protect a director-shareholder; removal breaching a unanimity agreement still stands.
+Hannah: What's the summary for paying a director for loss of office?
+Will (quick-fire pause): <think>
+Will: A payment the company is legally obliged to make needs no members' approval; a gratuitous loss-of-office payment over £200 needs an ordinary resolution first.
+Hannah: What's the summary for derivative claims?
+Will (quick-fire pause): <think>
+Will: The company sues for wrongs to it; a member's derivative claim needs the court's permission, and any remedy goes to the company.
+Hannah: What's the summary for unfair prejudice petitions?
+Will (quick-fire pause): <think>
+Will: Conduct must be prejudicial to his interests as a member and unfair; the usual order is a fair-value buy-out, and after a reasonable fair-value offer, petitioning usually fails.
+Hannah: What's the summary for winding up on the just and equitable ground?
+Will (quick-fire pause): <think>
+Will: Just and equitable winding up ends the company and is a last resort: it may be refused if he's unreasonably not pursuing another remedy.
+Hannah: And what's the one sentence that decides most of this workshop's questions?
+Will: Count the votes and ask whose right it is: a member enforces his own membership rights, a wrong to the company is the company's claim, and unfair prejudice usually ends in a fair-value buy-out.

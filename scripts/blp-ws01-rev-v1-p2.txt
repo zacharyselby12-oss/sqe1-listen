@@ -1,0 +1,274 @@
+---
+id: blp-ws01-rev-v1-p2
+unit: u-bpp-BLP-01
+guide_hash: 508683ca4a
+made: 2026-11-13T08:43:26+00:00
+kind: revision
+title: BLP WS01 (2 of 2) · Revision · 20 min
+part: 2 of 2
+blocks: 9-13
+map:
+- LLPs: nature, characteristics, formation and registration
+- LLP members and designated members
+- The LLP agreement and the default rules (LLP Regulations 2001)
+- Taxation of LLPs
+- Acting for founders and companies; company distributions
+recap:
+- Members risk only their capital and agreed winding-up contribution, except: a guarantee or assumed-responsibility negligence, wrongful or fraudulent trading, two-year clawback on the knowledge test, and a knowing sole member, for debts after six months.
+- If fewer than two are designated, every member is a designated member; and a member's notice means he leaves and the LLP continues, where a partnership at will dissolves.
+- Where the agreement is silent, LLP defaults apply, not the Partnership Act: equal shares in capital and profits, no loss contribution beyond what's agreed, and no expulsion without express power.
+- A trading LLP is tax transparent although it's a body corporate, so each member is taxed only on his own share, but the LLP itself is the VAT-registered person.
+- A client conflict bars you unless an exception applies and all three conditions are met; an own-interest conflict always bars you; a distribution needs available profits in the relevant accounts.
+summary: An LLP is a body corporate liable for its own debts but taxed like a partnership, with its own default rules; and a client conflict bars acting without an exception and all three conditions, while a company distribution needs available profits.
+invented:
+- Priya
+- Tom
+- Ravi
+- eight months
+- the seventh month
+- Maya
+- Jack
+guide_only: []
+---
+
+## Map
+
+Will: This is the second half of the first business workshop; part one covered choosing a vehicle and partnerships. The big question: what is an LLP, how is it run and taxed, and what must you watch when acting for business clients and paying company distributions?
+
+Hannah: How many areas does this half have, and how are they grouped?
+
+Will: Five, in two groups. Limited liability partnerships take four: what an LLP is and how it's formed, its members, its agreement and default rules, and its tax. Then acting for business clients, with company distributions, is the fifth.
+
+## Block 9: LLPs: nature, characteristics, formation and registration
+
+Will: First, an LLP's nature, formation and registration. An LLP is a body corporate, formed by registration at Companies House by two or more persons associated for carrying on a lawful business with a view to profit. So it can't be used for a non-profit activity.
+
+Hannah: What does being a body corporate give it?
+
+Will: Separate legal personality and unlimited capacity, so the LLP is liable for its own debts. It has no share capital and no capital maintenance rules; payouts follow the members' agreement. It's a hybrid: taxed as if it were a partnership, with individual members paying income tax on their profit shares, yet with limited liability, and filing accounts and a confirmation statement publicly, like a company.
+
+Hannah: How is an LLP actually formed?
+
+Will: By delivering to the registrar an incorporation document subscribed by at least two persons. It states the name, ending "LLP" or "limited liability partnership", the registered office and the registered email address. It names the members, with verified identity for individuals and a statement that none is disqualified, and the designated members, or says that every member is designated. It exists from the date on the certificate of incorporation, not the delivery date, and the certificate is conclusive evidence the registration requirements were met.
+
+Hannah: What must it file after that?
+
+Will: Changes of members or their details go to Companies House. The limit is fourteen days. It also files changes of name, registered office or email, any charges, and an annual confirmation statement. Its accounts follow the Companies Act accounting and audit regime, with modifications: prepared, signed on behalf of the members, and filed with the registrar. The deadline is nine months. The designated members are responsible, and small LLPs can claim audit exemption.
+
+Hannah: Now the key question: how far are members liable for the LLP's debts?
+
+Will: Members risk only the capital they've put in and, in a winding up, contribute only what they've agreed to contribute. The exceptions to that include personal guarantees, wrongful or fraudulent trading, which apply to members, and clawback of withdrawals.
+
+Hannah: How does clawback work?
+
+Will: It reaches withdrawals made in the two years before winding up, up to the amount withdrawn. The window is two years. But the member must have known, or had reasonable grounds to believe, that the LLP was, or would become as a result, unable to pay its debts. And he must have known, or ought to have concluded, that there was no reasonable prospect of avoiding insolvent liquidation. So the trap is thinking timing alone is enough: without that knowledge, there's no clawback.
+
+Hannah: Can a member also be liable for his own wrongs?
+
+Will: Yes, in tort: he may be personally liable for his own negligence if he assumed personal responsibility to the claimant. And the LLP is liable to the same extent as the member for his wrongful acts in the course of its business. One more exception, for a member on his own over six months, comes next.
+
+Hannah (summing up): Members risk only their capital and agreed winding-up contribution, except: a guarantee or assumed-responsibility negligence, wrongful or fraudulent trading, two-year clawback on the knowledge test, and a knowing sole member, for debts after six months.
+
+Will: Yes: limited liability is the rule, and those are the ways past it.
+
+## Block 10: LLP members and designated members
+
+Hannah: Before the members, a question on clawback. Priya withdrew money eighteen months before her LLP's winding up, when its accounts showed it could pay its debts and nothing suggested otherwise. Can the liquidator make her contribute?
+
+Will (scenario pause): <think>
+
+Will: No. The withdrawal was inside the window, but she had no knowledge, and no reasonable grounds to believe, that the LLP was or would become unable to pay its debts. The tempting answer is that timing alone is enough.
+
+Hannah: Right: without the knowledge, the date of the withdrawal never decides it.
+
+Will: Now, members and designated members. Membership comes from subscribing the incorporation document, unless the subscriber has died or been dissolved, or later by agreement with the members. But a disqualified person can't become a member without the court's permission or a licence.
+
+Hannah: What happens when a member gives notice to leave?
+
+Will: The member leaves and the LLP continues; contrast a partnership at will, which dissolves. A member's death or bankruptcy doesn't end the LLP either; the share is dealt with under the agreement. But a former member is still treated as a member until the third party has notice or Companies House is notified.
+
+Hannah: And who are the designated members?
+
+Will: An LLP must have at least two, and they're responsible for filing: the accounts, the confirmation statement and notices of change. They also act on a winding up. If there would otherwise be no designated members, or only one, every member is a designated member. Say there are three members, and the incorporation document designates only one: all three are designated members, not just the one named.
+
+Hannah: What if the LLP is down to a single member?
+
+Will: It can carry on, so the trap is thinking it must always have two members. The danger is carrying on business with fewer than two members for more than six months.
+
+Hannah: And what happens to a member once that time has passed?
+
+Will: A person who is a member after those six months, and knows it has only one member, is jointly and severally liable with the LLP for debts incurred after the six months.
+
+Hannah (summing up): If fewer than two are designated, every member is a designated member; and a member's notice means he leaves and the LLP continues, where a partnership at will dissolves.
+
+Will: Right: the statute fills the gap, and a departure doesn't end the LLP.
+
+## Block 11: The LLP agreement and the default rules (LLP Regulations 2001)
+
+Hannah: Before the LLP agreement, a question on members. Ravi leaves his two-member LLP, and Tom trades on alone for eight months, knowing he's the only member. A supplier's bill from the seventh month goes unpaid. Is Tom personally liable for it?
+
+Will (scenario pause): <think>
+
+Will: Yes, jointly and severally with the LLP: the debt was incurred after the six months, while he was a member who knew it had only one member. The tempting answer is that limited liability protects him.
+
+Hannah: Yes: past the six months, a member who knows he's the only one is jointly and severally liable with the LLP for later debts.
+
+Will: Now, the LLP agreement and the default rules. The LLP's filed constitutional document is its incorporation document; the members' own LLP agreement is optional and private.
+
+Hannah: Where that agreement is silent, what fills the gap?
+
+Will: The default rules in the LLP Regulations, not the Partnership Act. That's the deciding point: never reach for the partnership defaults.
+
+Hannah: What do the LLP defaults say about money?
+
+Will: Members share equally in capital and profits, and they aren't entitled to remuneration. Unlike partners, they have no default obligation to contribute to losses beyond their agreed contribution. And the LLP must indemnify a member for payments and personal liabilities incurred in the ordinary and proper conduct of its business, or in or about anything necessarily done to preserve its business or property. These defaults govern only the members and the LLP between themselves, not liability for its debts.
+
+Hannah: And what about new members, expulsion and competition?
+
+Will: Admitting a member, or assigning a member's interest, needs all the members. There's no expulsion without an express power. And a member who carries on a competing business of the same nature without the LLP's consent must account for and pay over its profits to the LLP. For a partner, the missing consent is the other partners'.
+
+Hannah (summing up): Where the agreement is silent, LLP defaults apply, not the Partnership Act: equal shares in capital and profits, no loss contribution beyond what's agreed, and no expulsion without express power.
+
+Will: Yes: the LLP's own defaults, never the partnership ones.
+
+## Block 12: Taxation of LLPs
+
+Hannah: Before taxation, a question on the default rules. Maya's three-member LLP has no members' agreement; she runs a competing business without consent, and the other two vote to expel her. What's their best remedy?
+
+Will (scenario pause): <think>
+
+Will: Require her to account for her competing-business profits and pay them over to the LLP. The tempting answer is expulsion, but with no express power, there's no expulsion.
+
+Hannah: That's it: she stays a member, but the profits go to the LLP.
+
+Will: Now, the taxation of LLPs. A trading LLP is tax transparent although it's a body corporate, so it pays no corporation tax.
+
+Hannah: Then who pays tax on its profits and gains?
+
+Will: The members. An LLP carrying on a business with a view to profit pays no income tax or capital gains tax itself. Each member is taxed individually on his own share of the profits and gains, and is liable only for the tax on his own share. For VAT, though, the LLP itself is the registered person.
+
+Hannah: And what about stamp duty land tax when land moves into an LLP?
+
+Will: A transfer of land to a new LLP is free of SDLT only on strict conditions, and SDLT may arise on a later transfer of an interest in the LLP.
+
+Hannah (summing up): A trading LLP is tax transparent although it's a body corporate, so each member is taxed only on his own share, but the LLP itself is the VAT-registered person.
+
+Will: Right: transparent for the members' tax, but the LLP registers for VAT.
+
+## Block 13: Acting for founders and companies; company distributions
+
+Hannah: Before acting for founders, a question mixing tax and liability. A profitable trading LLP has two members. As a body corporate, does it pay corporation tax, and is each member liable for the other's tax?
+
+Will (scenario pause): <think>
+
+Will: Neither. A trading LLP is transparent, so it pays no corporation tax, and each member is liable only for the tax on his own share. The tempting answer treats it like a company because of its separate personality.
+
+Hannah: Yes: separate personality for its debts, partnership treatment for its tax.
+
+Will: Now, acting for founders and companies, then distributions. When you act for a company, the client is the company itself, acting through its board. Directors and shareholders aren't your clients merely because they give instructions, and instructions must come from someone the company has authorised.
+
+Hannah: What checks come before you act for a company?
+
+Will: Customer due diligence, including when you're forming one, in three steps. First, identify and verify the company. Second, identify its beneficial owners and take reasonable measures to verify them. Third, report to Companies House any material discrepancy between the information you hold and its register.
+
+Hannah: Who counts as a beneficial owner?
+
+Will: The threshold is more than twenty-five per cent. That's any individual owning or controlling more than that of the shares or votes, or otherwise exercising control.
+
+Hannah: Now conflicts: when can't you act for two clients at once?
+
+Will: You mustn't act for two or more clients on the same or a related matter where there's a conflict, or a significant risk of one, between them. For example, a company and its director on his service contract or a substantial property transaction, or the buyer and seller of shares. The only way round it is one of two narrow exceptions.
+
+Hannah: What are the two exceptions?
+
+Will: One: a substantially common interest, meaning a clear common purpose between the clients and a strong consensus on how to achieve it. Two: competing for the same objective, meaning the same asset, contract or business opportunity, such as two bidders for the same business. That must be through an insolvency process, an auction, a tender, or a bid or offer that isn't a public takeover.
+
+Hannah: Once an exception applies, can you simply go ahead?
+
+Will: Not yet: three conditions must all be met. One, every client has given informed consent, given or evidenced in writing. Two, effective safeguards protect their confidential information, where appropriate. Three, you're satisfied it's reasonable to act for all of them. Opposed negotiations fit neither exception: buyer and seller of shares, or company and director on his service contract or a loan. There the firm can't act for both.
+
+Hannah: How does that apply to founders setting up a business together?
+
+Will: Acting for several founders setting up a partnership, LLP or company is a conflict where your duties to each conflict. For example, they disagree on capital, profit share, control or exit. You may act for all only if they have a substantially common interest and all three conditions are met; otherwise, advise separate representation.
+
+Hannah: And what if the conflict is with your own interests?
+
+Will: You mustn't act where there's an own-interest conflict or a significant risk of one. That's where your duty to act in the client's best interests in the matter conflicts or may conflict with your own or your firm's interests. For example, you hold shares in the client company and the matter affects that interest. Unlike a client conflict, there are no exceptions, and the client's consent doesn't cure it.
+
+Hannah: What does confidentiality add when clients' interests are adverse?
+
+Will: You must keep each client's affairs confidential. And you mustn't act for a client whose interests in a matter are adverse to those of a current or former client, where you or your firm hold that client's confidential information material to the matter.
+
+Hannah: Is there any way round that bar?
+
+Will: Two. Either effective measures have been taken which mean there's no real risk of disclosure, or the client whose information you hold has given informed consent, given or evidenced in writing, to your acting, including to the measures taken.
+
+Hannah: Now company distributions. What counts as a distribution?
+
+Will: Every distribution of a company's assets to its members, in cash or otherwise, with four exceptions: an issue of fully or partly paid bonus shares; a reduction of capital; a redemption or buyback out of capital, or the proceeds of a fresh issue, or unrealised profits; and a distribution of assets on a winding up. Those four fall outside the distributable-profits rule.
+
+Hannah: How do you tell whether profits are available?
+
+Will: From the relevant accounts: the last annual accounts, or interim accounts if they're needed to justify the distribution, or initial accounts in the first year.
+
+Hannah: And what if a member receives a distribution that breaks the rules?
+
+Will: He must repay it if he knew, or had reasonable grounds to believe, that it contravened the Act; knowing the facts is enough, and ignorance of the law is no defence. Directors who caused it are strictly liable, jointly and severally, to restore the full amount. But the court may relieve a director who acted honestly and reasonably and ought fairly to be excused.
+
+Hannah: Does a shareholder have any right to a dividend before one is declared?
+
+Will: None until it's declared. A declared final dividend becomes a debt owed to the shareholder, but in a liquidation a member's claim for a declared, unpaid dividend ranks after all other creditors.
+
+Hannah: And how is a bonus issue made under the Model Articles?
+
+Will: A bonus, or capitalisation, issue needs an ordinary resolution authorising the directors to capitalise profits or reserves, including share premium. Fully paid shares are issued pro rata. It isn't a cash distribution, and pre-emption doesn't apply.
+
+Hannah (summing up): A client conflict bars you unless an exception applies and all three conditions are met; an own-interest conflict always bars you; a distribution needs available profits in the relevant accounts.
+
+Will: Right: narrow ways round a client conflict, none round your own interest, and available profits before any distribution.
+
+## Recap
+
+Hannah: One last question, on distributions. Jack receives a dividend. He knew the company's accounts showed no available profits, but he didn't know that made the payment unlawful. Must he repay it?
+
+Will (scenario pause): <think>
+
+Will: Yes. He knew the facts that made it unlawful, and that's enough; ignorance of the law is no defence. The tempting answer is that he's safe because he didn't know the law.
+
+Hannah: Correct: the facts he knew decide it, so he repays.
+
+Will: Now the quick-fire round, area by area.
+
+Hannah: What's the summary for what an LLP is, and how far its members are liable?
+
+Will (quick-fire pause): <think>
+
+Will: Members risk only their capital and agreed winding-up contribution, except: a guarantee or assumed-responsibility negligence, wrongful or fraudulent trading, two-year clawback on the knowledge test, and a knowing sole member, for debts after six months.
+
+Hannah: What's the summary for an LLP's members and designated members?
+
+Will (quick-fire pause): <think>
+
+Will: If fewer than two are designated, every member is a designated member; and a member's notice means he leaves and the LLP continues, where a partnership at will dissolves.
+
+Hannah: What's the summary for the LLP agreement and the default rules?
+
+Will (quick-fire pause): <think>
+
+Will: Where the agreement is silent, LLP defaults apply, not the Partnership Act: equal shares in capital and profits, no loss contribution beyond what's agreed, and no expulsion without express power.
+
+Hannah: What's the summary for how LLPs are taxed?
+
+Will (quick-fire pause): <think>
+
+Will: A trading LLP is tax transparent although it's a body corporate, so each member is taxed only on his own share, but the LLP itself is the VAT-registered person.
+
+Hannah: What's the summary for acting for founders and companies, and for company distributions?
+
+Will (quick-fire pause): <think>
+
+Will: A client conflict bars you unless an exception applies and all three conditions are met; an own-interest conflict always bars you; a distribution needs available profits in the relevant accounts.
+
+Hannah: And how would you put this whole half of the workshop in one sentence?
+
+Will: An LLP is a body corporate liable for its own debts but taxed like a partnership, with its own default rules; and a client conflict bars acting without an exception and all three conditions, while a company distribution needs available profits.

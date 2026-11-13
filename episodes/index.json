@@ -3382,6 +3382,222 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws08-accounts-v1-045f0377.mp3",
       "siteAudio": "audio/blp-ws08-accounts-v1-045f0377.mp3",
       "pubDate": "2026-11-12T21:44:36+00:00"
+    },
+    {
+      "id": "blp-ws01-rev-v1",
+      "unitId": "u-bpp-BLP-01",
+      "title": "BLP WS01 (1 of 2) · Revision · 22 min",
+      "guideHash": "508683ca4a",
+      "script": "scripts/blp-ws01-rev-v1.txt",
+      "scriptHash": "82318b449cf8",
+      "audio": "audio/blp-ws01-rev-v1.mp3",
+      "recap": [
+        "Only companies and LLPs give limited liability and, generally, a floating charge; sole traders and partnerships get privacy and informality, but unlimited liability.",
+        "Carrying on a business in common with a view of profit makes a partnership, whatever anyone intends; a profit share is evidence of one, but not conclusive.",
+        "Without the others' consent, a partner accounts for benefits from firm transactions or its property, name or connection, and for all profits of a competing business of the same nature.",
+        "A retiring partner stays liable for debts incurred before he retired unless a novation with the creditor releases him; an indemnity from the continuing partners doesn't stop the creditor.",
+        "A partner's usual-way act for the firm's kind of business binds it, unless he lacked authority and the third party knew that, or didn't know or believe him a partner.",
+        "Partners, not the firm, are taxed, each only on his own profit share; partners' salaries and interest on capital are allocations of profit, not deductible expenses.",
+        "Unless agreed otherwise, profits and losses are shared equally and ordinary matters go to a majority by number; admitting a partner needs everyone, and expulsion needs an express power.",
+        "Unless otherwise agreed, assets go to outside creditors, then to partners' advances and then capital, each rateably; the residue follows profit-sharing proportions."
+      ],
+      "map": [
+        "Choosing a business vehicle: sole trader, partnership, LLP or company",
+        "Forming a partnership: definition and when one exists",
+        "Partners' fiduciary duties and good faith",
+        "Partners' liability: contract, tort, incoming, outgoing and holding out",
+        "Partners' authority: contracts binding the firm",
+        "Taxation of partnerships",
+        "The partnership agreement and the Partnership Act 1890 default terms",
+        "Dissolution and distribution of assets"
+      ],
+      "summary": "Only companies and LLPs give limited liability; partners are personally liable for firm debts incurred while they're partners, and, unless the agreement says otherwise, the Partnership Act 1890 defaults decide profit shares, management and the order of payment on dissolution.",
+      "madeAt": "2026-11-13T08:43:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck 69/69 items claimed or guide_only, about 22.3 min); known-error scan 0 left (3 matches judged not the error by Opus triage); opus x2 (4 fixes: distortion, scenario, omission, line); changed lines verified by a fresh Opus check: pass; code checks again: ok | r202611130319 (guide changed, re-stamp 99ac71fae2 -> 508683ca4a): pfix scan 12 hits on 10 lines; one script-revise (no line changed in this part); code checks ok; known-error scan 0 left (3 matches judged not the error by Opus triage); all 12 hit lines verified by a fresh Opus changed-lines check: pass",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "blp-ws01-rev-v1-p2",
+      "unitId": "u-bpp-BLP-01",
+      "title": "BLP WS01 (2 of 2) · Revision · 20 min",
+      "guideHash": "508683ca4a",
+      "script": "scripts/blp-ws01-rev-v1-p2.txt",
+      "scriptHash": "79c603bce0f6",
+      "audio": "audio/blp-ws01-rev-v1-p2.mp3",
+      "recap": [
+        "Members risk only their capital and agreed winding-up contribution, except: a guarantee or assumed-responsibility negligence, wrongful or fraudulent trading, two-year clawback on the knowledge test, and a knowing sole member, for debts after six months.",
+        "If fewer than two are designated, every member is a designated member; and a member's notice means he leaves and the LLP continues, where a partnership at will dissolves.",
+        "Where the agreement is silent, LLP defaults apply, not the Partnership Act: equal shares in capital and profits, no loss contribution beyond what's agreed, and no expulsion without express power.",
+        "A trading LLP is tax transparent although it's a body corporate, so each member is taxed only on his own share, but the LLP itself is the VAT-registered person.",
+        "A client conflict bars you unless an exception applies and all three conditions are met; an own-interest conflict always bars you; a distribution needs available profits in the relevant accounts."
+      ],
+      "map": [
+        "LLPs: nature, characteristics, formation and registration",
+        "LLP members and designated members",
+        "The LLP agreement and the default rules (LLP Regulations 2001)",
+        "Taxation of LLPs",
+        "Acting for founders and companies; company distributions"
+      ],
+      "summary": "An LLP is a body corporate liable for its own debts but taxed like a partnership, with its own default rules; and a client conflict bars acting without an exception and all three conditions, while a company distribution needs available profits.",
+      "madeAt": "2026-11-13T08:43:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck 33/33 items, about 19.7 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2: both pass, no fixes | r202611130319 (guide changed, re-stamp 99ac71fae2 -> 508683ca4a): pfix scan 12 hits on 10 lines; one script-revise (1 line changed in this part); code checks ok; known-error scan 0 left (3 matches judged not the error by Opus triage); all 12 hit lines verified by a fresh Opus changed-lines check: pass",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b9",
+        "b10",
+        "b11",
+        "b12",
+        "b13"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "blp-ws04-rev-v1",
+      "unitId": "u-bpp-BLP-04",
+      "title": "BLP WS04 · Revision · 24 min",
+      "guideHash": "af386d27de",
+      "script": "scripts/blp-ws04-rev-v1.txt",
+      "scriptHash": "240e740010cb",
+      "audio": "audio/blp-ws04-rev-v1.mp3",
+      "recap": [
+        "A member enforces the articles only for rights held as a member, usually by injunction or declaration, not outsider rights.",
+        "More than half passes an ordinary resolution, exactly half only blocks it; at least three-quarters passes a special resolution, more than a quarter blocks it.",
+        "A shareholders' agreement binds only its parties; the articles bind every present and future member.",
+        "A director goes by ordinary resolution at a meeting after special notice; members with 5 per cent of paid-up voting capital can force the meeting.",
+        "The articles can't raise the majority, but weighted votes can protect a director-shareholder; removal breaching a unanimity agreement still stands.",
+        "A payment the company is legally obliged to make needs no members' approval; a gratuitous loss-of-office payment over £200 needs an ordinary resolution first.",
+        "The company sues for wrongs to it; a member's derivative claim needs the court's permission, and any remedy goes to the company.",
+        "Conduct must be prejudicial to his interests as a member and unfair; the usual order is a fair-value buy-out, and after a reasonable fair-value offer, petitioning usually fails.",
+        "Just and equitable winding up ends the company and is a last resort: it may be refused if he's unreasonably not pursuing another remedy."
+      ],
+      "map": [
+        "Membership rights and the articles",
+        "Shareholding thresholds and voting",
+        "Shareholders' agreements",
+        "Removing a director and forcing a meeting",
+        "Protecting a director from removal",
+        "Compensation for loss of office",
+        "Derivative claims",
+        "Unfair prejudice petitions",
+        "Just and equitable winding up; choosing the remedy"
+      ],
+      "summary": "Count the votes and ask whose right it is: a member enforces his own membership rights, a wrong to the company is the company's claim, and unfair prejudice usually ends in a fair-value buy-out.",
+      "madeAt": "2026-11-13T08:43:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (v2.3, revision shape); revcheck ok 62/62 items; known-error scan: 1 phrase match (s 239 votes) cleared by the Opus accuracy check; Opus accuracy + line-by-line (3 + 3 problems), 4 fixes applied; one script-revise of a turn-order error; changed lines verified (pass, 0); final code checks and known-error scan ok",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "blp-ws05-rev-v1",
+      "unitId": "u-bpp-BLP-05",
+      "title": "BLP WS05 (part 1 of 2) · Revision · 22 min",
+      "guideHash": "7bbd7faaf5",
+      "script": "scripts/blp-ws05-rev-v1.txt",
+      "scriptHash": "05a8d45f2d49",
+      "audio": "audio/blp-ws05-rev-v1.mp3",
+      "recap": [
+        "A specified activity in a specified investment, by way of business, is regulated; an exclusion takes it out altogether, and Part XX matters only where none applies.",
+        "Inviting investment in the course of business needs an authorised person, authorised approval or an exemption; and offering shares to the public in the UK is unlawful unless the offer falls within an exception.",
+        "Shares can't be allotted at a discount to nominal value, and any premium goes to the share premium account; only a public company needs non-cash consideration independently valued.",
+        "Follow the articles' variation provision; if there's none, the class consents in writing, by at least 75% in nominal value, or by special resolution at a separate class meeting.",
+        "Dividends come only from profits available for distribution; under the Model Articles, shareholders declare a final dividend only on the directors' recommendation and never above it, and directors decide interims."
+      ],
+      "map": [
+        "Financial services: the general prohibition and the FSMA decision tree",
+        "Offering shares: financial promotion and offers to the public",
+        "Share capital, methods of financing and the nature of a share",
+        "Classes of shares and variation of class rights",
+        "Dividends and distributable profits"
+      ],
+      "summary": "Most questions here turn on two things: work through the investment rules in order, with exclusions before Part XX, and keep the company's capital intact, with no shares below nominal value and dividends only from profits available for distribution.",
+      "madeAt": "2026-11-13T08:43:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck 37/37 items claimed or guide_only, about 22.1 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2 (accuracy: 2 distortions; line-by-line: 2 problems) fixed by fixflow; changed lines verified by a fresh Opus check: 2 findings (one-liner scope and its confirming turn) fixed in targeted round 1, verified by a fresh Opus check: pass; code checks and known-error scan again: ok",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "blp-ws05-rev-v1-p2",
+      "unitId": "u-bpp-BLP-05",
+      "title": "BLP WS05 (part 2 of 2) · Revision · 20 min",
+      "guideHash": "7bbd7faaf5",
+      "script": "scripts/blp-ws05-rev-v1-p2.txt",
+      "scriptHash": "7a541c9cb697",
+      "audio": "audio/blp-ws05-rev-v1-p2.mp3",
+      "recap": [
+        "A transferee becomes a member only on entry in the register; within 2 months of lodging, the company must register the transfer or give notice of refusal with reasons.",
+        "Unless pre-emption is excluded or disapplied, equity securities allotted wholly for cash outside employee share schemes must first be offered to existing ordinary shareholders pro rata on the same or more favourable terms, open for at least 14 days.",
+        "A public company and its subsidiaries mustn't give financial assistance for acquiring the company's shares, unless an exception applies.",
+        "A buyback is funded from distributable profits or a fresh issue made for the purpose; capital is for private companies only, under the capital procedure or articles-authorised de minimis.",
+        "Apart from de minimis, a private company may use capital only for the permissible capital payment: the price less available distributable profits and fresh issue proceeds for the purpose."
+      ],
+      "map": [
+        "Transfer and transmission of shares",
+        "Allotting shares: cap, authority, pre-emption and filings",
+        "Financial assistance",
+        "Buybacks: capital maintenance, and funding from profits or a fresh issue",
+        "Buyback or redemption out of capital; redeemable shares"
+      ],
+      "summary": "Most questions here turn on procedure and money: the register makes a member, directors need authority before allotting, and buybacks come from distributable profits or a fresh issue made for the purpose, with capital only for a private company.",
+      "madeAt": "2026-11-13T08:43:26+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck 41/41 items claimed or guide_only, about 20.0 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2 (accuracy: 1 scenario; line-by-line: 4 problems) fixed by fixflow plus one script-revise (a 5-item list turn); changed lines verified by a fresh Opus check: 2 findings (the starred pre-emption one-liner and its confirming turn) fixed in targeted round 1, verified by a fresh Opus check: pass; code checks and known-error scan again: ok",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b6",
+        "b7",
+        "b8",
+        "b10",
+        "b11"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

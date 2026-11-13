@@ -1,0 +1,168 @@
+---
+id: blp-ws05-rev-v1-p2
+unit: u-bpp-BLP-05
+guide_hash: 7bbd7faaf5
+made: 2026-11-13T08:43:26+00:00
+kind: revision
+part: 2 of 2
+blocks: 6-10
+title: BLP WS05 (part 2 of 2) · Revision · 20 min
+map:
+- Transfer and transmission of shares
+- Allotting shares: cap, authority, pre-emption and filings
+- Financial assistance
+- Buybacks: capital maintenance, and funding from profits or a fresh issue
+- Buyback or redemption out of capital; redeemable shares
+recap:
+- A transferee becomes a member only on entry in the register; within 2 months of lodging, the company must register the transfer or give notice of refusal with reasons.
+- Unless pre-emption is excluded or disapplied, equity securities allotted wholly for cash outside employee share schemes must first be offered to existing ordinary shareholders pro rata on the same or more favourable terms, open for at least 14 days.
+- A public company and its subsidiaries mustn't give financial assistance for acquiring the company's shares, unless an exception applies.
+- A buyback is funded from distributable profits or a fresh issue made for the purpose; capital is for private companies only, under the capital procedure or articles-authorised de minimis.
+- Apart from de minimis, a private company may use capital only for the permissible capital payment: the price less available distributable profits and fresh issue proceeds for the purpose.
+summary: Most questions here turn on procedure and money: the register makes a member, directors need authority before allotting, and buybacks come from distributable profits or a fresh issue made for the purpose, with capital only for a private company.
+invented:
+- Oliver
+- ten weeks
+- Willowmere Ltd
+- Linden plc
+- Hazel Ltd
+- Juniper Ltd
+- £60,000
+- £25,000
+- £10,000
+guide_only: []
+---
+## Map
+Will: This is part two of two; part one covered financial services, share capital, class rights and dividends. The big question here: how do shares move, get created and come back to the company, and where must the money come from? Five areas, in two groups.
+Hannah: What's in the first group?
+Will: The rest of equity finance: transfer and transmission of shares, allotting new shares, and financial assistance.
+Hannah: And what does the second group cover?
+Will: Buying back and redeeming shares: first funded from profits or a fresh issue, then out of capital.
+Hannah: So where do we start?
+
+## Block 6: Transfer and transmission of shares
+Will: With transfer and transmission of shares: when does a buyer become a member, and what happens on death or bankruptcy? Shares are transferred by a proper instrument of transfer, usually a stock transfer form, delivered with the share certificate. The transferee becomes a member only when entered on the register of members.
+Hannah: Can the company refuse to register the transfer?
+Will: Under the Model Articles the directors may refuse. But under the Act the company must either register the transfer or give the transferee notice of refusal, with reasons. It must do that within 2 months of the transfer being lodged. Stamp duty is payable on a paper transfer above a threshold, and the exam gives you those figures.
+Hannah: How is a transfer different from an allotment?
+Will: On an allotment, the allottee acquires the unconditional right to be entered in the register, and the shares are issued on entry. On a transfer, shares already in issue pass by an instrument of transfer. So ask: is the company allotting, or is a member transferring?
+Hannah: What else should I know about the register?
+Will: New members from an allotment must be entered within 2 months of it, too. Anyone may inspect the register, members free and others for a fee, and the company must comply or apply to court for an order that the request isn't for a proper purpose.
+Hannah: And when a shareholder dies or goes bankrupt?
+Will: On death, the shares pass by transmission to the personal representatives, who may elect to become registered or to transfer them to someone else. Until registered, they're entitled to dividends but can't attend or vote at general meetings. A trustee in bankruptcy is in the same position.
+Hannah: Does a member who wants to sell have to offer the shares to the other members first?
+Will: Only where the articles or a shareholders' agreement provide it, and the Model Articles don't. Statutory pre-emption applies only to allotments of equity securities, including a sale of ordinary shares held in treasury.
+Hannah (summing up): A transferee becomes a member only on entry in the register; within 2 months of lodging, the company must register the transfer or give notice of refusal with reasons.
+Will: Yes: the register makes the member, and the company has a deadline to act.
+
+## Block 7: Allotting shares: cap, authority, pre-emption and filings
+Hannah: Before allotting shares, a question on transfers: Oliver lodges a stock transfer form with the share certificate, and ten weeks later the company has neither registered him nor replied. Is Oliver a member, and is the company in breach?
+Will (scenario pause): <think>
+Will: He isn't a member: a transferee becomes one only on entry in the register. And the company is in breach: it had to register the transfer, or give notice of refusal with reasons, within 2 months of lodging. The tempting answer is that handing over the form made him a member; it doesn't.
+Hannah: Yes: no entry, no membership, and the company missed its deadline.
+Will: Now allotting shares: what must happen before directors allot, and what must follow? Take it in order: any cap, then the directors' authority, then pre-emption. On the cap: an older company, incorporated under the previous Act, needs an ordinary resolution before its directors can use the one-class power. And any authorised share capital limit in its old memorandum is treated as a restriction in its articles, removable by ordinary resolution.
+Hannah: When do the directors have authority to allot?
+Will: Directors mustn't allot shares unless authorised. A private company with only one class of shares, before and after the allotment, may allot more of that class unless its articles prohibit it. Otherwise, authority must come from the articles or an ordinary resolution stating the maximum number of shares and an expiry date. That's no more than five years ahead, and it's renewable.
+Hannah: And once they have authority, who must be offered the shares first?
+Will: Where a company allots equity securities wholly for cash, it must first offer them to existing ordinary shareholders, in proportion to their holdings, on the same or more favourable terms. The offer must remain open for at least 14 days. Keep that apart from authority: authority asks whether the directors may allot at all; pre-emption asks whether existing shareholders must be offered the shares first.
+Hannah: What counts as equity securities, and what's outside pre-emption?
+Will: Equity securities are ordinary shares, meaning shares whose rights to dividends and capital aren't limited to a specified amount, so fixed preference shares are outside; plus rights to subscribe for or convert into ordinary shares. Pre-emption doesn't apply to three things: bonus shares; allotments wholly or partly for non-cash consideration; and employee share scheme allotments.
+Hannah: Can a company switch pre-emption off?
+Will: Yes, in four ways. A private company may exclude it in its articles. Where directors allot under the one-class power or a general authority, it may be disapplied by the articles or a special resolution. For a specific allotment, it may be disapplied by special resolution recommended by the directors, with their written statement of reasons, the price and their justification of it circulated with it. And a public company can't exclude it in its articles, but can disapply it.
+Hannah: What happens when pre-emption rights are breached?
+Will: The allotment is still valid. But the company, and every officer who knowingly authorised or permitted the breach, are jointly and severally liable to compensate the shareholders who should have been offered the shares for their loss. Proceedings must be brought within two years. That runs from delivery of the return of allotment to the registrar.
+Hannah: What filings follow an allotment?
+Will: Five, on three deadlines. Within one month, the return of allotment goes to the registrar with a statement of capital; so do particulars of any new class of shares.
+Hannah: And which ones have two months?
+Will: Updating the register of members, and issuing the share certificates. Then there's any ordinary resolution giving the directors authority, or any special resolution. That's filed within 15 days.
+Hannah: Who counts as a person with significant control?
+Will: The test starts at more than 25%. It's an individual who directly or indirectly holds more than that of the shares, or of the voting rights; or has the right to appoint or remove a majority of the board; or has the right to exercise, or actually exercises, significant influence or control, including over a trust or firm that meets a condition.
+Hannah: And what must the company do about them?
+Will: Take reasonable steps to identify its PSCs, and any registrable relevant legal entities, and notify Companies House. That's within 14 days of confirming their status and particulars. It no longer keeps its own PSC register.
+Hannah (summing up): Unless pre-emption is excluded or disapplied, equity securities allotted wholly for cash outside employee share schemes must first be offered to existing ordinary shareholders pro rata on the same or more favourable terms, open for at least 14 days.
+Will: Yes: that's who must be offered the shares first, and on what terms. It's a separate question from authority, which decides whether the directors may allot at all.
+
+## Block 8: Financial assistance
+Hannah: Before financial assistance, a question on allotment: Willowmere Ltd, a private company with only ordinary shares, wants to allot preference shares, and its articles say nothing about allotment. Can the directors just go ahead?
+Will (scenario pause): <think>
+Will: No: the one-class power needs one class of shares before and after the allotment, and preference shares would make a second class. So the authority must come from the articles or an ordinary resolution. The tempting answer is that a private company's directors can always allot; that's only for more shares of its single class.
+Hannah: Yes: a new class takes it outside the one-class power, so they need an ordinary resolution or the articles.
+Will: Now financial assistance: can a company or its subsidiary help someone pay for the company's shares? A public company and its subsidiaries must not give financial assistance for acquiring its shares, unless an exception applies.
+Hannah: How does that differ from a buyback?
+Will: It's distinct from buybacks and reductions of capital, which have their own rules. Financial assistance is the company, or its subsidiary, helping someone else pay for the company's shares.
+Hannah (summing up): A public company and its subsidiaries mustn't give financial assistance for acquiring the company's shares, unless an exception applies.
+Will: Right: a public company or its subsidiary needs an exception before it helps anyone buy the shares.
+
+## Block 9: Buybacks: capital maintenance, and funding from profits or a fresh issue
+Hannah: Before buybacks, a question on financial assistance: Linden plc's subsidiary lends a buyer the money to buy Linden's shares. Is that allowed?
+Will (scenario pause): <think>
+Will: Not unless an exception applies: the prohibition covers a public company and its subsidiaries, so the subsidiary is caught. The tempting answer is that only the company whose shares are bought is restricted.
+Hannah: Right: the subsidiary is caught too, so it needs an exception.
+Will: Now buybacks: may the company buy back these shares, and how does it fund and approve the buyback? A limited company may buy back its own shares unless its articles restrict or prohibit it. The shares must be fully paid, and paid for on purchase, not on deferred terms, save for private company employee share schemes. And afterwards the company must still have issued shares other than redeemable or treasury shares.
+Hannah: How must a buyback be funded?
+Will: Out of distributable profits, or the proceeds of a fresh issue of shares made for the purpose. Any premium paid on the buyback must come from distributable profits, unless the shares were originally issued at a premium and a fresh issue is used.
+Hannah: And can a private company use capital?
+Will: Yes, by following the capital procedure. Or, where its articles authorise it, it can buy back out of capital without that procedure, within a limit. The limit is the lower of £15,000 or the nominal value of 5% of its fully paid share capital at the start of the financial year.
+Hannah: How is an off-market buyback approved?
+Will: By ordinary resolution before the contract is entered into, or with the contract made conditional on approval. The selling member isn't an eligible member for a written resolution. And at a meeting, the resolution is ineffective if it wouldn't have passed without the votes of the shares being bought.
+Hannah: Does anyone get to see the contract?
+Will: Yes: a copy or memorandum of it is circulated with a written resolution. For a meeting, it's available at the registered office. That's for 15 days before the meeting, and at it.
+Hannah: What happens after the buyback?
+Will: The shares are cancelled or, where bought out of distributable profits, may be held in treasury. A return is filed within 28 days. If the shares are cancelled, so is a notice of cancellation with a statement of capital, in the same time. Stamp duty is payable above a threshold the exam gives you.
+Hannah: Where does a capital redemption reserve come in?
+Will: Where shares are bought wholly out of profits, their nominal value is transferred to a capital redemption reserve, which is undistributable. The contract or memorandum is kept at the registered office, and any special resolution, such as one approving a payment out of capital, is filed within 15 days.
+Hannah (summing up): A buyback is funded from distributable profits or a fresh issue made for the purpose; capital is for private companies only, under the capital procedure or articles-authorised de minimis.
+Will: Yes: profits or a fresh issue for every company, and capital for a private company only.
+
+## Block 10: Buyback or redemption out of capital; redeemable shares
+Hannah: Before buybacks out of capital, a question mixing share capital and buybacks: Hazel plc buys back shares at a premium using a fresh issue made for the purpose, but the shares were originally issued at nominal value. Where must the premium come from?
+Will (scenario pause): <think>
+Will: From distributable profits. A fresh issue can fund the premium only where the shares were originally issued at a premium, and these weren't. The tempting answer is that the fresh issue covers everything because it was made for the purpose.
+Hannah: Yes: no original premium, so the premium comes out of distributable profits.
+Will: Now buyback or redemption out of capital: when may a private company use capital, and how? Only a private company may. Apart from the de minimis exception, which is for buybacks only and needs authority in the articles, it may use capital only for the permissible capital payment. That's the price less its available distributable profits and the proceeds of any fresh issue made for the purpose, so it must use those first.
+Hannah: How do I work out the permissible capital payment?
+Will: Three steps. Take the price. Take off the available distributable profits. Then take off the fresh issue proceeds. The exam gives you the figures, and what's left may come out of capital.
+Hannah: What's the procedure for paying out of capital?
+Will: Six steps, in four phases. First, approval. One: a directors' statement specifying the permissible capital payment, and stating that the company can pay its debts immediately after and for the following year, with an auditor's report. Two: a special resolution, passed on or within one week after the statement. The seller can't vote the shares being bought.
+Hannah: And what comes in the publicity phase?
+Will: Three: notice within 7 days of the resolution. It goes in the Gazette, and in a national newspaper or to each creditor. Four: the statement and auditor's report are filed by the date of the first notice.
+Hannah: Who can object, and how long do they have?
+Will: Five: members who didn't vote for it, and creditors, can apply to court to cancel it. They have 5 weeks.
+Hannah: And when can the company actually pay?
+Will: Six: no earlier than 5 and no later than 7 weeks after the resolution. In one line: approval, then publicity, then the objection window, then payment.
+Hannah: Which accounts is the payment worked out from?
+Will: Relevant accounts, prepared as at a date within the three months ending with the date of the directors' statement. They must allow a reasonable judgment of the company's distributable profits.
+Hannah: And what if the company goes insolvent afterwards?
+Will: Two consequences. A director who makes the solvency statement without reasonable grounds commits an offence. And if the company goes into insolvent liquidation within a year of the payment, the seller, to the extent of the capital payment, and the directors who signed the statement, unless they had reasonable grounds, can be made to contribute.
+Hannah: And how do redeemable shares work?
+Will: They must be issued as redeemable. A private company may issue them unless its articles exclude or restrict this, but a public company only where its articles authorise it. And there must be non-redeemable shares in issue.
+Hannah: When are they paid for, and who sets the terms?
+Will: They must be fully paid before redemption, and are paid for on redemption unless the terms of redemption let the company and the holder agree a later payment date. The directors may fix the terms, conditions and manner of redemption where the articles or a resolution of the company authorise them; otherwise they must be in the articles. Redemption is funded like a buyback, and the registrar is notified.
+Hannah: How do I tell a redemption from a buyback?
+Will: Ask whether the shares were issued as redeemable and are redeemed on their terms, or whether the company is buying them back under a contract, which needs an ordinary resolution before it's entered into, or must be made conditional on one.
+Hannah (summing up): Apart from de minimis, a private company may use capital only for the permissible capital payment: the price less available distributable profits and fresh issue proceeds for the purpose.
+Will: Right: profits and fresh issue money first, and capital only for the gap.
+
+## Recap
+Hannah: One last question, on buybacks out of capital: Juniper Ltd, a private company, buys back shares for £60,000. It has £25,000 of available distributable profits and raises £10,000 from a fresh issue made for the purpose. What's its permissible capital payment?
+Will (calculation pause): <think>
+Will: £25,000. That's the price, less the available profits and the fresh issue proceeds, which must be used first. The tempting answer is to pay the whole £60,000 out of capital, but capital only covers the gap.
+Hannah: Yes: profits and the fresh issue go first, and capital pays only what's left.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for transferring shares?
+Will (quick-fire pause): <think>
+Will: A transferee becomes a member only on entry in the register; within 2 months of lodging, the company must register the transfer or give notice of refusal with reasons.
+Hannah: What's the summary for allotting shares?
+Will (quick-fire pause): <think>
+Will: Unless pre-emption is excluded or disapplied, equity securities allotted wholly for cash outside employee share schemes must first be offered to existing ordinary shareholders pro rata on the same or more favourable terms, open for at least 14 days.
+Hannah: What's the summary for financial assistance?
+Will (quick-fire pause): <think>
+Will: A public company and its subsidiaries mustn't give financial assistance for acquiring the company's shares, unless an exception applies.
+Hannah: What's the summary for funding a buyback?
+Will (quick-fire pause): <think>
+Will: A buyback is funded from distributable profits or a fresh issue made for the purpose; capital is for private companies only, under the capital procedure or articles-authorised de minimis.
+Hannah: What's the summary for paying out of capital?
+Will (quick-fire pause): <think>
+Will: Apart from de minimis, a private company may use capital only for the permissible capital payment: the price less available distributable profits and fresh issue proceeds for the purpose.
+Hannah: And this part in one sentence: what decides most of its questions?
+Will: Most questions here turn on procedure and money: the register makes a member, directors need authority before allotting, and buybacks come from distributable profits or a fresh issue made for the purpose, with capital only for a private company.
