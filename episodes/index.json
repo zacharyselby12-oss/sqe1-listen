@@ -3690,7 +3690,7 @@
       ],
       "summary": "Classify first, by who is taxed and on what event; then check whether the facts meet the relief's conditions, such as control, the right assets, the time limits and a claim.",
       "madeAt": "2026-11-13T12:43:29+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revision shape; revcheck 138/138 items); known-error scan 0 hits; Opus accuracy + line-by-line (8 + 12 problems), 15 fixes applied; one revision for 5 mechanical code errors; changed lines: 1 problem, fixed in targeted round 1, verified (pass); final code checks and known-error scan ok",
@@ -3714,7 +3714,16 @@
         "b18",
         "b19"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12003948,
+      "seconds": 1500,
+      "words": 3152,
+      "renderedHash": "88984334e02c",
+      "renderedAt": "2026-11-13T12:45:44+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws06-rev-v1-56b9e3aa.mp3",
+      "siteAudio": "audio/blp-ws06-rev-v1-56b9e3aa.mp3",
+      "pubDate": "2026-11-13T12:45:44+00:00"
     }
   ],
   "replays": [
