@@ -3413,7 +3413,7 @@
       ],
       "summary": "Only companies and LLPs give limited liability; partners are personally liable for firm debts incurred while they're partners, and, unless the agreement says otherwise, the Partnership Act 1890 defaults decide profit shares, management and the order of payment on dissolution.",
       "madeAt": "2026-11-13T08:43:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revision shape; revcheck 69/69 items claimed or guide_only, about 22.3 min); known-error scan 0 left (3 matches judged not the error by Opus triage); opus x2 (4 fixes: distortion, scenario, omission, line); changed lines verified by a fresh Opus check: pass; code checks again: ok | r202611130319 (guide changed, re-stamp 99ac71fae2 -> 508683ca4a): pfix scan 12 hits on 10 lines; one script-revise (no line changed in this part); code checks ok; known-error scan 0 left (3 matches judged not the error by Opus triage); all 12 hit lines verified by a fresh Opus changed-lines check: pass",
@@ -3429,7 +3429,16 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 10999192,
+      "seconds": 1375,
+      "words": 3255,
+      "renderedHash": "82318b449cf8",
+      "renderedAt": "2026-11-13T08:44:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws01-rev-v1-785644b9.mp3",
+      "siteAudio": "audio/blp-ws01-rev-v1-785644b9.mp3",
+      "pubDate": "2026-11-13T08:44:30+00:00"
     },
     {
       "id": "blp-ws01-rev-v1-p2",
@@ -3455,7 +3464,7 @@
       ],
       "summary": "An LLP is a body corporate liable for its own debts but taxed like a partnership, with its own default rules; and a client conflict bars acting without an exception and all three conditions, while a company distribution needs available profits.",
       "madeAt": "2026-11-13T08:43:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revision shape; revcheck 33/33 items, about 19.7 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2: both pass, no fixes | r202611130319 (guide changed, re-stamp 99ac71fae2 -> 508683ca4a): pfix scan 12 hits on 10 lines; one script-revise (1 line changed in this part); code checks ok; known-error scan 0 left (3 matches judged not the error by Opus triage); all 12 hit lines verified by a fresh Opus changed-lines check: pass",
@@ -3468,7 +3477,16 @@
         "b12",
         "b13"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9705609,
+      "seconds": 1213,
+      "words": 2960,
+      "renderedHash": "79c603bce0f6",
+      "renderedAt": "2026-11-13T08:44:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws01-rev-v1-p2-2aadbc85.mp3",
+      "siteAudio": "audio/blp-ws01-rev-v1-p2-2aadbc85.mp3",
+      "pubDate": "2026-11-13T08:44:30+00:00"
     },
     {
       "id": "blp-ws04-rev-v1",
@@ -3502,7 +3520,7 @@
       ],
       "summary": "Count the votes and ask whose right it is: a member enforces his own membership rights, a wrong to the company is the company's claim, and unfair prejudice usually ends in a fair-value buy-out.",
       "madeAt": "2026-11-13T08:43:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 62/62 items; known-error scan: 1 phrase match (s 239 votes) cleared by the Opus accuracy check; Opus accuracy + line-by-line (3 + 3 problems), 4 fixes applied; one script-revise of a turn-order error; changed lines verified (pass, 0); final code checks and known-error scan ok",
@@ -3519,7 +3537,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12079808,
+      "seconds": 1510,
+      "words": 3492,
+      "renderedHash": "240e740010cb",
+      "renderedAt": "2026-11-13T08:44:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws04-rev-v1-71639dff.mp3",
+      "siteAudio": "audio/blp-ws04-rev-v1-71639dff.mp3",
+      "pubDate": "2026-11-13T08:44:30+00:00"
     },
     {
       "id": "blp-ws05-rev-v1",
@@ -3545,7 +3572,7 @@
       ],
       "summary": "Most questions here turn on two things: work through the investment rules in order, with exclusions before Part XX, and keep the company's capital intact, with no shares below nominal value and dividends only from profits available for distribution.",
       "madeAt": "2026-11-13T08:43:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revision shape; revcheck 37/37 items claimed or guide_only, about 22.1 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2 (accuracy: 2 distortions; line-by-line: 2 problems) fixed by fixflow; changed lines verified by a fresh Opus check: 2 findings (one-liner scope and its confirming turn) fixed in targeted round 1, verified by a fresh Opus check: pass; code checks and known-error scan again: ok",
@@ -3558,7 +3585,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11212153,
+      "seconds": 1401,
+      "words": 3304,
+      "renderedHash": "05a8d45f2d49",
+      "renderedAt": "2026-11-13T08:44:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws05-rev-v1-115c09c3.mp3",
+      "siteAudio": "audio/blp-ws05-rev-v1-115c09c3.mp3",
+      "pubDate": "2026-11-13T08:44:30+00:00"
     },
     {
       "id": "blp-ws05-rev-v1-p2",
@@ -3584,7 +3620,7 @@
       ],
       "summary": "Most questions here turn on procedure and money: the register makes a member, directors need authority before allotting, and buybacks come from distributable profits or a fresh issue made for the purpose, with capital only for a private company.",
       "madeAt": "2026-11-13T08:43:26+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revision shape; revcheck 41/41 items claimed or guide_only, about 20.0 min); known-error scan 0 left (1 match judged not the error by Opus triage); opus x2 (accuracy: 1 scenario; line-by-line: 4 problems) fixed by fixflow plus one script-revise (a 5-item list turn); changed lines verified by a fresh Opus check: 2 findings (the starred pre-emption one-liner and its confirming turn) fixed in targeted round 1, verified by a fresh Opus check: pass; code checks and known-error scan again: ok",
@@ -3597,7 +3633,16 @@
         "b10",
         "b11"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9762879,
+      "seconds": 1220,
+      "words": 2988,
+      "renderedHash": "7a541c9cb697",
+      "renderedAt": "2026-11-13T08:44:30+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws05-rev-v1-p2-5886c659.mp3",
+      "siteAudio": "audio/blp-ws05-rev-v1-p2-5886c659.mp3",
+      "pubDate": "2026-11-13T08:44:30+00:00"
     }
   ],
   "replays": [
