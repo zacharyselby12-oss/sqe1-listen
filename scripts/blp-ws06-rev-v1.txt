@@ -1,0 +1,392 @@
+---
+id: blp-ws06-rev-v1
+unit: u-bpp-BLP-06
+guide_hash: 222f486ede
+made: 2026-11-13T12:43:29+00:00
+kind: revision
+title: BLP WS06 · Revision · 23 min
+map:
+- Inheritance tax: transfers of value, the death estate and cumulation
+- Business property relief
+- Income tax: the computation and total income
+- Income tax reliefs: qualifying loan interest, pension contributions and trading losses
+- The personal allowance; the order of income, the rates and the 0% allowances
+- Collecting income tax (PAYE, self-assessment, NICs); income shifted by gift
+- Capital gains tax: the charge, chargeable disposals and chargeable assets
+- Capital gains tax: computing the gain
+- Capital gains tax: capital losses and the annual exempt amount
+- Capital gains tax: the calculation, the rates and payment
+- Companies: corporation tax on income and gains
+- Business asset disposal relief and investors' relief
+- Rollover relief and EIS deferral relief
+- Gift (hold-over) relief, CGT by instalments and incorporation relief
+- General principles: tax years, accounting periods and the basis of assessment
+- Income and capital: trading profits and capital allowances
+recap:
+- Gifts to individuals escape tax if the donor survives 7 years; gifts into most trusts are taxed at once above the available nil rate band.
+- Full relief stops at a shared allowance, with 50% above it; quoted shares, and premises a company uses, need control.
+- Income counts gross, and tax deducted at source is credited at the end.
+- A loss in a new trade's first four tax years goes back against total income of the three previous years, earliest first; a final 12 months' loss goes against same-trade profits of the cessation year and three before, latest first.
+- Non-savings income comes first, then savings, then dividends on top; the savings allowance depends on the band reached.
+- Employees pay under PAYE; the self-employed file online and pay the balance by 31 January after the tax year.
+- Individuals pay CGT and companies corporation tax on gains; death isn't a disposal, and heirs take market value at death, so lifetime gains escape CGT.
+- Spouses living together pass assets at no gain, no loss; gifts, disposals to connected persons and other deals not at arm's length go in at market value.
+- Same-year losses come off in full; brought-forward losses only bring gains down to the annual exempt amount.
+- Gains sit on top of taxable income, so only the unused basic rate band gets the lower rate.
+- A company pays corporation tax on its gains, with frozen indexation but no annual exempt amount, BADR or gift relief.
+- BADR leaves the gain the same but taxes qualifying gains at the relief rate, up to the lifetime limit, if claimed by the first anniversary of the 31 January after the tax year.
+- Rollover relief needs reinvestment from 1 year before to 3 years after the disposal; proceeds not reinvested are taxed at once, up to the gain.
+- On a gift with gift relief, the donor pays no CGT, and the gain comes off the donee's base cost.
+- Individuals are taxed by tax year from 6 April; companies by accounting periods of no more than 12 months.
+- A trader deducts only spending wholly and exclusively for the trade; capital spending isn't deductible on the accruals basis, but mostly is on the cash basis.
+summary: Classify first, by who is taxed and on what event; then check whether the facts meet the relief's conditions, such as control, the right assets, the time limits and a claim.
+invented:
+- Dora, her son, and her death three years after the gift
+- Hugo, his wife, their 40% and 15% holdings and the factory
+- Jo and her salary
+- Nina and her loss
+- Nia, her salary and dividends
+- Sam and his contract
+- Olu and his shares that tripled in value
+- Sid, his nephew and the undervalue sale
+- Leo, his gains and brought-forward losses
+- the two sisters and their identical gains
+- Acme Ltd and its building
+- Priya and her machine
+- Tom and his workshop
+- Ella, her daughter and the shares
+- Kite Ltd and its 18-month accounts
+- Kim and her machine
+guide_only:
+- P:WE-14.1-01
+- P:WE-14.1-04
+- P:WE-14.2-01
+- P:WE-10.4-01
+- add:8
+- add:9
+- P:BLP-14.1-01
+- P:BLP-14.1-02
+- P:BLP-14.1-03
+- P:BLP-14.1-10
+- P:BLP-14.1-05
+- P:BLP-14.1-06
+- P:BLP-14.1-07
+- P:BLP-14.1-08
+- P:BLP-14.1-09
+- P:BLP-14.1-15
+- num:N57
+- num:N58
+- num:N61
+- num:N64
+- num:N65
+- num:N66
+- num:N67
+- num:N68
+- P:BLP-10.3-01
+- P:BLP-10.2-01
+- P:BLP-10.2-13
+- P:BLP-10.1-01
+- P:BLP-10.1-03
+- P:NEW-BLP-B-WE-C-01
+- P:BLP-10.1-05
+- P:BLP-10.1-06
+- P:BLP-10.1-07
+- P:BLP-10.2-06
+- P:BLP-10.2-07
+- P:BLP-10.2-09
+- P:BLP-10.2-10
+- num:N5
+- num:N6
+- add:2
+- P:BLP-10.3-03
+- P:BLP-10.3-02
+- P:BLP-10.3-06
+- P:BLP-10.3-05
+- P:BLP-12.3-02
+- P:BLP-10.3-07
+- P:BLP-10.3-08
+- num:N24
+- num:N25
+- add:3
+- P:BLP-11.1-01
+- P:BLP-11.1-05
+- P:BLP-11.1-02
+- P:BLP-11.1-04
+- P:BLP-11.2-02
+- P:PP-29.2-01
+- P:PP-29.2-03
+- P:PP-29.2-06
+- num:N30
+- add:4
+- add:5
+- add:6
+- P:BLP-11.2-04
+- P:BLP-11.4-01
+- P:BLP-11.4-03
+- P:BLP-11.4-04
+- P:BLP-11.4-05
+- P:BLP-11.4-06
+- num:N54
+- num:N55
+- P:BLP-11.2-05
+- P:BLP-11.3-03
+- P:BLP-11.3-04
+- P:BLP-11.3-05
+- num:N45
+- num:N46
+- P:BLP-10.1-08
+- P:BLP-11.2-07
+- P:BLP-11.2-08
+- P:BLP-11.2-09
+- P:BLP-11.3-02
+- P:BLP-11.2-19
+- num:N33
+- num:N34
+- num:N35
+- num:N36
+- num:N37
+- num:N44
+- P:BLP-11.2-11
+- P:BLP-11.2-13
+- P:BLP-11.2-20
+- num:N41
+- P:BLP-11.2-14
+- P:BLP-11.2-15
+- P:BLP-11.2-16
+- P:BLP-11.2-17
+- num:N43
+- add:10
+- P:BLP-10.2-05
+- P:BLP-9-01
+- P:BLP-2-14
+- P:BLP-10.2-04
+---
+## Map
+Will: Today's question is how a business owner is taxed on gifts and death, on income, and on gains. There are five areas; the first four are inheritance tax and business property relief; income tax; capital gains tax, and a company's gains; and the capital gains tax reliefs.
+Hannah: And what does the fifth area cover?
+Will: The general principles: periods, income and capital. First, a warm-up.
+Hannah: It's from equity finance: can shareholders declare a bigger final dividend than the directors recommend?
+Will (scenario pause): <think>
+Will: They can't: under the model articles, shareholders declare a final dividend by ordinary resolution, only on the directors' recommendation and not above it. The tempting answer is that the owners decide.
+Hannah: Yes: the recommendation caps a final dividend.
+
+## Block 1: Inheritance tax: transfers of value, the death estate and cumulation
+Will: Inheritance tax first, and transfers of value. A lifetime gift by an individual to another individual, including into a bare trust, or into a disabled person's trust, is a potentially exempt transfer unless it's otherwise exempt: no tax is due when it's made, and it becomes fully exempt if the donor survives 7 years.
+Hannah (summing up): Gifts to individuals escape tax if the donor survives 7 years; gifts into most trusts are taxed at once above the available nil rate band.
+Will: Yes: survival clears a PET, while most trust gifts are charged at once.
+
+## Block 2: Business property relief
+Hannah: Before business property relief: Dora gives her son £50,000 in cash, with no exemption applying, and dies three years later. Was it taxed when she made it, and does her death now bring it into charge?
+Will (scenario pause): <think>
+Will: Not when made, as a PET; but her death within 7 years makes it chargeable. The tempting answer treats a PET as exempt from the start.
+Hannah: Yes: her death within 7 years brings it into charge.
+Will: Now business property relief, and its rates. Since April 2026, full relief for business and agricultural property together stops at a per-person allowance, and qualifying property above it gets 50%.
+Hannah: And where does control come in?
+Will: Quoted shares, and premises the transferor owns that are used wholly or mainly in their company's business, get 50% only with control: more than 50% of the votes on all questions affecting the company as a whole, counting a spouse's or civil partner's shares.
+Hannah (summing up): Full relief stops at a shared allowance, with 50% above it; quoted shares, and premises a company uses, need control.
+Will: Yes: the allowance caps full relief, and control unlocks those 50% cases.
+
+## Block 3: Income tax: the computation and total income
+Hannah: Before income tax: Hugo has owned a factory for ten years, and his private trading company uses it for its business.
+Will: How much of the company do Hugo and his wife hold?
+Hannah: He has 40% and she has 15%. Does the factory get relief?
+Will (scenario pause): <think>
+Will: Yes, at 50%: his wife's shares count, so he has control. The tempting answer is none, as a minority holder.
+Hannah: Yes: his wife's shares give him control.
+Will: Now income tax: the computation and total income. Income taxed at source goes into total income gross, and the tax deducted is credited at the last step.
+Hannah: And is a director's bonus taxed as a dividend?
+Will: It isn't: pay for the office or the work is employment income, taxed under PAYE.
+Hannah (summing up): Income counts gross, and tax deducted at source is credited at the end.
+Will: Yes: gross in, with credit for the tax deducted.
+
+## Block 4: Income tax reliefs: qualifying loan interest, pension contributions and trading losses
+Hannah: Jo's employer deducts tax from her salary under PAYE. Does her total income include the salary gross or net?
+Will (scenario pause): <think>
+Will: Gross: income taxed at source goes in gross, and the tax is credited at the last step. The tempting answer uses her net pay.
+Hannah: Yes: the tax deducted comes off at the very end.
+Will: Now income tax reliefs. Interest on a qualifying loan comes off total income: for example a loan to buy ordinary shares in or lend to a close trading company where the borrower has more than 5%, or holds shares and works for the greater part of their time in its management.
+Hannah: And which loss relief fits a new trade?
+Will: The trigger fact picks the relief, and for a new trade, a loss in its first four tax years can be carried back against total income of the three tax years before the loss year, earliest first.
+Hannah (summing up): A loss in a new trade's first four tax years goes back against total income of the three previous years, earliest first; a final 12 months' loss goes against same-trade profits of the cessation year and three before, latest first.
+Will: Yes: total income, earliest first, for a new trade; same-trade profits, latest first, at the end.
+
+## Block 5: The personal allowance; the order of income, the rates and the 0% allowances
+Hannah: Nina leaves her job, starts trading and makes a loss, with no other income. Can it go against her salary from three years back?
+Will (scenario pause): <think>
+Will: Yes, by early years relief, earliest year first. The tempting answer is general income relief, which reaches only the loss year and the year before.
+Hannah: Yes: early years relief reaches three years back.
+Will: Now the order of income and the 0% allowances. The personal savings allowance taxes a slice of savings income at nil: larger for basic rate, smaller for higher rate, and none for additional rate taxpayers. The starting rate for savings gives a nil-rate band only where taxable non-savings income is below it, and income taxed at 0% still uses up the bands.
+Hannah (summing up): Non-savings income comes first, then savings, then dividends on top; the savings allowance depends on the band reached.
+Will: Yes: dividends sit on top, and the band reached sets the allowance.
+
+## Block 6: Collecting income tax (PAYE, self-assessment, NICs); income shifted by gift
+Hannah: Before collecting the tax: Nia's salary is in the basic rate band, but her dividends take her into the higher rate. Which savings allowance does she get?
+Will (scenario pause): <think>
+Will: The smaller, higher rate one: dividends count towards the band she reaches. The tempting answer ignores them.
+Hannah: Yes: the dividends on top set her band.
+Will: Now collecting income tax. Whether a worker is an employee under a contract of service or self-employed under a contract for services decides whether they're taxed on employment income under PAYE with the stricter expenses test, or on trading profits under self-assessment.
+Hannah: And what decides that status?
+Will: The reality of the relationship, including control, personal service and mutuality of obligation, not the label the parties use.
+Hannah (summing up): Employees pay under PAYE; the self-employed file online and pay the balance by 31 January after the tax year.
+Will: Yes: status decides the route.
+
+## Block 7: Capital gains tax: the charge, chargeable disposals and chargeable assets
+Hannah: Before capital gains tax: Sam's contract calls him self-employed, but the business controls his work and he must do it himself. How is he likely to be taxed?
+Will (scenario pause): <think>
+Will: As an employee, under PAYE: status turns on the reality, not the label. The tempting answer follows the contract's wording.
+Hannah: Yes: substance beats the label.
+Will: Now the capital gains tax charge. A chargeable disposal includes a sale, gift, exchange or part-disposal, and an asset's loss or destruction. But death isn't a disposal: heirs acquire the asset at its market value at death, so gains built up in the deceased's lifetime escape CGT.
+Hannah (summing up): Individuals pay CGT and companies corporation tax on gains; death isn't a disposal, and heirs take market value at death, so lifetime gains escape CGT.
+Will: Yes: no CGT on death, and the heirs' base cost is market value.
+
+## Block 8: Capital gains tax: computing the gain
+Hannah: Before computing the gain: Olu dies owning shares that have tripled in value. Is there any CGT, and what is his heirs' base cost?
+Will (scenario pause): <think>
+Will: No CGT, as death isn't a disposal, and their base cost is market value at death. The tempting answer taxes death like a gift.
+Hannah: Yes: no disposal, so no CGT.
+Will: Now computing the gain. A disposal between spouses or civil partners living together is on a no gain, no loss basis. But a disposal to a connected person, or any gift or other disposal not by way of a bargain at arm's length, is treated as made at market value, whatever price is paid.
+Hannah (summing up): Spouses living together pass assets at no gain, no loss; gifts, disposals to connected persons and other deals not at arm's length go in at market value.
+Will: Yes: the spouse rule first, then market value for gifts, connected persons and deals not at arm's length.
+
+## Block 9: Capital gains tax: capital losses and the annual exempt amount
+Hannah: Before capital losses: Sid sells shares to his nephew at a deliberate undervalue. Is his gain worked out on the price?
+Will (scenario pause): <think>
+Will: On market value: a deliberate undervalue isn't a bargain at arm's length, though a nephew isn't connected. The tempting answer takes the price.
+Hannah: Yes: a deal not at arm's length goes in at market value.
+Will: Now capital losses and the annual exempt amount. Losses of the same tax year come off gains in full, even if that wastes the annual exempt amount; unused losses carry forward; and capital losses can't normally be set against income.
+Hannah (summing up): Same-year losses come off in full; brought-forward losses only bring gains down to the annual exempt amount.
+Will: Yes: old losses never eat into the exempt amount.
+
+## Block 10: Capital gains tax: the calculation, the rates and payment
+Hannah: Leo's gains are just above the annual exempt amount, and he has large losses brought forward. How much of them does he use?
+Will (scenario pause): <think>
+Will: Only enough to bring his gains down to the exempt amount; the rest carries forward. The tempting answer uses them all.
+Hannah: Yes: brought-forward losses stop at the exempt amount.
+Will: Now the calculation, the rates and payment. There are five steps, in two phases. First, work out the gain on each disposal, apply deferral reliefs, then deduct current-year losses in full.
+Hannah: And what happens in the second phase?
+Will: Deduct the annual exempt amount, and only then brought-forward losses; then the gains sit on top of taxable income, taxed at the lower rate within any unused basic rate band, and at the higher rate above it.
+Hannah (summing up): Gains sit on top of taxable income, so only the unused basic rate band gets the lower rate.
+Will: Yes: the band left sets the rate.
+
+## Block 11: Companies: corporation tax on income and gains
+Hannah: Two sisters make identical gains: one has unused basic rate band, and the other is a higher rate taxpayer. Do they pay the same CGT?
+Will (scenario pause): <think>
+Will: They don't: the sister with band left pays the lower rate on that part. The tempting yes forgets the band.
+Hannah: Yes: the same gain costs a higher rate taxpayer more.
+Will: Now companies and corporation tax. A company's gains are computed like an individual's, but with indexation frozen at December 2017, which can't create or increase a loss; and rollover relief applies, though not to goodwill.
+Hannah (summing up): A company pays corporation tax on its gains, with frozen indexation but no annual exempt amount, BADR or gift relief.
+Will: Yes: indexation in, and the individual's reliefs out.
+
+## Block 12: Business asset disposal relief and investors' relief
+Hannah: Before business asset disposal relief: Acme Ltd sells a building it bought in 2010, at a gain. Can it deduct the annual exempt amount, or claim BADR?
+Will (scenario pause): <think>
+Will: Neither: those are individuals' reliefs, so Acme deducts frozen indexation and pays corporation tax. The tempting answer applies an individual's rules.
+Hannah: Yes: a company gets indexation, not those reliefs.
+Will: Now business asset disposal relief. BADR doesn't reduce the gain: it taxes qualifying gains at the BADR rate up to a lifetime limit, with normal rates above it, and the claim deadline is the first anniversary of the 31 January following the tax year of disposal.
+Hannah: Does selling one asset of a continuing business qualify?
+Will: It doesn't: that isn't a disposal of the whole or part of a business, so consider rollover relief if the proceeds are reinvested.
+Hannah (summing up): BADR leaves the gain the same but taxes qualifying gains at the relief rate, up to the lifetime limit, if claimed by the first anniversary of the 31 January after the tax year.
+Will: Yes: a rate, a limit, and a claim in time.
+
+## Block 13: Rollover relief and EIS deferral relief
+Hannah: Before rollover relief: Priya sells one machine from her continuing business, at a gain. Does that gain get BADR?
+Will (scenario pause): <think>
+Will: It doesn't: one asset of a continuing business isn't a disposal of the business. The tempting yes treats any business asset as enough.
+Hannah: Yes: BADR needs the business, or part of it.
+Will: Now rollover relief. If a trader reinvests only part of the proceeds of a qualifying asset, the gain is taxed at once up to the amount not reinvested, and only the rest is rolled over; so if that amount is at least the whole gain, there's no rollover relief.
+Hannah (summing up): Rollover relief needs reinvestment from 1 year before to 3 years after the disposal; proceeds not reinvested are taxed at once, up to the gain.
+Will: Yes: meet the window, and what's kept back is taxed.
+
+## Block 14: Gift (hold-over) relief, CGT by instalments and incorporation relief
+Hannah: Tom sells his workshop and reinvests only part of the proceeds within the window. Is the whole gain rolled over?
+Will (scenario pause): <think>
+Will: Not all of it: the gain is taxed now up to the amount he didn't reinvest. The tempting answer rolls everything over.
+Hannah: Yes: only the reinvested part rolls over.
+Will: Now gift relief. It applies on an individual's gift, or sale at an undervalue, of business assets: assets used in the donor's trade or by their personal company, with at least 5% of the voting rights; unquoted shares in a trading company, whatever the holding; or quoted shares in the donor's personal trading company.
+Hannah: Who must claim it, and when is it not available?
+Will: It must be claimed jointly by donor and donee, or by the donor alone where the donee is the trustees of a settlement; it isn't available where shares are given to a company or the donee is non-UK resident.
+Hannah (summing up): On a gift with gift relief, the donor pays no CGT, and the gain comes off the donee's base cost.
+Will: Yes: the gain passes to the donee.
+
+## Block 15: General principles: tax years, accounting periods and the basis of assessment
+Hannah: Before tax years: Ella gives her daughter a few shares in an unquoted trading company. Can gift relief apply?
+Will (scenario pause): <think>
+Will: It can: unquoted trading company shares qualify whatever the holding. The tempting answer demands 5% of the votes, which applies only to quoted shares or assets her company uses.
+Hannah: Yes: any holding of unquoted trading shares will do.
+Will: Now the general principles: tax years and accounting periods. Individuals, such as sole traders, partners and shareholders, are taxed by tax year, 6 April to 5 April.
+Hannah: And how are companies taxed?
+Will: By accounting period: normally the period of their accounts, but never more than 12 months; and corporation tax rates are set for financial years starting on 1 April.
+Hannah: So what should you always check?
+Will: For an individual, which side of 5 April each profit, payment or disposal falls; for company rates, which side of 31 March.
+Hannah (summing up): Individuals are taxed by tax year from 6 April; companies by accounting periods of no more than 12 months.
+Will: Yes: the date decides the period.
+
+## Block 16: Income and capital: trading profits and capital allowances
+Hannah: Before trading profits: Kite Ltd draws up accounts for 18 months. How many accounting periods is that?
+Will (scenario pause): <think>
+Will: Two: the first 12 months, then the rest, as an accounting period can't be longer. The tempting answer is one.
+Hannah: Yes: a long period of account splits in two.
+Will: Finally, income and capital: trading profits. A trader deducts expenditure only if it's incurred wholly and exclusively for the trade, so private or dual-purpose spending is disallowed unless a business part can be separated out.
+Hannah: And what about capital spending?
+Will: On the accruals basis it must also be revenue rather than capital. But on the cash basis, the default for most unincorporated traders since 2024-25, most capital expenditure is deductible. The exceptions include spending on land, cars, non-depreciating assets or acquiring a business.
+Hannah: Is that the same test as an employee's?
+Will: It isn't: a trader needs wholly and exclusively, not the employee's "necessarily".
+Hannah (summing up): A trader deducts only spending wholly and exclusively for the trade; capital spending isn't deductible on the accruals basis, but mostly is on the cash basis.
+Will: Yes: the test first, then the basis.
+
+## Recap
+Hannah: Kim, a sole trader on the accruals basis, buys a machine for her trade. Can she deduct its cost?
+Will (scenario pause): <think>
+Will: Not as an expense: on the accruals basis it's capital, so she claims capital allowances instead. The tempting yes is right only on the cash basis.
+Hannah: Yes: on the accruals basis it's capital allowances.
+Will: Now the quick-fire round, one summary for each area.
+Hannah: What's the summary for inheritance tax on lifetime gifts?
+Will (quick-fire pause): <think>
+Will: Gifts to individuals escape tax if the donor survives 7 years; gifts into most trusts are taxed at once above the available nil rate band.
+Hannah: What's the summary for business property relief?
+Will (quick-fire pause): <think>
+Will: Full relief stops at a shared allowance, with 50% above it; quoted shares, and premises a company uses, need control.
+Hannah: What's the summary for the income tax computation?
+Will (quick-fire pause): <think>
+Will: Income counts gross, and tax deducted at source is credited at the end.
+Hannah: What's the summary for trading loss relief?
+Will (quick-fire pause): <think>
+Will: A loss in a new trade's first four tax years goes back against total income of the three previous years, earliest first; a final 12 months' loss goes against same-trade profits of the cessation year and three before, latest first.
+Hannah: What's the summary for the order of income and the allowances?
+Will (quick-fire pause): <think>
+Will: Non-savings income comes first, then savings, then dividends on top; the savings allowance depends on the band reached.
+Hannah: What's the summary for collecting income tax?
+Will (quick-fire pause): <think>
+Will: Employees pay under PAYE; the self-employed file online and pay the balance by 31 January after the tax year.
+Hannah: What's the summary for the capital gains tax charge?
+Will (quick-fire pause): <think>
+Will: Individuals pay CGT and companies corporation tax on gains; death isn't a disposal, and heirs take market value at death, so lifetime gains escape CGT.
+Hannah: What's the summary for computing the gain?
+Will (quick-fire pause): <think>
+Will: Spouses living together pass assets at no gain, no loss; gifts, disposals to connected persons and other deals not at arm's length go in at market value.
+Hannah: What's the summary for capital losses and the exempt amount?
+Will (quick-fire pause): <think>
+Will: Same-year losses come off in full; brought-forward losses only bring gains down to the annual exempt amount.
+Hannah: What's the summary for the CGT calculation?
+Will (quick-fire pause): <think>
+Will: Gains sit on top of taxable income, so only the unused basic rate band gets the lower rate.
+Hannah: What's the summary for a company's gains?
+Will (quick-fire pause): <think>
+Will: A company pays corporation tax on its gains, with frozen indexation but no annual exempt amount, BADR or gift relief.
+Hannah: What's the summary for business asset disposal relief?
+Will (quick-fire pause): <think>
+Will: BADR leaves the gain the same but taxes qualifying gains at the relief rate, up to the lifetime limit, if claimed by the first anniversary of the 31 January after the tax year.
+Hannah: What's the summary for rollover relief?
+Will (quick-fire pause): <think>
+Will: Rollover relief needs reinvestment from 1 year before to 3 years after the disposal; proceeds not reinvested are taxed at once, up to the gain.
+Hannah: What's the summary for gift relief?
+Will (quick-fire pause): <think>
+Will: On a gift with gift relief, the donor pays no CGT, and the gain comes off the donee's base cost.
+Hannah: What's the summary for tax years and accounting periods?
+Will (quick-fire pause): <think>
+Will: Individuals are taxed by tax year from 6 April; companies by accounting periods of no more than 12 months.
+Hannah: What's the summary for trading profits?
+Will (quick-fire pause): <think>
+Will: A trader deducts only spending wholly and exclusively for the trade; capital spending isn't deductible on the accruals basis, but mostly is on the cash basis.
+Hannah: And in one sentence, what decides most of this workshop's questions?
+Will: Classify first, by who is taxed and on what event; then check whether the facts meet the relief's conditions, such as control, the right assets, the time limits and a claim.
