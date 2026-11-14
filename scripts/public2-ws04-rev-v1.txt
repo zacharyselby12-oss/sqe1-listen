@@ -1,0 +1,137 @@
+---
+id: public2-ws04-rev-v1
+unit: u-bpp-Public2-04
+guide_hash: 07c33f5fdf
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: Public2 WS04 · Revision · 16 min
+map:
+- Nature and types of legitimate expectation
+- Has an expectation arisen?
+- Is the expectation legitimate?
+- Has the body lawfully frustrated it?
+recap:
+- Procedural expectations get a quashing order so the promised procedure happens; substantive ones get unjustified frustration quashed, but no ordered benefit where that would take over the executive's decision.
+- An expectation needs a clear, unambiguous, unqualified promise by someone with authority, or a regular practice the claimant can reasonably expect to continue; opposition statements create none.
+- No expectation arises from a promise the body had no power to make, or one with a relevant qualification; detrimental reliance isn't essential, but strengthens it.
+- Once a clear and unambiguous promise or practice is proved, the body must identify an overriding interest justifying departure; macro-political decisions get Wednesbury review only.
+summary: Most questions turn on whether a clear and unambiguous promise or practice came from someone with authority, and then whether the body can identify an overriding interest justifying departure, outside macro-political decisions.
+invented:
+- Kelby Council
+- Northam Council
+- Eastvale
+- Ravi
+- Westmoor Council
+guide_only: []
+---
+## Map
+Will: Today's big question: when must a public body keep its word, and what will the court do when it doesn't?
+Hannah: How is the workshop laid out?
+Will: Four areas: what a legitimate expectation is, with its two types and their remedies; whether one has arisen; whether it's legitimate; and whether the body can lawfully frustrate it.
+Hannah: A warm-up from last time: Kelby Council changes its parking scheme without consulting anyone, and no statute, promise or practice requires consultation. Must it consult?
+Will (scenario pause): <think>
+Will: Not unless failing to consult would be conspicuously unfair, which is exceptional. There's no general common law duty to consult: it comes only from statute, a promise or established practice, or that exceptional unfairness. Fairness alone doesn't demand it.
+Hannah: Right: no statute, promise or practice normally means no duty, and that promise or practice is today's topic.
+
+## Block 1: Nature and types of legitimate expectation
+Will: Now the nature of legitimate expectation: what is it, and what does each type protect? It's a ground of review in its own right, derived from the duty to act fairly. It's the public law concept, so private law estoppel doesn't apply to public authorities exercising public powers.
+Hannah: So what are the two types, and where can each come from?
+Will: A procedural expectation is to a particular procedure, such as consultation, before the body decides. A substantive one is to the promised benefit itself. Either type can arise from a promise or a practice, so a procedural expectation can come from an express promise, not only from practice.
+Hannah: What must a body do once it has promised consultation or a hearing?
+Will: If a body has promised consultation or a hearing, or regularly given one, it must provide it, unless an overriding public interest justifies not doing so. National security was enough in GCHQ.
+Hannah: And what does the court actually order in each case?
+Will: This is the point questions turn on. For a procedural expectation, the relief is a quashing order, so the consultation or hearing is given. For a substantive one, the court quashes a decision that unjustifiably frustrates it. But it won't order the body to honour its promise where that would take over the executive's decision, such as allocating resources. It may instead require the body to reconsider, taking the expectation properly into account.
+Hannah: So winning on a substantive expectation doesn't simply hand you the benefit?
+Will: Not automatically, and that's the tempting mistake: the court quashes and can send the decision back, but it doesn't make resource choices for the body.
+Hannah: How do you work through a problem question on this?
+Will: Classify it first as procedural or substantive. Then three questions, in order. Has an expectation arisen? Is it legitimate? And can the public body lawfully frustrate it?
+Hannah (summing up): Procedural expectations get a quashing order so the promised procedure happens; substantive ones get unjustified frustration quashed, but no ordered benefit where that would take over the executive's decision.
+Will: Yes: the type decides the remedy, and the court stops short of making the body's choices for it.
+
+## Block 2: Has an expectation arisen?
+Hannah: Before whether an expectation has arisen, a question on remedies: Northam Council promised to consult taxi operators before changing their licensing, then changed it without consulting. What will the court order?
+Will (scenario pause): <think>
+Will: A quashing order, so the promised consultation is given, unless an overriding public interest justified skipping it. That's a procedural expectation, and an express promise is enough to found one. The tempting answer is that the operators get their old licensing back, but that treats it as a substantive benefit.
+Hannah: Yes: a promise of consultation gets you the consultation, not the outcome you wanted.
+Will: Now, has an expectation arisen at all: where can one come from, and who can create it? The deciding rule is this. An expectation arises from a clear, unambiguous promise or representation, devoid of relevant qualification, made by someone with authority. Or it arises from a regular established practice the claimant can reasonably expect to continue. Either way, it must come from or on behalf of a public authority.
+Hannah: What about a promise made by a party before it wins power?
+Will: Statements by an opposition party create no expectation, even from its leader who later forms the government.
+Hannah: Can a published policy found an expectation?
+Will: It can, and so can a White Paper commitment. But for a published policy, the expectation is that it's applied to you while it stands, unless there's good reason to depart. It isn't an expectation that the policy never changes.
+Hannah: And what can someone expect once the policy is lawfully changed?
+Will: At most, individual consideration under the new policy.
+Hannah: Does a practice need an express promise behind it?
+Will: No: a clear and consistent pattern of conduct can be enough, without an express promise or a conscious practice.
+Hannah (summing up): An expectation needs a clear, unambiguous, unqualified promise by someone with authority, or a regular practice the claimant can reasonably expect to continue; opposition statements create none.
+Will: Right: a clear promise or practice from someone with authority, and campaign promises from opposition don't count.
+
+## Block 3: Is the expectation legitimate?
+Hannah: Before whether an expectation is legitimate, a question on where one comes from: an opposition leader promises to keep Eastvale hospital open, his party then forms the government, and the hospital closes. Has an expectation arisen?
+Will (scenario pause): <think>
+Will: No: statements by an opposition party create none, even from the leader who later forms the government. The tempting answer is that the promise binds because he now holds power, but it wasn't made by or on behalf of a public authority.
+Hannah: Yes: an opposition promise binds nobody, whoever later governs.
+Will: Now, is the expectation legitimate? It's a weighing exercise: the precise terms, the circumstances of the promise and the nature of the discretion. Five factors are weighed. Clarity and legality come first. Then agency, knowledge and reliance. The weight of each varies with context.
+Hannah: What does clarity require of a promise?
+Will: It has to be clear, unambiguous and devoid of relevant qualification, read as reasonably understood by those it was made to. A relevant qualification, such as a condition the promise depends on, defeats clarity. Loose wording that leaves the commitment intact doesn't.
+Hannah: What if the body's assurance was based on information the claimant gave it?
+Will: Then the claimant needs to have made full disclosure: all cards face upwards on the table.
+Hannah: And how clear must a practice be?
+Will: A practice founds an expectation only if it is so unambiguous, so widespread, so well-established and so well recognised that it carries a commitment to treat the claimant, or a group including the claimant, in accordance with it. Thin or equivocal evidence of a practice fails.
+Hannah: Now legality: can a body bind itself with a promise it had no power to make?
+Will: No, and this decides questions: no legitimate expectation can arise from a promise the body had no power to make, or require it to act contrary to statutory duty. So a promise beyond the body's powers fails, however clear it was. Past conduct can't found one either, where the body had no power to do what was expected.
+Hannah: Is there any way round that?
+Will: One. An expectation can still be legitimate where the body promised in the mistaken belief that it had a statutory duty to do it, provided it had power both to make the representation and to fulfil it.
+Hannah: What about agency: who can bind the body?
+Will: Someone with actual or ostensible authority to bind it. Ostensible authority means the body held the agent out as authorised, or the act lay within the usual authority of such an agent. So a promise by one public body binds another only where the maker had authority to make it on that body's behalf: police assurances didn't bind the Prison Service. Without that authority there's no legitimate expectation, though the assurance may be a relevant consideration.
+Hannah: Must the claimant have known of the promise?
+Will: For a promise or practice, normally yes, at the relevant time. And there's no expectation where the claimant's beliefs weren't derived from the scheme relied on.
+Hannah: Then what about a published policy the claimant never knew existed?
+Will: That's the look-alike, and it decides questions. A body must follow its own published policy unless there is good reason to depart, even if the claimant didn't know of the policy. It's a separate principle from legitimate expectation. So ask: is the claimant relying on a promise or practice they knew of, or on the body's failure to follow its own published policy?
+Hannah: So knowledge matters for the expectation, but not for the policy duty.
+Will: Right: no knowledge needed for the policy duty. Last, reliance. Detrimental reliance isn't essential, but it strengthens the expectation and the unfairness of departing from it. And it's rare for detrimental reliance to be absent where the court finds unfairness.
+Hannah: Does the reliance have to cost the claimant something measurable?
+Will: No: reliance is factual, not legal, so credence without measurable detriment can still make frustration unfair. And reliance is relevant to whether departing would be an abuse of power.
+Hannah (summing up): No expectation arises from a promise the body had no power to make, or one with a relevant qualification; detrimental reliance isn't essential, but strengthens it.
+Will: Yes: no power or a relevant qualification ends it, while reliance only adds weight.
+
+## Block 4: Has the body lawfully frustrated it?
+Hannah: Before whether a body can lawfully frustrate an expectation, a question on knowledge: Ravi never knew of a department's published policy on extensions, and the department ignored it in his case. Can he challenge that?
+Will (scenario pause): <think>
+Will: Yes, though not as a legitimate expectation, which normally needs him to have known of the policy. The body must follow its own published policy unless there's good reason to depart, whether or not he knew of it. The tempting answer is that no knowledge means no claim, but that runs the two principles together.
+Hannah: Right: the duty to follow published policy doesn't depend on his knowing of it.
+Will: Now, can the body lawfully frustrate the expectation? First, the burden, which decides questions. The claimant must prove the promise or practice, and that it was clear and unambiguous. The burden then shifts to the authority to identify the overriding interest justifying departure. So where the body gives no reason or evidence of public interest, it fails the burden, and frustration is unlawful.
+Hannah: So the claimant doesn't have to prove the decision was irrational?
+Will: Not outside macro-political cases. Once an expectation is shown, the body must justify departure; making the claimant prove irrationality is the trap.
+Hannah: What does a procedural expectation require of the body?
+Will: It must follow the procedure unless there's an overriding reason, and the court judges adequacy by fairness.
+Hannah: And how does the court review a substantive one?
+Will: Not by Wednesbury alone any more: Coughlan's abuse of power test overtook that, and the fairness approach prevailed. Where a body promised a substantive benefit, the court decides whether frustrating it would be so unfair as to be an abuse of power. It weighs fairness against any overriding public interest, and departure must be a proportionate response to a legitimate aim. The expectation is strongest where the promise is specific and made to a small group.
+Hannah: Can you give me the classic example of an abuse of power?
+Will: In Coughlan, breaking a promised home for financial reasons, without offering an equivalent alternative, was an abuse of power. But there's no free-standing ground of substantive unfairness: you challenge frustration through legitimate expectation or rationality.
+Hannah: Does proportionality apply to procedural expectations as well?
+Will: Yes, to both types, weighing the force of the competing interests, though that was said obiter. Departure is harder to justify for an unambiguous promise, detrimental reliance, or a promise to an individual or specific group.
+Hannah: Finally, what about broad policy decisions affecting many people?
+Will: For a macro-political decision, review is less intrusive: Wednesbury only. Courts are reluctant to enforce substantive expectations in macro-political or general policy decisions affecting many people. A lawful change of general policy can defeat an expectation absent a specific promise. Compare a specific promise to a small group, which is where the expectation is strongest. And a good-faith macro-political decision on genuine policy grounds makes enforcing the expectation very difficult.
+Hannah: And where the expectation is only that the body will bear its previous policy in mind?
+Will: Then the court reviews the decision on Wednesbury grounds only. But the categories are points on a scale, not hermetically sealed. And a policy expectation concerning diplomatic relations is justiciable, but gets particularly light review.
+Hannah (summing up): Once a clear and unambiguous promise or practice is proved, the body must identify an overriding interest justifying departure; macro-political decisions get Wednesbury review only.
+Will: Yes: the claimant proves the promise, the body justifies breaking it, and broad policy gets the lightest touch.
+
+## Recap
+Hannah: One last question, on frustration, with a look back at remedies: Westmoor Council promised a small group of tenants a specific benefit, then withdrew it without giving any reason or evidence of public interest. Is that lawful, and will the court order the benefit?
+Will (scenario pause): <think>
+Will: It's unlawful: once the expectation is shown, the council must identify an overriding interest, and by giving none it fails the burden. The court quashes the decision; it won't order the benefit if that would mean taking over the executive's decision, and may require reconsideration instead. The tempting answer is that the tenants must prove irrationality, but that isn't the test outside macro-political decisions.
+Hannah: Yes: with no justification the frustration is unlawful, though quashing, not the benefit itself, is where the court starts. Now the quick-fire round: what's the summary for the types of expectation and their remedies?
+Will (quick-fire pause): <think>
+Will: Procedural expectations get a quashing order so the promised procedure happens; substantive ones get unjustified frustration quashed, but no ordered benefit where that would take over the executive's decision.
+Hannah: What's the summary for whether an expectation has arisen?
+Will (quick-fire pause): <think>
+Will: An expectation needs a clear, unambiguous, unqualified promise by someone with authority, or a regular practice the claimant can reasonably expect to continue; opposition statements create none.
+Hannah: What's the summary for whether the expectation is legitimate?
+Will (quick-fire pause): <think>
+Will: No expectation arises from a promise the body had no power to make, or one with a relevant qualification; detrimental reliance isn't essential, but strengthens it.
+Hannah: And what's the summary for lawfully frustrating an expectation?
+Will (quick-fire pause): <think>
+Will: Once a clear and unambiguous promise or practice is proved, the body must identify an overriding interest justifying departure; macro-political decisions get Wednesbury review only.
+Hannah: Finally, what one sentence decides most of this workshop's questions?
+Will: Most questions turn on whether a clear and unambiguous promise or practice came from someone with authority, and then whether the body can identify an overriding interest justifying departure, outside macro-political decisions.

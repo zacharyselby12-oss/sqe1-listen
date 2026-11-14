@@ -1,0 +1,380 @@
+---
+id: dr-ws05-rev-v1
+unit: u-bpp-DR-05
+guide_hash: b6456aa298
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: DR WS05 (1 of 2) · Revision · 23 min
+part: 1 of 2
+blocks: 1-6
+map:
+- Case management powers and orders of the court's own initiative
+- Striking out a statement of case
+- Sanctions, extending time by agreement and relief from sanctions (Denton)
+- Allocation: the four tracks and their scope
+- Allocation procedure: notice of proposed allocation, directions questionnaires and directions
+- Allocation criteria and the court's approach
+recap:
+- The court can extend time even after expiry; an own-initiative order made without a hearing is challenged within 7 days after service, or as the order states.
+- Strike-out for no reasonable grounds tests whether the statement of case itself discloses them; summary judgment tests the merits on evidence; default judgment never looks at the merits.
+- A sanction bites unless relief is granted; before expiry, prior written agreement can add up to 28 days if no hearing date is risked; once it bites, Denton decides.
+- Value the claim ignoring undisputed sums, interest, costs and contributory negligence; that value gives the normal track, subject to conditions such as trial length and expert evidence.
+- Once a defence is filed, each party files a directions questionnaire by the notice's date: at least 14 days after deemed service for small claims, 28 for other tracks.
+- The court starts from the normal track and the factors, and the parties' views don't bind it; appeal if you attended or had due notice, otherwise apply to re-allocate.
+summary: Timing and value decide most questions here: before time expires, extend by prior written agreement within limits or apply; once a sanction bites, Denton decides relief; and the claim's value, with its conditions, gives the normal track.
+invented:
+- Kemi
+- Ben
+- Dev
+- Asha
+- Lena
+- £9,000
+- £2,000
+- Sam
+- £30,000
+guide_only: []
+---
+
+## Map
+
+Will: Case management and costs, part one: how does the court control a case, and which track does it go on? Six areas. First the court's powers, striking out, and sanctions. Then allocation to a track: the four tracks, the procedure, and how the court chooses.
+
+Hannah: A warm-up on interim payments first. Kemi shows a real prospect of success at trial. Is that enough for the court to find she would obtain judgment?
+
+Will (scenario pause): <think>
+
+Will: No. The court must be satisfied, on the balance of probabilities, that she will succeed at trial. The tempting answer is a real prospect, but that's a lower threshold.
+
+Hannah: Right: the balance of probabilities, which is higher than a real prospect.
+
+## Block 1: Case management powers and orders of the court's own initiative
+
+Will: Now the court's case management powers. Everything starts from the overriding objective: to enable the court to deal with cases justly and at proportionate cost.
+
+Hannah: What can the court do under its general powers?
+
+Will: They include extending or shortening time for compliance with any rule, practice direction or order, even after time has expired. It can also adjourn, stay or strike out. And it can make orders subject to conditions, such as paying money into court, with specified consequences for failure.
+
+Hannah: If a party gets the procedure wrong, is the step invalid?
+
+Will: Not automatically. An error of procedure, such as failing to comply with a rule or practice direction, doesn't invalidate a step unless the court so orders. And the court may make an order to remedy it.
+
+Hannah: Can the court push the parties into ADR?
+
+Will: It may order them to engage in ADR, or stay proceedings for it, provided the order doesn't impair the essence of the right to a judicial hearing and is proportionate. Failing to comply with that order, or unreasonably failing to engage in ADR, is conduct relevant to costs.
+
+Hannah: How does a party challenge an order the court made of its own initiative?
+
+Will: If the court made it without a hearing, a party affected may apply to set it aside, vary it or stay it. The limit is 7 days after service, unless the order gives another time.
+
+Hannah (summing up): The court can extend time even after expiry; an own-initiative order made without a hearing is challenged within 7 days after service, or as the order states.
+
+Will: Yes: the power reaches expired deadlines, and a paper order has its own short challenge window.
+
+## Block 2: Striking out a statement of case
+
+Hannah: Before striking out, a question on the court's powers. On paper, of its own initiative, the court stays Ben's claim. What can Ben do, and by when?
+
+Will (scenario pause): <think>
+
+Will: Apply to set aside, vary or stay the order, within 7 days after service, or as the order states. The tempting answer is that he's stuck because there was no hearing, but that's exactly when this application exists.
+
+Hannah: Correct: no hearing means a short application window, not a dead end.
+
+Will: Now striking out a statement of case. The court may strike out a statement of case that discloses no reasonable grounds, is an abuse of process, or is likely to obstruct the just disposal of the proceedings. It may also strike out where there has been a failure to comply with a rule, practice direction or court order.
+
+Hannah: Is there a newer ground?
+
+Will: A SLAPP claim. The court may strike out a claimant's SLAPP claim unless the claimant shows it is more likely than not to succeed at trial.
+
+Hannah: Does someone have to apply, and when?
+
+Will: For no reasonable grounds, abuse or obstruction, the court may strike out on a party's application or of its own initiative, at any time. An application should be made as soon as possible and, if possible, before allocation.
+
+Hannah: How is that different from summary judgment and default judgment?
+
+Will: Summary judgment is a merits test on the evidence. Strike-out for no reasonable grounds looks only at the statement of case itself: does it disclose them? Default judgment is purely procedural: no acknowledgment or defence was filed, and nobody looks at the merits. So particulars that set out no legal claim at all can be struck out before anyone weighs evidence.
+
+Hannah: And when an unless order strikes out a whole statement of case?
+
+Will: The other party may obtain judgment by filing a request. A claimant can do that only where the claim is for money, or for goods with the alternative of paying their value; otherwise it applies under Part 23. The defaulting party may apply to set that judgment aside. The limit is 14 days after it is served.
+
+Hannah (summing up): Strike-out for no reasonable grounds tests whether the statement of case itself discloses them; summary judgment tests the merits on evidence; default judgment never looks at the merits.
+
+Will: Yes: the pleading itself, the evidence, or nothing on the merits at all.
+
+## Block 3: Sanctions, extending time by agreement and relief from sanctions (Denton)
+
+Hannah: Before sanctions, a question on striking out. Dev's defence is coherent on its face, but the claimant says his evidence is hopeless. Strike-out for no reasonable grounds, or summary judgment?
+
+Will (scenario pause): <think>
+
+Will: Summary judgment, which tests the merits on the evidence. The tempting answer is strike-out, but that looks only at whether the statement of case itself discloses reasonable grounds, and this one does.
+
+Hannah: That's right: a coherent defence with weak evidence is a summary judgment question.
+
+Will: Now sanctions, extending time, and relief. A sanction imposed by a rule, practice direction or order takes effect unless the party in default applies for and obtains relief.
+
+Hannah: What sanctions can a party face?
+
+Will: Costs sanctions include adverse or indemnity costs, and interest adjustments. And a wasted costs order can make a legal representative personally pay costs caused by an improper, unreasonable or negligent act or omission.
+
+Hannah: How does an unless order work?
+
+Will: It states the consequence of non-compliance, for example: unless the claimant serves its list by 4pm on 1 March, the claim is struck out. The sanction then takes effect automatically on default, without a further order.
+
+Hannah: And when a party simply ignores a direction?
+
+Will: The other party should apply promptly for an order enforcing compliance or imposing a sanction, and the court will not normally postpone the trial; adjournment is a last resort. So ask: does the order itself state what happens?
+
+Hannah: Which sanctions in the rules most often need relief?
+
+Will: Five, in two groups. Evidence: a witness statement not served in time means the witness can't give oral evidence without permission. An undisclosed expert report can't be used, nor the expert called, without permission. And an undisclosed document can't be relied on without permission.
+
+Hannah: And what are the other two?
+
+Will: Money ones. A late costs budget limits recovery to court fees. And an unpaid hearing or trial fee, after notice, leads to automatic strike-out.
+
+Hannah: Does serving an expert's report affect privilege?
+
+Will: Yes: serving it waives privilege in that report. Instructions to experts aren't privileged, but the court will order their disclosure only if there are reasonable grounds to think the statement of instructions is inaccurate or incomplete.
+
+Hannah: When is the trial fee due?
+
+Will: By the date in the court's fee notice. If the claimant hasn't paid by then, and hasn't applied for fee remission, the claim is automatically struck out without further order. And unless the court orders otherwise, the claimant is liable for the defendant's costs.
+
+Hannah: Is there a reminder first?
+
+Will: A further notice is sent only where remission is refused or partly granted.
+
+Hannah: Now extending time by agreement. Which dates can the parties never move themselves?
+
+Will: Four: those fixed for a case management conference, a pre-trial review, the return of pre-trial checklists, and the trial or trial period. For those, they must apply to court. Other time limits may be varied by written agreement, unless a rule, practice direction or court order provides otherwise, if that doesn't affect those dates.
+
+Hannah: And where the time limit comes with a stated consequence for missing it?
+
+Will: Then the parties may extend it without the court only by prior written agreement, made before the time expires. The maximum is 28 days. And only if no hearing date is put at risk. Anything longer, or after expiry, needs the court, and once the sanction has bitten, relief from sanctions.
+
+Hannah: Now relief. How does the court approach it?
+
+Will: The application must be supported by evidence, and Denton gives three stages. One: identify and assess the seriousness and significance of the breach. Whether it imperils future hearing dates or otherwise disrupts litigation is often the best guide, but a breach such as not paying court fees can be serious without that.
+
+Hannah: What comes after seriousness?
+
+Will: Two: why did the default occur, and was there a good reason? Three: evaluate all the circumstances so as to deal justly with the application, giving particular weight to the need for litigation to be conducted efficiently and at proportionate cost, and to enforce compliance with rules, practice directions and orders. Those circumstances include how promptly relief was sought, and other past or current breaches.
+
+Hannah: What if the breach is trivial?
+
+Will: If it's neither serious nor significant, relief is usually granted, and opposing relief opportunistically for a trivial breach may be penalised in costs.
+
+Hannah: Which reasons are good ones?
+
+Will: They may include debilitating illness or an accident, depending on the circumstances, and later developments showing the time originally allowed was unreasonable. Overlooking a deadline, pressure of work or a solicitor's mistake are not normally good reasons.
+
+Hannah: Does Denton govern every late application?
+
+Will: No: an application for an extension made before time expires is decided under the overriding objective. Denton applies once a sanction has taken effect, and by analogy to implied sanctions, for example an extension of time to appeal. And in deciding whether to set a judgment aside, the court must consider whether the application was made promptly, and applies the same approach: seriousness, reason, and all the circumstances.
+
+Hannah (summing up): A sanction bites unless relief is granted; before expiry, prior written agreement can add up to 28 days if no hearing date is risked; once it bites, Denton decides.
+
+Will: Yes: a prior written agreement, up to 28 days, with no hearing date at risk; otherwise apply before expiry, which is decided under the overriding objective; once the sanction bites, it's Denton.
+
+## Block 4: Allocation: the four tracks and their scope
+
+Hannah: Before the tracks, a question on relief. Asha's solicitor misses a witness statement deadline through pressure of work, then applies for relief two days later. Is that a good reason for the default?
+
+Will (scenario pause): <think>
+
+Will: Not normally: at Denton's second stage, pressure of work isn't a good reason. The tempting answer is that the prompt application cures it, but promptness is only a circumstance at stage three.
+
+Hannah: Yes: a busy desk is not normally a good reason, however quickly she applies.
+
+Will: Now allocation to the four tracks. Value the claim first, disregarding any amount not in dispute, interest, costs and any contributory negligence.
+
+Hannah: What about a counterclaim, or several claimants?
+
+Will: With a counterclaim the court generally uses the larger of the two, not their total. Separate claimants' claims are valued separately.
+
+Hannah: Then small claims. What's the limit?
+
+Will: It's the normal track for claims of not more than £10,000, other than personal injury and housing disrepair.
+
+Hannah: And for personal injury?
+
+Will: The total value must be not more than £10,000. Damages for pain, suffering and loss of amenity must be not more than £1,500.
+
+Hannah: Is a road traffic accident claim the same?
+
+Will: No: there the limit for pain, suffering and loss of amenity is £5,000. In the excepted cases, for example vulnerable road users, it's £1,000.
+
+Hannah: What about a tenant's repairs claim?
+
+Will: A residential tenant's repairs claim against a landlord is a small claim only if the estimated cost of repairs is not more than £1,000. Any other damages claimed must be not more than £1,000 too.
+
+Hannah: When is the fast track the normal track?
+
+Will: For claims the small claims track doesn't take, whose money claim, if any, is worth not more than £25,000. A claim that is or includes non-money relief also needs the court satisfied that the fast track is in the interests of justice.
+
+Hannah: Are there conditions on the trial?
+
+Will: It's the normal track only if the court considers two things likely. One: the trial will last no longer than one day. The court treats a day as 5 hours. Two: oral expert evidence at trial will be limited to one expert per party in any field, and to two expert fields.
+
+Hannah: Which claims must go to the multi-track instead?
+
+Will: Including mesothelioma, and clinical negligence save some admitted intermediate-track claims. Also harm, abuse or neglect of or by children or vulnerable adults, and certain claims against the police or public authorities.
+
+Hannah: What does the intermediate track take?
+
+Will: Claims not suitable for the small claims or fast track, of not more than £100,000. In practice they're usually over £25,000.
+
+Hannah: How long can its trial run?
+
+Will: No more than 3 days, managed proportionately.
+
+Hannah: And what about experts and parties?
+
+Will: Oral expert evidence at trial must be likely to be limited to two experts per party. And the parties must be one claimant against one or two defendants, or two claimants against one defendant.
+
+Hannah: Is that everything the court must consider for the normal track?
+
+Will: No: it must also consider that the claim can be justly and proportionately managed under the intermediate-track procedure, and that no additional factors make it unsuitable for the track.
+
+Hannah: What about a claim that includes non-money relief?
+
+Will: It goes there only if the court also considers that in the interests of justice. And the court may allocate a claim there anyway where it considers that in the interests of justice, unless the claim must go to the multi-track.
+
+Hannah: And once a claim is on the intermediate track, what do directions say about experts?
+
+Will: They limit oral expert evidence to one expert per party, unless a second is reasonably required and proportionate.
+
+Hannah: And what goes on the multi-track?
+
+Will: Claims over £100,000, and any claim not suited to the other tracks: complex, with a longer trial, or excluded from the intermediate track. Part 8 claims are treated as allocated to it.
+
+Hannah (summing up): Value the claim ignoring undisputed sums, interest, costs and contributory negligence; that value gives the normal track, subject to conditions such as trial length and expert evidence.
+
+Will: Yes: value it net of those four, then check the conditions.
+
+## Block 5: Allocation procedure: notice of proposed allocation, directions questionnaires and directions
+
+Hannah: Before the allocation procedure, a question on the tracks. Lena claims £9,000 after a road traffic accident, £2,000 of it for pain and suffering. She isn't an excepted case. Is it a small claim?
+
+Will (scenario pause): <think>
+
+Will: Yes. For a road traffic accident the limit for pain, suffering and loss of amenity is £5,000, and her total is within the overall limit. The tempting answer is the fast track, using the lower limit for other personal injury claims.
+
+Hannah: Right: road accident claims get the higher limit, unless an excepted case applies.
+
+Will: Now the allocation procedure. Once a defence is filed, the court serves a notice of proposed allocation, and each party must file a directions questionnaire, and comply with the notice, by the date it gives.
+
+Hannah: How much time must that date allow?
+
+Will: At least 14 days after deemed service for the small claims track. At least 28 days for the other tracks. Those are minimums: the deadline is the date in the notice.
+
+Hannah: What if a party doesn't file its questionnaire?
+
+Will: The court may make any appropriate order. In many money claims it serves a notice requiring compliance within 7 days; failing that, the party's statement of case is struck out automatically.
+
+Hannah: The questionnaire asks about pre-action protocols. What is a protocol?
+
+Will: A code approved by the Master of the Rolls setting the steps the court expects before proceedings in a particular type of claim, for example personal injury or clinical disputes. Others cover professional negligence, construction and debt. Where no specific protocol applies, the Practice Direction on Pre-Action Conduct and Protocols applies.
+
+Hannah: Can a party ask for time to settle?
+
+Will: Yes: in the questionnaire it may ask for a stay to try to settle by ADR or other means. It's normally one month, or as the court thinks fit. The court may also order a stay of its own initiative.
+
+Hannah: What are the solicitor's limits with witnesses?
+
+Will: It must not influence the substance of a witness's evidence or coach witnesses, though familiarising them with procedure is permitted. Nor may it offer benefits dependent on the evidence or outcome, though reasonable expenses and compensation for lost time are allowed. And there's no property in a witness: a solicitor may interview one the other side intends to call.
+
+Hannah: What about experts at this stage?
+
+Will: The court must give permission before expert evidence can be relied on, and may limit the recoverable fees; many disputes can be resolved without it. Where it's needed, particularly in low value claims, the parties should consider a single expert, jointly instructed, with the costs shared equally.
+
+Hannah: What must the parties do about directions on the intermediate track and the multi-track?
+
+Will: Endeavour to agree directions, and submit agreed directions or their own proposals at least 7 days before any case management conference. Where the court approves agreed directions, or issues its own, it notifies the parties and the conference is vacated.
+
+Hannah: And what does the court do on allocation to the fast and intermediate tracks?
+
+Will: On the fast track it gives directions, unless a case management conference is necessary. On the intermediate track it may give directions or fix a conference. Directions set a timetable to trial, deal with disclosure, and fix the trial date or a trial period. That period is not more than 3 weeks.
+
+Hannah (summing up): Once a defence is filed, each party files a directions questionnaire by the notice's date: at least 14 days after deemed service for small claims, 28 for other tracks.
+
+Will: Right: the notice sets the date, and the minimum depends on the track.
+
+## Block 6: Allocation criteria and the court's approach
+
+Hannah: Before the allocation criteria, a question on procedure. In a money claim, Sam ignores the court's notice requiring his directions questionnaire within 7 days. What happens?
+
+Will (scenario pause): <think>
+
+Will: His statement of case is struck out automatically. The tempting answer is that the court must first hold a hearing or make a further order, but it needn't.
+
+Hannah: That's it: ignore the compliance notice and the strike-out is automatic.
+
+Will: Now the allocation criteria and the court's approach. The court allocates by the claim's normal track, having regard to the allocation factors. The parties' views are important but don't bind it, and it may allocate higher or lower than the normal track where the factors require: for example, a claim above £10,000 to the small claims track.
+
+Hannah: What are the factors?
+
+Will: Nine, in three groups. The first group is the financial value, the nature of the remedy, and the likely complexity of facts, law or evidence. Then the number of parties, the value and complexity of any counterclaim or Part 20 claim, and the amount of oral evidence. Last, the importance to non-parties, the parties' views and their circumstances.
+
+Hannah: Does an allegation of dishonesty matter?
+
+Will: Yes: a claim involving a disputed allegation of dishonesty is not usually suitable for the small claims track.
+
+Hannah: How does a party challenge its track?
+
+Will: If the order was made at a hearing it attended, or had due notice of, it should appeal; otherwise it should apply to re-allocate. The court may also re-allocate later, on application or of its own initiative, for example when circumstances change; but an intermediate-track claim with directions given, only for exceptional reasons.
+
+Hannah (summing up): The court starts from the normal track and the factors, and the parties' views don't bind it; appeal if you attended or had due notice, otherwise apply to re-allocate.
+
+Will: Yes: the court decides the track.
+
+## Recap
+
+Hannah: A last question, mixing the criteria with the tracks. Both parties want the fast track for a £30,000 money claim. Must the court agree?
+
+Will (scenario pause): <think>
+
+Will: No. The parties' views are important but don't bind it. It starts from the normal track, on value the intermediate track, and departs where the factors require. The tempting answer is that agreement decides, but allocation is the court's call.
+
+Hannah: Right: the parties' views count, but the court decides. Now the quick-fire round. What's the summary for the court's case management powers?
+
+Will (quick-fire pause): <think>
+
+Will: The court can extend time even after expiry; an own-initiative order made without a hearing is challenged within 7 days after service, or as the order states.
+
+Hannah: What's the summary for striking out?
+
+Will (quick-fire pause): <think>
+
+Will: Strike-out for no reasonable grounds tests whether the statement of case itself discloses them; summary judgment tests the merits on evidence; default judgment never looks at the merits.
+
+Hannah: What's the summary for sanctions and relief?
+
+Will (quick-fire pause): <think>
+
+Will: A sanction bites unless relief is granted; before expiry, prior written agreement can add up to 28 days if no hearing date is risked; once it bites, Denton decides.
+
+Hannah: What's the summary for the four tracks?
+
+Will (quick-fire pause): <think>
+
+Will: Value the claim ignoring undisputed sums, interest, costs and contributory negligence; that value gives the normal track, subject to conditions such as trial length and expert evidence.
+
+Hannah: What's the summary for the allocation procedure?
+
+Will (quick-fire pause): <think>
+
+Will: Once a defence is filed, each party files a directions questionnaire by the notice's date: at least 14 days after deemed service for small claims, 28 for other tracks.
+
+Hannah: What's the summary for how the court chooses the track?
+
+Will (quick-fire pause): <think>
+
+Will: The court starts from the normal track and the factors, and the parties' views don't bind it; appeal if you attended or had due notice, otherwise apply to re-allocate.
+
+Hannah: And in one sentence, what decides most of the questions in this part?
+
+Will: Timing and value decide most questions here: before time expires, extend by prior written agreement within limits or apply; once a sanction bites, Denton decides relief; and the claim's value, with its conditions, gives the normal track.

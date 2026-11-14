@@ -1,0 +1,165 @@
+---
+id: public2-ws02-rev-v1
+unit: u-bpp-Public2-02
+guide_hash: 9a79e7032c
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: Public2 WS02 · Revision · 18 min
+map:
+- Illegality, ultra vires and the principle of legality
+- Errors of law and errors of fact
+- Abuse of discretion: considerations and improper purpose
+- Retention of discretion: fettering and delegation
+- Unreasonableness (Wednesbury) and its classes
+- Intensity of review and proportionality
+recap:
+- An act beyond the express powers is ultra vires unless reasonably incidental to, or consequential on, one; fundamental rights yield only to express words or necessary implication.
+- An error of law is reviewable unless an exception, such as immateriality, applies; a factual error only in limited cases, and precedent facts the court decides itself.
+- Ignoring a required factor or weighing an irrelevant one is unlawful if it may have affected the outcome; with mixed purposes, the authorised purpose must dominate, without material improper influence.
+- A policy under a statutory discretion is lawful only if individual cases are still genuinely considered; delegation is lawful only if statute expressly or impliedly authorises it, or Carltona applies.
+- A decision is irrational only if no reasonable authority could have reached it; the threshold is high, and the court won't intervene merely because it disagrees.
+- Intensity varies with the subject matter, from a very light touch to anxious scrutiny; proportionality applies only where a qualified Convention right is engaged or a statute requires it.
+summary: Illegality asks whether the body had the power and directed itself correctly in law; irrationality asks whether no reasonable decision-maker could have reached the decision, a high threshold that disagreement alone never meets.
+invented: []
+guide_only: []
+---
+## Map
+Will: Today's question: when did a public body get the law wrong, or act unreasonably? Six areas, in two groups. Illegality has four: ultra vires and legality, errors of law and fact, abuse of discretion, and retention of discretion. Unreasonableness has two: Wednesbury, then intensity and proportionality.
+Hannah: First, one from last time: a tribunal errs in law, but a clause says its determination 'shall not be called into question in any court', so is it protected?
+Will (scenario pause): <think>
+Will: No. A decision tainted by error of law is only a purported determination, so the clause does not protect it. The tempting answer trusts its plain words.
+Hannah: Right: a purported determination is beyond the ouster's protection.
+## Block 1: Illegality, ultra vires and the principle of legality
+Will: Now, illegality, ultra vires and the principle of legality: did the body have the power at all?
+Hannah: What does illegality demand of a decision-maker?
+Will: It must understand correctly the law that regulates its power and give effect to it. Illegality covers six things, in two groups: acting outside powers, errors of law, and relevant and irrelevant considerations; then improper purpose, fettering discretion and unlawful delegation.
+Hannah: How do you tell whether a body acted outside its powers?
+Will: Acting outside powers is unlawful, though acts reasonably incidental to a power are allowed. So ask first whether the act is within the express power. If not, ask whether it's reasonably incidental to, or consequential on, an express power. If neither, it's ultra vires, as speculative interest rate swaps were: they were not incidental to borrowing powers.
+Hannah: Can't any public body do whatever an individual may?
+Will: Only some can: the general power of competence is given to local authorities, and some bodies by other statutes, not to statutory bodies generally.
+Hannah: Now the principle of legality: how easily can a statute take away a fundamental right?
+Will: Fundamental rights, including access to the courts, personal liberty and freedom of expression, cannot be overridden by general or ambiguous words, which are read as preserving them; Parliament must use express words or necessary implication. So employment tribunal fees that effectively prevented access to justice were unlawful: access to the courts is a constitutional right.
+Hannah: Does that mean Parliament can never authorise an infringement of a right?
+Will: No, and that's the trap: it can, but only by express words or necessary implication.
+Hannah (summing up): An act beyond the express powers is ultra vires unless reasonably incidental to, or consequential on, one; fundamental rights yield only to express words or necessary implication.
+Will: Yes: incidental acts survive, and general words never override a fundamental right.
+## Block 2: Errors of law and errors of fact
+Hannah: Before errors of law and fact, one on ultra vires: a statutory harbour authority buys speculative shares, claiming it may do anything an individual may, so is that lawful?
+Will (scenario pause): <think>
+Will: No, it's ultra vires: investing isn't reasonably incidental to running a harbour, and the general power of competence isn't given to statutory bodies generally. The tempting answer gives it a council's power.
+Hannah: Yes: nothing incidental, and no general power, so it's unlawful.
+Will: Now, errors of law and errors of fact: when will the court quash for a mistake?
+Hannah: What's the basic rule when a decision-maker misreads the law?
+Will: Any error of law in reaching a decision makes it unlawful, and precedent facts, facts that are a precondition of power, are decided by the court itself. But there are four exceptions. First, an immaterial error, where the decision would have been the same anyway, doesn't lead to quashing. Second, a university visitor applying internal law isn't reviewable for error of law, though that jurisdiction has now largely been removed by statute.
+Hannah: And what are the third and fourth exceptions?
+Will: Third, where a term is inherently imprecise, such as 'substantial part', the court intervenes only if the application is irrational, not merely because it disagrees. Fourth, there's no judicial review of a superior court for error of law.
+Hannah: Then is irrationality the test for every error of law?
+Will: No, that's the trap: it applies only to imprecise terms. Otherwise the court decides the correct meaning itself.
+Hannah: Now errors of fact: when can the court review a factual mistake?
+Will: Weight given to relevant considerations is for the decision-maker unless irrational, and a factual error is reviewable only in limited cases. There are three: precedent facts, decided by the court; a finding with no evidence to support it; and a mistake of established, objectively verifiable fact, not caused by the claimant, that played a material part.
+Hannah: And how does the court treat a precedent fact?
+Will: Precedent fact review is not Wednesbury review. Examples are 'illegal entrant' before a power to detain, and land not being 'parkland' before compulsory purchase.
+Hannah (summing up): An error of law is reviewable unless an exception, such as immateriality, applies; a factual error only in limited cases, and precedent facts the court decides itself.
+Will: Right: law with four exceptions, facts only in narrow cases.
+## Block 3: Abuse of discretion: considerations and improper purpose
+Hannah: Before abuse of discretion, one on facts: a council may close a footpath only if it's unused, so will the court merely check its finding of non-use for reasonableness?
+Will (scenario pause): <think>
+Will: No. Non-use is a precedent fact on which the power depends, so the court decides it itself. The tempting answer is Wednesbury deference.
+Hannah: Yes: the power hangs on that fact, so the court finds it.
+Will: Now, abuse of discretion: considerations and improper purpose.
+Hannah: When does a consideration make a decision unlawful?
+Will: A decision is unlawful if the decision-maker ignored a consideration it was legally required to take into account, or took into account an irrelevant one, and this may have affected the outcome. For example, a moral objection to hunting was irrelevant to a land-management power.
+Hannah: How do you sort the considerations themselves?
+Will: Three kinds: those the statute requires, expressly or impliedly; those it forbids; and those left to the decision-maker, where ignoring one is unlawful only if it was so obviously material that no reasonable decision-maker would have failed to take it into account.
+Hannah: Is taking a third-kind consideration into account unlawful, then?
+Will: No, that's the trap: it's taking a forbidden one into account that's unlawful, where it may have affected the outcome. One of the third kind may be weighed or ignored, unless that choice is irrational.
+Hannah: What if the statute simply says nothing about a factor?
+Will: An unmentioned factor is irrelevant only if the statute's purpose excludes it, not merely because the statute is silent. And on a judicial-type function, public petitions and media campaigns are irrelevant, while a child offender's welfare was a relevant consideration.
+Hannah: Now improper purpose: when does the reason behind a decision make it unlawful?
+Will: Using a power for a purpose other than that for which it was given is unlawful, for example to raise revenue without authority. With mixed purposes, the court asks what the true and dominant purpose was, and whether an unauthorised one materially influenced the decision.
+Hannah: And when does a mixed-purpose decision survive?
+Will: It stands if the authorised purpose dominates and the improper purpose did not materially influence it.
+Hannah (summing up): Ignoring a required factor or weighing an irrelevant one is unlawful if it may have affected the outcome; with mixed purposes, the authorised purpose must dominate, without material improper influence.
+Will: Yes: a possible effect on the outcome, then dominance without material influence.
+## Block 4: Retention of discretion: fettering and delegation
+Hannah: Before fettering and delegation, one on considerations: a licensing Act requires a council to consider public safety and says nothing else, and the council considers it but refuses mainly over congestion, consistent with the Act's purpose, so is the refusal unlawful for an irrelevant consideration?
+Will (scenario pause): <think>
+Will: Not unless weighing congestion was irrational: silence doesn't make a factor irrelevant, only exclusion by the Act or its purpose does. The tempting answer treats unmentioned as irrelevant.
+Hannah: Right: silence isn't exclusion, and the weight is for the council.
+Will: Now, retention of discretion: did the body keep it open, and did the right person exercise it?
+Hannah: Can a body with a statutory discretion have a policy at all?
+Will: Yes, but it must not apply it so rigidly that it refuses to consider individual cases; it must be willing to listen to anyone with something new to say. That rule does not bind policies made under prerogative or common law powers.
+Hannah: How do you tell a lawful policy from a fetter in practice?
+Will: A policy refusing grants for cheap items is lawful where each application is genuinely considered; a flexibly worded policy that never in practice produces an exception is an unlawful fetter.
+Hannah: Can a body tie its own hands by contract?
+Will: No. A public body cannot use a contract, undertaking or assurance to disable itself from exercising its statutory powers or performing its statutory duties in the public interest. That's an unlawful fetter, and can't found a legitimate expectation requiring it to breach its duty.
+Hannah: And can a minister use the prerogative to sidestep a statute?
+Will: No. A minister cannot use the prerogative to frustrate a statutory scheme Parliament has enacted, even one not yet brought into force; there's a duty to keep commencement under review.
+Hannah: Now delegation: who must actually exercise the discretion?
+Will: The body given it, not a delegate, and not under another's dictation: deferring to another minister's objection, instead of deciding personally, was unlawful. Delegation is lawful only if the statute expressly or impliedly authorises it, or Carltona applies.
+Hannah: What does the Carltona exception allow?
+Will: An appropriate departmental official may exercise a minister's power in the minister's name, unless the statute requires personal exercise. The official must be of suitable seniority for the gravity of the decision.
+Hannah: Does Carltona work for councils as well?
+Will: No: councils may delegate where statute permits, under section 101 of the Local Government Act, not under Carltona.
+Hannah (summing up): A policy under a statutory discretion is lawful only if individual cases are still genuinely considered; delegation is lawful only if statute expressly or impliedly authorises it, or Carltona applies.
+Will: Yes: under a statutory discretion, an open mind on each case, and authority or Carltona for delegates.
+## Block 5: Unreasonableness (Wednesbury) and its classes
+Hannah: Before unreasonableness, one mixing two areas: a statute gives a minister a grants discretion, and a senior official decides every application under guidance that no grant will ever go to anyone with prior debt, so what's the strongest ground?
+Will (scenario pause): <think>
+Will: Fettering by a rigid policy: 'never' excludes considering individual cases, while Carltona covers a suitably senior official. The tempting answer, unlawful delegation, forgets Carltona.
+Hannah: Yes: Carltona saves the delegation; the unbending policy is the fetter.
+Will: Now, unreasonableness and its classes: when will the court strike a decision down as irrational?
+Hannah: So what exactly is the Wednesbury test?
+Will: A decision so unreasonable that no reasonable authority could have reached it: so outrageous in its defiance of logic or accepted moral standards that no sensible person applying their mind could have arrived at it. The threshold is high, and the court will not intervene merely because it disagrees.
+Hannah: And what if a different view was also reasonable?
+Will: A decision is not irrational merely because a different view could reasonably be held: where reasonable people could differ, the choice is the decision-maker's.
+Hannah: How do you classify the flaw in an irrational decision?
+Will: Three classes: a material defect in the process, an oppressive decision, or a breach of a constitutional principle. On process, a decision-maker must take reasonable steps to obtain the information needed to decide properly, and failure can make the decision irrational, as with failing to make further inquiries into obviously material evidence.
+Hannah: And when is a decision oppressive?
+Will: When it imposes excessive hardship or punishes lawful conduct: a council's ban on a club for lawful conduct was a misuse of power. Other examples are a planning condition effectively requiring land to be given up without compensation, and a policy allowing 'exceptional' cases with no rational basis for telling them apart.
+Hannah: And what about a body that treats like cases differently?
+Will: Treating like cases differently without a reason breaches consistency and is unreasonable. But there's no distinct domestic principle of equal treatment: consistency is an aspect of rationality, so an inconsistent decision is unlawful only if irrational.
+Hannah (summing up): A decision is irrational only if no reasonable authority could have reached it; the threshold is high, and the court won't intervene merely because it disagrees.
+Will: Yes: no reasonable authority, and disagreement is never enough.
+## Block 6: Intensity of review and proportionality
+Hannah: Before intensity of review, one on unreasonableness: a council funds one of two identical grant applications and refuses the other without a reason, so which ground fits best?
+Will (scenario pause): <think>
+Will: Unreasonableness: like cases treated differently without a reason breach consistency. The tempting answer is a separate equal treatment ground, which domestic law doesn't recognise.
+Hannah: Right: an unreasonableness challenge, not an equality one.
+Will: Now, intensity of review and proportionality: how closely will the court look?
+Hannah: Does the court always review with the same intensity?
+Will: No. It's 'anxious scrutiny' where life or fundamental rights are at stake. It's a very light touch in national economic or political judgments, intervening only for bad faith, improper motive or manifest absurdity.
+Hannah: Does Commons approval of a policy shut the court out?
+Will: No: Commons approval does not oust review. Designating a country as safe against overwhelming evidence was irrational.
+Hannah: So when does proportionality apply instead?
+Will: Where Convention rights, and formerly EU law, are engaged; it isn't a general free-standing domestic ground, and the Supreme Court has declined to replace Wednesbury with it. It needs a qualified Convention right, such as Article 8, or a statute requiring it. Absolute rights, such as Article 3, admit no justification. Acting incompatibly with a Convention right is separately unlawful, unless primary legislation left the authority no choice, and so is failing to have due regard to the public sector equality duty.
+Hannah: If a claimant is severely affected, does proportionality apply anyway?
+Will: No, that's the trap: without a Convention right or a statutory requirement, Wednesbury applies.
+Hannah (summing up): Intensity varies with the subject matter, from a very light touch to anxious scrutiny; proportionality applies only where a qualified Convention right is engaged or a statute requires it.
+Will: Yes: subject matter sets intensity; Convention rights or statute bring proportionality.
+## Recap
+Hannah: Last one, on proportionality: a council withdraws a trader's pitch to ease crowding, with no Convention right or statutory requirement involved, and the trader says a lesser measure would do, so what standard applies?
+Will (scenario pause): <think>
+Will: Wednesbury: the court asks only whether the decision was irrational. The tempting answer is the less intrusive measure test, but that belongs to proportionality.
+Hannah: Yes: irrationality, not a search for something lesser.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for ultra vires and legality?
+Will (quick-fire pause): <think>
+Will: An act beyond the express powers is ultra vires unless reasonably incidental to, or consequential on, one; fundamental rights yield only to express words or necessary implication.
+Hannah: What's the summary for errors of law and fact?
+Will (quick-fire pause): <think>
+Will: An error of law is reviewable unless an exception, such as immateriality, applies; a factual error only in limited cases, and precedent facts the court decides itself.
+Hannah: What's the summary for considerations and improper purpose?
+Will (quick-fire pause): <think>
+Will: Ignoring a required factor or weighing an irrelevant one is unlawful if it may have affected the outcome; with mixed purposes, the authorised purpose must dominate, without material improper influence.
+Hannah: What's the summary for fettering and delegation?
+Will (quick-fire pause): <think>
+Will: A policy under a statutory discretion is lawful only if individual cases are still genuinely considered; delegation is lawful only if statute expressly or impliedly authorises it, or Carltona applies.
+Hannah: What's the summary for Wednesbury unreasonableness?
+Will (quick-fire pause): <think>
+Will: A decision is irrational only if no reasonable authority could have reached it; the threshold is high, and the court won't intervene merely because it disagrees.
+Hannah: What's the summary for intensity and proportionality?
+Will (quick-fire pause): <think>
+Will: Intensity varies with the subject matter, from a very light touch to anxious scrutiny; proportionality applies only where a qualified Convention right is engaged or a statute requires it.
+Hannah: And what's the one sentence for the whole workshop?
+Will: Illegality asks whether the body had the power and directed itself correctly in law; irrationality asks whether no reasonable decision-maker could have reached the decision, a high threshold that disagreement alone never meets.

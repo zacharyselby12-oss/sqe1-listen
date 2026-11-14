@@ -1,0 +1,286 @@
+---
+id: blp-ws03-rev-v1
+unit: u-bpp-BLP-03
+guide_hash: 840e6d0b01
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: BLP WS03 · Revision · 21 min
+map:
+- Role of directors and shareholders
+- Categories of directors and the company secretary
+- Appointment, service contracts and disclosure
+- Removal and vacation of office
+- Directors' general duties
+- Remedies, authorisation and ratification
+- Long-term service contracts and members' approval
+- Substantial property transactions
+- Loans, quasi-loans and credit transactions
+- Execution of contracts and documents
+recap:
+- Under the Model Articles the board manages, and members can direct it only by special resolution.
+- The duties bind every director, a shadow one where capable of applying; professional advice alone never makes the adviser a shadow director.
+- A director mustn't act until his identity is verified, and under the Model Articles the board, not the members, sets his pay.
+- Under the Model Articles the board can't remove a director; the members can, by ordinary resolution on 28 days' special notice.
+- Avoid a conflict outside the company's own deals unless authorised or unlikely to arise; declare an interest in its own deal unless an exception applies.
+- Members, never the board, ratify a breach by ordinary resolution, disregarding the votes of the director and members connected with him.
+- A guaranteed term of more than two years needs the members' prior ordinary resolution; without it, that term is void.
+- A substantial non-cash asset passing between the company and a director or connected person needs the members' prior approval; without it, the deal is voidable.
+- Loans to directors need members' approval in every company unless an exception applies; quasi-loans, credit and connected-person loans need it only where a public company is in the group.
+- A company executes with its seal, two authorised signatories, or a director signing before a witness; a secretary can't sign alone.
+summary: The board runs the company, but for a long service contract, a substantial asset, a loan, or ratifying a director's breach, the members decide by ordinary resolution unless an exception applies.
+invented:
+- hotels
+- boat
+- warehouse
+- Jay
+- Ella
+- Monday
+- Tuesday
+- £400,000
+- £45,000
+- van
+- £8,000
+- £4,000
+guide_only:
+- P:BLP-6.1-18 (binding the company: actual and apparent authority)
+- P:BLP-6.1-13 (shareholders' main rights: a look-up list)
+- P:BLP-6.2-14 (sole-member decisions)
+- P:NEW-BLP-A-09 (court-ordered meetings)
+- P:BLP-6.4-01 (who may be appointed a director: taught in BLP WS02)
+- P:NEW-BLP-A-01 (a public company's single member, two directors and secretary: taught in BLP WS02)
+- P:BLP-6.1-19 (the company secretary: taught in BLP WS02)
+- add:0 (16: minimum age of a director)
+- add:1 (1 / 2: minimum number of directors)
+- P:BLP-6.4-02 (after an appointment: taught in BLP WS02)
+- P:BLP-6.3-04 (the records a company keeps)
+- P:BLP-6.3-08 (keeping the service contract)
+- add:3 (14 days: notifying Companies House of an appointment)
+- add:4 (1 year: keeping a director's service contract)
+- P:BLP-6.4-03 (automatic vacation of office)
+- add:6 (3 months: medical opinion ending a director's office)
+- P:BLP-6.4-09 (disqualification)
+- D4.9 (the insolvency practitioner bar)
+- add:7 (2 to 15 years: disqualification of an unfit director)
+- add:8 (5 / 15 years: maximum disqualification on other grounds)
+- P:BLP-6.4-10 (retirement by rotation)
+- P:BLP-6.3-01 (Companies House deadlines: a look-up list taught in BLP WS02)
+- P:BLP-6.1-02 (acting within powers)
+- P:BLP-6.1-03 (promoting success: the listed factors)
+- P:BLP-6.1-04 (independent judgment)
+- D6.0 (relying on professional advice)
+- P:BLP-6.1-05 (care, skill and diligence)
+- P:BLP-6.1-07 (third-party benefits)
+- P:NEW-BLP-A-06 (duties after resigning)
+- P:BLP-6.2-04 (declaring an interest in an existing transaction)
+- D8.9 (failure to declare an existing interest is an offence)
+- P:BLP-6.2-02 (voting and quorum when interested: taught in BLP WS02)
+- P:BLP-6.1-09 (enforcing the duties, and remedies)
+- P:NEW-BLP-A-07 (acts incapable of ratification)
+- P:BLP-6.1-11 (no exemption; insurance and indemnity)
+- P:BLP-6.2-15 (the approval procedure: taught in BLP WS02)
+- P:BLP-6.2-11 (written resolutions: taught in BLP WS02)
+- P:BLP-6.2-06 (short notice: taught in BLP WS02)
+- add:12 (28 days: a written resolution lapses)
+- P:BLP-6.2-18 (an unapproved substantial property transaction: avoidance and liability)
+- D18.2 (no reasonable-steps defence for the counterparty director)
+- add:16 (£15,000: credit transactions)
+- P:BLP-6.2-22 (an unapproved loan)
+- D16.0 (a loan to a subsidiary's director)
+---
+## Map
+Will: Today's question: what can directors do alone, and when do they need the members? Ten areas, in three groups: who directors are and how they come and go; their duties and remedies; and deals needing the members' approval, plus signing documents.
+Hannah: First, a warm-up from forming a company. A company's objects restrict it to running hotels, but its directors buy a boat. Can it escape the contract for lack of capacity?
+Will (scenario pause): <think>
+Will: No: its act can't be challenged for lack of capacity because of anything in its constitution. The tempting answer is that it's void, but instead the directors breach their duty to act within their powers.
+Hannah: Right: the contract stands, and the directors are in breach.
+
+## Block 1: Role of directors and shareholders
+Will: First, the role of directors and shareholders. Under the Model Articles the directors manage the business and may exercise all the company's powers. They may delegate to committees or individuals. Shareholders can direct them to act, or not to act, only by special resolution.
+Hannah: Which decisions stay with the members anyway?
+Will: Some matters need the members, such as removing a director, loans to directors and changing the company name.
+Hannah (summing up): Under the Model Articles the board manages, and members can direct it only by special resolution.
+Will: Yes: only a special resolution directs the board.
+
+## Block 2: Categories of directors and the company secretary
+Hannah: Before categories of directors, a question on the board. Members pass an ordinary resolution telling a model-articles board to sell its warehouse. Must the board obey?
+Will (scenario pause): <think>
+Will: No: directing the board takes a special resolution. The tempting answer is that the majority rules, but an ordinary resolution isn't enough.
+Hannah: Right: an ordinary resolution doesn't bind the board.
+Will: Now, categories of directors. The general duties bind every director, executive or non-executive, and de facto directors. They bind a shadow director, someone whose directions or instructions the board is accustomed to act on, only where they're capable of applying.
+Hannah: Does a consultant the board always follows become a shadow director?
+Will: No: advice given in a professional capacity doesn't make the adviser a shadow director, even if the board always follows it. And don't confuse shadow with de facto: someone unappointed who openly acts as a director is de facto, and owes the full duties.
+Hannah (summing up): The duties bind every director, a shadow one where capable of applying; professional advice alone never makes the adviser a shadow director.
+Will: Yes: all kinds are bound, and professional advice stays outside.
+
+## Block 3: Appointment, service contracts and disclosure
+Hannah: Before appointment, a question on kinds of director. Jay, never appointed, signs contracts as director and attends board meetings. Is he a shadow director, a de facto one, or neither?
+Will (scenario pause): <think>
+Will: De facto, with the full duties. The tempting answer is shadow, but a shadow director stays behind the scenes, and Jay acts openly.
+Hannah: Right: acting openly without appointment means de facto.
+Will: Now appointment, service contracts and disclosure. The articles set the appointment procedure. The deciding rule is identity verification, from 18 November 2025. Every director and every individual person with significant control must be verified with Companies House.
+Hannah: What does that mean for a new director?
+Will: He must be verified before his appointment can be registered, and mustn't act until he is. Acting unverified is an offence by him, and by the company and every officer in default.
+Hannah: And for directors already in post?
+Will: They had to verify by the company's next confirmation statement, in a twelve-month transition to 18 November 2026.
+Hannah: And persons with significant control?
+Will: One must verify within 14 days of the registrar's direction. That direction comes where the company's notice doesn't confirm verification, and existing ones had staggered deadlines.
+Hannah: Who fixes a director's pay?
+Will: Under the Model Articles, the board. Don't confuse that with members' approval: they approve a guaranteed term of more than two years, not the pay.
+Hannah (summing up): A director mustn't act until his identity is verified, and under the Model Articles the board, not the members, sets his pay.
+Will: Yes: verification first, and pay for the board.
+
+## Block 4: Removal and vacation of office
+Hannah: Before removal, a question on appointment. Ella is appointed a director on Monday but isn't verified. Can she sign a contract as director on Tuesday?
+Will (scenario pause): <think>
+Will: No: she mustn't act until verified, and doing so is an offence. The tempting answer is that appointment is enough, but verification comes first.
+Hannah: Right: there's no acting before verification.
+Will: Now removal and vacation of office. Under the Model Articles the board can't remove a director. The members can, by ordinary resolution at a meeting, despite anything in the articles or any agreement. They can also use a removal power in the articles or a shareholders' agreement.
+Hannah: Is there any other way his office ends?
+Will: Yes: under article 18 of the Model Articles it can end automatically, without any resolution.
+Hannah: What notice does the members' resolution need?
+Will: Special notice to the company at least 28 days before the meeting. It's still valid where the board then calls the meeting for 28 days or less after it. A written resolution can't be used.
+Hannah: Can the director fight back?
+Will: He must be sent a copy, may have written representations circulated or read at the meeting, and may speak there. Removal doesn't take away his right to compensation for breach of his service contract.
+Hannah (summing up): Under the Model Articles the board can't remove a director; the members can, by ordinary resolution on 28 days' special notice.
+Will: Yes: removal is for the members, with special notice.
+
+## Block 5: Directors' general duties
+Hannah: Before the general duties, a question on removal. A model-articles board votes to remove a director for poor performance. Is he still a director?
+Will (scenario pause): <think>
+Will: Yes: the board has no power to remove him. The tempting answer is that a board can undo its own choice, but removal needs the members.
+Hannah: Right: a board vote removes nobody.
+Will: Now the directors' general duties. There are seven. The first that decides questions is promoting success, which is owed to the company even when it's in trouble.
+Hannah: When must the directors think about creditors?
+Will: Where the company is insolvent or bordering on insolvency, or insolvent liquidation or administration is probable. They must then consider creditors' interests and balance them against members'. The worse the position, the more weight creditors get; once insolvent liquidation or administration is inevitable, creditors' interests are paramount.
+Hannah: Now conflicts: what must a director avoid?
+Will: A situation where he has, or can have, a direct or indirect interest that conflicts or may conflict with the company's interests. That includes exploiting property, information or opportunity, whether or not the company could use it. A transaction or arrangement with the company itself is declared instead.
+Hannah: When is there no breach?
+Will: Where the situation can't reasonably be regarded as likely to give rise to a conflict, or the directors authorise it: in a private company unless its constitution invalidates that, in a public company only if its constitution expressly permits it.
+Hannah: Can the interested director vote on that authorisation?
+Will: It counts only where the quorum is met without him and it would have passed without his vote.
+Hannah: And when the deal is with the company itself?
+Will: A director directly or indirectly interested in a proposed transaction with the company must declare the nature and extent of the interest to the other directors before the company enters into it. He can do so at a board meeting, by written notice or by general notice. An indirect interest includes a spouse's, or a company he's a member or director of.
+Hannah: When is no declaration needed?
+Will: In four cases: the interest can't reasonably be regarded as likely to give rise to a conflict; the other directors already know, or ought to know; it concerns his service contract being considered by the board; or he's unaware of it, though he's treated as aware of what he ought reasonably to know.
+Hannah: Doesn't it help that the deal benefits the company?
+Will: No: only those four exceptions excuse a declaration, and benefit isn't one of them.
+Hannah (summing up): Avoid a conflict outside the company's own deals unless authorised or unlikely to arise; declare an interest in its own deal unless an exception applies.
+Will: Yes: company a party, declare; otherwise, avoid.
+
+## Block 6: Remedies, authorisation and ratification
+Hannah: Before remedies, a question on the duties. An insolvent company's directors approve a payment to members, considering only the members' interests. Have they complied with the duty to promote success?
+Will (scenario pause): <think>
+Will: No: with the company insolvent, they had to consider creditors' interests too. The tempting answer is that directors serve the members alone, but insolvency brings creditors into the balance.
+Hannah: Right: once it's insolvent, creditors' interests must be weighed as well.
+Will: Now remedies, authorisation and ratification. The members may ratify a breach of duty by ordinary resolution, but the votes of the director, if a member, and of members connected with him are disregarded. On a written resolution, they aren't eligible members.
+Hannah: Can he still attend the meeting and speak?
+Will: Yes: only their votes in favour are disregarded, so he may attend, count in the quorum and speak. And the court may relieve a director who acted honestly and reasonably and ought fairly to be excused.
+Hannah: Could the board ratify instead?
+Will: No: ratifying a breach after the event always needs the members, even in a private company.
+Hannah (summing up): Members, never the board, ratify a breach by ordinary resolution, disregarding the votes of the director and members connected with him.
+Will: Yes: the members decide, and his side's votes don't count.
+
+## Block 7: Long-term service contracts and members' approval
+Hannah: Before long-term service contracts, a question on ratification. A director holding 60 per cent votes to ratify his own negligence; holders of 10 per cent vote for and 30 per cent against. Is it ratified?
+Will (calculation pause): <think>
+Will: No: his votes in favour are disregarded, so more of the counted votes are against. The tempting answer is that his majority carries it, but his votes don't count.
+Hannah: Right: without his votes, the resolution fails.
+Will: Now long-term service contracts and members' approval. A director's service contract with a guaranteed term of more than two years needs the members' prior ordinary resolution. The term is guaranteed while the company can't end it by notice, or only in specified circumstances.
+Hannah: Does the director's own option to extend count?
+Will: Yes, provided the company can't end the contract by notice in that period, or only in specified circumstances: both features must be met. And dismissal only for misconduct or under a disciplinary procedure is a specified circumstance, so that period counts.
+Hannah: What about a new contract agreed early?
+Will: Agreed more than six months before the current term ends, it has the unexpired term added. There's no adding where it's made under a right in the original contract.
+Hannah: And what happens without approval?
+Will: The term is void, and the contract is terminable on reasonable notice. Don't confuse the threshold: it's more than two years, not the old five.
+Hannah: What must the members see before approving?
+Will: A memorandum of the proposed contract, sent with a written resolution. For a meeting, it's available at the registered office for 15 days. That period ends with the meeting date, and it's at the meeting too.
+Hannah: Isn't that the 14 days of meeting notice?
+Will: No: 14 days is general meeting notice; the 15 days is the memorandum's inspection period.
+Hannah: Which other deals need a memorandum?
+Will: A loan-type transaction does too, but a substantial property transaction doesn't. And because it must be available for at least 15 days ending with the meeting, short notice saves no time.
+Hannah (summing up): A guaranteed term of more than two years needs the members' prior ordinary resolution; without it, that term is void.
+Will: Yes: over two years, the members approve first.
+
+## Block 8: Substantial property transactions
+Hannah: Before substantial property transactions, a question on service contracts. A director's contract, terminable only for gross misconduct, has fourteen months left. The board now agrees a new twelve-month contract on the same terms. Is members' approval needed?
+Will (calculation pause): <think>
+Will: Yes: agreed more than six months early, the unexpired term is added, taking it past two years. The tempting answer is that the new contract alone is short, but both periods count.
+Hannah: Right: the remaining months are added to the new term.
+Will: Now substantial property transactions, which apply in all companies, private and public. Say a director of the company or its holding company, or a person connected with him, acquires a substantial non-cash asset from the company, or the company acquires one from him. That needs the members' prior ordinary resolution, or a contract conditional on it.
+Hannah: When is an asset substantial?
+Will: When it's worth more than £100,000.
+Hannah: Can a cheaper asset still count?
+Will: Yes: one worth more than 10 per cent of net asset value and more than £5,000. Net assets come from the last statutory accounts, or called-up share capital where there are none.
+Hannah: Isn't the floor £10,000?
+Will: No: £10,000 is the minor loans exemption, not the property floor.
+Hannah: Who is connected with a director?
+Will: Eight groups. His spouse or civil partner, and a partner he lives with in an enduring family relationship. His children and stepchildren at any age, and that partner's children under 18 who live with him.
+Hannah: And who else is connected?
+Will: His parents; companies where he and his connected persons hold at least 20 per cent of the equity share capital or control more than 20 per cent of the votes; trustees of trusts benefiting him; and his business partners.
+Hannah: Which relatives aren't connected?
+Will: Siblings, grandparents and grandchildren aren't, nor are uncles and aunts, or nephews and nieces.
+Hannah: Is an unapproved deal void?
+Will: No: an unapproved property deal or loan is voidable; only an unapproved long-term service contract term is void.
+Hannah (summing up): A substantial non-cash asset passing between the company and a director or connected person needs the members' prior approval; without it, the deal is voidable.
+Will: Yes: members first, or the deal is voidable.
+
+## Block 9: Loans, quasi-loans and credit transactions
+Hannah: Before loans, a question on substantial property. A company with net assets of £400,000 buys a £45,000 van from its director's thirty-year-old stepson. Does it need members' approval?
+Will (calculation pause): <think>
+Will: Yes: the van is worth more than a tenth of net assets and more than £5,000, and a stepchild of any age is connected. The tempting answer is that an adult stepson isn't connected, but he is.
+Hannah: Right: the percentage test catches it, whatever the stepson's age.
+Will: Now loans, quasi-loans and credit transactions. Any company needs its members' prior ordinary resolution for a loan to a director of it or its holding company, or a guarantee or security for someone else's loan to him. Quasi-loans, credit transactions and loans to connected persons need it only in public companies and companies associated with them.
+Hannah: What are the exceptions?
+Will: They include expenditure on company business up to £50,000, and the costs of defending proceedings or regulatory investigations. They also include intra-group loans, and loans by money-lending companies in the ordinary course.
+Hannah: How big can a minor loan be?
+Will: Loans and quasi-loans totalling no more than £10,000. Don't confuse that with £5,000, the substantial property floor.
+Hannah (summing up): Loans to directors need members' approval in every company unless an exception applies; quasi-loans, credit and connected-person loans need it only where a public company is in the group.
+Will: Yes: director loans need approval everywhere, the rest only near a public company.
+
+## Block 10: Execution of contracts and documents
+Hannah: Before execution, a question on loans. A private company with no public company in its group lends its director £8,000, then £4,000. Does the second loan need approval?
+Will (calculation pause): <think>
+Will: Yes: the exception counts earlier loans to the same director, and together they exceed £10,000. The tempting answer is that each loan is under the limit, but they're added.
+Hannah: Right: the limit is a running total.
+Will: Lastly, execution of contracts and documents. A company executes a document with its seal, two authorised signatories, or one director whose signature is witnessed.
+Hannah: Can a secretary sign alone with a witness?
+Will: No: only a director can.
+Hannah (summing up): A company executes with its seal, two authorised signatories, or a director signing before a witness; a secretary can't sign alone.
+Will: Yes: a lone witnessed signature must be a director's.
+
+## Recap
+Hannah: Last, a question on execution. A company has one director, a secretary and no seal. The secretary signs a document before a witness. Is it validly executed?
+Will (scenario pause): <think>
+Will: No: the director must also sign, making two authorised signatories. The tempting answer is that any officer can sign before a witness, but only a director can.
+Hannah: Right: a single witnessed signature works only for a director. Now the quick-fire round: what's the summary for who runs the company?
+Will (quick-fire pause): <think>
+Will: Under the Model Articles the board manages, and members can direct it only by special resolution.
+Hannah: What's the summary for the kinds of director?
+Will (quick-fire pause): <think>
+Will: The duties bind every director, a shadow one where capable of applying; professional advice alone never makes the adviser a shadow director.
+Hannah: What's the summary for appointment and pay?
+Will (quick-fire pause): <think>
+Will: A director mustn't act until his identity is verified, and under the Model Articles the board, not the members, sets his pay.
+Hannah: What's the summary for removing a director?
+Will (quick-fire pause): <think>
+Will: Under the Model Articles the board can't remove a director; the members can, by ordinary resolution on 28 days' special notice.
+Hannah: What's the summary for the general duties?
+Will (quick-fire pause): <think>
+Will: Avoid a conflict outside the company's own deals unless authorised or unlikely to arise; declare an interest in its own deal unless an exception applies.
+Hannah: What's the summary for remedies and ratification?
+Will (quick-fire pause): <think>
+Will: Members, never the board, ratify a breach by ordinary resolution, disregarding the votes of the director and members connected with him.
+Hannah: What's the summary for long service contracts?
+Will (quick-fire pause): <think>
+Will: A guaranteed term of more than two years needs the members' prior ordinary resolution; without it, that term is void.
+Hannah: What's the summary for substantial property transactions?
+Will (quick-fire pause): <think>
+Will: A substantial non-cash asset passing between the company and a director or connected person needs the members' prior approval; without it, the deal is voidable.
+Hannah: What's the summary for loans and credit?
+Will (quick-fire pause): <think>
+Will: Loans to directors need members' approval in every company unless an exception applies; quasi-loans, credit and connected-person loans need it only where a public company is in the group.
+Hannah: What's the summary for signing documents?
+Will (quick-fire pause): <think>
+Will: A company executes with its seal, two authorised signatories, or a director signing before a witness; a secretary can't sign alone.
+Hannah: And what decides most of this workshop's questions, in one sentence?
+Will: The board runs the company, but for a long service contract, a substantial asset, a loan, or ratifying a director's breach, the members decide by ordinary resolution unless an exception applies.

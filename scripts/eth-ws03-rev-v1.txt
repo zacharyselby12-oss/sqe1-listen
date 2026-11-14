@@ -1,0 +1,162 @@
+---
+id: eth-ws03-rev-v1
+unit: u-bpp-ETH-03
+guide_hash: 62e39261f8
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: Ethics WS03 · Revision · 17 min
+map:
+- Scope of section 2; evidence and witnesses
+- Properly arguable submissions
+- Contempt and court orders
+- Wasting the court's time
+- Drawing the court's attention
+- Duty to the court and the client
+- Warning notices: SLAPPs and conduct in disputes
+recap:
+- Familiarising a witness is fine but coaching isn't, and no witness benefit or expert fee may depend on the nature of the evidence or the outcome.
+- A point must be properly arguable, even in correspondence: a weak case with a real basis can be run, but not one known false or baseless.
+- Breaking an undertaking to the court is contempt; obey orders that bind you; and use a disclosed document only for its own proceedings, unless an exception applies.
+- Never waste the court's time, and a representative whose improper, unreasonable or negligent conduct causes wasted costs can be ordered to pay them personally.
+- Raise adverse law and irregularities you know of that are likely to materially affect the outcome; keep harmful facts confidential unless the client consents or the law requires, but never mislead about them; without notice, disclose everything material.
+- The duty to the court prevails: put the prosecution to proof despite an admission, but never mislead the court, and stop acting if the client insists on it.
+- Never bring or threaten unarguable claims or send aggressive, intimidating or misleading letters, and decline to act that way even when the client insists.
+summary: The duty to the court prevails: never tamper with evidence, mislead the court or put forward what isn't properly arguable, but keep the client's confidences unless they consent, and where continuing would mislead the court, stop acting rather than disclose.
+invented:
+- Priya
+- Marcus
+guide_only: []
+---
+## Map
+Will: Today's question: how do you fight for a client without letting the court down? Seven areas. First, four: evidence and witnesses, properly arguable submissions, contempt and court orders, and wasting the court's time.
+Hannah: And the other three areas?
+Will: Drawing the court's attention; duty to the court against duty to the client; and the warning notices on SLAPPs.
+Hannah: First, a warm-up on not misleading: a solicitor can't answer the other side without misleading them or revealing confidential information. What must she do?
+Will (scenario pause): <think>
+Will: Seek the client's consent to disclose, and if it's refused, cease to act. A half-truth that creates a false impression is no way out.
+Hannah: Yes: consent, or step away, never a half-truth.
+## Block 1: Scope of section 2; evidence and witnesses
+Will: Now, where these rules on evidence and witnesses apply: all proceedings before courts, tribunals and inquiries, not just civil and criminal courts, and dispute resolution generally.
+Hannah: And what must a solicitor never do with evidence?
+Will: Never misuse or tamper with evidence, or attempt to: no altering, destroying, concealing or backdating documents, and no advising the client to destroy documents that may be relevant. And never seek to influence the substance of evidence, by generating false evidence or persuading a witness to change theirs. A statement must, if practicable, be in the witness's own words and account.
+Hannah: Can a solicitor interview a witness the other side plans to call?
+Will: Yes: there's no property in a witness, so a solicitor may interview and take a statement from any witness, provided they don't seek to influence the substance of the evidence. Familiarising them with the court's layout and procedure is fine, but coaching or rehearsing their evidence, including a mock cross-examination on the facts, is not.
+Hannah: And can a witness be paid anything at all?
+Will: A solicitor must not provide or offer a witness any benefit depending on the nature of their evidence or the outcome of the case. But reasonable expenses and reasonable compensation for loss of time are permitted.
+Hannah: And how far can a solicitor go with an expert's draft report?
+Will: They may comment to correct factual errors or ask for clarification, but must not try to change the opinion, since the expert's duty to the court overrides any duty to the paying client. Nor may a solicitor offer or agree an expert's fee that depends on the nature of the expert's evidence or the outcome, though the lawyer may act under a CFA or DBA.
+Hannah (summing up): Familiarising a witness is fine but coaching isn't, and no witness benefit or expert fee may depend on the nature of the evidence or the outcome.
+Will: Yes: procedure is fair game, the evidence isn't, and no payment hangs on the result.
+## Block 2: Properly arguable submissions
+Hannah: Before properly arguable submissions, one on witnesses: a firm offers its witness, Priya, her train fare and a bonus if the claim wins. Which is allowed?
+Will (scenario pause): <think>
+Will: The fare, a reasonable expense, but not the bonus, which depends on the outcome. The trap is thinking every payment is banned.
+Hannah: Clear: expenses yes, result-linked payments no.
+Will: Now, properly arguable submissions. A solicitor may only make assertions, or put forward statements, representations or submissions, to the court or others that are properly arguable; others includes the opponent, so threats and allegations in correspondence count too.
+Hannah: Does properly arguable mean likely to win?
+Will: No: a solicitor may advance a weak but arguable case or defence on the client's instructions. Excluded is a point they know is false, or that has no real basis. A long shot is fine; a known falsehood never is.
+Hannah: And what about allegations against a witness in court?
+Will: In court, no allegations against a witness or opponent that aren't properly arguable, or that aren't supported by the client's instructions or the evidence. Meritless allegations, or abusive or intimidating conduct, can also show a lack of integrity.
+Hannah (summing up): A point must be properly arguable, even in correspondence: a weak case with a real basis can be run, but not one known false or baseless.
+Will: Right: weak is allowed, false or baseless isn't, letters included.
+## Block 3: Contempt and court orders
+Hannah: Before contempt, one on arguability: a defence will probably lose but has a real basis. May the solicitor run it?
+Will (scenario pause): <think>
+Will: Yes, on instructions: properly arguable doesn't mean likely to win. Only a point known false, or with no real basis, is out.
+Hannah: Agreed: weakness alone never stops a defence.
+Will: Now, contempt and court orders. A solicitor must not place themselves in contempt, and must comply with orders that place obligations on them. Breaking an undertaking given to the court is a contempt as well as a breach of the Code, enforceable by committal, a fine or an order to perform it.
+Hannah: And what may a party do with documents disclosed to it?
+Will: Only for the proceedings it was disclosed in, with three exceptions. One, it was read to or by the court, or referred to, at a public hearing. Two, the court permits it.
+Hannah: And what is the third exception?
+Will: Three, the disclosing party and the person it belongs to agree. Even after a public hearing, the court may restrict or prohibit use. Without an exception, using it elsewhere is a breach that can be contempt.
+Hannah (summing up): Breaking an undertaking to the court is contempt; obey orders that bind you; and use a disclosed document only for its own proceedings, unless an exception applies.
+Will: Yes: keep undertakings and orders, and disclosed papers stay put.
+## Block 4: Wasting the court's time
+Hannah: Before wasting time, one on disclosure: a client wants to give a journalist emails the other side disclosed, never read or referred to at a public hearing. Can he?
+Will (scenario pause): <think>
+Will: Not without the court's permission, or the agreement of the disclosing party and the owner; otherwise it's a breach that can be contempt. Disclosure doesn't make a document public.
+Hannah: Right: the emails belong to that case alone.
+Will: Now, wasting the court's time. Never waste it: for example by unnecessary or hopeless applications, being unprepared, or repetitive or irrelevant material.
+Hannah: And who pays when that conduct wastes costs?
+Will: Possibly the solicitor. Where a legal representative's improper, unreasonable or negligent conduct causes a party to incur wasted costs, the court can order them to pay those costs personally: a wasted costs order. It can also refer them to the SRA.
+Hannah (summing up): Never waste the court's time, and a representative whose improper, unreasonable or negligent conduct causes wasted costs can be ordered to pay them personally.
+Will: Right: wasted time can become the lawyer's own bill.
+## Block 5: Drawing the court's attention
+Hannah: Before drawing attention, one on wasted costs: a solicitor's negligent lack of preparation forces an adjournment, wasting the other side's costs. Who pays those?
+Will (scenario pause): <think>
+Will: The solicitor can be ordered to pay them personally, by a wasted costs order, since negligent conduct caused them.
+Hannah: Good: the court can make the lawyer pay that bill personally.
+Will: Now, drawing the court's attention. A solicitor must raise relevant cases and statutory provisions, and procedural irregularities, they know of that are likely to have a material effect on the outcome, even if they harm the client's case.
+Hannah: Does that duty cover harmful facts too?
+Will: No, only law and irregularities. Harmful facts are confidential: don't disclose them without the client's consent unless the law requires it, but never mislead the court about them. So an adverse statute a litigant in person missed must be raised, while a fact helping the prosecution stays confidential.
+Hannah: And when must harmful facts come out?
+Will: In a without-notice application: there the applicant's solicitor must give full and frank disclosure of all material facts and law, including those adverse to the client, or the order may be discharged.
+Hannah: And checking authorities before citing them?
+Will: Every case and quotation put before the court must be checked to exist and say what is claimed, including any from AI tools. Citing fictitious ones misleads the court and wastes its time, and can bring wasted costs, referral to the SRA and contempt proceedings.
+Hannah (summing up): Raise adverse law and irregularities you know of that are likely to materially affect the outcome; keep harmful facts confidential unless the client consents or the law requires, but never mislead about them; without notice, disclose everything material.
+Will: Yes: adverse law and irregularities you know of that are likely to materially affect the outcome go in; harmful facts stay confidential unless the client consents or the law requires, but you never mislead the court about them; and without notice, every material fact and point of law goes in, including those adverse to the client.
+## Block 6: Duty to the court and the client
+Hannah: Before duty to the court, one on disclosure: applying without notice for an injunction, a solicitor knows a material fact that hurts her client. Must she tell the court?
+Will (scenario pause): <think>
+Will: Yes: without notice, full and frank disclosure covers all material facts, adverse ones included, so the usual confidentiality of facts gives way.
+Hannah: That's the contrast: facts stay confidential normally, but not without notice.
+Will: Now, duty to the court against duty to the client. Where they conflict, the court prevails: no misleading it or abusing the process, even on instructions. But never breach confidentiality or privilege without consent: where continuing would mislead the court, cease to act rather than disclose.
+Hannah: What if a criminal client admits guilt to the solicitor but wants to plead not guilty?
+Will: The solicitor may continue to act and put the prosecution to proof, testing its evidence and submitting there's no case to answer. But no positive case inconsistent with the admission, such as an alibi or the client's denial in evidence. Testing is fine; a false case isn't.
+Hannah: And who decides the plea itself?
+Will: The client's. Advise clearly, including on credit for an early guilty plea, but never pressure them. And when a client maintaining innocence decides to plead guilty, the solicitor must advise that the plea admits the offence, and must not mitigate inconsistently with it.
+Hannah: And if the client insists on giving evidence the solicitor knows is false, or on otherwise misleading the court?
+Will: The solicitor must stop acting, in court by applying to come off the record for professional embarrassment, but without telling the court why: the client's communications are confidential and privileged.
+Hannah: What if the client has already misled the court, say with a false name?
+Will: Advise the client to correct it. If the client refuses, the solicitor must cease to act, and must not keep relying on the false information.
+Hannah: And previous convictions the prosecution has missed?
+Will: A defence solicitor need not volunteer them, but must not say or imply the client is of good character, or let the client tell the court otherwise. If the client insists, cease to act.
+Hannah: Does a client changing their story mean stopping?
+Will: Not in itself: a client may change their account. Stop only where it's clear the client is trying to put forward false evidence.
+Hannah (summing up): The duty to the court prevails: put the prosecution to proof despite an admission, but never mislead the court, and stop acting if the client insists on it.
+Will: Right: test the case, never mislead, and step away if they insist.
+## Block 7: Warning notices: SLAPPs and conduct in disputes
+Hannah: Before SLAPPs, one on duty to the court: Marcus tells his solicitor 'I did it', pleads not guilty, then wants to give an alibi. What can she do?
+Will (scenario pause): <think>
+Will: Keep acting and put the prosecution to proof, but not run the alibi, a positive case inconsistent with his admission; if he insists on giving it, she must stop acting. The admission alone doesn't mean she must stop.
+Hannah: Yes: testing the evidence stays open, the alibi never does, and if he insists on it she steps away.
+Will: Now, the warning notices on SLAPPs and conduct in disputes. A SLAPP is the use or threatened use of legal action or process to silence or intimidate people from speaking or reporting on matters of public interest, typically with a weak or meritless claim and aggressive tactics aimed at deterring publication rather than vindicating a right.
+Hannah: And what conduct is ruled out in any dispute?
+Will: Four things. One, bringing or threatening claims that aren't properly arguable. Two, aggressive, intimidating or misleading correspondence. Three, exaggerated threats of costs or consequences. Four, targeting individuals with disproportionate demands. Your duty to the client doesn't override your duties to the court, the administration of justice and integrity.
+Hannah: Can marking a letter not for publication keep it quiet?
+Will: Labels like private and confidential, not for publication or without prejudice don't bind the recipient unless there's a legal basis, such as a genuine settlement attempt for without prejudice. Using them to make the recipient think they can't publish, share or seek advice is misleading.
+Hannah: And recipients who have no lawyer?
+Will: Take particular care with unrepresented recipients of claims or threats: don't exploit their lack of legal knowledge by overstating the law, the strength of the claim or the costs they face.
+Hannah: So what if the client insists anyway?
+Will: Advise against any claim or correspondence that would be a SLAPP or otherwise abusive, and decline to act that way, even if the client insists: your duties to the court and the rule of law prevail. And being unable to satisfy yourself the claim is properly arguable militates against continuing to act.
+Hannah (summing up): Never bring or threaten unarguable claims or send aggressive, intimidating or misleading letters, and decline to act that way even when the client insists.
+Will: Right: insistence never makes an abusive claim or threat acceptable.
+## Recap
+Hannah: One last question, mixing areas: a client insists you send a journalist a letter threatening a claim that isn't properly arguable, marked not for publication. What now?
+Will (scenario pause): <think>
+Will: Advise against it and decline to send it: a threat must be properly arguable, and the label doesn't bind without a legal basis. Unlike a client insisting on misleading the court, where you must stop acting, here you decline to act that way.
+Hannah: That pulls three areas together, all pointing one way.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for evidence and witnesses?
+Will (quick-fire pause): <think>
+Will: Familiarising a witness is fine but coaching isn't, and no witness benefit or expert fee may depend on the nature of the evidence or the outcome.
+Hannah: What's the summary for properly arguable submissions?
+Will (quick-fire pause): <think>
+Will: A point must be properly arguable, even in correspondence: a weak case with a real basis can be run, but not one known false or baseless.
+Hannah: What's the summary for contempt and court orders?
+Will (quick-fire pause): <think>
+Will: Breaking an undertaking to the court is contempt; obey orders that bind you; and use a disclosed document only for its own proceedings, unless an exception applies.
+Hannah: What's the summary for wasting the court's time?
+Will (quick-fire pause): <think>
+Will: Never waste the court's time, and a representative whose improper, unreasonable or negligent conduct causes wasted costs can be ordered to pay them personally.
+Hannah: What's the summary for drawing the court's attention?
+Will (quick-fire pause): <think>
+Will: Raise adverse law and irregularities you know of that are likely to materially affect the outcome; keep harmful facts confidential unless the client consents or the law requires, but never mislead about them; without notice, disclose everything material.
+Hannah: What's the summary for the duty to the court and the client?
+Will (quick-fire pause): <think>
+Will: The duty to the court prevails: put the prosecution to proof despite an admission, but never mislead the court, and stop acting if the client insists on it.
+Hannah: What's the summary for SLAPPs and conduct in disputes?
+Will (quick-fire pause): <think>
+Will: Never bring or threaten unarguable claims or send aggressive, intimidating or misleading letters, and decline to act that way even when the client insists.
+Hannah: And how would you sum up the whole workshop in one sentence?
+Will: The duty to the court prevails: never tamper with evidence, mislead the court or put forward what isn't properly arguable, but keep the client's confidences unless they consent, and where continuing would mislead the court, stop acting rather than disclose.

@@ -1,0 +1,304 @@
+---
+id: blp-ws02-rev-v1
+unit: u-bpp-BLP-02
+guide_hash: 6f351e8783
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: BLP WS02 · Revision · 18 min
+map:
+- The constitution: memorandum, objects and articles
+- Legal effect of the articles
+- Parent and subsidiary companies
+- Incorporation from scratch
+- Shelf companies and company names
+- Post-incorporation steps
+- Pre-incorporation contracts
+- Company decision making: board and shareholder resolutions, and removing a director
+- Board meetings and general meetings: calling, notice, quorum and voting
+- The general meeting sandwich, short notice and the written resolution procedure
+- Post-meeting matters: filing and record keeping
+- Private and public companies; legal personality
+- Accounts, audit and annual filing
+recap:
+- Restricted objects never defeat the company's capacity, but directors who exceed them breach their duty.
+- Members can enforce the articles only for membership rights, never outsider rights.
+- Voting rights or board control make a subsidiary, never the percentage of shares held.
+- The company exists from its certificate's date, and the certificate conclusively proves due registration.
+- A new name takes effect only on the new certificate; new directors come in before old ones resign.
+- The accounting reference date defaults to the last day of the incorporation anniversary month.
+- Whoever contracts for an unformed company is personally liable unless otherwise agreed; only a novation binds the company.
+- Majorities count votes cast at a meeting, but all eligible votes in writing.
+- An interested director can't count or vote on the board without an exception, but votes his shares freely, subject to statutory exceptions.
+- Members pass the resolution, but the board calls the meeting and implements the result.
+- A new director's identity is verified, and Companies House is notified within 14 days.
+- Without a trading certificate a public company mustn't trade or borrow, but its transactions stay valid.
+- Accounts are due 9 months after the period ends for a private company, 6 for a public one, unless a first period runs over a year.
+summary: Most questions turn on who decides and how: the board, unless the Act or articles reserve the matter to the members or need their approval, and members' majorities count votes cast at a meeting but all eligible votes in writing.
+invented:
+- Tess
+- Sam
+- Alpha
+- Beta
+- 70%
+- Ravi
+- Bright plc
+- Fox plc
+- eight months
+guide_only:
+- P:BLP-4.1-01 (block 1: A company's constitution is its articles of association plus...)
+- P:BLP-4.1-07 (block 1: A company's objects are unrestricted unless its articles specifically...)
+- P:BLP-4.1-09 (block 1: In favour of a person dealing with the company...)
+- P:BLP-4.1-10 (block 1: Where the other party to a transaction exceeding the...)
+- P:BLP-4.1-02 (block 1: If a company limited by shares registers no articles,...)
+- P:BLP-4.1-04 (block 1: Articles are altered by special resolution at least 75%;...)
+- P:BLP-4.1-05 (block 1: An alteration of articles must be made bona fide...)
+- P:BLP-4.1-06 (block 1: Articles may contain entrenched provisions that can be altered...)
+- D1.0 (block 1: unfair prejudice)
+- P:BLP-4.2-01 (block 4: To incorporate a company, deliver to the registrar: the...)
+- P:BLP-4.2-05 (block 4: A company's registered office must be an 'appropriate address':...)
+- P:BLP-4.2-06 (block 5: The directors may change the registered office by notifying...)
+- P:BLP-6.4-01 (block 5: Under the Model Articles a director may be appointed...)
+- P:BLP-6.1-19 (block 5: A private company need not have a company secretary...)
+- D3.1 (block 5: one director; unless the articles require one)
+- P:BLP-4.2-15 (block 5: A private company's name must end with 'limited' or...)
+- P:BLP-4.2-14 (block 5: A company must display its registered name at its...)
+- P:BLP-4.2-08 (block 5: To adapt a shelf company: special resolutions to change...)
+- P:BLP-4.2-07 (block 6: After incorporation the first board meeting typically: appoints a...)
+- P:BLP-5.4-08 (block 6: A company that is not exempt must appoint auditors...)
+- D4.3 (block 6: directors; ordinary resolution)
+- P:BLP-12.2-05 (block 6: The company self-assesses: it must file its company tax...)
+- P:BLP-6.2-11 (block 8: Written resolutions private companies only may be proposed by...)
+- D8.0 (block 8: director; auditor)
+- D8.1 (block 8: as soon as; no effect)
+- P:BLP-6.2-12 (block 8: Unanimous informal assent of all members entitled to attend...)
+- D10.0 (block 8: 28 days to the company)
+- D10.5 (block 8: deemed properly given)
+- P:BLP-6.4-05 (block 8: Articles may give a director-shareholder weighted votes on a...)
+- P:BLP-6.2-01 (block 9: Board meetings under the Model Articles: any director may...)
+- P:BLP-6.2-05 (block 9: General meetings are called by the board; notice must...)
+- P:BLP-6.2-07 (block 9: Members holding at least 5% of the paid-up voting...)
+- D7.3 (block 9: 5%)
+- P:BLP-6.2-08 (block 9: The quorum for a general meeting is two qualifying...)
+- P:BLP-6.2-13 (block 9: Members may appoint proxies to attend, speak and vote...)
+- P:BLP-6.3-07 (block 11: Minutes of board meetings and of general meetings, records...)
+- D9.1 (block 11: 10 years; an offence)
+- P:BLP-6.3-01 (block 11: Key Companies House deadlines: appointments, changes and terminations of...)
+- P:BLP-6.3-08 (block 11: A copy or memorandum of each director's service contract...)
+- P:BLP-6.3-03 (block 11: A company must deliver a confirmation statement at least...)
+- P:BLP-2-12 (block 12: A public company is registered as public, has a...)
+- P:NEW-BLP-A-01 (block 12: A public company, like a private one, can be...)
+- P:BLP-3-01 (block 12: A registered company is a separate legal person distinct...)
+- P:BLP-3-02 (block 12: A shareholder's liability is limited to any amount unpaid...)
+- P:BLP-5.4-01 (block 13: Every company must keep adequate accounting records, sufficient to...)
+- P:BLP-5.4-02 (block 13: The directors must prepare annual accounts balance sheet, profit...)
+- P:BLP-5.4-05 (block 13: A copy of the annual accounts must be sent...)
+- P:BLP-5.4-11 (block 13: A sole trader files no public accounts but must...)
+- add:0 (block 1: 15 days: Sending the amended articles, and a copy...)
+- add:2 (block 5: 14 days: Serving documents at the old registered office...)
+- add:3 (block 5: 12 months: Secretary of State's direction to change a...)
+- add:4 (block 5: 16: A director's minimum age -> Must be at...)
+- add:5 (block 5: 1 / 2: Minimum number of directors -> Private...)
+- add:6 (block 6: 2 months: Issuing share certificates a first board meeting...)
+- add:9 (block 6: 28 days: Special notice of a resolution to remove...)
+- add:10 (block 6: 3 months: Telling HMRC the company is within the...)
+- add:11 (block 6: 12 months: Company tax return, with accounts and computations...)
+- add:13 (block 8: 5%: Members proposing a written resolution -> Or less...)
+- add:14 (block 8: 28 days: A written resolution not yet passed ->...)
+- add:15 (block 8: 28 days: Special notice to the company of a...)
+- add:17 (block 9: 2: Board meeting quorum under the Model Articles ->...)
+- add:18 (block 9: 14 clear days / 21 clear days: Notice of...)
+- add:19 (block 9: 48 hours: Notice sent by post or electronically ->...)
+- add:20 (block 9: 5%: Members requiring the directors to call a general...)
+- add:21 (block 9: 21 days / 28 days: Directors calling a meeting...)
+- add:22 (block 9: 3 months: Requesting members calling the meeting themselves when...)
+- add:23 (block 9: 2 / 1: General meeting quorum -> Two qualifying...)
+- add:25 (block 9: 5 members / 10%: A demand for a poll...)
+- add:26 (block 9: 48 hours: The articles' deadline for receiving proxy appointments...)
+- add:28 (block 11: 10 years: Keeping minutes of board and general meetings...)
+- add:29 (block 11: 15 days: Filing special resolutions and certain ordinary resolutions,...)
+- add:30 (block 11: 14 days: Appointments, changes and terminations of directors or...)
+- add:31 (block 11: 14 days: PSC information and changes -> Deadline)
+- add:35 (block 11: 1 year / 7 days: Keeping a copy or...)
+- add:38 (block 11: 14 days / 12 months: Confirmation statement -> At...)
+- add:41 (block 12: 6 months: A public company's AGM -> Must be...)
+- add:42 (block 13: 3 years / 6 years: Keeping accounting records ->...)
+- add:43 (block 13: 21 days: Sending a public company's accounts to members...)
+- add:50 (block 13: 5 years: Keeping a sole trader's tax records ->...)
+- P:BLP-6.2-06 (block 10: short notice: a majority in number holding at least 90% or 95%...)
+- add:27 (block 10: 90% / 95%: short notice of a general meeting)
+- P:BLP-5.4-06 (block 13: audit exemption for a small company, unless 10% require an audit...)
+- add:48 (block 13: 10% / 1 month: members requiring a small company to be audited)
+---
+## Map
+Will: How is a company formed, run and kept in order? Thirteen areas, in four groups: the constitution, articles and subsidiaries; forming the company; decisions, meetings and records; and types of company, legal personality and accounts.
+Hannah: A warm-up on partnerships: Tess retires with an indemnity from her partners, and a creditor sues her over a debt from before she left. Is she liable?
+Will (scenario pause): <think>
+Will: Yes, unless a novation agreed with the continuing firm and the creditor releases her. The indemnity tempts, but it only lets her recover from her partners.
+Hannah: Good: the indemnity can't stop the creditor.
+## Block 1: The constitution: memorandum, objects and articles
+Will: Now the constitution. A company's objects are unrestricted unless its articles specifically restrict them. Even then, its act can't be challenged for lack of capacity because of anything in its constitution, but directors who cause it to act outside restricted objects breach their duty to act within their powers.
+Hannah (summing up): Restricted objects never defeat the company's capacity, but directors who exceed them breach their duty.
+Will: Yes: the act stands; the directors answer.
+## Block 2: Legal effect of the articles
+Hannah: Before the articles' legal effect: an old objects clause limits a company to printing, but its directors sign a café lease. Is it bound?
+Will (scenario pause): <think>
+Will: Yes, though the directors are in breach. Void as ultra vires tempts, but the constitution can't defeat capacity.
+Hannah: Right: the lease binds the company.
+Will: Now the legal effect of the articles. They bind the company and its members as if each had covenanted to observe them. But a member enforces only rights held as a member, such as voting, not outsider rights like being the company's solicitor or a director.
+Hannah (summing up): Members can enforce the articles only for membership rights, never outsider rights.
+Will: Yes: membership rights only.
+## Block 3: Parent and subsidiary companies
+Hannah: Before subsidiaries: the articles make Sam, a member, the company's solicitor, but the board uses another firm. Can Sam enforce that?
+Will (scenario pause): <think>
+Will: No: it's an outsider right. The contract tempts, but members enforce it only for membership rights.
+Hannah: Agreed: membership doesn't help him there.
+Will: Now parent and subsidiary companies. A company is a subsidiary if another holds a majority of its voting rights, or is a member able to appoint or remove a majority of its board, or is a member controlling a majority of the votes alone, under an agreement with others.
+Hannah (summing up): Voting rights or board control make a subsidiary, never the percentage of shares held.
+Will: Yes: votes or the board, not shares.
+## Block 4: Incorporation from scratch
+Hannah: Before incorporation from scratch: Alpha holds 70% of Beta's shares, all non-voting, with no say over Beta's board. Is Beta its subsidiary?
+Will (scenario pause): <think>
+Will: No: Alpha has no voting majority and no board control. The share percentage tempts, but it isn't the test.
+Hannah: Right: no votes and no board control.
+Will: Now incorporation from scratch. On registration, the registrar issues a certificate of incorporation, which is conclusive evidence that the registration requirements were met. The company exists from the date on it, and a private company may trade from then.
+Hannah (summing up): The company exists from its certificate's date, and the certificate conclusively proves due registration.
+Will: Yes: the certificate dates it and proves it.
+## Block 5: Shelf companies and company names
+Hannah: Before shelf companies: founders gave a PO box as the registered office, yet a certificate was issued. Is the company duly registered?
+Will (scenario pause): <think>
+Will: Yes: the certificate is conclusive. The bad address tempts, but it only has to be put right.
+Hannah: Correct: registration stands regardless.
+Will: Now shelf companies and company names. A shelf company has already been formed and registered, so it exists at once, but it needs changes after purchase. Its name changes by special resolution, or as its articles provide; the resolution and notice are filed, and the change takes effect only when the registrar issues a new certificate of incorporation, not on passing.
+Hannah: And in what order are the directors changed?
+Will: At the first board meeting, appoint the new directors, and any secretary, before the old ones resign.
+Hannah (summing up): A new name takes effect only on the new certificate; new directors come in before old ones resign.
+Will: Yes: certificate for the name, appointments before resignations.
+## Block 6: Post-incorporation steps
+Hannah: Before post-incorporation steps: at a shelf company's first board meeting, sole director Nominee Ltd resigns before the client is appointed. Is that right?
+Will (scenario pause): <think>
+Will: No: appoint the client first, so it's never without a director. Treating the order as a formality is the trap.
+Hannah: Yes: client in, then the nominee out.
+Will: Now post-incorporation steps. The accounting reference date is, by default, the last day of the month in which the anniversary of incorporation falls. The first period must be more than 6 and no more than 18 months.
+Hannah: Can the company change its period later?
+Will: It can shorten it as often as it likes, but extend it only once in 5 years, with exceptions, and never beyond 18 months.
+Hannah (summing up): The accounting reference date defaults to the last day of the incorporation anniversary month.
+Will: Yes: the month's end, not the anniversary day.
+## Block 7: Pre-incorporation contracts
+Hannah: Before pre-incorporation contracts, a date: Newco is incorporated on 10 March and keeps the default date. When does its first period end?
+Will (calculation pause): <think>
+Will: 31 March next year. 10 March tempts, but the date runs to the month's end.
+Hannah: Right: the end of the anniversary month.
+Will: Now pre-incorporation contracts. If someone contracts for a company not yet formed, he's personally liable, unless otherwise agreed, and can enforce it. The company can't ratify it, since it didn't exist; only a new contract, a novation, binds it. Buying a shelf company avoids the problem.
+Hannah (summing up): Whoever contracts for an unformed company is personally liable unless otherwise agreed; only a novation binds the company.
+Will: Yes: no ratification, only a new contract.
+## Block 8: Company decision making: board and shareholder resolutions, and removing a director
+Hannah: Before decision making: Ravi signs a contract for a company registered the next day, and its board adopts it. Is the company bound?
+Will (scenario pause): <think>
+Will: No: it can't ratify a contract made before it existed; Ravi stays liable unless otherwise agreed. Adoption tempts, but only a new contract binds it.
+Hannah: Right: adopting isn't ratifying.
+Will: Now company decision making: who decides? Under the Model Articles, the directors manage the business, may exercise all the company's powers and may delegate; shareholders can direct them only by special resolution.
+Hannah: And how do the majorities count?
+Will: An ordinary resolution needs more than 50%, a special one at least 75%. At a meeting, that's of the votes cast, in person or by proxy; in writing, it's of all eligible members' total voting rights, so silence counts against.
+Hannah (summing up): Majorities count votes cast at a meeting, but all eligible votes in writing.
+Will: Yes: in writing, silence counts against.
+## Block 9: Board meetings and general meetings: calling, notice, quorum and voting
+Hannah: Before meetings: a written special resolution is agreed by members with 70% of the votes; the rest never reply. Has it passed?
+Will (scenario pause): <think>
+Will: No: in writing it needs 75% of all eligible votes. Counting only replies tempts, but that's the meeting rule.
+Hannah: Yes: silence counts against.
+Will: Now meetings and voting. On a show of hands, each member present, and each proxy, has one vote; on a poll, each member has one vote per share. Under the Model Articles, the chair has no casting vote at a general meeting.
+Hannah: Who can demand a poll?
+Will: Under the Model Articles: the chair, the directors, two or more persons entitled to vote, or holders of at least 10% of the voting rights. It can be demanded in advance, or immediately after the show of hands is declared.
+Hannah: Can an interested director vote at a board meeting?
+Will: No: he isn't counted in the quorum and can't vote, unless the members disapply this by ordinary resolution, the interest can't reasonably be seen as likely to cause a conflict, or there's a permitted cause.
+Hannah: What counts as a permitted cause?
+Will: There are three: a guarantee by or to him for a company obligation, a subscription for shares, and employee benefits giving him no special benefit. As a shareholder, though, he votes his shares freely: the bar covers only board decisions.
+Hannah: Are there limits on that freedom?
+Will: There are statutory exceptions, including two. On an off-market buyback, the resolution isn't effective if it wouldn't have passed without the seller's votes on the shares bought, and on a written resolution he isn't an eligible member. On ratifying a director's own breach, his and connected members' votes in favour are disregarded.
+Hannah (summing up): An interested director can't count or vote on the board without an exception, but votes his shares freely, subject to statutory exceptions.
+Will: Yes: the bar is on board decisions only.
+## Block 10: The general meeting sandwich, short notice and the written resolution procedure
+Hannah: Before the sandwich: Priya holds 80% of the shares. A special resolution fails on a show of hands, and she at once demands a poll. Does it pass?
+Will (scenario pause): <think>
+Will: Yes: on the poll she has 80%. The show of hands tempts, but she holds at least 10% and demanded the poll in time.
+Hannah: Right: a poll counts shares, not hands.
+Will: Now the general meeting sandwich. First, a board meeting: directors declare interests, approve the transaction subject to member approval, and call a general meeting or circulate a written resolution. Next, the members pass the resolution. Then the board reconvenes to implement it, before the filings, register updates and minutes.
+Hannah (summing up): Members pass the resolution, but the board calls the meeting and implements the result.
+Will: Yes: board meetings either side of the vote.
+## Block 11: Post-meeting matters: filing and record keeping
+Hannah: Before post-meeting matters: the members approve a transaction at a general meeting. Can they now execute the documents themselves?
+Will (scenario pause): <think>
+Will: No: the board reconvenes after the meeting to implement it. Shareholders alone tempts, but they only pass the resolution.
+Hannah: Yes: members vote; the board implements.
+Will: Now post-meeting matters. A new director's identity must be verified with Companies House, and the company notifies it within 14 days, including his consent to act and confirmation of that verification. The company no longer keeps its own register of directors or residential addresses.
+Hannah: Do the members approve his service contract?
+Will: Only if it gives him a guaranteed term of more than 2 years.
+Hannah (summing up): A new director's identity is verified, and Companies House is notified within 14 days.
+Will: Yes: and no register of directors to update.
+## Block 12: Private and public companies; legal personality
+Hannah: Before public companies: Dev is appointed a director at a general meeting. What must the company now do, and by when?
+Will (scenario pause): <think>
+Will: Notify Companies House within 14 days, with his consent and verified identity. Updating a register of directors tempts, but it no longer keeps one.
+Hannah: Correct: notify within 14 days; no register.
+Will: Now private and public companies. A public company mustn't do business or borrow until the registrar issues a trading certificate, which needs allotted share capital of at least £50,000 nominal, each share paid up to at least a quarter of its nominal value, plus all of any premium.
+Hannah: What if it trades without one?
+Will: The transaction is still valid, but it's an offence. And if the company fails to meet its obligations within 21 days of being called on, the directors are jointly and severally liable to indemnify the other party.
+Hannah (summing up): Without a trading certificate a public company mustn't trade or borrow, but its transactions stay valid.
+Will: Yes: valid, but an offence.
+## Block 13: Accounts, audit and annual filing
+Hannah: Before accounts: Bright plc trades without its trading certificate, then fails to pay a supplier within 21 days of being called on. Is the contract void?
+Will (scenario pause): <think>
+Will: No: it's valid, and the directors are jointly and severally liable to indemnify the supplier. Void tempts, but the law protects him that way.
+Hannah: Yes: a valid contract, with the directors liable.
+Will: Now accounts, audit and annual filing. A private company files accounts within 9 months after the end of its accounting reference period, a public one within 6. Late filing brings automatic civil penalties and is an offence.
+Hannah: What if the first period is longer than 12 months?
+Will: Then they're due 21 months after incorporation for a private company, or 18 for a public one.
+Hannah: Could the deadline be later than that?
+Will: Yes: 3 months after the period ends, if that's later.
+Hannah (summing up): Accounts are due 9 months after the period ends for a private company, 6 for a public one, unless a first period runs over a year.
+Will: Yes: nine months private, six public.
+## Recap
+Hannah: Last question: Fox plc, a public company, files its accounts eight months after its period ends. Is it on time?
+Will (scenario pause): <think>
+Will: No: a public company has 6 months. The 9-month private company deadline tempts, but it doesn't apply to a plc.
+Hannah: Right: six months, so it's late. Now the quick-fire round. What's the summary for the constitution?
+Will (quick-fire pause): <think>
+Will: Restricted objects never defeat the company's capacity, but directors who exceed them breach their duty.
+Hannah: What's the summary for enforcing the articles?
+Will (quick-fire pause): <think>
+Will: Members can enforce the articles only for membership rights, never outsider rights.
+Hannah: What's the summary for subsidiaries?
+Will (quick-fire pause): <think>
+Will: Voting rights or board control make a subsidiary, never the percentage of shares held.
+Hannah: What's the summary for incorporation?
+Will (quick-fire pause): <think>
+Will: The company exists from its certificate's date, and the certificate conclusively proves due registration.
+Hannah: What's the summary for shelf companies?
+Will (quick-fire pause): <think>
+Will: A new name takes effect only on the new certificate; new directors come in before old ones resign.
+Hannah: What's the summary for post-incorporation steps?
+Will (quick-fire pause): <think>
+Will: The accounting reference date defaults to the last day of the incorporation anniversary month.
+Hannah: What's the summary for pre-incorporation contracts?
+Will (quick-fire pause): <think>
+Will: Whoever contracts for an unformed company is personally liable unless otherwise agreed; only a novation binds the company.
+Hannah: What's the summary for resolutions?
+Will (quick-fire pause): <think>
+Will: Majorities count votes cast at a meeting, but all eligible votes in writing.
+Hannah: What's the summary for meetings and voting?
+Will (quick-fire pause): <think>
+Will: An interested director can't count or vote on the board without an exception, but votes his shares freely, subject to statutory exceptions.
+Hannah: What's the summary for the general meeting sandwich?
+Will (quick-fire pause): <think>
+Will: Members pass the resolution, but the board calls the meeting and implements the result.
+Hannah: What's the summary for post-meeting matters?
+Will (quick-fire pause): <think>
+Will: A new director's identity is verified, and Companies House is notified within 14 days.
+Hannah: What's the summary for public companies?
+Will (quick-fire pause): <think>
+Will: Without a trading certificate a public company mustn't trade or borrow, but its transactions stay valid.
+Hannah: What's the summary for accounts?
+Will (quick-fire pause): <think>
+Will: Accounts are due 9 months after the period ends for a private company, 6 for a public one, unless a first period runs over a year.
+Hannah: Finally, in one sentence, what decides most questions here?
+Will: Most questions turn on who decides and how: the board, unless the Act or articles reserve the matter to the members or need their approval, and members' majorities count votes cast at a meeting but all eligible votes in writing.

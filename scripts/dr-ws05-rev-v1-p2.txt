@@ -1,0 +1,460 @@
+---
+id: dr-ws05-rev-v1-p2
+unit: u-bpp-DR-05
+guide_hash: b6456aa298
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: DR WS05 (2 of 2) · Revision · 24 min
+part: 2 of 2
+blocks: 7-16
+map:
+- Small claims track
+- Fast track: directions, standard timetable and complexity bands
+- Intermediate track: scope, directions, page limits and complexity bands
+- Multi-track: directions and the case management conference
+- Costs management: budgets, budget discussion reports and costs management orders
+- The court's costs jurisdiction and types of costs: the indemnity principle, non-party and wasted costs orders
+- Costs discretion: the general rule (loser pays) and departing from it
+- Basis of assessment (standard and indemnity) and the amount of costs
+- Fixed costs, summary and detailed assessment, and time for paying costs; qualified one-way costs shifting (QOCS)
+- Interim costs orders
+recap:
+- Small claims recover only limited costs unless a party behaved unreasonably, and expert evidence needs the court's permission.
+- Fast-track experts give written evidence unless oral evidence is necessary in the interests of justice; most claims carry fixed recoverable costs.
+- The intermediate track has fixed recoverable costs, so no costs budgeting, and page limits apply unless the court orders otherwise.
+- A conference representative must know the case and have authority to deal with any issue likely to arise; if inadequate attendance or instructions cause an adjournment, expect a wasted costs order.
+- An approved budget limits standard-basis recovery unless there's good reason to depart, not the client's bill; no budget filed means court fees only, unless the court orders otherwise.
+- A winner recovers no more than it owes its lawyers; non-party orders are exceptional, made where just, and pure funders normally don't pay.
+- The loser generally pays, except on small claims, but conduct, partial success or admissible non-Part 36 offers can change the order.
+- Only the standard basis tests proportionality and gives the paying party the benefit of doubt; indemnity favours the receiving party; silence means standard.
+- Fixed costs are allowed whatever the actual costs, unless the court orders otherwise; other costs are assessed summarily at a hearing's end, or in detail later.
+- Costs in the case follow whoever wins costs at the end; reserved becomes costs in the case unless later decided; no order means each bears its own.
+summary: Track sets the costs regime: limited costs on small claims unless a party behaved unreasonably, fixed recoverable costs for most fast and intermediate claims, budgets on most multi-track claims; and the loser generally pays, on the standard basis if the order is silent.
+invented:
+- Mia
+- £1,200
+- Raj
+- Zara
+- Ali
+- Ola
+- £80,000
+- Ella
+- Noah
+- Leo
+- Kai
+guide_only: []
+---
+
+## Map
+
+Will: Part two: once a claim is on a track, how does it run, and who pays the costs? Ten areas: first the four tracks in practice, then six on costs, from budgets to interim costs orders.
+
+## Block 7: Small claims track
+
+Hannah: Let's start with the small claims track. What can the winner recover?
+
+Will: Only limited costs, seven items in all. Fixed issue costs, court fees, and fixed costs for legal advice on an injunction claim. Then reasonable travel and subsistence, loss of earnings up to £95 a day per party or witness, and expert fees up to £750. Last, further costs if a party behaved unreasonably.
+
+Hannah: How formal is the hearing?
+
+Will: It's informal: strict rules of evidence don't apply, and nor does Part 31 disclosure. The standard directions require each party to deliver copies of all documents it intends to rely on to the court and every other party. That's usually no later than 14 days before the hearing.
+
+Hannah: Can a party use an expert?
+
+Will: No expert evidence, written or oral, may be used without the court's permission, and no expert's report relied on without its express permission.
+
+Hannah: How much notice of the final hearing is given?
+
+Will: At least 21 days, unless the parties agree to accept less.
+
+Hannah (summing up): Small claims recover only limited costs unless a party behaved unreasonably, and expert evidence needs the court's permission.
+
+Will: Yes: limited costs, and experts by permission.
+
+## Block 8: Fast track: directions, standard timetable and complexity bands
+
+Hannah: Before the fast track, a question on small claims. Mia wins a small claim, nobody behaved unreasonably, and her expert charged £1,200. What can she recover for it?
+
+Will (scenario pause): <think>
+
+Will: Up to £750. The tempting answer is the whole fee, but small claims costs are limited.
+
+Hannah: Yes: the expert fee is capped there.
+
+Will: Now fast track directions. Typically, standard or more limited disclosure, and simultaneous exchange of witness statements. For experts, a single joint expert unless there's good reason otherwise, evidence in writing, and no oral expert evidence unless necessary in the interests of justice.
+
+Hannah: What's the standard timetable from notice of allocation?
+
+Will: Six steps. Disclosure at 4 weeks, and witness statements at 10 weeks.
+
+Hannah: When do the experts and the checklists come?
+
+Will: Expert reports at 14 weeks, and checklists sent at 20 weeks.
+
+Hannah: And what are the last two steps?
+
+Will: Checklists filed at 22 weeks. And the trial should take place within 30 weeks of allocation.
+
+Hannah: When exactly are pre-trial checklists filed?
+
+Will: By the date the court sets. On the fast and intermediate tracks, that's not more than 8 weeks before the trial date or the start of the trial period; on the multi-track, it's the date in its directions. The court may dispense with them.
+
+Hannah: What if no party files one?
+
+Will: On the fast and intermediate tracks, the claim, defence and counterclaim are struck out unless a completed checklist is filed within 7 days.
+
+Hannah: How is the trial fixed?
+
+Will: On allocation, the court fixes the trial date, or a window of no more than 3 weeks. The parties get at least 3 weeks' notice of the trial date.
+
+Hannah: Which claims get fixed recoverable costs?
+
+Will: Most claims that would normally be or are allocated to the fast track, normally up to £25,000, or the intermediate track, normally above that up to £100,000. The amount depends on the track, the complexity band assigned and the stage reached.
+
+Hannah: From when do they apply?
+
+Will: To claims issued on or after 1 October 2023. For personal injury, only if the cause of action accrued on or after that date; for disease claims, only if there was no letter of claim before it.
+
+Hannah (summing up): Fast-track experts give written evidence unless oral evidence is necessary in the interests of justice; most claims carry fixed recoverable costs.
+
+Will: Yes: written experts, and fixed costs.
+
+## Block 9: Intermediate track: scope, directions, page limits and complexity bands
+
+Hannah: Before the intermediate track, a question on the fast track. Raj wants his fast-track expert to give oral evidence. Will the court allow it?
+
+Will (scenario pause): <think>
+
+Will: Only if it's necessary in the interests of justice. The tempting answer is yes, since one expert per party per field fits the track, but that's a condition for allocation, not an allowance.
+
+Hannah: Right: oral expert evidence needs the interests of justice.
+
+Will: Now the intermediate track: claims up to £100,000 not suitable for the small claims or fast track, usually over £25,000.
+
+Hannah: How does the court manage it?
+
+Will: The trial is no more than 3 days. The court gives directions on allocation, often on the papers, or may fix a case management conference, considering any directions the parties agree.
+
+Hannah: Are there costs budgets?
+
+Will: No: budgeting is for multi-track cases, and fixed recoverable costs apply here instead. The standard period from directions to trial is not more than 30 weeks, with a trial date or period fixed.
+
+Hannah: What limits apply to the evidence?
+
+Will: Unless the court orders otherwise, a party's witness statements and summaries together must not exceed 30 pages. An expert report must not exceed 20 pages, excluding the CV and supporting material such as photographs and plans.
+
+Hannah (summing up): The intermediate track has fixed recoverable costs, so no costs budgeting, and page limits apply unless the court orders otherwise.
+
+Will: Yes: fixed costs, so no budgets.
+
+## Block 10: Multi-track: directions and the case management conference
+
+Hannah: Before the multi-track, a question on the intermediate track. The defendant to Zara's intermediate-track claim asks for costs budgets. Will the court order them?
+
+Will (scenario pause): <think>
+
+Will: No: fixed recoverable costs apply there, so costs budgeting doesn't. The tempting answer is yes, as on the multi-track, but budgeting is a multi-track tool.
+
+Hannah: Correct: no budgets on the intermediate track.
+
+Will: Now the multi-track's case management conference. A legal representative attending must be familiar with the case and have sufficient authority to deal with any issue likely to arise. If inadequate attendance or instructions lead to an adjournment, the court will expect to make a wasted costs order.
+
+Hannah: Who normally pays for the conference?
+
+Will: Its costs are usually costs in the case, but a party whose default made the hearing necessary may be ordered to pay them.
+
+Hannah: What must be filed beforehand?
+
+Will: In intermediate and multi-track claims other than personal injury, unless the court orders otherwise, each party files and serves a disclosure report, verified by a statement of truth, not less than 14 days before the first conference. The parties must discuss and try to agree a disclosure proposal not less than 7 days before it.
+
+Hannah: Is a case summary needed?
+
+Will: The parties should consider whether one would be useful. If so, the claimant prepares it, normally in no more than 500 words, agreed with the other parties if possible.
+
+Hannah (summing up): A conference representative must know the case and have authority to deal with any issue likely to arise; if inadequate attendance or instructions cause an adjournment, expect a wasted costs order.
+
+Will: Right: knowledge and authority, or wasted costs.
+
+## Block 11: Costs management: budgets, budget discussion reports and costs management orders
+
+Hannah: Before costs management, a question on the conference. Ali's solicitor sends someone with no authority, and it's adjourned. What order should the solicitor expect?
+
+Will (scenario pause): <think>
+
+Will: A wasted costs order. The tempting answer is costs in the case, the usual order, but inadequate attendance caused this adjournment.
+
+Hannah: Yes: no authority points to wasted costs.
+
+Will: Now costs management. It applies to all Part 7 multi-track claims, with four exceptions. Claims stated on the claim form at £10 million or more. Claims by or on behalf of a child, unless the court orders otherwise. Proceedings subject to fixed or scale costs. And where the court orders otherwise.
+
+Hannah: Is there a special case for a very ill claimant?
+
+Will: Yes: with a limited or severely impaired life expectancy of 5 years or less, the court will ordinarily disapply it.
+
+Hannah: When are budgets due?
+
+Will: Each party other than a litigant in person files and exchanges a budget, Precedent H: with the directions questionnaire where the stated value is under £50,000; otherwise no later than 21 days before the first case management conference.
+
+Hannah: When is the budget discussion report due?
+
+Will: An agreed report, Precedent R, showing figures agreed and not agreed, phase by phase, is due no later than 7 days before the first conference.
+
+Hannah: What does the court do with the budgets?
+
+Will: At the costs management conference it records the extent to which they're agreed, and approves those not agreed, after revision. It doesn't approve costs already incurred, but may comment on them. Where a costs management order is made, on a standard-basis assessment the court has regard to the last approved or agreed budget for each phase, and won't depart from it unless satisfied there's good reason.
+
+Hannah: Does the budget cap what the client owes its own solicitor?
+
+Will: No: it limits what's recoverable from the opponent on the standard basis, not what the client owes. So the solicitor must give the client the best possible information on likely overall cost, including any shortfall and the risk of paying the other side's costs.
+
+Hannah: What if no order was made and the bill strays from the budget?
+
+Will: If the costs claimed on detailed assessment differ by 20 per cent or more from the receiving party's budget, it must give a statement of reasons with its bill.
+
+Hannah: What happens to a party that never files a budget?
+
+Will: It's treated as having filed one of only the applicable court fees, unless the court orders otherwise, and it must seek relief from sanctions.
+
+Hannah (summing up): An approved budget limits standard-basis recovery unless there's good reason to depart, not the client's bill; no budget filed means court fees only, unless the court orders otherwise.
+
+Will: Yes: it limits recovery, absent good reason, not the bill.
+
+## Block 12: The court's costs jurisdiction and types of costs: the indemnity principle, non-party and wasted costs orders
+
+Hannah: Before the court's costs jurisdiction, a question on budgets. Ola's multi-track claim is stated at £80,000. When is her budget due?
+
+Will (scenario pause): <think>
+
+Will: No later than 21 days before the first case management conference. The tempting answer is with the directions questionnaire, but that's only under £50,000.
+
+Hannah: Right: at that value, not with the questionnaire.
+
+Will: Now the court's costs jurisdiction. The indemnity principle: a receiving party can't recover from the paying party more than it's liable to pay its own lawyers.
+
+Hannah: Is that the rule on success fees?
+
+Will: No, that's separate: for conditional fee agreements and after-the-event insurance made from April 2013, success fees and those premiums aren't recoverable from the opponent. Exceptions include mesothelioma claims, and the expert-report part of the premium in clinical negligence claims.
+
+Hannah: Can the court order a non-party to pay costs?
+
+Will: Exceptionally, and where just. The non-party is added as a party for costs purposes only, and given a reasonable opportunity to attend a hearing. Typically it funded and controlled the litigation, or was the real party who stood to benefit.
+
+Hannah: What about a relative who just pays the bills?
+
+Will: Pure funders aren't normally ordered to pay: those with no personal interest, not standing to benefit, not funding as a business and not controlling the case, such as family members or charities.
+
+Hannah (summing up): A winner recovers no more than it owes its lawyers; non-party orders are exceptional, made where just, and pure funders normally don't pay.
+
+Will: Yes: recovery is capped, and pure funders are usually safe.
+
+## Block 13: Costs discretion: the general rule (loser pays) and departing from it
+
+Hannah: Before costs discretion, a question on non-parties. Ella's mother paid for Ella's failed claim, with no control and nothing to gain. Must she pay the defendant's costs?
+
+Will (scenario pause): <think>
+
+Will: Not normally: she's a pure funder. The tempting answer is yes because she paid, but she neither controlled the case nor stood to benefit.
+
+Hannah: Spot on: a relative who just pays is normally safe.
+
+Will: Now costs discretion. The general rule is that the unsuccessful party is ordered to pay the successful party's costs, but the court may make a different order.
+
+Hannah: Does that apply on every track?
+
+Will: Not on the small claims track. And court fees are payable too, so the overall cost risk can be high.
+
+Hannah: What makes the court depart from it?
+
+Will: All the circumstances, including the conduct of all the parties, partial success, and any admissible offer to settle that isn't a Part 36 offer.
+
+Hannah: What counts as conduct?
+
+Will: It includes pre-action conduct and protocol compliance, whether it was reasonable to raise or contest an issue, and how the case was pursued. Also exaggeration by a successful claimant, and failing to comply with an ADR order or unreasonably failing to engage in ADR.
+
+Hannah (summing up): The loser generally pays, except on small claims, but conduct, partial success or admissible non-Part 36 offers can change the order.
+
+Will: Yes: loser pays, subject to conduct and partial success.
+
+## Block 14: Basis of assessment (standard and indemnity) and the amount of costs
+
+Hannah: Before the basis of assessment, a question on discretion. Noah wins at trial, but exaggerated his claim. Is he sure of all his costs?
+
+Will (scenario pause): <think>
+
+Will: No: exaggeration by a successful claimant is conduct the court weighs, and it may depart from the general rule. The tempting answer is yes because the loser pays, but winning alone doesn't settle it.
+
+Hannah: That's right: exaggeration can cost a winner.
+
+Will: Now the basis of assessment. On the standard basis, only costs that are proportionate, reasonably incurred and reasonable in amount are allowed, and doubts go to the paying party. On the indemnity basis there's no proportionality test, and doubts go to the receiving party.
+
+Hannah: Which applies if the order is silent?
+
+Will: The standard basis. Indemnity costs follow conduct out of the norm, or Part 36.
+
+Hannah (summing up): Only the standard basis tests proportionality and gives the paying party the benefit of doubt; indemnity favours the receiving party; silence means standard.
+
+Will: Yes: proportionality divides them.
+
+## Block 15: Fixed costs, summary and detailed assessment, and time for paying costs; qualified one-way costs shifting (QOCS)
+
+Hannah: Before fixed costs and assessment, a question on the basis. Leo's costs order is silent on the basis. Which applies, and who gets any doubt?
+
+Will (scenario pause): <think>
+
+Will: The standard basis, with doubts going to the paying party. The tempting answer is indemnity because Leo won, but that needs conduct out of the norm, or Part 36.
+
+Hannah: Yes: silence means standard.
+
+Will: Now fixed costs and assessment. Fixed costs are set amounts allowed, unless the court orders otherwise, regardless of actual costs.
+
+Hannah: What if the defendant pays up straight away?
+
+Will: If the only claim is for a specified sum, and the defendant pays it plus the fixed commencement costs within 14 days after service of the particulars, no further costs are payable unless the court orders otherwise.
+
+Hannah: Can a party recover more than fixed recoverable costs?
+
+Will: Only where exceptional circumstances make it appropriate, or a vulnerable party or witness needed additional work that alone makes the claim at least 20 per cent greater than those costs. Assessed at less than 20 per cent more, the party gets the lower of the fixed and assessed costs. And if neither ground is made out, it gets only the fixed recoverable costs and permitted disbursements; either way, the court may order it to pay some or all of the costs of the assessment.
+
+Hannah: What if a party behaves unreasonably in a fixed recoverable costs case?
+
+Will: The court may increase the costs payable to the other party, or reduce those payable to the unreasonable party, by 50 per cent.
+
+Hannah: When does the court assess costs summarily?
+
+Will: At the end of a fast-track trial, and of any other hearing lasting no more than one day, unless there's good reason not to. Otherwise costs are assessed in detail, by a costs officer after the proceedings end.
+
+Hannah: What must a party file for that?
+
+Will: A statement of costs, filed and served at least 24 hours before an interim hearing, or 2 days before a fast-track trial. Missing it without reasonable excuse counts in the costs order and the costs of any further hearing or detailed assessment it causes, but doesn't automatically bar recovery.
+
+Hannah: How does detailed assessment start?
+
+Will: The receiving party serves a notice of commencement and its bill within 3 months of the judgment or order. If it delays, the paying party may apply for an order to commence, and the court may disallow costs unless it does so; without that application, it may disallow only interest, absent misconduct.
+
+Hannah: What does the paying party do next?
+
+Will: Serve points of dispute within 21 days of service of the notice. If it doesn't, the receiving party may obtain a default costs certificate, which can be set aside for good reason.
+
+Hannah: What happens after the points of dispute?
+
+Will: The receiving party may reply within 21 days, and must request an assessment hearing within 3 months of the end of the period for commencing.
+
+Hannah: Are smaller bills handled differently?
+
+Will: Bills of £75,000 or less are provisionally assessed on paper.
+
+Hannah: Can a party challenge a paper assessment?
+
+Will: It may request an oral review within 21 days, but bears its costs unless it achieves an adjustment of 20 per cent or more in its favour.
+
+Hannah: When must costs be paid?
+
+Will: Within 14 days of the order where it states the amount, as with summary assessment, or of the costs certificate where it's decided later, unless the court specifies another date.
+
+Hannah (summing up): Fixed costs are allowed whatever the actual costs, unless the court orders otherwise; other costs are assessed summarily at a hearing's end, or in detail later.
+
+Will: Yes: fixed whatever was spent, unless one of those narrow exceptions or the 50 per cent adjustment applies.
+
+## Block 16: Interim costs orders
+
+Hannah: Before interim costs orders, a question on detailed assessment. Kai serves his notice of commencement, and 21 days pass with no points of dispute. What can Kai do?
+
+Will (scenario pause): <think>
+
+Will: Obtain a default costs certificate, which can be set aside for good reason. The tempting answer is to request an assessment hearing.
+
+Hannah: Right: no points of dispute means a default certificate.
+
+Will: Now interim costs orders. With costs in the case, whoever is awarded costs at the end gets the costs of this part; costs in the application works the same way.
+
+Hannah: How is claimant's costs in the case different?
+
+Will: If the claimant wins costs at the end, it recovers the costs of this part; if the defendant wins, the claimant doesn't have to pay them. Defendant's costs in the case is the mirror image.
+
+Hannah: What does costs reserved mean?
+
+Will: The decision is deferred to a later occasion; if no later order is made, the costs are costs in the case. No order as to costs, by contrast, decides now: each party bears its own costs of that part, whatever costs order is made at the end.
+
+Hannah: What if the order doesn't mention costs at all?
+
+Will: Then no party is entitled to costs of it, except that an order granting permission to appeal, granting permission to apply for judicial review, or made on any other without-notice application is deemed to include an order for the applicant's costs in the case.
+
+Hannah: When does a party get costs thrown away?
+
+Will: For example where a default judgment is set aside: the receiving party gets the costs incurred as a consequence. They include preparing for and attending the hearing where it was made, the hearing to set it aside and any adjourned hearing, and steps taken to enforce it.
+
+Hannah (summing up): Costs in the case follow whoever wins costs at the end; reserved becomes costs in the case unless later decided; no order means each bears its own.
+
+Will: Yes for costs in the case: the result decides. Costs reserved puts the decision off to a later occasion, and only if no later order is made do they become costs in the case; no order as to costs means each bears its own now.
+
+## Recap
+
+Hannah: A last question, mixing interim orders with the general rule. An interim hearing ends with claimant's costs in the case, and the defendant later wins. Does the defendant recover its costs of that hearing?
+
+Will (scenario pause): <think>
+
+Will: No: under that order, if the defendant wins, the claimant doesn't pay them. The tempting answer is yes because the loser pays.
+
+Hannah: Right: that order protects the claimant even in defeat. Now the quick-fire round. What's the summary for the small claims track?
+
+Will (quick-fire pause): <think>
+
+Will: Small claims recover only limited costs unless a party behaved unreasonably, and expert evidence needs the court's permission.
+
+Hannah: What's the summary for the fast track?
+
+Will (quick-fire pause): <think>
+
+Will: Fast-track experts give written evidence unless oral evidence is necessary in the interests of justice; most claims carry fixed recoverable costs.
+
+Hannah: What's the summary for the intermediate track?
+
+Will (quick-fire pause): <think>
+
+Will: The intermediate track has fixed recoverable costs, so no costs budgeting, and page limits apply unless the court orders otherwise.
+
+Hannah: What's the summary for the multi-track conference?
+
+Will (quick-fire pause): <think>
+
+Will: A conference representative must know the case and have authority to deal with any issue likely to arise; if inadequate attendance or instructions cause an adjournment, expect a wasted costs order.
+
+Hannah: What's the summary for costs management?
+
+Will (quick-fire pause): <think>
+
+Will: An approved budget limits standard-basis recovery unless there's good reason to depart, not the client's bill; no budget filed means court fees only, unless the court orders otherwise.
+
+Hannah: What's the summary for the indemnity principle and non-party costs?
+
+Will (quick-fire pause): <think>
+
+Will: A winner recovers no more than it owes its lawyers; non-party orders are exceptional, made where just, and pure funders normally don't pay.
+
+Hannah: What's the summary for who pays the costs?
+
+Will (quick-fire pause): <think>
+
+Will: The loser generally pays, except on small claims, but conduct, partial success or admissible non-Part 36 offers can change the order.
+
+Hannah: What's the summary for the basis of assessment?
+
+Will (quick-fire pause): <think>
+
+Will: Only the standard basis tests proportionality and gives the paying party the benefit of doubt; indemnity favours the receiving party; silence means standard.
+
+Hannah: What's the summary for fixed costs and assessment?
+
+Will (quick-fire pause): <think>
+
+Will: Fixed costs are allowed whatever the actual costs, unless the court orders otherwise; other costs are assessed summarily at a hearing's end, or in detail later.
+
+Hannah: What's the summary for interim costs orders?
+
+Will (quick-fire pause): <think>
+
+Will: Costs in the case follow whoever wins costs at the end; reserved becomes costs in the case unless later decided; no order means each bears its own.
+
+Hannah: And in one sentence, what decides most of the questions in this part?
+
+Will: Track sets the costs regime: limited costs on small claims unless a party behaved unreasonably, fixed recoverable costs for most fast and intermediate claims, budgets on most multi-track claims; and the loser generally pays, on the standard basis if the order is silent.

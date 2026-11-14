@@ -1,0 +1,157 @@
+---
+id: public2-ws01-rev-v1
+unit: u-bpp-Public2-01
+guide_hash: f2786a6541
+made: 2026-11-14T21:44:24+00:00
+kind: revision
+title: Public2 WS01 · Revision · 18 min
+map:
+- Amenability
+- Procedural exclusivity
+- Standing
+- Time limits and ouster clauses
+- Procedure and remedies
+recap:
+- A decision in the exercise of a public function is reviewable, even by a non-statutory body; power from contract or consent alone isn't.
+- Public law challenges must generally go by judicial review; since the CPR, an ordinary claim is struck out only for abuse, otherwise it may be transferred.
+- Standing needs a sufficient interest: the directly affected plainly have it; a group or a sincerely concerned individual may, but not a busybody.
+- File promptly and within 3 months of the grounds first arising, unless a shorter limit applies; only very clear words oust review, but time-limited ousters are effective.
+- Use any suitable alternative remedy first, save in exceptional circumstances; permission needs an arguable ground with a realistic prospect of success; every remedy is discretionary.
+summary: Judicial review tests the lawfulness, not the merits, of a public function's exercise; the claimant needs sufficient interest, a claim filed promptly and within time, and permission, and every remedy is discretionary.
+invented:
+- Dev
+- Ruth
+- Sam
+- Tom
+guide_only: []
+---
+## Map
+Will: Today's question: can a decision be challenged by judicial review, and how does a claim run? Five areas: amenability, procedural exclusivity, standing, and time limits with ouster clauses; then procedure and remedies.
+Hannah: The gateway questions first, then the claim itself. Where do we start?
+## Block 1: Amenability
+Will: With amenability: is the decision open to review at all? Judicial review is the High Court's review of the lawfulness of a decision, action or failure to act in the exercise of a public function. It's brought under Part 54 of the CPR and the Senior Courts Act. It reviews lawfulness, not the merits: the court asks whether the decision was lawfully reached, not whether it was right, and will not substitute its own view.
+Hannah: Which bodies can you challenge this way?
+Will: A body whose powers come from statute or the prerogative is prima facie reviewable. That includes inferior courts and tribunals, such as magistrates, the county court, coroners and the First-tier Tribunal. The Crown Court is reviewable too, except in matters relating to trial on indictment. But the High Court is not, and Upper Tribunal refusals of permission to appeal are largely excluded.
+Hannah: What about a body with no statutory powers at all?
+Will: The nature of the function, not only the source of the power, decides. A non-statutory body is reviewable if it exercises public functions: for example, it's woven into the government's regulatory system, meaning government would create it if it didn't exist, and those affected have no choice but to submit to it. That's Datafin. And a self-regulator is amenable where, but for the body, Parliament would have had to regulate the activity.
+Hannah: Which bodies and decisions fall outside review?
+Will: Three kinds. Bodies whose power comes only from contract or consent, such as sports governing bodies; religious bodies' spiritual functions; and public bodies' essentially private law decisions, like employment contracts or ordinary commercial contracts without a public law element.
+Hannah: Even a sports body that's the only regulator of its sport?
+Will: Even then: its members' agreement gives them private rights, so it's not amenable.
+Hannah: And what about a private company providing services under arrangements with a council?
+Will: It's not amenable where its relationship is purely contractual and its functions lack sufficient statutory underpinning. It may be amenable where its functions have significant statutory underpinning, for example where it's under a direct, continuing statutory duty in providing them.
+Hannah: Is that the same as a public authority under the HRA?
+Will: They overlap, but a public function isn't the same thing: a private body may be a hybrid public authority under the HRA for some acts only.
+Hannah: Can you challenge an Act of Parliament?
+Will: No. Its validity can't be challenged; at most the court may make a declaration of incompatibility under the HRA, which leaves the Act valid. Nor can proceedings in Parliament. But secondary legislation, policies and guidance can be. A policy is unlawful if it authorises or approves unlawful conduct by those it's directed to, for example a wrong statement of law that would lead them to act unlawfully.
+Hannah (summing up): A decision in the exercise of a public function is reviewable, even by a non-statutory body; power from contract or consent alone isn't.
+Will: Yes: the nature of the function decides, not only the source of the power.
+## Block 2: Procedural exclusivity
+Hannah: Before procedural exclusivity, a question on amenability. A housing association runs a council's care home under purely contractual arrangements, and its functions lack sufficient statutory underpinning. Can residents challenge its closure by judicial review?
+Will (scenario pause): <think>
+Will: No: as in Servite, a purely contractual provider whose functions lack sufficient statutory underpinning isn't amenable. The tempting answer is that doing the council's job makes it public; on its own, it doesn't.
+Hannah: Right: purely contractual, without sufficient statutory underpinning, means outside review.
+Will: Now procedural exclusivity: must a challenge go by judicial review? Public law challenges must generally be brought by judicial review, not an ordinary claim, so as not to evade its time limit and permission filter. That's O'Reilly v Mackman.
+Hannah: What are the exceptions to that?
+Will: They include a collateral challenge raised as a defence in civil or criminal proceedings, unless the statutory scheme excludes it. Another is a claim where private law rights dominate, or where the public law issue arises collaterally within a private law claim.
+Hannah: And what happens to an ordinary claim that should have been judicial review?
+Will: Since the CPR, the court strikes out only for abuse, chiefly evading the time limit or permission. Otherwise it may transfer the claim.
+Hannah (summing up): Public law challenges must generally go by judicial review; since the CPR, an ordinary claim is struck out only for abuse, otherwise it may be transferred.
+Will: Right: judicial review is the general route, with exceptions.
+## Block 3: Standing
+Hannah: Before standing, a question on procedural exclusivity. Dev is prosecuted for breaching a council byelaw and says the byelaw is unlawful. Must he bring judicial review, or can he raise it in his defence?
+Will (scenario pause): <think>
+Will: He can raise it in his defence: a collateral challenge raised as a defence in criminal proceedings is an exception, unless the statutory scheme excludes it. The tempting answer is the general rule, but this is its exception.
+Hannah: Correct: his defence is a collateral challenge, unless the scheme rules that out.
+Will: Now standing: the claimant must have a sufficient interest in the matter to which the application relates. It's considered at permission, to filter out busybodies, and again at the hearing together with the merits.
+Hannah: Is that the same as the victim test under the HRA?
+Will: No, that's the trap: the victim test governs HRA claims only. Standing in judicial review depends on sufficient interest.
+Hannah: So who plainly has standing, then?
+Will: A person whose rights or interests are directly affected. But a group with only a general interest in someone else's affairs may not: taxpayers challenging another group's tax treatment lacked standing.
+Hannah: And how do pressure groups get standing?
+Will: The approach is liberal. The court considers the importance of the issue and vindicating the rule of law, the absence of any other responsible challenger, the nature of the breach, and the group's expertise or role.
+Hannah: What about a concerned individual with no personal stake?
+Will: Individuals with a sincere concern about a constitutional or public issue can have standing even without personal impact, but a mere busybody cannot. Still, standing depends on context: an applicant with a genuine but general concern may be refused it where others more directly affected are better placed to bring the challenge. In the Parole Board case on a prisoner's release, the victims had standing, but the Mayor of London lacked it.
+Hannah (summing up): Standing needs a sufficient interest: the directly affected plainly have it; a group or a sincerely concerned individual may, but not a busybody.
+Will: That's right: direct effect plainly gives standing; busybodies never get it.
+## Block 4: Time limits and ouster clauses
+Hannah: Before time limits and ouster clauses, a question on standing. Ruth, with a genuine but general concern, challenges a prisoner's release, which the victims could challenge themselves. Will she have standing, or may she be refused it?
+Will (scenario pause): <think>
+Will: She may be refused it: the victims, being more directly affected, are better placed. The tempting answer is that sincere concern is enough; it can be, but standing depends on context.
+Hannah: Yes: a general concern can give way to those more directly affected.
+Will: Now time limits: is the claim in time? The claim form must be filed promptly. In any event, it's due not later than 3 months after the grounds first arose.
+Hannah: Is that like the six-year limitation period for private claims?
+Will: No, that's the trap. The six-year period governs private law claims, not judicial review.
+Hannah: Does time run from the decision, or from when the claimant learns of it?
+Will: From when the grounds first arose, usually the decision date, not from when the claimant learnt of them.
+Hannah: And is filing inside the 3 months always safe?
+Will: No. Promptly is a separate requirement, so a claim within 3 months can still be refused for delay where it would prejudice third parties or good administration. The parties cannot extend the time limit by agreement, but the court may extend it for good reason. And pre-action letters, complaints or negotiations don't stop time running.
+Hannah: What can the court do about undue delay?
+Will: It may refuse permission or relief if granting relief would be likely to cause substantial hardship or prejudice to any person, or be detrimental to good administration.
+Hannah: Can a shorter limit apply?
+Will: Yes: a shorter limit in any other enactment displaces the 3 months. For planning decisions by the Secretary of State or a local planning authority under the planning Acts, it's 6 weeks after the grounds arose.
+Hannah: And what's the limit for public procurement decisions?
+Will: 30 days, from when the claimant first knew or ought to have known of the grounds.
+Hannah: For planning, does time run from the committee's resolution or from the grant?
+Will: From the grant of permission, not the earlier committee resolution.
+Hannah: Now ouster clauses. Can an Act stop judicial review altogether?
+Will: There's a presumption against ousting the jurisdiction of the courts: clauses purporting to exclude judicial review are read narrowly, and only very clear words will exclude it. A decision tainted by error of law is only a purported determination, so "shall not be called into question" doesn't protect it. That's Anisminic. But time-limited ousters, like 6 weeks for planning or compulsory purchase challenges, are effective.
+Hannah: Last, what happens when the flaw made no real difference?
+Will: The court must refuse relief if it is highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless it certifies exceptional public interest.
+Hannah (summing up): File promptly and within 3 months of the grounds first arising, unless a shorter limit applies; only very clear words oust review, but time-limited ousters are effective.
+Will: Yes: file promptly, and read every ouster narrowly.
+## Block 5: Procedure and remedies
+Hannah: Before procedure and remedies, a question on time limits. A council decides against Sam while he's on holiday; he learns of it on his return and files at once, just outside 3 months from the decision. Is he in time?
+Will (scenario pause): <think>
+Will: No. Time runs from when the grounds first arose, not from when he learnt of them, so he needs the court to extend time for good reason. The tempting answer is that he filed at once; but what he knew doesn't move the start date.
+Hannah: Right: the clock starts when the grounds arise, whatever he knew.
+Will: Now procedure and remedies: how is a claim brought, and which remedy fits? Judicial review is a last resort: permission is normally refused where a suitable alternative remedy, such as a statutory appeal, a complaints procedure or a tribunal, exists and hasn't been used, unless there are exceptional circumstances.
+Hannah: When will the court allow judicial review despite an alternative remedy?
+Will: Only in exceptional circumstances, for example where the alternative is inadequate or too slow.
+Hannah: Then how does a claim get started?
+Will: Send a pre-action protocol letter. The defendant normally replies within 14 days. Time keeps running. Then file the claim form in the Administrative Court, seeking permission.
+Hannah: Where does the Administrative Court sit?
+Will: In the King's Bench Division. The county court has no judicial review jurisdiction, and most immigration judicial reviews go to the Upper Tribunal.
+Hannah: And what are the deadlines once the claim is issued?
+Will: Serve the claim form within 7 days of issue. The defendant files an acknowledgment of service within 21 days of service.
+Hannah: What does the court ask at permission?
+Will: Usually on the papers, it asks whether there's an arguable ground with a realistic prospect of success. It must refuse if it's highly likely the outcome would not have been substantially different had the conduct complained of not occurred, unless there's exceptional public interest.
+Hannah: What if permission is refused on the papers?
+Will: The claimant may renew orally within 7 days of service of the reasons, unless the claim is certified totally without merit.
+Hannah: Now the remedies. What does a quashing order do?
+Will: It sets aside the unlawful decision, which is normally then treated as void. The court may remit the matter for a fresh decision, or, where a court or tribunal erred in law and only one decision was lawfully possible, substitute its own. It may instead delay the quashing, or remove or limit its retrospective effect, with the decision upheld meanwhile.
+Hannah: Which order makes a council decide an application it's sitting on?
+Will: A mandatory order: it compels a public body to perform a public duty, such as deciding an application. Not a prohibiting order, which stops a public body from acting unlawfully in the future.
+Hannah: What about declarations and injunctions?
+Will: A declaration is a non-coercive statement of the law or rights, useful against the Crown. An injunction, including an interim one, to restrain or require action is available against ministers in judicial review.
+Hannah: And can a claimant get damages?
+Will: Not as the only remedy sought. They may be claimed alongside another judicial review remedy, and awarded only if they would have been awarded in an ordinary claim, for example in tort or under the HRA. There's no general right to damages for unlawful administrative action.
+Hannah: Can the claimant get anything before the full hearing?
+Will: Interim relief, meaning an interim injunction or a stay of the decision, can be sought urgently pending the hearing. The court asks whether there's a real issue to be tried and where the balance of convenience lies, giving weight to the public interest in the public body's decision remaining in force.
+Hannah: Does the claimant have to wait for permission before asking?
+Will: No: an interim injunction can be sought with the claim form and granted before permission. A prohibiting order, by contrast, is final relief only.
+Hannah: And is any remedy guaranteed once the claimant wins?
+Will: No. All judicial review remedies are discretionary: relief may be refused for undue delay, the claimant's conduct, an unused alternative remedy, or where it would serve no practical purpose.
+Hannah (summing up): Use any suitable alternative remedy first, save in exceptional circumstances; permission needs an arguable ground with a realistic prospect of success; every remedy is discretionary.
+Will: Yes: and even a winning claimant depends on the court's discretion.
+## Recap
+Hannah: Before the quick-fire round, a question on remedies, with ousters mixed in. An Act says a commission's decisions "shall not be questioned in any court", but Tom says its decision against him rests on an error of law. Is he shut out, and which order would set it aside?
+Will (scenario pause): <think>
+Will: He's not shut out: a decision tainted by error of law is only a purported determination, so the ouster doesn't protect it, and a quashing order would set it aside. The tempting answer is that those words stop all review.
+Hannah: Yes: that ouster can't protect a decision tainted by error of law, and quashing fits. Now the quick-fire round: what's the summary for amenability?
+Will (quick-fire pause): <think>
+Will: A decision in the exercise of a public function is reviewable, even by a non-statutory body; power from contract or consent alone isn't.
+Hannah: What's the summary for procedural exclusivity?
+Will (quick-fire pause): <think>
+Will: Public law challenges must generally go by judicial review; since the CPR, an ordinary claim is struck out only for abuse, otherwise it may be transferred.
+Hannah: What's the summary for who has standing?
+Will (quick-fire pause): <think>
+Will: Standing needs a sufficient interest: the directly affected plainly have it; a group or a sincerely concerned individual may, but not a busybody.
+Hannah: What's the summary for time limits and ouster clauses?
+Will (quick-fire pause): <think>
+Will: File promptly and within 3 months of the grounds first arising, unless a shorter limit applies; only very clear words oust review, but time-limited ousters are effective.
+Hannah: What's the summary for procedure and remedies?
+Will (quick-fire pause): <think>
+Will: Use any suitable alternative remedy first, save in exceptional circumstances; permission needs an arguable ground with a realistic prospect of success; every remedy is discretionary.
+Hannah: And the whole workshop in one sentence: what decides most of it?
+Will: Judicial review tests the lawfulness, not the merits, of a public function's exercise; the claimant needs sufficient interest, a claim filed promptly and within time, and permission, and every remedy is discretionary.
