@@ -3751,7 +3751,7 @@
       ],
       "summary": "Timing and value decide most questions here: before time expires, extend by prior written agreement within limits or apply; once a sanction bites, Denton decides relief; and the claim's value, with its conditions, gives the normal track.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers its part's items in full); known-error scan 0 left (hits judged not the error by Opus triage); opus x2 (4 fixes); changed lines: 1 problem, one revision (it + a repeated run); changed lines again: pass; changed lines (r202611131901): checked by K1 (fx1-C3, fx1-C4, fx1-K6b); re-stamped on the staged guide",
@@ -3765,7 +3765,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11917029,
+      "seconds": 1490,
+      "words": 3584,
+      "renderedHash": "8de8a281829e",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws05-rev-v1-975ca9f8.mp3",
+      "siteAudio": "audio/dr-ws05-rev-v1-975ca9f8.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "dr-ws05-rev-v1-p2",
@@ -3801,7 +3810,7 @@
       ],
       "summary": "Track sets the costs regime: limited costs on small claims unless a party behaved unreasonably, fixed recoverable costs for most fast and intermediate claims, budgets on most multi-track claims; and the loser generally pays, on the standard basis if the order is silent.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers its part's items in full); known-error scan 0 left (hits judged not the error by Opus triage); opus x2 (11 fixes); changed lines: 5 problems, one revision (them + turn order); changed lines again: pass; changed lines (r202611131901): checked by K1 (fx1-C3, fx1-C4, fx1-K6b); re-stamped on the staged guide",
@@ -3820,7 +3829,16 @@
         "b16",
         "b17"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12406877,
+      "seconds": 1551,
+      "words": 3593,
+      "renderedHash": "3914a1172659",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/dr-ws05-rev-v1-p2-f43238e0.mp3",
+      "siteAudio": "audio/dr-ws05-rev-v1-p2-f43238e0.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "blp-ws02-rev-v1",
@@ -3862,7 +3880,7 @@
       ],
       "summary": "Most questions turn on who decides and how: the board, unless the Act or articles reserve the matter to the members or need their approval, and members' majorities count votes cast at a meeting but all eligible votes in writing.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 153/153 items; known-error scan 0 hits; Opus accuracy + line-by-line (1 + 4 problems), 4 fixes applied; changed lines verified (pass, 0); one targeted round on two turns with three figures (5d); changed lines verified again (pass, 0); final code checks and known-error scan ok; changed lines (r202611131901): checked by K1 (fx1-C6, fx1-K3); re-stamped on the staged guide",
@@ -3883,7 +3901,16 @@
         "b12",
         "b13"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9341548,
+      "seconds": 1168,
+      "words": 2349,
+      "renderedHash": "33cd6d237456",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws02-rev-v1-82471f2e.mp3",
+      "siteAudio": "audio/blp-ws02-rev-v1-82471f2e.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "blp-ws03-rev-v1",
@@ -3919,7 +3946,7 @@
       ],
       "summary": "The board runs the company, but for a long service contract, a substantial asset, a loan, or ratifying a director's breach, the members decide by ordinary resolution unless an exception applies.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 80/80 items; known-error scan 0 hits; Opus accuracy + line-by-line (4 + 8 problems), 10 fixes applied (7 by fixflow, 3 by one script-revise); changed lines verified (pass, 0); final code checks and known-error scan ok; re-stamped on the staged guide (r202611131901): no line changed",
@@ -3937,7 +3964,16 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11047031,
+      "seconds": 1381,
+      "words": 3020,
+      "renderedHash": "96dcfac02e98",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/blp-ws03-rev-v1-1fe99a86.mp3",
+      "siteAudio": "audio/blp-ws03-rev-v1-1fe99a86.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "public2-ws01-rev-v1",
@@ -3963,7 +3999,7 @@
       ],
       "summary": "Judicial review tests the lawfulness, not the merits, of a public function's exercise; the claimant needs sufficient interest, a claim filed promptly and within time, and permission, and every remedy is discretionary.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape; 0 errors, 8 flags); revcheck ok 48/48 items (17.8 min); known-error scan 0 hits (305 known errors); Opus accuracy and line-by-line checks both pass with no problems, so no fixes and no changed lines to verify; final code checks and known-error scan ok",
@@ -3977,7 +4013,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9050239,
+      "seconds": 1131,
+      "words": 2649,
+      "renderedHash": "f498c5900597",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws01-rev-v1-1caa854e.mp3",
+      "siteAudio": "audio/public2-ws01-rev-v1-1caa854e.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "eth-ws03-rev-v1",
@@ -4007,7 +4052,7 @@
       ],
       "summary": "The duty to the court prevails: never tamper with evidence, mislead the court or put forward what isn't properly arguable, but keep the client's confidences unless they consent, and where continuing would mislead the court, stop acting rather than disclose.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape); revcheck ok 48/48 items; known-error scan: 2 matches cleared by the Opus triage (the witness-statement and SLAPP lines state the rule correctly); Opus accuracy + line-by-line (11 + 13 problems), 14 fixes applied, one script-revise (a repeated run); changed lines verified (1 finding), 2 targeted rounds, last check of the changed lines passes; final code checks and known-error scan ok",
@@ -4022,7 +4067,16 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8975840,
+      "seconds": 1122,
+      "words": 2578,
+      "renderedHash": "af9d9ec927ca",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws03-rev-v1-9f473769.mp3",
+      "siteAudio": "audio/eth-ws03-rev-v1-9f473769.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "public2-ws02-rev-v1",
@@ -4050,7 +4104,7 @@
       ],
       "summary": "Illegality asks whether the body had the power and directed itself correctly in law; irrationality asks whether no reasonable decision-maker could have reached the decision, a high threshold that disagreement alone never meets.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3, revision shape; 0 errors); revcheck ok 37/37 items (18.1 min); known-error scan 0 hits (309 known errors); Opus accuracy and line-by-line checks (3 + 3 problems, 4 merged fixes applied, copies synced); changed lines verified (1 finding), 1 targeted round, its check of the changed lines passes; final code checks and known-error scan ok",
@@ -4065,7 +4119,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9656280,
+      "seconds": 1207,
+      "words": 2633,
+      "renderedHash": "33ae515d0de9",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws02-rev-v1-a69568df.mp3",
+      "siteAudio": "audio/public2-ws02-rev-v1-a69568df.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     },
     {
       "id": "public2-ws04-rev-v1",
@@ -4089,7 +4152,7 @@
       ],
       "summary": "Most questions turn on whether a clear and unambiguous promise or practice came from someone with authority, and then whether the body can identify an overriding interest justifying departure, outside macro-political decisions.",
       "madeAt": "2026-11-14T21:44:24+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers all 19 items); known-error scan 0 hits; opus x2 (both pass, 0 problems, so no fixes and no changed lines)",
@@ -4102,7 +4165,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8312750,
+      "seconds": 1039,
+      "words": 2420,
+      "renderedHash": "ae42f34e51ba",
+      "renderedAt": "2026-11-14T21:45:19+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws04-rev-v1-62c40101.mp3",
+      "siteAudio": "audio/public2-ws04-rev-v1-62c40101.mp3",
+      "pubDate": "2026-11-14T21:45:19+00:00"
     }
   ],
   "replays": [
