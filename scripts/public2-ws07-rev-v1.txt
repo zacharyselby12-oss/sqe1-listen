@@ -1,0 +1,124 @@
+---
+id: public2-ws07-rev-v1
+unit: u-bpp-Public2-07
+guide_hash: 45ccdbdbb9
+made: 2026-11-15T08:43:25+00:00
+kind: revision
+part: 1 of 2
+blocks: 1-3
+title: Public2 WS07 (part 1 of 2) · Revision · 16 min
+map:
+- Article 2: use of lethal force
+- Article 2: positive and investigative duties
+- Article 3: torture, inhuman or degrading treatment
+recap:
+- Lethal force must serve a permitted purpose and be absolutely necessary, a stricter test than for qualified rights; failures of command and control can breach Article Two too.
+- The police's general lack of a negligence duty doesn't bar Article Two claims; ordinary clinical negligence, with a proper framework, isn't a breach; and investigations needn't end in prosecution.
+- Nothing justifies treatment reaching Article Three's minimum severity, not even national security on removal; but the duty to protect isn't absolute, and only serious failings breach the duty to investigate.
+summary: Lethal force must serve a permitted purpose and be absolutely necessary, and a proper investigation needn't end in prosecution; ill-treatment reaching minimum severity is never justified, though the duty to protect isn't absolute.
+invented:
+- Dan
+- Viktor
+guide_only: []
+---
+## Map
+Will: Today's big question: when does the state breach the right to life, or the ban on torture and inhuman or degrading treatment? This is part one of two, with three areas. Article Two, the right to life, takes two: when lethal force is justified, and the state's duties to protect life and investigate deaths.
+Hannah: And what comes after the right to life, and what's left for part two?
+Will: Then Article Three, torture, inhuman or degrading treatment, in one area. Part two takes the third right, Article Five, the right to liberty.
+Hannah: First, a warm-up on last time's topic, who counts as a victim under the Human Rights Act. A man dies in police custody, and his mother wants to bring a claim, though nothing was done to her directly. Can she be a victim?
+Will (scenario pause): <think>
+Will: Yes: close relatives may be victims where a death engages Article Two. The tempting answer is no, because a victim is usually someone directly affected by the act, but a death engaging the right to life lets close relatives in.
+Hannah: Good: her son's death engages the right to life, and that's what makes her a victim too.
+## Block 1: Article 2: use of lethal force
+Will: First, lethal force under Article Two: when is a death caused by the state's force not a breach? There are three permitted purposes. A death isn't a breach if it results from force no more than absolutely necessary to defend any person from unlawful violence, to make a lawful arrest or prevent an escape, or to quell a riot or insurrection.
+Hannah: And is 'absolutely necessary' the same as the necessity test for qualified rights?
+Will: No, it's stricter than the 'necessary in a democratic society' test used for qualified rights: the force must be strictly proportionate to the aim. And the planning and control of the operation count as well.
+Hannah: What happens when the officers who fired honestly thought they had to?
+Will: If state agents honestly believed, for good reasons, that shooting was necessary, they don't themselves breach Article Two, even if they were mistaken. But the state can still breach it through failures of command, control and training: for example, making no allowance for inaccurate intelligence, or no earlier arrest.
+Hannah: And what about firing at someone who's simply running away?
+Will: In principle, lethal force to arrest or recapture someone known to pose no threat to life or limb, and not suspected of a violent offence, isn't absolutely necessary, even if he escapes.
+Hannah: Can a state derogate from the right to life in an emergency?
+Will: Only for deaths resulting from lawful acts of war; otherwise it's non-derogable, and its terms are strictly construed. But unlike Article Three, it isn't absolute: its own text allows deaths in exceptional law-enforcement situations.
+Hannah: And what about the death penalty, which the article itself still mentions?
+Will: That exception is obsolete: Protocol 13 abolishes the death penalty in all circumstances, and that protocol is scheduled to the Human Rights Act.
+Hannah (summing up): Lethal force must serve a permitted purpose and be absolutely necessary, a stricter test than for qualified rights; failures of command and control can breach Article Two too.
+Will: Yes: a permitted purpose and absolute necessity, and the state also answers for how the operation was planned and controlled.
+## Block 2: Article 2: positive and investigative duties
+Hannah: Before the state's duties, a question on lethal force. Officers know that Dan, a fleeing shoplifter, is unarmed and not violent. They shoot him dead to stop him escaping. Arrest is a permitted purpose, so is the shooting lawful, or does it breach Article Two?
+Will (scenario pause): <think>
+Will: It breaches Article Two: the force wasn't absolutely necessary, because he posed no threat to life or limb and wasn't suspected of a violent offence. The tempting answer is that a lawful arrest justifies it, but a permitted purpose isn't enough without absolute necessity.
+Hannah: Right, the purpose was there, but killing someone who posed no threat fails absolute necessity.
+Will: Now the state's positive and investigative duties under Article Two: when must it act to protect a life, and when must it investigate a death? There are two positive duties. First, the state must have an effective legal and administrative framework protecting life, and even the lack of any criminal sanction can breach it.
+Hannah: And what's the second one, the operational duty?
+Will: Where the authorities knew or ought to have known of a real and immediate risk to the life of an identified individual or individuals, they must take measures within their powers that, judged reasonably, might be expected to avoid that risk. That's the Osman test.
+Hannah: Does it matter that the police generally owe no duty in negligence to protect people from crime by others?
+Will: No: that common law rule doesn't bar an Article Two claim. So a family whose claim against the police fails in negligence can still bring one under Article Two.
+Hannah: Who does the operational duty particularly cover?
+Will: People for whom the state has assumed responsibility: detainees at risk of suicide, and psychiatric patients, including voluntary ones. In Rabone, voluntary status wasn't decisive, because the trust could and should have detained her under the Mental Health Act.
+Hannah: And where does Article Two stop in a hospital?
+Will: Ordinary clinical negligence isn't a breach where a proper regulatory framework exists. Withdrawing nutrition and hydration from a patient in a persistent vegetative state with a hopeless prognosis isn't one either: there's no duty to prolong life. And Article Two confers no right to die, so the ban on assisted suicide doesn't breach it.
+Hannah: Now the investigative duty: when is it triggered?
+Will: It's triggered by a death caused by state agents' force. It's also triggered by a death a third party causes where state responsibility may arise, especially of someone in custody. Where the state may bear responsibility, such as for a suspicious death in custody, an effective, independent public investigation is required; otherwise what it requires varies with the context.
+Hannah: What features must the investigation have?
+Will: Five, in two groups. It must be independent of those implicated, and effective, meaning capable of identifying and punishing those responsible.
+Hannah: And what are the other three features?
+Will: It must be reasonably prompt, open to sufficient public scrutiny, and involve the next of kin. And the duty is owed whether the breach alleged is of the negative duty or a positive one.
+Hannah: When does the enhanced procedural obligation, with its expanded verdict, come in?
+Will: It arises automatically in some categories, such as state killings and custody deaths; otherwise, only on an arguable substantive breach. And the investigative duty arises where potentially lethal force is used even if the victim survives, with the Article Three duty alongside it.
+Hannah: Does the duty reach abroad, and what form must the investigation take?
+Will: It applies abroad where the UK has jurisdiction, for example its soldiers exercising authority and control over those killed. There's no single template: an inquest can be enough, but flawed inquests into security-force killings breached Article Two. And several separate processes, such as an internal prison inquiry and a criminal trial, may still fall short.
+Hannah: And what happens when no one is prosecuted at the end of it?
+Will: A decision not to prosecute for insufficient evidence isn't a breach if the investigation itself was proper. The investigation need not lead to prosecution: it's an obligation of means, not result.
+Hannah (summing up): The police's general lack of a negligence duty doesn't bar Article Two claims; ordinary clinical negligence, with a proper framework, isn't a breach; and investigations needn't end in prosecution.
+Will: Right: tort rules don't block Article Two, ordinary clinical negligence isn't enough where the framework is sound, and the investigative duty is one of means.
+## Block 3: Article 3: torture, inhuman or degrading treatment
+Hannah: Before torture, a question on investigating deaths. A man dies in a police cell. An independent body investigates promptly and publishes its report, but never involves his family, and no officer is prosecuted for lack of evidence. Is the investigative duty breached, and why?
+Will (scenario pause): <think>
+Will: Yes, because the next of kin were left out, and involving them is a required feature. The tempting answer blames the decision not to prosecute, but that alone wouldn't breach the duty, since a proper investigation needn't end in a prosecution.
+Hannah: Leaving out the family was the failing, not the decision that there wasn't enough evidence to charge anyone.
+Will: Now Article Three: torture, inhuman or degrading treatment. Does the treatment reach the threshold, and did the state fail to prevent it, investigate it, or avoid exposing someone to it abroad? Article Three is absolute: there's no justification, even terrorism. The treatment must reach a minimum level of severity. And a person can't be removed where there are substantial grounds for believing they face a real risk of such treatment abroad.
+Hannah: How is minimum severity judged?
+Will: On all the circumstances: the duration and the physical and mental effects, and in some cases the victim's sex, age and health. And the threshold is high: the state's conduct must be serious and wholly unacceptable, so a terminally ill prisoner receiving palliative care didn't reach it.
+Hannah: And what about something as small as a slap?
+Will: Physical force on a detainee that his own conduct didn't make strictly necessary, even a slap, is in principle degrading treatment. Prison conditions can be degrading too, such as no proper sanitation and a cramped cell that worsened a prisoner's eczema.
+Hannah: Then how do we tell torture from inhuman or degrading treatment?
+Will: All three breach Article Three equally, and torture is distinguished mainly by the intensity of suffering. Torture is deliberate inhuman treatment causing very serious and cruel suffering, and it carries a special stigma. Inhuman treatment is intense physical or mental suffering, even without bodily injury. Degrading treatment arouses fear, anguish or inferiority, humiliating or debasing the victim.
+Hannah: Where do the Five Techniques sit?
+Will: They included hooding, wall-standing and sleep deprivation, and they were inhuman and degrading, not torture; a later attempt to reopen the case failed. The torture cases involved electrocution, suspension and repeated beatings, and rape in custody.
+Hannah: Is the duty to protect people from ill-treatment absolute too?
+Will: No: unlike the negative duty, the positive duty isn't absolute. It's breached where the authorities knew or ought to have known of a real risk of ill-treatment, including by private individuals, and failed to take reasonable steps to prevent it. So a local authority failing to protect children from known abuse breaches Article Three. And the criminal law must deter ill-treatment: a stepfather who beat a child being acquitted on a defence of reasonable chastisement was a breach.
+Hannah: And the duty to investigate: what triggers it?
+Will: An arguable claim of serious ill-treatment reaching the threshold, whether by state agents or serious violence by private individuals. It's an operational duty on the police to investigate effectively, not merely a duty to have laws, and it covers police investigation of crimes like rape by private individuals, not only ill-treatment by the state.
+Hannah: How good does the investigation have to be?
+Will: It must be capable of identifying and punishing those responsible, but it needn't succeed. Simple errors or isolated omissions don't breach the duty: only serious operational or systemic failings do. Serious operational failures are enough on the majority view, though Lord Hughes would have limited it to systemic failings.
+Hannah: Can you show me where that line falls?
+Will: Take a woman who reports being held captive and seriously assaulted by a stranger. Officers lose the forensic samples and never interview the suspect she names: those are serious operational failures, so that's a breach, and her failed negligence claim doesn't matter, because the absence of a tort duty doesn't bar an Article Three claim.
+Hannah: And what does the other side of the line look like?
+Will: A prompt, thorough investigation of a serious assault where one exhibit is mislabelled through a single clerical slip: that's no breach, even though no one is charged.
+Hannah: Now removal: when does Article Three stop a deportation or extradition?
+Will: Where there are substantial grounds for believing there's a real risk of ill-treatment in the receiving state, removal is barred, absolutely. There's no balancing: national security and the deportee's own crimes can't be weighed against the risk.
+Hannah: Does the risk have to come from the receiving state itself?
+Will: No: a risk from non-state actors or rogue officials whom the state cannot or will not restrain counts, and the receiving government's assurances may not be enough. Indirect refoulement counts too: removal to a third country breaches Article Three if there's a real risk of onward return to ill-treatment. And the way a punishment is carried out can count: years on death row barred an extradition.
+Hannah: And what about someone who's seriously ill?
+Will: In medical cases the test is a real risk of serious, rapid and irreversible decline causing intense suffering, or a significant reduction in life expectancy. It isn't limited to imminent death, but the threshold stays very high.
+Hannah: Last, whole life sentences: are they compatible with Article Three?
+Will: A whole life sentence must be reducible, with a prospect of release and a possibility of review. The England and Wales regime is compatible, because the Secretary of State, not the court, has a compassionate release power that covers exceptional circumstances.
+Hannah (summing up): Nothing justifies treatment reaching Article Three's minimum severity, not even national security on removal; but the duty to protect isn't absolute, and only serious failings breach the duty to investigate.
+Will: Spot on: the negative duty is absolute, while protection turns on reasonable steps, and investigation on serious operational or systemic failings.
+## Recap
+Hannah: One last question, on removal. The Home Secretary wants to deport Viktor, convicted of serious violent crimes. His home government promises he'll be safe, but a militia it can't control is likely to torture him. Can his crimes be weighed against the risk, or is deportation barred?
+Will (scenario pause): <think>
+Will: Deportation is barred. A real risk from non-state actors the state can't restrain counts, and the government's promises may not be enough. The tempting answer is to weigh his dangerousness against the risk, but Article Three allows no balancing at all.
+Hannah: Nothing goes on the scales against that risk: not his crimes, and not national security.
+Will: Now the quick-fire round: one summary for each of the three areas.
+Hannah: What's the summary for lethal force under Article Two?
+Will (quick-fire pause): <think>
+Will: Lethal force must serve a permitted purpose and be absolutely necessary, a stricter test than for qualified rights; failures of command and control can breach Article Two too.
+Hannah: What's the summary for the state's duties to protect life and investigate deaths?
+Will (quick-fire pause): <think>
+Will: The police's general lack of a negligence duty doesn't bar Article Two claims; ordinary clinical negligence, with a proper framework, isn't a breach; and investigations needn't end in prosecution.
+Hannah: What's the summary for torture and ill-treatment under Article Three?
+Will (quick-fire pause): <think>
+Will: Nothing justifies treatment reaching Article Three's minimum severity, not even national security on removal; but the duty to protect isn't absolute, and only serious failings breach the duty to investigate.
+Hannah: And the whole of this part in one sentence: what decides most of its questions?
+Will: Lethal force must serve a permitted purpose and be absolutely necessary, and a proper investigation needn't end in prosecution; ill-treatment reaching minimum severity is never justified, though the duty to protect isn't absolute.

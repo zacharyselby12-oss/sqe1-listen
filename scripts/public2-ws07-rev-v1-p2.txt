@@ -1,0 +1,116 @@
+---
+id: public2-ws07-rev-v1-p2
+unit: u-bpp-Public2-07
+guide_hash: 45ccdbdbb9
+made: 2026-11-15T08:43:25+00:00
+kind: revision
+part: 2 of 2
+blocks: 4-6
+title: Public2 WS07 (part 2 of 2) · Revision · 15 min
+map:
+- Article 5: deprivation of liberty and containment
+- Article 5: permitted grounds of detention
+- Article 5: procedural guarantees
+recap:
+- A kettle necessary to avert a real risk of serious injury or damage, proportionate and kept no longer than reasonably necessary falls outside Article Five altogether.
+- Detention must be prescribed by law and on an exhaustive ground, with no balancing; preventive detention is short, to stop a concrete, specific offence, with release once the risk passes.
+- Someone arrested on suspicion must see a judge promptly: four days is treated as the maximum, and shorter periods can still breach; periodic reviews need reasonable intervals.
+summary: Article Five applies only to a deprivation of liberty, not a mere restriction; and a deprivation must be prescribed by law and on an exhaustive ground, with no balancing, and its guarantees met.
+invented:
+- Raj
+- Lee
+- 18 months
+guide_only: []
+---
+## Map
+Will: This is part two of two. Part one covered two rights: Article Two, the right to life; and Article Three, torture, inhuman or degrading treatment. Now the third right, Article Five, the right to liberty, and the big question: when does detaining someone breach it? There are three areas.
+Hannah: And what are the three areas, in order?
+Will: What counts as a deprivation of liberty, including crowd containment and curfews; then the permitted grounds of detention; and last, the procedural guarantees a detained person must get.
+Hannah: So where does the right to liberty start?
+## Block 4: Article 5: deprivation of liberty and containment
+Will: With deprivation of liberty and containment under Article Five. Is the measure a deprivation of liberty, or only a restriction that falls outside Article Five? Deprivation differs from a mere restriction of movement in degree or intensity, not nature, judged on the person's concrete situation: the type, duration, effects and manner of implementation of the measure.
+Hannah: Is the old Cheshire West acid test still the answer?
+Will: Not any more. That test, continuous supervision and control and not free to leave, has been overruled: it isn't sufficient by itself, and purpose, context and the normality of the setting can be relevant. Prison and strict arrest are classic deprivations, but there are many other forms, and you look at the substance, not the label given to the measure. A mere restriction doesn't engage Article Five at all.
+Hannah: And kettling a crowd: is that a deprivation of liberty?
+Will: Containment to prevent an imminent breach is lawful and not a deprivation if it's necessary to avert a real risk of serious injury or damage, proportionate, and kept no longer than reasonably necessary. It must also be imposed in good faith, not arbitrarily, as the least intrusive and most effective way to avert that risk.
+Hannah: Does a lawful kettle need justifying as preventive detention, under one of Article Five's permitted grounds?
+Will: No, and that's the trap: a lawful kettle falls outside Article Five altogether, so it isn't a detention justified under the suspicion and prevention ground. But a kettle prolonged beyond need, or used for another purpose such as stifling protest, can become a deprivation. The ruling rested on exceptional facts, and whether demanding personal details before people may leave points to a deprivation is unsettled.
+Hannah: And how are curfews under control orders judged?
+Will: The starting point is physical confinement, meaning the curfew's length, considered cumulatively with the other restrictions. A curfew of 18 hours, plus severe restrictions, was a deprivation of liberty.
+Hannah: And what about the shorter curfews, of 12 and 14 hours?
+Will: Those weren't deprivations. And a so-called non-derogating order that in fact deprives liberty engages Article Five and is unlawful without a derogation.
+Hannah (summing up): A kettle necessary to avert a real risk of serious injury or damage, proportionate and kept no longer than reasonably necessary falls outside Article Five altogether.
+Will: That's right: inside those limits it isn't a deprivation at all, but keep it going beyond need and it can become one.
+## Block 5: Article 5: permitted grounds of detention
+Hannah: Before the grounds, a question on control orders. Raj must stay in his flat 18 hours a day, with severe limits on visitors and travel. Is that a deprivation of liberty, or only a restriction?
+Will (scenario pause): <think>
+Will: A deprivation: an 18-hour curfew with severe restrictions was held to deprive liberty. The tempting answer is a restriction, because he's free for part of each day. But you take the confinement cumulatively with the other restrictions, and only the shorter curfews in the cases weren't deprivations.
+Hannah: The length of the curfew, taken with the other restrictions, is what tips it over.
+Will: Now Article Five's permitted grounds of detention: is it prescribed by law, and does it fall within one of the exhaustive grounds? A deprivation of liberty breaches Article Five unless it passes both. Prescribed by law has four requirements. One, a basis in national law, which can be statute or case law. Two, the law is adequately accessible.
+Hannah: And what are the other two requirements?
+Will: Three, it's sufficiently precise: with advice, a citizen can foresee the consequences to a reasonable degree, and what's foreseeable depends on the law's content, field and addressees. Four, it gives no unfettered discretion: it sets out the scope and manner of any discretion, with safeguards against arbitrariness.
+Hannah: How precise does the law actually have to be?
+Will: Absolute certainty isn't required: reasonable precision is enough, and inherently vague concepts can pass. So binding over for breach of the peace was prescribed by law, but binding over for conduct contra bonos mores was too vague.
+Hannah: And how did the two police powers in the cases fare?
+Will: The terrorism power in Gillan failed: 'expedient' meant merely helpful, authorisations rolled on, and no suspicion was needed. The public order power in Roberts passed: it needed a reasonable belief of serious violence, and had a time limit and PACE and Equality Act safeguards. Both were Article 8 cases, but the same test applies.
+Hannah: Then the exhaustive grounds: how many are there?
+Will: Six, in two groups of three. First, after conviction by a competent court. Second, for non-compliance with a lawful court order, or to secure fulfilment of an obligation prescribed by law. Third, to bring a person before the competent legal authority on reasonable suspicion of an offence, or when reasonably considered necessary to prevent an offence or flight after one.
+Hannah: And what are the other three grounds?
+Will: Fourth, a minor, for educational supervision or to bring him before the competent legal authority. Fifth, to prevent the spread of infectious disease; it also covers persons of unsound mind, and alcoholics, drug addicts or vagrants. Sixth, to prevent unauthorised entry into the country, or with a view to deportation or extradition.
+Hannah: Can a good enough reason justify detention outside those grounds?
+Will: No: Article Five is a limited right, so there's no general balancing or proportionality defence. Unlike with a qualified right, however strong the reason, a detention outside the grounds breaches it. But Article Five can be derogated from in time of war or other public emergency threatening the life of the nation, to the extent strictly required by the exigencies of the situation.
+Hannah: What order do we take these questions in?
+Will: Three steps. Is there a deprivation, not a mere restriction? Is it lawful and prescribed by law? Does it fall within a ground? Then check the procedural safeguards.
+Hannah: Now the suspicion ground: what counts as reasonable suspicion?
+Will: Facts or information that would satisfy an objective observer that the person may have committed the offence. A genuine but unsupported suspicion isn't enough: you need both genuine suspicion and an objective basis. The evidence needn't be enough to convict, only enough to ground the suspicion.
+Hannah: Would previous convictions do, or simply being near the scene?
+Will: No: previous convictions alone don't ground reasonable suspicion, and nor does mere presence near a crime scene, without more. In terrorism cases, reasonableness can't always be judged by the same standards as for conventional crime, but the state must still give at least some facts or information capable of satisfying the court.
+Hannah: And when can the police detain someone to prevent an offence?
+Will: The prevention limb uses the same objective reasonableness test as the suspicion limb. It allows only short detention to stop a concrete and specific offence, and the person must be released once that risk has passed. Concrete and specific means identified by place, time and victims. It needs no intention to charge the person or bring them before a court: the Grand Chamber departed from Ostendorf on that.
+Hannah: Can you give me an example that fails?
+Will: Say police detain a known agitator for a few hours because she'll cause trouble somewhere in the city this weekend: no concrete and specific offence is identified, so the detention falls outside the ground.
+Hannah (summing up): Detention must be prescribed by law and on an exhaustive ground, with no balancing; preventive detention is short, to stop a concrete, specific offence, with release once the risk passes.
+Will: Correct: without a ground there's no lawful detention, however good the reason, and prevention needs a specific target.
+## Block 6: Article 5: procedural guarantees
+Hannah: Before the guarantees, a question mixing containment and the grounds. Police contain a crowd in good faith, as the least intrusive way to avert a real risk of serious violence, and release everyone once the danger passes. Must they justify it under the prevention ground, or not?
+Will (scenario pause): <think>
+Will: No: a lawful kettle isn't a deprivation of liberty at all, so Article Five isn't engaged and no ground is needed. The tempting answer is to justify it as preventive detention, but that confuses a lawful kettle with a detention that needs a ground.
+Hannah: It never reaches the grounds, because a lawful kettle isn't a deprivation in the first place.
+Will: Last, Article Five's procedural guarantees: what must a detained person be told, how soon must he see a judge, and what review and compensation must he have? There are four guarantees: prompt reasons in a language he understands; prompt production before a judge, and trial within a reasonable time or release; speedy court review of lawfulness; and enforceable compensation.
+Hannah: Let's take reasons first. When must they be given?
+Will: The person must be told promptly, in a language he understands, the essential legal and factual grounds for the arrest and any charge. But not necessarily at the moment of arrest: reasons may emerge in interview within a few hours.
+Hannah: Is saying 'suspected terrorist' enough on its own?
+Will: No, that alone is too broad, though in the case later specific questioning cured it in time. Next, a person arrested on suspicion must be brought promptly before a judge or other judicial officer, and tried within a reasonable time or released pending trial. Release may be conditioned on guarantees to appear.
+Hannah: How prompt does 'promptly' have to be?
+Will: Holding someone 4 days 6 hours without a judge breached it, even in a terrorism investigation.
+Hannah: Is there a rough maximum, then?
+Will: Yes: four days is treated as the maximum, and shorter periods can still breach. Four factors are relevant: age, complexity, access to a lawyer, and whether investigation took place during detention. And the judge must be competent to review lawfulness and order release.
+Hannah: And what does promptly mean for preventive detention?
+Will: There, 'promptly' means hours, not days.
+Hannah: Then review: what does the speedy review guarantee require?
+Will: Anyone deprived of liberty can take proceedings in which a court decides speedily whether the detention is lawful, and orders release if it isn't. The review may be by a body of judicial character, such as the Parole Board, not only a court of law.
+Hannah: Does one review ever settle the matter for good?
+Will: Not where the grounds for detention can change, for example detention for mental disorder: then there must be periodic review, at reasonable intervals.
+Hannah: And how does compensation work here at home?
+Will: A victim of a breach of Article Five has an enforceable right to compensation, and domestically it's awarded as damages under section 8 of the Human Rights Act.
+Hannah: Even for a judge's decision made in good faith?
+Will: Damages for a judicial act done in good faith are available in only two cases. The first is to compensate as the compensation guarantee requires. The second is a judicial act incompatible with Article 6 where the person is detained and wouldn't have been detained, or not for so long, but for the incompatibility.
+Hannah (summing up): Someone arrested on suspicion must see a judge promptly: four days is treated as the maximum, and shorter periods can still breach; periodic reviews need reasonable intervals.
+Will: Yes: four days is a ceiling, not a safe period, and periodic reviews must come at reasonable intervals.
+## Recap
+Hannah: One last question, on review. Lee is detained in hospital for mental disorder, with periodic tribunal reviews, but none is held for 18 months, without justification. Which guarantee is breached, and what remedy can she get at home?
+Will (scenario pause): <think>
+Will: The speedy review guarantee is breached: where review is periodic, an unjustified interval of more than a year is generally unreasonable. Her remedy is compensation, awarded domestically as damages under the Human Rights Act. The tempting answer is that the compensation guarantee only works in the European Court of Human Rights, but it applies domestically too.
+Hannah: Over a year between reviews is generally too long without good reason, and the damages come through the Human Rights Act.
+Will: Now the quick-fire round: one summary for each of the three areas.
+Hannah: What's the summary for deprivation of liberty and kettling?
+Will (quick-fire pause): <think>
+Will: A kettle necessary to avert a real risk of serious injury or damage, proportionate and kept no longer than reasonably necessary falls outside Article Five altogether.
+Hannah: What's the summary for the permitted grounds of detention?
+Will (quick-fire pause): <think>
+Will: Detention must be prescribed by law and on an exhaustive ground, with no balancing; preventive detention is short, to stop a concrete, specific offence, with release once the risk passes.
+Hannah: What's the summary for the procedural guarantees?
+Will (quick-fire pause): <think>
+Will: Someone arrested on suspicion must see a judge promptly: four days is treated as the maximum, and shorter periods can still breach; periodic reviews need reasonable intervals.
+Hannah: And the whole of this part in one sentence: what decides most of its questions?
+Will: Article Five applies only to a deprivation of liberty, not a mere restriction; and a deprivation must be prescribed by law and on an exhaustive ground, with no balancing, and its guarantees met.

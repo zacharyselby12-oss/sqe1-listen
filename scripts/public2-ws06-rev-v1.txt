@@ -1,0 +1,184 @@
+---
+id: public2-ws06-rev-v1
+unit: u-bpp-Public2-06
+guide_hash: ff23285d7a
+made: 2026-11-15T08:43:24+00:00
+kind: revision
+title: Public2 WS06 · Revision · 18 min
+map:
+- Public authorities and the s. 6(2) defence
+- Victims and proceedings (s. 7)
+- Time limit (s. 7(5))
+- How courts decide Convention-rights claims
+- Remedies (s. 8)
+- Remedial orders and responding to incompatibility (s. 10)
+recap:
+- Core authorities are bound in all their acts, hybrids only in public acts; and a mere power never means the authority couldn't act differently.
+- Only a victim, or someone who would be one, can sue or rely on a Convention right against a public authority; a group not directly affected itself isn't one.
+- Claims: one year from the act, or longer if the court considers it equitable, unless a stricter limit applies; defences have no limit.
+- Read legislation compatibly if possible, but never amend it; if an Act can't be, the High Court or above may declare incompatibility, and the Act stays in force.
+- The court grants any just and appropriate relief within its powers, but damages only if it has civil damages powers and they're necessary for just satisfaction, given other relief.
+- A minister may make a remedial order after a final declaration or an adverse Strasbourg ruling, with compelling reasons, but nothing in domestic law obliges any response.
+summary: A public authority must act compatibly unless primary legislation leaves no compatible option; an Act is read compatibly where possible, and otherwise stands, with only the High Court or above able to declare incompatibility.
+invented:
+- two years (how long the council's policy has run)
+guide_only: []
+---
+## Map
+Will: The big question: who must respect Convention rights, who can sue, and what courts and ministers can do. Six areas.
+Hannah: Which three areas come first?
+Will: Public authorities and their legislation defence; victims and proceedings; then the time limit.
+Hannah: And the last three areas?
+Will: How courts decide Convention-rights claims, then remedies, then remedial orders and responding to incompatibility.
+
+## Block 1: Public authorities and the s. 6(2) defence
+Hannah: First, public authorities. Who has to act compatibly with Convention rights?
+Will: It's unlawful for a public authority to act, or fail to act, incompatibly with a Convention right. That includes courts and tribunals, and anyone some of whose functions are public, but not either House of Parliament, or anyone exercising functions in connection with proceedings in Parliament.
+Hannah: Does failing to legislate count as failing to act?
+Will: No: failing to introduce or lay before Parliament a proposal for legislation, or to make primary legislation or a remedial order, isn't an act.
+Hannah: So which bodies are bound, and for what?
+Will: Here's the deciding split. Core public authorities are bound in all their acts, even private ones: think government departments, councils and the police. They can't be victims. Hybrid bodies are bound only for acts that are public in nature.
+Hannah: How do you tell whether a hybrid body's act is public?
+Will: Factors include public funding, statutory powers, taking the place of government and providing a public service; no single factor decides. A housing association ending a social tenancy acts publicly. But a charity dismissing its cleaner acts privately, so isn't bound, even with some public functions.
+Hannah: And what about a private care home?
+Will: It's a public authority for care that the council arranges or pays for, but not for a self-funding resident who arranges her own care.
+Hannah: Does it matter that courts count as public authorities?
+Will: It does: they must act compatibly even in disputes between private parties. That's indirect horizontal effect: they develop the common law compatibly, as in breach of confidence. But there's no new cause of action between private parties: the claimant needs an existing one to hang the right on.
+Hannah: Could someone sue Parliament for passing an incompatible Act?
+Will: That's the trap: Parliament is excluded. A court reads the Act compatibly under section three if it can; if not, the High Court or above may declare it incompatible.
+Hannah: Now the legislation defence. What are its two limbs?
+Will: First, because of primary legislation, the authority couldn't have acted differently: a duty. Second, it used a discretion to give effect to or enforce provisions of, or made under, primary legislation that can't be read compatibly.
+Hannah: What if the Act only gave the authority a power?
+Will: A mere power isn't the first limb, because the authority could have acted differently, so consider the second.
+Hannah: And what about regulations made under an Act?
+Will: Unless the parent Act requires the incompatibility, incompatible subordinate legislation must be disapplied, and relying on it gives no defence.
+Hannah: Can an authority rely on its own policy or guidance instead?
+Will: No: only primary legislation, or provisions under it that can't be read compatibly, counts.
+Hannah (summing up): Core authorities are bound in all their acts, hybrids only in public acts; and a mere power never means the authority couldn't act differently.
+Will: Yes: core or hybrid decides who's bound, and a power leaves a choice.
+
+## Block 2: Victims and proceedings (s. 7)
+Hannah: Before victims and proceedings, a question on public authorities. A council with a power, not a duty, breaches a Convention right. Can it claim it couldn't act differently?
+Will (scenario pause): <think>
+Will: No: a power left it a choice. The tempting answer is that any statutory basis is a defence, but only the second limb could help.
+Hannah: Right: a power always leaves a choice.
+Will: Now victims and proceedings. Someone claiming a public authority acted unlawfully, or proposes to, may sue it or rely on the right in any legal proceedings, say as a defence. But only if they are, or would be, a victim.
+Hannah: Who counts as a victim?
+Will: Anyone who'd be a victim under the Convention's own test: someone directly affected by the act. For a general law, also one of a class at risk of being directly affected, or who must change their conduct or risk prosecution.
+Hannah: Does a risk of future violation count?
+Will: Only exceptionally, on reasonable and convincing evidence. Close relatives may be victims where a death engages the right to life.
+Hannah: And what about pressure groups and companies?
+Will: This one decides questions. A pressure group isn't a victim of acts that affect only others, but it is one if it's directly affected itself. A company is a victim only where its own rights as an organisation are violated, not its members'. And a core public authority never is.
+Hannah: How does that play out in judicial review?
+Will: That's the look-alike. A pressure group may have standing on common law grounds, but not on the HRA ground unless it is itself a victim.
+Hannah (summing up): Only a victim, or someone who would be one, can sue or rely on a Convention right against a public authority; a group not directly affected itself isn't one.
+Will: Yes: being, or being about to be, a victim is the gate, and common law standing doesn't open it.
+
+## Block 3: Time limit (s. 7(5))
+Hannah: Before the time limit, a question on victims. Six weeks after a council permits a waste plant, a charity owning no land near the site, though many of its members live nearby, seeks judicial review for irrationality and breach of residents' Article 8 rights. Which grounds can it run?
+Will (scenario pause): <think>
+Will: Irrationality only: sufficient interest covers that, but the Convention ground needs the charity itself directly affected. The tempting answer is that its standing covers both grounds, but victim status is separate.
+Hannah: Yes: standing for irrationality, but no victim status.
+Will: Now the time limit. A claim against a public authority has one year from the act complained of.
+Hannah: Is that a hard deadline?
+Will: Not quite: it's that year or such longer period as the court considers equitable. But any stricter limit for the procedure used applies. In judicial review, you must claim promptly and within three months.
+Hannah: When does the clock start for something still going on?
+Will: For a continuing act, time runs from when it ends. And relying on a Convention right in other proceedings, for example as a defence, has no time limit.
+Hannah: Do ordinary tort limitation periods ever apply?
+Will: No, that's the trap: they don't govern these claims, which have their own limit.
+Hannah (summing up): Claims: one year from the act, or longer if the court considers it equitable, unless a stricter limit applies; defences have no limit.
+Will: Yes: a year or longer if equitable, and no limit for a defence.
+
+## Block 4: How courts decide Convention-rights claims
+Hannah: Before how courts decide claims, a question on time. A council has applied a policy to a claimant for two years and still does. Is she out of time?
+Will (scenario pause): <think>
+Will: No: for a continuing act, time runs from when it ends. The tempting answer counts from when the policy began.
+Hannah: Yes: the act hasn't ended, so time hasn't started running.
+Will: Now how courts decide Convention-rights claims. The court itself decides whether a right was breached, judging the outcome, not just the process; common law grounds focus on how the decision was made.
+Hannah: Does a court have to follow Strasbourg?
+Will: This decides questions: courts must take Strasbourg case law into account, but aren't bound by it. They should follow clear and constant case law and keep pace with it, unless it's at odds with a fundamental aspect of UK law: it's now a dialogue. But they shouldn't go further in expanding rights: no more, but certainly no less.
+Hannah: Now compatible readings. What does section three let a court do?
+Will: It covers primary and subordinate legislation, whenever enacted, with a strong presumption of compatibility: Parliament's intention includes the reasonable reader's assumption that the Act was meant to be compatible. Ask: on its ordinary meaning, does it breach a Convention right? Then: can it be read compatibly? Clear language is no bar, and strained readings, reading down and reading in are all allowed.
+Hannah: Where's the line between reading an Act and rewriting it?
+Will: That's the deciding test: a reading crosses the line in any of five ways. One: it changes the substance completely. Two: it goes against the grain or a fundamental feature.
+Hannah: And what are the other three ways?
+Will: Three: it contradicts provisions. Four: it deletes words. Five: it needs decisions the court isn't equipped to make. What matters is the provision's substance, not its exact wording.
+Hannah: Can you give me a case on each side of that line?
+Will: Ghaidan read in "as if they were his wife or husband" to include a same-sex partner, going with the grain, and the Supreme Court still follows it. Bellinger needed medical criteria and wider policy, a fundamental change, so the court declared incompatibility.
+Hannah: What's the trap on compatible readings?
+Will: Treating it as a reasonable or ordinary-meaning test: Parliament rejected that model. But it's interpretation only, since amending an Act is for Parliament, and a reading must attach to identified words: inventing a free-standing scheme is legislating. Nor does section three affect the validity or enforcement of incompatible primary legislation.
+Hannah: Now declarations of incompatibility. When does a court make one?
+Will: Only as a last resort, where a compatible reading is plainly impossible. It's discretionary: the court may declare, even where the government has already promised reform.
+Hannah: Can any court make a declaration?
+Will: No, and this decides questions: only the Supreme Court, the Court of Appeal, the High Court and their equivalents can; a county court or the Crown Court can't.
+Hannah: Can a court declare subordinate legislation incompatible?
+Will: Only where the parent Act prevents removal of the incompatibility.
+Hannah: Once made, what does a declaration actually do?
+Will: It doesn't affect the provision's validity, continuing operation or enforcement, and doesn't bind the parties. Its value is vindication and political pressure on the government and Parliament. Costs are in the court's discretion, so a declaration doesn't automatically carry costs.
+Hannah: And what's the trap with declarations?
+Will: Thinking it strikes down or quashes the Act: courts can't invalidate primary legislation, which stays in force.
+Hannah (summing up): Read legislation compatibly if possible, but never amend it; if an Act can't be, the High Court or above may declare incompatibility, and the Act stays in force.
+Will: Yes: read first, declare an Act incompatible last, and the Act survives.
+
+## Block 5: Remedies (s. 8)
+Hannah: Before remedies, a question mixing two areas. In a county court possession claim, a council relies on an Act that can't be read compatibly with the occupier's Article 8 rights. What must the judge do?
+Will (scenario pause): <think>
+Will: Apply the Act: the legislation defence protects the council. The tempting answer is a declaration of incompatibility, but a county court can't make one.
+Hannah: Right: the defence holds, and there's no declaration.
+Will: Now remedies. A court finding an act unlawful may grant any relief within its powers that it considers just and appropriate. That includes damages, declarations and injunctions, plus quashing, prohibiting and mandatory orders.
+Hannah: When will a claimant actually get damages?
+Will: This decides questions, and it has two parts. First, only a court with power to award damages in civil proceedings can award them, so never a criminal court.
+Hannah: And what's the second requirement?
+Will: They must be necessary for just satisfaction, considering other relief and applying Strasbourg principles. Awards are modest, at Strasbourg levels, not tort scales, and a finding of violation is often enough.
+Hannah (summing up): The court grants any just and appropriate relief within its powers, but damages only if it has civil damages powers and they're necessary for just satisfaction, given other relief.
+Will: Yes: broad relief, but damages are never automatic.
+
+## Block 6: Remedial orders and responding to incompatibility (s. 10)
+Hannah: Before remedial orders, a question on remedies. A council decision breaching a claimant's Article 8 rights is quashed and remade in her favour within a week, with no financial loss or distress. Will she get damages?
+Will (scenario pause): <think>
+Will: No: the quashing order is enough. The tempting answer is that a breach earns damages, as in tort, but they must be necessary for just satisfaction.
+Hannah: Yes: quashing gave her just satisfaction.
+Will: Now remedial orders and responding to incompatibility. A minister may make a remedial order amending legislation, including an Act, to remove an incompatibility.
+Hannah: What triggers that power?
+Will: Two things. First, a declaration of incompatibility, once appeals are exhausted, abandoned or out of time. Second, a Strasbourg ruling against the UK showing incompatibility. Either way, the minister must consider there are compelling reasons to proceed this way.
+Hannah: How does Parliament approve an order?
+Will: Normally a proposal is laid for 60 days. Then a draft is laid, and both Houses approve it after a further 60 days.
+Hannah: And what happens in an urgent case?
+Will: The order is made first. It lapses unless both Houses approve it within 120 days.
+Hannah: Is there a trap on those periods?
+Will: Yes. Parliament doesn't simply have 60 days to approve: the proposal stage normally comes first, and the draft is approved only after a further 60 days.
+Hannah: Must the government respond to a declaration at all?
+Will: No, and this decides questions. There's no domestic legal duty to respond to a declaration, which doesn't affect the Act's validity or bind the parties, nor to an adverse Strasbourg ruling, since remedial orders are a power, not a duty. The response is political: an amending Act, a remedial order, or no change.
+Hannah: So is the UK free to ignore Strasbourg?
+Will: Not in international law: the Convention binds it to abide by final Strasbourg judgments against it. And with no domestic remedy left, the claimant may apply to Strasbourg.
+Hannah: Last, statements of compatibility. What must the minister say about a Bill?
+Will: Before second reading, the minister states that the Bill is compatible, or that it isn't but the government wishes to proceed anyway. The statement doesn't bind the courts.
+Hannah (summing up): A minister may make a remedial order after a final declaration or an adverse Strasbourg ruling, with compelling reasons, but nothing in domestic law obliges any response.
+Will: Yes: a power, never a domestic duty.
+
+## Recap
+Hannah: Before the summaries, a last question on remedial orders. The Court of Appeal declares a provision incompatible, and the government appeals. Can a minister make a remedial order now?
+Will (scenario pause): <think>
+Will: No: appeal rights must first be exhausted, abandoned or out of time. The tempting answer is that any declaration opens the power, but it must be final.
+Hannah: Right: the declaration must be final first.
+Will: Now the quick-fire round: one summary an area.
+Hannah: What's the summary for public authorities?
+Will (quick-fire pause): <think>
+Will: Core authorities are bound in all their acts, hybrids only in public acts; and a mere power never means the authority couldn't act differently.
+Hannah: What's the summary for victims and proceedings?
+Will (quick-fire pause): <think>
+Will: Only a victim, or someone who would be one, can sue or rely on a Convention right against a public authority; a group not directly affected itself isn't one.
+Hannah: What's the summary for the time limit?
+Will (quick-fire pause): <think>
+Will: Claims: one year from the act, or longer if the court considers it equitable, unless a stricter limit applies; defences have no limit.
+Hannah: What's the summary for how courts decide Convention-rights claims?
+Will (quick-fire pause): <think>
+Will: Read legislation compatibly if possible, but never amend it; if an Act can't be, the High Court or above may declare incompatibility, and the Act stays in force.
+Hannah: What's the summary for remedies?
+Will (quick-fire pause): <think>
+Will: The court grants any just and appropriate relief within its powers, but damages only if it has civil damages powers and they're necessary for just satisfaction, given other relief.
+Hannah: What's the summary for remedial orders?
+Will (quick-fire pause): <think>
+Will: A minister may make a remedial order after a final declaration or an adverse Strasbourg ruling, with compelling reasons, but nothing in domestic law obliges any response.
+Hannah: And what one sentence sums up the whole workshop?
+Will: A public authority must act compatibly unless primary legislation leaves no compatible option; an Act is read compatibly where possible, and otherwise stands, with only the High Court or above able to declare incompatibility.

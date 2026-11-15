@@ -1,0 +1,137 @@
+---
+id: public2-ws05-rev-v1
+unit: u-bpp-Public2-05
+guide_hash: dd33bbf7f5
+made: 2026-11-15T08:43:24+00:00
+kind: revision
+title: Public2 WS05 · Revision · 18 min
+map:
+- Convention rights under the HRA
+- Absolute, limited and qualified rights; derogations and reservations
+- Proportionality and deference
+recap:
+- Core public authorities are bound in all their acts and hybrids only in their public ones; only a victim can claim; and jurisdiction turns on territory or UK control.
+- Nothing justifies interfering with an absolute right; a limited right yields only to its article's exceptions, plus fair trial's implied limits, or a valid derogation; a qualified right yields if justified.
+- Proportionality's four questions end in a fair balance, stricter than Wednesbury; domestic courts give the decision-maker appropriate weight within a discretionary area of judgment, not Strasbourg's margin.
+summary: Most questions turn on whether a bound public authority acted against a victim suing in time within UK jurisdiction, then on whether the right is absolute, limited or qualified, and finally, unless it's absolute, on whether the interference is justified.
+invented:
+- Tom
+guide_only: []
+---
+## Map
+Will: Today's question: which Convention rights does the Human Rights Act protect, who must respect them, who can claim, and when can the state interfere? Three areas: Convention rights under the Act; the three kinds of right, with derogations and reservations; and proportionality and deference.
+Hannah: First, a warm-up on legitimate expectation. Before an election, the opposition leader promises Tom's village school its funding; once she's in government, it's cut. Does Tom have a legitimate expectation?
+Will (scenario pause): <think>
+Will: No. Statements by an opposition party create no expectation, even from a leader who later forms the government. The tempting answer is that a clear promise is enough, but she didn't speak for a public authority.
+Hannah: Yes: an opposition promise creates no expectation, even once she governs.
+## Block 1: Convention rights under the HRA
+Will: Convention rights under the Act. The Convention is a Council of Europe treaty, not EU law; the Strasbourg court enforces it, and Brexit didn't affect it. It protects civil and political rights, and a limited number of social rights.
+Hannah: Which of them does the Act protect?
+Will: Only its own list: from the main Convention, articles 2 to 12.
+Hannah: Is Article 14, on discrimination, included?
+Will: Yes, but only together with another Convention right; and the list is read with articles 16 to 18.
+Hannah: And what about the protocols?
+Will: The First Protocol's first three articles, and the Thirteenth Protocol's first article, on the death penalty. But the Convention's own Article 1 is left out, and so is Article 13, the right to an effective remedy: that's the trap.
+Hannah: Now, who must respect these rights?
+Will: Public authorities: it's unlawful for one to act incompatibly with a Convention right, and the Act doesn't define the term. A core body is governmental in a broad sense, and it's bound in all its acts. Five factors mark one out: special powers, democratic accountability and public funding; an obligation to act only in the public interest; and a statutory constitution. Courts and tribunals are public authorities, but Parliament is excluded, and so is anyone exercising functions in connection with parliamentary proceedings.
+Hannah: When is a private body a hybrid?
+Will: The nature of the function decides, and 'public function' is read generously wide. Four factors count: the extent of public funding; statutory power; taking the place of central or local government; and providing a public service. Being enmeshed with the delegating authority points the same way. But a hybrid is bound only for its public acts, not its private ones. So a parking firm using statutory powers may be hybrid, but dismissing its own cleaner is a private act.
+Hannah: Which cases fall on each side?
+Will: A housing association managing and terminating social tenancies is hybrid for those acts, and a contractor transporting arrested people for the police is likely hybrid. But a parochial church council enforcing chancel repair liability against lay rectors wasn't exercising a public function, and nor is a political party electing its leader.
+Hannah: What's the look-alike with care homes?
+Will: A contract with a council doesn't on its own make a function public, so a private care home wasn't hybrid. But by statute, a registered care provider giving care that a local authority arranged or paid for is exercising a public function.
+Hannah: Now, who can bring a claim?
+Will: Only someone who is, or would be, a victim of the unlawful act, in the Article 34 sense: directly affected. That's narrower than sufficient interest, so in judicial review a human rights ground needs a victim. Natural and legal persons can be victims, including companies, trade unions and political parties; but not governmental bodies, such as local authorities.
+Hannah: Can an NGO sue for the people it helps?
+Will: No: an NGO can claim only for its own rights, not for its members or affected people. So a disability charity can't sue over a policy that shut out its members.
+Hannah: Are there other kinds of victim?
+Will: Yes. Under secret surveillance, a potential victim can claim without proving they were actually targeted. In Article 2 cases, close relatives of a deceased person, such as parents, can claim as indirect victims. And very exceptionally, a non-relative NGO may claim for an isolated, highly vulnerable deceased person. Whether an unborn child has rights under Article 2 is unresolved, and left to states.
+Hannah: Now, time limits: when must a claim be brought?
+Will: Within one year of the act. Or within a longer period the court considers equitable. For a continuing act, time runs only from when the violation ends.
+Hannah: Can anything shorten that year?
+Will: Yes: a stricter procedural time limit overrides it. Judicial review must be brought promptly. The limit is three months.
+Hannah: So which limit applies to a standalone damages claim?
+Will: One year, and that's the trap. Three months is only for judicial review.
+Hannah: Now, jurisdiction: who falls within it?
+Will: The Act is silent, so its reach matches Article 1. Nationality and residence are irrelevant: a tourist in the UK can claim, because for an act within the UK, everyone present is within jurisdiction. But jurisdiction is primarily territorial, and extra-territorial jurisdiction is exceptional: an act abroad is within jurisdiction only if the UK has effective control of the area, or a UK agent exercises authority and control over the person.
+Hannah: What does that exception cover?
+Will: It includes diplomatic and consular agents, and control through occupation or the territorial government's consent or acquiescence. It covers a death in a UK-controlled detention facility abroad, and killings by UK forces, on or off base, where the UK as occupying power exercised security authority. And British soldiers serving abroad are within jurisdiction, including on the battlefield. As for removal from the UK, the UK is responsible if there's a real risk of Article 2 or 3 treatment abroad, whether by extradition or deportation.
+Hannah: Now, positive duties. Isn't the state's duty just to keep out?
+Will: That's the primary, negative duty. But a positive obligation requires the state to prevent violations by non-state actors, including through criminal laws that prohibit, deter and punish them: a gap in the law breached Article 8.
+Hannah: When must the state protect someone's life?
+Will: That's the Osman test, in three parts. First, the authorities knew, or ought to have known, at the time. Second, of a real and immediate risk to the life of an identified individual or individuals, from a third party's criminal acts. And third, they failed to take measures within their powers which, judged reasonably, might have been expected to avoid that risk. The duty mustn't impose an excessive burden, given operational choices about priorities and resources. The identified individual is what usually decides. If police get a reliable tip that a gang will shoot a named witness within days, and take no protective step though they have power to act, her death shows a breach, but a passer-by's doesn't. And that's the trap: it's not negligence, since the duty can exist where no common law duty of care is owed.
+Hannah: Where else does the duty arise?
+Will: Where a body has assumed responsibility for someone at real and immediate risk of suicide, even if not formally detained, like the informal in-patient in Rabone; that operational duty is distinct from a negligence duty of care. And someone in police custody is in the state's control, so denying needed medical treatment can breach the positive duty under Article 2.
+Hannah: And does Article 8 cover climate change?
+Will: Yes: states must adopt and apply climate change mitigation measures, with a wide margin on the means but a reduced one on objectives.
+Hannah: Finally here, must our courts follow Strasbourg?
+Will: No: its case law isn't binding; the Act requires only that it be taken into account. But a court should follow clear and consistent case law, unless there are special circumstances or the result is fundamentally at odds with the UK constitution. And the mirror principle keeps pace with Strasbourg, no more but certainly no less, so courts shouldn't go further than clear Strasbourg case law in expanding Convention rights.
+Hannah: And what if a lower court's binding precedent conflicts with a later Strasbourg ruling?
+Will: The lower court follows the domestic precedent. On rare occasions the Supreme Court declines to follow Strasbourg, giving reasons, where Strasbourg misunderstands domestic process, as on courts-martial and hearsay under Article 6. And that dialogue can lead Strasbourg to reconsider.
+Hannah (summing up): Core public authorities are bound in all their acts and hybrids only in their public ones; only a victim can claim; and jurisdiction turns on territory or UK control.
+Will: Yes: core bodies in everything, hybrids only for public acts, and territory or control.
+## Block 2: Absolute, limited and qualified rights; derogations and reservations
+Hannah: Before the three kinds of rights, a question on claimants and jurisdiction. A British soldier is killed on a battlefield abroad, and his mother sues under the Act. Can she bring the claim?
+Will (scenario pause): <think>
+Will: Yes. As a close relative in an Article 2 case, she's an indirect victim, and soldiers serving abroad are within UK jurisdiction, even on the battlefield. The tempting answer is that jurisdiction is territorial, but this is an exception.
+Hannah: Right: an indirect victim, and a son within UK jurisdiction.
+Will: Now, the three kinds of right: identify the right engaged, then classify it as absolute, limited or qualified. And an interference isn't a violation: a qualified or limited right is breached only if the interference is unjustified. For an absolute right, any treatment within the article is a breach, and nothing can justify it. There are four: Article 3, torture and inhuman or degrading treatment; and Article 4's first paragraph, slavery and servitude.
+Hannah: And which are the other two absolute rights?
+Will: Article 7, no punishment without law, and the Thirteenth Protocol's death penalty article.
+Hannah: Isn't forced labour absolute too?
+Will: No: forced labour isn't absolute, because the article excludes lawful detention work, military service, emergencies and normal civic obligations. And a broken arm isn't torture just because it's serious: torture is deliberate inhuman treatment causing very serious and cruel suffering. Rough handling causing a fracture, where the person's own conduct didn't make the force strictly necessary, is more likely inhuman or degrading treatment, which is just as absolutely prohibited.
+Hannah: Which rights are limited?
+Will: Life in Article 2, and liberty in Article 5.
+Hannah: And what's the third limited right?
+Will: Fair trial, in Article 6. A limited right yields only to the exceptions its article lists, and for fair trial its implied limits, unless a valid derogation covers it.
+Hannah: Which rights are qualified?
+Will: Article 8 to Article 11, and the First Protocol's first article. An interference is justified only if three things hold: it's prescribed by law; it pursues a legitimate aim listed in the article; and it's necessary in a democratic society, meaning proportionate.
+Hannah: And how is each of those qualified articles laid out?
+Will: In Articles 8 to 11, the first paragraph gives the right, and the second the justification.
+Hannah: What counts as a legitimate aim?
+Will: Aims include national security, public safety, prevention of disorder or crime, and protecting others' rights. And that's the trap: limited and qualified rights are restricted through the article's own exceptions, with no derogation needed.
+Hannah: Now derogations. When can a state derogate?
+Will: Five conditions: a war or other public emergency threatening the life of the nation; measures only to the extent strictly required; consistency with other international law obligations; a right that isn't non-derogable; and notice to the Secretary General of the Council of Europe. Article 2 is non-derogable, except for deaths from lawful acts of war, and so is Article 3.
+Hannah: Which other rights can never be derogated from?
+Will: Slavery and servitude in Article 4's first paragraph, Article 7, and the death penalty protocol.
+Hannah: Who makes and reviews a derogation?
+Will: Only the state, in advance. Domestic courts and finally Strasbourg review it: the state doesn't have the last word. In the Belmarsh case the emergency was accepted, but detaining only foreign suspects was disproportionate and discriminatory, under Article 14 read with Article 5, so the derogation was quashed.
+Hannah: So can a legitimate aim support a derogation?
+Will: No, that's the other trap: a derogation needs an Article 15 emergency, not just a legitimate aim.
+Hannah: And finally, how do reservations work?
+Will: They can be made only when signing or ratifying, and general ones are prohibited. The Strasbourg court alone decides what counts as a valid one, and vague ones are severed. The UK's own, on education, accepts education in conformity with parents' religious and philosophical convictions only so far as that's compatible with efficient instruction and training, and the avoidance of unreasonable public expenditure. Under the Act, Convention rights have effect subject to designated derogations and reservations, and a designated derogation lapses after a fixed period unless renewed.
+Hannah (summing up): Nothing justifies interfering with an absolute right; a limited right yields only to its article's exceptions, plus fair trial's implied limits, or a valid derogation; a qualified right yields if justified.
+Will: Yes: absolute means never justified; limited means its listed exceptions, plus fair trial's implied limits, or a valid derogation; and qualified means a justified interference.
+## Block 3: Proportionality and deference
+Hannah: Before proportionality and deference, a question on derogations. After a wave of attacks, the UK lodges a valid derogation; new laws allow detention without trial, and interrogation amounting to inhuman treatment. Which can the derogation cover?
+Will (scenario pause): <think>
+Will: Only the detention, and only if the emergency strictly requires it, since liberty is derogable. The tempting answer is both, but Article 3 is non-derogable whatever the emergency.
+Hannah: Yes: detention possibly, inhuman treatment never.
+Will: Now, proportionality and deference. Proportionality means a fair balance between the community's general interest and the individual's fundamental rights, and its four questions decide most cases. First, whether the objective is important enough to justify limiting the right. Second, whether the measure is rationally connected to it. Third, whether a less intrusive measure could have been used without unacceptably compromising the objective. Fourth, whether the severity of the effect on rights outweighs the importance of the objective: the fair balance.
+Hannah: Where in the Convention does proportionality apply?
+Will: It's express in Article 8 to Article 11, and its form varies by article.
+Hannah: Does it reach any other rights?
+Will: Yes: it governs force under Article 2 and implied limits on Article 6. And it's not Wednesbury: Convention cases use the stricter Bank Mellat test.
+Hannah: Now deference. What's the margin of appreciation?
+Will: Strasbourg's discretion to states, still subject to its ultimate supervision. It's wider on morality and religion; public emergency; national security; and social, economic and environmental policy. It's narrower on a person's existence or identity, liberty, or legal rights.
+Hannah: Does a domestic court apply that margin?
+Will: No: the margin is specific to Strasbourg. Domestic courts use an analogous discretionary area of judgment: appropriate weight to Parliament's and the executive's judgments, substantial on social and economic policy, and correspondingly wide where Strasbourg would allow a wide margin.
+Hannah (summing up): Proportionality's four questions end in a fair balance, stricter than Wednesbury; domestic courts give the decision-maker appropriate weight within a discretionary area of judgment, not Strasbourg's margin.
+Will: Yes: the court decides proportionality itself, giving weight to the decision-maker.
+## Recap
+Hannah: One last question, across two areas. A minister bans a film on public morality grounds, arguing that the court must allow him Strasbourg's wide margin. How should the court approach the ban?
+Will (scenario pause): <think>
+Will: Article 10 is qualified, so the ban must be prescribed by law, pursue a legitimate aim and be proportionate. The court decides proportionality itself under Bank Mellat, giving the minister's judgment appropriate weight, correspondingly wide on morality. The tempting answer is the margin, but that's Strasbourg's alone.
+Hannah: Yes: the court's own call, with weight to the minister.
+Will: Now the quick-fire round, one line an area.
+Hannah: What's the summary for Convention rights under the Act?
+Will (quick-fire pause): <think>
+Will: Core public authorities are bound in all their acts and hybrids only in their public ones; only a victim can claim; and jurisdiction turns on territory or UK control.
+Hannah: What's the summary for the three kinds of right?
+Will (quick-fire pause): <think>
+Will: Nothing justifies interfering with an absolute right; a limited right yields only to its article's exceptions, plus fair trial's implied limits, or a valid derogation; a qualified right yields if justified.
+Hannah: And what's the summary for proportionality and deference?
+Will (quick-fire pause): <think>
+Will: Proportionality's four questions end in a fair balance, stricter than Wednesbury; domestic courts give the decision-maker appropriate weight within a discretionary area of judgment, not Strasbourg's margin.
+Hannah: And how would you put the whole workshop in one sentence?
+Will: Most questions turn on whether a bound public authority acted against a victim suing in time within UK jurisdiction, then on whether the right is absolute, limited or qualified, and finally, unless it's absolute, on whether the interference is justified.

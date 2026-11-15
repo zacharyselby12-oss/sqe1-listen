@@ -4175,6 +4175,197 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws04-rev-v1-62c40101.mp3",
       "siteAudio": "audio/public2-ws04-rev-v1-62c40101.mp3",
       "pubDate": "2026-11-14T21:45:19+00:00"
+    },
+    {
+      "id": "public2-ws05-rev-v1",
+      "unitId": "u-bpp-Public2-05",
+      "title": "Public2 WS05 · Revision · 18 min",
+      "guideHash": "dd33bbf7f5",
+      "script": "scripts/public2-ws05-rev-v1.txt",
+      "scriptHash": "fd0c8efca34c",
+      "audio": "audio/public2-ws05-rev-v1.mp3",
+      "recap": [
+        "Core public authorities are bound in all their acts and hybrids only in their public ones; only a victim can claim; and jurisdiction turns on territory or UK control.",
+        "Nothing justifies interfering with an absolute right; a limited right yields only to its article's exceptions, plus fair trial's implied limits, or a valid derogation; a qualified right yields if justified.",
+        "Proportionality's four questions end in a fair balance, stricter than Wednesbury; domestic courts give the decision-maker appropriate weight within a discretionary area of judgment, not Strasbourg's margin."
+      ],
+      "map": [
+        "Convention rights under the HRA",
+        "Absolute, limited and qualified rights; derogations and reservations",
+        "Proportionality and deference"
+      ],
+      "summary": "Most questions turn on whether a bound public authority acted against a victim suing in time within UK jurisdiction, then on whether the right is absolute, limited or qualified, and finally, unless it's absolute, on whether the interference is justified.",
+      "madeAt": "2026-11-15T08:43:24+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck covers all 20 items); known-error scan 0 hits; opus x2 (accuracy 4 problems, line-by-line 4 problems: 6 merged fixes applied by fixflow, one script-revise for a 4-figure turn); changed lines verify: 2 problems, fixed in targeted round 1 (revcheck mech), its verify passed; code checks and scan clean after every change",
+      "notBefore": "2026-11-14T20:00:00Z",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public2-ws06-rev-v1",
+      "unitId": "u-bpp-Public2-06",
+      "title": "Public2 WS06 · Revision · 18 min",
+      "guideHash": "ff23285d7a",
+      "script": "scripts/public2-ws06-rev-v1.txt",
+      "scriptHash": "5d7ad5bd2a13",
+      "audio": "audio/public2-ws06-rev-v1.mp3",
+      "recap": [
+        "Core authorities are bound in all their acts, hybrids only in public acts; and a mere power never means the authority couldn't act differently.",
+        "Only a victim, or someone who would be one, can sue or rely on a Convention right against a public authority; a group not directly affected itself isn't one.",
+        "Claims: one year from the act, or longer if the court considers it equitable, unless a stricter limit applies; defences have no limit.",
+        "Read legislation compatibly if possible, but never amend it; if an Act can't be, the High Court or above may declare incompatibility, and the Act stays in force.",
+        "The court grants any just and appropriate relief within its powers, but damages only if it has civil damages powers and they're necessary for just satisfaction, given other relief.",
+        "A minister may make a remedial order after a final declaration or an adverse Strasbourg ruling, with compelling reasons, but nothing in domestic law obliges any response."
+      ],
+      "map": [
+        "Public authorities and the s. 6(2) defence",
+        "Victims and proceedings (s. 7)",
+        "Time limit (s. 7(5))",
+        "How courts decide Convention-rights claims",
+        "Remedies (s. 8)",
+        "Remedial orders and responding to incompatibility (s. 10)"
+      ],
+      "summary": "A public authority must act compatibly unless primary legislation leaves no compatible option; an Act is read compatibly where possible, and otherwise stands, with only the High Court or above able to declare incompatibility.",
+      "madeAt": "2026-11-15T08:43:24+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck covers all 29 items); known-error scan: 3 phrase hits cleared by an Opus ke-triage (correct statements matching broad register phrases), 0 left; opus x2 (accuracy 5 problems, line-by-line 4: 5 fixes applied by fixflow, copies synced); changed lines verify passed; code checks and scan clean after every change",
+      "notBefore": "2026-11-14T20:00:00Z",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "eth-ws04-rev-v1",
+      "unitId": "u-bpp-ETH-04",
+      "title": "ETH WS04 · Revision · 18 min",
+      "guideHash": "1115bc4012",
+      "script": "scripts/eth-ws04-rev-v1.txt",
+      "scriptHash": "9edba5f44c8e",
+      "audio": "audio/eth-ws04-rev-v1.mp3",
+      "recap": [
+        "Act only on instructions from the client or someone properly authorised; with reason to suspect they aren't the client's wishes, don't act unless satisfied they are.",
+        "Presume capacity, assessing any doubt for the decision; without it, someone with legal authority instructs, and only the Court of Protection can make a will.",
+        "Refuse or stop where acting would breach the law or the Code, and end a retainer only for good reason and on reasonable notice.",
+        "Don't take on work outside your competence unless you can become competent in time or get appropriate help, or more than you can handle promptly.",
+        "No minimum CPD hours: reflect, address learning needs and confirm it yearly at renewal; with AI, understand its limits, check its output and stay responsible.",
+        "Adapt your service to the client's needs, and see a client vulnerable to influence without the third party, watching for undue influence.",
+        "Delegating never delegates responsibility: supervisors stay accountable for work done through others, even outside the firm, while trainees answer for their own conduct."
+      ],
+      "map": [
+        "Instructions and authority",
+        "Clients who lack capacity",
+        "Refusing and ending a retainer",
+        "Competent and timely service",
+        "Maintaining competence",
+        "The client's attributes, needs and circumstances",
+        "Supervision, and the competence of those you manage"
+      ],
+      "summary": "Act only on instructions that are truly the client's or from someone properly authorised, give a competent and timely service fitted to the client, and remember that delegating never delegates responsibility.",
+      "madeAt": "2026-11-15T08:43:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revision shape; revcheck covers all 42 items); known-error scan 0 hits; opus x2 (accuracy 4 problems, line-by-line 2 problems, all fixed); one script-revise (repeated run); changed lines: 1 finding, fixed in targeted round 1, re-verified pass; code checks and known-error scan clean on the final script",
+      "notBefore": "2026-11-14T20:00:00Z",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public2-ws07-rev-v1",
+      "unitId": "u-bpp-Public2-07",
+      "title": "Public2 WS07 (part 1 of 2) · Revision · 16 min",
+      "guideHash": "45ccdbdbb9",
+      "script": "scripts/public2-ws07-rev-v1.txt",
+      "scriptHash": "eabd44ca21cb",
+      "audio": "audio/public2-ws07-rev-v1.mp3",
+      "recap": [
+        "Lethal force must serve a permitted purpose and be absolutely necessary, a stricter test than for qualified rights; failures of command and control can breach Article Two too.",
+        "The police's general lack of a negligence duty doesn't bar Article Two claims; ordinary clinical negligence, with a proper framework, isn't a breach; and investigations needn't end in prosecution.",
+        "Nothing justifies treatment reaching Article Three's minimum severity, not even national security on removal; but the duty to protect isn't absolute, and only serious failings breach the duty to investigate."
+      ],
+      "map": [
+        "Article 2: use of lethal force",
+        "Article 2: positive and investigative duties",
+        "Article 3: torture, inhuman or degrading treatment"
+      ],
+      "summary": "Lethal force must serve a permitted purpose and be absolutely necessary, and a proper investigation needn't end in prosecution; ill-treatment reaching minimum severity is never justified, though the duty to protect isn't absolute.",
+      "madeAt": "2026-11-15T08:43:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck); known-error scan 0 hits; opus x2 (accuracy fail, line-by-line fail); fixes applied (1); changed lines ok (opus verify pass)",
+      "notBefore": "2026-11-14T20:00:00Z",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public2-ws07-rev-v1-p2",
+      "unitId": "u-bpp-Public2-07",
+      "title": "Public2 WS07 (part 2 of 2) · Revision · 15 min",
+      "guideHash": "45ccdbdbb9",
+      "script": "scripts/public2-ws07-rev-v1-p2.txt",
+      "scriptHash": "47d730a36788",
+      "audio": "audio/public2-ws07-rev-v1-p2.mp3",
+      "recap": [
+        "A kettle necessary to avert a real risk of serious injury or damage, proportionate and kept no longer than reasonably necessary falls outside Article Five altogether.",
+        "Detention must be prescribed by law and on an exhaustive ground, with no balancing; preventive detention is short, to stop a concrete, specific offence, with release once the risk passes.",
+        "Someone arrested on suspicion must see a judge promptly: four days is treated as the maximum, and shorter periods can still breach; periodic reviews need reasonable intervals."
+      ],
+      "map": [
+        "Article 5: deprivation of liberty and containment",
+        "Article 5: permitted grounds of detention",
+        "Article 5: procedural guarantees"
+      ],
+      "summary": "Article Five applies only to a deprivation of liberty, not a mere restriction; and a deprivation must be prescribed by law and on an exhaustive ground, with no balancing, and its guarantees met.",
+      "madeAt": "2026-11-15T08:43:25+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck); known-error scan 0 hits; opus x2 (accuracy pass, line-by-line pass); no fixes needed",
+      "notBefore": "2026-11-14T20:00:00Z",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

@@ -1,0 +1,172 @@
+---
+id: eth-ws04-rev-v1
+unit: u-bpp-ETH-04
+guide_hash: 1115bc4012
+made: 2026-11-15T08:43:25+00:00
+kind: revision
+title: ETH WS04 · Revision · 18 min
+map:
+- Instructions and authority
+- Clients who lack capacity
+- Refusing and ending a retainer
+- Competent and timely service
+- Maintaining competence
+- The client's attributes, needs and circumstances
+- Supervision, and the competence of those you manage
+recap:
+- Act only on instructions from the client or someone properly authorised; with reason to suspect they aren't the client's wishes, don't act unless satisfied they are.
+- Presume capacity, assessing any doubt for the decision; without it, someone with legal authority instructs, and only the Court of Protection can make a will.
+- Refuse or stop where acting would breach the law or the Code, and end a retainer only for good reason and on reasonable notice.
+- Don't take on work outside your competence unless you can become competent in time or get appropriate help, or more than you can handle promptly.
+- No minimum CPD hours: reflect, address learning needs and confirm it yearly at renewal; with AI, understand its limits, check its output and stay responsible.
+- Adapt your service to the client's needs, and see a client vulnerable to influence without the third party, watching for undue influence.
+- Delegating never delegates responsibility: supervisors stay accountable for work done through others, even outside the firm, while trainees answer for their own conduct.
+summary: Act only on instructions that are truly the client's or from someone properly authorised, give a competent and timely service fitted to the client, and remember that delegating never delegates responsibility.
+invented:
+- Dev
+- Joan
+- Ravi
+- Nadia
+- Leo
+- Priya
+- Arthur
+- Mia
+guide_only: []
+---
+## Map
+Will: The big question: whose instructions can a solicitor act on, and what does a competent service demand? Seven areas. The first three are who can instruct you, clients who lack capacity, and refusing and ending a retainer.
+Hannah: And what are the other four areas?
+Will: Competent and timely service; maintaining competence; adapting to the client's needs; and supervision, with the competence of those you manage.
+Hannah: First, a warm-up on the last workshop. Dev admits a burglary to his solicitor but wants to plead not guilty and run an alibi. Can the solicitor keep acting, and run the alibi?
+Will (scenario pause): <think>
+Will: He can keep acting and put the prosecution to proof, but mustn't put forward a positive case inconsistent with the admission, such as an alibi; if Dev insists on the alibi, he must stop acting. The tempting wrong answer is that the admission alone means he must stop acting.
+Hannah: Yes, testing the prosecution's case is fine; contradicting the admission isn't, and if Dev insists on it, the solicitor must stop acting.
+## Block 1: Instructions and authority
+Will: First, instructions and authority. A solicitor may act only on instructions from the client, or from someone properly authorised to give them on the client's behalf. That includes an attorney under a registered lasting power of attorney, a court-appointed deputy or a company's authorised officers.
+Hannah: And with a company client, who exactly is the client?
+Will: The company itself. Instructions must come from those properly authorised to act for it, usually the board or an authorised director. The solicitor acts for the company, not its directors or shareholders personally.
+Hannah: Which rule do questions in this area turn on?
+Will: Suspect instructions. If the solicitor has reason to suspect the instructions don't represent the client's wishes, they mustn't act unless satisfied that they do. Warning signs include pressure from a third party, undue influence and duress, or instructions relayed by someone who benefits. The usual step is to see the client alone and confirm the instructions directly.
+Hannah: Does a suspicion like that mean refusing outright?
+Will: That's the tempting mistake. It means not acting until satisfied, and usually that's done by seeing the client alone to confirm the instructions directly.
+Hannah: And what about joint clients, say a couple?
+Will: Each joint client is a client, so the solicitor may act only on instructions from each of them, or from someone properly authorised by them, which may be the other joint client. Where one instructs for both, check with the other before acting, and don't act if there's reason to suspect it isn't that client's wishes, unless satisfied it is.
+Hannah: What changes when an introducer, like an estate agent, passes on the instructions?
+Will: The solicitor must contact the client directly to confirm the instructions and the client's wishes, and mustn't let the introducer's interests drive the advice.
+Hannah: Can a solicitor ever act without the client's instructions?
+Will: Yes, where they have legal authority to act though the client's instructions can't be obtained or ascertained, but subject to the overriding obligation to protect the client's best interests.
+Hannah (summing up): Act only on instructions from the client or someone properly authorised; with reason to suspect they aren't the client's wishes, don't act unless satisfied they are.
+Will: Yes: proper instructions only, and any suspicion resolved first.
+## Block 2: Clients who lack capacity
+Hannah: Before clients who lack capacity, a question on instructions. Joan's son brings in her signed instructions to sell her house and give him the proceeds. Can the solicitor go ahead?
+Will (scenario pause): <think>
+Will: Not yet. The son benefits, so there's reason to suspect these aren't Joan's wishes, and the solicitor mustn't act unless satisfied they are, usually by seeing her alone. The tempting wrong answer is that her signature settles it.
+Hannah: Right: the son's interest is the warning sign.
+Will: Now, clients who lack capacity. A client is presumed to have capacity. If there's doubt, the solicitor must assess it for the particular decision, obtaining a medical opinion where appropriate.
+Hannah: What does that assessment ask about the client?
+Will: Four things: whether the client can understand the information, retain it, use or weigh it, and communicate the decision. For a will, the test is Banks v Goodfellow.
+Hannah: And if the client lacks capacity for the decision, who instructs instead?
+Will: Someone with legal authority for the matter, meaning an attorney or deputy acting within their powers, never the client. But for a person lacking testamentary capacity, only the Court of Protection can make a will, never a deputy.
+Hannah: What happens when a client loses capacity partway through the retainer?
+Will: The solicitor's authority to act on their instructions is suspended, though the retainer isn't automatically ended. Carrying on, for example continuing litigation, risks personal liability for breach of warranty of authority. Instructions must then come from an attorney under a registered power or a deputy, or, in litigation, a litigation friend.
+Hannah: How is that different from acting with legal authority but no instructions?
+Will: Ask where the authority comes from. The solicitor's own legal authority lets them act without instructions, protecting the client's best interests; authority from the client's instructions is suspended when capacity goes.
+Hannah (summing up): Presume capacity, assessing any doubt for the decision; without it, someone with legal authority instructs, and only the Court of Protection can make a will.
+Will: Yes: capacity is presumed, and without it, authority must come from elsewhere.
+## Block 3: Refusing and ending a retainer
+Hannah: Before refusing and ending a retainer, a question on capacity. Midway through a claim, Ravi loses capacity. His brother, with no power or court appointment, says carry on. What should the solicitor do?
+Will (scenario pause): <think>
+Will: Not carry on. The solicitor's authority is suspended, so carrying on risks personal liability for breach of warranty of authority; instructions must come from an attorney under a registered power, a deputy or, in litigation, a litigation friend, not from the brother simply as family. The tempting wrong answer is that the retainer has ended: it isn't automatically ended.
+Hannah: Yes, the authority is suspended, the retainer isn't automatically ended, and instructions need someone with legal authority.
+Will: Now, refusing and ending a retainer. A solicitor must refuse or stop acting where acting would breach the law or the Code: for example an own-interest conflict, a client conflict outside the conflict exceptions, or a risk to another client's confidential information without effective measures or informed written consent.
+Hannah: What else stops a solicitor acting?
+Will: Instructions they aren't satisfied represent the client's wishes. Nor may they act where they can't give a competent service, or where the client lacks capacity and no one with legal authority instructs.
+Hannah: And where does money laundering come in?
+Will: Where client due diligence can't be completed on work within the Money Laundering Regulations, the solicitor mustn't start or continue the relationship, or transact. That doesn't apply to advising on the client's legal position, or to litigation.
+Hannah: And what does ending a retainer need?
+Will: Good reason and reasonable notice. Good reasons include the client's instruction to act improperly, such as misleading the court; a conflict arising; a breakdown of confidence; and, in contentious business, failure to pay a reasonable sum requested on account of costs. In litigation, the solicitor must also come off the court record.
+Hannah (summing up): Refuse or stop where acting would breach the law or the Code, and end a retainer only for good reason and on reasonable notice.
+Will: Yes: the law and the Code say when you must stop, and leaving needs reason and notice.
+## Block 4: Competent and timely service
+Hannah: Before competent and timely service, a question on ending a retainer. Nadia, a litigation client, hasn't paid the reasonable sum asked for on account. Can her solicitor stop acting today?
+Will (scenario pause): <think>
+Will: Non-payment is a good reason, but he still needs to give reasonable notice, and must come off the court record. The tempting wrong answer is that a good reason means stopping at once.
+Hannah: Yes, a good reason still needs reasonable notice.
+Will: Now, competent and timely service, the rule questions here turn on. A solicitor must ensure that the service to clients is competent and delivered in a timely manner.
+Hannah: Can a solicitor take on work outside their competence?
+Will: Not unless they can become competent in time or get appropriate help, such as supervision, training or counsel. And they shouldn't accept work their workload won't let them handle promptly. The tempting neighbour is a flat ban on unfamiliar work: there isn't one.
+Hannah: What does acting in the client's best interests add?
+Will: Balanced advice on whether the matter is worth pursuing, given the likely outcome, costs and risks. And advice on suitable funding options, rather than simply following instructions plainly against the client's interests without advice.
+Hannah: And what happens when the service falls short?
+Will: Three consequences. Poor service or delay can lead to a complaint, first to the firm and then to the Legal Ombudsman; to a negligence claim; and, if serious or persistent, to SRA action. Missing a limitation period is the classic serious example.
+Hannah (summing up): Don't take on work outside your competence unless you can become competent in time or get appropriate help, or more than you can handle promptly.
+Will: Yes: be competent, or get there in time, and keep the work manageable.
+## Block 5: Maintaining competence
+Hannah: Before maintaining competence, a question on service. Leo, newly qualified, is offered a complex trust matter he's never handled, with his supervisor on hand. Must he turn it down?
+Will (scenario pause): <think>
+Will: No. With appropriate help through supervision, he can take it on. The tempting wrong answer is that unfamiliar work is always off limits.
+Hannah: Right: supervision makes the unfamiliar work acceptable.
+Will: Now, maintaining competence, including with AI. A solicitor must maintain their competence to carry out their role, and keep their professional knowledge and skills up to date.
+Hannah: How many CPD hours does that take each year?
+Will: There's no minimum. Under the SRA's continuing competence approach, the solicitor reflects on their practice, addresses learning needs and confirms this each year when renewing the practising certificate. The trap is a fixed annual hours figure: that was the old CPD requirement, which this approach replaced.
+Hannah: And where does AI fit into competence?
+Will: Competence includes understanding the tools you use. A solicitor who uses AI or other technology must understand its limits and check its output, and remains responsible for the advice and documents produced.
+Hannah (summing up): No minimum CPD hours: reflect, address learning needs and confirm it yearly at renewal; with AI, understand its limits, check its output and stay responsible.
+Will: Yes: reflection, not counted hours, and you own what the AI produces.
+## Block 6: The client's attributes, needs and circumstances
+Hannah: Before the client's attributes, needs and circumstances, a question on competence. Priya logged no CPD hours this year, but reflected, addressed her learning needs and confirmed it at renewal. Has she fallen short?
+Will (scenario pause): <think>
+Will: No. There's no minimum number of hours; reflecting, addressing learning needs and confirming it yearly is what's required. The tempting wrong answer is the old fixed annual hours requirement.
+Hannah: Right, reflection counts, not a tally of hours.
+Will: Now, the client's attributes, needs and circumstances. A solicitor must consider and take account of them. These include age, disability and mental health; language and literacy; and bereavement or financial position.
+Hannah: What does taking account of them mean in practice?
+Will: Adapting how they communicate and deliver the service, for example with an interpreter, plain language or extra time.
+Hannah: What extra care does a client vulnerable to influence need?
+Will: Where a client is vulnerable to influence, for example elderly and dependent on a relative, the solicitor should take instructions without the third party present and watch for undue influence.
+Hannah (summing up): Adapt your service to the client's needs, and see a client vulnerable to influence without the third party, watching for undue influence.
+Will: Yes: fit the service to the person, and keep the influencer out.
+## Block 7: Supervision, and the competence of those you manage
+Hannah: Before supervision, a question mixing two areas. Arthur, elderly and dependent on his daughter, wants to change his will in her favour, and she asks to sit in. What should the solicitor do?
+Will (scenario pause): <think>
+Will: See Arthur without his daughter, watching for undue influence. And since she benefits, the solicitor mustn't act unless satisfied the instructions are his wishes. The tempting wrong answer is to let her stay as support.
+Hannah: Yes, he's seen alone, and his own wishes come first.
+Will: Now, supervision, and the competence of those you manage. A solicitor who supervises or manages others providing legal services remains accountable for the work carried out through them, and must supervise it effectively. Delegating a task doesn't delegate responsibility.
+Hannah: Does the supervisor's accountability let the trainee off the hook?
+Will: No, and questions here turn on this. A trainee or junior solicitor is personally accountable for their own conduct, and must refuse improper instructions. The supervisor is accountable for the work and for supervising it. Following orders doesn't protect the trainee.
+Hannah: What about work done by people outside the firm?
+Will: Supervision duties extend to work done through others outside the firm, such as agents, contractors and outsourced service providers. The solicitor remains accountable for the work done on their clients' matters.
+Hannah: And what must a solicitor who manages others ensure?
+Will: That they're competent to carry out their role, and keep their professional knowledge and skills up to date, including their understanding of their legal, ethical and regulatory obligations. Training on money laundering, undertakings and conflicts is an example.
+Hannah: How do those two standards differ, and where do firm-wide systems fit?
+Will: The supervision standard is about supervising client work and staying accountable for it; the standard on those you manage is about the competence and ongoing development of the people managed. Firm-wide systems for supervision and compliance belong to the Code for Firms and the compliance officers.
+Hannah (summing up): Delegating never delegates responsibility: supervisors stay accountable for work done through others, even outside the firm, while trainees answer for their own conduct.
+Will: Yes: the supervisor stays accountable, and the supervisee answers for their own conduct.
+## Recap
+Hannah: Before the quick-fire round, a last question, on supervision. Mia outsources a document review on her client's matter to a contractor, who misses a key document. Is that the contractor's problem, not Mia's?
+Will (scenario pause): <think>
+Will: No. Supervision duties reach work done through others outside the firm, so Mia stays accountable. The tempting wrong answer is that outsourcing hands over responsibility.
+Hannah: Yes, the accountability stays with Mia.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for who can give instructions?
+Will (quick-fire pause): <think>
+Will: Act only on instructions from the client or someone properly authorised; with reason to suspect they aren't the client's wishes, don't act unless satisfied they are.
+Hannah: What's the summary for clients who lack capacity?
+Will (quick-fire pause): <think>
+Will: Presume capacity, assessing any doubt for the decision; without it, someone with legal authority instructs, and only the Court of Protection can make a will.
+Hannah: What's the summary for refusing and ending a retainer?
+Will (quick-fire pause): <think>
+Will: Refuse or stop where acting would breach the law or the Code, and end a retainer only for good reason and on reasonable notice.
+Hannah: What's the summary for competent and timely service?
+Will (quick-fire pause): <think>
+Will: Don't take on work outside your competence unless you can become competent in time or get appropriate help, or more than you can handle promptly.
+Hannah: What's the summary for maintaining competence?
+Will (quick-fire pause): <think>
+Will: No minimum CPD hours: reflect, address learning needs and confirm it yearly at renewal; with AI, understand its limits, check its output and stay responsible.
+Hannah: What's the summary for adapting to the client's needs?
+Will (quick-fire pause): <think>
+Will: Adapt your service to the client's needs, and see a client vulnerable to influence without the third party, watching for undue influence.
+Hannah: And what's the summary for supervision and the people you manage?
+Will (quick-fire pause): <think>
+Will: Delegating never delegates responsibility: supervisors stay accountable for work done through others, even outside the firm, while trainees answer for their own conduct.
+Hannah: And what's the whole workshop in one sentence?
+Will: Act only on instructions that are truly the client's or from someone properly authorised, give a competent and timely service fitted to the client, and remember that delegating never delegates responsibility.
