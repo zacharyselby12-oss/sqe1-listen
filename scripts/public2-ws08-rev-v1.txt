@@ -1,0 +1,153 @@
+---
+id: public2-ws08-rev-v1
+unit: u-bpp-Public2-08
+guide_hash: f2ffb27ace
+made: 2026-11-16T12:42:14+00:00
+kind: revision
+title: Public2 WS08 · Revision · 18 min
+map:
+- Article 6(1): fair hearing
+- Article 6: scope (criminal charge, civil rights)
+- Article 6(2)-(3): criminal guarantees
+- Article 7: no punishment without law
+recap:
+- Civil legal aid is owed only where needed for effective access, and objective impartiality fails wherever there's a legitimate doubt, even with no actual bias.
+- A criminal charge can arise before formal charge, and Article 6 bars removal only for a real risk of flagrant denial of justice abroad.
+- Without compelling reasons, restricting a lawyer brings very strict scrutiny of overall fairness, not an automatic breach; and if police deny a solicitor at the station, no silence inference can be drawn.
+- Article 7 bars convicting for an act not criminal when done, or a heavier penalty than applied then, but allows reasonably foreseeable judicial development consistent with the offence's essence.
+summary: Most questions turn on fairness as a whole: a delay breach stops a trial only if a fair trial is impossible or trying him is unfair, and restricting a lawyer without compelling reasons brings very strict scrutiny, not an automatic breach.
+invented:
+- Jo
+- Kofi
+- Viktor
+- State Y
+- Nadia
+- 40 hours
+- Ella
+- a market regulator
+guide_only: []
+---
+## Map
+Will: Today: what a fair trial demands, and whether you can be punished under law that didn't exist when you acted. Four areas: the fair hearing itself; when Article 6 applies; the criminal guarantees; and no punishment without law.
+Hannah: A warm-up from liberty. Police lock Jo in a cell overnight to keep order, plainly a deprivation of liberty; no listed ground fits, but they say it was proportionate. Does that save the detention?
+Will (scenario pause): <think>
+Will: No. Article 5 is a limited right, so there's no general balancing or proportionality defence. The tempting answer treats it like a qualified right.
+Hannah: Yes: liberty is a limited right, so proportionality can't rescue a detention that fits no ground.
+## Block 1: Article 6(1): fair hearing
+Will: Now, the fair hearing under Article 6(1): what does it require? In determining civil rights and obligations or a criminal charge, it requires a fair and public hearing within a reasonable time, by an independent and impartial tribunal established by law.
+Hannah: And what rights are implied into it?
+Will: They include access to court, equality of arms and the privilege against self-incrimination. And it needs a hearing, not necessarily a full trial.
+Hannah: When can the state restrict access to a court?
+Will: Only if the restriction pursues a legitimate aim, is proportionate and leaves the right's essence intact. But there's no general right to free civil legal aid: it's required only where needed for effective access.
+Hannah: So when does a lack of legal help breach the fair hearing?
+Will: When the litigant can't present the case effectively and without obvious unfairness. Four factors: the difficulty of the legal issues, the litigant's capability, the volume of evidence, and what is at stake. The state chooses the means, legal aid or a simplified procedure, and self-representation can be enough: a capable person with a simple small claim may need no lawyer.
+Hannah: Can effective access need more than a lawyer at the hearing?
+Will: Yes: it can require legal advice, not only representation. Exceptional case funding is available where refusing legal aid would breach Convention rights, and guidance setting a very high threshold, with funding only in rare cases, is wrong. The trap is reaching for the criminal free-lawyer right in a civil claim: civil legal help comes only through effective access.
+Hannah: Now the tribunal. How do you judge independence?
+Will: Four things: the manner of appointment, the term of office, guarantees against outside pressure, and the appearance of independence. Subjective impartiality means no actual personal bias. Objective impartiality requires guarantees sufficient to exclude any legitimate doubt.
+Hannah: So a careful judge with no actual bias can still fail?
+Will: Yes: a judge married to the defendant company's managing director fails it. Independence and objective impartiality are closely linked and often assessed together. So one officer controlling the charges and appointing the court members and prosecutor means the tribunal isn't independent. And a judge who earlier took part in adopting the measure later challenged fails objective impartiality.
+Hannah: Is the domestic test any different?
+Will: Domestic apparent bias asks whether a fair-minded and informed observer would conclude there was a real possibility of bias.
+Hannah: What decides whether the hearing came within a reasonable time?
+Will: Four factors: complexity, the applicant's conduct, the authorities' conduct, and what was at stake for him. Delay caused by the applicant counts against him, and a complex case can justify longer proceedings. A thorough investigation can justify delay, but a young defendant requires extra speed. In criminal cases time usually runs from formal charge or summons to final determination, including any appeal.
+Hannah: And if there's a breach, does the trial stop?
+Will: Not automatically. A stay is ordered only if a fair trial is impossible or trying him is unfair; otherwise, expect a declaration or a reduced sentence.
+Hannah: Last, closed material. Who sees it?
+Will: Not the detainee or his own lawyer: a security-vetted special advocate represents his interests, and is capable in principle of offsetting the disadvantage of non-disclosure. It's used in immigration, national security and anti-terrorism regimes, such as TPIMs.
+Hannah: What must the detainee himself be told?
+Will: The gist of the allegations, enough to give effective instructions to the special advocate. So if the case rests decisively on undisclosed material and no gist is given, the hearing is unfair. The rule comes from the liberty article and was applied under the fair-trial article to control orders.
+Hannah: Does that gist rule apply everywhere?
+Will: Not always outside liberty cases, for example an employment claim involving vetting. In liberty cases, the default is that the gist is required.
+Hannah (summing up): Civil legal aid is owed only where needed for effective access, and objective impartiality fails wherever there's a legitimate doubt, even with no actual bias.
+Will: Yes: effective access, not free help for all; and a legitimate doubt alone fails objective impartiality.
+## Block 2: Article 6: scope (criminal charge, civil rights)
+Hannah: Before scope, a question on the fair hearing. Kofi's simple theft trial starts years late because the prosecution kept losing the file, but all the evidence survives. Must the court stay it?
+Will (scenario pause): <think>
+Will: No. It's likely a breach, but a fair trial is still possible, so he gets a lesser remedy. The tempting answer is that a breach automatically ends the trial.
+Hannah: Yes: a stay needs an impossible or unfair trial, which delay alone isn't.
+Will: Now, when does Article 6 apply, and which parts? 'Criminal charge' has an autonomous meaning, judged on domestic classification, the nature of the offence and the severity of the penalty. 'Civil rights' don't cover, for example, immigration and deportation decisions.
+Hannah: So when does a criminal charge arise?
+Will: Because the meaning is autonomous, it can arise before formal charge: on official notification of an allegation, or when the suspect's situation is substantially affected, such as arrest or questioning as a suspect. Don't confuse it with formal charge at the station: it starts earlier.
+Hannah: Which parts apply in a civil case?
+Will: Only general fairness under the first paragraph. There are none of the criminal minimum rights in a civil claim, so, for example, no free interpreter. Three questions decide it. Is a court or tribunal determining the matter, rather than the executive simply deciding? Does it determine civil rights or obligations, or a criminal charge? And is it a criminal charge? Then all three paragraphs apply.
+Hannah: What about a decision by someone who isn't independent?
+Will: If it determines civil rights or obligations, Article 6 is engaged. If the decision-maker is itself an independent and impartial tribunal, it complies.
+Hannah: And if the decision-maker isn't independent?
+Will: It still complies where the decision is subject to control by a court of full jurisdiction. Judicial review is usually enough for policy, planning or evaluative decisions, since compliance is judged on the process as a whole.
+Hannah: Where has that worked?
+Will: A planning inspector wasn't independent, but a statutory appeal on points of law cured it. A housing review officer's evaluative decision complied, given an appeal on a point of law akin to judicial review. But pure fact-finding on credibility by a non-independent body, not policy, may need more than judicial review. The trap: Article 6 does cover administrative decisions where civil rights are determined.
+Hannah: Finally, removal abroad. When does the fair-trial right stop an extradition?
+Will: The test asks whether the receiving state carries a real risk of a flagrant denial of justice: a breach so fundamental it nullifies the right's essence, such as torture evidence used at trial. There's no general duty to impose these standards on other states; the principle covers extradition and deportation.
+Hannah: So an ordinary unfair trial abroad isn't enough?
+Will: Correct: an ordinary breach, such as delay or limited disclosure, doesn't bar removal. Compare Article 3, where a real risk of torture or inhuman or degrading treatment is enough. It's absolute and can't be balanced against national security. Assurances or treaty guarantees from the receiving state can remove the risk.
+Hannah (summing up): A criminal charge can arise before formal charge, and Article 6 bars removal only for a real risk of flagrant denial of justice abroad.
+Will: Yes: the autonomous meaning starts it early, and under Article 6 only a real risk of flagrant denial stops removal.
+## Block 3: Article 6(2)-(3): criminal guarantees
+Hannah: Before the criminal guarantees, a question on scope. State Y wants to extradite Viktor; its trials routinely run late, and its remand prisons carry a real risk of degrading treatment. What most likely bars his extradition?
+Will (scenario pause): <think>
+Will: The prisons, under Article 3: a real risk of degrading treatment is enough. The tempting answer is the fair-trial right, but late trials are ordinary unfairness.
+Hannah: Yes: prisons engage the torture article; delay falls short of flagrant denial.
+Will: Now, the criminal guarantees. The second paragraph gives the presumption of innocence. The third gives five minimum rights. First, to be told promptly, in a language he understands and in detail, of the nature and cause of the accusation. Second, adequate time and facilities to prepare the defence.
+Hannah: And what are the other three rights?
+Will: To defend himself in person or through a lawyer of his choosing, free if he lacks means and the interests of justice require it. To examine prosecution witnesses and call his own on the same conditions. And a free interpreter where he can't understand or speak the court's language. Breaches are often found under the first paragraph read with one of these.
+Hannah: When does he get a free lawyer?
+Will: He must lack the means to pay; then weigh the severity of the penalty, the complexity of the case and his personal situation. Liberty at stake in principle calls for a free lawyer.
+Hannah: Now the police station. How do you test a restriction on access to a lawyer?
+Will: Four questions. One: was the suspect later charged and tried? If not, Article 6 doesn't apply to the investigation. Two: was one of his rights, typically access to a lawyer, restricted at interview?
+Hannah: And the last two questions?
+Will: Three: were there compelling reasons? Four: did it prejudice the overall fairness of the trial? Access should be given from the first police interrogation, unless there are compelling reasons.
+Hannah: So no compelling reasons means an automatic breach?
+Will: No: it triggers very strict scrutiny of overall fairness, and the Government must show convincingly that fairness was not irretrievably prejudiced. Access is paramount where adverse inferences can be drawn from silence; a 48-hour denial of access there breached the fair-trial right read with the right to a lawyer. And the free interpreter extends to interview statements later used at trial.
+Hannah: When can the police lawfully delay a solicitor here?
+Will: Any restriction needs compelling reasons and a legal basis, which domestically is section 58 of PACE. Delay is permitted only for a person in police detention for an indictable offence, and only if an officer of at least the rank of superintendent authorises it.
+Hannah: And how long can the delay last?
+Will: The suspect must be allowed to consult a solicitor within 36 hours from the relevant time.
+Hannah: What grounds justify the delay?
+Will: Reasonable grounds to believe the right's exercise will lead to harm to evidence or people, alerting other suspects not yet arrested, or hindering recovery of property or of the value of his benefit from crime. The ground needs a specific belief about this case or this solicitor; general distrust of solicitors isn't enough. Police mustn't discourage legal advice, but a voluntary, informed waiver is valid.
+Hannah: Now self-incrimination. What does the privilege bar?
+Will: The rights to silence and against self-incrimination are implied into the fair-trial right, read with the presumption of innocence. They bar using answers compelled under threat of penalty, such as contempt, but not voluntary admissions or ordinary questioning. They don't cover material existing independently of the will, including documents, breath, blood or DNA samples.
+Hannah: When can a jury draw an inference from silence?
+Will: Four conditions. One: silence isn't the sole or main basis of the conviction. Two: the prosecution evidence clearly calls for an explanation. Three: the defendant had access to legal advice.
+Hannah: And what's the fourth condition?
+Will: The jury is directed to draw an inference only if satisfied the silence was because he had no answer that would stand scrutiny. A missing or defective direction breaches Article 6.
+Hannah: What if he was never allowed a solicitor?
+Will: Then there's no statutory silence inference, where he wasn't allowed to consult a solicitor at an authorised place of detention, even when the delay was lawful. And silence for an innocent reason, such as anger at the police, not because there was no answer, shouldn't ground an inference.
+Hannah: Last, evidence at trial. Can an evidence rule itself breach the fair hearing?
+Will: Yes: a near-blanket bar on sexual-history evidence was read down under section 3 HRA. And sole or decisive hearsay isn't automatically unfair; it's fair only with strong counterbalancing safeguards.
+Hannah (summing up): Without compelling reasons, restricting a lawyer brings very strict scrutiny of overall fairness, not an automatic breach; and if police deny a solicitor at the station, no silence inference can be drawn.
+Will: Yes: strict scrutiny, not automatic breach; and a solicitor denied by the police means no inference.
+## Block 4: Article 7: no punishment without law
+Hannah: Before no punishment without law, a police station question. Nadia is arrested for a large fraud with accomplices at large, and a superintendent validly delays her solicitor so they won't be alerted. She's still refused one 40 hours after arriving. Is that lawful?
+Will (calculation pause): <think>
+Will: No. The ground and authorisation were valid, but delay is capped at 36 hours from the relevant time. The tempting answer is that a valid authorisation covers the whole detention.
+Hannah: Yes: a good reason and the right rank can't stretch the limit.
+Will: Now, no punishment without law. Article 7 bars conviction for an act or omission that wasn't an offence under national or international law when done, and any heavier penalty than applied then. It's non-derogable, even in war or public emergency.
+Hannah: Is there an exception?
+Will: Yes: conduct that, when done, was criminal under general principles of law recognised by civilised nations, such as war crimes and genocide.
+Hannah: Can the courts develop an offence without breaching it?
+Will: 'Law' includes case law, but it must be accessible and foreseeable. So judicial development is compatible if reasonably foreseeable and consistent with the offence's essence, as with removing the marital rape immunity.
+Hannah: When is the article engaged at all?
+Will: 'Criminal' has an autonomous meaning, judged on domestic classification, the nature of the offence and the severity of the penalty risked, and that applies to the fair-trial right too. 'Held guilty' is read broadly: a criminal penalty imposed without formal conviction can engage it. But an ongoing prosecution or an extradition decision doesn't.
+Hannah (summing up): Article 7 bars convicting for an act not criminal when done, or a heavier penalty than applied then, but allows reasonably foreseeable judicial development consistent with the offence's essence.
+Will: Yes: no backdated offences or heavier penalties, but development that's foreseeable and true to the offence's essence is fine.
+## Recap
+Hannah: Mixing scope and retrospective punishment: a market regulator labels a heavy penalty 'civil' and imposes it on Ella for conduct that was lawful when she did it. Can Article 7 apply?
+Will (scenario pause): <think>
+Will: Yes. 'Criminal' is autonomous, so the court looks past the label to the offence's nature and the penalty's severity. The tempting answer is that a civil label takes it outside the article.
+Hannah: Yes: the autonomous meaning beats the label, so a backdated penalty can still breach it.
+Will: Now the quick-fire round, one summary an area.
+Hannah: What's the summary for the fair hearing itself?
+Will (quick-fire pause): <think>
+Will: Civil legal aid is owed only where needed for effective access, and objective impartiality fails wherever there's a legitimate doubt, even with no actual bias.
+Hannah: What's the summary for when the fair-trial right applies?
+Will (quick-fire pause): <think>
+Will: A criminal charge can arise before formal charge, and Article 6 bars removal only for a real risk of flagrant denial of justice abroad.
+Hannah: What's the summary for the criminal guarantees?
+Will (quick-fire pause): <think>
+Will: Without compelling reasons, restricting a lawyer brings very strict scrutiny of overall fairness, not an automatic breach; and if police deny a solicitor at the station, no silence inference can be drawn.
+Hannah: What's the summary for no punishment without law?
+Will (quick-fire pause): <think>
+Will: Article 7 bars convicting for an act not criminal when done, or a heavier penalty than applied then, but allows reasonably foreseeable judicial development consistent with the offence's essence.
+Hannah: And what decides most of this workshop's questions, in one sentence?
+Will: Most questions turn on fairness as a whole: a delay breach stops a trial only if a fair trial is impossible or trying him is unfair, and restricting a lawyer without compelling reasons brings very strict scrutiny, not an automatic breach.
