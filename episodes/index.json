@@ -4434,7 +4434,7 @@
       ],
       "summary": "Most questions turn on fairness as a whole: a delay breach stops a trial only if a fair trial is impossible or trying him is unfair, and restricting a lawyer without compelling reasons brings very strict scrutiny, not an automatic breach.",
       "madeAt": "2026-11-16T12:42:14+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck covers all 29 items); known-error scan 0 hits; opus x2 (accuracy fail, line-by-line fail: fixes applied via fixflow; 1 SOURCE-ERROR on a case year in the guide, not spoken, filed to pfix); code checks and known-error scan again ok; fresh opus verify of changed lines pass",
@@ -4446,7 +4446,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9444583,
+      "seconds": 1181,
+      "words": 2714,
+      "renderedHash": "3a1b45646e33",
+      "renderedAt": "2026-11-16T12:43:22+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws08-rev-v1-c9717d36.mp3",
+      "siteAudio": "audio/public2-ws08-rev-v1-c9717d36.mp3",
+      "pubDate": "2026-11-16T12:43:22+00:00"
     }
   ],
   "replays": [
