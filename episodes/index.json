@@ -4479,7 +4479,7 @@
       ],
       "summary": "A benefit from the client's instructions is the client's unless they gave informed agreement; entrusted money moves only with proper authority, money improperly withheld or withdrawn from client account is replaced immediately, and a colleague's misuse of client money is reported promptly to the SRA.",
       "madeAt": "2026-11-16T21:42:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); known-error scan 0 hits; opus x2 (accuracy fail, line-by-line fail: 5 fixes merged, 2 applied via fixflow); one script-revise for the unapplied contrast-pair fix; code checks and known-error scan again ok; check of changed lines found 1 narrow problem; targeted round 1 (script-revise), code checks ok; fresh opus verify of changed lines pass",
@@ -4491,7 +4491,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7469097,
+      "seconds": 934,
+      "words": 2392,
+      "renderedHash": "bcbed9c69ec4",
+      "renderedAt": "2026-11-16T21:43:33+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws05-rev-v1-dc733166.mp3",
+      "siteAudio": "audio/eth-ws05-rev-v1-dc733166.mp3",
+      "pubDate": "2026-11-16T21:43:33+00:00"
     },
     {
       "id": "public2-ws10-rev-v1",
@@ -4523,7 +4532,7 @@
       ],
       "summary": "Three thresholds decide most questions: conditions need a reasonable belief that harm may result, a procession ban a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder, and preventive action a breach of the peace occurring or reasonably apprehended as imminent.",
       "madeAt": "2026-11-16T21:42:34+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); known-error scan: 4 hits, 3 fixed by the accuracy fixes and 1 cleared by Opus triage, then 0 hits; opus x2 (accuracy fail 4, line-by-line fail 5: 9 fixes applied via fixflow, copies synced); code checks and known-error scan again ok; opus verify of changed lines: 1 finding; targeted round 1 (script-revise), code checks and scan ok; fresh opus verify pass",
@@ -4539,7 +4548,16 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9294536,
+      "seconds": 1162,
+      "words": 2560,
+      "renderedHash": "b9cb1783b467",
+      "renderedAt": "2026-11-16T21:43:33+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws10-rev-v1-b9fd69da.mp3",
+      "siteAudio": "audio/public2-ws10-rev-v1-b9fd69da.mp3",
+      "pubDate": "2026-11-16T21:43:33+00:00"
     }
   ],
   "replays": [
