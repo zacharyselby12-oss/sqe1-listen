@@ -9,6 +9,8 @@
   registry.py requeue ID            # make an unpublished episode again (for example with another voice)
   registry.py approve ID            # pilots: let the episode go into the feed
   registry.py retire ID             # take an episode out of the feed
+  registry.py set-summary ID --was TEXT --now TEXT
+                                    # (b307) correct an episode's show notes: only its summary changes, only from exactly --was
   registry.py show
 """
 import argparse
@@ -146,6 +148,26 @@ def set_flag(a, **kw):
     raise SystemExit("no such episode: " + a.id)
 
 
+def set_summary(a):
+    """(b307, Nov 2026) Correct an episode's show notes (the feed's notes start with its summary): only its `summary` changes, and only
+    when it is exactly --was; the script, the audio and every other field stay as they are. Already --now: nothing to do. A summary that
+    is neither (changed since, or --was not exact) changes nothing. Prints no summary text."""
+    idx = load()
+    ep = next((e for e in idx["episodes"] if e["id"] == a.id), None)
+    if not ep:
+        raise SystemExit("no such episode: " + a.id)
+    if not a.now.strip():
+        raise SystemExit("--now is empty: a summary is never cleared this way")
+    if ep.get("summary") == a.now:
+        print("summary of", a.id, "is already the new one: nothing changed")
+        return
+    if ep.get("summary") != a.was:
+        raise SystemExit("the summary of %s is not --was (changed since, or --was is not exact): nothing changed" % a.id)
+    ep["summary"] = a.now
+    save(idx)
+    print("summary of", a.id, "changed")
+
+
 def show(_a):
     idx = load()
     for e in idx["episodes"]:
@@ -194,6 +216,11 @@ def main():
     p = sub.add_parser("retire")
     p.add_argument("id")
     p.set_defaults(fn=lambda a: set_flag(a, status="retired"))
+    p = sub.add_parser("set-summary")
+    p.add_argument("id")
+    p.add_argument("--was", required=True, help="its summary in episodes/index.json now, exactly")
+    p.add_argument("--now", required=True, help="the corrected summary")
+    p.set_defaults(fn=set_summary)
     p = sub.add_parser("show")
     p.set_defaults(fn=show)
     a = ap.parse_args()
