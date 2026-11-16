@@ -1,0 +1,123 @@
+---
+id: eth-ws05-rev-v1
+unit: u-bpp-ETH-05
+guide_hash: ca19c06953
+made: 2026-11-16T21:42:34+00:00
+kind: revision
+title: Ethics WS05 · Revision · 16 min
+map:
+- Accounting for financial benefits
+- Safeguarding money and assets
+- Not personally holding client money
+- The Accounts Rules and reporting misuse
+recap:
+- A benefit from the client's instructions is the client's, unless they agreed after being told about it and its amount or, if not yet known, how it's calculated.
+- Release entrusted money and assets only with proper authority; money improperly withheld or withdrawn from client account is replaced immediately, from the firm's own money if need be.
+- Don't hold client money personally: in an authorised body it goes into client account; a freelancer holds only fees and unpaid disbursements paid in advance, in a business account.
+- Report a colleague's misuse of client money promptly to the SRA, whatever their seniority; telling the COFA does it, unless you know or come to believe they won't report.
+summary: A benefit from the client's instructions is the client's unless they gave informed agreement; entrusted money moves only with proper authority, money improperly withheld or withdrawn from client account is replaced immediately, and a colleague's misuse of client money is reported promptly to the SRA.
+invented:
+- Priya
+- Dev
+- Ellie
+- next week
+guide_only: []
+---
+## Map
+Will: Today's question: what may a solicitor keep, and how must client money be kept safe? There are four areas: accounting for financial benefits, safeguarding money and assets, not personally holding client money, and finally the Accounts Rules and reporting misuse.
+Hannah: First, a warm-up on supervision from last time. A trainee follows her supervisor's instruction to send a misleading letter, then says the supervisor is accountable, not her. Is she right?
+Will (scenario pause): <think>
+Will: She isn't. A trainee or junior solicitor is personally accountable for her own conduct and must refuse improper instructions, while the supervisor is accountable for the work and for supervising it. The tempting answer is that the supervisor's accountability covers her, but it doesn't remove her own.
+Hannah: Yes: both are on the hook, the supervisor for the work and how it's supervised, the trainee for what she herself does.
+## Block 1: Accounting for financial benefits
+Will: First, accounting for financial benefits: when may a solicitor keep a commission, and what about interest on client money?
+Hannah: Start with the basic duty, then. What does a solicitor have to do with a benefit that comes their way?
+Will: A solicitor must properly account to clients for any financial benefit received as a result of their instructions, unless the client has agreed otherwise. Examples include a commission from an insurer or financial adviser, a referral payment and a discount on a disbursement.
+Hannah: So what does the client's agreement have to look like for the firm to keep it?
+Will: The solicitor needs the client's agreement, and it must be informed: full disclosure of the nature and extent of the benefit. So the client should first be told about the benefit and its amount, or, if the amount isn't yet known, how it will be calculated. Without that agreement, the benefit must be accounted for to the client.
+Hannah: That's where the questions turn, isn't it? What separates agreement that counts from agreement that doesn't?
+Will: Picture two firms. One tells the client about the commission and its amount first, and the client agrees the firm may keep it: that agreement is informed, so the firm keeps the commission. The other's client care letter says only that it "may receive commissions", with no amount: that's not informed agreement, so the commission must be accounted for to the client.
+Hannah: And what's the position when a firm keeps a benefit without that agreement?
+Will: Then the benefit belongs to the client. It's an unauthorised, or secret, profit made by a fiduciary, so the solicitor must pay it to the client, as well as facing regulatory action.
+Hannah: Now interest on client money. Does the same rule as commission apply there?
+Will: It doesn't: interest is governed by the SRA Accounts Rules, not the Code standard on financial benefits. The firm must account to clients or third parties for a fair sum of interest on client money held for them.
+Hannah: Can the firm agree a different arrangement on interest with the client?
+Will: Only by written agreement with that client or third party, after giving them enough information to give informed consent. A written interest policy is good practice, but it isn't a rule requirement.
+Hannah: So how do I tell the two apart in a question?
+Will: Ask what the money is. A benefit received because of the client's instructions, like a commission, must be accounted for to the client unless they gave informed agreement; interest on client money held for a client or third party follows the Accounts Rules instead: it's owed as a fair sum, unless a written agreement, made after giving them enough information for informed consent, says otherwise.
+Hannah (summing up): A benefit from the client's instructions is the client's, unless they agreed after being told about it and its amount or, if not yet known, how it's calculated.
+Will: Yes: the client has to know what the benefit is and how much, or how it'll be calculated if that isn't known yet, before saying yes, and interest runs on its own track.
+## Block 2: Safeguarding money and assets
+Hannah: Before safeguarding money and assets, a question on financial benefits. Priya signed a client care letter saying the firm may receive commissions, with no amount given, and an insurer later pays the firm a commission on her policy. Can the firm keep it?
+Will (scenario pause): <think>
+Will: It can't. A vague line in a client care letter isn't informed agreement, because Priya was never told the amount or how it would be calculated, so the commission must be accounted for to her. The tempting answer is that she signed the letter and so agreed, but agreement only counts after full disclosure.
+Hannah: Yes: being warned that commissions might come isn't the same as being told what this one is and what it's worth.
+Will: Now, safeguarding money and assets: how must entrusted money and assets be kept safe, and what happens when client money is improperly withdrawn? A solicitor must safeguard money and assets entrusted to them by clients and by others, keeping them secure and releasing them only with proper authority.
+Hannah: What sort of money and assets does that duty cover?
+Will: Two groups. Documents, such as original wills, title deeds and share certificates. And money, such as a buyer's deposit held as stakeholder, or a lender's mortgage advance.
+Hannah: And is it only clients who are protected by that duty?
+Will: It isn't: the duty is owed to others as well as clients. So money or assets held for a third party must be protected and dealt with only as agreed. Think of a stakeholder deposit, the other side's documents held to order, or a lender's funds.
+Hannah: Here's a practical one. A client dies, and her son asks for the original will the firm is keeping. Does the firm hand it over?
+Will: Not just because he asks. After a client's death, an original will held in safekeeping should be released to the executors named in it or on their written authority, and not to beneficiaries or family members simply because they ask.
+Hannah: Now payment fraud. What must a solicitor do when an email asks them to send money to new bank details?
+Will: Verify it by an independent route, for example a phone call to a number already held, not by replying to the email that made the request. That goes for any request to send money to new or changed bank details.
+Hannah: And when money does go astray, or gets used for the wrong thing, what has to happen?
+Will: Two things. A firm must correct any breach of the Accounts Rules promptly on discovery. And any money improperly withheld or withdrawn from client account must be immediately paid back in or replaced, from the firm's own money if need be.
+Hannah: That's the rule questions turn on. What does it look like in practice?
+Will: Say a cashier pays completion money to a fraudster after failing to verify new bank details, or a partner uses client money for the firm's own purposes. Either way, the hole in client account is filled at once, out of the firm's own pocket where necessary.
+Hannah: Is borrowing client money for a few days ever acceptable?
+Will: It isn't. Using client money for anyone else's purposes, including temporarily for the firm, for example to pay office bills with an intention to repay, is a serious breach. Where it's done knowingly, it will usually be dishonest, leading to strike-off.
+Hannah: And can a client simply pass money through the client account for their own reasons?
+Will: Not without legal work behind it. A solicitor must not use a client account to provide banking facilities to clients or third parties: payments in and out must be in respect of regulated services the firm delivers. An underlying transaction isn't enough without legal work. So passing money through client account to an investment scheme with no legal work done is prohibited, and it's a money laundering red flag.
+Hannah (summing up): Release entrusted money and assets only with proper authority; money improperly withheld or withdrawn from client account is replaced immediately, from the firm's own money if need be.
+Will: Yes: nothing leaves without proper authority, and a shortfall in client account is made good straight away.
+## Block 3: Not personally holding client money
+Hannah: Before personally holding client money, a question on safeguarding. A firm gets an email, apparently from a client, giving new bank details; the cashier checks by replying to that same email, and the money goes to a fraudster. What must the firm do now?
+Will (scenario pause): <think>
+Will: Put the money back into client account immediately, from its own funds where necessary, and correct the breach promptly. The check failed because it wasn't by an independent route, like a call to a number already held. The tempting answer is to wait and see whether the money is recovered, but the duty to replace it is immediate.
+Hannah: Yes: the cashier should have phoned a number already on file, and the firm restores the money straight away rather than waiting.
+Will: Now, not personally holding client money: when may a solicitor hold it personally? A solicitor must not personally hold client money, for example in their own bank account. That's unless they work in an authorised body, where it goes into the firm's client account, or fall within a narrow permitted exception.
+Hannah: And what about a freelance solicitor working on their own?
+Will: A freelance solicitor practises on their own account, not through a firm. They may hold client money only for fees and unpaid disbursements paid in advance, and must keep it in a business account.
+Hannah: Could a freelancer hold completion money for a house purchase, then?
+Will: They can't hold other client money, such as completion funds. That money could instead go through a third-party managed account.
+Hannah (summing up): Don't hold client money personally: in an authorised body it goes into client account; a freelancer holds only fees and unpaid disbursements paid in advance, in a business account.
+Will: Yes: inside an authorised body it's the firm's client account, and a freelancer's business account never takes something like completion funds.
+## Block 4: The Accounts Rules and reporting misuse
+Hannah: Before reporting misuse, a question on personally holding client money. Dev, a freelance solicitor, is asked to hold a client's completion funds in his business account until next week. Can he?
+Will (scenario pause): <think>
+Will: He can't. A freelancer may hold client money only for fees and unpaid disbursements paid in advance; completion funds are other client money, so they could go through a third-party managed account instead. The tempting answer is that being freelance makes his business account fine, but it's only for those advance payments.
+Hannah: Yes: his business account is only for fees and unpaid disbursements paid upfront, so the completion money has to go elsewhere.
+Will: Now, the Accounts Rules and reporting misuse: where are the detailed client money rules, and what must you do when a colleague misuses client money? The Code sets the individual standard, but the detailed rules are in the SRA Accounts Rules, which apply to authorised firms and their managers and employees.
+Hannah: What do those detailed rules actually deal with?
+Will: They govern the mechanics including what counts as client money, paying it into client account promptly, withdrawals and keeping it separate from firm money.
+Hannah: And what else do the Accounts Rules cover besides those?
+Will: Interest, reconciliations and accountants' reports. So a mechanics question belongs to the Accounts Rules, not the Code's own standard.
+Hannah: Now the big one. What must a solicitor do on discovering a colleague misusing client money?
+Will: Report it promptly to the SRA as a serious breach, whatever the person's seniority or the solicitor's loyalty. It can't be dealt with informally.
+Hannah: Does it have to go straight to the SRA, or can it go through the firm?
+Will: Reporting to the firm's COFA meets the duty, because client money is the COFA's area, on the understanding that the COFA will report it to the SRA. But if the solicitor knows or comes to believe the COFA won't report, they must report directly.
+Hannah: And what changes when the person misusing it is very senior?
+Will: Nothing changes. Say the misuser is the managing partner who trained you: you still report promptly, and a quiet word with them doesn't meet the duty.
+Hannah (summing up): Report a colleague's misuse of client money promptly to the SRA, whatever their seniority; telling the COFA does it, unless you know or come to believe they won't report.
+Will: Yes: the SRA hears about it promptly, through the COFA or directly, and nobody's rank changes that.
+## Recap
+Hannah: A last question, mixing safeguarding with reporting. Ellie, a junior solicitor, finds a partner has used client money to pay the office rent, meaning to repay it next week. She tells the COFA, who says he'll sort it out quietly. What must Ellie do?
+Will (scenario pause): <think>
+Will: Report it to the SRA herself, promptly. Using client money for the firm is a serious breach even when it's temporary and meant to be repaid. And the money must be replaced immediately. Telling the COFA meets her duty only on the understanding that he'll report it; she now knows he won't, so she must report directly. The tempting answers, that the COFA route is enough or that repayment makes it private, are both wrong.
+Hannah: Yes: borrowing is still misuse, the money goes back at once, and a COFA who won't report sends her straight to the SRA.
+Will: Then let's finish with the quick-fire round, one area at a time.
+Hannah: What's the summary for accounting for financial benefits?
+Will (quick-fire pause): <think>
+Will: A benefit from the client's instructions is the client's, unless they agreed after being told about it and its amount or, if not yet known, how it's calculated.
+Hannah: What's the summary for keeping money and assets safe?
+Will (quick-fire pause): <think>
+Will: Release entrusted money and assets only with proper authority; money improperly withheld or withdrawn from client account is replaced immediately, from the firm's own money if need be.
+Hannah: What's the summary for holding client money personally?
+Will (quick-fire pause): <think>
+Will: Don't hold client money personally: in an authorised body it goes into client account; a freelancer holds only fees and unpaid disbursements paid in advance, in a business account.
+Hannah: What's the summary for the Accounts Rules and reporting a colleague's misuse?
+Will (quick-fire pause): <think>
+Will: Report a colleague's misuse of client money promptly to the SRA, whatever their seniority; telling the COFA does it, unless you know or come to believe they won't report.
+Hannah: And how would you put the whole workshop in one sentence?
+Will: A benefit from the client's instructions is the client's unless they gave informed agreement; entrusted money moves only with proper authority, money improperly withheld or withdrawn from client account is replaced immediately, and a colleague's misuse of client money is reported promptly to the SRA.

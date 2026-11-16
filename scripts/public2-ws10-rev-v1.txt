@@ -1,0 +1,183 @@
+---
+id: public2-ws10-rev-v1
+unit: u-bpp-Public2-10
+guide_hash: c5e9bca795
+made: 2026-11-16T21:42:34+00:00
+kind: revision
+title: Public2 WS10 · Revision · 18 min
+map:
+- Public order powers and Convention rights
+- Public processions: definition and advance notice
+- Conditions on processions: grounds, form, offences and penalties
+- Banning processions, London, and judicial review
+- Public assemblies, one-person protests and s.14 conditions
+- Trespassory assemblies and the highway
+- Breach of the peace: meaning and powers
+- Preventive action: imminence, proportionality and provocation
+recap:
+- Conditions and bans must be prescribed by law, pursue a legitimate aim and be proportionate; Article five arises only on detention.
+- If a procession is held without proper notice, or differs from it, each organiser commits an offence unless a defence applies; marchers commit none.
+- Breaking a condition you knew or ought to have known of is an offence, unless circumstances beyond your control caused it.
+- A ban needs a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder; it covers all processions or a class.
+- A public assembly needs two or more people and no advance notice; one person faces conditions only on noise or place-of-worship intimidation grounds.
+- Liability needs a trespassory order already in force and actual knowledge that the assembly is prohibited.
+- Noise or anger without a threat of violence is no breach of the peace; a breach is not a criminal offence, so magistrates bind over, not convict.
+- Preventive action needs a breach occurring or reasonably apprehended as imminent; it must be necessary, reasonable and proportionate, aimed at those threatening the breach, affecting others only where police reasonably believe there's no other way.
+summary: Three thresholds decide most questions: conditions need a reasonable belief that harm may result, a procession ban a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder, and preventive action a breach of the peace occurring or reasonably apprehended as imminent.
+invented:
+- Priya
+- Tom
+- Sam
+- Ali
+- Ben
+- Cara
+- Dan
+guide_only:
+- P:LG-9.1-01 (what a public procession and a public place are)
+- P:LG-9.1-11 (the quashed more-than-minor regulations; cumulative disruption and the place-of-worship ground are said)
+- D3.3 (challenging a condition or ban by judicial review)
+- D1.4 (a procession that halts may become an assembly)
+- D5.2 (a condition meeting the statutory test is itself proportionate)
+- P:LG-9.2-03 (the offence of breaking an assembly condition, as for processions)
+- P:LG-9.2-09 (locking on and the other Public Order Act 2023 offences)
+- P:NEW-LG-B-06 (the Crime and Policing Act 2026 protest offences)
+- P:LG-9.2-06 (the constable's power to stop people on the way to a prohibited assembly; the knowing offence and the order's limits are said)
+- D7.3 (that power needs no imminent breach of the peace)
+- P:NEW-LG-B-07 (what the court must be sure of before binding over)
+- P:LG-9.3-07 (entry to private premises to prevent a breach)
+- D8.1 (entry only where the threat is real and present)
+- P:LG-9.3-08 (wilfully obstructing a constable)
+- P:LG-9.3-05 (containment)
+---
+## Map
+Will: Today: when can the police restrict, ban or stop a protest? Eight areas. Six cover processions and assemblies under the Public Order Act: Convention rights, then notice, conditions and bans for processions, then assemblies and trespassory assemblies. Two cover breach of the peace at common law: what it is, and preventive action.
+Hannah: First, a warm-up on Article ten. A leaflet shocks and offends its readers, and the state says only inoffensive ideas are protected. Is that right?
+Will (scenario pause): <think>
+Will: No: Article ten protects ideas that offend, shock or disturb, not only inoffensive ones. The tempting answer is that offence takes speech outside the right.
+Hannah: Yes, ideas that shock or offend stay protected.
+## Block 1: Public order powers and Convention rights
+Will: So, public order powers and Convention rights. Conditions and bans interfere with Articles ten and eleven, so each needs three things. It must be prescribed by law, on an accessible and foreseeable legal basis. It must pursue a legitimate aim listed in the Article. And it must be necessary in a democratic society: a pressing social need, met proportionately. Article five matters only where police detain people.
+Hannah (summing up): Conditions and bans must be prescribed by law, pursue a legitimate aim and be proportionate; Article five arises only on detention.
+Will: Yes: those three, and Article five only on detention.
+## Block 2: Public processions: definition and advance notice
+Hannah: Before public processions: police put a route condition on a march and detain nobody. Which Articles are engaged?
+Will (scenario pause): <think>
+Will: Articles ten and eleven. The tempting answer adds Article five, but that arises only where people are detained.
+Hannah: That's it: no detention, no Article five.
+Will: Now public processions: when is advance notice needed? Written notice is needed where a public procession is intended to show support for or opposition to views or actions, to publicise a cause or campaign, or to mark or commemorate an event. It must be delivered to a police station in the area where the procession starts. The deadline is at least six clear days before. It gives the date, time, route and an organiser's name and address.
+Hannah: And when is no notice needed?
+Will: In three cases. One: it isn't reasonably practicable to give any; where only the six days is impracticable, notice must be given by hand as soon as reasonably practicable. Two: the procession is commonly or customarily held in the area, even with a varying route and spontaneous character. Three: a funeral procession organised by a funeral director in the normal course of business. And notice isn't permission: a procession can go ahead without police consent unless it's banned.
+Hannah: Who is liable when notice goes wrong?
+Will: Each organiser, where the procession is held and the notice requirements weren't met: no notice, or late or incomplete notice. The same goes where its date, start time or route differs from the notice. Two defences. One: the organiser didn't know of the failure or difference, and neither suspected nor had reason to suspect it. Two: a difference arose from circumstances beyond their control, or from agreement with or direction of a police officer. Participants commit no notice offence.
+Hannah (summing up): If a procession is held without proper notice, or differs from it, each organiser commits an offence unless a defence applies; marchers commit none.
+Will: Right: organisers, subject to the defences, never marchers.
+## Block 3: Conditions on processions: grounds, form, offences and penalties
+Hannah: Before conditions on processions: Priya plans an anniversary march for months but gives notice only four days before, and the march goes ahead. Who commits the offence?
+Will (scenario pause): <think>
+Will: Priya alone: notice was practicable, so it came too late. The tempting answer adds the marchers, but participants commit no notice offence.
+Hannah: Yes, only the organiser is liable.
+Will: Now conditions on processions. A senior police officer may impose conditions necessary to prevent the harm, including a route or no-go areas. Considering the time, place, circumstances and route, he must reasonably believe a ground applies. He need only believe harm may result, not that it will.
+Hannah: What grounds can he rely on?
+Will: Four groups. One: the procession may result in serious public disorder, serious damage to property, or serious disruption to the life of the community. He must take into account relevant cumulative disruption from other processions and assemblies in the area. Two: its noise may seriously disrupt a nearby organisation's activities, or have a relevant and significant impact on people nearby.
+Hannah: And the other two?
+Will: Three: the organisers' purpose is to intimidate others into not doing what they have a right to do, or doing what they have a right not to do. Four, the newest: the procession is near a place of worship and may intimidate people of reasonable firmness from accessing it or worshipping there.
+Hannah: Who counts as the senior police officer?
+Will: At a procession being held or forming up, the most senior officer present at the scene, or in England and Wales an officer authorised by a chief officer for the purpose. Otherwise the chief officer of police, whose advance directions must be in writing.
+Hannah: When is breaking a condition an offence?
+Will: When an organiser or participant fails to comply with a condition they know, or ought to know, has been imposed. Ought to know is enough: actual knowledge is no longer required. The defence is that circumstances beyond their control caused the failure. And inciting non-compliance is an offence too.
+Hannah (summing up): Breaking a condition you knew or ought to have known of is an offence, unless circumstances beyond your control caused it.
+Will: That's it: ought to have known is enough.
+## Block 4: Banning processions, London, and judicial review
+Hannah: Before banning processions: Tom never sees a written route condition, but marshals announce the route repeatedly, and he leaves it. Is he guilty?
+Will (scenario pause): <think>
+Will: Yes: he ought to have known of it. The tempting answer is that actual knowledge is needed, but that's the trespassory assembly test.
+Hannah: Correct, ought to have known is enough.
+Will: Now banning processions. A ban is a last resort: the chief officer must reasonably believe, because of particular local circumstances, that conditions won't be enough to prevent processions resulting in serious public disorder. Don't confuse that with conditions: those can rest on disruption, damage, noise or intimidation.
+Hannah: Who makes the order, and how wide is it?
+Will: The chief officer must apply to the council, which may make the order with the Home Secretary's consent. In London, the Commissioner makes it, with that consent. It bans all public processions in the district, or a class of them, never a single named procession. The maximum is three months. It covers processions, not static assemblies. Knowingly organising or taking part in a banned procession, or inciting someone to take part, is an offence.
+Hannah (summing up): A ban needs a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder; it covers all processions or a class.
+Will: Yes: serious public disorder that conditions can't prevent.
+## Block 5: Public assemblies, one-person protests and s.14 conditions
+Hannah: Before public assemblies: London's Commissioner wants to ban one march that conditions can't keep from serious disorder. Can he ban just that march?
+Will (scenario pause): <think>
+Will: No: his order, with the Home Secretary's consent, must cover all processions or a class. The tempting answer is a one-march ban.
+Hannah: Yes, all or a class, never one march.
+Will: Now public assemblies: what counts as one? A public assembly is two or more people in a public place wholly or partly open to the air, or now on railway premises. No advance notice is needed: six clear days applies only to processions.
+Hannah: And what conditions can go on an assembly?
+Will: A senior police officer may impose any conditions necessary to prevent the harm, on the same triggers as for a procession. At the scene, he can do it there and then, without writing. In England and Wales they're no longer limited to place, duration and numbers.
+Hannah: What about one person protesting alone?
+Will: One person isn't an assembly, so conditions are possible only on narrower grounds. One is noise: serious disruption to an organisation nearby, or a relevant and significant impact on people nearby. The newer one is a protest near a place of worship that may intimidate persons of reasonable firmness, deterring them from accessing it or carrying out religious activities there.
+Hannah: Does every protest offence need a proportionality check?
+Will: No: where an offence's own ingredients strike a proportionate balance, there's no separate assessment. So criminal damage needs none: Ziegler doesn't apply to every offence.
+Hannah (summing up): A public assembly needs two or more people and no advance notice; one person faces conditions only on noise or place-of-worship intimidation grounds.
+Will: Correct: two or more, and one person only on those grounds.
+## Block 6: Trespassory assemblies and the highway
+Hannah: Before trespassory assemblies: Sam stands alone and silent outside the town hall, forcing passers-by into the road. Can an inspector impose a condition?
+Will (scenario pause): <think>
+Will: No: a lone protest needs noise or the place-of-worship ground. The tempting answer is disruption, but that ground needs an assembly.
+Hannah: Right, a silent lone protester fits neither ground.
+Will: Now trespassory assemblies. The chief officer must reasonably believe an assembly is intended on land in the open air where the public has no right of access, or only a limited one. It must be an assembly of twenty or more. And it must be likely to be held without the occupier's permission, or to exceed it.
+Hannah: What harm must he fear?
+Will: That it may result in serious disruption to the life of the community, or significant damage to land, a building or a monument. Whichever it is must be of historical, architectural, archaeological or scientific importance. So the ground is disruption or damage, not serious public disorder as for a procession ban.
+Hannah: Who makes the order, and what are its limits?
+Will: He may apply to the council for an order banning trespassory assemblies, made with the Home Secretary's consent. The order lasts up to four days. It covers up to a five-mile radius from a specified centre. Don't confuse that with three months, the procession ban maximum.
+Hannah: What are the offences once an order exists?
+Will: Knowingly organising, taking part in or inciting a prohibited trespassory assembly. That needs an order already in force, made in advance for an intended assembly. And it needs actual knowledge, not just ought to know, the lower standard for conditions.
+Hannah (summing up): Liability needs a trespassory order already in force and actual knowledge that the assembly is prohibited.
+Will: Right: an order in force, and actual knowledge.
+## Block 7: Breach of the peace: meaning and powers
+Hannah: Before breach of the peace: a chief officer wants a trespassory assembly order lasting seven days. Can it be made?
+Will (scenario pause): <think>
+Will: Not for seven days: an order lasts at most four. The tempting answer is three months, which is the procession ban limit.
+Hannah: Yes, four days is the maximum.
+Will: Now breach of the peace: what is it? One occurs whenever harm is actually done or likely to be done to a person, or in his presence to his property. It also occurs where a person is in fear of being so harmed through an assault, affray or riot, or an unlawful assembly or other disturbance. Noise or anger without a threat of violence is not enough.
+Hannah: Is it a criminal offence?
+Will: No, not in England and Wales. Magistrates may bind a person over to keep the peace on a recognisance, a sum forfeited if breached. The bind-over must specify the conduct prohibited, and refusing to be bound over can lead to custody.
+Hannah: Who may arrest for a breach?
+Will: Any person, not only the police, without a warrant, in three situations. One: a breach is committed in their presence. Two: they reasonably believe the person arrested will commit one in the immediate future. Three: one has been committed and they reasonably believe a renewal is threatened. And arrest must be a necessary and proportionate response.
+Hannah (summing up): Noise or anger without a threat of violence is no breach of the peace; a breach is not a criminal offence, so magistrates bind over, not convict.
+Will: Spot on: no threat, no breach, and a bind-over, not a conviction.
+## Block 8: Preventive action: imminence, proportionality and provocation
+Hannah: Before preventive action: Ali punches Ben and threatens to finish the job. Cara, a passer-by, holds Ali for the police. Was her arrest lawful?
+Will (scenario pause): <think>
+Will: Yes: a breach was committed and a renewal threatened, so any person may arrest, where necessary and proportionate. The tempting answer is police only.
+Hannah: Yes, anyone may arrest on those facts.
+Will: Now preventive action. Police, or any citizen, may take preventive action short of arrest only where a breach of the peace is occurring or is reasonably apprehended as imminent. The action must be necessary, reasonable and proportionate, and directed at those threatening the breach. It may affect others only where the police reasonably believe there's no other way to prevent it.
+Hannah: What does imminence rule out?
+Will: Turning protesters back far from the venue, when no breach was imminent there, is premature; and less drastic options, such as arrests on arrival, were available. And don't confuse imminence with an arrest-only rule: it governs every preventive breach of the peace power.
+Hannah: Whom should police act against when others threaten violence?
+Will: Those whose conduct is unreasonable and would provoke violence as a natural consequence. Not a lawful, peaceful speaker, just because others threaten violence.
+Hannah (summing up): Preventive action needs a breach occurring or reasonably apprehended as imminent; it must be necessary, reasonable and proportionate, aimed at those threatening the breach, affecting others only where police reasonably believe there's no other way.
+Will: Yes: imminence, then proportionate action against the threat's source, touching others only where police reasonably believe there's no other way.
+## Recap
+Hannah: One last question. Dan shouts insults about the dead beside mourners at a memorial service, and they advance on him angrily. He won't stop, and police arrest him. Was that lawful?
+Will (scenario pause): <think>
+Will: Yes: his unreasonable conduct provoked violence as a natural consequence, so police could act against him. The tempting answer protects any speaker, but only a lawful, peaceful one qualifies.
+Hannah: Correct, police could act against the provoker.
+Will: Now the quick-fire round.
+Hannah: What's the summary for Convention rights?
+Will (quick-fire pause): <think>
+Will: Conditions and bans must be prescribed by law, pursue a legitimate aim and be proportionate; Article five arises only on detention.
+Hannah: What's the summary for notice of processions?
+Will (quick-fire pause): <think>
+Will: If a procession is held without proper notice, or differs from it, each organiser commits an offence unless a defence applies; marchers commit none.
+Hannah: What's the summary for breaking a condition?
+Will (quick-fire pause): <think>
+Will: Breaking a condition you knew or ought to have known of is an offence, unless circumstances beyond your control caused it.
+Hannah: What's the summary for banning processions?
+Will (quick-fire pause): <think>
+Will: A ban needs a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder; it covers all processions or a class.
+Hannah: What's the summary for public assemblies?
+Will (quick-fire pause): <think>
+Will: A public assembly needs two or more people and no advance notice; one person faces conditions only on noise or place-of-worship intimidation grounds.
+Hannah: What's the summary for trespassory assemblies?
+Will (quick-fire pause): <think>
+Will: Liability needs a trespassory order already in force and actual knowledge that the assembly is prohibited.
+Hannah: What's the summary for breach of the peace?
+Will (quick-fire pause): <think>
+Will: Noise or anger without a threat of violence is no breach of the peace; a breach is not a criminal offence, so magistrates bind over, not convict.
+Hannah: What's the summary for preventive action?
+Will (quick-fire pause): <think>
+Will: Preventive action needs a breach occurring or reasonably apprehended as imminent; it must be necessary, reasonable and proportionate, aimed at those threatening the breach, affecting others only where police reasonably believe there's no other way.
+Hannah: And what is the whole workshop in one sentence?
+Will: Three thresholds decide most questions: conditions need a reasonable belief that harm may result, a procession ban a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder, and preventive action a breach of the peace occurring or reasonably apprehended as imminent.

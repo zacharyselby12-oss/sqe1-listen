@@ -4456,6 +4456,90 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws08-rev-v1-c9717d36.mp3",
       "siteAudio": "audio/public2-ws08-rev-v1-c9717d36.mp3",
       "pubDate": "2026-11-16T12:43:22+00:00"
+    },
+    {
+      "id": "eth-ws05-rev-v1",
+      "unitId": "u-bpp-ETH-05",
+      "title": "Ethics WS05 · Revision · 16 min",
+      "guideHash": "ca19c06953",
+      "script": "scripts/eth-ws05-rev-v1.txt",
+      "scriptHash": "bcbed9c69ec4",
+      "audio": "audio/eth-ws05-rev-v1.mp3",
+      "recap": [
+        "A benefit from the client's instructions is the client's, unless they agreed after being told about it and its amount or, if not yet known, how it's calculated.",
+        "Release entrusted money and assets only with proper authority; money improperly withheld or withdrawn from client account is replaced immediately, from the firm's own money if need be.",
+        "Don't hold client money personally: in an authorised body it goes into client account; a freelancer holds only fees and unpaid disbursements paid in advance, in a business account.",
+        "Report a colleague's misuse of client money promptly to the SRA, whatever their seniority; telling the COFA does it, unless you know or come to believe they won't report."
+      ],
+      "map": [
+        "Accounting for financial benefits",
+        "Safeguarding money and assets",
+        "Not personally holding client money",
+        "The Accounts Rules and reporting misuse"
+      ],
+      "summary": "A benefit from the client's instructions is the client's unless they gave informed agreement; entrusted money moves only with proper authority, money improperly withheld or withdrawn from client account is replaced immediately, and a colleague's misuse of client money is reported promptly to the SRA.",
+      "madeAt": "2026-11-16T21:42:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck); known-error scan 0 hits; opus x2 (accuracy fail, line-by-line fail: 5 fixes merged, 2 applied via fixflow); one script-revise for the unapplied contrast-pair fix; code checks and known-error scan again ok; check of changed lines found 1 narrow problem; targeted round 1 (script-revise), code checks ok; fresh opus verify of changed lines pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public2-ws10-rev-v1",
+      "unitId": "u-bpp-Public2-10",
+      "title": "Public2 WS10 · Revision · 18 min",
+      "guideHash": "c5e9bca795",
+      "script": "scripts/public2-ws10-rev-v1.txt",
+      "scriptHash": "b9cb1783b467",
+      "audio": "audio/public2-ws10-rev-v1.mp3",
+      "recap": [
+        "Conditions and bans must be prescribed by law, pursue a legitimate aim and be proportionate; Article five arises only on detention.",
+        "If a procession is held without proper notice, or differs from it, each organiser commits an offence unless a defence applies; marchers commit none.",
+        "Breaking a condition you knew or ought to have known of is an offence, unless circumstances beyond your control caused it.",
+        "A ban needs a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder; it covers all processions or a class.",
+        "A public assembly needs two or more people and no advance notice; one person faces conditions only on noise or place-of-worship intimidation grounds.",
+        "Liability needs a trespassory order already in force and actual knowledge that the assembly is prohibited.",
+        "Noise or anger without a threat of violence is no breach of the peace; a breach is not a criminal offence, so magistrates bind over, not convict.",
+        "Preventive action needs a breach occurring or reasonably apprehended as imminent; it must be necessary, reasonable and proportionate, aimed at those threatening the breach, affecting others only where police reasonably believe there's no other way."
+      ],
+      "map": [
+        "Public order powers and Convention rights",
+        "Public processions: definition and advance notice",
+        "Conditions on processions: grounds, form, offences and penalties",
+        "Banning processions, London, and judicial review",
+        "Public assemblies, one-person protests and s.14 conditions",
+        "Trespassory assemblies and the highway",
+        "Breach of the peace: meaning and powers",
+        "Preventive action: imminence, proportionality and provocation"
+      ],
+      "summary": "Three thresholds decide most questions: conditions need a reasonable belief that harm may result, a procession ban a reasonable belief, given particular local circumstances, that conditions won't prevent serious public disorder, and preventive action a breach of the peace occurring or reasonably apprehended as imminent.",
+      "madeAt": "2026-11-16T21:42:34+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck); known-error scan: 4 hits, 3 fixed by the accuracy fixes and 1 cleared by Opus triage, then 0 hits; opus x2 (accuracy fail 4, line-by-line fail 5: 9 fixes applied via fixflow, copies synced); code checks and known-error scan again ok; opus verify of changed lines: 1 finding; targeted round 1 (script-revise), code checks and scan ok; fresh opus verify pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
