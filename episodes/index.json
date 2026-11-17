@@ -4589,7 +4589,7 @@
       ],
       "summary": "Most questions turn on consequence and context: a breached statutory procedure invalidates only if Parliament intended it, fairness rises with the stakes, and law beats convention, which courts recognise but never enforce.",
       "madeAt": "2026-11-17T12:43:56+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers all 75 items); known-error scan 0 left (1 hit fixed by the Opus checks); opus x2 (8 fixes); changed lines: 2 problems on one turn and its confirmation, targeted round 1 (script-revise); changed lines again: pass; re-stamped r202611161320 (guide text gained 3 newly source-checked lines; 1 pfix scan hit, a restyle of P:LG-8.2-04): Opus changed-lines check pass, script unchanged",
@@ -4606,7 +4606,16 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9833076,
+      "seconds": 1229,
+      "words": 2577,
+      "renderedHash": "da90e88b69a8",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws03-rev-v1-ac2d2d56.mp3",
+      "siteAudio": "audio/public2-ws03-rev-v1-ac2d2d56.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     },
     {
       "id": "public2-ws09-rev-v1",
@@ -4640,7 +4649,7 @@
       ],
       "summary": "Most questions turn on justification: a lawful basis, a listed aim, and necessity and proportionality, with a wide margin on moral and resource issues, but a narrow one on political speech.",
       "madeAt": "2026-11-17T12:43:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); known-error scan 0 hits; opus x2 (accuracy fail, line-by-line fail: 15 fixes applied via fixflow); one script-revise for copies and a repeated run; code checks and known-error scan again ok; fresh opus verify of changed lines pass; re-stamped r202611171050: guide_v4 changed exit 0 (nothing the part teaches from moved; hash bf923b930b unchanged), released from the guide-changed hold",
@@ -4657,7 +4666,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 10512897,
+      "seconds": 1314,
+      "words": 2611,
+      "renderedHash": "b1b0da973dd6",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public2-ws09-rev-v1-55623d4f.mp3",
+      "siteAudio": "audio/public2-ws09-rev-v1-55623d4f.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     },
     {
       "id": "eth-ws06-rev-v1",
@@ -4683,7 +4701,7 @@
       ],
       "summary": "Disclose referral interests at the outset, get informed consent for separate businesses; but neither disclosure nor consent saves referral payments for clients facing criminal proceedings, a personal injury or death claim referral fee, or an own interest conflict.",
       "madeAt": "2026-11-17T12:43:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 20/20 items covered); known-error scan 0 hits; episode-check + episode-lines-check (Opus): 1 distortion fixed, 1 source report filed; summary trimmed (script-revise); episode-verify of changed lines: pass",
@@ -4696,7 +4714,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8263214,
+      "seconds": 1033,
+      "words": 2552,
+      "renderedHash": "73be299d156b",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws06-rev-v1-eb6201e9.mp3",
+      "siteAudio": "audio/eth-ws06-rev-v1-eb6201e9.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     },
     {
       "id": "public1-ws02-rev-v1",
@@ -4736,7 +4763,7 @@
       ],
       "summary": "Ask what kind of legislation it is and whether it is in force, because an Act of Parliament can only be interpreted, read compatibly or declared incompatible, never quashed, while secondary legislation and Senedd Acts can fall for exceeding their powers.",
       "madeAt": "2026-11-17T12:43:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 121 of 121 items covered, about 23 min); known-error scan: 1 hit cleared by Opus ke-triage (a right statement); opus x2 (accuracy and line-by-line: 5 fixes applied via fixflow, copies synced); one script-revise for a repeated 8-word run; code checks and known-error scan again ok; opus verify of changed lines pass",
@@ -4756,7 +4783,16 @@
         "b11",
         "b12"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11526229,
+      "seconds": 1441,
+      "words": 3271,
+      "renderedHash": "ede010dde4fd",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws02-rev-v1-8790caf3.mp3",
+      "siteAudio": "audio/public1-ws02-rev-v1-8790caf3.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     },
     {
       "id": "public1-ws03-rev-v1",
@@ -4776,7 +4812,7 @@
       ],
       "summary": "Every Bill needs Royal Assent as a matter of law, but that it is always given on ministerial advice is convention, and courts do not enforce conventions.",
       "madeAt": "2026-11-17T12:43:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 7 of 7 items covered, about 8 min, under the 12-15 aim: a short source of 548 words); known-error scan: 0 hits (366 known); opus x2 (accuracy and line-by-line): both pass, 0 fixes, so no changed lines to verify",
@@ -4786,7 +4822,16 @@
         "b1",
         "b2"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 3941731,
+      "seconds": 493,
+      "words": 1210,
+      "renderedHash": "3306a88f76d0",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws03-rev-v1-a48dc20e.mp3",
+      "siteAudio": "audio/public1-ws03-rev-v1-a48dc20e.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     },
     {
       "id": "public1-ws05-rev-v1",
@@ -4812,7 +4857,7 @@
       ],
       "summary": "Check the condition before the consequence: on recall, the seat is vacated if at least 10% of electors sign within 6 weeks, the Parliament Acts need their time limits met, and parliamentary freedom of speech protects only proceedings in Parliament.",
       "madeAt": "2026-11-17T12:43:57+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 30 of 30 items covered, about 17 min, over the 12-15 aim but under 25); known-error scan: 0 hits (369 known); opus x2 (accuracy and line-by-line): 3 fixes applied (hereditary peers figure, Parliament Acts one-liner, closing sentence), copies synced; one script-revise for code errors (turn split, figures per turn); verify of changed lines found 2 qualifier issues; targeted round 1 fixed them; code checks and known-error scan ok; opus verify of round-1 lines pass. One SOURCE-ERROR reported against the guide (HCDA 1975 s1 cited for Lords disqualification), filed for the build chat",
@@ -4825,7 +4870,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8567287,
+      "seconds": 1071,
+      "words": 2577,
+      "renderedHash": "74c174945279",
+      "renderedAt": "2026-11-17T12:45:07+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws05-rev-v1-03ba850c.mp3",
+      "siteAudio": "audio/public1-ws05-rev-v1-03ba850c.mp3",
+      "pubDate": "2026-11-17T12:45:07+00:00"
     }
   ],
   "replays": [
