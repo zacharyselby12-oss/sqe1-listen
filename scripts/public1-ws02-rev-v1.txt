@@ -1,0 +1,293 @@
+---
+id: public1-ws02-rev-v1
+unit: u-bpp-Public1-02
+guide_hash: 1f83addd86
+made: 2026-11-17T12:43:57+00:00
+kind: revision
+title: Public1 WS02 · Revision · 23 min
+map:
+- Legal system and sources of law
+- Primary and secondary legislation
+- Making an Act of Parliament
+- Senedd law-making
+- Structure of an Act of Parliament
+- Structure of an Act of Senedd Cymru, and extent of legislation
+- Literal, golden and mischief rules
+- Purposive approach
+- Presumptions
+- Aids to interpretation
+- Interpreting Welsh legislation
+- Convention rights and legislation
+recap:
+- Courts cannot question an Act of Parliament's validity: they can only interpret it or, for Convention rights, declare it incompatible.
+- A court can quash an ultra vires instrument, but never an Act of Parliament.
+- The Lords can only delay: most public Bills by about one year, money Bills by one month.
+- A Senedd Bill on protected subject-matter passes Stage four only with two-thirds or more of the total number of Senedd seats.
+- With no commencement provision, an Act of Parliament runs from the beginning of the day of Royal Assent.
+- Extent is the jurisdiction where a provision is law; application is what it actually governs.
+- Absurdity triggers the golden rule; the pre-Act defect triggers the mischief rule, whether or not the words are absurd.
+- The court reads the words in context and in light of Parliament's purpose, even if that means not adopting the most literal meaning.
+- Presumptions are rebuttable: express words or necessary implication displace them, and then the court applies the Act.
+- Hansard needs ambiguity, obscurity or absurdity first; Explanatory Notes do not, but they cannot override the words.
+- A Senedd Act from 1 January 2020 binds the Crown unless it expressly provides otherwise, reversing the Westminster presumption.
+- Read legislation compatibly so far as possible, but never against its grain; otherwise the High Court and above may declare an Act of Parliament incompatible, leaving it valid.
+summary: Ask what kind of legislation it is and whether it is in force, because an Act of Parliament can only be interpreted, read compatibly or declared incompatible, never quashed, while secondary legislation and Senedd Acts can fall for exceeding their powers.
+invented:
+- a claimant asking the High Court to strike down an Act of Parliament as unfair
+- an ordinary public Bill the Lords rejects outright
+- a Senedd Bill changing the voting age, passed with a bare majority of those voting
+- an Act given Royal Assent on a Thursday afternoon
+- a Senedd Act given Royal Assent last year that is silent about the Crown
+guide_only:
+- P:LG-1-01 (one jurisdiction, with Scotland and Northern Ireland separate)
+- P:LG-1-13 (speaking Welsh in proceedings in Wales)
+- P:LG-1-02 (the full list of sources of law)
+- P:LG-1-07 (who brings criminal and civil cases, and how they end)
+- P:LG-1-08 (the standards of proof)
+- P:LG-1-09 (the same facts in criminal and civil proceedings)
+- P:LG-1-10 (public and private law; the reach of judicial review)
+- P:LG-8.8-09 (what delegated legislation is; Henry VIII powers)
+- P:NEW-LG-B-03 (the made affirmative procedure)
+- P:LG-8.8-12 (substantive and procedural ultra vires)
+- P:LG-8.8-01 (the kinds of Bill in full)
+- P:LG-8.8-02 (the Westminster stages)
+- P:LG-8.8-06 (the minister's statement of compatibility)
+- P:LG-8.8-03 (the Parliament Acts' conditions in full; the delay rule itself is said)
+- add:1 (the money Bill's month, with its conditions)
+- add:2 (the year between the two sessions, with its conditions)
+- P:LG-8.8-07 (commencement, taught under the structure of an Act)
+- P:LG-8.8-13 (the Senedd Bill stages in full)
+- P:LG-8.8-15 (Welsh statutory instruments and their three procedures)
+- add:5 (the Senedd annulment period)
+- P:LG-4.1-01 (the order of an Act's parts)
+- P:LG-4.1-02 (short title and long title)
+- P:LG-4.1-04 (the preamble)
+- P:LG-4.1-03 (the enacting formula's wording)
+- P:LG-4.1-05 (how provisions are cited)
+- P:LG-4.1-06 (Schedules)
+- P:LG-4.1-07 (definitions using means or includes)
+- P:LG-4.1-12 (headings and side notes)
+- P:LG-4.1-14 (kinds of Act)
+- P:LG-4.2-01 (Senedd Act citation)
+- P:LG-4.2-03 (the Senedd enacting formula)
+- P:LG-4.2-04 (the parts of a Senedd Act)
+- P:LG-4.2-07 (statements on competence at introduction)
+- P:LG-4.2-05 (Royal Assent by Letters Patent)
+- P:LG-5.1-01 (the literal rule in full)
+- P:LG-5.1-02 (technical terms)
+- P:LG-5.1-03 (clear words and external aids)
+- P:LG-5.2-02 (the golden rule's narrow use)
+- P:LG-5.2-03 (the golden rule's wide use)
+- P:LG-5.3-03 (materials that show the mischief)
+- P:LG-5.3-02 (mischief rule examples)
+- P:LG-5.2-05 (what each approach looks at)
+- P:LG-5.3-04 (mischief rule and purposive approach compared)
+- P:LG-5.1-04 (the literal meaning as a starting point)
+- P:LG-5.4-02 (the words as the primary source of meaning)
+- P:LG-5.4-04 (correcting drafting errors)
+- P:LG-5.5-03 (the presumption against retrospective effect in full)
+- P:LG-5.5-04 (no change to the common law without clear words)
+- P:LG-8.9-09 (the principle of legality and the rule of law)
+- P:LG-5.5-07 (ouster clauses)
+- P:LG-5.5-08 (the other presumptions)
+- P:LG-5.6-01 (the list of internal aids)
+- P:LG-5.6-05 (the list of external aids)
+- P:LG-5.6-06 (Interpretation Act default rules)
+- P:LG-5.6-07 (Interpretation Act rules on repeal)
+- P:LG-5.6-13 (Hansard when the conditions are not met)
+- P:LG-5.6-09 (later cases narrowing the Hansard rule)
+- P:LG-5.6-11 (official reports and treaties)
+- P:LG-5.6-04 (expressio unius)
+- P:LG-5.6-03 (noscitur a sociis)
+- P:LG-5.7-02 (when the Welsh default rules can be displaced)
+- P:LG-5.7-04 (Welsh default rules mirroring the Interpretation Act)
+- P:LG-5.7-07 (repeal of Welsh legislation)
+- P:LG-5.7-03 (equal status of the Welsh and English texts when interpreting)
+- P:LG-5.7-08 (common law approaches applied to Senedd legislation)
+- P:LG-5.7-11 (accessibility of Welsh law)
+- P:LG-11.1-06 (what the compatible-reading duty leaves untouched)
+- P:LG-11.1-07 (declarations for subordinate legislation)
+- P:LG-11.1-09 (the full list of courts that can declare)
+- P:LG-11.1-08 (what follows a declaration)
+---
+## Map
+Will: Today's big question: where does legislation come from, and how do courts read it? Twelve areas in four groups: sources of law and how legislation is made; how legislation is set out and where it applies; how courts read legislation; and Convention rights and legislation.
+Hannah: Shall we start with the sources themselves?
+## Block 1: Legal system and sources of law
+Will: Yes: first, the legal system and sources of law. An Act of Parliament is the highest source. It overrides inconsistent common law and earlier statutes, and the courts cannot question its validity. They can only interpret it and, for Convention rights, make a declaration of incompatibility.
+Hannah (summing up): Courts cannot question an Act of Parliament's validity: they can only interpret it or, for Convention rights, declare it incompatible.
+Will: Yes: validity is never the court's question.
+## Block 2: Primary and secondary legislation
+Hannah: Before primary and secondary legislation: a claimant asks the High Court to strike down an Act of Parliament as unfair. Can it?
+Will (scenario pause): <think>
+Will: It can't: courts cannot question an Act's validity, only interpret it. The tempting answer, quashing, is for secondary legislation.
+Hannah: Yes: interpretation is the limit. Now, how does Parliament control a statutory instrument?
+Will: Find the procedure the parent Act requires. In the negative procedure, the instrument is laid and stands unless either House annuls it. The limit is 40 days. Dissolution, prorogation and adjournments of both Houses for more than 4 days are not counted. And annulment does not invalidate anything already done under the instrument.
+Hannah: And what does the affirmative procedure require?
+Will: Approval by a resolution of each House, or of the Commons only for some financial instruments. Either way, Parliament cannot amend an instrument, only accept or reject it.
+Hannah: Can a court quash legislation?
+Will: Secondary legislation, yes, if it is ultra vires. That includes incompatibility with Convention rights, unless the parent Act prevents removal of the incompatibility, when only a declaration of incompatibility is available. Primary legislation cannot be quashed: the court must read it compatibly with Convention rights so far as possible, and otherwise the High Court and above may make a declaration, which does not affect its validity.
+Hannah (summing up): A court can quash an ultra vires instrument, but never an Act of Parliament.
+Will: Yes: quashing stops at instruments.
+## Block 3: Making an Act of Parliament
+Hannah: Before making an Act of Parliament: the Commons approves negative-procedure regulations, but on day 30 the Lords annuls them. What is the effect?
+Will (scenario pause): <think>
+Will: They are annulled, though anything already done under them stands. The tempting answer is that Commons approval saves them; either House alone may annul.
+Hannah: Yes: one House is enough. Now, is a Private Members' Bill a private Bill?
+Will: It isn't. A Private Members' Bill is a public Bill; a private Bill is a Bill for a private Act.
+Hannah: Can the Lords stop a Bill?
+Will: They can only delay, under the Parliament Acts: most public Bills by about one year, money Bills by one month.
+Hannah: Is any Bill outside the Parliament Acts?
+Will: Yes: a Bill to extend Parliament beyond 5 years. The Parliament Acts do not apply to it.
+Hannah: What does repeal do to the earlier law?
+Will: Repeal is by express words or implied repeal. Repealing a repeal does not revive the earlier law unless expressly stated. And repeal does not affect anything done, or rights and liabilities accrued, before it, unless a contrary intention appears.
+Hannah (summing up): The Lords can only delay: most public Bills by about one year, money Bills by one month.
+Will: Yes: delay rather than veto.
+## Block 4: Senedd law-making
+Hannah: Before Senedd law-making: the Commons passes an ordinary public Bill and the Lords rejects it outright. Is the Bill dead?
+Will (scenario pause): <think>
+Will: Not necessarily. The Lords can only delay most public Bills; once the Parliament Acts' conditions are met, it can receive Royal Assent without them. The tempting answer is a Lords veto.
+Hannah: Yes: delay, not veto. Now, how does a Bill pass the Senedd?
+Will: A Senedd Bill passes Stages one to four. A Bill on protected subject-matter, such as the Senedd's electoral system, the number of Members or the voting age, must be passed at Stage four by at least two-thirds of the total number of Senedd seats.
+Hannah (summing up): A Senedd Bill on protected subject-matter passes Stage four only with two-thirds or more of the total number of Senedd seats.
+Will: Yes: and only for protected subject-matter.
+## Block 5: Structure of an Act of Parliament
+Hannah: Before the structure of an Act of Parliament: a Senedd Bill changing the voting age passes Stage four with a bare majority of those voting. Is that enough?
+Will (scenario pause): <think>
+Will: No: voting age is protected subject-matter, so it needed at least two-thirds of the total number of Senedd seats. The tempting answer is that winning the vote is enough.
+Hannah: Yes: protected subject-matter needs the two-thirds. Now, when does a provision of an Act take effect?
+Will: An Act becomes law on Royal Assent, but each provision takes effect only when it comes into force. That can be on Royal Assent, on a date fixed in the Act, at the end of a set period, or on a day a minister appoints by commencement regulations or an order.
+Hannah: And what if the Act says nothing about commencement?
+Will: Then it comes into force at the beginning of the day on which it receives Royal Assent. And a provision expressed to come into force on a particular day does so at the beginning of that day. An Act of Senedd Cymru, by contrast, waits until the day after Royal Assent.
+Hannah: Does a provision that hasn't been commenced do anything?
+Will: Nothing: it has no legal effect, even though the Act has received Royal Assent and appears in the statute book. A minister with power to commence it is not obliged to do so by any date, but must not act to frustrate it.
+Hannah (summing up): With no commencement provision, an Act of Parliament runs from the beginning of the day of Royal Assent.
+Will: Yes: the start of the assent day.
+## Block 6: Structure of an Act of Senedd Cymru, and extent of legislation
+Hannah: Before the structure of a Senedd Act: an Act of Parliament gets Royal Assent on a Thursday. Section one has no commencement provision; section two awaits commencement regulations never made. Which is in force?
+Will (scenario pause): <think>
+Will: Only section one, since the beginning of that Thursday. The tempting answer is both, but section two has no legal effect until brought into force.
+Hannah: Yes: assent is not commencement. Now, how does a Senedd Act differ from a Westminster one?
+Will: It is enacted in both English and Welsh. The two texts have equal status for all purposes, and neither is a mere translation of the other. And with no commencement provision, it comes into force at the beginning of the day after Royal Assent, not on the assent day itself.
+Hannah: When can a Senedd Bill be submitted for Royal Assent?
+Will: The Presiding Officer must not submit it while the Counsel General or Attorney General can still refer it to the Supreme Court on legislative competence. That period is the 4 weeks beginning with its passing. Nor while such a reference is pending. Nor while the Secretary of State can still make an order prohibiting submission.
+Hannah: Can those bars be lifted early?
+Will: Yes: a Law Officer who notifies the Presiding Officer that they will not refer, and a Secretary of State who notifies that no order will be made, remove those bars.
+Hannah: What is the difference between extent and application?
+Will: Extent is the legal jurisdiction, or jurisdictions, in which a provision forms part of the law. Application is the territory, persons or circumstances it actually governs. Because England and Wales is one jurisdiction, Senedd Acts and many Westminster Acts extend to England and Wales but apply only in relation to Wales, or only to England.
+Hannah (summing up): Extent is the jurisdiction where a provision is law; application is what it actually governs.
+Will: Yes: extent and application are separate questions.
+## Block 7: Literal, golden and mischief rules
+Hannah: Before the literal, golden and mischief rules: a Senedd Act with no commencement provision gets Royal Assent on a Monday. Does it govern that Monday afternoon?
+Will (scenario pause): <think>
+Will: No: it comes into force when Tuesday begins, the day after Royal Assent. The tempting answer is the Westminster rule, the start of the assent day.
+Hannah: Yes: Tuesday, because the Senedd made it. Now, what do the literal and golden rules do?
+Will: The literal rule gives the words their plain, ordinary meaning, or their technical one, even if the result is harsh or absurd. Under the golden rule, the court may depart from the literal meaning where it would produce an absurdity, inconsistency or repugnant result. It adopts a modified meaning that avoids it, but departs only so far as needed.
+Hannah: How bad must a result be to count as absurd?
+Will: Absurdity has a wide meaning, including impossible, unworkable, anomalous or illogical results, but the presumption against it varies in strength with how unreasonable the result is. It cannot override clear words, or replace Parliament's policy choice with the court's view of what is fair. Where the plain meaning is merely unhelpful, not absurd, the court needs the mischief rule or the purposive approach.
+Hannah: And what does the mischief rule ask?
+Will: Four questions. What was the law before the Act? What mischief or defect did that law not provide for? What remedy did Parliament resolve to provide? And what was the true reason for the remedy? The court then interprets the Act to suppress the mischief and advance the remedy.
+Hannah (summing up): Absurdity triggers the golden rule; the pre-Act defect triggers the mischief rule, whether or not the words are absurd.
+Will: Yes: look for the trigger.
+## Block 8: Purposive approach
+Hannah: Before the purposive approach: the plain words produce nothing absurd, but the court asks what gap in the earlier common law the Act was passed to fill. Which rule is that?
+Will (scenario pause): <think>
+Will: The mischief rule. The tempting answer is the golden rule, but nothing is absurd; the court wants the pre-Act defect.
+Hannah: Yes: the earlier defect is the mischief rule's trigger. Now, how does the purposive approach read a statute?
+Will: The court interprets legislation to give effect to the purpose Parliament intended. It reads the words in their context and in light of that purpose, even if this means not adopting the most literal meaning, and it is the dominant modern approach. Unlike the mischief rule, it looks at Parliament's purpose in the whole Act, not only the pre-Act common-law defect.
+Hannah: Can an old statute cover something invented later?
+Will: Generally, yes: statutes are always speaking. They are read in light of changes since enactment, even unforeseeable ones, so they cover a new development within the same genus as the Act's purpose. Embryos created by cell nuclear replacement were still embryos. But not one different in kind or dimension, and not where the provision is tied to its historic meaning.
+Hannah (summing up): The court reads the words in context and in light of Parliament's purpose, even if that means not adopting the most literal meaning.
+Will: Yes: purpose guides the reading.
+## Block 9: Presumptions
+Hannah: Before presumptions: an old Act regulates embryos, and science later creates embryos by a method nobody foresaw. Does the Act cover them?
+Will (scenario pause): <think>
+Will: Yes: statutes are generally always speaking, and this is within the same genus as the Act's purpose. The tempting answer is that Parliament never foresaw it; unforeseeable changes still count.
+Hannah: Yes: same genus, so covered. Now, what is a presumption here?
+Will: A rebuttable starting point about what Parliament intended. It applies unless displaced by express words or necessary implication, and is most often decisive where the words are ambiguous. If it is displaced, the court applies the Act.
+Hannah: What is presumed about mens rea?
+Will: That it is required for a criminal offence, unless the statute excludes it expressly or by necessary implication. The presumption is strongest for truly criminal offences. It is more easily displaced for regulatory offences on matters of social concern, such as public safety, where strict liability would promote the Act's purpose.
+Hannah: And what protects fundamental rights?
+Will: The principle of legality. Fundamental rights, such as access to the courts, personal liberty and freedom of expression, cannot be overridden by general or ambiguous words, even where their plain meaning would do it. Parliament must use express words or necessary implication.
+Hannah: Can Parliament legislate retrospectively?
+Will: It can. Legislation is presumed not to have retrospective effect, especially where it would create criminal liability or remove vested rights, though purely procedural changes may apply to pending proceedings. But the presumption only affects how words are read.
+Hannah (summing up): Presumptions are rebuttable: express words or necessary implication displace them, and then the court applies the Act.
+Will: Yes: they are only starting points.
+## Block 10: Aids to interpretation
+Hannah: Before aids to interpretation: an Act expressly makes last year's conduct a crime, and the defendant, tried in the Crown Court, says that breaches Article 7. Must the Crown Court apply the Act?
+Will (scenario pause): <think>
+Will: Yes: express words displace the presumption and leave no compatible reading, and the Crown Court cannot declare incompatibility. The tempting answer is that the Act is invalid.
+Hannah: Yes: the presumption is displaced, so the Act applies. Now, when can a court look at Hansard?
+Will: Only where three conditions are met, under Pepper v Hart. One, the legislation is ambiguous or obscure, or its literal meaning leads to an absurdity. Two, the material is a statement by a minister or other promoter of the Bill, with any other parliamentary material needed to understand it. Three, the statement is clear.
+Hannah: Do Explanatory Notes need ambiguity too?
+Will: They don't. Explanatory Notes may be used to understand the context and the mischief of an Act even where there is no ambiguity, but they cannot override the words of the Act.
+Hannah: And how does ejusdem generis limit general words?
+Will: Where general words follow a list of specific words of the same kind, the general words are limited to things of that kind. It normally needs at least two specific words, because a single word forms no genus.
+Hannah (summing up): Hansard needs ambiguity, obscurity or absurdity first; Explanatory Notes do not, but they cannot override the words.
+Will: Yes: only Hansard needs the ambiguity.
+## Block 11: Interpreting Welsh legislation
+Hannah: Before interpreting Welsh legislation: a statutory word is ambiguous, and counsel cites a clear speech by a backbench MP who was not the Bill's promoter. Can the court rely on it?
+Will (scenario pause): <think>
+Will: It can't: Pepper v Hart admits only clear statements by a minister or other promoter of the Bill. The tempting answer is yes, but ambiguity alone is not enough.
+Hannah: Yes: a backbencher is not the promoter. Now, which interpretation statute governs Welsh legislation?
+Will: It depends on the date. The date is 1 January 2020. For Acts of Senedd Cymru receiving Royal Assent on or after it, and Welsh subordinate instruments made on or after it, Part two of the Legislation Wales Act, not the Interpretation Act, supplies the general interpretation rules. Earlier Welsh legislation, meaning Assembly Measures and Acts and older Welsh instruments, is interpreted using the Interpretation Act.
+Hannah: And what is the rule about the Crown?
+Will: Unless it expressly provides otherwise, an Act of Senedd Cymru binds the Crown, which reverses the Westminster presumption. A Welsh subordinate instrument binds the Crown so far as it is made under an enactment that binds the Crown, or one that confers a power to make provision binding the Crown. That is for legislation from the same January date. Neither makes the Crown criminally liable, but both apply to Crown servants as to other persons.
+Hannah (summing up): A Senedd Act from 1 January 2020 binds the Crown unless it expressly provides otherwise, reversing the Westminster presumption.
+Will: Yes: from 2020, the reverse of Westminster.
+## Block 12: Convention rights and legislation
+Hannah: Before Convention rights and legislation: a Senedd Act given Royal Assent last year says nothing about the Crown. Is the Crown bound?
+Will (scenario pause): <think>
+Will: It is: a Senedd Act binds the Crown unless it expressly provides otherwise. The tempting answer is the Westminster presumption, which runs the other way.
+Hannah: Yes: silence means the Crown is bound. Now, what must a court do first with legislation that seems to breach a Convention right?
+Will: Read it compatibly. So far as possible, primary and subordinate legislation, whenever enacted, must be read and given effect compatibly with Convention rights. That duty binds everyone, not only courts, and applies in private litigation.
+Hannah: How far can that word, possible, stretch?
+Will: A long way. Courts may depart from the clear, unambiguous meaning and read words in or down, without needing ambiguity. But they cannot adopt a meaning inconsistent with a fundamental feature of the Act, which is going against the grain, or make policy choices for Parliament.
+Hannah: And when a compatible reading is impossible?
+Will: Then, for primary legislation, a court of High Court level or above may make a declaration of incompatibility. It does not affect the validity, continuing operation or enforcement of the Act, and does not bind the parties. The County Court, magistrates' courts and Crown Court cannot make one: they apply the Act, and the point can go on appeal.
+Hannah: Is a Senedd Act treated the same way?
+Will: It isn't: a Senedd Act provision incompatible with Convention rights is outside competence and not law. And an incompatible Act of Parliament is never struck down or disapplied; it still applies.
+Hannah (summing up): Read legislation compatibly so far as possible, but never against its grain; otherwise the High Court and above may declare an Act of Parliament incompatible, leaving it valid.
+Will: Yes: compatible reading first, then a declaration for an Act of Parliament.
+## Recap
+Hannah: Last, on Convention rights: a Senedd Act provision on a devolved housing matter unjustifiably interferes with tenants' Article 8 rights. What can the High Court do?
+Will (scenario pause): <think>
+Will: Hold the provision outside competence and not law. The tempting answer is a declaration of incompatibility, but that is for Acts of Parliament; Convention compatibility limits the Senedd's competence.
+Hannah: Yes: not law, rather than a declaration. Now quick-fire. What's the summary for the legal system and sources of law?
+Will (quick-fire pause): <think>
+Will: Courts cannot question an Act of Parliament's validity: they can only interpret it or, for Convention rights, declare it incompatible.
+Hannah: What's the summary for primary and secondary legislation?
+Will (quick-fire pause): <think>
+Will: A court can quash an ultra vires instrument, but never an Act of Parliament.
+Hannah: What's the summary for making an Act of Parliament?
+Will (quick-fire pause): <think>
+Will: The Lords can only delay: most public Bills by about one year, money Bills by one month.
+Hannah: What's the summary for Senedd law-making?
+Will (quick-fire pause): <think>
+Will: A Senedd Bill on protected subject-matter passes Stage four only with two-thirds or more of the total number of Senedd seats.
+Hannah: What's the summary for the structure of an Act of Parliament?
+Will (quick-fire pause): <think>
+Will: With no commencement provision, an Act of Parliament runs from the beginning of the day of Royal Assent.
+Hannah: What's the summary for Senedd Acts and the extent of legislation?
+Will (quick-fire pause): <think>
+Will: Extent is the jurisdiction where a provision is law; application is what it actually governs.
+Hannah: What's the summary for the literal, golden and mischief rules?
+Will (quick-fire pause): <think>
+Will: Absurdity triggers the golden rule; the pre-Act defect triggers the mischief rule, whether or not the words are absurd.
+Hannah: What's the summary for the purposive approach?
+Will (quick-fire pause): <think>
+Will: The court reads the words in context and in light of Parliament's purpose, even if that means not adopting the most literal meaning.
+Hannah: What's the summary for presumptions?
+Will (quick-fire pause): <think>
+Will: Presumptions are rebuttable: express words or necessary implication displace them, and then the court applies the Act.
+Hannah: What's the summary for aids to interpretation?
+Will (quick-fire pause): <think>
+Will: Hansard needs ambiguity, obscurity or absurdity first; Explanatory Notes do not, but they cannot override the words.
+Hannah: What's the summary for interpreting Welsh legislation?
+Will (quick-fire pause): <think>
+Will: A Senedd Act from 1 January 2020 binds the Crown unless it expressly provides otherwise, reversing the Westminster presumption.
+Hannah: What's the summary for Convention rights and legislation?
+Will (quick-fire pause): <think>
+Will: Read legislation compatibly so far as possible, but never against its grain; otherwise the High Court and above may declare an Act of Parliament incompatible, leaving it valid.
+Hannah: And finally, what's the whole workshop in one sentence?
+Will: Ask what kind of legislation it is and whether it is in force, because an Act of Parliament can only be interpreted, read compatibly or declared incompatible, never quashed, while secondary legislation and Senedd Acts can fall for exceeding their powers.

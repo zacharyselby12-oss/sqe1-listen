@@ -1,0 +1,151 @@
+---
+id: public1-ws05-rev-v1
+unit: u-bpp-Public1-05
+guide_hash: 232a74ff99
+made: 2026-11-17T12:43:57+00:00
+kind: revision
+title: Public1 WS05 · Revision · 17 min
+map:
+- Composition of Parliament
+- Parliament Acts
+- Freedom of speech and proceedings in Parliament
+- Exclusive cognisance, the courts and parliamentary papers
+- Holding ministers to account
+recap:
+- A recall trigger opens a petition, not a vacancy: the seat is vacated if at least 10% of electors sign within 6 weeks.
+- Apart from Money Bills, a year must run from the Commons second reading in the first session to the Commons passing it in the second; sooner fails.
+- If it's a proceeding in Parliament, no court may question it; if it isn't, like an expenses claim, Article 9 doesn't protect it.
+- Courts decide whether a privilege exists and its extent, but won't inquire into a House's internal procedures or discipline; House-ordered papers get absolute privilege, fair and accurate reports only qualified.
+- Parliament questions ministers, scrutinises them through departmental select committees and can vote on confidence; those committees can call for persons and papers but cannot in practice compel ministers.
+summary: Check the condition before the consequence: on recall, the seat is vacated if at least 10% of electors sign within 6 weeks, the Parliament Acts need their time limits met, and parliamentary freedom of speech protects only proceedings in Parliament.
+invented: []
+guide_only: []
+---
+## Map
+Will: The big question: what is Parliament as an institution, what protects it, and what holds ministers in check? There are five areas. First, the composition of Parliament. Second, the Parliament Acts.
+Hannah: And what are the other three areas?
+Will: Third, freedom of speech and proceedings in Parliament. Fourth, exclusive cognisance, the courts and parliamentary papers. Fifth, holding ministers to account.
+
+## Block 1: Composition of Parliament
+Hannah: So let's start with the composition of Parliament: who makes it up, and how can an MP lose their seat?
+Will: Parliament is the King, the House of Commons and the House of Lords. An Act needs the assent of all three, or of the Commons and the King under the Parliament Acts. So a resolution of one House alone cannot change the law: tax, for example, cannot be collected on a Commons resolution alone.
+Hannah: And who sits in the House of Lords now?
+Will: The Lords is unelected, and it's made up of life peers and the Lords Spiritual, who are the bishops. There are 26 Lords Spiritual.
+Hannah: What happened to the hereditary peers?
+Will: No one sits by hereditary right any more. The excepted hereditary peers were removed, so a hereditary peer now sits only if also granted a life peerage.
+Hannah: And since when has that been the position?
+Will: Since 29 April 2026, when the change came into force.
+Hannah: And what legislation made that change?
+Will: The House of Lords (Hereditary Peers) Act 2026, by section 1.
+Hannah: And how many excepted hereditary peers did it remove?
+Will: It removed the 92 excepted hereditary peers.
+Hannah: And how can a peer stop being a member of the House?
+Will: A peer may retire. A peer also loses membership for non-attendance for a whole session. And a peer loses membership for a sentence over one year.
+Hannah: Now dissolution: when does a Parliament come to an end?
+Will: Automatic dissolution happens at the start of the fifth anniversary of Parliament's first meeting, if it hasn't been dissolved earlier. Earlier dissolution is by the Monarch on the PM's request, not by a Commons vote.
+Hannah: Now the Commons itself: who is disqualified from sitting there?
+Will: Four groups of office-holders are disqualified from the Commons: judges, civil servants, police officers and members of the regular armed forces.
+Hannah: And what about members of the House of Lords themselves?
+Will: They're disqualified from the Commons as well. Then there's the criminal route: an MP sentenced to over one year and detained is disqualified, and the seat is vacated.
+Hannah: And short of that, how does the recall of an MP work?
+Will: Recall is by a recall petition, and the petition opens on any of three events. The first is that the MP is convicted and sentenced to custody. The second is that the MP is suspended from the Commons after a standards report. That suspension must be for at least 10 sitting days, or 14 days. The third is that the MP is convicted of a false expenses claim.
+Hannah: And does the petition opening cost the MP the seat?
+Will: Not by itself. The seat is vacated if, within 6 weeks, at least 10% of electors sign the petition. So the electors decide, whereas disqualification vacates the seat outright.
+Hannah (summing up): A recall trigger opens a petition, not a vacancy: the seat is vacated if at least 10% of electors sign within 6 weeks.
+Will: Yes: the trigger only opens the petition, and it's the electors' signatures that vacate the seat.
+
+## Block 2: Parliament Acts
+Hannah: Before the Parliament Acts, a question on composition. Following a standards report, the Commons suspends an MP for 12 sitting days, and the MP has no criminal conviction. What is the consequence for the MP's seat?
+Will (scenario pause): <think>
+Will: A recall petition opens, because the suspension after a standards report is long enough to trigger one. The tempting answer is that nothing happens without a conviction, but no conviction is needed. And the seat isn't lost straight away: it's vacated only when enough electors sign in time.
+Hannah: Yes: the suspension alone triggers recall, and the signatures decide the seat.
+Will: Now, the Parliament Acts: when can the Commons make a Bill law without the Lords' consent? First ask whether the Acts can be used for the Bill at all, then which route it takes and whether its time limits were met.
+Hannah: Which Bills are outside the Parliament Acts altogether?
+Will: There are four kinds. The first is a Bill extending Parliament's life beyond 5 years. The others are Bills starting in the Lords, private Bills and delegated legislation, and the Acts do not apply to any of them. So the eligible Bill is a Public Bill started in the Commons, and not one of the excluded kinds.
+Hannah: And is an Act passed this way a lesser kind of law?
+Will: It isn't lesser: Acts passed under the Parliament Acts are primary legislation, which is why the Hunting Act is valid. What differs is the enacting formula. Normally it recites the consent of the Lords and Commons, whereas an Act passed under the Parliament Acts omits the Lords.
+Hannah: So take the first route: what happens with a Money Bill?
+Will: A Money Bill must be sent up at least one month before the end of the session. The Lords then have one month to pass it without amendment. If they don't, it goes for Royal Assent, unless the Commons direct otherwise. And whether it is a Money Bill is settled by the Speaker's certificate, which is conclusive and cannot be questioned in court.
+Hannah: And what is the route for other Public Bills?
+Will: It has four steps. First, the Commons passes the Bill in two successive sessions, and the Lords reject it each time. Second comes the gap. Allow one year between the Commons second reading in the first session and the Commons passing it in the second. Passing it sooner fails, and waiting afterwards does not cure it.
+Hannah: And what are the last two steps?
+Will: Third, the Bill must be sent to the Lords at least one month before the end of each session. Fourth, the Bill then receives Royal Assent without the Lords' consent. In one line: passed in two successive sessions and rejected each time, a year from the first-session Commons second reading to the second-session Commons passing, sent up at least a month before each session ends, then Royal Assent.
+Hannah: What counts as the Lords rejecting a Bill?
+Will: Rejection includes the Lords failing to pass the Bill, or passing amendments the Commons will not accept. And the second-session Bill must be identical, apart from changes needed for time passing or Lords amendments accepted.
+Hannah (summing up): Apart from Money Bills, a year must run from the Commons second reading in the first session to the Commons passing it in the second; sooner fails.
+Will: Yes: the clock starts at second reading and stops when the Commons passes the Bill again.
+
+## Block 3: Freedom of speech and proceedings in Parliament
+Hannah: Before freedom of speech and proceedings in Parliament, a question on the Parliament Acts. A government Bill has its Commons second reading in March, and the Lords reject it. In a new session the Commons passes the identical Bill the following January, and the Lords reject it again. Can it receive Royal Assent that January?
+Will (calculation pause): <think>
+Will: It can't. March to the following January is less than a year from the first-session second reading, so the Commons passed it too soon. The tempting answer is that two sessions and two rejections are enough, but the January passing fails, and waiting does not cure it.
+Hannah: Yes: the year must run before the Commons passes the Bill in the second session.
+Will: Now, freedom of speech in Parliament: what does it protect, and what falls outside it? Start with privilege itself. Parliamentary privilege means the rights and immunities each House and its members have to perform their functions without outside interference. Chiefly that is freedom of speech, under Article 9 of the Bill of Rights, and exclusive cognisance, meaning each House regulates its own internal affairs. Added to those is the power to discipline members and punish contempt.
+Hannah: And whose privilege is it: the member's or the House's?
+Will: Privilege belongs to the House, not the individual member. So an MP can no longer waive Article 9 to bring or defend a defamation claim, because the statutory waiver was repealed.
+Hannah: So what does Article 9 itself protect?
+Will: Freedom of speech and debates or proceedings in Parliament may not be impeached or questioned in any court. So an MP has absolute immunity from civil and criminal liability for what is said in proceedings: defamation, for example, or breach of an injunction. That includes naming a person protected by a court order.
+Hannah: So what counts as a proceeding in Parliament?
+Will: Debates, questions and votes, to begin with.
+Hannah: And does committee work count as well?
+Will: It does: committee proceedings and evidence to committees are covered. So are things done closely and directly connected with any of these.
+Hannah: And what falls outside proceedings in Parliament?
+Will: Four things are not covered: expenses claims, MPs' letters to ministers or constituents, press statements, and repeating or affirming outside Parliament what was said inside. The expenses point is the Chaytor case: submitting expenses claims is not a proceeding in Parliament, so MPs can be prosecuted for false claims.
+Hannah: So is it wrong to say that MPs are immune from prosecution?
+Will: It is wrong, because privilege covers only proceedings in Parliament. If an MP defames someone in a debate, no court can hold the MP liable. If the same MP submits a false expenses claim, the MP can be prosecuted.
+Hannah: And how may a court use what was said in Parliament?
+Will: Courts may not use parliamentary proceedings for three purposes: to found civil or criminal liability, to question motive, good faith or truthfulness, or to prove a contested fact.
+Hannah: So when may a court cite Hansard?
+Will: There are four uses. A court may cite Hansard to show what was said, under Pepper v Hart, for a minister's reasons on judicial review, and as background to a statute's aim under the HRA. Even then, it never judges the debate's quality.
+Hannah (summing up): If it's a proceeding in Parliament, no court may question it; if it isn't, like an expenses claim, Article 9 doesn't protect it.
+Will: Yes: whether it is a proceeding decides the protection, and an expenses claim is not one.
+
+## Block 4: Exclusive cognisance, the courts and parliamentary papers
+Hannah: Before exclusive cognisance, the courts and parliamentary papers, a question on freedom of speech. A company director gives evidence to a Commons select committee and falsely accuses a rival of bribing officials. The rival sues the director for defamation. Will the claim succeed?
+Will (scenario pause): <think>
+Will: The claim fails, because evidence to a committee is a proceeding in Parliament, so it is absolutely privileged. The tempting answer is that privilege protects only MPs, and the director is an outsider. But Article 9 protects witnesses as well as MPs.
+Hannah: Yes: it's the proceeding that is protected, so a witness's evidence is covered too.
+Will: Now, exclusive cognisance and the courts: when will the courts stay out of a House's affairs? The dividing line is this. Courts decide whether a privilege exists and its extent, and each House decides how to exercise it within that scope.
+Hannah: And what does exclusive cognisance keep the courts away from?
+Will: By exclusive cognisance, the courts will not inquire into the internal procedures or disciplinary decisions of either House: the suspension or expulsion of a member, for example. But ordinary criminal law applies to MPs for conduct that is not part of proceedings.
+Hannah: And are MPs protected from arrest?
+Will: Freedom from arrest covers civil arrest only. MPs have no protection from criminal arrest or prosecution.
+Hannah: Now the papers: how are parliamentary publications protected?
+Will: Ask whether a House ordered the publication or it reports proceedings. Papers published by order of a House, like Hansard and committee reports, have absolute privilege. Extracts published in good faith without malice, and fair and accurate reports of proceedings, like press reports of debates, have only qualified privilege, which is defeated by malice.
+Hannah (summing up): Courts decide whether a privilege exists and its extent, but won't inquire into a House's internal procedures or discipline; House-ordered papers get absolute privilege, fair and accurate reports only qualified.
+Will: Yes: existence and extent are for the courts, internal affairs are for the House, and only House-ordered papers get the absolute protection.
+
+## Block 5: Holding ministers to account
+Hannah: Before holding ministers to account, a question that mixes the last two areas. An MP makes a damaging allegation in a Commons debate. A newspaper prints a fair and accurate report of it, but does so out of malice towards the person named. Can that person sue the MP, the newspaper, or neither?
+Will (scenario pause): <think>
+Will: The newspaper, and not the MP. The MP has absolute immunity for what is said in the debate. The tempting answer is that the report shares that immunity, but a fair and accurate report has only qualified privilege, and malice defeats it.
+Hannah: Yes: the speech is absolutely protected, and the malicious report is not.
+Will: Now, holding ministers to account: how does Parliament do it? It starts with questions. There are oral and written questions, with PMQs weekly. Then come urgent questions and debates.
+Hannah: And what do the select committees add?
+Will: Departmental select committees scrutinise expenditure, administration and policy, and their chairs are elected by the whole House. They can call for persons and papers. What they cannot do, in practice, is compel ministers. Alongside them, the Public Accounts Committee works with the National Audit Office. And finally there are confidence votes.
+Hannah (summing up): Parliament questions ministers, scrutinises them through departmental select committees and can vote on confidence; those committees can call for persons and papers but cannot in practice compel ministers.
+Will: Yes: the committees' power is to call, and in practice it stops short of compelling a minister.
+
+## Recap
+Hannah: One last question, on accountability. A departmental select committee wants to question a minister about her department's spending, and she declines to come. Can the committee make her attend?
+Will (scenario pause): <think>
+Will: In practice it can't. The committee can call for persons and papers, and the tempting answer is that this lets it force anyone to attend. But a departmental select committee cannot in practice compel ministers.
+Hannah: Yes: the committee may call for her, but compelling a minister is in practice beyond its reach.
+Will: Now the quick-fire round, with one line for each area.
+Hannah: What's the summary for the composition of Parliament?
+Will (quick-fire pause): <think>
+Will: A recall trigger opens a petition, not a vacancy: the seat is vacated if at least 10% of electors sign within 6 weeks.
+Hannah: What's the summary for the Parliament Acts?
+Will (quick-fire pause): <think>
+Will: Apart from Money Bills, a year must run from the Commons second reading in the first session to the Commons passing it in the second; sooner fails.
+Hannah: What's the summary for freedom of speech and proceedings in Parliament?
+Will (quick-fire pause): <think>
+Will: If it's a proceeding in Parliament, no court may question it; if it isn't, like an expenses claim, Article 9 doesn't protect it.
+Hannah: What's the summary for exclusive cognisance, the courts and parliamentary papers?
+Will (quick-fire pause): <think>
+Will: Courts decide whether a privilege exists and its extent, but won't inquire into a House's internal procedures or discipline; House-ordered papers get absolute privilege, fair and accurate reports only qualified.
+Hannah: What's the summary for holding ministers to account?
+Will (quick-fire pause): <think>
+Will: Parliament questions ministers, scrutinises them through departmental select committees and can vote on confidence; those committees can call for persons and papers but cannot in practice compel ministers.
+Hannah: And what is the whole workshop in one sentence?
+Will: Check the condition before the consequence: on recall, the seat is vacated if at least 10% of electors sign within 6 weeks, the Parliament Acts need their time limits met, and parliamentary freedom of speech protects only proceedings in Parliament.

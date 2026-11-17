@@ -1,0 +1,204 @@
+---
+id: public2-ws03-rev-v1
+unit: u-bpp-Public2-03
+guide_hash: 1bfe0c904b
+made: 2026-11-17T12:43:56+00:00
+kind: revision
+title: Public2 WS03 · Revision · 18 min
+map:
+- Procedural impropriety: the ground and statutory procedures
+- The duty to act fairly: when it arises and the level owed
+- The right to be heard
+- The rule against bias
+- The UK constitution: nature, sources and principles
+- Institutions of the state: Parliament, the executive and the judiciary
+- The monarch, the royal prerogative and limits on executive power
+- Constitutional conventions and ministerial responsibility
+recap:
+- A broken statutory procedure invalidates only if Parliament intended that, judged by consequences; there's no general common law duty to consult.
+- The duty applies whenever rights, interests or legitimate expectations are affected, and the more at stake, the more fairness is required.
+- You must know the gist of the case in time and have a chance to respond; oral hearings, lawyers and reasons depend on context.
+- A direct pecuniary or proprietary interest, or a judge's active involvement in a party's cause, disqualifies automatically; otherwise, ask if a fair-minded, informed observer would see a real possibility of bias.
+- Nothing is entrenched, so an ordinary Act can change the constitution, but constitutional statutes are repealed only by express or irresistibly specific words.
+- An Act needs King, Commons and Lords, unless the Parliament Acts let the Commons override the Lords; and ministers answer to Parliament.
+- The prerogative fills gaps but can't change the law; a statute on the same ground puts it in abeyance; and levying money needs Parliament's consent.
+- Conventions bind politically, not legally: courts may recognise but won't enforce them, and only a statute making one binding turns it into law.
+summary: Most questions turn on consequence and context: a breached statutory procedure invalidates only if Parliament intended it, fairness rises with the stakes, and law beats convention, which courts recognise but never enforce.
+invented:
+- the warm-up's grant policy for new firms
+guide_only:
+- P:LG-8.8-02 (the Westminster stages of a Bill: a look-up list, left to the guide)
+- P:LG-8.5-05 (the list of nine key conventions: the main ones are taught one by one; the full list is left to the guide)
+- P:LG-8.9-05 (Dicey's three limbs of the rule of law: homed in another workshop; left to the guide for time)
+- P:LG-8.2-01 (appointing the Prime Minister and ministers, and ministers sitting in either House: left to the guide for time)
+- P:LG-8.2-08 (the civil service and special advisers: left to the guide for time)
+- P:LG-10.1-01 (the definition of judicial review: homed in another workshop; left to the guide for time)
+- P:LG-8.2-05 (the Independent Adviser and the Ministerial Code's process: left to the guide for time)
+- P:LG-7-01 (the full list of the constitution's sources: a look-up list, left to the guide)
+- P:LG-8.2-06 (the detail of each accountability mechanism, such as select committees' powers: left to the guide for time)
+- P:LG-8.5-07 (the convention on debating military action: left to the guide for time)
+- P:LG-8.5-06 (the hung Parliament convention: left to the guide for time)
+- P:LG-8.9-01 (separation of powers: homed in another workshop; left to the guide for time)
+- P:LG-8.1-04 (parliamentary sovereignty: homed in another workshop; left to the guide for time)
+- P:LG-8.6-05 (the prerogative cannot change domestic law or remove statutory rights: homed in another workshop; left to the guide for time)
+- P:LG-8.4-01 (the monarch's legal powers exercised on advice: homed in another workshop; left to the guide for time)
+- P:LG-8.6-01 (what the prerogative is, with its examples: homed in another workshop; left to the guide for time)
+- P:LG-8.9-07 (officials need legal authority; ministers subject to the courts: homed in another workshop; left to the guide for time)
+- P:LG-8.4-02 (Royal Assent always given on advice, and Senedd Bills: homed in another workshop; left to the guide for time)
+- P:LG-8.5-02 (the three-question test for whether a convention exists: left to the guide for time)
+- P:LG-7-05 (the Cabinet Manual, Ministerial Code and works of authority are not law: left to the guide for time)
+- P:LG-8.3-02 (the Sewel convention: homed in another workshop; mentioned only as the codification example)
+- P:LG-8.6-08 (the 2022 Act's repeal and the revived prerogative to dissolve: homed in another workshop; its learn figures are said)
+---
+## Map
+Will: Today: how must a public body decide, and where does its power come from? Eight areas. First, procedural impropriety: statutory procedures, the duty to act fairly, the right to be heard, and bias.
+Hannah: And what's in the second half, on the constitution?
+Will: Its nature and sources, the institutions of the state, the prerogative, and conventions.
+Hannah: A warm-up from last time. A council never funds new firms, and won't even read a letter from one with an unusual case. Is that lawful?
+Will (scenario pause): <think>
+Will: No. A council exercising a statutory discretion may adopt a policy, but mustn't apply it so rigidly that it refuses to consider individual cases; that rule doesn't bind prerogative or common law policies.
+Hannah: Right: with a statutory discretion, refusing to hear the unusual case is the unlawful fetter.
+## Block 1: Procedural impropriety: the ground and statutory procedures
+Will: Procedural impropriety first: failing to observe natural justice or procedural fairness, or to follow procedures laid down by the empowering statute. Breaching a statutory duty to consult belongs here, not under illegality.
+Hannah: Does any breach invalidate the decision?
+Will: Only if Parliament intended non-compliance to invalidate, judged by the consequences, not by a 'mandatory' or 'directory' label; substantial compliance may be enough. Failing to consult one body that had to be consulted leaves the order not binding on that body only.
+Hannah: When must a body consult?
+Will: There's no general common law duty: only statute, a promise or established practice, or exceptionally conspicuous unfairness, creates one. Consultation must be at a formative stage, give sufficient reasons, allow adequate time, and be conscientiously considered.
+Hannah (summing up): A broken statutory procedure invalidates only if Parliament intended that, judged by consequences; there's no general common law duty to consult.
+Will: Yes: Parliament's intention decides invalidity, and consulting needs a source.
+## Block 2: The duty to act fairly: when it arises and the level owed
+Hannah: Before the duty to act fairly, a procedure question. A refusal notice omits a required appeal deadline, but a same-day letter gives it, and the appeal is in time. Is the refusal invalid?
+Will (scenario pause): <think>
+Will: No: the requirement exists to enable appeals, and the appeal was in time, so there was no prejudice. The tempting answer is that a missed step makes it void.
+Hannah: Right: no prejudice, so the refusal stands.
+Will: Now the duty to act fairly. It applies to judicial and administrative decisions alike whenever rights, interests or legitimate expectations are affected, and its level depends on context: the more at stake, the more fairness is required.
+Hannah: How does that play out with licences?
+Will: Protection is strongest for forfeiture, where an existing licence is taken away; less where renewal is expected; and least for a first application, which gets honesty and no bias.
+Hannah: What can reduce the duty?
+Will: Urgent public safety action can reduce it, and national security can override it, but it's rarely excluded altogether. In commercial tenders, bidders can't see rivals' applications, but must be treated equally.
+Hannah: And what's the remedy for breach?
+Will: The decision is quashed as void. But the court must refuse relief if it appears highly likely the outcome for the applicant wouldn't have been substantially different without the conduct complained of, unless it considers there's an exceptional public interest reason to grant it.
+Hannah (summing up): The duty applies whenever rights, interests or legitimate expectations are affected, and the more at stake, the more fairness is required.
+Will: Yes: the stakes set the level.
+## Block 3: The right to be heard
+Hannah: Before the right to be heard, a fairness question. A regulator refuses to renew a long-held licence without telling the holder its concerns. What does fairness require?
+Will (scenario pause): <think>
+Will: Notice of the concerns and a chance to respond: renewal is an expectation case, close to forfeiture, so a hearing is usually required. The tempting answer is the low first-application level.
+Hannah: Yes: renewal sits beside forfeiture.
+Will: Now the right to be heard. Anyone whose rights, interests or livelihood are affected must know the gist of the case in time to prepare, and have a chance to respond: a same-afternoon summons to answer a charge gave no reasonable time to prepare, so the conviction was quashed.
+Hannah: Is an oral hearing always required?
+Will: Not always, but it may be where facts or credibility are disputed. A policy of never holding oral hearings is an unlawful fetter, and refusing oral parole hearings breached common law fairness: saving time, trouble and expense is no reason.
+Hannah: Is there a right to a lawyer?
+Will: There's no automatic right. Refusing representation is unlawful only if, on the facts, fairness required it.
+Hannah: And must reasons be given?
+Will: There's no general common law duty. But fairness requires reasons where, for example, liberty or another fundamental interest is affected or the decision appears aberrant, and they must be adequate and intelligible. The trend is that reasons should generally be given unless there's a proper justification.
+Hannah (summing up): You must know the gist of the case in time and have a chance to respond; oral hearings, lawyers and reasons depend on context.
+Will: Yes: the gist, in time, is the core.
+## Block 4: The rule against bias
+Hannah: Before the rule against bias, a hearing question. A council sacks an officer for dishonesty on a colleague's disputed account, refusing him an oral hearing. What's his strongest ground?
+Will (scenario pause): <think>
+Will: The refused oral hearing: credibility can't fairly be resolved on paper, and his livelihood's at stake. The tempting answer is that written comments always suffice.
+Hannah: Right: credibility that can't fairly be resolved on paper needs an oral hearing.
+Will: Now the rule against bias. A direct pecuniary or proprietary interest in the outcome disqualifies automatically, as does a decision promoting a cause in which the decision-maker is involved with a party. No actual bias need be shown, and the interest's size is generally irrelevant, bar a possible de minimis exception.
+Hannah: What if only one member has the interest?
+Will: The whole decision is invalid, even when that member's vote made no difference. And for a cause, mere membership isn't enough: there must be active involvement, and the organisation must be a party or intervener.
+Hannah: And where there's no automatic disqualification?
+Will: Then it's apparent bias: would the fair-minded and informed observer, having considered the facts, conclude there was a real possibility that the decision-maker was biased? For example, a complainant or prosecutor present while a committee decides can invalidate its decision.
+Hannah: Can a councillor with known views vote?
+Will: Yes. Predisposition, holding prior views, is lawful; only predetermination, a closed mind on the specific application, is unlawful, and merely indicating a view isn't a closed mind. A party who knows the facts and doesn't object waives a bias objection.
+Hannah (summing up): A direct pecuniary or proprietary interest, or a judge's active involvement in a party's cause, disqualifies automatically; otherwise, ask if a fair-minded, informed observer would see a real possibility of bias.
+Will: Yes: a direct interest, or a judge actively sharing a party's cause, disqualifies; otherwise, the observer decides.
+## Block 5: The UK constitution: nature, sources and principles
+Hannah: Before the constitution, a bias question. A three-member committee unanimously awards a contract; one member holds shares in the winner. What's the effect?
+Will (scenario pause): <think>
+Will: The whole award is invalid: one member's direct pecuniary interest disqualifies automatically and taints the decision. The tempting answer is that unanimity saves it.
+Hannah: Yes: one tainted member is enough.
+Will: Now the constitution itself. It's uncodified and nothing is entrenched, so an ordinary Act passed by simple majority can change any constitutional rule; no referendum, supermajority or special procedure is legally needed.
+Hannah: Can a later Act quietly override a constitutional statute?
+Will: No. A constitutional statute can't be impliedly repealed: only by express words, or words so specific that the intention is irresistible.
+Hannah (summing up): Nothing is entrenched, so an ordinary Act can change the constitution, but constitutional statutes are repealed only by express or irresistibly specific words.
+Will: Yes: repeal takes clear words.
+## Block 6: Institutions of the state: Parliament, the executive and the judiciary
+Hannah: Before Parliament and the institutions, a sources question. A minister says abolishing the Judicial Appointments Commission needs a referendum. What's legally required?
+Will (scenario pause): <think>
+Will: An ordinary Act expressly repealing the relevant provisions of the Constitutional Reform Act. The tempting answer is a referendum or supermajority, but neither is needed.
+Hannah: Right: express repeal, simple majority.
+Will: Now Parliament. An Act needs the King, Commons and Lords, or Commons and King under the Parliament Acts; one House's resolution alone can't change the law. The Commons has 650 MPs. They're elected by first past the post in single-member constituencies.
+Hannah: And who sits in the Lords now?
+Will: Life peers and 26 Lords Spiritual, the bishops. Since April 2026 no one sits by hereditary right, so a hereditary peer sits only with a life peerage.
+Hannah: When does a Parliament dissolve without an early election?
+Will: Automatically after 5 years. Time runs to the start of the fifth anniversary of its first meeting, not polling day. Polling day is 25 working days after dissolution.
+Hannah: And does losing a confidence vote trigger an election?
+Will: No automatic one. By convention the Prime Minister resigns or asks the King to dissolve.
+Hannah: How can the Commons pass a money Bill without the Lords?
+Will: A Speaker-certified money Bill is sent up at least 1 month before the session ends. If the Lords don't pass it unamended within 1 month, it can get Royal Assent without them.
+Hannah: And what about other public Bills?
+Will: The Commons must pass it in two successive sessions, sending it up at least a month before each ends, and the Lords must reject it each time; amendments the Commons won't accept count as rejection. One year must pass between the first Commons second reading and the second passing, so the Lords' delay is about one year, not two.
+Hannah: Is any Bill excluded?
+Will: Yes: a Bill to extend Parliament beyond 5 years.
+Hannah: How does a complaint reach the Ombudsman?
+Will: The Ombudsman investigates injustice caused by maladministration by departments and other listed bodies. Complaints must be made to and referred by an MP, the MP filter, except one about a victim's experience, which can go direct.
+Hannah: Is there a time limit?
+Will: Normally within 12 months of first notice of the matter, or later in special circumstances. And there's no investigation where the complainant has an appeal, review or court remedy, unless it isn't reasonable to expect its use.
+Hannah: Can a minister reject the Ombudsman's findings?
+Will: They're not legally binding, but a minister may reject a finding of maladministration only for cogent reasons; without them, rejection is irrational and open to judicial review.
+Hannah (summing up): An Act needs King, Commons and Lords, unless the Parliament Acts let the Commons override the Lords; and ministers answer to Parliament.
+Will: Yes: the Lords can be overridden only that way.
+## Block 7: The monarch, the royal prerogative and limits on executive power
+Hannah: Before the monarch and the prerogative, a date to work out. After an election on 2 May 2030, the new Parliament first meets on 20 May 2030. With no early dissolution, when is it dissolved?
+Will (calculation pause): <think>
+Will: At the start of 20 May 2035. The tempting answer counts from polling day, but time runs from the first meeting.
+Hannah: Right: first meeting, not polling day.
+Will: Now the monarch and the prerogative. No new prerogatives can be created, and the Crown can't change the law by prerogative. Without Parliament's consent, the Crown can't suspend laws, dispense with laws, or levy money.
+Hannah: What if a statute covers the same ground as a prerogative?
+Will: The prerogative goes into abeyance: the government must use the statute with its conditions, such as paying compensation. Where no statute covers the area, a compensation scheme can be set up under the prerogative, but Parliament must vote the funds. And the prerogative can't introduce a scheme inconsistent with a statutory one enacted but not yet in force.
+Hannah (summing up): The prerogative fills gaps but can't change the law; a statute on the same ground puts it in abeyance; and levying money needs Parliament's consent.
+Will: Yes: Parliament holds the purse.
+## Block 8: Constitutional conventions and ministerial responsibility
+Hannah: Before conventions, a prerogative question. With no statute in the field, the government sets up a cyber attack compensation scheme funded by a prerogative levy on banks. What's unlawful?
+Will (scenario pause): <think>
+Will: The levy: the prerogative can fill the gap, but raising money needs Parliament's consent. The tempting answer is that the whole scheme needs a statute.
+Hannah: Right: the scheme stands; the levy falls.
+Will: Now conventions and ministerial responsibility. Conventions are non-legal rules of political behaviour, regarded as binding by those they apply to, but not enforced by the courts.
+Hannah: What must the Lords do with manifesto Bills?
+Will: By Salisbury, the Lords give a government manifesto Bill a second reading, make no wrecking amendments changing its manifesto intention, and pass it.
+Hannah: What does collective responsibility require?
+Will: Three things. Ministers publicly support government decisions or resign, unless the Prime Minister suspends that by an agreement to differ. Cabinet discussions stay confidential, enforced only through breach of confidence where the public interest requires it, a need that fades with time. And a government losing a Commons confidence vote must resign or seek dissolution.
+Hannah: And what does individual responsibility demand?
+Will: Ministers account to Parliament for their departments' policies, decisions and actions, and must give accurate, truthful information, correcting inadvertent errors at the earliest opportunity. A minister who knowingly misleads Parliament is expected to offer resignation, and may be expected to resign for policy failure or personal misconduct, but not automatically for officials' operational failings.
+Hannah: When does a convention become law?
+Will: Only when a statute makes it legally binding: the Ponsonby rule became law that way, but statutory recognition left Sewel a convention. Otherwise breach has political consequences, like resignation, loss of confidence or sometimes legislation.
+Hannah (summing up): Conventions bind politically, not legally: courts may recognise but won't enforce them, and only a statute making one binding turns it into law.
+Will: Yes: politics enforces them; only statute makes them law.
+## Recap
+Hannah: Last, mixing in the Parliament Acts. The Lords reject a manifesto Bill, not a money Bill, in two successive sessions, over a year after its first Commons second reading. Can it become law without them?
+Will (scenario pause): <think>
+Will: Yes, under the Parliament Acts. The tempting answer is that breaching Salisbury makes the rejection unlawful, but that convention is unenforceable.
+Hannah: Right: Salisbury stays political.
+Will: Now, the quick-fire round.
+Hannah: What's the summary for breaking a statutory procedure?
+Will (quick-fire pause): <think>
+Will: A broken statutory procedure invalidates only if Parliament intended that, judged by consequences; there's no general common law duty to consult.
+Hannah: What's the summary for the duty to act fairly?
+Will (quick-fire pause): <think>
+Will: The duty applies whenever rights, interests or legitimate expectations are affected, and the more at stake, the more fairness is required.
+Hannah: What's the summary for the right to be heard?
+Will (quick-fire pause): <think>
+Will: You must know the gist of the case in time and have a chance to respond; oral hearings, lawyers and reasons depend on context.
+Hannah: What's the summary for the rule against bias?
+Will (quick-fire pause): <think>
+Will: A direct pecuniary or proprietary interest, or a judge's active involvement in a party's cause, disqualifies automatically; otherwise, ask if a fair-minded, informed observer would see a real possibility of bias.
+Hannah: What's the summary for the constitution's nature and sources?
+Will (quick-fire pause): <think>
+Will: Nothing is entrenched, so an ordinary Act can change the constitution, but constitutional statutes are repealed only by express or irresistibly specific words.
+Hannah: What's the summary for Parliament and the other institutions?
+Will (quick-fire pause): <think>
+Will: An Act needs King, Commons and Lords, unless the Parliament Acts let the Commons override the Lords; and ministers answer to Parliament.
+Hannah: What's the summary for the prerogative and its limits?
+Will (quick-fire pause): <think>
+Will: The prerogative fills gaps but can't change the law; a statute on the same ground puts it in abeyance; and levying money needs Parliament's consent.
+Hannah: What's the summary for conventions and ministerial responsibility?
+Will (quick-fire pause): <think>
+Will: Conventions bind politically, not legally: courts may recognise but won't enforce them, and only a statute making one binding turns it into law.
+Hannah: And how would you put the whole workshop in one sentence?
+Will: Most questions turn on consequence and context: a breached statutory procedure invalidates only if Parliament intended it, fairness rises with the stakes, and law beats convention, which courts recognise but never enforce.

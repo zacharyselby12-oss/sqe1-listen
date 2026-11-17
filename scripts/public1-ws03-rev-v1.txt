@@ -1,0 +1,77 @@
+---
+id: public1-ws03-rev-v1
+unit: u-bpp-Public1-03
+guide_hash: f1bb6941ff
+made: 2026-11-17T12:43:57+00:00
+kind: revision
+title: Public1 WS03 · Revision · 8 min
+map:
+- The monarch and Royal Assent
+- Sources and institutions
+recap:
+- Every Bill needs Royal Assent to become an Act, including Bills passed under the Parliament Acts, and by convention assent is always given on ministerial advice.
+- Ask first whether a rule is law or convention: courts do not enforce conventions; devolution delegates power, and Westminster can still legislate for the whole UK, devolved matters included.
+summary: Every Bill needs Royal Assent as a matter of law, but that it is always given on ministerial advice is convention, and courts do not enforce conventions.
+invented: []
+guide_only: []
+---
+## Map
+Will: Here's the big question for the key principles of the UK constitution: where do its rules come from, and who holds its powers? There are two areas. First, the monarch and Royal Assent. Second, the constitution's sources and its institutions, where the key is telling law from convention.
+Hannah: So which of those two areas do we start with?
+Will: We start with the monarch, because Royal Assent shows law and convention working side by side.
+
+## Block 1: The monarch and Royal Assent
+Hannah: Now, the monarch and Royal Assent: does every Bill need Royal Assent to become law, and can the monarch refuse it?
+Will: Start with the monarch's position. The Crown's executive power is exercised by ministers in the Crown's name, and the monarch acts on their advice. Then the legal rule: every Bill needs Royal Assent to become an Act.
+Hannah: Does that include a Bill passed under the Parliament Acts, without the House of Lords agreeing?
+Will: Yes, it does: every Bill needs Royal Assent, including Bills passed under the Parliament Acts. That's the tempting mistake, because the Parliament Acts sound like a way round every stage. They aren't a way round assent.
+Hannah: So assent is legally required. Can the monarch actually refuse it?
+Will: By convention, Royal Assent is always given on ministerial advice. So the need for assent is law, but the giving of it is governed by convention. The last refusal was in the early eighteenth century.
+Hannah: And does the monarch have to give assent in person?
+Will: No, not in person: Royal Assent may be notified to each House rather than given by the monarch in person. And one point on Wales: Senedd Bills receive Royal Assent by Letters Patent.
+Hannah (summing up): Every Bill needs Royal Assent to become an Act, including Bills passed under the Parliament Acts, and by convention assent is always given on ministerial advice.
+Will: Yes: assent is always needed in law, and always given by convention, on ministers' advice.
+
+## Block 2: Sources and institutions
+Hannah: Before sources and institutions, a question on Royal Assent. A Bill is passed under the Parliament Acts, and a minister says it is already an Act because the Parliament Acts apply. Is the minister right?
+Will (scenario pause): <think>
+Will: The minister is wrong: the Bill still needs Royal Assent to become an Act. The tempting answer is that the Parliament Acts make it law automatically. That's wrong because every Bill needs Royal Assent, including Bills passed under the Parliament Acts.
+Hannah: Yes: a Bill passed under the Parliament Acts still needs Royal Assent before it is an Act.
+Will: Now, the sources of the constitution and its institutions: where do the rules come from, and which institutions hold the powers? The first thing to ask is whether a rule is law or convention. The UK constitution is uncodified, which means no single document has higher legal status.
+Hannah: So where do its rules come from instead?
+Will: From several sources. There are Acts of Parliament, and common law, which includes the royal prerogative. There are constitutional conventions, and the law and custom of Parliament. And formerly there was EU law, which is now assimilated law.
+Hannah: What exactly is a constitutional convention?
+Will: A constitutional convention is a non-legal rule of political behaviour, regarded as binding by those to whom it applies. And the deciding point is that conventions are not enforced by the courts. So a rule of law can be enforced in court, but a convention can't, however firmly people follow it.
+Hannah: Now the institutions. What makes up Parliament?
+Will: Parliament is the King, the House of Commons and the House of Lords, and an Act needs the assent of all of them. The exception is the Parliament Acts, under which the Commons and the King are enough. But a resolution of one House alone cannot change the law. For example, tax cannot be collected on a Commons resolution alone.
+Hannah: And how are the Prime Minister and the other ministers chosen?
+Will: The monarch appoints as Prime Minister the person most likely to command the confidence of the Commons. The monarch then appoints the other ministers on the Prime Minister's advice. The Cabinet exists by convention.
+Hannah: Does a minister have to be a member of Parliament?
+Will: By convention, ministers must sit in either House. A non-member is appointed in anticipation of becoming a member, usually by being given a peerage.
+Hannah: Now the judiciary. What changed for the Lord Chancellor under the Constitutional Reform Act?
+Will: Since that Act, the Lord Chancellor has lost three roles. He is no longer a judge, no longer head of the judiciary, and no longer Speaker of the House of Lords.
+Hannah: So who holds the roles the Lord Chancellor gave up?
+Will: The Lord Chief Justice is President of the Courts and Head of the Judiciary of England and Wales. And the Lord Speaker presides over the Lords.
+Hannah: Then what is the Lord Chancellor now, and must he be a lawyer?
+Will: The Lord Chancellor is a Cabinet minister, and by convention also Secretary of State for Justice. He is recommended only where he appears to the Prime Minister to be qualified by experience. That experience need not be as a lawyer.
+Hannah: And what does the Lord Chancellor owe to the judges?
+Will: Two duties. He, other ministers and all with responsibility for the judiciary must uphold the continued independence of the judiciary. And the Lord Chancellor himself must have regard to the need to defend that independence.
+Hannah: Finally, devolution. Has Westminster given away its sovereignty to Scotland, Wales and Northern Ireland?
+Will: No, it hasn't given sovereignty away. Devolution is a statutory delegation of power, made by an Act of Parliament for each of them, and not a transfer of sovereignty. So Westminster keeps power to legislate for every part of the UK, including on devolved matters.
+Hannah (summing up): Ask first whether a rule is law or convention: courts do not enforce conventions; devolution delegates power, and Westminster can still legislate for the whole UK, devolved matters included.
+Will: Yes: conventions aren't enforced by the courts, and devolution delegates power without transferring sovereignty.
+
+## Recap
+Hannah: A question that mixes both areas. A Bill has passed the Commons and the Lords, ministers advise assent, and a campaigner asks a court to enforce the convention that Royal Assent is always given. Will the court enforce that convention?
+Will (scenario pause): <think>
+Will: The court will not enforce it, because constitutional conventions are not enforced by the courts. The tempting answer is that a rule which is always followed must be law. That's wrong: the need for Royal Assent is law, but giving it on ministerial advice is a convention.
+Hannah: Yes: the need for assent is law, and giving it on advice is a convention the courts do not enforce.
+Will: And that's the distinction to carry through both areas.
+Hannah: What's the summary for the monarch and Royal Assent?
+Will (quick-fire pause): <think>
+Will: Every Bill needs Royal Assent to become an Act, including Bills passed under the Parliament Acts, and by convention assent is always given on ministerial advice.
+Hannah: What's the summary for the constitution's sources and institutions?
+Will (quick-fire pause): <think>
+Will: Ask first whether a rule is law or convention: courts do not enforce conventions; devolution delegates power, and Westminster can still legislate for the whole UK, devolved matters included.
+Hannah: And what is the whole workshop in one sentence?
+Will: Every Bill needs Royal Assent as a matter of law, but that it is always given on ministerial advice is convention, and courts do not enforce conventions.

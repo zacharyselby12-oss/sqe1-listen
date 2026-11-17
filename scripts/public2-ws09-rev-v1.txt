@@ -1,0 +1,207 @@
+---
+id: public2-ws09-rev-v1
+unit: u-bpp-Public2-09
+guide_hash: bf923b930b
+made: 2026-11-17T12:43:57+00:00
+kind: revision
+title: Public Law 2 WS09 · Revision · 18 min
+map:
+- Justifying interference with qualified rights
+- Article 8: private life, family life, home and correspondence
+- Article 10: freedom of expression
+- Balancing Articles 8 and 10: misuse of private information
+- Indirect horizontal effect
+- Articles 4, 9, 11 and 12
+- Article 14: discrimination
+- Protocol rights
+- Derogation (Article 15)
+recap:
+- Interference needs a lawful basis, an aim on the Article's own list, and a pressing social need met proportionately.
+- Powers without safeguards against arbitrary use aren't in accordance with law; blanket, indiscriminate retention of data on the unconvicted is disproportionate.
+- Article ten protects even shocking ideas; political speech gets the narrowest margin; prior restraint needs very high justification.
+- No reasonable expectation of privacy, no claim; otherwise neither right has priority, and the facts decide the balance.
+- Private parties face no direct Human Rights Act claim; courts apply existing causes of action compatibly with both sides' rights.
+- Slavery, servitude and belief itself are absolute; manifesting belief may be restricted only as prescribed by law and necessary for listed aims.
+- Article fourteen needs another right's ambit, not its breach; treating analogous cases differently on a listed ground or other status then needs objective and reasonable justification.
+- Deprivation needs the public interest, conditions provided by law, normally compensation, and a fair balance; free elections cover only the legislature.
+- Derogation needs war or a public emergency threatening the nation's life, only as strictly required and consistently with other international-law obligations, never touching non-derogable rights.
+summary: Most questions turn on justification: a lawful basis, a listed aim, and necessity and proportionality, with a wide margin on moral and resource issues, but a narrow one on political speech.
+invented:
+- Lena
+guide_only: []
+---
+## Map
+Will: When can the state justify interfering with Convention rights? Nine areas, in two groups: Articles eight and ten, on justification, privacy and expression; then other Convention rights, discrimination and derogation.
+Hannah: A warm-up on fair trials. A judge married to the defendant company's managing director shows no actual bias. Is impartiality satisfied?
+Will (scenario pause): <think>
+Will: No: objective impartiality must exclude legitimate doubt, and the marriage creates one. No actual bias tempts, but doesn't save it.
+Hannah: Good: legitimate doubt fails the objective test.
+
+## Block 1: Justifying interference with qualified rights
+Will: First, justifying interference with qualified rights. It must be prescribed by law, pursue a legitimate aim listed in the Article, and be necessary in a democratic society: a pressing social need, met proportionately. The law must be accessible and foreseeable, with no unfettered executive discretion: it needs safeguards against arbitrary use.
+Hannah: Why does each Article's own list matter?
+Will: The lists differ. Economic well-being of the country is in Article eight's list, not Article ten's, so it can't justify censoring a bank forecast. Territorial integrity is only in Article ten's, and the confidence and judiciary aims have no Article eight equivalent.
+Hannah: Then how is proportionality decided?
+Will: If an equally effective, less intrusive means exists, the measure is disproportionate. Strasbourg's margin widens where there's no consensus, especially on moral or ethical issues, and narrows where an intimate aspect of identity is at stake. UK courts, though, use not the margin of appreciation but a discretionary area of judgment, giving appropriate weight to the decision-maker.
+Hannah (summing up): Interference needs a lawful basis, an aim on the Article's own list, and a pressing social need met proportionately.
+Will: Yes: basis, aim, necessity.
+
+## Block 2: Article 8: private life, family life, home and correspondence
+Hannah: Before Article eight, a question on aims. Police search a home relying solely on territorial integrity. Can that aim justify it?
+Will (scenario pause): <think>
+Will: No: it's only on Article ten's list, however much it sounds like national security.
+Hannah: Right: wrong list, so no justification.
+Will: Now Article eight: private life, family life, home and correspondence. Interference must be in accordance with law and necessary for one of six aims: national security, public safety and the economic well-being of the country; then disorder or crime, health or morals, and the rights of others.
+Hannah: How broadly is private life read?
+Will: Broadly: criminalising consensual private sex between adult men, even group activity at home, breached it. An assisted suicide ban engages it too, but with a wide margin, and courts leave it to Parliament.
+Hannah: When is a search power lawful?
+Will: Any search, even a superficial one of bags, engages Article eight. A power without adequate safeguards against arbitrary use isn't in accordance with the law: one authorised merely as "expedient" failed, while the section sixty power, with safeguards, is compatible.
+Hannah: When does police data become a problem?
+Will: Retaining data on the unconvicted is disproportionate if blanket and indiscriminate, as was keeping a peaceful protester's photos once he'd clearly committed no crime. So was disclosing a man's conviction to every organisation he worked with, when none of his roles involved children.
+Hannah: When does removal breach family life?
+Will: Removal breaches Article eight only if disproportionate to aims such as immigration control. Raising the marriage visa age to deter forced marriage was disproportionate: it hit mostly unforced marriages. The trap: that's a balance, not Article three's absolute bar.
+Hannah: What protection does the home get?
+Will: A public authority landlord's occupier may raise proportionality in possession proceedings; a private landlord's can't, because the statutory scheme strikes the balance. Unannounced police visits to sex offenders' homes are justified if not too frequent and nothing is told to neighbours.
+Hannah: So the council tenant usually wins?
+Will: No: the defence is considered only if seriously arguable, and succeeds only exceptionally.
+Hannah: When can a prison open a lawyer's letter?
+Will: Interception with no legal basis is a breach without examining the aim. Prisons may open a lawyer's letter only with reasonable cause to believe it holds an illicit enclosure, unread, in the prisoner's presence; reading is allowed only exceptionally, with reasonable cause to believe privilege is abused. A blanket policy of examining legal letters in the prisoner's absence was unlawful.
+Hannah: Anything else before they open it?
+Will: Yes: opening is allowed only where normal detection methods have failed to reveal the enclosure.
+Hannah (summing up): Powers without safeguards against arbitrary use aren't in accordance with law; blanket, indiscriminate retention of data on the unconvicted is disproportionate.
+Will: Right: safeguards, and nothing blanket on the unconvicted.
+
+## Block 3: Article 10: freedom of expression
+Hannah: Before Article ten, a question on the home. Council and private tenants face the same possession claim. Which can raise proportionality?
+Will (scenario pause): <think>
+Will: Only the council tenant. Both tempts, but a private landlord's statutory scheme strikes the balance.
+Hannah: Yes: a public landlord only.
+Will: Now Article ten: freedom of expression. It protects holding opinions and receiving and imparting information and ideas, regardless of frontiers, even ideas that offend, shock or disturb. Restrictions must be prescribed by law and necessary for one of eight aims, including national security, disorder or crime, and others' reputation or rights; also confidential information, and the judiciary's authority and impartiality.
+Hannah: Is any speech outside Article ten altogether?
+Will: Speech aimed at destroying others' Convention rights may get none, under Article seventeen. Merely offensive speech is still protected.
+Hannah: Can a journalist force a council to disclose documents?
+Will: No general right to compel disclosure: Article ten bites where the state blocks information others wish to impart. So banning a speaker engages his hosts' rights.
+Hannah: Which kinds of speech get the most protection?
+Will: Political and journalistic speech get the strongest; artistic and commercial get less. The trap: political speech gets the strictest scrutiny, not a wide margin.
+Hannah: How do protest and disorder cases go?
+Will: Preventive police action needs a reasonable apprehension of an imminent breach of the peace; turning back everyone, not just suspected troublemakers, is premature, indiscriminate and disproportionate. Exclusion can rest on a risk to community relations and disorder, not mere offence. Banning tents in one area is likely proportionate where protest can continue otherwise.
+Hannah: How are politicians and the press treated?
+Will: A conviction for opinions about a politician is disproportionate: value judgments can't be proved true. Punishing a journalist for reporting others' racist views is disproportionate absent particularly strong reasons: the press is a public watchdog.
+Hannah: When can publication be stopped in advance?
+Will: Prior restraint needs very high justification. Once confidential information is widely published, continuing restraint is likely disproportionate: a security injunction was necessary before a book appeared abroad, but continuing it afterwards was a breach.
+Hannah: And when can a journalist be made to name a source?
+Will: Only if an overriding requirement in the public interest justifies it, as where medical records leaked and a real risk of further leaks remained.
+Hannah (summing up): Article ten protects even shocking ideas; political speech gets the narrowest margin; prior restraint needs very high justification.
+Will: Yes: shock protected, politics guarded most.
+
+## Block 4: Balancing Articles 8 and 10: misuse of private information
+Hannah: Before misuse of private information, a question on expression. An academic is excluded only because her foreign-policy views offend many, with no disorder risk. Is that justified?
+Will (scenario pause): <think>
+Will: No: offence alone can't justify restricting political speech. Past exclusions tempt, but rested on a disorder risk.
+Hannah: Right: offence alone can't exclude her.
+Will: Now balancing privacy and expression: misuse of private information. Stage one: is there a reasonable expectation of privacy, judged objectively on all the circumstances? If not, the claim fails.
+Hannah: Who has that expectation?
+Will: Someone under pre-charge investigation starts with one. Publicising some aspects doesn't waive the rest. Prior publication doesn't automatically end it: republication can still intrude. Covert photos of a child, taken for publication without parental consent where his parents shield him from publicity, can engage it. The trap: no confidential relationship is needed, only the expectation.
+Hannah: What happens at stage two?
+Will: Neither right has priority; the court weighs them on the specific facts. Five criteria, in two groups: first, debate of general interest, fame and subject, and prior conduct. Then content, form and consequences, and the photos' circumstances and consent.
+Hannah: Which criterion does most of the work?
+Will: General interest. Mere curiosity gives Article ten little weight, so Article eight likely prevails. Purely private sexual encounters, even adulterous ones, carry no public interest without more. A false public image may be corrected, but peripheral details like treatment specifics stay private.
+Hannah: Must the press warn someone before publishing?
+Will: No binding pre-notification duty. Interim restraint needs the claimant to be likely, normally more likely than not, to succeed at trial. Likely harm to the claimant's children can strengthen the case for an injunction.
+Hannah (summing up): No reasonable expectation of privacy, no claim; otherwise neither right has priority, and the facts decide the balance.
+Will: Yes: expectation, then an open balance.
+
+## Block 5: Indirect horizontal effect
+Hannah: Before indirect horizontal effect, a question on privacy. A paper exposes a minister's private holiday charged to public funds, and plans close-ups of her shielded children. What can she restrain?
+Will (scenario pause): <think>
+Will: The children's photos. The whole story tempts, but official misconduct is of general interest; the children's photos add nothing.
+Hannah: Yes: the story runs; the close-ups don't.
+Will: Now indirect horizontal effect. A newspaper can't be sued directly under the Human Rights Act, but the court, itself a public authority, must act compatibly even where no public authority is a party.
+Hannah: Which causes of action are available then?
+Will: There's no general tort of invasion of privacy. Breach of confidence needs three things: quality of confidence, an obligation of confidence, and unauthorised use to the confider's detriment.
+Hannah (summing up): Private parties face no direct Human Rights Act claim; courts apply existing causes of action compatibly with both sides' rights.
+Will: Right: the court's duty shapes the tort.
+
+## Block 6: Articles 4, 9, 11 and 12
+Hannah: Before Articles four, nine, eleven and twelve, a mixed question. A stranger photographs Lena through her bedroom window and a private gossip site publishes them. What should she sue for?
+Will (scenario pause): <think>
+Will: Misuse of private information. A direct Human Rights Act claim tempts, but the site isn't a public authority; misuse needs no confidential relationship, only a reasonable expectation of privacy.
+Hannah: Yes: misuse needs only the expectation.
+Will: Now Articles four, nine, eleven and twelve. Slavery and servitude are absolutely banned; forced labour too, except prison work, military service, emergency service and normal civic obligations.
+Hannah: What about religious belief?
+Will: Holding a belief is absolute. Manifesting it can be restricted only if prescribed by law and necessary for public safety, public order, health or morals, or others' rights; not national security. Being able to practise elsewhere no longer means no interference; it's weighed in proportionality.
+Hannah: What do assembly and marriage add?
+Will: Assembly and association, including trade unions, are protected, but only peaceful assemblies; someone who stays peaceful keeps protection despite others' violence. The state must take reasonable steps to protect peaceful protestors, and may restrict the armed forces, police or state administration. Men and women of marriageable age may marry and found a family, under national laws.
+Hannah (summing up): Slavery, servitude and belief itself are absolute; manifesting belief may be restricted only as prescribed by law and necessary for listed aims.
+Will: Yes: absolute cores, qualified practice.
+
+## Block 7: Article 14: discrimination
+Hannah: Before discrimination under Article fourteen, a question on religion. A teacher's religious symbol is banned solely for national security. Can that justify it?
+Will (scenario pause): <think>
+Will: No: national security isn't on Article nine's list, though it tempts because privacy and expression list it.
+Hannah: Right: Article nine's own list decides.
+Will: Now Article fourteen: discrimination. The facts must fall within another right's ambit, though that right needn't be breached. Then: is there a difference in treatment of people in analogous situations, based on a listed ground or other status, without objective and reasonable justification?
+Hannah: How strict is the review?
+Will: It isn't mechanical. Welfare and socio-economic policy get a wide margin; suspect grounds like sex or race usually need very weighty reasons. Deportation liability for birth outside wedlock was discrimination with Article eight.
+Hannah (summing up): Article fourteen needs another right's ambit, not its breach; treating analogous cases differently on a listed ground or other status then needs objective and reasonable justification.
+Will: Yes: ambit, a difference on a status, then justification.
+
+## Block 8: Protocol rights
+Hannah: Before the Protocol rights, a question on discrimination. A grant Article eight doesn't require goes to married parents, not long-term unmarried ones. Can they rely on the Convention?
+Will (scenario pause): <think>
+Will: Yes: their ties are family life, so the grant is within Article eight's ambit. No Article eight breach is tempting, but none is needed.
+Hannah: Yes: ambit is enough.
+Will: Now the Protocol rights. Possessions, which companies can claim, may be taken only in the public interest under conditions provided by law, normally with compensation. Use may be controlled in the general interest or to secure taxes, with a fair balance.
+Hannah: What about education and elections?
+Will: No one may be denied education, and parents' religious and philosophical convictions are respected, under the UK's reservation, so far as compatible with efficient instruction and avoiding unreasonable public expenditure. Elections must be free, at reasonable intervals, by secret ballot; a blanket ban on prisoners voting breached that. Protocol thirteen abolishes the death penalty in all circumstances.
+Hannah: Does the elections right cover referendums?
+Will: No: only elections to the legislature, not referendums or local elections.
+Hannah (summing up): Deprivation needs the public interest, conditions provided by law, normally compensation, and a fair balance; free elections cover only the legislature.
+Will: Right: balanced takings, legislative elections.
+
+## Block 9: Derogation (Article 15)
+Hannah: Before derogation, a question on elections. Prisoners are barred from a referendum vote. Is the free elections right breached?
+Will (scenario pause): <think>
+Will: No: referendums are outside it. The prisoner voting breach tempts, but concerned the legislature.
+Hannah: Yes: no legislature, no right.
+Will: Finally, derogation under Article fifteen: allowed in war or other public emergency threatening the life of the nation, only as strictly required by the situation, and consistently with other international-law obligations.
+Hannah: Which rights are beyond derogation?
+Will: Four: Article two, except deaths from lawful acts of war; Article three; Article four's ban on slavery and servitude; and Article seven.
+Hannah (summing up): Derogation needs war or a public emergency threatening the nation's life, only as strictly required and consistently with other international-law obligations, never touching non-derogable rights.
+Will: Yes: emergency, strict necessity, international law, fixed limits.
+
+## Recap
+Hannah: Last, on derogation. In an emergency, the UK allows indefinite detention of foreign nationals only. Is that lawful?
+Will (scenario pause): <think>
+Will: No: it was disproportionate and discriminatory. The emergency tempts, but doesn't excuse that.
+Hannah: Right: targeting only foreigners failed.
+Will: Now, quick-fire summaries.
+Hannah: What's the summary for justifying interference?
+Will (quick-fire pause): <think>
+Will: Interference needs a lawful basis, an aim on the Article's own list, and a pressing social need met proportionately.
+Hannah: What's the summary for Article eight?
+Will (quick-fire pause): <think>
+Will: Powers without safeguards against arbitrary use aren't in accordance with law; blanket, indiscriminate retention of data on the unconvicted is disproportionate.
+Hannah: What's the summary for freedom of expression?
+Will (quick-fire pause): <think>
+Will: Article ten protects even shocking ideas; political speech gets the narrowest margin; prior restraint needs very high justification.
+Hannah: What's the summary for misuse of private information?
+Will (quick-fire pause): <think>
+Will: No reasonable expectation of privacy, no claim; otherwise neither right has priority, and the facts decide the balance.
+Hannah: What's the summary for indirect horizontal effect?
+Will (quick-fire pause): <think>
+Will: Private parties face no direct Human Rights Act claim; courts apply existing causes of action compatibly with both sides' rights.
+Hannah: What's the summary for slavery, religion, assembly and marriage?
+Will (quick-fire pause): <think>
+Will: Slavery, servitude and belief itself are absolute; manifesting belief may be restricted only as prescribed by law and necessary for listed aims.
+Hannah: What's the summary for discrimination?
+Will (quick-fire pause): <think>
+Will: Article fourteen needs another right's ambit, not its breach; treating analogous cases differently on a listed ground or other status then needs objective and reasonable justification.
+Hannah: What's the summary for the Protocol rights?
+Will (quick-fire pause): <think>
+Will: Deprivation needs the public interest, conditions provided by law, normally compensation, and a fair balance; free elections cover only the legislature.
+Hannah: What's the summary for derogation?
+Will (quick-fire pause): <think>
+Will: Derogation needs war or a public emergency threatening the nation's life, only as strictly required and consistently with other international-law obligations, never touching non-derogable rights.
+Hannah: In one sentence, what decides most of this workshop's questions?
+Will: Most questions turn on justification: a lawful basis, a listed aim, and necessity and proportionality, with a wide margin on moral and resource issues, but a narrow one on political speech.

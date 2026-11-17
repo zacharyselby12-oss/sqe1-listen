@@ -1,0 +1,143 @@
+---
+id: eth-ws06-rev-v1
+unit: u-bpp-ETH-06
+guide_hash: 3ae984b7b5
+made: 2026-11-17T12:43:57+00:00
+kind: revision
+title: ETH WS06 · Revision · 17 min
+map:
+- Referrals, introductions and fee sharing
+- Referral fees in personal injury claims
+- Separate businesses
+- Practising outside an authorised body
+- Other business requirements
+recap:
+- Disclose any referral interest at the outset; but disclosure can't save a referral payment for a client who is the subject of criminal proceedings, or cure an own interest conflict.
+- In personal injury and death claims, statute bans referral fees whatever you disclose, and a payment appearing to be one is treated as one unless you can show it wasn't.
+- A separate business isn't authorised by the SRA or another approved regulator, so its work has no SRA protections, and referring or dividing work needs the client's informed consent.
+- In an unauthorised business a solicitor may give the public unreserved services but not reserved ones, which need a permitted route; an in-house solicitor may do them for the employer.
+- Don't be a manager, employee, member or interest holder of a business whose name includes 'solicitors', or which describes its work like a solicitors' firm, unless it's an SRA-authorised body.
+summary: Disclose referral interests at the outset, get informed consent for separate businesses; but neither disclosure nor consent saves referral payments for clients facing criminal proceedings, a personal injury or death claim referral fee, or an own interest conflict.
+invented:
+- Kestrel Solicitors
+guide_only: []
+---
+## Map
+Will: Business requirements. The big question: when a solicitor's work touches another business, what must the client be told, and what is banned whatever the client is told? There are five areas. First, referrals, introductions and fee sharing. Second, referral fees in personal injury claims. Third, separate businesses.
+Hannah: And what are the last two areas?
+Will: Practising outside an authorised body, and then a short set of other business requirements.
+Hannah: First, a warm-up from client money. A firm sends completion money to a fraudster because nobody verified the changed bank details. What must the firm do about the missing money, and when?
+Will (scenario pause): <think>
+Will: It must correct the breach promptly on discovery, and immediately pay the money back in or replace it, from the firm's own money if need be. The tempting answer is to wait until the money is recovered, but the replacement must be immediate.
+Hannah: Yes: money improperly withdrawn from client account goes back at once, out of the firm's own pocket where it has to.
+
+## Block 1: Referrals, introductions and fee sharing
+Will: Now referrals, introductions and fee sharing: what must a referred client be told, and when is a referral payment banned?
+Hannah: When I refer a client to someone else, what do I have to disclose?
+Will: If you refer a client to someone else, or take on a client introduced by a third party, the client must be told of any financial or other interest in it. That means any interest that you, your business or your employer has in the referral, or that the introducer has in introducing the client to you.
+Hannah: Does "other interest" reach arrangements where no money changes hands?
+Will: It does. "Other interest" covers non-cash benefits, so a reciprocal referral arrangement, where we send you work and you send us work, must be disclosed even though no cash is paid.
+Hannah: And when does the client have to be told?
+Will: At the outset, before the client commits, and normally in the client care information, so that the client can make an informed decision about using the referred business. That goes for referral and fee-sharing disclosures alike.
+Hannah: And what are the rules when a firm shares its fees with a third party?
+Will: There are two rules. Where you share fees with a third party, clients must be told of any fee-sharing arrangement that is relevant to their matter. And any fee-sharing agreement must be in writing.
+Hannah: So where does telling the client stop working?
+Will: With clients who are the subject of criminal proceedings. For those clients you must not receive payments relating to a referral, or make payments to an introducer, and disclosure and consent do not make it acceptable. So paying an introducer for a client who is being prosecuted is a breach, however openly it's done.
+Hannah: Does that ban cover every legal aid client as well?
+Will: It doesn't: the ban does not extend to publicly funded, legal aid clients as such.
+Hannah: What about the way an introducer found the client in the first place?
+Will: You must ensure that a client referred by an introducer was not obtained in a way that would breach the SRA's rules if the introducer were SRA-regulated, for example by cold calling or approaching people in person. And you must not take on clients obtained that way.
+Hannah: Can an introducer attach strings to the work it sends?
+Will: Not on your advice. Referral arrangements must not compromise your independence or the client's best interests. So you recommend a third party only because it suits the client, and you don't accept introducer terms that restrict your advice, for example a term not to advise on claims against the introducer.
+Hannah: And is the trap here treating disclosure as the cure for a conflict?
+Will: Yes, that's the pair not to confuse. Disclosure under the referral rules does not cure an own interest conflict. Where your interest in a referral, say a large commission or owning the business you recommend, creates a significant risk that your advice will not be in the client's best interests, you must not act, even with consent. So ask whether the interest creates that significant risk: without it you disclose, and with it you can't act at all.
+Hannah (summing up): Disclose any referral interest at the outset; but disclosure can't save a referral payment for a client who is the subject of criminal proceedings, or cure an own interest conflict.
+Will: Yes: disclosure comes at the start, and it fixes neither of those two.
+
+## Block 2: Referral fees in personal injury claims
+Hannah: Before referral fees in personal injury claims, a question on referrals. A firm pays an introducer for sending it a client who is being prosecuted for theft, and the client knows and agrees. Is that payment allowed?
+Will (scenario pause): <think>
+Will: It isn't allowed. The client is the subject of criminal proceedings, so the firm must not pay an introducer for that client. The tempting answer is that the client's agreement makes it fine, but disclosure and consent don't make it acceptable.
+Hannah: Yes: the prosecution is what bans the payment, and the client's agreement changes nothing.
+Will: Now referral fees in personal injury claims. Can a firm pay or receive one? It can't, because here the ban comes from statute.
+Hannah: So what exactly does the statute catch?
+Will: In personal injury and death claims, paying or receiving a referral fee is banned by statute, so disclosing it under the Code does not make it lawful. Paying a genuine fee for services such as advertising is not caught, but paying for the referral itself is.
+Hannah: And who has to prove which side of that line a payment falls on?
+Will: You do. If a payment you make or receive appears to be a referral fee, it is treated as one unless you show it was not. So the burden is on you to prove that a payment to or from an introducer was for something else, for example genuine marketing services.
+Hannah: How do I keep this apart from ordinary fee sharing?
+Will: By asking whether the payment is for referring a personal injury or death claim. Ordinary fee sharing needs the client told of the relevant arrangement, and a written agreement. For a personal injury or death referral, disclosure and a written agreement cannot make the payment lawful.
+Hannah (summing up): In personal injury and death claims, statute bans referral fees whatever you disclose, and a payment appearing to be one is treated as one unless you can show it wasn't.
+Will: Yes: the statute beats any disclosure, and the burden of showing a payment was for something else sits on you.
+
+## Block 3: Separate businesses
+Hannah: Before separate businesses, a question on personal injury. A firm with personal injury clients pays a claims company sums it calls marketing fees, and they look like referral fees. Who has to prove what those payments were for?
+Will (scenario pause): <think>
+Will: The firm does. Because the payments look like referral fees, they count as referral fees unless the firm shows they were not. The tempting answer is that the regulator must prove it, but the burden sits on the firm.
+Hannah: Yes: the firm carries the burden of showing the money was for genuine marketing services.
+Will: Now separate businesses, and first the definition, which has four possible links. A separate business means a business that you or your firm own, manage, work for or are connected with, that is not authorised by the SRA or another approved regulator. So its work is not SRA-regulated.
+Hannah: Why does it matter to the client that the work isn't SRA-regulated?
+Will: Because work done by a separate business carries none of the SRA protections. There are three: no SRA Compensation Fund, no SRA minimum-terms indemnity insurance, and no SRA client money rules. That is why informed consent and a clear explanation are required before referring or dividing work.
+Hannah: So when may I send a client to a separate business?
+Will: Only where the client has given informed consent. That covers referring, recommending or introducing a client to a separate business, and it covers dividing a client's matter between you and a separate business. So a firm that hands the will-writing part of a matter to an unauthorised company it owns needs that client's informed consent first.
+Hannah: And how must the business be described to the client?
+Will: Accurately. You must not represent a separate business, or any business not authorised by the SRA, as SRA-regulated. And you must make clear which services are regulated and which are not.
+Hannah (summing up): A separate business isn't authorised by the SRA or another approved regulator, so its work has no SRA protections, and referring or dividing work needs the client's informed consent.
+Will: Yes: the missing protections are the reason, and informed consent is what the referral or the divided matter needs.
+
+## Block 4: Practising outside an authorised body
+Hannah: Before practising outside an authorised body, a question that mixes referrals with separate businesses. A solicitor owns a will-writing company that no regulator has authorised, and wants to recommend it to a client. What does she need from the client first?
+Will (scenario pause): <think>
+Will: She needs the client's informed consent, because the company is a separate business. The tempting answer is that telling the client about her financial interest is enough. That disclosure is needed on any referral, but a separate business needs informed consent as well.
+Hannah: Yes: disclosing the interest is one duty, and informed consent for the separate business is a second.
+Will: Now practising outside an authorised body: when may a solicitor carry on reserved legal activities for the public outside one? Start with what is allowed: a solicitor may work in a business not authorised by the SRA and give unreserved legal services to the public, for example employment advice or will-writing. But the solicitor must not carry on reserved legal activities for the public there.
+Hannah: Which activities count as reserved?
+Will: There are six. The first three are rights of audience, conduct of litigation, and reserved instrument activities such as conveyancing.
+Hannah: And what are the other three?
+Will: Probate activities, notarial activities and the administration of oaths.
+Hannah: So how can reserved work reach the public?
+Will: Only through three routes. One, through an authorised body. Two, as a freelance solicitor practising on their own account within the SRA's conditions. Three, in a non-commercial body such as a law centre or charity, which must then have indemnity insurance.
+Hannah: Where does an in-house solicitor fit into that?
+Will: An in-house solicitor may carry on reserved legal activities for their employer. So the contrast turns on who the work is for. A solicitor employed in-house by a retailer may issue court proceedings to recover a debt owed to the retailer. A solicitor in a legal services business not authorised by the SRA must not issue proceedings for one of its customers, because that is conducting litigation for the public there.
+Hannah (summing up): In an unauthorised business a solicitor may give the public unreserved services but not reserved ones, which need a permitted route; an in-house solicitor may do them for the employer.
+Will: Yes: unreserved work is open to the public there, reserved work has to go by one of the routes, and in-house work is for the employer.
+
+## Block 5: Other business requirements
+Hannah: Before the other business requirements, a question on working outside an authorised body. A solicitor works for a will-writing company the SRA hasn't authorised, and a customer asks her to do the conveyancing on a house sale. May she do it there?
+Will (scenario pause): <think>
+Will: She must not. Conveyancing is a reserved instrument activity, and she would be carrying it on for the public in a business not authorised by the SRA. The tempting answer is that a solicitor who may write the customer's will may do the conveyancing too, but will-writing is unreserved and conveyancing is reserved.
+Hannah: Yes: she may write wills for customers there, and she may not do their conveyancing.
+Will: Now the other business requirements. There are three rules, each with its own trigger.
+Hannah: Take business names first. What's the rule?
+Will: It bites on four roles. You must not be a manager, employee, member or interest holder of a business whose name includes the word "solicitors", unless it is an SRA-authorised body. The same ban, with the same exception, covers a business which describes its work in a way suggesting it is a solicitors' firm. So an employee is caught, not just the owners.
+Hannah: And who has to send the SRA an annual return?
+Will: A solicitor holding a practising certificate must complete and deliver to the SRA an annual return in the prescribed form. So must an REL, an RFL or an RSL.
+Hannah: Then the non-commercial bodies. What does a solicitor in a law centre have to make sure of?
+Will: If a solicitor or REL carries on reserved legal activities for the public or a section of the public in a non-commercial body, they must ensure that the body takes out and maintains indemnity insurance. A charity or a law centre is an example.
+Hannah: Is any insurance enough, or is there a standard the cover must meet?
+Will: There is a standard. It must give adequate and appropriate cover for the services they provide or have provided, whether or not those services are reserved legal activities. And that takes into account any alternative arrangements the body or its clients may make.
+Hannah (summing up): Don't be a manager, employee, member or interest holder of a business whose name includes 'solicitors', or which describes its work like a solicitors' firm, unless it's an SRA-authorised body.
+Will: Yes: the name or the description triggers the ban for all four roles, and SRA authorisation is what lifts it.
+
+## Recap
+Hannah: A last question, on business names. A solicitor is offered a job as an employee of Kestrel Solicitors, a business that isn't authorised by the SRA. May he take the job?
+Will (scenario pause): <think>
+Will: He may not. The name includes the word "solicitors" and the business isn't an SRA-authorised body, so he must not be an employee of it. The tempting answer is that the rule only catches managers and owners, but it catches employees, members and interest holders too.
+Hannah: Yes: an employee is caught just as a manager is, because the business isn't SRA-authorised.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for referrals, introductions and fee sharing?
+Will (quick-fire pause): <think>
+Will: Disclose any referral interest at the outset; but disclosure can't save a referral payment for a client who is the subject of criminal proceedings, or cure an own interest conflict.
+Hannah: What's the summary for referral fees in personal injury claims?
+Will (quick-fire pause): <think>
+Will: In personal injury and death claims, statute bans referral fees whatever you disclose, and a payment appearing to be one is treated as one unless you can show it wasn't.
+Hannah: What's the summary for separate businesses?
+Will (quick-fire pause): <think>
+Will: A separate business isn't authorised by the SRA or another approved regulator, so its work has no SRA protections, and referring or dividing work needs the client's informed consent.
+Hannah: What's the summary for practising outside an authorised body?
+Will (quick-fire pause): <think>
+Will: In an unauthorised business a solicitor may give the public unreserved services but not reserved ones, which need a permitted route; an in-house solicitor may do them for the employer.
+Hannah: What's the summary for the other business requirements?
+Will (quick-fire pause): <think>
+Will: Don't be a manager, employee, member or interest holder of a business whose name includes 'solicitors', or which describes its work like a solicitors' firm, unless it's an SRA-authorised body.
+Hannah: And what is the whole workshop in one sentence?
+Will: Disclose referral interests at the outset, get informed consent for separate businesses; but neither disclosure nor consent saves referral payments for clients facing criminal proceedings, a personal injury or death claim referral fee, or an own interest conflict.
