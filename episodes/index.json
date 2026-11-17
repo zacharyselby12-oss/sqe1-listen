@@ -5164,7 +5164,7 @@
       ],
       "summary": "Officials need legal authority to interfere with person or property, but a clear Act prevails, so courts protect the rule of law by interpretation, reading ouster clauses restrictively while enforcing time-limited ones.",
       "madeAt": "2026-11-17T21:42:46+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers its 18 items); known-error scan 0 hits; opus x2 (accuracy, coverage): pass, no fixes, so no changed lines to verify",
@@ -5176,7 +5176,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9476348,
+      "seconds": 1184,
+      "words": 2669,
+      "renderedHash": "30189d64a0a3",
+      "renderedAt": "2026-11-17T21:44:01+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws07-rev-v1-4a9510b0.mp3",
+      "siteAudio": "audio/public1-ws07-rev-v1-4a9510b0.mp3",
+      "pubDate": "2026-11-17T21:44:01+00:00"
     }
   ],
   "replays": [
