@@ -4919,7 +4919,7 @@
       ],
       "summary": "Place the court and ask who may sit or speak in it; then ask whether the earlier decision is ratio from a court that binds this one.",
       "madeAt": "2026-11-17T17:43:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 70 of 70 items covered, about 24 min); known-error scan 0 hits; opus x2 (accuracy and line-by-line: 5 distortion fixes applied via fixflow, copies synced); code checks and known-error scan again ok; opus verify of changed lines pass",
@@ -4939,7 +4939,16 @@
         "b11",
         "b12"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12423796,
+      "seconds": 1553,
+      "words": 3412,
+      "renderedHash": "1abc97747506",
+      "renderedAt": "2026-11-17T17:44:53+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws01-rev-v1-f609a17e.mp3",
+      "siteAudio": "audio/public1-ws01-rev-v1-f609a17e.mp3",
+      "pubDate": "2026-11-17T17:44:53+00:00"
     },
     {
       "id": "public1-ws04-rev-v1",
@@ -4959,7 +4968,7 @@
       ],
       "summary": "Who is most likely to command Commons confidence decides who becomes Prime Minister, an agreement to differ decides whether a minister may publicly dissent without resigning, and officials may act in a minister's name unless the statute requires the minister personally, expressly or by implication.",
       "madeAt": "2026-11-17T17:43:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 8 of 8 items covered, about 11 min, under the 12-15 aim: a short source); known-error scan: 0 hits (366 known); opus x2 (accuracy and line-by-line): 6 fixes applied via fixflow (scenario conditions and one-liner qualifiers), copies synced; code checks and known-error scan again ok; opus verify of changed lines pass",
@@ -4969,7 +4978,16 @@
         "b1",
         "b2"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 5547532,
+      "seconds": 693,
+      "words": 1697,
+      "renderedHash": "46058b666271",
+      "renderedAt": "2026-11-17T17:44:53+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws04-rev-v1-daa6f10c.mp3",
+      "siteAudio": "audio/public1-ws04-rev-v1-daa6f10c.mp3",
+      "pubDate": "2026-11-17T17:44:53+00:00"
     },
     {
       "id": "public1-ws06-rev-v1",
@@ -4997,7 +5015,7 @@
       ],
       "summary": "A court can't override an Act of Parliament, and Westminster can still legislate on devolved matters, but a Senedd provision outside competence is not law, and a court can so decide.",
       "madeAt": "2026-11-17T17:43:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers its part's 46 items); known-error scan 0 hits (1 match cleared by an Opus ke-triage); opus x2 (accuracy, coverage), fixflow, changed-lines verify, 1 targeted round with a fresh verify: pass",
@@ -5011,7 +5029,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11395854,
+      "seconds": 1424,
+      "words": 3345,
+      "renderedHash": "593d7ec57396",
+      "renderedAt": "2026-11-17T17:44:53+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws06-rev-v1-92c098b4.mp3",
+      "siteAudio": "audio/public1-ws06-rev-v1-92c098b4.mp3",
+      "pubDate": "2026-11-17T17:44:53+00:00"
     },
     {
       "id": "public1-ws06-rev-v1-p2",
@@ -5035,7 +5062,7 @@
       ],
       "summary": "Judicial review asks whether a public body's decision was lawfully reached, never whether it was right, and even a successful claimant gets a remedy only in the court's discretion.",
       "madeAt": "2026-11-17T17:43:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers its part's 51 items); known-error scan 0 hits; opus x2 (accuracy, coverage), fixflow, changed-lines verify, 1 targeted round with a fresh verify: pass",
@@ -5047,7 +5074,16 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8112784,
+      "seconds": 1014,
+      "words": 2463,
+      "renderedHash": "56351720670c",
+      "renderedAt": "2026-11-17T17:44:53+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws06-rev-v1-p2-35c9584e.mp3",
+      "siteAudio": "audio/public1-ws06-rev-v1-p2-35c9584e.mp3",
+      "pubDate": "2026-11-17T17:44:53+00:00"
     },
     {
       "id": "eth-ws07-rev-v1",
@@ -5079,7 +5115,7 @@
       ],
       "summary": "Where your duties to two or more current or intended clients in the same or a related matter conflict, or significantly risk conflicting, you can't act unless an exception applies and all its conditions are met.",
       "madeAt": "2026-11-17T17:43:51+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 58/58 items covered); known-error scan 0 hits (2 phrase hits cleared by ke-triage, Opus); episode-check + episode-lines-check (Opus): 2 distortions, 2 problems and 1 omission fixed; summary trimmed (script-revise); episode-verify of changed lines: 1 finding, then 2 targeted rounds (script-revise + fresh episode-verify): pass",
@@ -5095,7 +5131,16 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11648683,
+      "seconds": 1456,
+      "words": 3534,
+      "renderedHash": "1f0f551a8f69",
+      "renderedAt": "2026-11-17T17:44:53+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws07-rev-v1-00da85ef.mp3",
+      "siteAudio": "audio/eth-ws07-rev-v1-00da85ef.mp3",
+      "pubDate": "2026-11-17T17:44:53+00:00"
     }
   ],
   "replays": [
