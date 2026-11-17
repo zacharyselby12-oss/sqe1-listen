@@ -1,0 +1,192 @@
+---
+id: public1-ws06-rev-v1
+unit: u-bpp-Public1-06
+guide_hash: 63b3f35775
+made: 2026-11-17T17:43:51+00:00
+kind: revision
+part: 1 of 2
+blocks: 1-6
+title: Public1 WS06 (part 1 of 2) · Revision · 22 min
+map:
+- Separation of powers
+- Judicial independence, the Lord Chancellor and the Law Officers
+- The judicial function
+- Devolution: status and institutions
+- Senedd legislative competence
+- Law in Wales and England
+recap:
+- The separation is only partial: sentencing belongs to judges, not ministers, and either House can annul a negative-procedure instrument within forty days but can't amend it.
+- Ministers must uphold judicial independence and mustn't seek to influence particular decisions through special access; a senior judge is removed only on an address of both Houses.
+- Judges review public bodies' decisions for lawfulness, not merits, and can quash them, but can't override or invalidate an Act of Parliament; a declaration of incompatibility leaves it valid.
+- Devolution delegates power without transferring sovereignty: Westminster can still legislate on devolved matters, and the Sewel convention and the referendum commitment bind it only politically.
+- Outside competence means not law. Whether a Senedd provision relates to a reserved matter turns on its purpose, having regard among other things to its effect.
+- Check where a provision applies, not just where it extends: an England-only provision doesn't govern facts in Wales, and a Senedd Act provision doesn't govern facts in England.
+summary: A court can't override an Act of Parliament, and Westminster can still legislate on devolved matters, but a Senedd provision outside competence is not law, and a court can so decide.
+invented:
+- the unnamed people in the questions (an MP, a Home Secretary)
+guide_only: []
+---
+## Map
+Will: The big question: who holds which power in the UK, and what can the courts do when a body oversteps? This is part one of two, with six areas in two groups.
+Hannah: Which areas make up the first group?
+Will: The separation of powers: the separation itself, then judicial independence with the Lord Chancellor and the Law Officers, then the judicial function.
+Hannah: And what comes after that?
+Will: Devolution: its status and institutions, Senedd legislative competence, then law in Wales and England. Part two takes the third group, judicial review.
+Hannah: First, a warm-up from Parliament. An MP charged over false expenses claims says parliamentary privilege protects him. Is he right?
+Will (scenario pause): <think>
+Will: No: submitting expenses claims isn't a proceeding in Parliament, so he can be prosecuted. The tempting answer is that MPs are immune from prosecution, but privilege covers only proceedings in Parliament.
+Hannah: Right: expenses claims aren't proceedings, so privilege doesn't reach them.
+
+## Block 1: Separation of powers
+Hannah: First, the separation of powers. How far does the UK keep law-making, government and judging apart?
+Will: Only partly. Legislative, executive and judicial functions should be held by different bodies, to prevent abuse. But the UK has only a partial separation, with checks and balances: for example, ministers sit in Parliament, and the executive makes delegated legislation.
+Hannah: Is there any limit on ministers and judges sitting in Parliament?
+Will: Yes. No more than ninety-five ministers may sit and vote in the Commons. And judges, civil servants, police and members of the armed forces are disqualified from the Commons.
+Hannah: What happens when a judge is elected anyway?
+Will: The election is void: holders of listed judicial offices are disqualified from the Commons, and that's statute, not convention. So full-time judges are disqualified from membership of the Commons, and Supreme Court justices may not sit or vote in the House of Lords while in office. The Supreme Court is separate from Parliament.
+Hannah: Now sentencing. Who sets the minimum term for a mandatory life sentence?
+Will: The trial judge, in open court, not the Home Secretary: this one decides questions. Sentencing is a judicial function, so a minister setting minimum terms for life prisoners was incompatible with Article six. And the executive cannot override a judicial decision merely because it disagrees: judges interpret, and Parliament legislates.
+Hannah: And how does Parliament control the executive's delegated legislation?
+Will: Secondary legislation must stay within its parent Act. Under the negative procedure, the most common, the instrument becomes law without a debate. Either House can annul it within forty days. But neither can amend it.
+Hannah (summing up): The separation is only partial: sentencing belongs to judges, not ministers, and either House can annul a negative-procedure instrument within forty days but can't amend it.
+Will: Yes: a partial separation, judges do the sentencing, and a negative instrument is annulled whole or left alone.
+
+## Block 2: Judicial independence, the Lord Chancellor and the Law Officers
+Hannah: Before judicial independence, a question on the separation of powers. A Home Secretary wants to fix a mandatory life prisoner's minimum term himself. Can he?
+Will (scenario pause): <think>
+Will: No: sentencing is a judicial function, so the trial judge sets the term in open court. The tempting answer is that a minister can take a judicial role, but that was incompatible with Article six.
+Hannah: Right: the minimum term is the trial judge's to set.
+Will: Now judicial independence, starting with the Law Officers. The Attorney General is the UK Government's chief legal adviser, and the Solicitor General is the other Law Officer for England and Wales.
+Hannah: And what is the Lord Chancellor's position now?
+Will: He's no longer a judge, head of the judiciary or Speaker of the House of Lords. The Lord Chief Justice is President of the Courts and Head of the Judiciary of England and Wales, and the Lord Speaker presides over the Lords. The Lord Chancellor is a Cabinet minister, by convention also Secretary of State for Justice. He's recommended only if he appears to the Prime Minister to be qualified by experience, which need not be as a lawyer. And he keeps the duty to ensure an efficient and effective courts system.
+Hannah: What does he owe the judges?
+Will: This is the deciding rule. The Lord Chancellor, other ministers and all with responsibility for the judiciary or the administration of justice must uphold its continued independence. Ministers must not seek to influence particular judicial decisions through special access to the judiciary. And the Lord Chancellor must have regard to the need to defend that independence. So closing underused courts is his job, but writing to judges to influence a named case is not.
+Hannah: How are judges chosen?
+Will: On merit, whether by the appointments commission, a selection panel or, for the Supreme Court, a selection commission. And the Supreme Court took over the Lords' appellate jurisdiction.
+Hannah: How secure is a judge's job?
+Will: It depends on the judge. High Court and Court of Appeal judges hold office during good behaviour, and can be removed only by the King on an address of both Houses of Parliament. Supreme Court justices also hold office during good behaviour, and may be removed on the address of both Houses. But circuit and district judges can be removed by the Lord Chancellor for incapacity or misbehaviour, with the agreement of the Lord Chief Justice.
+Hannah: And what about pay and retirement?
+Will: Senior judges' salaries are paid from the Consolidated Fund and cannot be reduced. The mandatory retirement age is seventy-five. That applies to judges, including magistrates.
+Hannah: Can a judge be sued over a decision?
+Will: No, and it decides questions. A judge cannot be sued for anything said or done in the exercise of judicial functions. For judges of the High Court and above, the immunity applies even if the judge acted wrongly or maliciously, so long as they were acting as a judge.
+Hannah: Is it the same for magistrates?
+Will: Not quite. Magistrates and other lower-court judges are immune for acts within their jurisdiction, and for acts outside it unless bad faith is proved. Either way, the remedy for a wrong decision is an appeal or judicial review, not a damages claim against the judge.
+Hannah (summing up): Ministers must uphold judicial independence and mustn't seek to influence particular decisions through special access; a senior judge is removed only on an address of both Houses.
+Will: Yes: no using special access to sway a particular case, and the address of both Houses protects the senior judges.
+
+## Block 3: The judicial function
+Hannah: Before the judicial function, a question on judicial independence. A circuit judge and a High Court judge both misbehave, and the Lord Chief Justice agrees both should go. Can the Lord Chancellor remove both?
+Will (scenario pause): <think>
+Will: Only the circuit judge, for misbehaviour, with the Lord Chief Justice's agreement. The tempting answer is both, but the High Court judge can be removed only by the King on an address of both Houses.
+Hannah: Right: the Lord Chancellor's power stops at the lower judges.
+Will: Now the judicial function, starting with Acts of Parliament. Judges develop the common law through precedent and interpret legislation, but they cannot override or invalidate an Act. Where an Act's meaning is clear, the court must apply it, even if it considers the result unjust.
+Hannah: What if the Act can't be read compatibly with Convention rights?
+Will: This decides questions. If a compatible reading isn't possible, the court must apply the Act as it stands. The High Court or above may make a declaration of incompatibility, which leaves the Act valid. In contrast, an incompatible Senedd provision is outside competence and not law.
+Hannah: Could a court disapply an Act for clashing with retained EU law?
+Will: Not any more: the supremacy of retained EU law has ended, so a court cannot disapply an Act for inconsistency with it, subject to the Withdrawal Agreement exceptions.
+Hannah: And what can judges do with the executive's decisions?
+Will: In judicial review, in the Administrative Court of the King's Bench Division, judges review the lawfulness of decisions of public bodies, not their merits. They can quash decisions and delegated legislation, but not an Act of Parliament.
+Hannah: What does a solicitor owe the court?
+Will: A solicitor before any court must not mislead or attempt to mislead it; must comply with court orders; must not waste the court's time; and must make only properly arguable submissions. Where the duty to the court and the client's instructions conflict, the duty to the court and the proper administration of justice prevails.
+Hannah (summing up): Judges review public bodies' decisions for lawfulness, not merits, and can quash them, but can't override or invalidate an Act of Parliament; a declaration of incompatibility leaves it valid.
+Will: Yes: a public body's decision can be quashed, but an Act of Parliament can't be overridden or invalidated, even when it's declared incompatible.
+
+## Block 4: Devolution: status and institutions
+Hannah: Before devolution, a question on the judicial function. The High Court finds an Act of Parliament can't be read compatibly with a Convention right. Can it strike the Act down?
+Will (scenario pause): <think>
+Will: No: it must apply the Act as it stands, and may make a declaration of incompatibility, which leaves the Act valid. The tempting answer is that the incompatible Act is not law, but that's the rule for a Senedd provision.
+Hannah: Right: a declaration is the most the court can give.
+Will: Now devolution, and Westminster's place in it. Devolution is a statutory delegation of power, under the devolution statutes for Scotland, Wales and Northern Ireland, not a transfer of sovereignty. So Westminster keeps power to legislate for every part of the UK, including on devolved matters.
+Hannah: Doesn't Westminster need the Senedd's consent?
+Will: Not in law, and questions turn on this. The UK Parliament may make laws for Wales on any subject, devolved or not, and may amend or repeal Senedd Acts. By the Sewel convention, which statute recognises, it will not normally legislate with regard to devolved matters without the Senedd's consent. But the convention is political, and not enforceable by the courts.
+Hannah: Could Westminster abolish the Senedd?
+Will: In law, yes. The Senedd, the Scottish Parliament and their governments are declared a permanent part of the UK's constitutional arrangements, not to be abolished except after a referendum. But that's a political commitment, which does not legally bind a sovereign Parliament.
+Hannah: Now the Welsh institutions. How big is the Senedd?
+Will: From the May twenty twenty-six election, the Senedd has ninety-six Members. Before that it had sixty.
+Hannah: How are those Members elected?
+Will: By closed-list proportional representation, in sixteen constituencies of six Members each.
+Hannah: And how long is a Senedd term?
+Will: Four years. It was five before.
+Hannah: Who makes up the Welsh Government?
+Will: The First Minister, nominated by the Senedd and appointed by the monarch; the Welsh Ministers; the Counsel General; and the Deputy Welsh Ministers. The Welsh Ministers have no power to act incompatibly with Convention rights. And don't confuse two offices: the Counsel General is chief legal adviser to the Welsh Government, while the Attorney General is the UK Government's.
+Hannah: How does Scotland compare?
+Will: The Scottish Parliament also has a reserved powers model, and provisions outside competence are not law. The Secretary of State may block a Bill from Royal Assent on specified grounds. And a Bill on an independence referendum was outside competence, as relating to the Union.
+Hannah: And how is Northern Ireland governed?
+Will: By an Assembly and a power-sharing Executive. The First Minister and deputy First Minister are nominated by the largest parties of the two largest designations, not elected on a cross-community vote. Certain Assembly votes do require cross-community support. And matters are excepted, reserved or, for all others, transferred.
+Hannah: What does "United Kingdom" actually cover?
+Will: Great Britain and Northern Ireland, and Great Britain means England, Scotland and Wales. The Channel Islands and the Isle of Man are not part of the UK, so a UK Act does not extend to them unless it says so.
+Hannah (summing up): Devolution delegates power without transferring sovereignty: Westminster can still legislate on devolved matters, and the Sewel convention and the referendum commitment bind it only politically.
+Will: Yes: a delegation, not a transfer, so the limits on Westminster are political ones.
+
+## Block 5: Senedd legislative competence
+Hannah: Before Senedd legislative competence, a question on devolution's status. Parliament repeals the referendum requirement, then abolishes the Senedd with no referendum. Is the abolition valid in law?
+Will (scenario pause): <think>
+Will: Yes: Parliament remains sovereign, so the referendum lock doesn't legally bind a later Act repealing it. The tempting answer is that the Senedd's permanence is entrenched, but it's a political commitment only.
+Hannah: Right: a sovereign Parliament can repeal the lock itself.
+Will: Now Senedd legislative competence. Wales has had a reserved powers model since the first of April, two thousand and eighteen. Before that, it could legislate only on conferred subjects.
+Hannah: When is a Senedd provision outside competence?
+Will: There are five limits. One: it would form part of the law of a territory other than England and Wales. Two: it applies otherwise than in relation to Wales, subject to limited exceptions.
+Hannah: And what are the other three limits?
+Will: Three: it relates to a reserved matter. Four: it breaches a restriction in Schedule 7B, for example by modifying the Human Rights Act. Five: it's incompatible with Convention rights. A provision caught by any of the five is outside competence, and not law.
+Hannah: What counts as a reserved matter?
+Will: Reserved matters include the constitution, foreign affairs, defence and the single legal jurisdiction of England and Wales: that's courts, judges, and most civil and criminal procedure. They also include policing, immigration, most taxation and employment rights.
+Hannah: And what is devolved?
+Will: Anything not reserved, including health, education, housing and local government; also the environment, agriculture, the Welsh language, and devolved taxes such as land transaction tax.
+Hannah: How does a court decide whether a provision relates to a reserved matter?
+Will: That's the deciding test. It's decided by reference to the provision's purpose, having regard, among other things, to its effect in all the circumstances.
+Hannah: What are the Schedule 7B restrictions?
+Will: The main ones are these. First: the Senedd may not modify the law on reserved matters, except by ancillary provisions with no greater effect on reserved matters than necessary. Second: it may not modify private law: that's contract, tort, property, trusts and the like. The exception is a modification that has a purpose other than changing private law and does not relate to a reserved matter.
+Hannah: And the third and fourth restrictions?
+Will: Third: it may not create or modify listed serious offences, such as homicide, sexual offences and treason. Nor may it modify the general criminal law: criminal responsibility, mental elements and sentences. Fourth: it may not modify protected enactments, including the whole of the Human Rights Act and the UK Internal Market Act.
+Hannah: Inside those limits, how much can the Senedd do?
+Will: Within competence, an Act of the Senedd may make any provision that an Act of Parliament could, including amending or repealing Westminster legislation as it applies in relation to Wales. The Welsh Ministers make Welsh statutory instruments under Senedd Acts or Westminster Acts.
+Hannah: What happens to a provision outside competence?
+Will: It's not law, and a court can so decide, which it can never do to an Act of Parliament. The question can be raised as a devolution issue in any court, with the Supreme Court as the final court. A provision that could be read as outside competence must be read as narrowly as required to be inside it, if possible. And the court may remove or limit the retrospective effect of its decision, or suspend the decision to allow the defect to be corrected.
+Hannah: Can the question be settled before Royal Assent?
+Will: Yes: the Counsel General or the Attorney General can refer a Senedd Bill to the Supreme Court. The window is four weeks, beginning with the day the Bill is passed. It cannot receive Royal Assent meanwhile.
+Hannah: Could a Senedd Act be challenged as irrational?
+Will: No: Acts of devolved legislatures are not reviewable on ordinary judicial review grounds such as irrationality. They can be challenged only for lack of competence, and possibly in extreme rule-of-law cases.
+Hannah (summing up): Outside competence means not law. Whether a Senedd provision relates to a reserved matter turns on its purpose, having regard among other things to its effect.
+Will: Yes: purpose first, with effect in view, and a provision outside competence simply isn't law.
+
+## Block 6: Law in Wales and England
+Hannah: Before law in Wales and England, a question on Senedd competence. The Attorney General decides to refer a Senedd Bill five weeks after it was passed, believing one provision breaches a Convention right. Can he refer it, and is the provision valid?
+Will (scenario pause): <think>
+Will: He can't refer it: the window is four weeks from passing. The tempting answer is that a missed reference makes the provision safe. But an incompatible provision is still not law, and that can be raised in court proceedings after Royal Assent.
+Hannah: Right: the reference is out of time, but the incompatibility can still be raised in court.
+Will: Now law in Wales and England. England and Wales is one jurisdiction, and a Westminster Act can extend to both but apply only in England. So here's the deciding rule: to decide whether a provision governs facts in Wales or England, check its application, not just its extent.
+Hannah: Can you give me an example of that?
+Will: A Westminster provision that applies only in relation to England does not govern, say, a tenancy, school or health body in Wales. And a Senedd Act provision does not govern facts in England.
+Hannah: Why would the law differ between the two?
+Will: Because devolved matters are legislated for separately. For example, residential tenancies in Wales have their own Act; Wales has land transaction tax instead of stamp duty land tax; and Wales has abolished the reasonable punishment defence. So first identify whether the matter is devolved, and where the land, person or activity is.
+Hannah: And what does the UK's internal market legislation do to Welsh rules?
+Will: It applies market access principles, meaning mutual recognition and non-discrimination, to goods and services across the UK. So goods and services that lawfully meet the rules in one part can generally be sold in another. The devolved legislatures cannot modify it, which limits the practical effect of devolved rules on goods from elsewhere in the UK.
+Hannah (summing up): Check where a provision applies, not just where it extends: an England-only provision doesn't govern facts in Wales, and a Senedd Act provision doesn't govern facts in England.
+Will: Yes: application, not extent alone, tells you which law governs.
+
+## Recap
+Hannah: Before the summaries, a last question on law in Wales and England. A Westminster Act extends to England and Wales, but its tenancy provision applies only in relation to England. Does it govern a tenancy in Wales?
+Will (scenario pause): <think>
+Will: No: the provision's application is England only, so the Welsh tenancy falls outside it. The tempting answer is yes, because the Act extends to Wales, but extent isn't application.
+Hannah: Right: you check application, and here that's England alone.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for the separation of powers?
+Will (quick-fire pause): <think>
+Will: The separation is only partial: sentencing belongs to judges, not ministers, and either House can annul a negative-procedure instrument within forty days but can't amend it.
+Hannah: What's the summary for judicial independence?
+Will (quick-fire pause): <think>
+Will: Ministers must uphold judicial independence and mustn't seek to influence particular decisions through special access; a senior judge is removed only on an address of both Houses.
+Hannah: What's the summary for the judicial function?
+Will (quick-fire pause): <think>
+Will: Judges review public bodies' decisions for lawfulness, not merits, and can quash them, but can't override or invalidate an Act of Parliament; a declaration of incompatibility leaves it valid.
+Hannah: What's the summary for devolution's status?
+Will (quick-fire pause): <think>
+Will: Devolution delegates power without transferring sovereignty: Westminster can still legislate on devolved matters, and the Sewel convention and the referendum commitment bind it only politically.
+Hannah: What's the summary for Senedd legislative competence?
+Will (quick-fire pause): <think>
+Will: Outside competence means not law. Whether a Senedd provision relates to a reserved matter turns on its purpose, having regard among other things to its effect.
+Hannah: What's the summary for law in Wales and England?
+Will (quick-fire pause): <think>
+Will: Check where a provision applies, not just where it extends: an England-only provision doesn't govern facts in Wales, and a Senedd Act provision doesn't govern facts in England.
+Hannah: And the whole of this part in one sentence: what decides most of its questions?
+Will: A court can't override an Act of Parliament, and Westminster can still legislate on devolved matters, but a Senedd provision outside competence is not law, and a court can so decide.

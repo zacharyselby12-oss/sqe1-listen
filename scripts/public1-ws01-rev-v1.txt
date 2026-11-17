@@ -1,0 +1,271 @@
+---
+id: public1-ws01-rev-v1
+unit: u-bpp-Public1-01
+guide_hash: c21d99fa4c
+made: 2026-11-17T17:43:51+00:00
+kind: revision
+title: Public1 WS01 · Revision · 24 min
+map:
+- Sources of law: common law and equity
+- Court hierarchy
+- Criminal courts
+- Civil and family courts
+- Tribunals and supervisory jurisdiction
+- Judges, magistrates and juries
+- Rights of audience and conduct of litigation
+- Ratio, obiter and stare decisis
+- Which courts bind
+- Distinguishing, overruling and statute
+- Strasbourg case law and precedent
+- Citing authorities
+recap:
+- Where equity and the common law conflict, equity prevails; common law damages follow as of right once liability is proved, but equitable remedies are discretionary.
+- The Court of Appeal, High Court and Crown Court are the Senior Courts; the Supreme Court is a UK court.
+- Magistrates' custody limit for a single offence is six months if summary and twelve months if either-way.
+- The High Court is open only to claims worth more than £100,000; for personal injury other than clinical negligence, £50,000 or more.
+- Judicial review reaches inferior courts and tribunals, and the Crown Court too, save in matters relating to trial on indictment.
+- In a jury trial the judge decides law and sentence; the jury decides facts and verdict.
+- Only authorised or exempt persons may exercise a right of audience; in the higher courts a solicitor needs the advocacy qualification, save in limited proceedings.
+- Only the ratio binds: the principle the decision needed on its material facts. Obiter dicta only persuade, however senior the court.
+- The Court of Appeal's Civil Division is bound by its own decisions, subject to three exceptions; Crown Court, County Court and magistrates' decisions create no binding precedent.
+- Distinguishing leaves a precedent good law; overruling works retrospectively, though finally decided cases are not reopened; and statute overrides precedent.
+- Strasbourg case law must be taken into account but does not bind; a lower court still follows binding domestic precedent.
+- An advocate must cite every relevant authority likely to affect the outcome materially, even an adverse one.
+summary: Place the court and ask who may sit or speak in it; then ask whether the earlier decision is ratio from a court that binds this one.
+invented:
+- Ben
+- Amy
+- Sam
+guide_only:
+- P:LG-1-02 (the list of sources of law)
+- P:LG-2.2-15 (the tribunal structure)
+- P:LG-2.3-05 (barristers' rights of audience)
+- add:19 (pupillage: the first six months)
+- P:LG-2.2-03 (the Supreme Court's jurisdiction)
+- P:LG-2.2-04 (the Privy Council's place outside the hierarchy)
+- P:LG-2.2-05 (the Court of Appeal's divisions)
+- P:LG-2.2-07 (Divisional Courts)
+- P:LG-2.2-09 (the County Court's make-up and equity jurisdiction)
+- P:LG-2.2-10 (the tracks' full allocation conditions; the main track figures are said)
+- add:8 (small claims: the personal injury limit)
+- add:9 (small claims: the road traffic accident limit)
+- add:10 (small claims: the housing disrepair limit)
+- P:LG-2.2-11 (the Family Court)
+- P:LG-8.9-08 (access to the courts; homed in another workshop)
+- P:LG-2.1-09 (judicial appointments)
+- P:LG-2.1-10 (the list of judicial offices)
+- P:LG-2.1-14 (case management in civil cases)
+- P:LG-2.3-06 (exempt persons)
+- D1.18 (modes of address)
+- P:LG-2.3-11 (acting only where competent)
+- P:LG-3-13 (High Court judges and each other's decisions)
+- P:LG-3-12 (the list of persuasive precedents)
+---
+## Map
+Will: The big question: which court hears what, who may speak in it, and which decisions bind it. Twelve short areas, in three groups. First, sources of law and the courts.
+Hannah: And what are the other two groups?
+Will: Judges, juries and advocates, and then precedent.
+
+## Block 1: Sources of law: common law and equity
+Hannah: Among the sources of law, start with common law and equity. Where they conflict, which one wins?
+Will: Equity prevails. But common law damages are available as of right once liability is proved, whereas the four equitable remedies are discretionary: injunction, specific performance, rescission and rectification. A sale of land is the classic case for specific performance.
+Hannah: What can bar rescission?
+Will: Four things. Affirmation; lapse of time that makes rescission inequitable; the impossibility of substantial restitution; or third-party rights acquired in good faith for value.
+Hannah: And when is rectification available?
+Will: Rectification applies only to written contracts: for a common mistake that fails to record the parties' common intention. For a unilateral mistake, it is available only where the other party knew of it and reliance would be unconscionable.
+Hannah (summing up): Where equity and the common law conflict, equity prevails; common law damages follow as of right once liability is proved, but equitable remedies are discretionary.
+Will: Yes: equity wins a conflict, and as of right against discretionary.
+
+## Block 2: Court hierarchy
+Hannah: Before the court hierarchy, an equity question. Ben agreed to sell Amy a one-off antique painting and, separately, to paint her portrait. He refuses both. Which is Amy likely to get specific performance of?
+Will (scenario pause): <think>
+Will: The sale only: the painting is unique, so damages are inadequate. The tempting answer is both, but equity will not compel a personal service.
+Hannah: Yes: unique goods, but not a personal service.
+Will: Now the court hierarchy, from the top down. The Supreme Court. Then the Court of Appeal, with Civil and Criminal Divisions. Then the High Court, with King's Bench, Chancery and Family Divisions, including Divisional Courts.
+Hannah: And which courts sit below it?
+Will: The Crown Court, then the County Court and Family Court, then the magistrates' courts. The Senior Courts of England and Wales are the Court of Appeal, the High Court and the Crown Court, whereas the Supreme Court is a UK court.
+Hannah: And how is the High Court's work divided?
+Will: It hears higher-value or complex civil claims at first instance, in three divisions. King's Bench takes contract and tort claims, and includes the Administrative Court for judicial review and specialist courts such as the Commercial Court. Chancery takes trusts, land and mortgages. It also takes contested probate, companies, insolvency and intellectual property. The Family Division takes complex family and children cases, inherent jurisdiction and wardship, and non-contentious probate. The High Court also has appellate and supervisory jurisdiction.
+Hannah (summing up): The Court of Appeal, High Court and Crown Court are the Senior Courts; the Supreme Court is a UK court.
+Will: Yes: three Senior Courts, and one UK court above them.
+
+## Block 3: Criminal courts
+Hannah: Before the criminal courts, a question on the hierarchy. Which of these is one of the Senior Courts of England and Wales: the Supreme Court or the Crown Court?
+Will (scenario pause): <think>
+Will: The Crown Court. The tempting answer is the Supreme Court, as the highest, but that is a UK court.
+Hannah: Yes: the Crown Court is a Senior Court.
+Will: Now the criminal courts. All criminal cases start in the magistrates' court. The Crown Court tries indictable-only offences, and either-way offences sent for trial, before a judge and jury. It also sentences defendants committed for sentence by magistrates, and hears appeals from magistrates' courts. Its judges are High Court judges for the most serious cases, Circuit judges and Recorders.
+Hannah: And what stays in the magistrates' court?
+Will: Summary offences, and either-way offences where the court accepts jurisdiction and the defendant does not elect Crown Court trial. Indictable-only offences are sent to the Crown Court after a first appearance. The youth court deals with defendants aged 10 to 17. Magistrates also have limited civil jurisdiction, such as licensing.
+Hannah: How long can magistrates imprison for?
+Will: Up to six months for a single summary offence. Up to twelve months if that single offence is either-way.
+Hannah: And are their fines capped?
+Will: Fines are unlimited for either-way offences and level five summary offences, but levels one to four stay capped.
+Hannah (summing up): Magistrates' custody limit for a single offence is six months if summary and twelve months if either-way.
+Will: Yes: each limit is for a single offence.
+
+## Block 4: Civil and family courts
+Hannah: Before the civil and family courts: on an either-way charge, the magistrates accept jurisdiction, but the adult defendant elects Crown Court trial. Where is she tried?
+Will (scenario pause): <think>
+Will: The Crown Court. The tempting answer is the magistrates' court, but that also needs the defendant not to elect.
+Hannah: Yes: her election sends it up.
+Will: Now the civil and family courts. A claim may be started in the High Court only if its value is more than £100,000. For a personal injury claim, other than clinical negligence, the figure is £50,000 or more. Below these figures, and normally for possession claims, it must be started in the County Court. Most family cases go to the Family Court.
+Hannah: How does a defended claim get its track?
+Will: By value and complexity, across four tracks. The small claims track is generally up to £10,000.
+Hannah: What marks out the fast track?
+Will: Up to £25,000, a trial of no more than one day, and limited expert evidence.
+Hannah: And the intermediate track above it?
+Will: Up to £100,000, a trial of no more than three days, and no more than two experts per party. Over that value, or complex, is the multi-track.
+Hannah (summing up): The High Court is open only to claims worth more than £100,000; for personal injury other than clinical negligence, £50,000 or more.
+Will: Yes: below those figures, the County Court.
+
+## Block 5: Tribunals and supervisory jurisdiction
+Hannah: Before tribunals: a contractor claims £180,000 from a developer, in a dispute over complex technical defects in building works. Where should the claim be issued?
+Will (scenario pause): <think>
+Will: The High Court, in the Technology and Construction Court. The tempting answer is the County Court, but a claim worth over £100,000 opens the High Court, and construction disputes belong there.
+Hannah: Yes: value opens the High Court, and subject picks the court.
+Will: Now tribunals and the supervisory jurisdiction. Tribunals decide specialist disputes, with appeals on points of law. Supervision is for the High Court, by judicial review. Inferior courts and tribunals, meaning the County Court, magistrates' courts and the First-tier Tribunal, are subject to its supervisory jurisdiction. The Crown Court is subject to judicial review too, except in matters relating to trial on indictment.
+Hannah (summing up): Judicial review reaches inferior courts and tribunals, and the Crown Court too, save in matters relating to trial on indictment.
+Will: Yes: trial on indictment is the exception.
+
+## Block 6: Judges, magistrates and juries
+Hannah: Before judges, magistrates and juries: a Crown Court judge makes a ruling during a trial on indictment. Can the High Court judicially review it?
+Will (scenario pause): <think>
+Will: It can't. The tempting answer is yes, because the High Court supervises the Crown Court, but not in matters relating to trial on indictment.
+Hannah: Yes: trial on indictment is outside judicial review.
+Will: Now judges, magistrates and juries. Judges decide disputes by finding facts and applying the law. But in a jury trial the judge decides questions of law, such as admissibility of evidence, directions on the law and submissions of no case to answer, and passes sentence. The jury decides the facts and returns the verdict.
+Hannah: And who is qualified to serve as a juror?
+Will: Jurors must be aged 18 to 75, and registered to vote.
+Hannah: Is there a residence requirement as well?
+Will: Yes: ordinarily resident in the UK, Channel Islands or Isle of Man for at least five years since age 13. Some people are disqualified, including people on bail in criminal proceedings, people with certain past custodial sentences, and people lacking capacity to serve.
+Hannah: When can a Crown Court jury give a majority verdict?
+Will: A Crown Court jury has twelve members. After at least two hours' deliberation, the judge may accept a majority verdict of eleven to one or ten to two.
+Hannah: And with fewer jurors left?
+Will: With eleven jurors, ten to one. With ten jurors, nine to one. But with nine jurors the verdict must be unanimous.
+Hannah: Do civil claims ever get a jury?
+Will: A party is entitled to one, on application, where a charge of fraud against them, malicious prosecution or false imprisonment is in issue. That is unless the trial requires prolonged examination of documents or accounts, or a scientific or local investigation, which cannot conveniently be made with a jury. Any other claim, including defamation, is tried without a jury unless the court in its discretion orders one.
+Hannah (summing up): In a jury trial the judge decides law and sentence; the jury decides facts and verdict.
+Will: Yes: law and sentence, against facts and verdict.
+
+## Block 7: Rights of audience and conduct of litigation
+Hannah: Before rights of audience: a claimant sues a newspaper for libel and applies for a jury. Is she entitled to one?
+Will (scenario pause): <think>
+Will: She isn't. The tempting answer is yes, but defamation is tried without a jury unless the court, in its discretion, orders one.
+Hannah: Yes: for defamation, a jury is discretionary.
+Will: Now rights of audience. A right of audience is the right to appear before and address a court, including calling and examining witnesses. Exercising it is a reserved legal activity, so only an authorised or exempt person may do it. Conducting litigation, meaning issuing proceedings and taking formal steps, is a distinct reserved activity.
+Hannah: Where may a solicitor appear on admission?
+Will: In the magistrates' courts, County Court, Family Court and tribunals. In the Crown Court, High Court, Court of Appeal and Supreme Court, only once they hold a higher courts advocacy qualification: civil, criminal or both. Without it, only limited proceedings are open there.
+Hannah: Which limited proceedings are those?
+Will: In the Crown Court, only appeals and committals for sentence from the magistrates, if they or their firm acted below. In the High Court, hearings in chambers and formal or unopposed proceedings.
+Hannah: Can a lay representative speak at a small claims hearing?
+Will: A lay representative may speak for a party there, but not if the party does not attend, nor at any stage after judgment or on an appeal, unless the court permits.
+Hannah: What does a solicitor owe the court?
+Will: As an advocate, a solicitor must not mislead the court, and must only make properly arguable submissions. They must also draw the court's attention to relevant cases, statutory provisions and procedural irregularities likely to have a material effect on the outcome, even if unfavourable.
+Hannah: And a client who admits guilt but pleads not guilty?
+Will: The advocate may put the prosecution to proof, but must not assert the client's innocence, run a false defence or call evidence they know to be false. They must not mislead the court or permit the client to. And if the client persists in a false defence or false evidence despite advice, the solicitor must cease to act.
+Hannah (summing up): Only authorised or exempt persons may exercise a right of audience; in the higher courts a solicitor needs the advocacy qualification, save in limited proceedings.
+Will: Yes: authorised or exempt, then the higher courts qualification.
+
+## Block 8: Ratio, obiter and stare decisis
+Hannah: Before ratio, obiter and stare decisis: Sam cannot attend his small claims hearing, so he sends his brother, not a lawyer, to put his case. Can the brother address the court?
+Will (scenario pause): <think>
+Will: Only with the court's permission. The tempting answer is yes, but a lay representative's right of audience needs the party to attend.
+Hannah: Yes: no party present, so the court must permit it.
+Will: Now ratio, obiter and stare decisis. Under stare decisis a court must follow the ratio decidendi of earlier decisions of courts above it, and sometimes its own, on the same point of law, unless the material facts are distinguishable. The ratio decidendi is the legal principle necessary for the decision on the material facts, and it is the only binding part of a judgment.
+Hannah: And what weight do obiter dicta carry?
+Will: Obiter dicta are other statements of law in a judgment, for example on hypothetical facts, or on points not necessary to the decision. They are persuasive only, never binding, however senior the court.
+Hannah (summing up): Only the ratio binds: the principle the decision needed on its material facts. Obiter dicta only persuade, however senior the court.
+Will: Yes: what was necessary binds.
+
+## Block 9: Which courts bind
+Hannah: Before which courts bind: the Supreme Court adds a statement of law on hypothetical facts, not necessary to its decision. Is a County Court judge bound by it?
+Will (scenario pause): <think>
+Will: She isn't. The tempting answer is yes, because it is the Supreme Court, but obiter is persuasive only, however senior the court.
+Hannah: Yes: seniority does not turn obiter into ratio.
+Will: Now which courts bind which. The Supreme Court binds all lower courts. The Court of Appeal binds itself, subject to exceptions, and all lower courts. The High Court binds the County Court, magistrates' courts and tribunals below it. The Upper Tribunal binds the First-tier Tribunal, and the Employment Appeal Tribunal binds Employment Tribunals. But decisions of the Crown Court, County Court and magistrates' courts create no binding precedent.
+Hannah: When may the Court of Appeal depart from its own decisions?
+Will: The Civil Division is bound by its own previous decisions, with three exceptions. One: there are two conflicting Court of Appeal decisions, and it must choose one. Two: its earlier decision cannot stand with a later Supreme Court or House of Lords decision. Three: the earlier decision was given per incuriam.
+Hannah: What does per incuriam mean?
+Will: Made in ignorance or forgetfulness of a relevant binding statute or binding authority that would have affected the decision. A decision that is merely wrong or poorly argued is not per incuriam.
+Hannah: And what must a High Court judge follow?
+Will: A High Court judge must follow a Court of Appeal decision even if they think it wrong.
+Hannah: Does a Privy Council decision ever bind an English court?
+Will: Its decisions are persuasive, not binding. But where the Privy Council expressly directs that its decision represents English law, English courts should follow it, the Court of Appeal included. They follow it instead of an earlier inconsistent decision of the Supreme Court, House of Lords or Court of Appeal.
+Hannah (summing up): The Court of Appeal's Civil Division is bound by its own decisions, subject to three exceptions; Crown Court, County Court and magistrates' decisions create no binding precedent.
+Will: Yes: three Civil Division exceptions, and three courts that bind no one.
+
+## Block 10: Distinguishing, overruling and statute
+Hannah: Before distinguishing and overruling: the Court of Appeal's Civil Division thinks an earlier decision of its own misread a legal principle, though that court considered all relevant authorities, and no later or conflicting decision exists. May it depart?
+Will (scenario pause): <think>
+Will: It must follow it. The tempting answer is that a wrong decision can be dropped, but merely wrong is not per incuriam, and no other exception applies.
+Hannah: Yes: merely wrong is not enough.
+Will: Now distinguishing, overruling and statute. By distinguishing, any court may decline to follow an otherwise binding precedent because the material facts of the present case are materially different, and the precedent remains good law. Overruling is a higher court, or the Supreme Court regarding its own decision, deciding, in a later, different case, that the earlier legal rule was wrong. Reversing is an appeal court changing the lower court's decision in the same case.
+Hannah: And does overruling change the law for the past?
+Will: It does: overruling operates retrospectively. The law is treated as always having been as now declared, so it affects earlier transactions, but cases already finally decided between parties are not reopened. English courts have not used prospective overruling, which the House of Lords said would be possible only in exceptional circumstances. And a statute overrides a precedent: courts must then apply the statute.
+Hannah (summing up): Distinguishing leaves a precedent good law; overruling works retrospectively, though finally decided cases are not reopened; and statute overrides precedent.
+Will: Yes: one leaves the precedent standing, the other reaches back.
+
+## Block 11: Strasbourg case law and precedent
+Hannah: Before Strasbourg case law: a company contracted relying on a Court of Appeal ruling. Later, in an unrelated case, the Supreme Court declares that ruling wrong. How is the law treated for that contract?
+Will (scenario pause): <think>
+Will: As always having been as the Supreme Court declared. The tempting answer is that the old ruling still governs, but overruling operates retrospectively.
+Hannah: Yes: the law as now declared reaches the earlier contract.
+Will: Now Strasbourg case law and precedent. A court deciding a question about a Convention right must take into account relevant Strasbourg judgments and decisions, but it is not bound by them. Courts normally follow a clear and constant line of Strasbourg case law, but may depart where it misunderstands or fails to accommodate a fundamental aspect of domestic law. And they should not go further than Strasbourg in expanding rights.
+Hannah: Is the duty the same for decisions of the CJEU?
+Will: It isn't. For CJEU decisions after IP completion day, a court may have regard to them, which is discretionary, not a duty to take them into account.
+Hannah: And what does a lower court do with a binding domestic precedent?
+Will: It must follow it, even if it seems inconsistent with a later Strasbourg ruling, though it may grant permission to appeal.
+Hannah (summing up): Strasbourg case law must be taken into account but does not bind; a lower court still follows binding domestic precedent.
+Will: Yes: taken into account, never binding of itself.
+
+## Block 12: Citing authorities
+Hannah: Before citing authorities, a question mixing two areas. A County Court judge is shown an earlier County Court decision in point, and a clear and constant line of Strasbourg decisions the other way, with no higher domestic authority. Which should she follow?
+Will (scenario pause): <think>
+Will: Normally the Strasbourg line. The tempting answer is the domestic decision, but County Court decisions create no binding precedent, and a clear and constant Strasbourg line is normally followed.
+Hannah: Yes: nothing domestic binds her here.
+Will: Now citing authorities. A solicitor must draw the court's attention to relevant authorities likely to have a material effect on the outcome, including binding decisions against their client that the other side has not cited.
+Hannah (summing up): An advocate must cite every relevant authority likely to affect the outcome materially, even an adverse one.
+Will: Yes: an adverse authority still has to be cited.
+
+## Recap
+Hannah: A last question, on citing authorities. Your opponent has not cited a binding decision against your client. Must you draw the court's attention to it?
+Will (scenario pause): <think>
+Will: You must. The tempting answer is silence, but the duty covers binding decisions against your client that the other side has not cited.
+Hannah: Yes: the adverse decision goes before the court. Now the quick-fire round. What's the summary for sources of law and equity?
+Will (quick-fire pause): <think>
+Will: Where equity and the common law conflict, equity prevails; common law damages follow as of right once liability is proved, but equitable remedies are discretionary.
+Hannah: What's the summary for the court hierarchy?
+Will (quick-fire pause): <think>
+Will: The Court of Appeal, High Court and Crown Court are the Senior Courts; the Supreme Court is a UK court.
+Hannah: What's the summary for the criminal courts?
+Will (quick-fire pause): <think>
+Will: Magistrates' custody limit for a single offence is six months if summary and twelve months if either-way.
+Hannah: What's the summary for the civil and family courts?
+Will (quick-fire pause): <think>
+Will: The High Court is open only to claims worth more than £100,000; for personal injury other than clinical negligence, £50,000 or more.
+Hannah: What's the summary for tribunals and supervision?
+Will (quick-fire pause): <think>
+Will: Judicial review reaches inferior courts and tribunals, and the Crown Court too, save in matters relating to trial on indictment.
+Hannah: What's the summary for judges and juries?
+Will (quick-fire pause): <think>
+Will: In a jury trial the judge decides law and sentence; the jury decides facts and verdict.
+Hannah: What's the summary for rights of audience?
+Will (quick-fire pause): <think>
+Will: Only authorised or exempt persons may exercise a right of audience; in the higher courts a solicitor needs the advocacy qualification, save in limited proceedings.
+Hannah: What's the summary for ratio and obiter?
+Will (quick-fire pause): <think>
+Will: Only the ratio binds: the principle the decision needed on its material facts. Obiter dicta only persuade, however senior the court.
+Hannah: What's the summary for which courts bind?
+Will (quick-fire pause): <think>
+Will: The Court of Appeal's Civil Division is bound by its own decisions, subject to three exceptions; Crown Court, County Court and magistrates' decisions create no binding precedent.
+Hannah: What's the summary for distinguishing and overruling?
+Will (quick-fire pause): <think>
+Will: Distinguishing leaves a precedent good law; overruling works retrospectively, though finally decided cases are not reopened; and statute overrides precedent.
+Hannah: What's the summary for Strasbourg case law?
+Will (quick-fire pause): <think>
+Will: Strasbourg case law must be taken into account but does not bind; a lower court still follows binding domestic precedent.
+Hannah: What's the summary for citing authorities?
+Will (quick-fire pause): <think>
+Will: An advocate must cite every relevant authority likely to affect the outcome materially, even an adverse one.
+Hannah: And what is the whole workshop in one sentence?
+Will: Place the court and ask who may sit or speak in it; then ask whether the earlier decision is ratio from a court that binds this one.

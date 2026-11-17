@@ -1,0 +1,212 @@
+---
+id: eth-ws07-rev-v1
+unit: u-bpp-ETH-07
+guide_hash: ee2cdf4937
+made: 2026-11-17T17:43:51+00:00
+kind: revision
+title: ETH WS07 · Revision · 24 min
+map:
+- Own interest conflicts
+- Client conflicts
+- The two exceptions and their conditions
+- Client conflicts in practice
+- Confidentiality
+- Duty of disclosure
+- Acting against current or former clients
+- Firm-wide conflict and confidentiality checks
+recap:
+- Where your duty to a client conflicts, or significantly risks conflicting, with your own or your firm's interests in that or a related matter, you can't act, even with consent.
+- A client conflict needs two or more current or intended clients in the same or a related matter, so a former client or an unrelated matter isn't one.
+- An exception only lets you act for both when all three conditions are met, and consent is only one of them: it can't make acting reasonable.
+- A client conflict arising mid-retainer with no exception fully met means stopping for at least one client, and for both unless the confidentiality rule lets you keep one.
+- Keep current and former clients' affairs confidential unless the law requires or permits disclosure, the client consents or the case is exceptional.
+- Tell your client everything material to the matter that you know, unless one of four exceptions applies; and where that clashes with another client's confidentiality, confidentiality prevails.
+- A former client raises confidentiality, not a client conflict: you can't act against them if the firm holds their confidential information material to the new matter, unless an exception applies.
+- Conflicts and confidentiality are judged across the whole firm, so run a firm-wide check before accepting instructions and before taking a prospective client's detailed confidential information.
+summary: Where your duties to two or more current or intended clients in the same or a related matter conflict, or significantly risk conflicting, you can't act unless an exception applies and all its conditions are met.
+invented:
+- Priya
+- Amir
+- Beth
+- Carl
+- Dina
+- Elena
+- Farid
+- Gus
+- Ines
+- a flat
+- a shop
+- a warehouse
+guide_only: []
+---
+## Map
+Will: The big question: when must a solicitor refuse to act, or keep quiet? There are eight areas in three groups: conflicts of interest; confidentiality and disclosure; and acting against clients, with firm-wide checks.
+Hannah: What are the four conflict areas?
+Will: Own interest conflicts and client conflicts; then the two exceptions with their conditions; then client conflicts in practice.
+Hannah: And the other four areas?
+Will: Confidentiality and the duty of disclosure; then acting against current or former clients; then firm-wide checks.
+Hannah: First, a warm-up on referrals: a firm pays an introducer for a client facing criminal proceedings, who has been told and agrees. Is that payment allowed?
+Will (scenario pause): <think>
+Will: It isn't: you must not make payments to an introducer in respect of clients who are the subject of criminal proceedings. The tempting answer is that disclosure and consent make it acceptable.
+Hannah: Yes: disclosure and consent don't save that payment.
+
+## Block 1: Own interest conflicts
+Will: Now own interest conflicts: when do your own interests stop you acting? An own interest conflict is any situation where your duty to act in a client's best interests in a matter conflicts, or there's a significant risk it may conflict, with your own interests in that or a related matter. Your own interests include financial interests, personal relationships and the interests of your firm.
+Hannah: And what follows from one?
+Will: You must not act, or must stop acting, where there's an own interest conflict or a significant risk of one. Unlike a client conflict, there are no exceptions, so the client's informed consent doesn't allow you to act.
+Hannah: What are the typical cases?
+Will: Typical ones include lending to or borrowing from a client, and buying a client's property or selling yours to a client. Others are holding shares in the other party or having a close relative there, and advising on a deal from which you or the firm will profit beyond your fee. Tell the client to get independent advice, and don't act.
+Hannah: What about a gift in a client's will?
+Will: Where a client wants to leave a gift of significant value to you, your family or someone at your firm, there's a risk of an own interest conflict. Significant means in itself or relative to the estate. You should be satisfied the client has first taken independent legal advice on the gift; if they won't, you'll usually have to stop acting on that will. A narrow exception is, for example, a parent's will leaving residue equally to you and your siblings.
+Hannah: What about your own mistakes?
+Will: If you make a mistake that may give the client a claim against you, tell the client promptly and openly, and advise independent advice. If there's a significant risk that your interest in avoiding liability conflicts with the client's interests, that's an own interest conflict, so you must stop acting, at least on that aspect.
+Hannah (summing up): Where your duty to a client conflicts, or significantly risks conflicting, with your own or your firm's interests in that or a related matter, you can't act, even with consent.
+Will: Yes: your own or your firm's interests bar you, and consent can't cure it.
+
+## Block 2: Client conflicts
+Hannah: Before client conflicts, one on own interest conflicts: Priya, a solicitor, wants to buy her client's flat, and he agrees in writing to her acting. Can she act?
+Will (scenario pause): <think>
+Will: She can't: buying a client's property is an own interest conflict, so she tells him to get independent advice and doesn't act. The tempting answer is that his consent cures it.
+Hannah: Yes: buying from your own client bars you, whatever he signs.
+Will: Now client conflicts: when does acting for two clients create one? A client conflict is a situation where your separate duties to act in the best interests of two or more clients in the same or related matters conflict. It needs two or more clients you act for or intend to act for, not former clients, and the same or a related matter. So acting for two clients on unrelated matters isn't a client conflict.
+Hannah: And what's the rule once there is one?
+Will: Where there's a client conflict or a significant risk of one, you must not act in the matter or a particular aspect of it, unless one of the two exceptions applies and all its conditions are met. Check at the outset and throughout the matter.
+Hannah: How do the two kinds of conflict differ?
+Will: A clash between your duty to a client and your own or your firm's interests can't be cured by any exception or consent. A clash between your duties to two or more clients can, but only where an exception applies with every condition met.
+Hannah (summing up): A client conflict needs two or more current or intended clients in the same or a related matter, so a former client or an unrelated matter isn't one.
+Will: Yes: it takes current or intended clients, and the same or a related matter.
+
+## Block 3: The two exceptions and their conditions
+Hannah: Before the two exceptions and their conditions, one on client conflicts: a firm acts for Amir buying a shop and for Beth on her will, a wholly unrelated matter. Is that a client conflict?
+Will (scenario pause): <think>
+Will: It isn't, because the matters are unrelated. The tempting answer is that two current clients are enough.
+Hannah: Yes: a client conflict also needs the same or a related matter.
+Will: Now the two exceptions and their conditions: when can you act despite a client conflict? The first is substantially common interest. It applies where there's a clear common purpose between the clients in the matter, or the particular aspect of it, and a strong consensus on how it's to be achieved. For example, founders setting up a company on terms they've already agreed.
+Hannah: And what's the second exception?
+Will: Competing for the same objective. It applies where two or more clients are competing for an objective which, if one attains it, will make it unattainable to the others.
+Hannah: Does any objective count?
+Will: Only an asset, contract or business opportunity that they're seeking to acquire or recover in one of three ways: through a liquidation or another insolvency process; an auction or tender process; or a bid or offer. A public takeover is excluded.
+Hannah: So where do two clients bidding for one asset fall?
+Will: Within that exception, whether by auction, tender or competing private offers through an agent, since only a public takeover is excluded. But you may act for both only when the conditions are met too.
+Hannah: What are those conditions?
+Will: Even where an exception applies, you may act only if all three are met. One: all the clients have given informed consent, given or evidenced in writing. Two: where appropriate, effective safeguards protect each client's confidential information, for example separate teams. Three: you're satisfied it's reasonable to act for all of them. So consent is only one of the three.
+Hannah: When is it not reasonable to act?
+Will: In three situations. One: where one client is vulnerable or much weaker, so bargaining power is unequal. Two: where you'd have to negotiate or take sides between them. Three: where you couldn't give each the advice they need. Consent doesn't overcome this.
+Hannah (summing up): An exception only lets you act for both when all three conditions are met, and consent is only one of them: it can't make acting reasonable.
+Will: Yes: all three conditions, and consent alone never does it.
+
+## Block 4: Client conflicts in practice
+Hannah: Before client conflicts in practice, one on the exceptions: two clients want the firm to act for both in bidding at auction for one warehouse, and both consent in writing. Is consent enough?
+Will (scenario pause): <think>
+Will: It isn't. The exception fits, but the firm also needs effective safeguards for their confidential information, and to be satisfied it's reasonable to act. The tempting answer is that written consent settles it.
+Hannah: Yes: their consent meets just one of the conditions.
+Will: Now client conflicts in practice: which clients can you act for together? Start with litigation. You generally can't act for opposing parties in litigation or a dispute, such as claimant and defendant or both sides of a contested divorce, because neither exception fits.
+Hannah: Can you act for co-defendants?
+Will: Only if there's no conflict or significant risk of one. You can't act for both in three situations: one's defence blames the other; one will plead guilty and give evidence against the other; or one's mitigation shifts blame to the other. And you may have to drop both if you hold confidential information from each.
+Hannah: Can one firm act for seller and buyer?
+Will: Acting for both seller and buyer, of land or a business, normally involves a client conflict or a significant risk of one, so you shouldn't normally act for both. You may where there's no significant risk, for example because all terms are already agreed, or where an exception and its conditions are met.
+Hannah: What about joint clients such as co-buyers?
+Will: Information from one joint client is normally shared with the other, so say so at the outset. There's a conflict if one tells you something material they want kept from the other, or their interests diverge, for example through unequal contributions or a plan to separate. You may then have to stop acting for both.
+Hannah: Can you act for lender and borrower?
+Will: You may act for both on a mortgage. But if the borrower asks you to withhold information material to the lender, such as a cashback, price reduction or sub-sale, you must not mislead the lender. Seek the borrower's consent to disclose. If it's refused, stop acting for the lender and usually the borrower too, considering your mortgage fraud and money-laundering duties.
+Hannah: What happens when a conflict arises partway through a retainer?
+Will: If a client conflict arises during a retainer and no exception applies with all its conditions, you must stop acting for at least one client. You may continue for one only in three cases.
+Hannah: What are those three cases?
+Will: One: you hold no confidential information of the other client material to the matter. Two: effective measures leave no real risk of disclosure. Three: that other client gives informed consent, given or evidenced in writing. Otherwise, stop acting for both.
+Hannah (summing up): A client conflict arising mid-retainer with no exception fully met means stopping for at least one client, and for both unless the confidentiality rule lets you keep one.
+Will: Yes: stop for at least one, and keep one only when the confidentiality rule allows.
+
+## Block 5: Confidentiality
+Hannah: Before confidentiality, one on conflicts in practice: a firm acting for co-buyers Carl and Dina hits a conflict that no exception covers. It holds Dina's material confidential information, with no protective measures and no consent from her. Can it carry on for Carl?
+Will (scenario pause): <think>
+Will: It can't: it must stop acting for both, because none of the three cases applies. The tempting answer is to drop Dina and keep Carl.
+Hannah: Yes: with her information unprotected and no consent, the firm stops for both.
+Will: Now confidentiality: when may you disclose a client's affairs? You must keep the affairs of current and former clients confidential unless disclosure is required or permitted by law or the client consents. The duty continues after the retainer ends and after the client's death, and covers even the fact that someone is your client.
+Hannah: When does the law require disclosure?
+Will: Disclosure is required by law, and so not a breach, where you must comply with a court order or witness summons; or with a statutory notice, for example from HMRC, the SFO or the SRA; or make a suspicious activity report under the Proceeds of Crime Act. Disclose only what's required.
+Hannah: Can you ever disclose without consent otherwise?
+Will: Disclosure without the client's consent is allowed only where required or permitted by law, or in exceptional cases. Examples are preventing serious harm to a child or vulnerable person, or a criminal act likely to cause serious bodily harm. Another is defending yourself against a claim by the client, so far as needed, which is implied waiver. Disclose only what's strictly necessary.
+Hannah: Can relatives or employers ask for information?
+Will: Otherwise, you may disclose only where the law permits it or the client consents. Family members, employers and other third parties have no right to the client's information unless the client agrees: for example, an adult child asking about a parent's will.
+Hannah: And how does privilege compare?
+Will: Legal professional privilege is narrower than confidentiality but absolute against compelled disclosure, whereas confidentiality covers all client affairs but yields to legal compulsion.
+Hannah: And what does privilege cover?
+Will: Lawyer-client communications for legal advice, and communications, including with third parties, for the sole or dominant purpose of existing or contemplated adversarial litigation; but not those made to further a crime or fraud, which is the iniquity exception.
+Hannah (summing up): Keep current and former clients' affairs confidential unless the law requires or permits disclosure, the client consents or the case is exceptional.
+Will: Yes: confidential by default, with the law, consent and exceptional cases as the ways out.
+
+## Block 6: Duty of disclosure
+Hannah: Before the duty of disclosure, one on confidentiality: a client tells his solicitor he'll seriously injure his former partner tonight. May the solicitor warn the police without his consent?
+Will (scenario pause): <think>
+Will: The solicitor may: preventing a criminal act likely to cause serious bodily harm is an exceptional case, so disclosure is allowed, limited to what's strictly necessary. The tempting answer is that it takes consent or a court order.
+Hannah: Yes: an exceptional case allows disclosure of what's strictly necessary.
+Will: Now the duty of disclosure: what must you tell a client? Where you act for a client on a matter, you must make the client aware of all information material to the matter of which you have knowledge, wherever it came from. The duty is personal to the individual advising.
+Hannah: How many exceptions are there?
+Will: Four. First, there's no duty where disclosure is prohibited by legal restrictions in the interests of national security or the prevention of crime. For example, you must not tell the client you've made a suspicious activity report: that's tipping off, or prejudicing an investigation.
+Hannah: What are the second and third?
+Will: Second, there's no duty where the client has given informed consent, given or evidenced in writing, to the information not being disclosed to them. Third, there's no duty where you have reason to believe that serious physical or mental injury will be caused to the client or another if the information is disclosed.
+Hannah: And what's the fourth exception?
+Will: There's no duty to tell the client about a privileged document you know of only because it was mistakenly disclosed. If it's obvious that privileged material was sent by mistake, you shouldn't read on or use it, and should tell the sender. In litigation, using it needs the court's permission.
+Hannah: What happens when disclosure clashes with another client's confidentiality?
+Will: Where your duty of confidentiality to one client clashes with your duty of disclosure to another, confidentiality prevails: you must not pass on the information. If you can't act properly for the second client without it, you must not act, or must stop acting, unless the first client consents.
+Hannah (summing up): Tell your client everything material to the matter that you know, unless one of four exceptions applies; and where that clashes with another client's confidentiality, confidentiality prevails.
+Will: Yes: disclose what's material, subject to the four exceptions, and confidentiality wins a clash.
+
+## Block 7: Acting against current or former clients
+Hannah: Before acting against current or former clients, one mixing confidentiality and disclosure: a solicitor acting for Elena on buying a company knows something material to the deal, but only from another client Farid's confidential file. Must she tell Elena?
+Will (scenario pause): <think>
+Will: She must not, because confidentiality to Farid prevails. If she can't act properly for Elena without it, she must not act, or must stop acting, unless Farid consents. The tempting answer is that Elena is owed everything material.
+Hannah: Yes: confidentiality to one client beats disclosure to the other.
+Will: Now acting against current or former clients: can you act against someone whose information you hold? A client conflict concerns duties to two current clients in the same or a related matter. So where the other party is a former client there's no client conflict, and the only question is confidentiality: whether you hold that former client's confidential information material to the new matter.
+Hannah: So is acting against a former client prohibited?
+Will: Not in itself: if you hold no confidential information about them, or what you hold isn't material to the new matter, the confidentiality rule doesn't stop you acting.
+Hannah: Then what exactly is the bar?
+Will: You must not act for a client whose interests are adverse to those of another current or former client of you or your firm, where you or your firm hold confidential information about that other client which is material to the matter, unless an exception applies. Information held anywhere in the firm counts.
+Hannah: What's the first exception?
+Will: You may act if effective measures have been taken which result in there being no real risk of disclosure. That's a high test. It usually needs an information barrier set up from the outset: separate teams, files and access controls. It's hard to meet in a small firm or where the same people are involved.
+Hannah: And what's the second one?
+Will: You may act if the current or former client whose information you hold has given informed consent, given or evidenced in writing, to you acting, including to any measures taken to protect their information.
+Hannah (summing up): A former client raises confidentiality, not a client conflict: you can't act against them if the firm holds their confidential information material to the new matter, unless an exception applies.
+Will: Yes: acting against a former client is barred by their material confidential information, not by a client conflict.
+
+## Block 8: Firm-wide conflict and confidentiality checks
+Hannah: Before firm-wide conflict and confidentiality checks, one on former clients: years ago a firm did Gus's house purchase, and a new client now wants to bring an unrelated claim against him. It holds nothing material about Gus. Can it act?
+Will (scenario pause): <think>
+Will: It can: acting against a former client isn't prohibited in itself, and the firm holds no confidential information material to the claim. The tempting answer is that a former client creates a client conflict.
+Hannah: Yes: nothing material held means nothing stops the firm acting.
+Will: Now firm-wide conflict and confidentiality checks: when must you run one? Both are judged across the whole firm. So if different fee earners act for clients whose interests conflict, the firm has the conflict, and information held anywhere in the firm counts under the confidentiality rule. Firms must have systems to identify conflicts.
+Hannah: And when should the check be run?
+Will: Run a firm-wide conflict and confidentiality check before accepting instructions, and before taking detailed confidential information from a prospective client. Information from a prospective client at a first meeting should be treated as confidential, and may later stop the firm acting for the other side.
+Hannah (summing up): Conflicts and confidentiality are judged across the whole firm, so run a firm-wide check before accepting instructions and before taking a prospective client's detailed confidential information.
+Will: Yes: judged firm-wide, and checked before instructions or detailed confidential information.
+
+## Recap
+Hannah: Last, one on firm-wide checks: Ines, a prospective client, gives a firm detailed confidential information at a first meeting, then goes elsewhere. Later her opponent asks that firm to act. Why might it have to refuse?
+Will (scenario pause): <think>
+Will: Because her first-meeting information should be treated as confidential, and may stop the firm acting for the other side. The tempting answer is that nothing is owed to someone who never became a client.
+Hannah: Yes: a prospective client's information is treated as confidential and can bar the firm. Now quick-fire. What's the summary for own interest conflicts?
+Will (quick-fire pause): <think>
+Will: Where your duty to a client conflicts, or significantly risks conflicting, with your own or your firm's interests in that or a related matter, you can't act, even with consent.
+Hannah: What's the summary for client conflicts?
+Will (quick-fire pause): <think>
+Will: A client conflict needs two or more current or intended clients in the same or a related matter, so a former client or an unrelated matter isn't one.
+Hannah: What's the summary for the two exceptions and their conditions?
+Will (quick-fire pause): <think>
+Will: An exception only lets you act for both when all three conditions are met, and consent is only one of them: it can't make acting reasonable.
+Hannah: What's the summary for client conflicts in practice?
+Will (quick-fire pause): <think>
+Will: A client conflict arising mid-retainer with no exception fully met means stopping for at least one client, and for both unless the confidentiality rule lets you keep one.
+Hannah: What's the summary for confidentiality?
+Will (quick-fire pause): <think>
+Will: Keep current and former clients' affairs confidential unless the law requires or permits disclosure, the client consents or the case is exceptional.
+Hannah: What's the summary for the duty of disclosure?
+Will (quick-fire pause): <think>
+Will: Tell your client everything material to the matter that you know, unless one of four exceptions applies; and where that clashes with another client's confidentiality, confidentiality prevails.
+Hannah: What's the summary for acting against current or former clients?
+Will (quick-fire pause): <think>
+Will: A former client raises confidentiality, not a client conflict: you can't act against them if the firm holds their confidential information material to the new matter, unless an exception applies.
+Hannah: What's the summary for firm-wide checks?
+Will (quick-fire pause): <think>
+Will: Conflicts and confidentiality are judged across the whole firm, so run a firm-wide check before accepting instructions and before taking a prospective client's detailed confidential information.
+Hannah: And what's the whole workshop in one sentence?
+Will: Where your duties to two or more current or intended clients in the same or a related matter conflict, or significantly risk conflicting, you can't act unless an exception applies and all its conditions are met.

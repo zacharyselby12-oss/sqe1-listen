@@ -1,0 +1,90 @@
+---
+id: public1-ws04-rev-v1
+unit: u-bpp-Public1-04
+guide_hash: e7ea1e26dc
+made: 2026-11-17T17:43:51+00:00
+kind: revision
+title: Public1 WS04 · Revision · 11 min
+map:
+- Prime Minister and Cabinet: appointment and collective responsibility
+- Individual responsibility, the Ministerial Code and the civil service
+recap:
+- The monarch appoints as Prime Minister whoever is most likely to command Commons confidence; and every minister, junior ones included, who publicly dissents from a government decision must resign, unless an agreement to differ covers the issue.
+- The Ministerial Code isn't law, and the Prime Minister is the final arbiter of breach and sanction; officials may exercise a minister's powers unless the statute, expressly or by implication, requires the minister personally.
+summary: Who is most likely to command Commons confidence decides who becomes Prime Minister, an agreement to differ decides whether a minister may publicly dissent without resigning, and officials may act in a minister's name unless the statute requires the minister personally, expressly or by implication.
+invented:
+- Marlow
+- Priya
+guide_only: []
+---
+## Map
+Will: The big question for responsible government is who gets to govern, and how they're held to account for it. There are two areas. First, the Prime Minister and the Cabinet: how they're appointed, and when ministers must stand together. Second, how individual ministers answer to Parliament, with the Ministerial Code and the civil service, ending with officials acting in a minister's name.
+
+## Block 1: Prime Minister and Cabinet: appointment and collective responsibility
+Hannah: Let's start with the Prime Minister and Cabinet, appointment and collective responsibility: whom does the monarch appoint to govern?
+Will: The monarch appoints as Prime Minister the person most likely to command the confidence of the Commons. The tempting neighbour is the leader of the party with the most seats, and that's the wrong test: it's confidence that decides, whatever the seat count.
+Hannah: And what happens to the Prime Minister who's already in office while that's being worked out?
+Will: An incumbent Prime Minister stays in office until it's clear that another person can command Commons confidence. So the country is never left without a government.
+Hannah: Who chooses the rest of the ministers?
+Will: The monarch appoints and dismisses the other ministers, but on the Prime Minister's advice. Now where they sit. By convention the Prime Minister sits in the Commons, not the Lords. And by convention ministers must sit in either House, so a non-member is appointed in anticipation of becoming a member, usually by being given a peerage.
+Hannah: Is there any cap on how many ministers can sit in the Commons?
+Will: Yes, and this one is statute, not convention. The limit is 95. That's the maximum number of ministers who may sit and vote in the Commons at any one time.
+Hannah: So the cap is statutory. Is the Cabinet itself statutory too?
+Will: It isn't: the office of Prime Minister and the Cabinet both rest on convention, not statute. And because ministers sit in Parliament, the executive and the legislature overlap, which means the UK has only a partial separation of powers.
+Hannah: Now collective responsibility. How do I work out whether a minister has to resign?
+Will: Three steps. First, identify a minister bound by the convention. Second, ask whether that minister publicly dissents from a government decision. Third, ask whether there's an agreement to differ covering the issue; without one, the minister must resign. In one line: a bound minister, public dissent, no agreement to differ, so resignation.
+Hannah: Which ministers are bound? I'd have guessed only the Cabinet.
+Will: That's the trap. The convention binds all ministers, including junior ministers, not only Cabinet members. So a parliamentary under-secretary outside Cabinet who votes against a government bill, with no agreement to differ covering it, must resign, just as a Cabinet minister would.
+Hannah: And where does the agreement to differ come from?
+Will: From the Prime Minister, who may suspend the convention by an agreement to differ. It's been done for the EU referendums, and for agreed issues in a coalition. If the agreement covers the issue, the minister may dissent publicly and stay; on any other issue, the convention still bites.
+Hannah: What about parliamentary private secretaries, who aren't ministers at all?
+Will: They're not ministers, but they're expected to support the government, so one who votes against it can't retain the position.
+Hannah: And what does the convention mean for the government as a whole when it loses the confidence of the Commons?
+Will: A government that loses a Commons confidence vote must resign or seek a dissolution.
+Hannah: Could a court step in and enforce any of this against a minister who refuses to go?
+Will: It couldn't, because conventions aren't enforced by courts. A breach of collective responsibility has political consequences, chiefly dismissal by the Prime Minister.
+Hannah: Last branch here, Cabinet confidentiality. Can a court stop a former minister publishing what was said in Cabinet?
+Will: The convention covers Cabinet confidentiality as well, and here the courts do have a role. They may restrain disclosure of Cabinet discussions only where the public interest requires it. And that restraint lapses with time, so an old discussion that's lost its sensitivity can be published where a fresh one couldn't.
+Hannah (summing up): The monarch appoints as Prime Minister whoever is most likely to command Commons confidence; and every minister, junior ones included, who publicly dissents from a government decision must resign, unless an agreement to differ covers the issue.
+Will: Yes: confidence decides the appointment, and an agreement to differ covering the issue decides whether a dissenting minister can stay.
+
+## Block 2: Individual responsibility, the Ministerial Code and the civil service
+Hannah: Before individual responsibility, the Ministerial Code and the civil service, a question on appointing the Prime Minister. An election produces a hung Parliament. One party wins the most seats but can't find partners, while a rival leader, Marlow, agrees a coalition that gives a Commons majority. By convention, whom should the monarch invite to become Prime Minister?
+Will (scenario pause): <think>
+Will: Marlow. The deciding fact is the coalition majority, because the monarch appoints whoever can command Commons confidence. The tempting wrong answer is the leader with the most seats, and it's wrong because the seat count isn't the test.
+Hannah: Yes: Marlow can command the confidence of the Commons, and that's what the convention looks for.
+Will: Now individual responsibility. Ministers account to Parliament for their departments' policies, decisions and actions. They must give accurate, truthful information, and correct any inadvertent error at the earliest opportunity.
+Hannah: What's expected of a minister who misleads Parliament on purpose?
+Will: A minister who knowingly misleads Parliament is expected to offer their resignation to the Prime Minister. But resignation isn't automatic for officials' operational failings. So the contrast is by outcome: knowingly misleading means an expected offer to resign, while a mistake made by officials in running things doesn't automatically cost the minister the job.
+Hannah: How does Parliament actually get those answers out of ministers?
+Will: In three ways: through questions, through debates and through select committees. And individual responsibility covers personal conduct too, so ministers may resign over private misconduct that has nothing to do with their department.
+Hannah: Next, the Ministerial Code. Is it law?
+Will: The Ministerial Code is not law, so a breach has political consequences, not legal ones. There's an Independent Adviser on Ministerial Standards, who can start an investigation on their own initiative after notifying the Prime Minister in writing; the Prime Minister's consent isn't needed. The Adviser establishes the facts and advises the Prime Minister on whether the Code was breached.
+Hannah: So does the Adviser's view settle whether the minister goes?
+Will: It doesn't. The Prime Minister remains the final arbiter of both breach and sanction, and the sanction may fall short of resignation. Lesser breaches may attract lesser sanctions, such as an apology or loss of salary.
+Hannah: Now the civil service. What kind of body is it, and whom does it answer to?
+Will: The civil service is politically impartial, and it's appointed on merit by fair and open competition. It's on a statutory footing, and its code requires four things: integrity, honesty, objectivity and impartiality. Civil servants answer to ministers, who answer to Parliament.
+Hannah: But civil servants do appear before select committees. Aren't they answering to Parliament then?
+Will: They're not: civil servants answer to ministers, not Parliament, so before committees they give evidence on the minister's behalf.
+Hannah: And where do special advisers fit into that picture?
+Will: Special advisers are temporary civil servants, and they may not manage civil servants.
+Hannah: Last branch: officials acting in the minister's name. When a statute gives a power to a minister, does the minister have to use it personally?
+Will: Generally not. Under the Carltona principle, officials may exercise powers conferred on a minister. And in law the decision is the minister's own, not a delegation. So where nothing in the statute requires the minister personally, an official who refuses a licence under a power given to the Secretary of State has made the Secretary of State's decision, even though she never saw the file.
+Hannah: Is there any case where that principle doesn't work?
+Will: One. Carltona doesn't apply where the statute requires the minister to act personally, and it can require that expressly or by implication. So don't stop at the words: a statute that's silent on its face may still, by implication, demand the minister's own decision.
+Hannah (summing up): The Ministerial Code isn't law, and the Prime Minister is the final arbiter of breach and sanction; officials may exercise a minister's powers unless the statute, expressly or by implication, requires the minister personally.
+Will: Yes: the Code's consequences are political, with the Prime Minister deciding both breach and sanction, and an official's act counts as the minister's own unless the statute, expressly or by implication, wants the minister personally.
+
+## Recap
+Hannah: A question that mixes both areas. A statute lets the Secretary of State refuse a licence and says nothing about personal decision-making. A senior official refuses an application without the minister seeing it. Priya, a junior minister, publicly attacks that refusal, and there's no agreement to differ. Is the refusal valid, and what must Priya do?
+Will (scenario pause): <think>
+Will: The refusal is valid, and Priya must resign. Nothing in the statute requires personal exercise, so under Carltona the official's act counts in law as the Secretary of State's. The tempting wrong answers are that the minister had to decide herself, and that only Cabinet members are bound; but collective responsibility binds all ministers, junior ones included.
+Hannah: Yes: the official's refusal is the minister's own decision, and a junior minister who dissents publicly without an agreement to differ has to go.
+Hannah: What's the summary for the Prime Minister, the Cabinet and collective responsibility?
+Will (quick-fire pause): <think>
+Will: The monarch appoints as Prime Minister whoever is most likely to command Commons confidence; and every minister, junior ones included, who publicly dissents from a government decision must resign, unless an agreement to differ covers the issue.
+Hannah: What's the summary for individual responsibility, the Ministerial Code and the civil service?
+Will (quick-fire pause): <think>
+Will: The Ministerial Code isn't law, and the Prime Minister is the final arbiter of breach and sanction; officials may exercise a minister's powers unless the statute, expressly or by implication, requires the minister personally.
+Hannah: And what's the whole workshop in one sentence?
+Will: Who is most likely to command Commons confidence decides who becomes Prime Minister, an agreement to differ decides whether a minister may publicly dissent without resigning, and officials may act in a minister's name unless the statute requires the minister personally, expressly or by implication.

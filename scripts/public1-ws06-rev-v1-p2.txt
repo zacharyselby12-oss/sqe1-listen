@@ -1,0 +1,142 @@
+---
+id: public1-ws06-rev-v1-p2
+unit: u-bpp-Public1-06
+guide_hash: 63b3f35775
+made: 2026-11-17T17:43:51+00:00
+kind: revision
+part: 2 of 2
+blocks: 7-10
+title: Public1 WS06 (part 2 of 2) · Revision · 16 min
+map:
+- Judicial review: nature and procedure
+- Judicial review: standing and time limits
+- Judicial review: grounds
+- Judicial review: remedies
+recap:
+- Judicial review tests whether a decision was lawfully reached, not whether it was right; and the acknowledgment of service is due twenty-one days after service, not fourteen.
+- File promptly, and in any event within three months after the grounds first arose, unless a shorter limit applies; only the court can extend time, for good reason.
+- Illegality asks whether the decision-maker understood its law correctly and gave effect to it; irrationality sets a high threshold; and proportionality is not a general free-standing domestic ground.
+- Remedies are discretionary; relief must be refused if it's highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless exceptional public interest is certified; damages can't be sought alone.
+summary: Judicial review asks whether a public body's decision was lawfully reached, never whether it was right, and even a successful claimant gets a remedy only in the court's discretion.
+invented:
+- the unnamed parties in the questions (a council, an objector, a trader)
+guide_only: []
+---
+## Map
+Will: This is part two of two. Part one covered the separation of powers and devolution. Now the third group, judicial review, and its big question: when can a court set aside a public body's decision?
+Hannah: How many areas does judicial review have?
+Will: Four: its nature and procedure, standing and time limits, the grounds, and the remedies.
+Hannah: So what exactly is judicial review?
+
+## Block 7: Judicial review: nature and procedure
+Will: Judicial review is the High Court's review, in the Administrative Court, of the lawfulness of a decision, action or failure to act in the exercise of a public function. It's brought under Part fifty-four and the Senior Courts Act. Most immigration judicial reviews start in the Upper Tribunal.
+Hannah: Does the court decide whether the decision was right?
+Will: No, and this decides questions. Judicial review tests the lawfulness of the decision-making process, not the merits. The court asks whether the decision was lawfully reached, not whether it was right, and it will not substitute its own view.
+Hannah: How is that different from an appeal?
+Will: An appeal, where statute gives one, can reconsider facts and merits and substitute a decision. Judicial review is supervisory, and a statutory appeal should normally be used first.
+Hannah: What happens when a claim succeeds?
+Will: The decision is usually quashed and remitted, and the decision-maker may lawfully reach the same decision again, provided it does so lawfully. The court may substitute its own decision only where three things are true. One: the decision was made by a court or tribunal. Two: it's quashed for error of law. Three: without the error, only one decision could have been reached.
+Hannah: Which decisions can be reviewed at all?
+Will: Ask two questions. First, is it a public body or a public function? Look at the nature of the function, not only the source of the power. So a non-statutory regulator of public functions is reviewable, but a body whose power comes only from contract is not. Second, is the decision excluded from review?
+Hannah: Which decisions are excluded?
+Will: The deciding one is in the Crown Court. Its decisions in matters relating to trial on indictment are not reviewable, but its decisions on appeals from magistrates are. Also, an Upper Tribunal refusal of permission to appeal from the First-tier Tribunal is generally not reviewable.
+Hannah: Can a statute shut out review with an ouster clause?
+Will: Not easily: ouster clauses are read narrowly, and do not normally protect a decision flawed by an error of law.
+Hannah: Is judicial review the first thing to try?
+Will: No, it's a last resort. Permission is normally refused where a suitable alternative remedy exists and has not been used, unless there are exceptional circumstances. That means a statutory appeal, a complaints procedure or a tribunal.
+Hannah: Now the steps. How does a claim begin?
+Will: With a letter before claim. The defendant should normally reply within fourteen days. Following the protocol does not extend the time limit. And the protocol is not appropriate in urgent cases, or where the defendant has no power to change the decision.
+Hannah: What follows once the claim form is issued?
+Will: It must be served on the defendant and interested parties within seven days of issue.
+Hannah: And how long do they have to respond?
+Will: They must file an acknowledgment of service within twenty-one days of service, with summary grounds for contesting. That's the trap: not fourteen days, which is the period for an ordinary Part seven claim.
+Hannah: What's the test for permission?
+Will: Permission is needed. The court, usually on the papers, asks whether there's an arguable ground with a realistic prospect of success. And it must refuse if it's highly likely the outcome would not have been substantially different had the conduct complained of not occurred, unless there's exceptional public interest.
+Hannah: And what if permission is refused on the papers?
+Will: The paper refusal itself cannot be appealed. The claimant may ask for an oral reconsideration within seven days after service of the reasons, unless the judge certified the claim totally without merit. In that case there's no oral renewal, and the claimant can seek permission to appeal from the Court of Appeal.
+Hannah: What conduct duties apply in judicial review?
+Will: A solicitor bringing or defending it must only advance properly arguable grounds, must not mislead the court, and must draw its attention to relevant authorities. Public body defendants owe a duty of candour: full disclosure of relevant facts. And misuse of urgent procedures can lead the court to refer solicitors to the SRA.
+Hannah (summing up): Judicial review tests whether a decision was lawfully reached, not whether it was right; and the acknowledgment of service is due twenty-one days after service, not fourteen.
+Will: Yes: lawfulness, not merits, and the longer period to acknowledge service.
+
+## Block 8: Judicial review: standing and time limits
+Hannah: Before standing and time limits, a question on which decisions judicial review reaches. A Crown Court judge excludes defence evidence during a trial on indictment, and in another case dismisses an appeal from the magistrates. Which decision is reviewable?
+Will (scenario pause): <think>
+Will: Only the dismissal of the appeal from the magistrates. The tempting answer is both, as each is a Crown Court decision, but matters relating to trial on indictment are not reviewable.
+Hannah: Right: the appeal decision can be reviewed, and the trial ruling can't.
+Will: Now standing. The claimant must have a sufficient interest in the matter to which the application relates. It's considered at permission, to filter out busybodies, and again at the hearing, together with the merits.
+Hannah: How do pressure groups get standing?
+Will: On a liberal approach. The court considers four things: the importance of the issue and vindicating the rule of law, the absence of any other responsible challenger, the nature of the breach, and the group's expertise or role. But for Human Rights Act grounds, the claimant must be a victim.
+Hannah: Now time limits. How long does a claimant have?
+Will: The claim form must be filed promptly, and in any event not later than three months after the grounds to make the claim first arose. Promptly is a separate requirement, and it decides questions: a claim within three months can still be refused for delay, where it would prejudice third parties or good administration.
+Hannah: Are there shorter limits?
+Will: Two. For planning decisions, by the Secretary of State or a local planning authority under the planning Acts, it's six weeks after the grounds arose. For public procurement decisions, it's thirty days from when the claimant first knew or ought to have known of the grounds.
+Hannah: When does time start running?
+Will: When the grounds first arose, which for a decision is the date it was made, not when the claimant learned of it. In a multi-stage process the claimant may generally wait for the final decision: time ran from the grant of planning permission, not the earlier resolution to grant. But that is not a universal rule for every multi-stage process.
+Hannah: Does asking the body to think again restart the clock?
+Will: No, and that's a deciding rule. Time runs from the original decision, so asking the decision-maker to reconsider, or its refusal to change its mind, does not restart the three-month period. The one exception is where the body genuinely reconsiders and makes a fresh decision.
+Hannah: Can the time limit be extended?
+Will: Not by the parties: they cannot extend it by agreement. The court may extend it for good reason. And pre-action letters, complaints or negotiations do not stop time running.
+Hannah: What can the court do about undue delay?
+Will: It may refuse permission or relief, if granting relief would be likely to cause substantial hardship or prejudice to any person, or be detrimental to good administration.
+Hannah (summing up): File promptly, and in any event within three months after the grounds first arose, unless a shorter limit applies; only the court can extend time, for good reason.
+Will: Yes: promptness and the three months both bind, and the parties can't stretch either.
+
+## Block 9: Judicial review: grounds
+Hannah: Before the grounds of judicial review, a question on time limits. A council grants a licence on the second of January. The objector files a claim on the tenth of April, after pre-action letters. Is it in time?
+Will (calculation pause): <think>
+Will: No: three months from the second of January expired on the second of April. The tempting answer is that the pre-action letters bought more time, but they don't stop time running. It's out of time unless the court extends.
+Hannah: Right: the letters changed nothing, so only the court can rescue it.
+Will: Now the grounds. The classic three are illegality, irrationality and procedural impropriety, and legitimate expectation is now a further ground. Illegality first: the decision-maker must understand correctly the law that regulates its power, and give effect to it.
+Hannah: What does illegality cover in practice?
+Will: Six things, in three pairs. Acting outside powers, and errors of law. Relevant and irrelevant considerations, and improper purpose. Fettering discretion, and unlawful delegation.
+Hannah: How bad must a decision be to be irrational?
+Will: The threshold is high. It's a decision so unreasonable that no reasonable authority could have reached it: so outrageous in its defiance of logic or accepted moral standards that no sensible person applying their mind could have arrived at it. That's Wednesbury unreasonableness. Also, a decision-maker must take reasonable steps to obtain the information needed to decide properly, and failure can make the decision irrational.
+Hannah: Can a claimant simply argue the decision was disproportionate?
+Will: Only sometimes, and questions turn on it. Proportionality applies where Convention rights are engaged, and formerly EU law. It is not a general free-standing ground of domestic law: the Supreme Court has declined to replace Wednesbury with it. So with no Convention right engaged, the test is irrationality, and mere harshness falls short of it.
+Hannah: What makes a consultation lawful?
+Will: Four requirements. It must be at a formative stage. It must give enough reasons for an intelligent response. It must allow adequate time. And its results must be conscientiously taken into account.
+Hannah (summing up): Illegality asks whether the decision-maker understood its law correctly and gave effect to it; irrationality sets a high threshold; and proportionality is not a general free-standing domestic ground.
+Will: Yes: understand the law and apply it, a high bar for irrationality, and no free-standing proportionality.
+
+## Block 10: Judicial review: remedies
+Hannah: Before remedies, a question on the grounds. A council decides to close a care home, then gives residents two days to comment and ignores their responses. Residents also call the decision harsh. Which ground is most likely to succeed?
+Will (scenario pause): <think>
+Will: Procedural impropriety, for an unlawful consultation: it came after the formative stage, with inadequate time, and the responses were ignored. The tempting answer is irrationality, but mere harshness falls short of that threshold.
+Hannah: Right: the flaw is the consultation, not the harshness.
+Will: Now remedies, starting with the quashing order. It sets aside the unlawful decision, which is normally then treated as void, of no legal effect. The court may remit the matter for a fresh decision. Or, where a court or tribunal erred in law and only one decision was lawfully possible, it may substitute its own.
+Hannah: Must the quashing take effect at once?
+Will: No: the court may suspend it until a set date, with conditions, or remove or limit its retrospective effect, so the decision is treated as valid until then. It considers four things: the nature of the defect, detriment to good administration, the interests of those affected, and any action by the decision-maker.
+Hannah: How does quashing differ from the other orders?
+Will: Don't confuse it with a mandatory order: quashing sets the decision aside, while a mandatory order compels the body to perform its duty. A prohibiting order stops the body acting unlawfully. An injunction restrains or requires conduct. And a declaration states the parties' legal position, without coercing anyone.
+Hannah: Is a successful claimant entitled to a remedy?
+Will: No: all the remedies are discretionary. Relief may be refused for undue delay, the claimant's conduct, an unused alternative remedy, or where it would serve no practical purpose.
+Hannah: And when must the court refuse relief?
+Will: This is the deciding rule. The court must refuse relief if it's highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless it certifies exceptional public interest. So a missed consultation wins nothing where the same decision would highly likely have followed anyway.
+Hannah: Does that test only matter at the final hearing?
+Will: No: it applies at permission too, and there the court must consider it if the defendant asks.
+Hannah: And what about damages?
+Will: Damages cannot be the only remedy sought. They may be claimed alongside another judicial review remedy, and awarded only if they would have been awarded in an ordinary claim, for example in tort or under the Human Rights Act. There is no general right to damages for unlawful administrative action.
+Hannah (summing up): Remedies are discretionary; relief must be refused if it's highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless exceptional public interest is certified; damages can't be sought alone.
+Will: Yes: discretion throughout, one mandatory refusal where it's highly likely the claimant's outcome would not have been substantially different, unless exceptional public interest is certified, and damages only alongside another remedy.
+
+## Recap
+Hannah: Before the summaries, a last question on remedies. A council set market fees without a statutory consultation, but would highly likely have set the same fees anyway. A trader also wants damages, with no private law claim. What will the court order?
+Will (scenario pause): <think>
+Will: It refuses relief, and awards no damages. The tempting answer is to quash for the missed consultation, but the no-substantial-difference test is mandatory, absent exceptional public interest. And damages are awarded only where an ordinary claim would win them.
+Hannah: Right: no different outcome means no relief, and there's no ordinary claim to carry damages.
+Will: Now the quick-fire round: one summary for each area.
+Hannah: What's the summary for the nature and procedure of judicial review?
+Will (quick-fire pause): <think>
+Will: Judicial review tests whether a decision was lawfully reached, not whether it was right; and the acknowledgment of service is due twenty-one days after service, not fourteen.
+Hannah: What's the summary for standing and time limits?
+Will (quick-fire pause): <think>
+Will: File promptly, and in any event within three months after the grounds first arose, unless a shorter limit applies; only the court can extend time, for good reason.
+Hannah: What's the summary for the grounds of review?
+Will (quick-fire pause): <think>
+Will: Illegality asks whether the decision-maker understood its law correctly and gave effect to it; irrationality sets a high threshold; and proportionality is not a general free-standing domestic ground.
+Hannah: What's the summary for remedies?
+Will (quick-fire pause): <think>
+Will: Remedies are discretionary; relief must be refused if it's highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless exceptional public interest is certified; damages can't be sought alone.
+Hannah: And the whole of this part in one sentence: what decides most of its questions?
+Will: Judicial review asks whether a public body's decision was lawfully reached, never whether it was right, and even a successful claimant gets a remedy only in the court's discretion.

@@ -4880,6 +4880,222 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws05-rev-v1-03ba850c.mp3",
       "siteAudio": "audio/public1-ws05-rev-v1-03ba850c.mp3",
       "pubDate": "2026-11-17T12:45:07+00:00"
+    },
+    {
+      "id": "public1-ws01-rev-v1",
+      "unitId": "u-bpp-Public1-01",
+      "title": "Public1 WS01 · Revision · 24 min",
+      "guideHash": "c21d99fa4c",
+      "script": "scripts/public1-ws01-rev-v1.txt",
+      "scriptHash": "1abc97747506",
+      "audio": "audio/public1-ws01-rev-v1.mp3",
+      "recap": [
+        "Where equity and the common law conflict, equity prevails; common law damages follow as of right once liability is proved, but equitable remedies are discretionary.",
+        "The Court of Appeal, High Court and Crown Court are the Senior Courts; the Supreme Court is a UK court.",
+        "Magistrates' custody limit for a single offence is six months if summary and twelve months if either-way.",
+        "The High Court is open only to claims worth more than £100,000; for personal injury other than clinical negligence, £50,000 or more.",
+        "Judicial review reaches inferior courts and tribunals, and the Crown Court too, save in matters relating to trial on indictment.",
+        "In a jury trial the judge decides law and sentence; the jury decides facts and verdict.",
+        "Only authorised or exempt persons may exercise a right of audience; in the higher courts a solicitor needs the advocacy qualification, save in limited proceedings.",
+        "Only the ratio binds: the principle the decision needed on its material facts. Obiter dicta only persuade, however senior the court.",
+        "The Court of Appeal's Civil Division is bound by its own decisions, subject to three exceptions; Crown Court, County Court and magistrates' decisions create no binding precedent.",
+        "Distinguishing leaves a precedent good law; overruling works retrospectively, though finally decided cases are not reopened; and statute overrides precedent.",
+        "Strasbourg case law must be taken into account but does not bind; a lower court still follows binding domestic precedent.",
+        "An advocate must cite every relevant authority likely to affect the outcome materially, even an adverse one."
+      ],
+      "map": [
+        "Sources of law: common law and equity",
+        "Court hierarchy",
+        "Criminal courts",
+        "Civil and family courts",
+        "Tribunals and supervisory jurisdiction",
+        "Judges, magistrates and juries",
+        "Rights of audience and conduct of litigation",
+        "Ratio, obiter and stare decisis",
+        "Which courts bind",
+        "Distinguishing, overruling and statute",
+        "Strasbourg case law and precedent",
+        "Citing authorities"
+      ],
+      "summary": "Place the court and ask who may sit or speak in it; then ask whether the earlier decision is ratio from a court that binds this one.",
+      "madeAt": "2026-11-17T17:43:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck: 70 of 70 items covered, about 24 min); known-error scan 0 hits; opus x2 (accuracy and line-by-line: 5 distortion fixes applied via fixflow, copies synced); code checks and known-error scan again ok; opus verify of changed lines pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10",
+        "b11",
+        "b12"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public1-ws04-rev-v1",
+      "unitId": "u-bpp-Public1-04",
+      "title": "Public1 WS04 · Revision · 11 min",
+      "guideHash": "e7ea1e26dc",
+      "script": "scripts/public1-ws04-rev-v1.txt",
+      "scriptHash": "46058b666271",
+      "audio": "audio/public1-ws04-rev-v1.mp3",
+      "recap": [
+        "The monarch appoints as Prime Minister whoever is most likely to command Commons confidence; and every minister, junior ones included, who publicly dissents from a government decision must resign, unless an agreement to differ covers the issue.",
+        "The Ministerial Code isn't law, and the Prime Minister is the final arbiter of breach and sanction; officials may exercise a minister's powers unless the statute, expressly or by implication, requires the minister personally."
+      ],
+      "map": [
+        "Prime Minister and Cabinet: appointment and collective responsibility",
+        "Individual responsibility, the Ministerial Code and the civil service"
+      ],
+      "summary": "Who is most likely to command Commons confidence decides who becomes Prime Minister, an agreement to differ decides whether a minister may publicly dissent without resigning, and officials may act in a minister's name unless the statute requires the minister personally, expressly or by implication.",
+      "madeAt": "2026-11-17T17:43:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck: 8 of 8 items covered, about 11 min, under the 12-15 aim: a short source); known-error scan: 0 hits (366 known); opus x2 (accuracy and line-by-line): 6 fixes applied via fixflow (scenario conditions and one-liner qualifiers), copies synced; code checks and known-error scan again ok; opus verify of changed lines pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public1-ws06-rev-v1",
+      "unitId": "u-bpp-Public1-06",
+      "title": "Public1 WS06 (part 1 of 2) · Revision · 22 min",
+      "guideHash": "63b3f35775",
+      "script": "scripts/public1-ws06-rev-v1.txt",
+      "scriptHash": "593d7ec57396",
+      "audio": "audio/public1-ws06-rev-v1.mp3",
+      "recap": [
+        "The separation is only partial: sentencing belongs to judges, not ministers, and either House can annul a negative-procedure instrument within forty days but can't amend it.",
+        "Ministers must uphold judicial independence and mustn't seek to influence particular decisions through special access; a senior judge is removed only on an address of both Houses.",
+        "Judges review public bodies' decisions for lawfulness, not merits, and can quash them, but can't override or invalidate an Act of Parliament; a declaration of incompatibility leaves it valid.",
+        "Devolution delegates power without transferring sovereignty: Westminster can still legislate on devolved matters, and the Sewel convention and the referendum commitment bind it only politically.",
+        "Outside competence means not law. Whether a Senedd provision relates to a reserved matter turns on its purpose, having regard among other things to its effect.",
+        "Check where a provision applies, not just where it extends: an England-only provision doesn't govern facts in Wales, and a Senedd Act provision doesn't govern facts in England."
+      ],
+      "map": [
+        "Separation of powers",
+        "Judicial independence, the Lord Chancellor and the Law Officers",
+        "The judicial function",
+        "Devolution: status and institutions",
+        "Senedd legislative competence",
+        "Law in Wales and England"
+      ],
+      "summary": "A court can't override an Act of Parliament, and Westminster can still legislate on devolved matters, but a Senedd provision outside competence is not law, and a court can so decide.",
+      "madeAt": "2026-11-17T17:43:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23; revcheck covers its part's 46 items); known-error scan 0 hits (1 match cleared by an Opus ke-triage); opus x2 (accuracy, coverage), fixflow, changed-lines verify, 1 targeted round with a fresh verify: pass",
+      "part": 1,
+      "of": 2,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "public1-ws06-rev-v1-p2",
+      "unitId": "u-bpp-Public1-06",
+      "title": "Public1 WS06 (part 2 of 2) · Revision · 16 min",
+      "guideHash": "63b3f35775",
+      "script": "scripts/public1-ws06-rev-v1-p2.txt",
+      "scriptHash": "56351720670c",
+      "audio": "audio/public1-ws06-rev-v1-p2.mp3",
+      "recap": [
+        "Judicial review tests whether a decision was lawfully reached, not whether it was right; and the acknowledgment of service is due twenty-one days after service, not fourteen.",
+        "File promptly, and in any event within three months after the grounds first arose, unless a shorter limit applies; only the court can extend time, for good reason.",
+        "Illegality asks whether the decision-maker understood its law correctly and gave effect to it; irrationality sets a high threshold; and proportionality is not a general free-standing domestic ground.",
+        "Remedies are discretionary; relief must be refused if it's highly likely the outcome for the claimant would not have been substantially different without the conduct complained of, unless exceptional public interest is certified; damages can't be sought alone."
+      ],
+      "map": [
+        "Judicial review: nature and procedure",
+        "Judicial review: standing and time limits",
+        "Judicial review: grounds",
+        "Judicial review: remedies"
+      ],
+      "summary": "Judicial review asks whether a public body's decision was lawfully reached, never whether it was right, and even a successful claimant gets a remedy only in the court's discretion.",
+      "madeAt": "2026-11-17T17:43:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23; revcheck covers its part's 51 items); known-error scan 0 hits; opus x2 (accuracy, coverage), fixflow, changed-lines verify, 1 targeted round with a fresh verify: pass",
+      "part": 2,
+      "of": 2,
+      "blocks": [
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "eth-ws07-rev-v1",
+      "unitId": "u-bpp-ETH-07",
+      "title": "ETH WS07 · Revision · 24 min",
+      "guideHash": "ee2cdf4937",
+      "script": "scripts/eth-ws07-rev-v1.txt",
+      "scriptHash": "1f0f551a8f69",
+      "audio": "audio/eth-ws07-rev-v1.mp3",
+      "recap": [
+        "Where your duty to a client conflicts, or significantly risks conflicting, with your own or your firm's interests in that or a related matter, you can't act, even with consent.",
+        "A client conflict needs two or more current or intended clients in the same or a related matter, so a former client or an unrelated matter isn't one.",
+        "An exception only lets you act for both when all three conditions are met, and consent is only one of them: it can't make acting reasonable.",
+        "A client conflict arising mid-retainer with no exception fully met means stopping for at least one client, and for both unless the confidentiality rule lets you keep one.",
+        "Keep current and former clients' affairs confidential unless the law requires or permits disclosure, the client consents or the case is exceptional.",
+        "Tell your client everything material to the matter that you know, unless one of four exceptions applies; and where that clashes with another client's confidentiality, confidentiality prevails.",
+        "A former client raises confidentiality, not a client conflict: you can't act against them if the firm holds their confidential information material to the new matter, unless an exception applies.",
+        "Conflicts and confidentiality are judged across the whole firm, so run a firm-wide check before accepting instructions and before taking a prospective client's detailed confidential information."
+      ],
+      "map": [
+        "Own interest conflicts",
+        "Client conflicts",
+        "The two exceptions and their conditions",
+        "Client conflicts in practice",
+        "Confidentiality",
+        "Duty of disclosure",
+        "Acting against current or former clients",
+        "Firm-wide conflict and confidentiality checks"
+      ],
+      "summary": "Where your duties to two or more current or intended clients in the same or a related matter conflict, or significantly risk conflicting, you can't act unless an exception applies and all its conditions are met.",
+      "madeAt": "2026-11-17T17:43:51+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck: 58/58 items covered); known-error scan 0 hits (2 phrase hits cleared by ke-triage, Opus); episode-check + episode-lines-check (Opus): 2 distortions, 2 problems and 1 omission fixed; summary trimmed (script-revise); episode-verify of changed lines: 1 finding, then 2 targeted rounds (script-revise + fresh episode-verify): pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [
