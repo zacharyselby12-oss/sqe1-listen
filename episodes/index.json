@@ -5141,6 +5141,42 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws07-rev-v1-00da85ef.mp3",
       "siteAudio": "audio/eth-ws07-rev-v1-00da85ef.mp3",
       "pubDate": "2026-11-17T17:44:53+00:00"
+    },
+    {
+      "id": "public1-ws07-rev-v1",
+      "unitId": "u-bpp-Public1-07",
+      "title": "Public1 WS07 · Revision · 18 min",
+      "guideHash": "5d07433b83",
+      "script": "scripts/public1-ws07-rev-v1.txt",
+      "scriptHash": "30189d64a0a3",
+      "audio": "audio/public1-ws07-rev-v1.mp3",
+      "recap": [
+        "First ask which account a question tests: Dicey's sets formal requirements; Lord Bingham's adds the protection of fundamental rights, which makes it substantive.",
+        "To interfere with person or property an official needs legal authority: state necessity or the public interest is no justification, and general words do not override fundamental rights.",
+        "Where sovereignty and the rule of law conflict, a clear Act prevails: courts protect the rule of law by interpretation, not by striking Acts down.",
+        "A time-limited ouster is effective, but words like 'shall not be questioned' do not protect a decision vitiated by error of law; only clear and explicit words exclude review."
+      ],
+      "map": [
+        "Meaning of the rule of law",
+        "Legality and limits on executive power",
+        "Rule of law and sovereignty",
+        "Ouster clauses and judicial supervision"
+      ],
+      "summary": "Officials need legal authority to interfere with person or property, but a clear Act prevails, so courts protect the rule of law by interpretation, reading ouster clauses restrictively while enforcing time-limited ones.",
+      "madeAt": "2026-11-17T21:42:46+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23; revcheck covers its 18 items); known-error scan 0 hits; opus x2 (accuracy, coverage): pass, no fixes, so no changed lines to verify",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

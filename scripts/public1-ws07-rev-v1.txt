@@ -1,0 +1,173 @@
+---
+id: public1-ws07-rev-v1
+unit: u-bpp-Public1-07
+guide_hash: 5d07433b83
+made: 2026-11-17T21:42:46+00:00
+kind: revision
+title: Public1 WS07 · Revision · 18 min
+map:
+- Meaning of the rule of law
+- Legality and limits on executive power
+- Rule of law and sovereignty
+- Ouster clauses and judicial supervision
+recap:
+- First ask which account a question tests: Dicey's sets formal requirements; Lord Bingham's adds the protection of fundamental rights, which makes it substantive.
+- To interfere with person or property an official needs legal authority: state necessity or the public interest is no justification, and general words do not override fundamental rights.
+- Where sovereignty and the rule of law conflict, a clear Act prevails: courts protect the rule of law by interpretation, not by striking Acts down.
+- A time-limited ouster is effective, but words like 'shall not be questioned' do not protect a decision vitiated by error of law; only clear and explicit words exclude review.
+summary: Officials need legal authority to interfere with person or property, but a clear Act prevails, so courts protect the rule of law by interpretation, reading ouster clauses restrictively while enforcing time-limited ones.
+invented:
+- Maya
+- Tom
+- Priya
+- Ben
+- Leila
+guide_only: []
+---
+
+## Map
+
+Will: Today's workshop is the rule of law, and the big question is this: what does the rule of law require, and what can the courts do when the state ignores it?
+Hannah: How is the workshop laid out?
+Will: Four areas. First, the meaning of the rule of law. Second, legality and limits on executive power. Third, the rule of law and sovereignty. Fourth, ouster clauses and judicial supervision.
+Hannah: First, a warm-up from the previous workshop, on judicial review. A council follows every step properly and refuses Maya a licence, and she says the decision was simply wrong. Will the court replace it with its own decision?
+Will (scenario pause): <think>
+Will: It won't. Judicial review looks at the lawfulness of the decision-making process, not the merits. The tempting answer is that the court decides afresh, but it will not substitute its own view.
+Hannah: Yes: the lawfulness of the process is reviewed, and the merits are not.
+
+## Block 1: Meaning of the rule of law
+
+Will: Now, the meaning of the rule of law: what does it mean, and what threatens it?
+Hannah: Where does a question on its meaning start?
+Will: With which account it tests: Dicey's or Lord Bingham's.
+Hannah: What does Dicey say?
+Will: Dicey's rule of law has three parts. One: no one is punishable except for a distinct breach of law established in the ordinary courts, which means no arbitrary power. Two: everyone, including officials, is equal before the law and subject to the ordinary courts. Three: constitutional rights result from ordinary judicial decisions.
+Hannah: Are those the same three as his parliamentary sovereignty points?
+Will: They aren't, and that's the trap. His sovereignty three are different: Parliament can make or unmake any law, no one sets an Act aside, and there are no binding successors.
+Hannah: And what is Lord Bingham's core principle?
+Will: That all persons and authorities, public or private, should be bound by and entitled to the benefit of laws. Those laws are publicly made, take effect generally in the future and are publicly administered in the courts.
+Hannah: How many principles does he build on that?
+Will: Eight, in two groups of four. The first is the content and application of law. Law must be accessible, clear and predictable. Legal questions are decided by law, not discretion. There is equality before the law. And fundamental rights are protected.
+Hannah: And the second group of four?
+Will: Officials, courts and the state. Ministers must act in good faith, fairly, for proper purposes and within their powers. There must be access to justice without prohibitive cost or delay. Trials must be fair. And the state must comply with international law.
+Hannah: Do fundamental rights divide the formal and substantive conceptions?
+Will: They do. The formal conception wants laws that are prospective, open, clear and stable. It wants them applied equally, with an independent judiciary and accessible courts, and moral content is irrelevant. The substantive conception adds respect for fundamental human rights and freedoms to the formal requirements, so an unjust law can breach the rule of law.
+Hannah: Does equality before the law have exceptions?
+Will: It has five. The first three are the Monarch, higher court judges and parliamentary privilege.
+Hannah: And the other two exceptions?
+Will: Diplomatic immunity and children. Beyond those, different treatment is justified only by relevant objective differences, such as deportation of foreign nationals but not British citizens.
+Hannah: Where do separation of powers and judges' discretion fit in?
+Will: Separation of powers is intrinsic to the rule of law, because it stops government exercising power arbitrarily. And judicial discretion must be rational and consistent, constrained by sentencing guidelines and the right of appeal.
+Hannah: Now the threats: what threatens the rule of law?
+Will: Four groups of threats, each open-ended. The first includes unclear, archaic or inaccessible legislation, published legislation not kept up to date, and dissents leaving points of law unclear. The second includes administrative discretion without stated criteria or legal challenge, the cost and risk of judicial review, and legal aid cuts and fees.
+Hannah: And the other two groups?
+Will: The third includes unequal application, as with stop and search, and limited scrutiny in fast-track extradition. It also includes civil orders blurring criminal and civil law, and closed material procedures. The fourth is government criticism of judges, especially where government is a party, and automated decision-making.
+Hannah: Now solicitors' duties: which comes first, the client or the rule of law?
+Will: The principles safeguarding the wider public interest, meaning the rule of law and public confidence, prevail over the client's best interests. And lawyers' honesty and integrity support the rule of law and public confidence in the administration of justice.
+Hannah: What does that mean in front of a court?
+Will: Three duties. Do not mislead or attempt to mislead the court. Make only submissions that are properly arguable. And draw the court's attention to relevant cases, statutory provisions or procedural irregularities likely to have a material effect on the outcome.
+Hannah: Is there anything extra in judicial review?
+Will: Judicial review parties owe a duty of candour, which is to disclose material facts, including adverse ones.
+Hannah: What if the client forbids disclosing a fact the court needs?
+Will: If the client forbids disclosing a fact needed to avoid misleading the court, the solicitor must cease acting, and must not breach confidentiality. The tempting answers are to disclose anyway or to carry on in silence, and both are wrong.
+Hannah: What can the court do about an abusive urgent application?
+Will: For an abusive or misleading urgent judicial review application, often to stop a removal, the Administrative Court can require the solicitor to explain and can refer them to the SRA.
+Hannah (summing up): First ask which account a question tests: Dicey's sets formal requirements; Lord Bingham's adds the protection of fundamental rights, which makes it substantive.
+Will: Yes: Dicey is formal, and fundamental rights are what make Lord Bingham's account substantive.
+
+## Block 2: Legality and limits on executive power
+
+Hannah: Before legality and executive power, a question on the meaning of the rule of law. Tom's client wants an urgent judicial review filed tonight, forbids any mention of an identical claim refused last month, and refuses consent to disclose it. What must Tom do?
+Will (scenario pause): <think>
+Will: Tom must not file while concealing the refusal, and he must cease acting. The tempting answer is to tell the court anyway, but without consent that breaches confidentiality, and filing in silence would mislead the court.
+Hannah: Right: he stops acting, because he can neither mislead the court nor breach confidentiality.
+Will: Now, legality and the limits on executive power: can an official act without legal authority, or ignore a court?
+Hannah: What must an official show before interfering with someone?
+Will: Officials must point to legal authority for interfering with person or property, and state necessity is no justification. Ministers are subject to the courts, and to contempt. Say officers search a house on a minister's say-so: without a statute or common law power, necessity does not justify it.
+Hannah: How do I work through a problem like that?
+Will: Three steps. One, identify the official's interference with the person, property or rights. Two, find lawful authority in statute or common law: state necessity or the public interest is no justification. Three, if the authority is statutory, check that its words clearly cover this interference. In one line: interference, then authority, then clear words.
+Hannah: What is that third step called?
+Will: The legality principle, which is Lord Hoffmann's. Fundamental rights are overridden only by express words or necessary implication, not by general words.
+Hannah: What about a discretion the statute gives?
+Will: Discretion used to frustrate the policy of the Act is unlawful. And failing to exercise a statutory discretion at all is also potentially unlawful.
+Hannah: Next, access to the courts: can regulations price people out with fees?
+Will: Access to the courts is a constitutional right. So subordinate legislation is unlawful if there is a real risk that it will effectively prevent access to justice. For example, fees that cannot reasonably be afforded, or that make a small or non-monetary claim futile or irrational.
+Hannah: Can regulations like that ever survive?
+Will: They are unlawful unless primary legislation clearly authorises the intrusion, and any authorised intrusion must be no greater than necessary. The reason is that access to justice benefits society as a whole, not just litigants.
+Hannah: Now obeying the courts: can the executive ignore a ruling it dislikes?
+Will: Three steps again. One, identify the court decision, order or undertaking binding the executive. Two, the executive must comply: it cannot ignore or set aside a decision merely because it disagrees, unless an Act clearly permits it. Three, a minister who disobeys can be in contempt of court in their official capacity.
+Hannah: Does a statutory veto change that?
+Will: It didn't for the Attorney General. His statutory veto could not be used simply to override the Upper Tribunal's decision.
+Hannah: And can a court make an order against a minister?
+Will: It can. Injunctions, including interim ones, can be made against ministers, and the Home Secretary was in contempt for disobeying a court order.
+Hannah: Is the rule of law recognised in statute anywhere?
+Will: Yes, in the CRA, the constitutional reform statute. It states that it does not adversely affect the existing constitutional principle of the rule of law. And the Lord Chancellor swears to respect the rule of law and defend judicial independence.
+Hannah (summing up): To interfere with person or property an official needs legal authority: state necessity or the public interest is no justification, and general words do not override fundamental rights.
+Will: Yes: authority has to be found in law, and general words leave fundamental rights standing.
+
+## Block 3: Rule of law and sovereignty
+
+Hannah: Before the rule of law meets sovereignty, a question on legality. Regulations set a tribunal fee so high that Priya cannot reasonably afford to bring her small claim, and no Act clearly authorises that. Is the fee lawful?
+Will (scenario pause): <think>
+Will: It is unlawful: there is a real risk that it will effectively prevent access to justice, and no primary legislation clearly authorises it. The tempting answer is that a general power to set fees is enough, but that is not clear authorisation.
+Hannah: Yes: a real risk of blocking access makes the regulations unlawful without clear authority from primary legislation.
+Will: Now, the rule of law and sovereignty: which wins, a clear Act or the rule of law?
+Hannah: Which of the two does win?
+Will: The Act. Where the two conflict, a clear Act prevails, and retrospective legislation is the example. Courts protect the rule of law through interpretation, such as a restrictive reading of ouster clauses, not by striking down Acts.
+Hannah: How does that change the answer on court fees?
+Will: It turns on who set the fee. A fee set by regulations faces the real risk test from a moment ago. A fee fixed by primary legislation itself must be applied by the court, because a clear Act prevails.
+Hannah: Now constitutional statutes: what makes a statute constitutional?
+Will: A constitutional statute conditions the relationship between citizen and state generally, or enlarges or diminishes fundamental rights. A statute is also constitutional if it creates or regulates a state institution and substantially influences what that institution can do.
+Hannah: And what further protection does such a statute get?
+Will: There is no implied repeal of a constitutional statute. Repeal needs express words, or words so specific that the inference is irresistible. But this is obiter.
+Hannah (summing up): Where sovereignty and the rule of law conflict, a clear Act prevails: courts protect the rule of law by interpretation, not by striking Acts down.
+Will: Yes: the clear Act prevails, and the courts work by interpretation.
+
+## Block 4: Ouster clauses and judicial supervision
+
+Hannah: Before ouster clauses, a question that mixes sovereignty with access to the courts. An Act of Parliament itself fixes a court fee that Ben cannot reasonably afford. Can the court refuse to apply it?
+Will (scenario pause): <think>
+Will: It cannot. The fee is fixed by primary legislation itself, so the court must apply it, because a clear Act prevails. The tempting answer is that any fee blocking access to justice is unlawful, but that rule is about fees set by subordinate legislation.
+Hannah: Right: a fee in the Act itself is applied, and the real risk test is for fees set by regulations.
+Will: Now, ouster clauses and judicial supervision: can a statute stop judicial review, and what can the courts review?
+Hannah: How do the courts read a clause that says no review?
+Will: Restrictively. Words like 'shall not be questioned in any court' do not protect a decision vitiated by error of law, because that decision is a nullity. Only clear and explicit words exclude review.
+Hannah: And what if Parliament does use clear words?
+Will: Ousting judicial review needs the clearest words. Even then, a plurality said, obiter, that courts might refuse even a clear ouster.
+Hannah: Are time limits treated the same way?
+Will: They aren't, and this is the main trap. Time-limited ousters are effective. The example is 6 weeks. That is the period for planning or compulsory purchase challenges. The time limit bars the challenge even where bad faith or fraud is alleged or discovered late.
+Hannah: Doesn't Anisminic let a late claimant in, since the clause is an ouster?
+Will: It doesn't. Time-limited clauses are enforced, unlike total ousters.
+Hannah: What about the Upper Tribunal refusing permission to appeal?
+Will: Parliament has effectively ousted judicial review of those refusals, with four exceptions: bad faith, a fundamental breach of natural justice, no valid application, and improper constitution. That reverses Cart, so Cart judicial review is no longer available. Parliament has effectively ousted review of dissolution decisions too.
+Hannah: And where does a full Upper Tribunal decision on an appeal go?
+Will: An Upper Tribunal decision on an appeal, as opposed to a permission refusal, goes to the Court of Appeal on a point of law, with permission.
+Hannah: Finally, what can the courts review at all?
+Will: Inferior courts and tribunals are reviewable. That means magistrates, the county court, coroners and the First-tier Tribunal. The Crown Court is reviewable too, except in matters relating to trial on indictment.
+Hannah: And which bodies are not reviewable?
+Will: The High Court is not reviewable, and Upper Tribunal refusals of permission to appeal are largely excluded.
+Hannah: Can the courts review rules made by ministers?
+Will: They can. Delegated legislation is reviewable, and it is ultra vires if not made in accordance with its parent Act. Courts can also review whether a prerogative power was lawfully exercised or a common law constitutional right was breached.
+Hannah (summing up): A time-limited ouster is effective, but words like 'shall not be questioned' do not protect a decision vitiated by error of law; only clear and explicit words exclude review.
+Will: Yes: time limits are enforced, and only clear and explicit words shut out review of an error of law.
+
+## Recap
+
+Hannah: One last question, on ouster clauses. An Act lets a compulsory purchase order be challenged only within 6 weeks, and Leila discovers fraud after the period has passed. Can she challenge the order now?
+Will (scenario pause): <think>
+Will: She cannot. A time-limited ouster is effective, so the challenge is barred even where fraud is discovered late. The tempting answer is that an ouster never protects an unlawful decision, but that is for total ousters, not time limits.
+Hannah: Yes: once the period has passed the time limit bars her, fraud or not.
+Hannah: Now the quick-fire round. What's the summary for the meaning of the rule of law?
+Will (quick-fire pause): <think>
+Will: First ask which account a question tests: Dicey's sets formal requirements; Lord Bingham's adds the protection of fundamental rights, which makes it substantive.
+Hannah: What's the summary for legality and the limits on executive power?
+Will (quick-fire pause): <think>
+Will: To interfere with person or property an official needs legal authority: state necessity or the public interest is no justification, and general words do not override fundamental rights.
+Hannah: What's the summary for the rule of law and sovereignty?
+Will (quick-fire pause): <think>
+Will: Where sovereignty and the rule of law conflict, a clear Act prevails: courts protect the rule of law by interpretation, not by striking Acts down.
+Hannah: What's the summary for ouster clauses and judicial supervision?
+Will (quick-fire pause): <think>
+Will: A time-limited ouster is effective, but words like 'shall not be questioned' do not protect a decision vitiated by error of law; only clear and explicit words exclude review.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Officials need legal authority to interfere with person or property, but a clear Act prevails, so courts protect the rule of law by interpretation, reading ouster clauses restrictively while enforcing time-limited ones.
