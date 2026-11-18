@@ -5186,6 +5186,45 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws07-rev-v1-4a9510b0.mp3",
       "siteAudio": "audio/public1-ws07-rev-v1-4a9510b0.mp3",
       "pubDate": "2026-11-17T21:44:01+00:00"
+    },
+    {
+      "id": "public1-ws08-rev-v1",
+      "unitId": "u-bpp-Public1-08",
+      "title": "Public1 WS08 · Revision · 18 min",
+      "guideHash": "fedf570852",
+      "script": "scripts/public1-ws08-rev-v1.txt",
+      "scriptHash": "6c99900dc905",
+      "audio": "audio/public1-ws08-rev-v1.mp3",
+      "recap": [
+        "In civil proceedings, the court can't grant an injunction or specific performance against the Crown, or against a Crown officer where that would give relief against the Crown; it makes a declaration; in judicial review, ministers can be injuncted.",
+        "The prerogative is the residue of common law powers left to the Crown: no new ones can be created, and it cannot change the law or create offences.",
+        "A statute on the same ground puts the prerogative in abeyance; the prerogative can't frustrate an enacted scheme, even one not yet in force, or change domestic law.",
+        "A treaty is normally laid for 21 sitting days before ratification, and even once ratified it creates no rights or duties in domestic law until an Act incorporates it.",
+        "Subject matter, not source, decides review: high policy is generally non-justiciable and decisions affecting individuals are reviewable; prorogation can be reviewed, but statute shields dissolution from the courts."
+      ],
+      "map": [
+        "The monarch and the Crown",
+        "Nature and scope of the prerogative",
+        "Prerogative and statute",
+        "Treaties and dualism",
+        "Judicial control of the prerogative"
+      ],
+      "summary": "Ministers use the prerogative, a residue of common law powers that can't grow, can't change domestic law and gives way to statute; and the courts review it by subject matter, not source.",
+      "madeAt": "2026-11-18T08:43:10+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23; revcheck covers its 32 items); known-error scan 0 hits; opus x2 (accuracy, coverage): 4 fixes applied, 2 code errors revised, changed-lines check failed on 3 lines, targeted round 1 fixed them, its changed-lines check passed",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

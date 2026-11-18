@@ -1,0 +1,158 @@
+---
+id: public1-ws08-rev-v1
+unit: u-bpp-Public1-08
+guide_hash: fedf570852
+made: 2026-11-18T08:43:10+00:00
+kind: revision
+title: Public1 WS08 · Revision · 18 min
+map:
+- The monarch and the Crown
+- Nature and scope of the prerogative
+- Prerogative and statute
+- Treaties and dualism
+- Judicial control of the prerogative
+recap:
+- In civil proceedings, the court can't grant an injunction or specific performance against the Crown, or against a Crown officer where that would give relief against the Crown; it makes a declaration; in judicial review, ministers can be injuncted.
+- The prerogative is the residue of common law powers left to the Crown: no new ones can be created, and it cannot change the law or create offences.
+- A statute on the same ground puts the prerogative in abeyance; the prerogative can't frustrate an enacted scheme, even one not yet in force, or change domestic law.
+- A treaty is normally laid for 21 sitting days before ratification, and even once ratified it creates no rights or duties in domestic law until an Act incorporates it.
+- Subject matter, not source, decides review: high policy is generally non-justiciable and decisions affecting individuals are reviewable; prorogation can be reviewed, but statute shields dissolution from the courts.
+summary: Ministers use the prerogative, a residue of common law powers that can't grow, can't change domestic law and gives way to statute; and the courts review it by subject matter, not source.
+invented:
+- a tribunal whose decisions "shall not be questioned in any court" (warm-up)
+- a pedestrian hit by a government department's lorry
+- an Order in Council licensing electric scooters
+- an enacted but uncommenced flood compensation scheme, and a minister's cheaper scheme
+- a treaty promising a customs exemption for foreign investors, and an importer's tribunal claim
+- a ten-week prorogation before a deadline, and a later early dissolution
+guide_only: []
+---
+## Map
+Will: Today's big question is who really holds the King's old powers, and what stops the government misusing them. There are five areas, running from the Crown, through the prerogative and statute, to treaties and the courts.
+Hannah: First, a warm-up from the rule of law. A statute says a tribunal's decision shall not be questioned in any court, and the tribunal makes an error of law. Can the court still review it?
+Will (scenario pause): <think>
+Will: Yes. Ouster clauses are read restrictively, and a decision vitiated by error of law is a nullity, so those words don't protect it. The tempting answer is that the words bar review, but only clear and explicit words exclude it.
+Hannah: Yes: an error of law makes the decision a nullity, so general ouster words don't shield it.
+
+## Block 1: The monarch and the Crown
+Will: So, the monarch and the Crown: who really exercises the King's powers? The UK is a constitutional monarchy, with the monarch as head of state. The King's legal powers are exercised on ministerial advice or according to convention. That goes for Royal Assent, appointing the Prime Minister, proroguing, and dissolving Parliament on the Prime Minister's request.
+Hannah: So whom does the King appoint as Prime Minister?
+Will: Whoever best commands the confidence of the Commons. That's usually the largest party's leader, but it is not whoever the outgoing Prime Minister advises. And by convention, royal assent is always given.
+Hannah: Is Royal Assent the same as King's Consent?
+Will: They're distinct. King's Consent is a rule of parliamentary procedure, needed for a Bill affecting the prerogative, hereditary revenues, or the personal property or interests of the Crown. Without it the Bill cannot complete its passage, but it is not a condition of an Act's legal validity.
+Hannah: And what do we mean by the Crown?
+Will: The Crown means the monarch in an official capacity, a corporation sole, distinct from the monarch as a private individual. Ministers and government departments act for it as servants of the Crown, and, at least for liability in tort, they are not themselves the Crown. The monarch personally is immune from civil and criminal proceedings.
+Hannah: Does an Act of Parliament bind the Crown?
+Will: A Westminster Act is presumed not to bind the Crown unless it does so expressly or by necessary implication. Wales runs the other way. An Act of Senedd Cymru binds the Crown unless it makes express provision to the contrary. That applies to such Acts receiving Royal Assent on or after 1 January 2020. But it cannot make the Crown criminally liable, and it applies to persons in the service of the Crown as it applies to other persons.
+Hannah: Now suing the Crown: what can a claimant get?
+Will: Under the Crown Proceedings Act, the Crown can be sued in contract, and it is liable in tort as if it were a private person of full age and capacity. But in civil proceedings the court cannot order specific performance or an injunction against the Crown, nor against an officer of the Crown if that would give relief against the Crown. Instead it makes a declaration.
+Hannah: Is judicial review any different on remedies?
+Will: It is. There, the court can grant an injunction against a minister, and ministers and departments can be held in contempt in their official capacity.
+Hannah (summing up): In civil proceedings, the court can't grant an injunction or specific performance against the Crown, or against a Crown officer where that would give relief against the Crown; it makes a declaration; in judicial review, ministers can be injuncted.
+Will: Yes: the kind of proceedings decides the remedy, and in civil proceedings the bar also covers a Crown officer where that would give relief against the Crown.
+
+## Block 2: Nature and scope of the prerogative
+Hannah: Before the nature and scope of the prerogative, a question on suing the Crown. A pedestrian hit by a negligently driven government department lorry brings an ordinary negligence claim for damages and an injunction against the department. What relief can the court grant?
+Will (scenario pause): <think>
+Will: Damages, and at most a declaration. The Crown is liable in tort like a private person, but in civil proceedings no injunction lies against it. The tempting answer is an injunction, because ministers can be injuncted, but that's only in judicial review.
+Hannah: Yes: tort liability gives damages, and the injunction bar leaves a declaration.
+Will: Now the nature and scope of the prerogative: what is it? The prerogative is the residue of common law powers left to the Crown, mostly exercised by ministers. So no new prerogatives can be created, and the Crown cannot change the law or create offences by prerogative.
+Hannah: Which powers does it cover?
+Will: Ministers' examples include treaties and foreign affairs, deploying the armed forces, passports and mercy. Mercy, in England and Wales, is exercised on the Justice Secretary's advice, not the Home Secretary's.
+Hannah: And which examples are the monarch's own?
+Will: Those include honours, appointing ministers, prorogation and dissolution, used on ministerial advice or according to convention.
+Hannah: Where does the power to dissolve Parliament come from now?
+Will: The Dissolution and Calling of Parliament Act repealed the Fixed-term Parliaments Act and revived the prerogative to dissolve Parliament. It also has an ouster: courts may not question the power's exercise or its limits.
+Hannah: When does Parliament dissolve if nobody acts?
+Will: Automatically, after 5 years. Precisely, it dissolves at the start of the fifth anniversary of its first meeting.
+Hannah: And when is polling day?
+Will: Polling day is 25 working days after dissolution.
+Hannah: What keeps prerogative power in check?
+Will: The controls are statute, judicial review and ministers' accountability to Parliament, along with political pressure and evolving conventions. Conventions govern how prerogatives are used. So the monarch acts on the Prime Minister's advice and dissolution follows a request, while a Commons debate before military action is not legally required. But breach of such a convention does not make the exercise unlawful.
+Hannah (summing up): The prerogative is the residue of common law powers left to the Crown: no new ones can be created, and it cannot change the law or create offences.
+Will: Yes: it's a fixed residue that cannot grow.
+
+## Block 3: Prerogative and statute
+Hannah: Before prerogative and statute, a question on what the prerogative is. No statute regulates electric scooters. Claiming an inherent prerogative, a minister makes an Order in Council making unlicensed riding an offence. Is that Order lawful?
+Will (scenario pause): <think>
+Will: It's unlawful. No such prerogative existed, new ones cannot be created, and the prerogative cannot create offences. The tempting answer is that the prerogative fills any gap statute leaves, but it is only a residue.
+Hannah: Yes: no existing power lies behind the Order, and it could never create an offence.
+Will: Now prerogative and statute: when does a statute stop the government using the prerogative? Where a statute covers the same ground, the prerogative goes into abeyance, and the government must use the statute with its conditions. So where the statute requires compensation, the government can't use the prerogative instead and pay nothing.
+Hannah: Does abeyance mean the prerogative has gone for good?
+Will: Abeyance means suspended, not necessarily extinguished, and whether repeal revives the prerogative is debated. Statute displaces the prerogative, and it can also abolish it, expressly or by necessary implication. Civil service management now rests on statute, not the prerogative.
+Hannah: What about an Act passed but not yet in force?
+Will: A minister cannot use the prerogative to frustrate a statutory scheme Parliament has enacted, even one not yet brought into force. There is also a duty to keep commencement under review.
+Hannah: Can the prerogative change the law at home?
+Will: The prerogative cannot be used to change domestic law or remove statutory rights. That is why notice of withdrawal from the EU treaties required an Act of Parliament. And changing domestic law by a prerogative Order in Council is still unlawful: the form does not save it. As an exception, the Crown can legislate by prerogative for some overseas territories.
+Hannah (summing up): A statute on the same ground puts the prerogative in abeyance; the prerogative can't frustrate an enacted scheme, even one not yet in force, or change domestic law.
+Will: Yes: an Act in force on the same ground puts the prerogative in abeyance, and an Act only enacted can't be frustrated by it.
+
+## Block 4: Treaties and dualism
+Hannah: Before treaties and dualism, a question on statute. Parliament enacts a flood compensation scheme, not yet in force. A minister sets up a cheaper scheme under the prerogative and says the Act will never be commenced. Is that lawful?
+Will (scenario pause): <think>
+Will: It isn't. A minister cannot use the prerogative to frustrate a scheme Parliament has enacted, and he must keep commencement under review. The tempting answer is that an Act not in force leaves the prerogative free, but enactment is enough.
+Hannah: Yes: enactment is what stops him, and commencement must stay under review.
+Will: Now treaties and dualism: when does a treaty take effect in our law? Before ratification, a treaty must be laid before Parliament. The period is 21 sitting days.
+Hannah: What if the Commons resolves against the treaty?
+Will: Then it cannot be ratified unless the minister explains and a new 21-day period runs, and that can be repeated.
+Hannah: And what if only the Lords resolves against it?
+Will: A Lords-only resolution can be overridden by a ministerial statement. Exceptional cases may also be exempt. One trap: the period is not 40 days. That is the period for annulling a negative-procedure statutory instrument.
+Hannah: Can someone rely on a ratified treaty in court?
+Will: Not without an Act. The UK is dualist: a treaty made by the government under the prerogative gives nobody domestic rights or duties until incorporated by Act of Parliament. That includes the Convention on human rights: its rights take effect domestically through the Human Rights Act.
+Hannah: Can a court look at an unincorporated treaty at all?
+Will: Only for limited uses. Chiefly, that's resolving ambiguity in legislation, presuming Parliament meant to comply, and also where legislation requires resort to the treaty. But courts will not decide whether the UK has breached it.
+Hannah (summing up): A treaty is normally laid for 21 sitting days before ratification, and even once ratified it creates no rights or duties in domestic law until an Act incorporates it.
+Will: Yes: only an Act of Parliament gives the treaty effect at home.
+
+## Block 5: Judicial control of the prerogative
+Hannah: Before judicial control of the prerogative, a question on treaties. A treaty promises foreign investors a customs exemption. It is laid, the Lords alone resolve against it, it is ratified, and no Act follows. Will an importer's tribunal claim for the exemption succeed?
+Will (scenario pause): <think>
+Will: It fails. Ratification could go ahead, because a ministerial statement overrides a Lords-only resolution. But with no incorporating Act, the treaty creates no domestic rights. The tempting answer is that a ratified treaty can be enforced, but dualism denies it.
+Hannah: Yes: the missing Act, not the Lords' resolution, defeats the claim.
+Will: Now judicial control of the prerogative: when will a court review a prerogative decision? The rule from the GCHQ case is that reviewability depends on the decision's subject matter, not its source. Matters of high policy, such as making treaties, defence, honours and appointing ministers, are generally non-justiciable. Decisions affecting individuals are reviewable. So refusing someone a passport gets full review, while recognising a foreign state gets minimal review at most.
+Hannah: What will the courts not review?
+Will: There are three limits. Courts will not review high policy or matters unsuitable for judicial decision, proceedings in Parliament, or the validity of an Act of Parliament. But once a decision is justiciable, the ordinary grounds of review apply.
+Hannah: Didn't Lord Roskill list powers that can't be reviewed?
+Will: He did, and his list was non-exhaustive. It was treaties, defence and mercy. It was also honours, dissolution and appointing ministers. The trap is mercy: it is not wholly unreviewable just because he listed it, since his list was obiter and has been eroded.
+Hannah: Where does national security fit in?
+Will: A legitimate expectation of consultation, arising from past practice, can be outweighed by national security, as it was in the GCHQ case. National security is for the executive, but only where there is evidence that the decision was actually based on it.
+Hannah: How intensely do the courts review?
+Will: Administrative decisions of great importance to an individual are more likely to get full review, and human rights in play point towards justiciability. For diplomatic representations on behalf of a detained national, review is low. The request must be properly considered, but the court won't order whether or what representations are made.
+Hannah: And how far are mercy and armed forces policy reviewed?
+Will: For mercy, review is limited, for example to a failure to consider the range of pardons. Armed forces membership policy is reviewable, because rights and livelihood are affected, though with deference to expertise.
+Hannah: Can negligence claims be brought over defence decisions?
+Will: Sometimes. Combat immunity covers only decisions in or close to active combat, and it is construed narrowly. So failings before deployment, such as equipment or training, can found a negligence claim, but the decision to go to war cannot.
+Hannah: Are prerogative Orders in Council immune, like an Act?
+Will: They aren't. They count as primary legislation for Human Rights Act purposes, but they are still reviewable on ordinary judicial review grounds. That includes Orders for overseas territories.
+Hannah: Can a court review a prorogation?
+Will: It can, because courts decide whether a prerogative power exists and what its limits are. Advice to prorogue, or a prorogation, is unlawful if it frustrates or prevents, without reasonable justification, Parliament's ability to carry out its constitutional functions. Those functions are as a legislature and as the body responsible for supervising the executive. And the court intervenes if the effect is sufficiently serious.
+Hannah: What happened in the Miller prorogation case?
+Will: The advice and the Order in Council were unlawful, null and of no effect, so Parliament had not been prorogued. The case treated prorogation as a question of the prerogative's limits, not its exercise, which is why it was justiciable.
+Hannah: Is dissolution open to the same challenge?
+Will: It isn't. The statutory ouster covers the dissolution power, its exercise, and its limits or extent, and improper purpose makes no difference. Unlike the Upper Tribunal ouster, it has no exceptions. That ouster keeps exceptions for bad faith and fundamental breach of natural justice. Don't confuse the pair: the ouster covers dissolution, not prorogation.
+Hannah (summing up): Subject matter, not source, decides review: high policy is generally non-justiciable and decisions affecting individuals are reviewable; prorogation can be reviewed, but statute shields dissolution from the courts.
+Will: Yes: ask what the decision is about, then check for the dissolution ouster.
+
+## Recap
+Hannah: One last question, mixing dissolution with judicial control. Giving no reason, a Prime Minister advises a ten-week prorogation just before a deadline Parliament wanted to debate, and later requests an early dissolution for electoral advantage. Which challenge can the court decide on its merits?
+Will (scenario pause): <think>
+Will: Only the prorogation challenge. Prorogation is outside the ouster, and this one frustrates Parliament's functions without reasonable justification. The tempting answer is that an improper purpose lets the court review the dissolution too, but the ouster makes purpose irrelevant.
+Hannah: Yes: the ouster shields dissolution whatever the motive, and it never reaches prorogation.
+Will: Now the quick-fire round.
+Hannah: What's the summary for the monarch and suing the Crown?
+Will (quick-fire pause): <think>
+Will: In civil proceedings, the court can't grant an injunction or specific performance against the Crown, or against a Crown officer where that would give relief against the Crown; it makes a declaration; in judicial review, ministers can be injuncted.
+Hannah: What's the summary for the nature and scope of the prerogative?
+Will (quick-fire pause): <think>
+Will: The prerogative is the residue of common law powers left to the Crown: no new ones can be created, and it cannot change the law or create offences.
+Hannah: What's the summary for prerogative and statute?
+Will (quick-fire pause): <think>
+Will: A statute on the same ground puts the prerogative in abeyance; the prerogative can't frustrate an enacted scheme, even one not yet in force, or change domestic law.
+Hannah: What's the summary for treaties and dualism?
+Will (quick-fire pause): <think>
+Will: A treaty is normally laid for 21 sitting days before ratification, and even once ratified it creates no rights or duties in domestic law until an Act incorporates it.
+Hannah: What's the summary for judicial control of the prerogative?
+Will (quick-fire pause): <think>
+Will: Subject matter, not source, decides review: high policy is generally non-justiciable and decisions affecting individuals are reviewable; prorogation can be reviewed, but statute shields dissolution from the courts.
+Hannah: And what's the whole workshop in one sentence?
+Will: Ministers use the prerogative, a residue of common law powers that can't grow, can't change domestic law and gives way to statute; and the courts review it by subject matter, not source.
