@@ -1,0 +1,321 @@
+---
+id: criminal-ws01-v23
+unit: u-bpp-Criminal-01
+guide_hash: 6ca9c7906c
+made: 2026-11-19T08:43:23+00:00
+title: Criminal Law WS01 · Criminal Law Basics
+map:
+- Burden of proof, elements of liability and classification of offences
+- Actus reus
+- Causation
+- Omissions and duties to act
+- Intention and motive
+- Recklessness, malice, dishonesty and negligence
+- Coincidence of actus reus and mens rea
+- Transferred malice and its limits
+- Mistake of fact
+- Strict liability
+- Defences: intoxication
+- Defences: consent
+- Defences: self-defence
+recap:
+- The prosecution bears the legal burden of proving every element beyond reasonable doubt, and where D raises a defence with only an evidential burden, the prosecution must then disprove it beyond reasonable doubt.
+- Every external element of the offence must be proved, and result crimes need the result and causation while conduct crimes are complete without any result.
+- D's conduct must be a factual cause and an operating and substantial cause, and the chain is broken by a free, deliberate and informed act, treatment so independent and potent that D's contribution is insignificant, V's daft or wholly unexpected reaction, or an extraordinary natural event D could not reasonably foresee.
+- There is no liability for an omission unless D was under a legal duty to act and the offence can be committed by omission; a duty arises where D inadvertently creates a danger and becomes aware of it, and will normally arise where D created or contributed to a state of affairs D knows or ought reasonably to know has become life-threatening.
+- Where the result was not D's purpose, the jury may not find intention unless the result was a virtual certainty, barring some unforeseen intervention, and D appreciated that, and even then the jury may, not must, find it; motive is irrelevant to mens rea.
+- Recklessness is subjective and negligence is objective, so failing to foresee the risk defeats recklessness but not gross negligence manslaughter.
+- The actus reus and mens rea must coincide in time, but a continuing act satisfies this if D forms the mens rea while the act continues, and in a single transaction D is liable even though the fatal act was done without mens rea.
+- Mens rea transfers only to the same offence against a different target, and not between offences of a different kind, unless D was in fact reckless as to the actual result.
+- A genuine mistake of fact, even an unreasonable one, that leaves D without the mens rea required prevents liability for an offence needing intention or recklessness.
+- Strict liability offences need no mens rea as to at least one element of the actus reus, and none of the specified offences is of this type.
+- Intoxication matters only if D did not in fact form the mens rea: voluntary intoxication can help on specific intent offences but not basic intent ones, save a drunken belief in a lawful excuse for simple criminal damage or simple arson, while involuntary intoxication can help on either.
+- Consent is a defence to common assault, but where ABH or worse is intended or caused it is a defence only within a recognised exception, and never for serious harm for sexual gratification, subject to the STI exception for sections 20 and 47.
+- Belief is judged subjectively and the force objectively on the facts as D believed them, and a mistake caused by voluntary intoxication does not count.
+summary: We covered burden of proof and the elements of liability, actus reus, causation, omissions and duties to act, intention and motive, recklessness and dishonesty, coincidence, transferred malice, mistake of fact, strict liability, and the defences of intoxication, consent and self-defence.
+invented:
+- Joel
+- Anna
+- Tomasz
+- Ewan
+- Kofi
+---
+## Map
+Will: Today is criminal law basics, and it runs in thirteen topics. First, the burden of proof and the elements of liability. Then actus reus. Then causation. Then omissions and duties to act.
+Hannah: So that is what the prosecution must show, and how conduct links to a result.
+Will: Right. Next come the mental states: intention and motive, then recklessness and its look-alikes, then the rule that actus reus and mens rea must coincide.
+Hannah: Mind and timing, then.
+Will: Then transferred malice, mistake of fact and strict liability. Last, the defences: intoxication, consent and self-defence.
+Hannah: Let me say it back in groups. Proof, actus reus, causation, omissions. Then intention, recklessness and coincidence. Then transferred malice, mistake and strict liability. And finish with the three defences.
+Will: Yes, that is the run. Let's start with the burden of proof.
+## Block 1: Burden of proof, elements of liability and classification of offences
+Will: First topic: the burden of proof and the elements of liability. The one habit to build is checking each element of the charged offence in turn.
+Hannah: What are the elements?
+Will: There are three to prove. One, the actus reus: the conduct, any required circumstances and any required result. Two, the mens rea. Three, the absence of a valid defence.
+Hannah: And if one of them fails?
+Will: Then D is not guilty of that offence, though often guilty of a lesser one.
+Hannah: Why go element by element?
+Will: Because a conviction needs every element. A gap in any one of them is enough to defeat the charge.
+Hannah: Fine. So who has to prove all this?
+Will: The prosecution bears the legal burden of proving every element beyond reasonable doubt.
+Hannah: Even a defence? Surely D has to prove that.
+Will: Careful. D may raise a defence that carries only an evidential burden. Self-defence is one, and so is loss of control. So is lack of mens rea through intoxication.
+Hannah: And then?
+Will: Then the prosecution must disprove it beyond reasonable doubt.
+Hannah: So for a defence like that, D only has to put it in play, and the prosecution has to knock it down.
+Will: Yes, that is the point. For a defence carrying only an evidential burden, the legal burden stays with the prosecution throughout.
+Hannah: In a line: the prosecution proves every element beyond reasonable doubt, and when D raises a defence with only an evidential burden, the prosecution must disprove it to the same standard.
+Will: Right. Now to the actus reus.
+## Block 2: Actus reus
+Will: Next, actus reus. The lead point is that result crimes also need causation, and conduct crimes do not.
+Hannah: First, what is the actus reus?
+Will: Every external element of the offence other than the mental element. That means the conduct, any required circumstances, and for result crimes, the consequence.
+Hannah: What is a circumstance?
+Will: Something the offence requires to be true, such as property belonging to another, or an act done without consent.
+Hannah: So if the property is D's own, there is a missing circumstance.
+Will: Yes. Then there is no offence, even if D had mens rea. An attempt may still lie.
+Hannah: Why does that matter so much?
+Will: Because every element of the actus reus must be proved. The mental state cannot fill a gap in the external elements.
+Hannah: Now, result crimes against conduct crimes. What is the difference?
+Will: Result crimes need the prohibited result and causation. They include murder and manslaughter, the injury offences under sections 47, 20 and 18, and criminal damage and arson.
+Hannah: And conduct crimes?
+Will: They are complete without any result. They include theft and robbery, burglary under section 9(1)(a), and all three forms of fraud.
+Hannah: So for theft, it doesn't matter that no loss followed?
+Will: Right. No loss, injury or gain is needed. The conduct itself completes the offence.
+Hannah: Recap: the actus reus is every external element, a missing circumstance means no offence, though an attempt may lie, and only result crimes need the result and causation.
+Will: Yes. And causation is where we go next.
+## Block 3: Causation
+Will: On to causation. The order is factual causation, then legal causation, then whether anything later broke the chain.
+Hannah: Start with factual. What is it?
+Will: The but-for test. D's conduct is a factual cause only if the result would not have occurred but for it.
+Hannah: So if V would have died at the same moment anyway, D isn't the cause.
+Will: Right, though D may be guilty of an attempt.
+Hannah: And legal causation?
+Will: D's conduct must be an operating and substantial cause. Substantial means more than minimal.
+Hannah: Does it have to be the main cause?
+Will: No. It need not be the sole or main cause. Contributing together with other causes is enough.
+Hannah: Now, the chain. What can break it?
+Will: Start with a third party's act. A free, deliberate and informed act breaks the chain. That includes the act of a fully informed adult victim.
+Hannah: Like an adult who injects himself with a drug D supplied.
+Will: Yes: free, deliberate and informed, so the chain is broken. Compare D firing at police, where officers returning fire in performing their legal duty kill V. That is not a free act, so the chain is not broken.
+Hannah: So the deciding question is whether the act was free, deliberate and informed.
+Will: Right. A reasonable act of self-defence or self-preservation is not free either.
+Hannah: What about doctors? Bad treatment must break it sometimes.
+Will: Negligent medical treatment breaks the chain only if it was so independent of D's acts, and so potent in causing death, that D's contribution is insignificant.
+Hannah: So if D's wound is still an operating and substantial cause, D stays liable.
+Will: Yes. Only palpably wrong treatment of a largely healed wound is likely to break the chain. And lawfully switching off life support after brain-stem death does not break it.
+Hannah: Next, V's own reaction. Say V jumps out of a car to escape.
+Will: D causes the injury if the reaction was reasonably foreseeable, meaning within the range of responses expected of a person in V's situation. Only a daft or wholly unexpected reaction breaks the chain. Allowance is made for the agony of the moment.
+Hannah: And V's own condition?
+Will: The thin skull rule. D takes V as D finds V, including V's physical condition, beliefs and characteristics. Unusual vulnerability does not break the chain. Neither does V refusing treatment, such as a blood transfusion on religious grounds.
+Hannah: Last, the weather.
+Will: An extraordinary natural event that D could not reasonably foresee breaks the chain. A foreseeable one does not. The tide coming in, where D leaves V unconscious on a beach, is the example.
+Hannah: Let me try one. Do you have a scenario?
+Will: Joel attacks Anna in his car. She is frightened, opens the door and jumps out to escape, and breaks her arm on the road. The test is whether her reaction was reasonably foreseeable. Did Joel cause the injury?
+Hannah: So: Joel caused it, or her jump broke the chain?
+Hannah: <think>
+Hannah: This is the victim's reaction. She was escaping from the attack, and jumping from a car is the standard example. It is within what you would expect of someone in her position, so the chain is not broken and Joel caused it.
+Will: Right. Only a daft or wholly unexpected reaction breaks the chain, and jumping out to escape his attack was not that.
+Hannah: Recap: factual cause by the but-for test, then an operating and substantial cause. Then the chain can be broken by a free, deliberate and informed act, or by treatment so independent and potent that D's contribution is insignificant.
+Will: Yes. And what else can break it?
+Hannah: V's daft or wholly unexpected reaction can, and so can an extraordinary natural event D could not reasonably foresee.
+Will: Yes. Now to the situation where D does nothing at all.
+## Block 4: Omissions and duties to act
+Will: Omissions and duties to act. The question is when a failure to act is criminal.
+Hannah: I assumed that walking past someone in trouble must be an offence.
+Will: Not as a general rule. There is no criminal liability for an omission, even where rescue would be easy.
+Hannah: Always?
+Will: Unless two things are true. One, D was under a legal duty to act. Two, the offence can be committed by omission.
+Hannah: Which offences can?
+Will: Murder and gross negligence manslaughter can. Unlawful act manslaughter cannot, because it requires an unlawful act.
+Hannah: So for unlawful act manslaughter, an omission will not do, because a failure to act cannot supply the unlawful act.
+Will: Right, that is the reasoning. Now to one source of duty: a danger that D created or contributed to.
+Hannah: Meaning?
+Will: D inadvertently creates a dangerous situation and then becomes aware of it. D is then under a duty to take reasonable steps to avert or limit the danger.
+Hannah: And if D does nothing?
+Will: Then D is liable if D has the relevant mens rea at that point.
+Hannah: Give me the pair.
+Will: In the first, D accidentally starts a fire, notices it, moves away and does nothing. A duty to take reasonable steps arose, so D is liable for arson. In the second, D has no legal duty and watches V drown, though rescue would be easy. There is no liability.
+Hannah: So the deciding fact is whether D was under a legal duty to act, here from creating the danger and becoming aware of it.
+Will: Yes. And the offence must be one that can be committed by omission.
+Hannah: What about a drug supplier who fails to call for help? I thought that was liable automatically.
+Will: Not automatically. Where D created or contributed to the state of affairs, and knows, or ought reasonably to know, that it has become life-threatening, a duty to take reasonable steps to save V will normally arise. Sending for help is one example.
+Hannah: And the breach?
+Will: It can found gross negligence manslaughter. But the supply itself cannot found unlawful act manslaughter. That is Evans.
+Hannah: Recap: no liability for an omission unless D owed a legal duty and the offence can be committed by omission. A duty arises where D inadvertently creates a danger and becomes aware of it, and normally arises where D created or contributed to a state of affairs D knows or ought reasonably to know has become life-threatening.
+Will: Right. Next, what D has to have in mind: intention.
+## Block 5: Intention and motive
+Will: Intention and motive. The lead point is that where the result was not D's purpose, Woollin decides. And even when both limbs are met, the jury may find intention, not must.
+Hannah: What are the limbs?
+Will: Oblique, or indirect, intention. The jury may not find that D intended the result unless two things are met. One, the result was a virtual certainty, barring some unforeseen intervention, as a result of D's actions. Two, D appreciated that this was the case.
+Hannah: So both the fact and D's awareness of it.
+Will: Yes. And foresight of a virtual certainty is only evidence from which the jury may find intention. It is not intention itself.
+Hannah: So even with both limbs, a jury is not forced to find intention.
+Will: Right. May, not must.
+Hannah: Where does foresight of a high probability land?
+Will: Not enough. Neither is a natural consequence. A jury is not bound to infer intention merely because the result was a natural and probable one.
+Hannah: Show me the pair.
+Will: D's aim is something else, say to frighten. But the result is a virtual certainty and D appreciates that. The jury may find intention. In the second, D foresees the result only as highly probable. That is not enough.
+Hannah: So the deciding line is virtual certainty plus D's appreciation of it, and even then it is for the jury.
+Will: Yes. Now motive. It is irrelevant to mens rea.
+Hannah: Even a good motive?
+Will: Even a good one. A mercy killing does not negate intention. A bad motive does not create it either.
+Hannah: Recap: oblique intention needs a virtual certainty, barring some unforeseen intervention, that D appreciated, and even then the jury may, not must, find it. Motive is irrelevant to mens rea.
+Will: Right. Next, recklessness and its relatives.
+## Block 6: Recklessness, malice, dishonesty and negligence
+Will: Recklessness, malice, dishonesty and negligence. The lead point is that recklessness is subjective and negligence is objective.
+Hannah: What does subjective mean here?
+Will: D is reckless as to a result if D is aware of a risk that it will occur. And as to a circumstance, if D is aware of a risk that it exists. In both cases it must also be unreasonable, in the circumstances known to D, to take the risk.
+Hannah: And if D never saw the risk?
+Will: Then D is not reckless, even if the risk was obvious. A young D who did not foresee it at all is an example.
+Hannah: So an obvious risk isn't enough.
+Will: Right. For criminal damage, reckless has that meaning, and the case is R v G.
+Hannah: What about the word maliciously?
+Will: In the Offences Against the Person Act, maliciously means intention, or foresight that harm of the kind in question might be caused and going on to take the risk. That is Cunningham.
+Hannah: These sound very close.
+Will: They are the look-alike. Only reckless asks whether taking the risk was unreasonable in the circumstances known to D. Maliciously does not.
+Hannah: So: reckless has the unreasonableness limb, maliciously is satisfied by foresight and going on.
+Will: Yes. Next, dishonesty. In the Theft Act and Fraud Act offences, dishonestly is the Ivey v Genting test, applied in Barton and Booth. For theft-based offences only, section 2 of the Theft Act adds to it.
+Hannah: And negligence?
+Will: Failing to meet the standard of a reasonable person. It is not subjective mens rea. Among the specified offences, only gross negligence manslaughter is based on it.
+Hannah: So if D did not foresee the risk, that defeats recklessness but not gross negligence.
+Will: Right, that is the contrast. Recap time?
+Hannah: Recklessness needs awareness of the risk plus unreasonableness, maliciously needs foresight and going on, and negligence is objective, so not foreseeing the risk defeats recklessness but not gross negligence manslaughter.
+Will: Yes. Next, the timing of the two elements.
+## Block 7: Coincidence of actus reus and mens rea
+Will: Coincidence of actus reus and mens rea. The lead point is that continuing acts and single transactions apply where D's mens rea and the act causing the result do not line up in time.
+Hannah: What is the basic rule?
+Will: The actus reus and mens rea must coincide in time.
+Hannah: And the first way round it?
+Will: A continuing act. It satisfies the rule if D forms the mens rea at any point while the act continues.
+Hannah: Picture it.
+Will: D accidentally drives onto a police officer's foot, then deliberately refuses to move off it. The act is still going on when the mens rea arrives, so that is battery.
+Hannah: And the second way?
+Will: A single transaction. D does a series of acts as one transaction. D attacks V intending to kill, wrongly thinks V is dead, and disposes of the apparent body, which actually kills V. D is liable even though the fatal act was done without mens rea.
+Hannah: Does it need to be planned?
+Will: No. It also applies to an unplanned sequence where D harms V and then, to escape or conceal, does the act that causes death.
+Hannah: So how do I tell the two apart?
+Will: In a continuing act, one act is still going on when D forms the mens rea. In a single transaction, a series of acts is treated as one, so D is liable though the fatal act was done without mens rea.
+Hannah: Recap: the elements must coincide. A continuing act satisfies that if D forms the mens rea while the act continues, and in a single transaction D is liable even though the fatal act lacked mens rea.
+Will: Right. Now, what if D hits the wrong target?
+## Block 8: Transferred malice and its limits
+Will: Transferred malice and its limits. The question is when mens rea follows D to an unintended target.
+Hannah: When does it?
+Will: If D, with mens rea for an offence against one person or property, commits the actus reus of the same offence against another, D's mens rea transfers and D is guilty.
+Hannah: Like swinging a belt at X and hitting Y.
+Will: Yes. The same offence, so the mens rea transfers.
+Hannah: And the limit?
+Will: Malice does not transfer between offences of a different kind. Say D throws a stone at people, misses and breaks a window. Intention to harm a person does not supply the mens rea for criminal damage. The same applies the other way round.
+Hannah: Is there any way out for the prosecution?
+Will: Only if D was actually reckless about the damage done.
+Hannah: So the deciding question is whether the harm done is the actus reus of the same offence D had the mens rea for.
+Will: Right. Same offence, it transfers. Different kind, it does not.
+Hannah: Recap: mens rea transfers only to the same offence against a different target, not between offences of a different kind, unless D was in fact reckless as to the actual result.
+Will: Yes. Next, what if D simply got the facts wrong.
+## Block 9: Mistake of fact
+Will: Mistake of fact. The question is when a mistake negates mens rea.
+Hannah: Does the mistake have to be sensible?
+Will: No. A genuine mistake, even an unreasonable one, can do it, if it means D lacks the mens rea required.
+Hannah: Give me one.
+Will: D believes the property taken is D's own. Or D believes that V consented.
+Hannah: Then what does it prevent?
+Will: Liability for an offence requiring intention or recklessness.
+Hannah: So what is reasonableness for, if it doesn't decide?
+Will: It is only evidence of whether the belief was genuinely held. A silly belief is harder to believe, but the test is genuineness.
+Hannah: Recap: a genuine mistake of fact, even an unreasonable one, that leaves D without the required mens rea prevents liability for an offence needing intention or recklessness.
+Will: Right. Next, offences where mens rea is not needed.
+## Block 10: Strict liability
+Will: Strict liability, which is short. These offences require no mens rea as to at least one element of the actus reus.
+Hannah: Where do you meet them?
+Will: They are mostly regulatory. And none of the specified offences in this module is of this type.
+Hannah: So for those offences, there is always some mens rea to look for.
+Will: Right. Recap?
+Hannah: Strict liability means no mens rea as to at least one element of the actus reus, and none of the specified offences is of this type.
+Will: Yes. Now the defences, beginning with intoxication.
+## Block 11: Defences: intoxication
+Will: Defences, starting with intoxication. Ask first whether D in fact formed the mens rea.
+Hannah: So it is not really a defence in its own right.
+Will: Right. Intoxication matters only where, because of it, D did not in fact form the mens rea. A drunken intent is still an intent. If D formed the mens rea, even only because disinhibited by drink or drugs, D is guilty.
+Hannah: Then what is the split?
+Will: Voluntary intoxication depends on the type of offence. For specific intent offences it can be relied on. If because of it D lacked the intention required, D is not guilty of that offence.
+Hannah: Which are the specific intent offences?
+Will: They include murder and section 18, theft and robbery, and burglary with intent under section 9(1)(a). Also aggravated criminal damage where intention to endanger life is charged.
+Hannah: And attempts?
+Will: Treated as specific intent, because D must intend to commit the full offence. Majewski would probably still apply where recklessness as to a circumstance suffices.
+Hannah: Now the other side.
+Will: Voluntary intoxication is no defence to basic intent offences. They include common assault, section 47 and section 20, simple criminal damage and arson, and manslaughter.
+Hannah: Even if D was too drunk to see the risk?
+Will: Yes. D is liable even if, through drink, D did not foresee the risk. That is Majewski, and Heard.
+Hannah: What is the test then?
+Will: The jury asks whether D, not a reasonable person, would have foreseen the risk had D been sober. If D would not have foreseen it even when sober, D is not reckless.
+Hannah: Is there any exception?
+Will: A drunken, honestly held belief in a lawful excuse, such as that the owner would consent, is a defence to simple criminal damage and simple arson under section 1(1). Jaggard v Dickinson is the case.
+Hannah: And the aggravated forms?
+Will: That excuse does not apply to aggravated criminal damage or arson under section 1(2). Where intention to endanger life is charged, it is a specific intent offence. Whether the reckless form is basic intent is unsettled. Caldwell treated it as basic, but Heard, obiter, indicates specific intent.
+Hannah: Give me the pair.
+Will: Very drunk D wounds V and, because of the drink, lacked the intention required for section 18. Not guilty of section 18. Charged under section 20 on the same facts, intoxication is no defence if D would have foreseen the risk had D been sober.
+Hannah: So the deciding question is whether the offence is specific intent, section 18, or basic intent, section 20.
+Will: Right. Now a scenario. Tomasz, very drunk at a party on drink he chose to have, hits Ewan with a bottle and wounds him. The jury accepts that, because of the drink, Tomasz did not have the intention required for section 18. The test is whether the offence charged is specific or basic intent. Can the drink help Tomasz on section 18, on section 20, on both, or on neither?
+Hannah: So: section 18 only, section 20 only, both, or neither?
+Hannah: <think>
+Hannah: This is voluntary intoxication. Section 18 is specific intent, so lacking the intention helps there. Section 20 is basic intent, so the drink does not help. So section 18 only.
+Will: Right. On section 20, the question is whether Tomasz would have foreseen the risk had he been sober. If he would, he is liable.
+Hannah: There is a look-alike with recklessness, isn't there?
+Will: Yes. A D who did not foresee the risk at all is not reckless, even if the risk was obvious. But with voluntary intoxication on a basic intent charge, failing to foresee the risk because of drink does not help if D would have foreseen it sober.
+Hannah: And involuntary intoxication? A spiked drink, say.
+Will: That is a defence to any offence, specific or basic intent, if D did not actually form the mens rea. It is no defence if D still formed the mens rea, even though D would not have acted that way sober.
+Hannah: So involuntary helps on either type if D did not form the mens rea, and voluntary helps only on specific intent, with the lawful excuse exception for simple criminal damage or simple arson. Either way, a drunken intent is still an intent.
+Will: Right. Recap?
+Hannah: Intoxication matters only if D did not in fact form the mens rea. Voluntary can help on specific intent offences but not basic intent ones, save a drunken belief in a lawful excuse for simple criminal damage or simple arson. Involuntary can help on either.
+Will: Yes. Next, consent.
+## Block 12: Defences: consent
+Will: Consent. First ask what harm was intended or caused. A belief in consent is a separate, mens rea question.
+Hannah: What is the starting point?
+Will: Force is not unlawful if V consents, expressly or by implication. That includes the ordinary jostling and touching of everyday life, such as tapping someone to get their attention.
+Hannah: Is it always a defence?
+Will: Not always. It is a defence to common assault, but it is no defence where ABH or worse is intended or caused, for example sadomasochism or consensual fights.
+Hannah: Always, or are there exceptions?
+Will: Unless the activity falls within a recognised public-interest exception. These include reasonable surgery and properly conducted sport.
+Hannah: What counts as properly conducted?
+Will: Injuries inflicted within the rules, or in conduct that is part of the normal play of the game. A deliberate off-the-ball punch is so far outside the rules as not to be impliedly accepted, so it is criminal.
+Hannah: More exceptions?
+Will: Also rough horseplay, and tattooing and piercing. And sometimes consensual adult activity in private, such as branding by a spouse.
+Hannah: What about sexual gratification? I'd have said that was one.
+Will: It is not. Consent to the infliction of serious harm for sexual gratification is no defence. Serious harm here includes ABH under section 47, wounding, and GBH under sections 18 and 20. That codifies Brown.
+Hannah: Any exception to that?
+Will: For sections 20 and 47, it does not apply where the harm is STI infection in sexual activity V consented to knowing or believing D had the STI.
+Hannah: So gratification is not an exception, and the STI case is the carve-out from that rule.
+Will: Yes. Now belief in consent, which is a mens rea question. An honest belief that V consented to the touching, even if unreasonable, negates the mens rea of assault or battery. Rough horseplay is an example.
+Hannah: Why?
+Will: Because D then does not intend or foresee unlawful force.
+Hannah: And if D was drunk when forming the belief?
+Will: Different rules for different beliefs. For a belief that V consented to the touching, the jury asks whether D foresaw the risk of harm, or would have foreseen it if sober. That is Richardson and Irwin.
+Hannah: Is that the whole position?
+Will: The same court, following Aitken, also treated a genuine drunken belief in consent as a defence, a view the Law Commission calls incorrect. Compare a drunken belief that the owner would consent to damage, which is a defence to simple criminal damage and simple arson if honestly held.
+Hannah: Recap: consent is a defence to common assault, but where ABH or worse is intended or caused it works only within a recognised exception, and never for serious harm for sexual gratification, subject to the STI exception.
+Will: Right. Last, self-defence.
+## Block 13: Defences: self-defence
+Will: Self-defence. The lead point is that belief is subjective, but the force is judged objectively on the facts as D believed them. A mistake caused by voluntary intoxication does not count.
+Hannah: What does the defence cover?
+Will: Self-defence, defence of another, and reasonable force in the prevention of crime. They are complete defences to any offence involving force, including murder.
+Hannah: So it is an acquittal, not a lesser verdict.
+Will: Yes. If the defence is not disproved, D is acquitted outright. Once D raises it with evidence, the prosecution must disprove it beyond reasonable doubt.
+Hannah: What are the questions?
+Will: Two. One, did D genuinely believe that it was necessary to use force? That is judged subjectively, on the facts as D believed them. Two, was the degree of force reasonable in the circumstances as D believed them to be? That is judged objectively by the jury.
+Hannah: And defence of another?
+Will: The same two questions. D may use reasonable force to protect any person, including a stranger. A D who wrongly but honestly believes a third party is being attacked can rely on it.
+Hannah: Even if the belief was silly?
+Will: A genuine mistake counts even if unreasonable. The reasonableness of the belief goes only to whether it was genuinely held.
+Hannah: And the look-alike is the drunken mistake.
+Will: Yes. An honest mistake counts even if unreasonable. A mistake caused by voluntary intoxication does not, because the statute bars it.
+Hannah: Do you have a scenario?
+Will: Kofi, voluntarily drunk, sees a stranger raise an arm in a crowded bar and, because of the drink, wrongly thinks he is about to be attacked. He punches the stranger. The test is whether the mistake can count. Is Kofi judged on the facts as he believed them, or not, because the mistake came from drink?
+Hannah: So: judged on his belief, or the drink bars the mistake?
+Hannah: <think>
+Hannah: This is the drunken mistake. His belief was genuine, but it came from voluntary intoxication, so it does not count.
+Will: Right. A sober Kofi with the same honest mistake would have been judged on the facts as he believed them, even if the mistake was unreasonable. The drink is what takes it away.
+Hannah: Recap: belief is judged subjectively and the force objectively, on the facts as D believed them, and a mistake caused by voluntary intoxication does not count.
+Will: Yes.
+Hannah: Shall we run through the whole list once more?
+## Recap
+Will: We covered burden of proof and the elements of liability, actus reus, causation, omissions and duties to act, intention and motive, recklessness and dishonesty, coincidence, transferred malice, mistake of fact, strict liability, and the defences of intoxication, consent and self-defence.
