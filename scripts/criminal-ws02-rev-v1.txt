@@ -1,0 +1,207 @@
+---
+id: criminal-ws02-rev-v1
+unit: u-bpp-Criminal-02
+guide_hash: d2aef192c2
+made: 2026-11-19T21:44:05+00:00
+kind: revision
+title: Criminal WS02 · Revision · 24 min
+map:
+- Murder and voluntary manslaughter: overview
+- Diminished responsibility
+- Loss of control
+- Loss of control: limitations
+- Murder, voluntary manslaughter and intoxication
+- Unlawful act manslaughter
+- Gross negligence manslaughter
+- Loss of control and other parties to the killing (not covered in class)
+recap:
+- Murder needs intent to kill or cause GBH; a partial defence makes it manslaughter; attempted murder needs intent to kill, and neither partial defence applies.
+- The defendant must prove, on the balance of probabilities, an abnormality of mental functioning from a recognised medical condition that substantially impaired a listed ability and explains the killing.
+- Once loss of control is left to the jury, the prosecution must disprove it beyond reasonable doubt; the loss must be actual but need not be sudden.
+- A considered desire for revenge excludes the defence; a trigger incited as an excuse for violence is disregarded, and so is sexual infidelity, except as context for another potential trigger.
+- A drunken intent is still an intent; the normal person is sober unless the trigger related to the intoxication; for diminished responsibility the jury ignores the effects of voluntary intoxication.
+- An intentional criminal act that all sober and reasonable people would inevitably recognise risked some physical harm, and that caused death, is unlawful act manslaughter.
+- Gross negligence needs a risk of death, not merely of serious injury, obvious at the time of breach on what the defendant actually knew, and a breach truly exceptionally bad.
+- Loss of control helps only the party who meets its conditions, so an accomplice may be convicted of murder while the killer is convicted of manslaughter.
+summary: Ask first whether the defendant intended to kill or cause GBH: with that intent, an unlawful killing is murder unless a partial defence reduces it to manslaughter; without it, manslaughter needs a dangerous criminal act or a grossly negligent breach of duty.
+invented:
+- Asha
+- Tariq
+- Nadia
+- Owen
+- Priya
+- Ravi
+- Dev
+- Joel
+- Mina
+- Zed
+- Kay
+guide_only:
+- P:CR-2.4.1-02 (born alive; a foetus is not a person in being)
+- P:CR-2.4.1-03 (brain-stem death and life support)
+- P:CR-3.1-04 (the general rule on omissions)
+- P:CR-2.4.1-11 (motive and consent)
+- P:CR-2.4.1-13 (murder by omission)
+- P:CR-3.2-03 (oblique intention)
+- P:CR-2.4.1-15 (transferred malice)
+- P:CR-5.2-01 (diminished responsibility is a partial defence to murder only)
+- P:CR-5.2-11 (one party's diminished responsibility and the other parties)
+- P:CR-5.1-01 (loss of control is a partial defence to murder only)
+- P:CR-5.1-11 (running the two partial defences together)
+- P:CR-4.1-05 (the basic intent fallback offences)
+- P:CR-4.1-13 (intoxication and unlawful act manslaughter)
+- P:CR-5.2-09 (alcohol dependency syndrome as the condition)
+- P:CR-2.4.3-01 (involuntary manslaughter and its two forms)
+- P:CR-2.4.3-07 (the unlawful act need not be aimed at the victim)
+- P:CR-2.4.3-10 (when a duty of care arises)
+- P:NEW-CR-04 (the standard for breach)
+- P:CR-2.4.3-12 (causation where medical help was not obtained)
+- P:CR-3.1-09 (legal causation)
+- P:CR-3.1-08 (factual causation)
+- P:CR-3.2-11 (negligence is not subjective mens rea)
+---
+## Map
+Will: When is a killing murder, and what brings it down to manslaughter? Eight areas, in three groups. First, murder and voluntary manslaughter: an overview, diminished responsibility, loss of control with its limitations, then intoxication. Then involuntary manslaughter, by unlawful act and by gross negligence. Last, one point not covered in class: loss of control and other parties to the killing.
+Hannah: A warm-up from criminal law basics. Asha raises self-defence, with some evidence of it. Who must prove what?
+Will (scenario pause): <think>
+Will: The prosecution must disprove it beyond reasonable doubt. The tempting answer is that Asha proves it, but she carries only an evidential burden.
+Hannah: Yes: a defence carrying only an evidential burden is for the prosecution to disprove.
+## Block 1: Murder and voluntary manslaughter: overview
+Will: Now murder and voluntary manslaughter in overview. Murder is the unlawful killing of a human being under the King's peace, with malice aforethought, express or implied. Human being means a reasonable creature in being. So the actus reus is an unlawful killing causing death, and the mens rea is intention to kill or to cause GBH. The sentence is mandatory life, fixed by law, with the judge making a minimum term order, which is why the partial defences to murder matter.
+Hannah: Can it ever be a whole life order?
+Will: In the most serious cases, for an offender aged 21 or over.
+Hannah: And never for a younger offender?
+Will: Exceptionally, for one aged 18 to 20.
+Hannah: Is there still a year and a day rule?
+Will: It's abolished: death can be any time after the injury. But the Attorney General's consent is needed to prosecute in two cases. One is death more than 3 years after the injury. The other is where the defendant has already been convicted of an offence in connection with the circumstances.
+Hannah: What exactly is malice aforethought?
+Will: Express malice is an intention to kill; implied malice is an intention to cause GBH. So an intent to cause really serious harm is enough for murder, even if the defendant did not foresee death. But foresight that death or GBH is probable, or highly probable, is not intention, and recklessness, however gross, is not malice aforethought: the verdict is manslaughter.
+Hannah: Where does voluntary manslaughter fit?
+Will: There the defendant has the actus reus and mens rea of murder, but a partial defence reduces the conviction to manslaughter. In the specification those are loss of control and diminished responsibility. Manslaughter carries a discretionary sentence up to life, avoiding the mandatory life sentence. But the partial defences apply only to murder: not to attempted murder, section 18 or any other offence, where the same facts can go only to sentence.
+Hannah: What does attempted murder itself require?
+Will: An intention to kill: an intention to cause serious harm, enough for murder, is not enough. So a defendant who intended only GBH and failed to kill is guilty of section 18 if the harm occurred, or attempted section 18, not attempted murder. Loss of control and diminished responsibility are not available on that charge, though the facts may affect sentence. But self-defence does apply, and so does intoxication, because attempts are specific intent.
+Hannah (summing up): Murder needs intent to kill or cause GBH; a partial defence makes it manslaughter; attempted murder needs intent to kill, and neither partial defence applies.
+Will: Yes: GBH intent is enough for murder, but an attempt needs intent to kill.
+## Block 2: Diminished responsibility
+Hannah: Before diminished responsibility, a murder question. Tariq strikes a man meaning really serious harm, not death, and the man dies. Is that murder?
+Will (scenario pause): <think>
+Will: Yes: intent to cause GBH is implied malice, enough for murder even if he did not foresee death. The tempting answer is manslaughter, but it is attempted murder that needs intent to kill.
+Hannah: Yes: intent to cause really serious harm is enough for murder, even without foresight of death.
+Will: Now diminished responsibility itself. The defendant must prove it on the balance of probabilities, in practice using medical evidence. That reverse burden distinguishes it from loss of control and self-defence, where the prosecution must disprove the defence once it is raised. What must be proved is an abnormality of mental functioning which does three things. One: it arose from a recognised medical condition. Two: it substantially impaired the defendant's ability to do one or more of three things. Three: it provides an explanation for the defendant's acts or omissions in doing or being a party to the killing.
+Hannah: What is a recognised medical condition?
+Will: It's physical or psychological, and normally one in the accepted medical classifications, for example depression, schizophrenia or PTSD. Battered woman syndrome and alcohol dependency syndrome are others. But listing alone does not settle it, and acute voluntary intoxication is not one, even if it causes an abnormality of mental functioning.
+Hannah: And which three abilities?
+Will: To understand the nature of the defendant's conduct, to form a rational judgment, or to exercise self-control, and impairment of any one is enough. Substantially means important or weighty: the impairment need not be total, but one merely more than trivial or minimal is not enough, and it's a question for the jury. The abnormality explains the conduct where it causes, or is a significant contributory factor in causing, the defendant to carry it out. It need not be the only or main cause. But where it made no significant contribution, as in a killing from jealousy or greed unconnected with the condition, the defence fails.
+Hannah: Does planning the killing rule it out?
+Will: It doesn't. Diminished responsibility does not need a trigger or loss of control, and is unaffected by premeditation or a desire for revenge. So it is the right defence where the defendant's condition, rather than any provocation, explains a planned killing, such as a mercy killing by a depressed carer.
+Hannah (summing up): The defendant must prove, on the balance of probabilities, an abnormality of mental functioning from a recognised medical condition that substantially impaired a listed ability and explains the killing.
+Will: Yes: the burden is the defendant's, and the condition must explain the killing.
+## Block 3: Loss of control
+Hannah: Before loss of control, a diminished responsibility question. Nadia, severely depressed, carefully plans and carries out the killing of her husband. Does the planning defeat the defence?
+Will (scenario pause): <think>
+Will: It doesn't: the defence is unaffected by premeditation. The tempting answer is that planning rules it out, but that is loss of control, which a considered desire for revenge excludes.
+Hannah: Yes: a planned killing can still be diminished responsibility, where the condition explains it.
+Will: Now loss of control, which has three elements. One: the defendant's acts or omissions in killing resulted from the defendant's loss of self-control. Two: that loss had a qualifying trigger. Three: a person of the defendant's sex and age, with a normal degree of tolerance and self-restraint and in the defendant's circumstances, might have reacted in the same or a similar way.
+Hannah: And who bears the burden?
+Will: The prosecution. Once sufficient evidence is adduced, from any part of the case and not only the defendant, on which, in the judge's opinion, a properly directed jury could reasonably conclude the defence might apply, the judge must leave it to the jury, even if the defendant does not rely on it. The prosecution must then disprove it beyond reasonable doubt.
+Hannah: Must the loss of self-control be sudden?
+Will: It need not be sudden, so a slow-burn reaction after cumulative abuse can qualify. But there must be an actual loss of self-control, meaning loss of the ability to act in accordance with considered judgment, and the longer the gap between trigger and killing, the weaker the evidence that the defendant lost control.
+Hannah: What are the qualifying triggers?
+Will: Two, which can be combined. The fear trigger: the loss of self-control was attributable to the defendant's fear of serious violence from the victim against the defendant or another identified person. It is judged by the defendant's genuine fear, and covers the person who kills using excessive force in fear of attack.
+Hannah: And the anger trigger?
+Will: The loss was attributable to things done or said, or both, which constituted circumstances of an extremely grave character and caused the defendant to have a justifiable sense of being seriously wronged. The defendant must actually feel seriously wronged, but gravity and justifiability are judged objectively, so ordinary insults or trivial wrongs fail. Unlike the fear trigger, which needs violence from the victim, the things done or said need not come from the victim.
+Hannah: Which circumstances does the normal person share?
+Will: All of the defendant's circumstances, such as a history of abuse, the defendant's situation or the gravity of the trigger to the defendant, except those whose only relevance is that they bear on the defendant's general capacity for tolerance or self-restraint. So a short temper, or a condition reducing self-control, is ignored. And a voluntarily intoxicated defendant is judged against a sober person, unless the defendant has an alcohol or drug problem and the trigger was taunting about it.
+Hannah (summing up): Once loss of control is left to the jury, the prosecution must disprove it beyond reasonable doubt; the loss must be actual but need not be sudden.
+Will: Yes: the prosecution disproves it, and a slow burn can still qualify.
+## Block 4: Loss of control: limitations
+Hannah: Before the limitations on loss of control, a triggers question. Owen kills after an ordinary insult that left him feeling seriously wronged. Does the anger trigger apply?
+Will (scenario pause): <think>
+Will: It doesn't: gravity and justifiability are judged objectively, so ordinary insults fail. The tempting answer is yes because he truly felt wronged, but his feeling alone is not enough.
+Hannah: Yes: feeling seriously wronged is needed, but it is not enough.
+Will: Now the limitations on loss of control: there are three. First, the defence is excluded where the defendant acted in a considered desire for revenge, for example planning the killing, or going away and, after time to reflect, returning to carry it out. Don't confuse that with diminished responsibility, which is unaffected by premeditation or a desire for revenge, so it can fit a planned killing that the condition explains. Ask whether the defendant relies on losing self-control after a trigger, or on a recognised medical condition that explains the killing.
+Hannah: What about a trigger the defendant incited?
+Will: Second, a trigger is disregarded where the defendant incited the thing done or said for the purpose of providing an excuse to use violence. Starting a confrontation or behaving badly does not by itself remove the trigger; only incitement for that purpose does.
+Hannah: And is the third sexual infidelity?
+Will: Yes: the fact that a thing done or said constituted sexual infidelity is to be disregarded as a qualifying trigger. But where there is another potential trigger, the infidelity can be considered as part of the context, in deciding whether that trigger applies and whether a normal person might have reacted the same way.
+Hannah (summing up): A considered desire for revenge excludes the defence; a trigger incited as an excuse for violence is disregarded, and so is sexual infidelity, except as context for another potential trigger.
+Will: Yes: a considered desire for revenge excludes the defence; a trigger incited as an excuse for violence is disregarded, and so is sexual infidelity, though it can still be context for another potential trigger.
+## Block 5: Murder, voluntary manslaughter and intoxication
+Hannah: Before intoxication and murder, a question on those limits. Priya kills after her partner admits an affair and, in the same breath, threatens her with serious violence. Is the affair ignored entirely?
+Will (scenario pause): <think>
+Will: Not entirely: it is disregarded as a trigger, but her fear of serious violence is another potential trigger, so the affair can be considered as context. The tempting answer is that infidelity is ignored for every purpose.
+Hannah: Yes: infidelity is no trigger, but it can be context for another potential trigger.
+Will: Now intoxication in murder and the partial defences. Intoxication is not a free-standing defence: it matters only where, because of it, the defendant did not in fact form the mens rea. A drunken intent is still an intent. So a defendant who formed the mens rea is guilty, even if only because disinhibited by drink or drugs: a drunk defendant who still intended to kill has the mens rea of murder, while one too drunk to form any intention to kill or to cause GBH will usually be convicted of unlawful act manslaughter instead.
+Hannah: How does it affect loss of control?
+Will: The defendant's voluntary intoxication is not one of the circumstances for judging how a person with normal tolerance and self-restraint would react, unless the trigger itself related to it, for example taunts about the defendant's alcoholism. So the normal person is sober.
+Hannah: And what about a medical condition combined with drink?
+Will: Where the defendant had a recognised medical condition and was also voluntarily intoxicated, the jury must ignore the effects of the alcohol or drugs. It asks whether the condition on its own substantially impaired the defendant's ability and was a significant contributory factor in the killing.
+Hannah (summing up): A drunken intent is still an intent; the normal person is sober unless the trigger related to the intoxication; for diminished responsibility the jury ignores the effects of voluntary intoxication.
+Will: Yes: what counts is whether intent was in fact formed.
+## Block 6: Unlawful act manslaughter
+Hannah: Before unlawful act manslaughter, an intoxication question. Ravi, very drunk, stabs a man meaning to kill, though he would never have done it sober. Is it murder?
+Will (scenario pause): <think>
+Will: Yes: a drunken intent is still an intent. The tempting answer is manslaughter because he was drunk, but intoxication matters only where the intent was not in fact formed.
+Hannah: Yes: he formed the intent, so the drink changes nothing.
+Will: Now unlawful act manslaughter itself, which has four elements. One: the defendant intentionally did an act. Two: the act was unlawful, a criminal offence. Three: it was dangerous on an objective test. Four: it caused death.
+Hannah: What makes an act unlawful?
+Will: It must be a criminal offence, with its own actus reus and mens rea proved: a civil wrong is not enough. So where, for example, there was no assault because the victim did not apprehend force and the defendant lacked mens rea, there is no unlawful act. An act criminal only because it is performed negligently, like careless driving, does not count. And it must be an act, not an omission: an omission case goes to gross negligence manslaughter.
+Hannah: And when is it dangerous?
+Will: When all sober and reasonable people would inevitably recognise that it must subject the victim to the risk of some physical harm, albeit not serious harm. The defendant need not recognise the risk or know the act is unlawful.
+Hannah: What does that sober and reasonable person know?
+Will: The knowledge the defendant had or would have gained at the scene, including what becomes apparent during the act. So a frail elderly occupant's condition becoming obvious during a burglary makes continuing it dangerous, but facts the reasonable person at the scene could not have known, such as a hidden heart condition, are not attributed. And harm means physical harm: a risk of mere fright or emotional disturbance is not enough, but a risk of shock causing physical injury, such as a heart attack, is.
+Hannah: What about causation in drug cases?
+Will: A defendant who supplies drugs to a victim who freely and with full knowledge self-administers and dies is not guilty, because the victim's free, deliberate and informed act breaks the chain. But a defendant who administers the drug by injecting it commits an unlawful act, administering a noxious thing, and so can be guilty.
+Hannah (summing up): An intentional criminal act that all sober and reasonable people would inevitably recognise risked some physical harm, and that caused death, is unlawful act manslaughter.
+Will: Yes: the test is objective, and an omission is never enough.
+## Block 7: Gross negligence manslaughter
+Hannah: Before gross negligence manslaughter, an unlawful act question. Dev gives a drug to Joel, a fully informed adult, who freely injects himself and dies. Is Dev guilty of unlawful act manslaughter?
+Will (scenario pause): <think>
+Will: He isn't: Joel's free, deliberate and informed act breaks the chain. The tempting answer is guilty because the supply led to the death, but Dev could be guilty only had he administered the drug.
+Hannah: Yes: free and fully informed self-administration breaks the chain of causation.
+Will: Now gross negligence manslaughter: five elements, in two groups. Duty and breach: the defendant owed the victim a duty of care, and breached it. Then three more. At the time of the breach there was a serious and obvious risk of death, reasonably foreseeable by a reasonable person in the defendant's position. The breach caused death. And the breach was so bad, truly exceptionally bad, as to be judged criminal by the jury.
+Hannah: What kind of risk, judged on what knowledge?
+Will: It must be death that is risked, not merely serious injury. And the risk must be obvious at the time of breach on the knowledge the defendant actually had, not on what the defendant would have known but for the breach, or might have discovered on further investigation. The offence is objective, so the defendant's state of mind is not required, though it may be relevant to grossness. And it covers lawful acts and omissions, whereas unlawful act manslaughter requires an unlawful criminal act and only a risk of some harm.
+Hannah (summing up): Gross negligence needs a risk of death, not merely of serious injury, obvious at the time of breach on what the defendant actually knew, and a breach truly exceptionally bad.
+Will: Yes: death rather than injury, on actual knowledge, with a breach the jury judges criminal.
+## Block 8: Loss of control and other parties to the killing (not covered in class)
+Hannah: Before loss of control and other parties to a killing, a gross negligence question. Mina, a carer, breaches her duty, and only a check she wrongly skipped would have shown the risk of death. Was the risk obvious?
+Will (scenario pause): <think>
+Will: It wasn't: it must be obvious on what she actually knew at the time of breach. The tempting answer is yes because the check would have shown it, but what she would have known but for the breach does not count.
+Hannah: Yes: actual knowledge decides it, not what further investigation might have discovered.
+Will: Now loss of control where there are other parties to the killing. The defence applies only to the party who meets its conditions. Where it applies to one party to a killing, it does not affect whether another party is liable for murder.
+Hannah: Can their convictions differ, then?
+Will: Yes: the killer's can be manslaughter and the accomplice's murder.
+Hannah (summing up): Loss of control helps only the party who meets its conditions, so an accomplice may be convicted of murder while the killer is convicted of manslaughter.
+Will: Yes: each party must meet the conditions personally.
+## Recap
+Hannah: Last, a question on other parties. Zed helps Kay kill, and Kay succeeds on loss of control. Does Zed escape murder too?
+Will (scenario pause): <think>
+Will: He doesn't: Kay's defence does not affect whether Zed is liable for murder. The tempting answer is that the accomplice shares the killer's verdict.
+Hannah: Yes: the defence helps only the party who meets its conditions.
+Hannah: What's the summary for murder and voluntary manslaughter in overview?
+Will (quick-fire pause): <think>
+Will: Murder needs intent to kill or cause GBH; a partial defence makes it manslaughter; attempted murder needs intent to kill, and neither partial defence applies.
+Hannah: What's the summary for diminished responsibility?
+Will (quick-fire pause): <think>
+Will: The defendant must prove, on the balance of probabilities, an abnormality of mental functioning from a recognised medical condition that substantially impaired a listed ability and explains the killing.
+Hannah: What's the summary for loss of control?
+Will (quick-fire pause): <think>
+Will: Once loss of control is left to the jury, the prosecution must disprove it beyond reasonable doubt; the loss must be actual but need not be sudden.
+Hannah: What's the summary for the limitations on loss of control?
+Will (quick-fire pause): <think>
+Will: A considered desire for revenge excludes the defence; a trigger incited as an excuse for violence is disregarded, and so is sexual infidelity, except as context for another potential trigger.
+Hannah: What's the summary for intoxication in murder and the partial defences?
+Will (quick-fire pause): <think>
+Will: A drunken intent is still an intent; the normal person is sober unless the trigger related to the intoxication; for diminished responsibility the jury ignores the effects of voluntary intoxication.
+Hannah: What's the summary for unlawful act manslaughter?
+Will (quick-fire pause): <think>
+Will: An intentional criminal act that all sober and reasonable people would inevitably recognise risked some physical harm, and that caused death, is unlawful act manslaughter.
+Hannah: What's the summary for gross negligence manslaughter?
+Will (quick-fire pause): <think>
+Will: Gross negligence needs a risk of death, not merely of serious injury, obvious at the time of breach on what the defendant actually knew, and a breach truly exceptionally bad.
+Hannah: What's the summary for loss of control and other parties to the killing?
+Will (quick-fire pause): <think>
+Will: Loss of control helps only the party who meets its conditions, so an accomplice may be convicted of murder while the killer is convicted of manslaughter.
+Hannah: And what's the whole workshop in one sentence?
+Will: Ask first whether the defendant intended to kill or cause GBH: with that intent, an unlawful killing is murder unless a partial defence reduces it to manslaughter; without it, manslaughter needs a dangerous criminal act or a grossly negligent breach of duty.

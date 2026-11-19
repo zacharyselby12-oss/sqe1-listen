@@ -1,0 +1,118 @@
+---
+id: criminal-ws03-rev-v1
+unit: u-bpp-Criminal-03
+guide_hash: bf99ca246b
+made: 2026-11-19T21:44:05+00:00
+kind: revision
+title: Criminal WS03 · Revision · 16 min
+map:
+- Basic criminal damage and basic arson
+- Lawful excuse
+- Aggravated criminal damage and aggravated arson
+recap:
+- No foresight of the risk, no recklessness; an honest belief the property is your own, however unreasonable, means no mens rea; and damage by fire is charged as arson.
+- The statutory excuses never cover the aggravated offences; D's beliefs need only be honest, but whether the damage could amount to protecting property is judged objectively, on the facts D believed.
+- The aggravated offence needs intention or recklessness that the damage itself, not the act, would endanger another's life; the property can be D's own, and nobody need actually be endangered.
+summary: Most questions turn on what D actually foresaw and honestly believed, though whether damage could amount to protecting property is judged objectively, and the aggravated offences need intention or recklessness that the damage itself would endanger another's life.
+invented:
+- Callum
+- Nadia
+- Priya
+guide_only: []
+---
+## Map
+Will: Criminal damage, in three areas. The big question throughout is what D actually foresaw and honestly believed when the property was damaged. First, basic criminal damage and basic arson. Second, lawful excuse. Third, the aggravated offences, where D intends or is reckless as to endangering another person's life.
+Hannah: So it's the offence first, then the excuses, then the version with danger to life?
+Will: Yes: the offence, the excuses, then danger to life.
+## Block 1: Basic criminal damage and basic arson
+Hannah: Start with basic criminal damage, then. What has to be proved?
+Will: D commits criminal damage where D, without lawful excuse, destroys or damages property belonging to another. D must intend to destroy or damage such property, or be reckless as to whether it would be destroyed or damaged.
+Hannah: And what counts as damage?
+Will: Damage is a question of fact and degree. It includes temporary or permanent impairment of value or usefulness, or anything that costs time, effort or money to put right. So water-soluble paint drawings count, and so does mud smeared on a wall, or dismantling or disabling a machine. But it doesn't include something that can be removed easily without cost, like spit wiped off a raincoat.
+Hannah: Does destroying something have its own definition?
+Will: The Act doesn't define destroy, so it takes its ordinary meaning: following D's act, the property ceases to exist. Destroying and damaging are alternatives, so proof of either satisfies that part of the offence.
+Hannah: What kind of property does the offence protect?
+Will: Property means tangible property, real or personal, including money and land, which is unlike theft. It also includes wild animals that have been tamed, or are ordinarily kept in captivity, or have been reduced into possession. It doesn't include intangible property. And it doesn't include mushrooms, flowers, fruit or foliage of plants growing wild, even when they're picked for sale: unlike theft, there's no commercial-purpose exception.
+Hannah: And when does property belong to another?
+Will: Property belongs to another where someone other than D has custody or control of it, any proprietary right or interest in it, or a charge on it. Equitable interests count, with one exception: an equitable interest arising only from an agreement to transfer or grant an interest.
+Hannah: So can an owner commit criminal damage to his own property?
+Will: Only where someone else also has one of those, such as a co-owner or a mortgagee. Damaging property that is D's alone is not basic criminal damage, though it can be aggravated criminal damage.
+Hannah: Now the mental element. What must D have in mind?
+Will: Intention to damage property belonging to another, or recklessness. Recklessness is subjective: D foresaw the risk of damage and, in the circumstances known to D, it was unreasonable to take it. R v G replaced the old objective Caldwell test. So a D who did not foresee the risk, for example because of youth, is not reckless.
+Hannah: Does that mental element reach the belonging to another part as well?
+Will: It does. An honest belief that the property is D's own, even an unreasonable one, means no mens rea.
+Hannah: Is recklessness judged the same way in the offences against the person?
+Will: Both are judged subjectively. In the Offences Against the Person Act, maliciously means intending the relevant harm, or foreseeing that it might be caused and going on to take the risk. For section twenty, that means only some harm, not necessarily serious harm.
+Hannah: Now basic arson. When does criminal damage become arson?
+Will: Where the property is destroyed or damaged by fire, the offence is charged as arson, or as aggravated arson for the aggravated form. Damage caused in another way is basic or aggravated criminal damage, not arson.
+Hannah: Is the mental element for arson any different?
+Will: It's the same: intention or subjective recklessness, here as to damage by fire. So a D who did not foresee the fire spreading is not reckless.
+Hannah: And can an owner commit arson of his own property?
+Will: Only in two ways. One is the aggravated form. The other is the basic form, where another person has custody or control of the property, a proprietary right or interest in it, or a charge on it.
+Hannah (summing up): No foresight of the risk, no recklessness; an honest belief the property is your own, however unreasonable, means no mens rea; and damage by fire is charged as arson.
+Will: Yes: recklessness needs foresight, an honest belief in ownership removes the mens rea, and fire makes it arson.
+## Block 2: Lawful excuse
+Hannah: Before lawful excuse, a question on basic criminal damage and arson. Callum, a young teenager, lights some newspapers behind a shop and walks away. The fire spreads and damages the shop. Callum never foresaw the fire spreading, though any adult would have. Is he reckless?
+Will (scenario pause): <think>
+Will: He isn't reckless. Recklessness is subjective, so Callum himself must have foreseen the risk, and he didn't. The tempting answer is that the risk was obvious to any reasonable adult, but that's the old objective test, which no longer applies.
+Hannah: Yes: what matters is what Callum foresaw, not what a reasonable adult would have seen.
+Will: Now lawful excuse: when does D have one? There are two statutory excuses, belief in consent and protecting property. Start with which offences they cover. They apply to basic criminal damage, including basic arson. They also apply to the threat and possession offences, unless those involve endangering life. They don't apply to aggravated criminal damage or aggravated arson, where only defences recognised by the general law remain.
+Hannah: So for arson, which side of the line is each form on?
+Will: Basic arson can be met with a lawful excuse. Aggravated arson requires intention or recklessness as to endangering life, and neither statutory excuse applies to it, only the general defences.
+Hannah: Take belief in consent first. What exactly must D believe?
+Will: D must believe that the person D believed to be entitled to consent had consented, or would have consented had they known of the damage and its circumstances. That belief need only be honestly held, even where D is drunk or the belief is unreasonable.
+Hannah: Does it matter why D did the damage?
+Will: D's motive is irrelevant. An honest belief in the consent of the person D thought entitled to give it is a lawful excuse even where the purpose of the damage is to defraud an insurer, because criminal damage is not an offence of dishonesty. But a belief that God consented is no lawful excuse, however honestly held.
+Hannah: How does that sit with the rule on voluntary intoxication?
+Will: Voluntary intoxication is no defence to criminal damage charged on recklessness, because that's basic intent. But a drunken honest belief in consent can still found the lawful excuse. So for basic criminal damage, an honest belief that the owner would have consented is a lawful excuse even where voluntary intoxication induced it. That's because it's immaterial whether a belief is justified, provided it's honestly held.
+Hannah: How is that different from D thinking the property is his own?
+Will: They're two different routes. Where D honestly believes, even unreasonably, that the property is his own, D has no mens rea, because mens rea extends to the belonging to another element. Where, at the time of the damage, D honestly believes that someone he thought entitled to consent had consented, or would have had they known of the damage and its circumstances, D has a lawful excuse instead. And that excuse answers only basic criminal damage or arson, not the aggravated offences.
+Hannah: Now protecting property. What does that excuse need?
+Will: D must destroy or damage property in order to protect property: his own or another's, or a right or interest in it. And at the time D must believe two things. First, that the property was in immediate need of protection. Second, that the means adopted were reasonable in all the circumstances.
+Hannah: Do those two beliefs have to be reasonable ones?
+Will: Both need only be honestly held, even where they're unjustified. The only objective element is whether, on the facts as D believed them, the damage could amount to something done to protect property. Where it couldn't, the defence fails however sincere D is. For example, cutting a military base fence as a protest against a remote risk of nuclear attack could not amount to protecting property.
+Hannah: And does it cover damage done to protect a person?
+Will: It protects property only. Damage done to protect a person falls under self-defence and the prevention of crime defence instead.
+Hannah: How does the excuse fit with defence of property generally?
+Will: Reasonable force to protect property is covered by the prevention of crime defence and the common law. For criminal damage it's covered by this lawful excuse: an honest belief that the property was in immediate need of protection and that the means were reasonable. The householder rule, the grossly disproportionate one, does not apply.
+Hannah (summing up): The statutory excuses never cover the aggravated offences; D's beliefs need only be honest, but whether the damage could amount to protecting property is judged objectively, on the facts D believed.
+Will: Yes: the statutory excuses don't reach the aggravated offences, though general defences still can; honest beliefs are enough, and only the link to protecting property is judged objectively.
+## Block 3: Aggravated criminal damage and aggravated arson
+Hannah: Before aggravated criminal damage, a question on lawful excuse. Nadia, drunk, smashes a window to get into a house she honestly believes is her friend's, sure that her friend would agree to the damage. It's a stranger's house, and she's charged with basic criminal damage. Does her drunkenness defeat the lawful excuse?
+Will (scenario pause): <think>
+Will: It doesn't. Nadia honestly believed that the person she thought entitled to consent would have agreed, and an honest belief is enough even when drink induced it. The tempting answer is that voluntary intoxication is no defence to a basic intent offence, but that rule doesn't stop a drunken belief founding this excuse.
+Hannah: Yes: the belief only has to be honest, so the drink doesn't defeat it.
+Will: Now aggravated criminal damage and aggravated arson: when does damaging property become aggravated? D must destroy or damage any property without lawful excuse, whether it belongs to himself or another. D must intend that destruction or damage, or be reckless as to it. And D must also intend by the destruction or damage to endanger the life of another, or be reckless as to whether life would be thereby endangered.
+Hannah: So the property really can be D's own?
+Will: It can. Aggravated criminal damage can be committed to D's own property, for example by setting fire to one's own house with others inside.
+Hannah: And whose life has to be at risk?
+Will: The life of another. A D who damages property intending to endanger only his own life does not commit the offence. So what decides it is whose life D intends to endanger, or is reckless about, not whose property it is.
+Hannah: Does anyone actually have to be put in danger?
+Will: Life need not actually be endangered. D needs only to intend, or be subjectively reckless as to, endangering the life of another. And the offence is judged on the damage D intended or was reckless about, not the damage actually caused.
+Hannah: Can you give me an example of that last point?
+Will: Say D throws a petrol bomb at an occupied house, intending or foreseeing that the resulting fire damage would endanger life. D is guilty even where the fire is put out at once and the actual damage endangers no one.
+Hannah: Where does the danger to life have to come from?
+Will: From the damage itself, not from the act causing it. Firing a gun through a window at someone inside endangers life by the bullet, not the broken glass. So that's not aggravated criminal damage unless D intended or foresaw that the damage would endanger life. That damage might be falling glass, a collapsing structure or fire.
+Hannah: What defences are left for the aggravated offences?
+Will: The lawful excuses of consent and protecting property don't apply. But general defences, such as self-defence and duress, still can.
+Hannah: And how does voluntary intoxication work here?
+Will: The intention limb, intending by the damage to endanger the life of another, is specific intent. So evidence of voluntary intoxication can show that D did not form that intent. Whether being reckless as to endangering life is basic intent, so that voluntary intoxication is no defence, is unsettled. Caldwell treated it as basic intent, but the later case of Heard indicates specific intent.
+Hannah (summing up): The aggravated offence needs intention or recklessness that the damage itself, not the act, would endanger another's life; the property can be D's own, and nobody need actually be endangered.
+Will: Yes: the danger must come from the damage, the life must be another's, and actual danger isn't needed.
+## Recap
+Hannah: One last question, mixing the aggravated offences with lawful excuse. Priya owns her flat outright. She sets fire to it, and she is reckless about the fire damage endangering the lives of the family upstairs. She says it's her own property, and that she, as owner, consented to the damage. Is she guilty of aggravated arson?
+Will (scenario pause): <think>
+Will: She is guilty of aggravated arson. The aggravated offence can be committed to D's own property, and she was reckless as to whether that damage would endanger the life of another. The tempting answers are that it's her own property, or that consent gives a lawful excuse. But ownership is no bar here, and the lawful excuses don't apply to the aggravated offences.
+Hannah: Yes: her own property still counts, and neither statutory excuse reaches the aggravated offence.
+Will: Now the quick-fire round, with one summary for each area.
+Hannah: What's the summary for basic criminal damage and basic arson?
+Will (quick-fire pause): <think>
+Will: No foresight of the risk, no recklessness; an honest belief the property is your own, however unreasonable, means no mens rea; and damage by fire is charged as arson.
+Hannah: What's the summary for lawful excuse?
+Will (quick-fire pause): <think>
+Will: The statutory excuses never cover the aggravated offences; D's beliefs need only be honest, but whether the damage could amount to protecting property is judged objectively, on the facts D believed.
+Hannah: What's the summary for the aggravated offences?
+Will (quick-fire pause): <think>
+Will: The aggravated offence needs intention or recklessness that the damage itself, not the act, would endanger another's life; the property can be D's own, and nobody need actually be endangered.
+Hannah: And what's the whole workshop in one sentence?
+Will: Most questions turn on what D actually foresaw and honestly believed, though whether damage could amount to protecting property is judged objectively, and the aggravated offences need intention or recklessness that the damage itself would endanger another's life.

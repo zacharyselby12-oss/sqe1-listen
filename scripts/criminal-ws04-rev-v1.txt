@@ -1,0 +1,184 @@
+---
+id: criminal-ws04-rev-v1
+unit: u-bpp-Criminal-04
+guide_hash: 04e36be375
+made: 2026-11-19T21:44:05+00:00
+kind: revision
+title: Criminal WS04 · Revision · 18 min
+map:
+- Theft: definition, elements and classification
+- Appropriation (s.3)
+- Property (s.4)
+- Belonging to another (s.5)
+- Dishonesty (s.2)
+- Intention to permanently deprive (s.6)
+recap:
+- Theft needs all five elements: dishonestly appropriating property belonging to another, intending to permanently deprive; low-value shoplifting is summary only unless the defendant elects Crown Court trial.
+- Assuming any one right of an owner is appropriation, even with consent; an acquirer for value in good faith doesn't steal by later assuming rights he believed he was acquiring.
+- Money and other property, even intangibles like a bank credit balance, can be stolen; confidential information, electricity and services can't; land, wild plants and wild creatures only in limited cases.
+- Property belongs to anyone with possession or control of it or a proprietary right or interest, so even its owner can steal it from someone with possession or control.
+- A defendant holding one of the three statutory beliefs, even unreasonably, is not dishonest; otherwise ask whether, given his actual belief as to the facts, his conduct was dishonest by ordinary decent people's standards.
+- An intention to treat the thing as your own to dispose of regardless of the owner's rights is enough, even expecting its return; but not every conversion is theft.
+summary: Theft needs all five elements together: the dishonesty and the intention to permanently deprive must coincide with an appropriation of property that then belongs to another, and consent goes to dishonesty, not to appropriation.
+invented:
+- Dan
+- Mrs Field
+- Carl
+- Ella
+- Omar
+- Nina
+- Raj
+- Vera
+- a neighbour's bike
+- a watch
+- a confidential price list
+- a ring found in the street
+- a painting
+guide_only: []
+---
+## Map
+Will: Theft today, and the big question is always the same: has the defendant committed every element of theft? There are six areas, in three groups.
+Hannah: What are the three groups?
+Will: First the offence itself, in one area. Then the actus reus, appropriating property belonging to another, in three areas: appropriation, property, and belonging to another. Last the mens rea, in two areas: dishonesty, and intention to permanently deprive.
+
+## Block 1: Theft: definition, elements and classification
+Hannah: So, theft itself: its definition, its elements and its classification. What is theft?
+Will: Theft means dishonestly appropriating property belonging to another, with the intention of permanently depriving the other of it. That gives five elements, and theft needs all of them. Three are the actus reus: an appropriation, of property, belonging to another.
+Hannah: And which two elements are the mens rea?
+Will: Dishonesty, and the intention to permanently deprive.
+Hannah: In which court is theft tried?
+Will: Theft is triable either way. But low-value shoplifting, which is theft from a shop of goods at or below a set value, is triable summarily only, though the defendant may elect Crown Court trial.
+Hannah (summing up): Theft needs all five elements: dishonestly appropriating property belonging to another, intending to permanently deprive; low-value shoplifting is summary only unless the defendant elects Crown Court trial.
+Will: Yes: all five are needed, and the election is the defendant's.
+
+## Block 2: Appropriation (s.3)
+Hannah: Before appropriation, a question on the definition of theft. Dan dishonestly takes his neighbour's bike for an afternoon ride, always meaning to bring it straight back, and he does. Is that theft?
+Will (scenario pause): <think>
+Will: It isn't theft: on those facts Dan has no intention to permanently deprive. The tempting answer is that a dishonest taking is enough, but theft needs all five elements.
+Hannah: Yes: four elements out of five is not theft.
+Will: Now appropriation: when does a defendant appropriate property? Appropriation is any assumption of any of the rights of an owner, so assuming one right is enough. For example, swapping price labels counts, and so does offering to sell the thing.
+Hannah: Does it matter that he didn't steal the thing when he first got it?
+Will: Where he came by the property without stealing it, innocently or not, a later assumption of a right is still an appropriation. That means later keeping it, or dealing with it as owner.
+Hannah: What happens when the owner consents?
+Will: Appropriation can occur even with the owner's consent, and even where the defendant receives an indefeasible gift. That's because consent goes to dishonesty, not to appropriation.
+Hannah: Who can't become a thief by a later assumption of rights?
+Will: Yes: a person who acquires property for value in good faith. He doesn't commit theft by a later assumption of the rights he believed he was acquiring, such as keeping or selling it, even after learning of a defect in the transferor's title.
+Hannah: Does that protection cover someone who was simply given the thing?
+Will: It doesn't: it covers only a person who acquires for value in good faith, so it doesn't cover a gift.
+Hannah (summing up): Assuming any one right of an owner is appropriation, even with consent; an acquirer for value in good faith doesn't steal by later assuming rights he believed he was acquiring.
+Will: Yes: one right is enough, and consent doesn't prevent it.
+
+## Block 3: Property (s.4)
+Hannah: Before property, a question on appropriation. Mrs Field freely gives Carl her watch as a valid gift. Can Carl have appropriated it?
+Will (scenario pause): <think>
+Will: He can: there can be an appropriation with the owner's consent, and of an indefeasible gift too. The tempting answer is that her consent rules appropriation out, but consent goes to dishonesty instead.
+Hannah: Yes: her consent doesn't stop an appropriation.
+Will: Now property: what counts as property that can be stolen? Property means money and all other property, real or personal. It includes things in action and other intangible property, for example a credit balance in a bank account.
+Hannah: And what is not property for theft?
+Will: Three things are not: confidential information, electricity and services.
+Hannah: What about things the holder isn't lawfully allowed to have?
+Will: Things a person is not lawfully entitled to possess, such as controlled drugs, are still property that can be stolen.
+Hannah: And can a corpse or a body part be stolen?
+Will: A corpse or body part is not property, unless it has acquired different attributes through the application of skill, such as dissection or preservation for teaching or exhibition.
+Hannah: Can land be stolen at all?
+Will: Generally land cannot be stolen, but there are three exceptions. One: a trustee, a personal representative or a person authorised to dispose of another's land steals it by dealing with it in breach of the confidence reposed in him.
+Hannah: What are the second and third exceptions?
+Will: Two: a person not in possession of the land steals by severing and taking anything forming part of it. Three: a tenant steals by taking a fixture or structure let to be used with the land.
+Hannah: And what is the rule for wild plants?
+Will: Mushrooms growing wild are not stolen unless they are picked for reward, sale or another commercial purpose. The same rule covers flowers, fruit or foliage picked from a plant growing wild.
+Hannah: Can a wild animal be stolen?
+Will: A wild creature that is neither tamed nor ordinarily kept in captivity, or its carcass, cannot be stolen, with two exceptions. The first is where it has been reduced into possession by or on behalf of another person, and that possession has not been lost or abandoned. The second is where another person is in the course of reducing it into possession.
+Hannah (summing up): Money and other property, even intangibles like a bank credit balance, can be stolen; confidential information, electricity and services can't; land, wild plants and wild creatures only in limited cases.
+Will: Yes: intangible property counts, and those three things never do.
+
+## Block 4: Belonging to another (s.5)
+Hannah: Before belonging to another, a question on property. Ella memorises her employer's confidential price list and sells what she remembers to a rival. Has she stolen property?
+Will (scenario pause): <think>
+Will: She hasn't, because confidential information is not property for theft. The tempting answer is that anything valuable can be stolen, but information of that kind can't be.
+Hannah: Yes: however valuable, confidential information is not property for theft.
+Will: Now belonging to another: when does property belong to another? Property belongs to anyone having possession or control of it, or any proprietary right or interest in it. So an owner can steal his own property from someone with possession or control of it, for example the garage repairing his car.
+Hannah: What about property that has been abandoned?
+Will: Abandoned property belongs to no one and cannot be stolen, but property is rarely abandoned. There are four examples. Lost property still belongs to the owner. Items put out for refuse collection belong to the householder or the council.
+Hannah: And what are the other two examples?
+Will: Goods left outside a charity shop still belong to the donor until the charity takes possession. And golf balls lost in a club's lake belong to the club.
+Hannah: What happens when the defendant is handed property for a particular purpose?
+Will: Where he receives property from or on account of another, and is under a legal obligation to deal with it or its proceeds in a particular way, it is treated as belonging to the other.
+Hannah: And what happens when he gets property by someone's mistake?
+Will: Where he gets property by another's mistake, and is under a legal obligation to make restoration of it, the property is likewise treated as the other person's. And an intention not to restore it is an intention to permanently deprive.
+Hannah: How do I tell those two rules apart?
+Will: Ask how he got the property: did he receive it to deal with in a particular way, or did he get it by the other's mistake?
+Hannah (summing up): Property belongs to anyone with possession or control of it or a proprietary right or interest, so even its owner can steal it from someone with possession or control.
+Will: Yes: possession or control is enough.
+
+## Block 5: Dishonesty (s.2)
+Hannah: Before dishonesty, a question on belonging to another. Omar's car is at a garage for repair, and he secretly drives it away without paying. Can the car belong to another?
+Will (scenario pause): <think>
+Will: It can: the garage has possession or control of the car, so for theft it belongs to the garage. The tempting answer is that nobody can steal his own car, but ownership is not the test.
+Hannah: Yes: the garage's possession or control made the car property belonging to another.
+Will: Now dishonesty: when is a defendant dishonest? Start with three beliefs: holding any one of them, even unreasonably, means he is not dishonest. One: he believes he has a legal right to deprive the other of the property.
+Hannah: What is the second belief?
+Will: Two: he believes the owner would consent, if the owner knew of the appropriation and its circumstances.
+Hannah: And what is the third belief?
+Will: Three: he believes the owner cannot be discovered by taking reasonable steps. That third belief doesn't help a defendant who came by the property as a trustee or personal representative.
+Hannah: Does being willing to pay make the defendant honest?
+Will: Not necessarily: a defendant may be dishonest even though he is willing to pay for the property.
+Hannah: And what is the test where none of those beliefs decides it?
+Will: Then the general test applies, in two stages. First, what was the defendant's actual state of knowledge or belief as to the facts? That belief must be genuinely held, and its reasonableness is only evidence of whether it was.
+Hannah: What does the second stage ask?
+Will: Second: given that belief, was his conduct dishonest by the standards of ordinary decent people? There is no requirement that he realised it was dishonest by those standards.
+Hannah: When must the mens rea of theft exist?
+Will: Theft's mens rea must coincide with an appropriation of property that then belongs to another. So where ownership passes to the defendant before he decides not to pay, a later dishonest decision is not theft. Petrol once it is in his tank is the example, and so is food once eaten.
+Hannah: Is that later decision ever theft after all?
+Will: It is where another person still has possession, control or a proprietary interest, or where the property is treated as belonging to another under the obligation rule or the mistake rule. Otherwise he may instead commit making off without payment.
+Hannah (summing up): A defendant holding one of the three statutory beliefs, even unreasonably, is not dishonest; otherwise ask whether, given his actual belief as to the facts, his conduct was dishonest by ordinary decent people's standards.
+Will: Yes: any one of those beliefs clears him; otherwise ordinary decent people's standards are applied to what he actually believed.
+
+## Block 6: Intention to permanently deprive (s.6)
+Hannah: Before intention to permanently deprive, a question on dishonesty and belonging to another. Nina finds a ring in the street and keeps it, believing, quite unreasonably, that the owner could never be traced by reasonable steps. Does the ring belong to another, and is she dishonest?
+Will (scenario pause): <think>
+Will: It belongs to another, because lost property still belongs to its owner. But she is not dishonest, because she believes the owner cannot be discovered by taking reasonable steps. The tempting answer is that an unreasonable belief can't help her, but it can.
+Hannah: Yes: lost is not abandoned, and her belief protects her even though it was unreasonable.
+Will: Now intention to permanently deprive: when does a defendant have it? It includes treating the thing as his own to dispose of regardless of the owner's rights.
+Hannah: Can a mere borrowing ever be enough?
+Will: Borrowing or lending can count, where it is for a period and in circumstances equivalent to an outright taking. That means all the goodness or virtue is exhausted, for example by using up a season ticket.
+Hannah: What about a thief who'll take only what's worth taking?
+Will: A conditional intention, to take only if the thing is worth taking, is not yet an intention to permanently deprive for the full offence.
+Hannah: And what about pawning someone else's property?
+Will: Parting with property under a condition as to its return which he may not be able to perform, such as pawning it, is treating it as his own to dispose of.
+Hannah: Does putting the property at risk count too?
+Will: Yes: he has that intention where he dishonestly, for his own purposes, deals with the property in a way he knows risks its loss.
+Hannah: So is every unauthorised use of someone's property theft?
+Will: Not every conversion is theft. Briefly using a car as a getaway vehicle, then abandoning it a few miles away, not hidden, does not show that intention.
+Hannah: Must he actually dispose of the thing?
+Will: He needn't: what is needed is the state of mind at the appropriation, not an actual disposal, and that is a question for the jury.
+Hannah: What about someone who holds the property to ransom?
+Will: Where he takes property intending to return it only if the victim pays for its return, or intending to sell it back to the victim, he intends to treat it as his own to dispose of regardless of the victim's rights. So there is an intention to permanently deprive, even though he expects the victim to get it back.
+Hannah: What about taking cash, meaning to put the same amount back?
+Will: Taking cash intending to replace it with equivalent coins or notes is still an intention to permanently deprive, because the specific notes are gone. His later intention to repay goes only to dishonesty.
+Hannah (summing up): An intention to treat the thing as your own to dispose of regardless of the owner's rights is enough, even expecting its return; but not every conversion is theft.
+Will: Yes: treating it as his own is what counts.
+
+## Recap
+Hannah: A last question, on intention to permanently deprive. Raj takes Vera's painting and tells her she can have it back once she pays him for it, and he fully expects her to pay. Does Raj intend to permanently deprive her?
+Will (scenario pause): <think>
+Will: He does: returning it only if she pays is treating it as his own to dispose of regardless of her rights. The tempting answer is that expecting her to have it again rules the intention out, but it doesn't.
+Hannah: Yes: a ransom shows an intention to permanently deprive, whatever he expects afterwards. Now the quick-fire round. What's the summary for the definition of theft and how it's tried?
+Will (quick-fire pause): <think>
+Will: Theft needs all five elements: dishonestly appropriating property belonging to another, intending to permanently deprive; low-value shoplifting is summary only unless the defendant elects Crown Court trial.
+Hannah: What's the summary for appropriation?
+Will (quick-fire pause): <think>
+Will: Assuming any one right of an owner is appropriation, even with consent; an acquirer for value in good faith doesn't steal by later assuming rights he believed he was acquiring.
+Hannah: What's the summary for what counts as property?
+Will (quick-fire pause): <think>
+Will: Money and other property, even intangibles like a bank credit balance, can be stolen; confidential information, electricity and services can't; land, wild plants and wild creatures only in limited cases.
+Hannah: What's the summary for belonging to another?
+Will (quick-fire pause): <think>
+Will: Property belongs to anyone with possession or control of it or a proprietary right or interest, so even its owner can steal it from someone with possession or control.
+Hannah: What's the summary for dishonesty?
+Will (quick-fire pause): <think>
+Will: A defendant holding one of the three statutory beliefs, even unreasonably, is not dishonest; otherwise ask whether, given his actual belief as to the facts, his conduct was dishonest by ordinary decent people's standards.
+Hannah: What's the summary for intention to permanently deprive?
+Will (quick-fire pause): <think>
+Will: An intention to treat the thing as your own to dispose of regardless of the owner's rights is enough, even expecting its return; but not every conversion is theft.
+Hannah: And finally, can you give me the whole workshop in one sentence?
+Will: Theft needs all five elements together: the dishonesty and the intention to permanently deprive must coincide with an appropriation of property that then belongs to another, and consent goes to dishonesty, not to appropriation.

@@ -1,0 +1,109 @@
+---
+id: criminal-ws05-rev-v1
+unit: u-bpp-Criminal-05
+guide_hash: 8defe78d21
+made: 2026-11-19T21:44:06+00:00
+kind: revision
+title: Criminal WS05 · Revision · 15 min
+map:
+- Burglary
+- Aggravated burglary
+- Robbery
+recap:
+- Enter a building or part as a trespasser intending theft, GBH or unlawful damage, and it's burglary on entry; otherwise only theft or GBH inside, or an attempt at either, makes it burglary.
+- Burglary is aggravated when he knowingly has a listed article with him at its time: on entry for the first limb; at the theft, GBH or attempt for the second.
+- Robbery is a complete theft plus force on any person, or putting or seeking to put someone in fear of force on them then and there, immediately before or at the time of stealing and in order to steal.
+summary: Ask what was in the defendant's mind and what he had with him or did at the moment that counts: entry or the offence inside for burglary, and the time of stealing or immediately before it for robbery.
+invented:
+- Marcus
+- Dana
+- Leo
+- Asha
+guide_only: []
+---
+## Map
+Will: Burglary, aggravated burglary and robbery. The big question running through all of it is timing: what was in the defendant's mind, and what was he carrying or doing, at the moment that counts? There are three areas. First burglary, then aggravated burglary, which needs a burglary, then robbery, which needs a theft.
+
+## Block 1: Burglary
+Hannah: Let's start with burglary. When is entering a building burglary, and under which limb?
+Will: There are two limbs, and the difference is when the intent arises. Under the first limb, the defendant enters a building or part of a building as a trespasser with one of three intentions: to steal, to inflict GBH, or to do unlawful damage to the building or anything in it. That offence is complete on entry, whether or not he does anything inside.
+Hannah: And what does the second limb catch?
+Will: Under the second limb, he has already entered a building or part of one as a trespasser. He then steals or attempts to steal anything in it, or inflicts or attempts to inflict GBH on any person in it. There, the intention is needed only at the time of the theft or GBH, not at entry.
+Hannah: So do the two limbs cover the same list of offences?
+Will: They don't, and that's where questions turn. The first limb covers intent to steal, inflict GBH or do unlawful damage. The second covers only actual or attempted theft or GBH. So someone who enters as a trespasser, and only then decides to cause criminal damage, has not committed burglary. Compare the trespasser who enters already intending to do unlawful damage to the building: that is first-limb burglary, complete on entry.
+Hannah: Now entry itself. Does the defendant have to be completely inside?
+Will: He needn't be wholly inside. Entry is a question of fact, and it need only be effective. So leaning in through a window counts, and so does being partly inside when trapped. Inserting part of the body is enough, even where he could not have stolen from that position.
+Hannah: And what counts as a building?
+Will: A building is a structure with some permanence. So a large freezer container resting on sleepers, with doors and electricity, is a building, but lorry trailers still on their wheels, used for storage, remain vehicles. An inhabited vehicle or vessel also counts, such as a houseboat or a caravan someone lives in, whether or not that person is there at the time.
+Hannah: What about someone who comes in lawfully and then goes where he shouldn't?
+Will: That's the point of the words "part of a building". Someone who enters lawfully can become a trespasser by entering a part he is not permitted to enter, such as behind a shop counter, or into a staff-only area or storeroom.
+Hannah: So what makes someone a trespasser in the first place?
+Will: He enters without consent or right, and he knows, or is reckless as to, the facts that make him a trespasser. So a defendant who honestly believes he has been invited in is not a trespasser. But permission has limits: someone who enters with permission, but for a purpose outside it, exceeds that permission and is a trespasser. The example is a son entering his father's house intending to steal.
+Hannah: Then how is a guest who steals any different from that son?
+Will: The difference is when he decides. A guest who enters lawfully, within the invitation, and only later decides to steal, is not a trespasser, so stealing where he may be is theft only. But suppose he then enters a part he may not enter, such as the host's study. That is burglary: the first limb when he enters it intending to steal, even though he takes nothing, and the second limb when he steals or attempts to steal there.
+Hannah: One thing to keep apart, then. Is trespass simply entering with the intention to commit an offence?
+Will: It isn't. Trespass is entering without consent or right, or with permission but for a purpose outside it, knowing or reckless as to the facts that make him a trespasser. The ulterior intent at the time of entry is a separate element of the first limb. And burglary is not theft plus trespass, because it needs no theft at all.
+Hannah: So what is the mental element, put together?
+Will: Intention or recklessness as to being a trespasser, plus one more thing. For the first limb, that is one of the ulterior intents, held when he enters. For the second, it is the mens rea of theft or of GBH at the time it is done or attempted. And a conditional intent to steal, meaning whatever is worth taking, suffices for the first limb.
+Hannah (summing up): Enter a building or part as a trespasser intending theft, GBH or unlawful damage, and it's burglary on entry; otherwise only theft or GBH inside, or an attempt at either, makes it burglary.
+Will: Yes: intent at entry into a building or part completes the first limb, and without it only theft or GBH inside, done or attempted, will do.
+
+## Block 2: Aggravated burglary
+Hannah: Before aggravated burglary, a question on burglary. Marcus climbs into a closed pub through a window, only to find somewhere to sleep, and once inside he loses his temper and smashes the mirrors. Is that burglary?
+Will (scenario pause): <think>
+Will: It is not burglary. He entered as a trespasser, but with no ulterior intent, so the first limb is out. The tempting answer is the second limb, but that covers only actual or attempted theft or GBH, never criminal damage decided on inside.
+Hannah: That's it: damage makes a burglary only when it was intended at the time of entry.
+Will: Now aggravated burglary itself: when does a burglary become aggravated? The defendant commits any burglary, and at the time has with him one of three kinds of article: a firearm or imitation firearm, a weapon of offence, or an explosive. So first establish a complete burglary. A weapon carried in a robbery, or in a theft outside buildings, is not aggravated burglary; consider robbery or possession offences instead.
+Hannah: How widely are those articles defined?
+Will: Widely. Firearm includes an airgun or air pistol. An imitation firearm means anything having the appearance of a firearm, whether capable of discharge or not. And an explosive means any article manufactured to produce a practical effect by explosion, or intended for that purpose.
+Hannah: And what is a weapon of offence?
+Will: It means any article made or adapted for causing injury to a person or incapacitating one. It also means any article intended by the person having it with him for such use. So rope or tape to tie up an occupier counts. Ordinary items, like a screwdriver or a kitchen knife, count only when he intends to use them to injure or incapacitate.
+Hannah: What do the words "has with him" require?
+Will: He must knowingly have the article with him, so an article slipped into his bag without his knowledge does not count. But he need not intend to use it in the burglary itself. A knife carried for self-defence still makes the burglary aggravated, whereas an ordinary article carried only for an innocent purpose is not a weapon of offence.
+Hannah: Can an ordinary article turn into a weapon of offence part-way through?
+Will: It can. An article carried for another purpose, such as a screwdriver to force entry, becomes a weapon of offence when he intends to use it to injure or incapacitate. For the second limb, the relevant time is the theft or GBH. So a burglar who uses that screwdriver to threaten the occupier while stealing commits aggravated burglary. Carried only to force entry, with no intent to injure or incapacitate anyone, the screwdriver is not a weapon of offence.
+Hannah: So when exactly must he have the article with him?
+Will: That depends on the limb, and it's the deciding point. For the first limb, he must have the article at the time of entry. For the second, he must have it at the time of the theft or GBH, or the attempt. So a weapon picked up inside the building, and then used while stealing, still counts. And for trial, aggravated burglary is indictable only.
+Hannah (summing up): Burglary is aggravated when he knowingly has a listed article with him at its time: on entry for the first limb; at the theft, GBH or attempt for the second.
+Will: Yes: knowing possession, at the moment the burglary itself is committed, which shifts with the limb.
+
+## Block 3: Robbery
+Hannah: Before robbery, a question on aggravated burglary. Dana breaks into a house to steal, carrying nothing. Inside she picks up a kitchen knife and threatens the owner with it while taking the jewellery. Is that aggravated burglary?
+Will (scenario pause): <think>
+Will: It is aggravated burglary, under the second limb. She has the knife, intending to use it to injure, at the time of the theft. The tempting answer is no, because she was unarmed at entry, but entry is the relevant time only for the first limb.
+Hannah: Agreed: a weapon picked up inside and used while stealing still counts.
+Will: Now robbery: when does a theft become a robbery? The defendant steals, and he uses force on any person or puts or seeks to put any person in fear of being then and there subjected to force. He must do that immediately before or at the time of stealing, and in order to steal.
+Hannah: So what happens when the theft itself fails?
+Will: Then there is no robbery, even though force was used. A complete theft is required, so if any element of theft fails, robbery fails with it. For example, he believes he has a legal right to the property, or he has no intention to permanently deprive.
+Hannah: And how much force is enough?
+Will: Force is an ordinary word for the jury, and minimal force can suffice: a push or nudge that makes the victim lose balance, or wrenching a bag from the victim's grip. Force applied to property only can be force on the person when it is transmitted to the victim. But snatching something without any contact with the victim, like picking up an unattached item, is just theft.
+Hannah: Does the force have to be used on the owner?
+Will: It needn't be the owner. Force or the threat may be used on any person, so threatening a bystander or a security guard is enough. And putting, or seeking to put, a person in fear is enough even when the victim is not actually frightened.
+Hannah: Then is a threat to one person, about hurting somebody else, enough?
+Will: Not by itself. The fear must be of force on the person put, or sought to be put, in fear. So telling a bank cashier that he will hurt a customer in the queue, who is unaware of it and whom he does not seek to put in fear, is not robbery, though it may be blackmail.
+Hannah: And what about a threat of force later on?
+Will: The fear must be of force then and there. A threat of force at a later time, like "pay me or I'll beat you up next week", is not robbery; consider blackmail.
+Hannah: When does the force have to be used?
+Will: Immediately before the stealing, or at the time of it. Appropriation is a continuing act, so force used while he is still making off with the goods, still on the job, can be at the time of the theft. But force used after the theft is complete is not robbery: it is theft plus assault. And robbery is itself complete when the theft is complete, on appropriation, even though he does not get away with the property.
+Hannah: And for what purpose must the force be used?
+Will: In order to steal. Force used for another reason, such as a sexual assault or a fight, followed by a taking as an afterthought, is not robbery. So the mental element is the mens rea of theft, meaning dishonesty and intention to permanently deprive. On top of that, he needs an intention to use force or put in fear in order to steal. And for trial, robbery is indictable only.
+Hannah (summing up): Robbery is a complete theft plus force on any person, or putting or seeking to put someone in fear of force on them then and there, immediately before or at the time of stealing and in order to steal.
+Will: Yes: theft first, then force or putting or seeking to put someone in fear of it. Add its timing and its purpose: all of them are needed.
+
+## Recap
+Hannah: A last question, mixing robbery and aggravated burglary. In the street, Leo has a knife in his pocket, pushes Asha off balance and takes her phone. Which of those two offences has he committed?
+Will (scenario pause): <think>
+Will: Robbery only. The push is minimal force on a person, used at the time of stealing and in order to steal. The tempting answer is aggravated burglary because of the knife, but that needs a complete burglary, and nobody entered a building here.
+Hannah: That's the point: a weapon carried in a theft outside buildings never makes aggravated burglary.
+Will: So on to the quick-fire round, one summary for each area.
+Hannah: What's the summary for burglary?
+Will (quick-fire pause): <think>
+Will: Enter a building or part as a trespasser intending theft, GBH or unlawful damage, and it's burglary on entry; otherwise only theft or GBH inside, or an attempt at either, makes it burglary.
+Hannah: What's the summary for aggravated burglary?
+Will (quick-fire pause): <think>
+Will: Burglary is aggravated when he knowingly has a listed article with him at its time: on entry for the first limb; at the theft, GBH or attempt for the second.
+Hannah: What's the summary for robbery?
+Will (quick-fire pause): <think>
+Will: Robbery is a complete theft plus force on any person, or putting or seeking to put someone in fear of force on them then and there, immediately before or at the time of stealing and in order to steal.
+Hannah: And how would you put the whole workshop into one sentence?
+Will: Ask what was in the defendant's mind and what he had with him or did at the moment that counts: entry or the offence inside for burglary, and the time of stealing or immediately before it for robbery.

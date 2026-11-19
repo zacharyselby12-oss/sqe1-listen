@@ -5723,6 +5723,330 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws10-rev-v1-8c7be9d6.mp3",
       "siteAudio": "audio/eth-ws10-rev-v1-8c7be9d6.mp3",
       "pubDate": "2026-11-19T17:46:05+00:00"
+    },
+    {
+      "id": "criminal-ws02-rev-v1",
+      "unitId": "u-bpp-Criminal-02",
+      "title": "Criminal WS02 · Revision · 24 min",
+      "guideHash": "d2aef192c2",
+      "script": "scripts/criminal-ws02-rev-v1.txt",
+      "scriptHash": "3e0e4a8f97be",
+      "audio": "audio/criminal-ws02-rev-v1.mp3",
+      "recap": [
+        "Murder needs intent to kill or cause GBH; a partial defence makes it manslaughter; attempted murder needs intent to kill, and neither partial defence applies.",
+        "The defendant must prove, on the balance of probabilities, an abnormality of mental functioning from a recognised medical condition that substantially impaired a listed ability and explains the killing.",
+        "Once loss of control is left to the jury, the prosecution must disprove it beyond reasonable doubt; the loss must be actual but need not be sudden.",
+        "A considered desire for revenge excludes the defence; a trigger incited as an excuse for violence is disregarded, and so is sexual infidelity, except as context for another potential trigger.",
+        "A drunken intent is still an intent; the normal person is sober unless the trigger related to the intoxication; for diminished responsibility the jury ignores the effects of voluntary intoxication.",
+        "An intentional criminal act that all sober and reasonable people would inevitably recognise risked some physical harm, and that caused death, is unlawful act manslaughter.",
+        "Gross negligence needs a risk of death, not merely of serious injury, obvious at the time of breach on what the defendant actually knew, and a breach truly exceptionally bad.",
+        "Loss of control helps only the party who meets its conditions, so an accomplice may be convicted of murder while the killer is convicted of manslaughter."
+      ],
+      "map": [
+        "Murder and voluntary manslaughter: overview",
+        "Diminished responsibility",
+        "Loss of control",
+        "Loss of control: limitations",
+        "Murder, voluntary manslaughter and intoxication",
+        "Unlawful act manslaughter",
+        "Gross negligence manslaughter",
+        "Loss of control and other parties to the killing (not covered in class)"
+      ],
+      "summary": "Ask first whether the defendant intended to kill or cause GBH: with that intent, an unlawful killing is murder unless a partial defence reduces it to manslaughter; without it, manslaughter needs a dangerous criminal act or a grossly negligent breach of duty.",
+      "madeAt": "2026-11-19T21:44:05+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck 71/71 items covered); known-error scan 0 hits left (1 cleared by Opus ke-triage: right statement); Opus accuracy and line-by-line checks, fixflow fixes, changed-lines verify, 1 targeted round (verify pass)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6",
+        "b7",
+        "b8"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws03-rev-v1",
+      "unitId": "u-bpp-Criminal-03",
+      "title": "Criminal WS03 · Revision · 16 min",
+      "guideHash": "bf99ca246b",
+      "script": "scripts/criminal-ws03-rev-v1.txt",
+      "scriptHash": "c28c67647a00",
+      "audio": "audio/criminal-ws03-rev-v1.mp3",
+      "recap": [
+        "No foresight of the risk, no recklessness; an honest belief the property is your own, however unreasonable, means no mens rea; and damage by fire is charged as arson.",
+        "The statutory excuses never cover the aggravated offences; D's beliefs need only be honest, but whether the damage could amount to protecting property is judged objectively, on the facts D believed.",
+        "The aggravated offence needs intention or recklessness that the damage itself, not the act, would endanger another's life; the property can be D's own, and nobody need actually be endangered."
+      ],
+      "map": [
+        "Basic criminal damage and basic arson",
+        "Lawful excuse",
+        "Aggravated criminal damage and aggravated arson"
+      ],
+      "summary": "Most questions turn on what D actually foresaw and honestly believed, though whether damage could amount to protecting property is judged objectively, and the aggravated offences need intention or recklessness that the damage itself would endanger another's life.",
+      "madeAt": "2026-11-19T21:44:05+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck 43/43 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes, changed-lines verify (pass)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws04-rev-v1",
+      "unitId": "u-bpp-Criminal-04",
+      "title": "Criminal WS04 · Revision · 18 min",
+      "guideHash": "04e36be375",
+      "script": "scripts/criminal-ws04-rev-v1.txt",
+      "scriptHash": "7f9b0e197391",
+      "audio": "audio/criminal-ws04-rev-v1.mp3",
+      "recap": [
+        "Theft needs all five elements: dishonestly appropriating property belonging to another, intending to permanently deprive; low-value shoplifting is summary only unless the defendant elects Crown Court trial.",
+        "Assuming any one right of an owner is appropriation, even with consent; an acquirer for value in good faith doesn't steal by later assuming rights he believed he was acquiring.",
+        "Money and other property, even intangibles like a bank credit balance, can be stolen; confidential information, electricity and services can't; land, wild plants and wild creatures only in limited cases.",
+        "Property belongs to anyone with possession or control of it or a proprietary right or interest, so even its owner can steal it from someone with possession or control.",
+        "A defendant holding one of the three statutory beliefs, even unreasonably, is not dishonest; otherwise ask whether, given his actual belief as to the facts, his conduct was dishonest by ordinary decent people's standards.",
+        "An intention to treat the thing as your own to dispose of regardless of the owner's rights is enough, even expecting its return; but not every conversion is theft."
+      ],
+      "map": [
+        "Theft: definition, elements and classification",
+        "Appropriation (s.3)",
+        "Property (s.4)",
+        "Belonging to another (s.5)",
+        "Dishonesty (s.2)",
+        "Intention to permanently deprive (s.6)"
+      ],
+      "summary": "Theft needs all five elements together: the dishonesty and the intention to permanently deprive must coincide with an appropriation of property that then belongs to another, and consent goes to dishonesty, not to appropriation.",
+      "madeAt": "2026-11-19T21:44:05+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck 19/19 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes (2), changed-lines verify (pass); lines check reported a source point (MCA 1980 s.22A(2) age-18 condition) already filed as fx-p-gflag-u-bpp-Criminal-04-P-CR-2.2.1-16",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws05-rev-v1",
+      "unitId": "u-bpp-Criminal-05",
+      "title": "Criminal WS05 · Revision · 15 min",
+      "guideHash": "8defe78d21",
+      "script": "scripts/criminal-ws05-rev-v1.txt",
+      "scriptHash": "def02213ba64",
+      "audio": "audio/criminal-ws05-rev-v1.mp3",
+      "recap": [
+        "Enter a building or part as a trespasser intending theft, GBH or unlawful damage, and it's burglary on entry; otherwise only theft or GBH inside, or an attempt at either, makes it burglary.",
+        "Burglary is aggravated when he knowingly has a listed article with him at its time: on entry for the first limb; at the theft, GBH or attempt for the second.",
+        "Robbery is a complete theft plus force on any person, or putting or seeking to put someone in fear of force on them then and there, immediately before or at the time of stealing and in order to steal."
+      ],
+      "map": [
+        "Burglary",
+        "Aggravated burglary",
+        "Robbery"
+      ],
+      "summary": "Ask what was in the defendant's mind and what he had with him or did at the moment that counts: entry or the offence inside for burglary, and the time of stealing or immediately before it for robbery.",
+      "madeAt": "2026-11-19T21:44:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors after one script-revise; revcheck 45/45 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes (5), changed-lines verify (pass)",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws06-rev-v1",
+      "unitId": "u-bpp-Criminal-06",
+      "title": "Criminal WS06 · Revision · 17 min",
+      "guideHash": "6514a80094",
+      "script": "scripts/criminal-ws06-rev-v1.txt",
+      "scriptHash": "067f7a302924",
+      "audio": "audio/criminal-ws06-rev-v1.mp3",
+      "recap": [
+        "A representation is false if it's untrue or misleading and the defendant knows it is or might be; gain or loss must be intended, and recklessness there isn't enough.",
+        "Silence is fraud by failure to disclose only where there's a legal duty; a moral duty isn't enough, though any false statement or half-truth can be false representation.",
+        "Abuse of position needs someone expected to safeguard, or not act against, another's financial interests; it needs no deception, so secret abuse counts.",
+        "Fraud is complete on the lie and an intended temporary gain will do; it's also theft only if the defendant intends to deprive the victim permanently."
+      ],
+      "map": [
+        "Fraud by false representation",
+        "Fraud by failure to disclose",
+        "Fraud by abuse of position",
+        "Fraud and theft compared"
+      ],
+      "summary": "Fraud is complete on the dishonest conduct, done intending gain, loss or a risk of loss in money or property, so nobody need be deceived and nothing gained; the form turns on a lie, a legal duty to disclose, or an abused position.",
+      "madeAt": "2026-11-19T21:44:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck 26/26 items covered, 0 errors); known-error scan 0 hits; Opus accuracy check pass, Opus line-by-line check 1 fix applied via fixflow, Opus verify of the changed line pass; code checks and known-error scan clean after the fix",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws08-rev-v1",
+      "unitId": "u-bpp-Criminal-08",
+      "title": "Criminal WS08 · Revision · 19 min",
+      "guideHash": "2356fa2537",
+      "script": "scripts/criminal-ws08-rev-v1.txt",
+      "scriptHash": "a933ff7afc66",
+      "audio": "audio/criminal-ws08-rev-v1.mp3",
+      "recap": [
+        "A drunken intent is still an intent; without mens rea, voluntary intoxication helps only on specific intent offences, and involuntary intoxication helps on any offence.",
+        "Consent fails for ABH or worse, intended or caused, unless a recognised exception applies or the defendant, intending only a consensual battery, neither intended nor foresaw the risk of harm.",
+        "Judge the defendant on the facts as they genuinely believed them, unless the mistake is attributable to voluntary intoxication; the force must then be reasonable, or self-defence fails completely.",
+        "In a householder case, grossly disproportionate force is never reasonable, but force disproportionate and not grossly so may be reasonable; in any other case, disproportionate force is not reasonable.",
+        "Deception as to the defendant's identity, or the nature or quality of the act, vitiates consent; deception as to the defendant's attributes or qualifications does not."
+      ],
+      "map": [
+        "Intoxication",
+        "Consent",
+        "Self-defence: belief and reasonable force",
+        "Householder cases",
+        "Consent obtained by deception"
+      ],
+      "summary": "Ask what the defendant intended or genuinely believed, then apply the law's limits, so a mistaken belief in the need for force attributable to voluntary intoxication cannot be relied on, the force must be reasonable, and consent where ABH is intended needs a recognised exception.",
+      "madeAt": "2026-11-19T21:44:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck all items covered, 0 errors); known-error scan 0 hits; Opus accuracy check and Opus line-by-line check: 3 fixes applied (fixflow); Opus check of the changed lines: pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws09-rev-v1",
+      "unitId": "u-bpp-Criminal-09",
+      "title": "Criminal WS09 · Revision · 18 min",
+      "guideHash": "369d81ed00",
+      "script": "scripts/criminal-ws09-rev-v1.txt",
+      "scriptHash": "9f59e1c8f87d",
+      "audio": "audio/criminal-ws09-rev-v1.mp3",
+      "recap": [
+        "Unlawful act manslaughter needs a criminal act, not an omission, that all sober and reasonable people would inevitably recognise risks some physical harm.",
+        "In gross negligence manslaughter the risk must be of death, not merely serious injury, and obvious on what the defendant actually knew at the time of the breach.",
+        "Self-defence is a complete defence even to murder, but it fails completely without an attack the defendant believed imminent that made force necessary.",
+        "The defendant is judged on the facts as honestly believed, so a genuine mistake counts even if unreasonable, unless it is attributable to voluntary intoxication.",
+        "Outside a householder case, disproportionate force is not reasonable, judged objectively in the circumstances as the defendant believed them and allowing for the heat of the moment.",
+        "In a householder case, grossly disproportionate force is never reasonable but merely disproportionate force may be; once self-defence is raised with evidence, the prosecution must disprove it beyond reasonable doubt."
+      ],
+      "map": [
+        "Unlawful act manslaughter",
+        "Gross negligence manslaughter",
+        "Self-defence: meaning, sources and the threat",
+        "The trigger: honest belief that force was necessary",
+        "The response: reasonable force in non-householder cases",
+        "Householder cases; raising self-defence at trial"
+      ],
+      "summary": "Involuntary manslaughter is killing without malice aforethought, by a dangerous criminal act or grossly negligent breach of duty with a serious and obvious risk of death; self-defence needs honest belief force was necessary, and reasonable force as believed.",
+      "madeAt": "2026-11-19T21:44:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors after one script-revise of the header summary; revcheck all items covered, 0 errors); known-error scan 0 hits; Opus accuracy check and Opus line-by-line check: 4 fixes applied (fixflow); Opus check of the changed lines: pass",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b5",
+        "b6"
+      ],
+      "spec": "2.2"
+    },
+    {
+      "id": "criminal-ws10-rev-v1",
+      "unitId": "u-bpp-Criminal-10",
+      "title": "Criminal WS10 · Revision · 23 min",
+      "guideHash": "19bc109906",
+      "script": "scripts/criminal-ws10-rev-v1.txt",
+      "scriptHash": "5bc329dccc4b",
+      "audio": "audio/criminal-ws10-rev-v1.mp3",
+      "recap": [
+        "An attempt needs an act beyond preparation, embarking on the crime proper, though not necessarily the last act; whether the act goes beyond preparation, the jury decides as fact.",
+        "An attempt needs intention as to each consequence of the full offence, but recklessness as to a circumstance is enough where the full offence accepts it.",
+        "Impossibility on the facts is no defence, and intent is judged on the facts as the defendant believed them; but there's no attempt of an offence that doesn't exist.",
+        "A liable actor is the principal and the instigator an accomplice; an innocent agent makes the instigator who intentionally used them the principal.",
+        "Withdrawal must be timely and effective, before the offence; the principal needn't be convicted or identified, but the actus reus must actually be committed.",
+        "Aiding needn't be known to the principal; abetting and counselling need the principal aware of the encouragement; procuring needs a causal link; mere presence isn't enough.",
+        "Joint enterprise has no special rules: liability for the further crime needs assistance or encouragement of it, intended at least conditionally.",
+        "An accomplice must intend to assist or encourage the crime, knowing the facts that make it criminal; foresight is only evidence, but conditional intent is enough.",
+        "Abandoning a complete attempt is no defence, though it may reduce sentence; and there's no accessory liability if the principal never commits or attempts the offence."
+      ],
+      "map": [
+        "Attempts: actus reus (more than merely preparatory)",
+        "Attempts: mens rea",
+        "Attempts: impossibility",
+        "Parties to a crime: principals and innocent agents",
+        "Parties to a crime: withdrawal; acquittal of the principal, unclear roles and attempts",
+        "Secondary parties: actus reus (aid, abet, counsel, procure)",
+        "Secondary parties: joint enterprise",
+        "Secondary parties: mens rea",
+        "Also examinable: abandonment, penalty, supervening acts and crimes never committed"
+      ],
+      "summary": "An attempt needs intent as to the full offence and an act beyond preparation; an accomplice needs intentional assistance or encouragement of a crime actually committed, knowing the facts.",
+      "madeAt": "2026-11-19T21:44:06+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits; opus x2; changed lines ok after 1 targeted round",
+      "part": 1,
+      "of": 1,
+      "blocks": [
+        "b1",
+        "b2",
+        "b3",
+        "b4",
+        "b6",
+        "b7",
+        "b8",
+        "b9",
+        "b10"
+      ],
+      "spec": "2.2"
     }
   ],
   "replays": [

@@ -1,0 +1,165 @@
+---
+id: criminal-ws09-rev-v1
+unit: u-bpp-Criminal-09
+guide_hash: 369d81ed00
+made: 2026-11-19T21:44:06+00:00
+kind: revision
+title: Criminal WS09 · Revision · 18 min
+map:
+- Unlawful act manslaughter
+- Gross negligence manslaughter
+- Self-defence: meaning, sources and the threat
+- The trigger: honest belief that force was necessary
+- The response: reasonable force in non-householder cases
+- Householder cases; raising self-defence at trial
+recap:
+- Unlawful act manslaughter needs a criminal act, not an omission, that all sober and reasonable people would inevitably recognise risks some physical harm.
+- In gross negligence manslaughter the risk must be of death, not merely serious injury, and obvious on what the defendant actually knew at the time of the breach.
+- Self-defence is a complete defence even to murder, but it fails completely without an attack the defendant believed imminent that made force necessary.
+- The defendant is judged on the facts as honestly believed, so a genuine mistake counts even if unreasonable, unless it is attributable to voluntary intoxication.
+- Outside a householder case, disproportionate force is not reasonable, judged objectively in the circumstances as the defendant believed them and allowing for the heat of the moment.
+- In a householder case, grossly disproportionate force is never reasonable but merely disproportionate force may be; once self-defence is raised with evidence, the prosecution must disprove it beyond reasonable doubt.
+summary: Involuntary manslaughter is killing without malice aforethought, by a dangerous criminal act or grossly negligent breach of duty with a serious and obvious risk of death; self-defence needs honest belief force was necessary, and reasonable force as believed.
+invented:
+- Dev
+- Marta
+- Carol
+- Owen
+- Dana
+- Imran
+guide_only:
+- P:CR-4.2-16 (defence of property, its sources and the householder rule not applying)
+---
+## Map
+Will: Two questions. When is a killing without intent to kill or cause serious harm still manslaughter, and when does self-defence justify force?
+Hannah: How many areas does that make?
+Will: Six. Two on involuntary manslaughter: the unlawful act kind and the gross negligence kind. Then four on self-defence: the threat, the honest belief, reasonable force, and householder cases with the burden of proof.
+## Block 1: Unlawful act manslaughter
+Hannah: Let's start with unlawful act manslaughter. What is involuntary manslaughter?
+Will: The defendant causes death without malice aforethought, meaning no intent to kill or cause grievous bodily harm. Its two forms here are unlawful act manslaughter, also called constructive manslaughter, and gross negligence manslaughter.
+Hannah: What must be proved for the unlawful act form?
+Will: Four elements. One, the defendant intentionally did an act. Two, the act was unlawful, meaning a criminal offence. Three, it was dangerous on an objective test. Four, it caused death.
+Hannah: What counts as an unlawful act?
+Will: A criminal offence, so a civil wrong is not enough, with its own actus reus and mens rea proved. And an act criminal only because performed negligently, such as careless driving, does not count.
+Hannah: Must the act be aimed at the person who dies?
+Will: It need not be aimed at the victim. But it must be an act: an omission case goes to gross negligence manslaughter.
+Hannah: Now the deciding element. When is an act dangerous?
+Will: When all sober and reasonable people would inevitably recognise that it must subject the victim to the risk of some physical harm, albeit not serious harm. The defendant need not recognise the risk, or know the act is unlawful.
+Hannah: What does that sober and reasonable person know?
+Will: The knowledge the defendant had or would have gained at the scene, including what becomes apparent during the act. So a frail elderly occupant's condition becoming obvious during a burglary makes continuing it dangerous. But facts the reasonable person at the scene could not have known, such as a hidden heart condition, are not attributed.
+Hannah: Is a risk of fright enough?
+Will: Harm means physical harm, so a risk of mere fright or emotional disturbance is not enough, but a risk of shock causing physical injury, such as a heart attack, is.
+Hannah: What about deaths from drugs the defendant supplied?
+Will: Where the victim freely and with full knowledge self-administers the supplied drugs and dies, the supplier is not guilty of unlawful act manslaughter: that free, deliberate and informed act breaks the chain. But a defendant who administers the drug by injecting it commits an unlawful act, administering a noxious thing, and can be guilty.
+Hannah (summing up): Unlawful act manslaughter needs a criminal act, not an omission, that all sober and reasonable people would inevitably recognise risks some physical harm.
+Will: Yes: a crime, not an omission, with danger judged by the sober and reasonable person.
+## Block 2: Gross negligence manslaughter
+Hannah: Before gross negligence manslaughter, an unlawful act question. Dev burgles a house whose occupant has a hidden heart condition nobody at the scene could have known. Does it count towards dangerousness?
+Will (scenario pause): <think>
+Will: It doesn't count: a fact the reasonable person at the scene could not have known is not attributed. The tempting answer is to judge it on what the victim knew, and that's wrong.
+Hannah: Yes, the test is what could be known at the scene.
+Will: Now gross negligence manslaughter: when is a fatal breach of duty a crime? There are five elements, in two groups.
+Hannah: What are the first two elements?
+Will: One, the defendant owed the victim a duty of care. Two, the defendant breached it.
+Hannah: And what are the other three?
+Will: Three, at the time of the breach there was a serious and obvious risk of death, reasonably foreseeable by a reasonable person in the defendant's position. Four, the breach caused death. Five, the breach was so bad, truly exceptionally bad, as to be judged criminal by the jury.
+Hannah: How is the duty of care decided?
+Will: On ordinary negligence principles, as a question for the judge, with the jury deciding disputed facts. Duties include doctor and patient, employer and employee, and contractual duties. A duty also arises where the defendant creates or contributes to a life-threatening situation, for example by supplying drugs and failing to summon help. And the illegality of a joint venture does not defeat a duty.
+Hannah: Now the deciding element. Is a risk of serious injury enough?
+Will: It isn't: the risk must be of death, not merely of serious injury. And it must be obvious at the time of breach on the knowledge the defendant actually had. It is not judged on what the defendant would have known but for the breach, or might have discovered on further investigation. So hindsight is out.
+Hannah: What about causation where the breach is failing to get medical help?
+Will: The prosecution must prove beyond reasonable doubt that the victim would have survived if help had been summoned. Loss of a chance of survival is not enough.
+Hannah: How does this differ from unlawful act manslaughter?
+Will: Gross negligence manslaughter is objective, so the defendant's state of mind is not required, though it may be relevant to grossness. It covers lawful acts and omissions, whereas unlawful act manslaughter requires an unlawful criminal act and only a risk of some harm.
+Hannah (summing up): In gross negligence manslaughter the risk must be of death, not merely serious injury, and obvious on what the defendant actually knew at the time of the breach.
+Will: Yes: death, not injury, on the defendant's actual knowledge, with no hindsight.
+## Block 3: Self-defence: meaning, sources and the threat
+Hannah: Before self-defence and its threat, a question on gross negligence. Marta supplies drugs to a friend who collapses, and she calls nobody. Help would only have given the friend a chance of surviving. Is causation proved?
+Will (scenario pause): <think>
+Will: It isn't proved. The prosecution must prove beyond reasonable doubt that the friend would have survived with help. The tempting answer is that losing a chance of survival is enough, and it's not.
+Hannah: Yes, a lost chance of survival isn't causation.
+Will: Now self-defence: what it justifies, and against what threat. Self-defence, defence of another and reasonable force in the prevention of crime are complete defences to any offence involving force, including murder. So a defendant whose defence is not disproved is acquitted outright.
+Hannah: Who has to disprove it?
+Will: The prosecution, beyond reasonable doubt, once the defendant raises it with evidence.
+Hannah: Can I rely on it to protect someone else?
+Will: You can: defence of another follows the same two questions as self-defence. The defendant may use reasonable force to protect any person, including a stranger, and is judged on the facts as honestly believed. So a defendant who wrongly but honestly believes a third party is being attacked can rely on it.
+Hannah: Now the deciding rule. What threat does self-defence need?
+Will: Force must be necessary against an attack the defendant believed to be imminent, and a pre-emptive strike against an imminent attack can qualify. Without such a threat, self-defence fails completely. So a defendant who kills a sleeping abuser, or strikes after the threat has passed, has no self-defence.
+Hannah: Where does that defendant turn on a murder charge?
+Will: To loss of control or diminished responsibility, to reduce murder to manslaughter. Loss of control need not be sudden, so a slow-burn reaction or the fear trigger can qualify. But it is barred where the defendant acted in a considered desire for revenge.
+Hannah (summing up): Self-defence is a complete defence even to murder, but it fails completely without an attack the defendant believed imminent that made force necessary.
+Will: Yes: a complete defence, but no believed imminent attack means no self-defence.
+## Block 4: The trigger: honest belief that force was necessary
+Hannah: Before the honest belief, a question on the threat. After years of abuse, Carol kills her partner while he sleeps. Can she rely on self-defence to murder?
+Will (scenario pause): <think>
+Will: She can't. There was no attack she believed to be imminent, so self-defence fails completely. The tempting answer is that the abuse makes force necessary, and that's wrong: her routes are loss of control or diminished responsibility.
+Hannah: Yes, a sleeping partner is no imminent threat.
+Will: Now the trigger, the honest belief that force was necessary. There are two questions. One: did the defendant genuinely believe it was necessary to use force? That is judged subjectively, on the facts as the defendant believed them. Two: was the degree of force reasonable in the circumstances as the defendant believed them to be? That is judged objectively by the jury.
+Hannah: What happens when the defendant got the facts wrong?
+Will: A genuine mistake of fact counts even if unreasonable, because the defendant is judged on the facts as honestly believed. The reasonableness of the belief goes only to whether it was genuinely held.
+Hannah: Is there a mistake that doesn't count?
+Will: Yes: a mistaken belief in the need to use force cannot be relied on where it is attributable to voluntary intoxication, for any offence including murder. That applies across self-defence, defence of another or of property, and prevention of crime or arrest.
+Hannah: Must the defendant still be intoxicated when making the mistake?
+Will: The bar covers a mistake immediately and proximately caused by earlier voluntary drink or drugs, such as an induced psychotic episode, even where the defendant is no longer intoxicated. But it does not cover long-term mental illness caused by past misuse.
+Hannah: Must the defendant retreat first?
+Will: There is no duty to retreat, but the possibility that the defendant could have retreated is a factor in deciding whether the force was reasonable. Nor need the defendant wait to be struck first: a pre-emptive strike against an imminent attack is allowed.
+Hannah: What about revenge, or a fight the defendant started?
+Will: Force used after the threat has ended, by way of revenge or punishment, is not self-defence. Nor can the defendant rely on it after setting out to provoke the victim into attacking, so as to have an excuse for violence. But starting a fight does not automatically bar the defence where the victim's response is out of all proportion.
+Hannah (summing up): The defendant is judged on the facts as honestly believed, so a genuine mistake counts even if unreasonable, unless it is attributable to voluntary intoxication.
+Will: Yes: a genuine mistake counts, unless it's attributable to voluntary intoxication.
+## Block 5: The response: reasonable force in non-householder cases
+Hannah: Before the response and reasonable force, a question on belief. Owen, sober, genuinely but unreasonably thinks a man is drawing a knife, and pushes him over. Does the unreasonable mistake defeat the first question?
+Will (scenario pause): <think>
+Will: It doesn't defeat it. Owen is judged on the facts as he honestly believed them, so his genuine mistake counts. The tempting answer is that an unreasonable mistake fails, but reasonableness goes only to whether the belief was genuinely held.
+Hannah: Yes, a sober, genuine mistake counts, however unreasonable.
+Will: Now the response: outside a householder case, was the force reasonable? The jury judges that objectively. The deciding rule is that in a non-householder case the force is not reasonable if it was disproportionate in the circumstances as the defendant believed them to be.
+Hannah: Is someone under attack expected to judge the force precisely?
+Will: A person acting in the heat of the moment cannot be expected to weigh to a nicety the exact measure of force needed. And evidence that the defendant did only what they honestly and instinctively thought necessary is strong evidence that the force was reasonable.
+Hannah: Does the defendant's psychiatric condition come into it?
+Will: The defendant's psychiatric condition is not relevant, absent exceptional circumstances, to whether the degree of force was reasonable, because that question is objective. And an insane delusion cannot make force reasonable.
+Hannah: So is that condition ever relevant?
+Will: Yes, to the first, subjective question, whether the defendant genuinely believed force was necessary, because the defendant is judged on the facts as honestly believed.
+Hannah: And what about physical characteristics?
+Will: Physical characteristics, such as size, age, frailty or being alone, may form part of the circumstances as the defendant believed them.
+Hannah (summing up): Outside a householder case, disproportionate force is not reasonable, judged objectively in the circumstances as the defendant believed them and allowing for the heat of the moment.
+Will: Yes: disproportionate force is out, judged on the facts as believed.
+## Block 6: Householder cases; raising self-defence at trial
+Hannah: Before householder cases, a question mixing belief and force. Dana's psychiatric condition makes her perceive threats that aren't there, and she hits a stranger. Where can that condition count?
+Will (scenario pause): <think>
+Will: On the first question only: whether she genuinely believed force was necessary, which is subjective. The tempting answer is that it also makes more force reasonable, but that question is objective, so absent exceptional circumstances her condition is not relevant there.
+Hannah: Yes, it goes to belief, and not to reasonableness without exceptional circumstances.
+Will: Now householder cases, and then raising self-defence at trial. A householder case has three requirements. One: the defendant used the force while in or partly in a building or part of a building. That building must be a dwelling or forces accommodation, or both. Two: the defendant was not a trespasser. Three: the defendant believed the victim to be in, or entering, the building as a trespasser.
+Hannah: What can the householder be defending?
+Will: The defendant or another person. A householder case does not cover defending property or preventing crime.
+Hannah: And what changes about the force?
+Will: The deciding rule: in a householder case, force that was grossly disproportionate is never reasonable. Force that was disproportionate but not grossly so may be reasonable, and the jury still decides whether it was reasonable in all the circumstances as the defendant believed them. So it is wrong to say householder force fails only when grossly disproportionate.
+Hannah: Finally, who bears the burden at trial?
+Will: The prosecution bears the legal burden of proving every element beyond reasonable doubt. Where the defendant raises a defence carrying only an evidential burden, the prosecution must then disprove it beyond reasonable doubt.
+Hannah (summing up): In a householder case, grossly disproportionate force is never reasonable but merely disproportionate force may be; once self-defence is raised with evidence, the prosecution must disprove it beyond reasonable doubt.
+Will: Yes: gross disproportion is fatal, and mere disproportion goes to the jury.
+## Recap
+Hannah: A last question, on householder cases. Imran finds a burglar in his kitchen, believes he is about to be attacked, and hits him. The jury thinks the force disproportionate, though not grossly so. Must Imran be acquitted?
+Will (scenario pause): <think>
+Will: Not automatically. Force that was not grossly disproportionate may be reasonable, but the jury still decides whether it was reasonable in all the circumstances as Imran believed them. The tempting answer is that anything short of grossly disproportionate is reasonable, and that's wrong.
+Hannah: Yes, reasonableness is still the jury's question.
+Will: Now the quick-fire round.
+Hannah: What's the summary for unlawful act manslaughter?
+Will (quick-fire pause): <think>
+Will: Unlawful act manslaughter needs a criminal act, not an omission, that all sober and reasonable people would inevitably recognise risks some physical harm.
+Hannah: What's the summary for gross negligence manslaughter?
+Will (quick-fire pause): <think>
+Will: In gross negligence manslaughter the risk must be of death, not merely serious injury, and obvious on what the defendant actually knew at the time of the breach.
+Hannah: What's the summary for self-defence and its threat?
+Will (quick-fire pause): <think>
+Will: Self-defence is a complete defence even to murder, but it fails completely without an attack the defendant believed imminent that made force necessary.
+Hannah: What's the summary for honest belief?
+Will (quick-fire pause): <think>
+Will: The defendant is judged on the facts as honestly believed, so a genuine mistake counts even if unreasonable, unless it is attributable to voluntary intoxication.
+Hannah: What's the summary for non-householder force?
+Will (quick-fire pause): <think>
+Will: Outside a householder case, disproportionate force is not reasonable, judged objectively in the circumstances as the defendant believed them and allowing for the heat of the moment.
+Hannah: What's the summary for householder cases and the burden?
+Will (quick-fire pause): <think>
+Will: In a householder case, grossly disproportionate force is never reasonable but merely disproportionate force may be; once self-defence is raised with evidence, the prosecution must disprove it beyond reasonable doubt.
+Hannah: And what is the whole workshop in one sentence?
+Will: Involuntary manslaughter is killing without malice aforethought, by a dangerous criminal act or grossly negligent breach of duty with a serious and obvious risk of death; self-defence needs honest belief force was necessary, and reasonable force as believed.

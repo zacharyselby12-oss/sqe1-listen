@@ -1,0 +1,138 @@
+---
+id: criminal-ws06-rev-v1
+unit: u-bpp-Criminal-06
+guide_hash: 6514a80094
+made: 2026-11-19T21:44:06+00:00
+kind: revision
+title: Criminal WS06 · Revision · 17 min
+map:
+- Fraud by false representation
+- Fraud by failure to disclose
+- Fraud by abuse of position
+- Fraud and theft compared
+recap:
+- A representation is false if it's untrue or misleading and the defendant knows it is or might be; gain or loss must be intended, and recklessness there isn't enough.
+- Silence is fraud by failure to disclose only where there's a legal duty; a moral duty isn't enough, though any false statement or half-truth can be false representation.
+- Abuse of position needs someone expected to safeguard, or not act against, another's financial interests; it needs no deception, so secret abuse counts.
+- Fraud is complete on the lie and an intended temporary gain will do; it's also theft only if the defendant intends to deprive the victim permanently.
+summary: Fraud is complete on the dishonest conduct, done intending gain, loss or a risk of loss in money or property, so nobody need be deceived and nothing gained; the form turns on a lie, a legal duty to disclose, or an abused position.
+invented:
+- Priya (selling a car she says has never been in an accident)
+- Marcus (private seller of a boat; engine serviced last month)
+- Elena (a company's sales manager copying its customer database)
+- Tom (hiring a camera from a hire shop for the weekend)
+- a dealer selling a painting as genuine
+guide_only: []
+---
+## Map
+Will: Fraud, then. The big question is when dishonest conduct aimed at a gain or a loss becomes fraud, even though nobody was fooled. There are four areas: fraud by false representation, fraud by failure to disclose, fraud by abuse of position, and then fraud compared with theft.
+Hannah: So it's one offence committed in three ways, and then the line between fraud and theft?
+Will: Yes: a single offence with those forms, and then theft alongside it.
+
+## Block 1: Fraud by false representation
+Hannah: Fraud by false representation first. When does a lie become fraud?
+Will: When the defendant dishonestly makes a false representation, intending by making it to make a gain for himself or another, or to cause loss to another or expose another to a risk of loss.
+Hannah: And how do I tell which form of fraud a question is about?
+Will: By the conduct. A lie, express or implied, points to false representation. Silence where there's a legal duty to disclose points to failure to disclose. And secret dishonest conduct by someone in a position of trust, with no representation or duty to disclose, points to abuse of position.
+Hannah: Does anybody actually have to be taken in by the lie?
+Will: Nobody does, because it's a conduct offence. It's complete when the false representation is made with the required intent, so no one need be deceived or rely on it, and no gain or loss need actually occur.
+Hannah: Now the representation itself. What counts as a representation?
+Will: A representation means any representation as to fact or law, and that includes the state of mind of the defendant or of any other person. So a promise to pay, or to do work, which the defendant doesn't intend to keep counts. And a representation may be express or implied.
+Hannah: What about someone who only gives an opinion?
+Will: A statement of opinion or belief is a representation about the defendant's state of mind, so it's false when he doesn't hold it. And where the facts aren't equally known to both sides, an opinion given by the party who knows them best impliedly represents that he knows facts which justify it.
+Hannah: Can conduct on its own be a representation?
+Will: It can. Ordering a meal implies an intention to pay. Using a cheque guarantee, credit or debit card implies authority to use it. And wearing a uniform, or a dishonest silence after a change of circumstances, can amount to a continuing representation.
+Hannah: And what happens where there's no person on the other end, only a machine?
+Will: It still counts. A representation is made once it, or anything implying it, is submitted in any form to a system or device. That means any system or device designed to receive, convey or respond to communications, with or without human intervention. So entering stolen card details online, or into a cash machine, is making a representation.
+Hannah: Now falsity, which is where questions turn. When is a representation false?
+Will: Falsity asks two questions, and both must be met. Is the representation untrue or misleading? And does the person making it know that it is, or might be, untrue or misleading? So a literally true but misleading statement can be false. But a defendant who believes the statement true, unaware that it might be untrue or misleading, is not guilty.
+Hannah: So a dealer who calls a painting genuine, truly believing it and with no idea it might not be, hasn't made a false representation?
+Will: Yes: he believes it true and doesn't know it might be untrue, so he's not guilty.
+Hannah: Then dishonesty. Which test applies to fraud?
+Will: The Ivey and Barton test. First comes the defendant's actual belief as to the facts, which must be genuinely held, though whether it was reasonable is only evidence of that. Then comes whether his conduct was dishonest by the standards of ordinary decent people, and he needn't have realised it was dishonest by those standards.
+Hannah: Can he rely on a belief in a legal right, as he could in theft?
+Will: Not as a defence. The Theft Act's own dishonesty provision does not apply to fraud, so a belief in a legal right is evidence going to the Ivey test, not a statutory defence.
+Hannah: Last, the intention. What exactly must the defendant intend?
+Will: He must intend, by making the representation, to make a gain or to cause loss or expose another to a risk of loss. Recklessness as to gain or loss is not enough. That's the trap, because falsity is looser: there, knowing the representation might be untrue is enough.
+Hannah: And does any kind of gain or loss count?
+Will: Only gain or loss in money or other property, and questions turn on that. Property is wide here: real or personal, including things in action and other intangible property. And the gain or loss can be temporary or permanent.
+Hannah: What do gain and loss each include?
+Will: Gain includes keeping what one has as well as getting what one doesn't have. Loss includes not getting what one might get as well as parting with what one has.
+Hannah (summing up): A representation is false if it's untrue or misleading and the defendant knows it is or might be; gain or loss must be intended, and recklessness there isn't enough.
+Will: Yes: knowing it might be untrue satisfies falsity, whereas the gain or loss has to be intended.
+
+## Block 2: Fraud by failure to disclose
+Hannah: Before fraud by failure to disclose, a question on false representation. Priya, selling her car, tells a buyer it has never been in an accident. It has, and she suspects as much. The buyer doesn't believe her and walks away. Is her representation false, and does it matter that nobody relied on it?
+Will (scenario pause): <think>
+Will: It's false, and the offence can still be complete. The statement is untrue and she knows it might be, which is enough for falsity. The tempting answer is no fraud, because nobody was deceived and nothing was gained, but it's a conduct offence. It's complete when she makes the representation dishonestly, intending a gain or a loss.
+Hannah: Yes: her knowledge satisfies falsity, and no one need be deceived. So, failure to disclose: when is keeping quiet fraud?
+Will: When the defendant dishonestly fails to disclose to another person information which he's under a legal duty to disclose, intending by failing to disclose it to make a gain for himself or another, or to cause loss to another or expose another to a risk of loss.
+Hannah: Is this a conduct offence as well?
+Will: It is. It's complete on the dishonest failure to disclose with the required intent, so no gain or loss need result and nobody need be deceived.
+Hannah: Where can a legal duty to disclose come from?
+Will: It may arise in two groups of ways. The first group is rules and agreements: statute, the express or implied terms of a contract, and the custom of a trade or market.
+Hannah: And what is the second group?
+Will: Relationships and dealings of trust. That's a fiduciary relationship, such as agent and principal or solicitor and client, and a transaction of the utmost good faith, such as some insurance contracts.
+Hannah: So what happens where the duty is only a moral one?
+Will: Then silence isn't this offence, because a moral duty is not enough. Take a private seller who says nothing about a defect: there's no legal duty to disclose, it's buyer beware, and the silence is not fraud by failure to disclose. But any false statement, or a half-truth, can be fraud by false representation.
+Hannah: And what about a change of circumstances that the defendant keeps quiet about?
+Will: That's a contrast pair. If the defendant's own earlier statement has become false and he lets it stand, the continuing representation can be fraud by false representation. If he had only a duty to report the change, the failure to report it is considered as failure to disclose.
+Hannah: Does it help the defendant that he didn't know about the duty?
+Will: Only on dishonesty. Dishonesty is judged by the Ivey and Barton test here too, and his ignorance of the duty to disclose may be relevant to whether he was dishonest, but not to whether the duty exists.
+Hannah (summing up): Silence is fraud by failure to disclose only where there's a legal duty; a moral duty isn't enough, though any false statement or half-truth can be false representation.
+Will: Yes: the legal duty is the gateway, and once the defendant speaks falsely the question moves to false representation.
+
+## Block 3: Fraud by abuse of position
+Hannah: Before fraud by abuse of position, a question mixing the first two areas. Marcus, a private seller, knows his boat's engine is failing. Asked about the engine, he says only that it was serviced last month, which is true. Which form of fraud could that be?
+Will (scenario pause): <think>
+Will: False representation, not failure to disclose. The tempting answer is failure to disclose, but a private seller has no legal duty to disclose a defect, so silence alone wouldn't be fraud. Marcus spoke, though, and a literally true but misleading statement is false when he knows it is, or might be, misleading. Dishonesty and the intention as to gain or loss are still needed.
+Hannah: Yes: no legal duty rules out failure to disclose, and the misleading half-truth brings in false representation. So, abuse of position: when does someone in a position of trust commit fraud by abusing it?
+Will: When he occupies a position in which he's expected to safeguard, or not to act against, the financial interests of another person, and he dishonestly abuses that position. He must intend, by means of the abuse, to make a gain for himself or another, or to cause loss to another or expose another to a risk of loss.
+Hannah: Which relationships count as a position like that?
+Will: The recognised fiduciary relationships do. They cover trustee and beneficiary, director and company, and professional and client.
+Hannah: And which other relationships are on that list?
+Will: Agent and principal, employee and employer, and partners. And a position can also arise in family or voluntary relationships, such as the carer of an elderly person.
+Hannah: Who decides whether the defendant was in such a position?
+Will: Whether a relationship is capable of being such a position is for the judge, and whether it existed on the facts is for the jury.
+Hannah: Whose expectation is it, and does there have to be a fiduciary duty?
+Will: The expectation is objective: it's the reasonable person's, not the victim's or the defendant's. A fiduciary duty is not essential, but without one the prosecution must show an obligation akin to it. So ordinary arm's-length commercial dealings, where each side looks after its own interests, are not enough, whereas assuming responsibility for collecting and paying another's wages can be.
+Hannah: Then what does abusing the position mean?
+Will: Abuse means using the position incorrectly, or putting it to improper use, contrary to the expectation that arises because of the position. Abuse and dishonesty are separate elements, each to be proved. And abuse may be by act or omission: an employee who deliberately fails to take up the chance of a crucial contract, so that a rival company owned by a friend can take it, abuses the position by omission.
+Hannah: Does the victim have to be misled by any of this?
+Will: The victim needn't be, and that decides questions. No deception is required, so the offence covers secret abuse where the victim is not misled and need not know of the abuse. An employee copying the customer database to set up in competition is one example, and a trustee misusing trust funds is another.
+Hannah: And is the mental element the same as for the other forms?
+Will: It is. Dishonesty is the Ivey and Barton test. He must intend by the abuse to make a gain or to cause loss or expose another to a risk of loss, in money or property, whether temporary or permanent. It's a conduct offence again, so no actual gain or loss is required.
+Hannah: What if the gain or loss wasn't the defendant's purpose?
+Will: Then it's a question of oblique intention. Where the result was not the defendant's purpose, the jury may not find that he intended it unless the result was a virtual certainty as a result of his actions, barring some unforeseen intervention, and he appreciated that this was the case.
+Hannah (summing up): Abuse of position needs someone expected to safeguard, or not act against, another's financial interests; it needs no deception, so secret abuse counts.
+Will: Yes: the expectation about another's financial interests makes the position, and the abuse can be entirely secret.
+
+## Block 4: Fraud and theft compared
+Hannah: Before fraud and theft compared, a question on abuse of position. Elena, a company's sales manager, quietly copies its customer database to start a rival business. Nobody at the company is told anything, and nobody is misled. Can that be fraud when she told no lie?
+Will (scenario pause): <think>
+Will: It can be fraud by abuse of position. As an employee she's expected not to act against her employer's financial interests, and copying the database to compete puts her position to improper use. The tempting answer is no fraud, because nobody was deceived, but this form needs no deception and the victim need not know. Dishonesty and the intention as to gain or loss must still be proved.
+Hannah: Yes: secret abuse is covered, because no deception is required. So, fraud and theft compared: the defendant lies to get someone to hand over property, and when is that theft too?
+Will: A dishonest lie that induces the victim to hand over property is fraud by false representation. It becomes theft as well only where he intends to deprive the victim permanently.
+Hannah: But the victim agreed to hand it over. Doesn't that consent stop it being an appropriation?
+Will: It doesn't, and that's the rule in Gomez: consent obtained by deception does not prevent appropriation. But fraud is complete on the lie, before anything is obtained, and it needs no intention to deprive permanently, so an intended temporary gain suffices.
+Hannah (summing up): Fraud is complete on the lie and an intended temporary gain will do; it's also theft only if the defendant intends to deprive the victim permanently.
+Will: Yes: the lie completes the fraud, and permanent deprivation is what theft adds.
+
+## Recap
+Hannah: A last question, on fraud and theft. Tom lies about who he is so that a hire shop hands him a camera for the weekend, and he always means to bring it back. Is that fraud, theft, or both?
+Will (scenario pause): <think>
+Will: Fraud only. He dishonestly made a false representation intending a gain, and a temporary gain in property is enough. The tempting answer is both, because he got the camera by deception, but theft needs an intention to deprive the shop permanently, and he has none.
+Hannah: Yes: a temporary gain suffices for fraud, and theft fails without that permanent intention. Now the quick-fire round. What's the summary for fraud by false representation?
+Will (quick-fire pause): <think>
+Will: A representation is false if it's untrue or misleading and the defendant knows it is or might be; gain or loss must be intended, and recklessness there isn't enough.
+Hannah: What's the summary for fraud by failure to disclose?
+Will (quick-fire pause): <think>
+Will: Silence is fraud by failure to disclose only where there's a legal duty; a moral duty isn't enough, though any false statement or half-truth can be false representation.
+Hannah: What's the summary for fraud by abuse of position?
+Will (quick-fire pause): <think>
+Will: Abuse of position needs someone expected to safeguard, or not act against, another's financial interests; it needs no deception, so secret abuse counts.
+Hannah: What's the summary for fraud compared with theft?
+Will (quick-fire pause): <think>
+Will: Fraud is complete on the lie and an intended temporary gain will do; it's also theft only if the defendant intends to deprive the victim permanently.
+Hannah: And what's the whole workshop in one sentence?
+Will: Fraud is complete on the dishonest conduct, done intending gain, loss or a risk of loss in money or property, so nobody need be deceived and nothing gained; the form turns on a lie, a legal duty to disclose, or an abused position.

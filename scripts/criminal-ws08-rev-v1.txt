@@ -1,0 +1,172 @@
+---
+id: criminal-ws08-rev-v1
+unit: u-bpp-Criminal-08
+guide_hash: 2356fa2537
+made: 2026-11-19T21:44:06+00:00
+kind: revision
+title: Criminal WS08 · Revision · 19 min
+map:
+- Intoxication
+- Consent
+- Self-defence: belief and reasonable force
+- Householder cases
+- Consent obtained by deception
+recap:
+- A drunken intent is still an intent; without mens rea, voluntary intoxication helps only on specific intent offences, and involuntary intoxication helps on any offence.
+- Consent fails for ABH or worse, intended or caused, unless a recognised exception applies or the defendant, intending only a consensual battery, neither intended nor foresaw the risk of harm.
+- Judge the defendant on the facts as they genuinely believed them, unless the mistake is attributable to voluntary intoxication; the force must then be reasonable, or self-defence fails completely.
+- In a householder case, grossly disproportionate force is never reasonable, but force disproportionate and not grossly so may be reasonable; in any other case, disproportionate force is not reasonable.
+- Deception as to the defendant's identity, or the nature or quality of the act, vitiates consent; deception as to the defendant's attributes or qualifications does not.
+summary: Ask what the defendant intended or genuinely believed, then apply the law's limits, so a mistaken belief in the need for force attributable to voluntary intoxication cannot be relied on, the force must be reasonable, and consent where ABH is intended needs a recognised exception.
+invented:
+- Ikenna
+- Tamsin
+- Osman
+- Dervla
+- Ruairi
+- Priit
+- Corin
+- Odalys
+guide_only:
+- P:CR-1-02 (the burden of proof generally; self-defence's burden is said)
+- P:CR-4.1-12 (intoxication and loss of control)
+- P:CR-5.2-05 (recognised medical condition: only the acute intoxication limb is said)
+- P:CR-5.2-09 (alcohol dependency syndrome)
+- P:CR-2.1.3-08 (informed consent to the risk of disease)
+- N-EX-CR08-03 (reasonable punishment of a child)
+- N-EX-CR08-02 (no new exceptions; body modification)
+- N-EX-CR08-04 (force against an innocent third party)
+- P:CR-4.2-16 (defence of property)
+- P:CR-4.2-15 (psychiatric condition and physical characteristics)
+- N-EX-CR08-05 (building, trespasser and workplace extensions)
+---
+## Map
+Will: One big question here: when does a defendant who was drunk, or who used force, escape conviction? There are five areas. The first three are intoxication, consent, and self-defence, which turns on belief and reasonable force.
+Hannah: And what are the last two?
+Will: Householder cases, then consent obtained by deception.
+Hannah: So three big topics, then two short ones.
+
+## Block 1: Intoxication
+Will: Yes, five in all. Intoxication first: when does being drunk or drugged help? It is not a free-standing defence. It matters only where, because of it, the defendant did not in fact form the mens rea. A drunken intent is still an intent, so a defendant who formed the mens rea is guilty, even when that was only because drink or drugs disinhibited them.
+Hannah: How do we tell voluntary intoxication from involuntary?
+Will: It is voluntary where the defendant knowingly took alcohol or a dangerous drug, even though they underestimated its strength or effect. It is treated as involuntary for a drug taken as medically prescribed. The same goes for a non-dangerous drug, such as a sedative, not known to the defendant to be liable to cause aggression or unpredictability. Both hold unless the defendant was reckless in taking it.
+Hannah: What does involuntary intoxication, like a spiked drink, do for the defendant?
+Will: It is a defence to any offence, specific or basic intent, if the defendant did not in fact form the mens rea. It is no defence where they still formed it, even though they would not have acted that way when sober.
+Hannah: And which offences can voluntary intoxication help with?
+Will: Specific intent offences: where, because of it, the defendant lacked the intention required, they are not guilty of that offence. They include murder and the section 18 offence. They also include theft, robbery, burglary with intent, and aggravated criminal damage where intention to endanger life is charged.
+Hannah: Where do attempts fit in?
+Will: Attempts are treated as specific intent offences, because the defendant must intend to commit the full offence. But the Majewski rule would probably still apply where recklessness as to a circumstance suffices.
+Hannah: So what is that rule, for basic intent offences?
+Will: Voluntary intoxication is no defence to a basic intent offence: the defendant is liable even where, through drink, they did not foresee the risk. Those offences are common assault and the section 47 and section 20 offences. They are also simple criminal damage and arson, and manslaughter. So a drunk who punches someone cannot say he was too drunk to see the risk.
+Hannah: How does the jury then test recklessness?
+Will: It asks whether this defendant, not a reasonable person, would have foreseen the risk had they been sober. One who would not have foreseen it even when sober is not reckless.
+Hannah: Does a drunken belief ever help on a basic intent offence?
+Will: Yes, for simple criminal damage and simple arson. A drunken, honestly held belief in a lawful excuse, for example that the owner would consent, is a defence to them. The statute makes it immaterial whether the belief is justified, as long as it is honestly held. It does not apply to the aggravated forms.
+Hannah: Is reckless aggravated criminal damage or arson basic or specific intent?
+Will: That is unsettled. Caldwell treated it as basic intent, but Heard, obiter, indicates specific intent.
+Hannah: And on a murder charge, does drink help with the partial defences?
+Will: Loss of control and diminished responsibility have their own rules, in their own workshop. The headline is that acute voluntary intoxication is not a recognised medical condition, even where it causes an abnormality of mental functioning.
+Hannah (summing up): A drunken intent is still an intent; without mens rea, voluntary intoxication helps only on specific intent offences, and involuntary intoxication helps on any offence.
+Will: Yes: once the mens rea is formed the drink is irrelevant, and the type of intoxication and of offence decides the rest.
+
+## Block 2: Consent
+Hannah: Before consent, a question on intoxication. Ikenna, very drunk after a night of heavy drinking he chose to do, throws a bottle across a crowded room without a thought, and it cuts Tamsin: can he rely on his drunkenness on a section 20 charge?
+Will (scenario pause): <think>
+Will: He cannot. That is a basic intent offence, so voluntary intoxication is no defence, and the jury asks whether he would have foreseen the risk sober. The tempting answer is that he never foresaw harm, but failing to foresee a risk through drink does not help on basic intent.
+Hannah: Yes: what he would have foreseen sober is the test, not what he foresaw drunk.
+Will: Now consent: when does the victim's consent stop force being a crime? Force is not unlawful where the victim consents, expressly or impliedly, including implied consent to the ordinary jostling and touching of everyday life. But consent is a defence to common assault only where no ABH or worse is intended or caused, unless a recognised exception applies.
+Hannah: What if the defendant wrongly thought the victim consented?
+Will: An honest belief that the victim consented to the touching, say in rough horseplay, negates the mens rea of assault and battery, even where it is unreasonable. The defendant then does not intend or foresee unlawful force.
+Hannah: And where that defendant was voluntarily drunk?
+Will: Then the jury asks whether the defendant foresaw the risk of harm, or would have foreseen it when sober. One court also treated a genuine drunken belief in consent as a defence, but the Law Commission calls that view incorrect.
+Hannah: Now harm beyond a battery: when does consent fail?
+Will: Consent is no defence where ABH is intended or caused, as in sadomasochism or a consensual fight, unless the activity falls within a recognised public-interest exception. So two friends who agree to settle a score with their fists can each be guilty, despite the agreement.
+Hannah: Which activities do those exceptions cover?
+Will: They include properly conducted sports within the rules, reasonable surgery, tattooing and piercing, and rough horseplay. Sometimes they cover consensual adult activity in private, such as branding by a spouse.
+Hannah: What if ABH or worse results by accident?
+Will: Then consent to the touching remains a defence. Where the defendant intended only a consensual battery, and neither intended nor foresaw the risk of bodily harm, they are not guilty, even of the section 47 or section 20 offence. Whether consent covers harm the defendant was reckless about is unsettled.
+Hannah: In sport, where does a hard tackle become a crime?
+Will: Injuries inflicted within the rules, or in conduct that is part of the normal play of the game, are covered by consent. Conduct so far outside the rules as not to be impliedly accepted, like a deliberate off-the-ball punch, is criminal.
+Hannah: What about serious harm for sexual gratification?
+Will: The victim's consent to the infliction of serious harm for sexual gratification is no defence, and serious harm here includes ABH, wounding and GBH.
+Hannah: Is there an exception for sexually transmitted infections?
+Will: Yes. For the section 47 and section 20 offences, that rule does not apply where the harm is an infection passed on in sexual activity the victim consented to, knowing or believing the defendant had it.
+Hannah (summing up): Consent fails for ABH or worse, intended or caused, unless a recognised exception applies or the defendant, intending only a consensual battery, neither intended nor foresaw the risk of harm.
+Will: Yes: the level of harm sets the default, and the exceptions and the accident rule are the only ways round it.
+
+## Block 3: Self-defence: belief and reasonable force
+Hannah: Before self-defence, with its belief and reasonable force, a question on consent. In a friendly wrestling match Osman agreed to, Dervla means only the agreed grappling and foresees no injury, but Osman's wrist breaks: is she guilty of the section 20 offence?
+Will (scenario pause): <think>
+Will: She is not. She meant only the agreed contact and foresaw no risk of bodily harm, so his consent to the touching remains a defence. The tempting answer is that consent never survives serious harm, but that ignores the rule for accidents.
+Hannah: Yes: accidental harm from a consensual battery stays covered by the consent.
+Will: Now self-defence, where belief and reasonable force decide everything. Self-defence, defence of another, and reasonable force in the prevention of crime are complete defences to any offence involving force, including murder. Once the defendant raises the defence with evidence, the prosecution must disprove it beyond reasonable doubt. Where it is not disproved, the defendant is acquitted outright.
+Hannah: What are the two questions the jury asks?
+Will: First, did the defendant genuinely believe it was necessary to use force? That is judged subjectively, on the facts as the defendant believed them. Second, was the degree of force reasonable in the circumstances as the defendant believed them to be? That is judged objectively, by the jury.
+Hannah: What if that belief was a mistake, even an unreasonable one?
+Will: A genuine mistake of fact counts even where it is unreasonable: the reasonableness of the belief goes only to whether it was genuinely held. Defence of another follows the same two questions. The defendant may use reasonable force to protect any person, including a stranger, so one who wrongly but honestly believes a third party is being attacked can rely on it.
+Hannah: Can a defendant rely on a threat they knew nothing about?
+Will: They cannot rely on circumstances they did not know about. Where the defendant used force without believing it was necessary, the defence fails, even though the victim was in fact about to attack them or someone else.
+Hannah: Now the deciding rule: what if the mistake comes from drink?
+Will: A mistaken belief in the need to use force cannot be relied on where it is attributable to voluntary intoxication, for any offence including murder. That covers self-defence, defence of another or of property, and prevention of crime or arrest. Don't confuse it with simple criminal damage: there, a drunken but honest belief in a lawful excuse works; here, a drunken belief that force is needed does not.
+Hannah: Does that still apply once the drink has worn off?
+Will: It covers a mistake immediately and proximately caused by earlier voluntary drink or drugs, such as an induced psychotic episode, even when the defendant is no longer intoxicated. It does not cover long-term mental illness caused by past misuse.
+Hannah: Must the defendant retreat, or wait to be hit?
+Will: Neither. There is no duty to retreat, but the possibility that the defendant could have retreated is a factor in deciding whether the force was reasonable. And they need not wait to be struck first: a pre-emptive strike against an imminent attack is allowed.
+Hannah: And where no attack is imminent at all?
+Will: Then self-defence fails completely: the force must be necessary against an attack the defendant believed to be imminent. Examples are killing a sleeping abuser, or striking after the threat has passed. That defendant must look to loss of control or diminished responsibility to reduce murder to manslaughter.
+Hannah: Is loss of control open after a slow-burn reaction?
+Will: It can be. Loss of control need not be sudden, so a slow-burn reaction or the fear trigger can qualify. But it is barred where the defendant acted in a considered desire for revenge.
+Hannah: What about revenge, or a defendant who started the fight?
+Will: Force used after the threat has ended, by way of revenge or punishment, is not self-defence. Nor can the defendant rely on it after setting out to provoke the victim into attacking, so as to have an excuse for violence. But starting a fight does not automatically bar the defence where the victim's response is out of all proportion.
+Hannah: When does the force itself count as reasonable?
+Will: Outside householder cases, force is not reasonable where it was disproportionate in the circumstances as the defendant believed them to be. But a person acting in the heat of the moment cannot be expected to weigh to a nicety the exact measure of force needed. So evidence that the defendant did only what they honestly and instinctively thought necessary is strong evidence that the force was reasonable.
+Hannah: And where the force was excessive, is there a halfway house?
+Will: There is none: self-defence fails completely, with no partial defence of excessive self-defence reducing murder to manslaughter. So a defendant who kills with the mens rea for murder is guilty of murder, unless loss of control, for example the fear of serious violence trigger, or diminished responsibility applies.
+Hannah (summing up): Judge the defendant on the facts as they genuinely believed them, unless the mistake is attributable to voluntary intoxication; the force must then be reasonable, or self-defence fails completely.
+Will: Yes: a subjective belief, an objective limit on the force, and no partial version of the defence.
+
+## Block 4: Householder cases
+Hannah: Before householder cases, a question mixing intoxication and self-defence. Ruairi, drunk after an evening in the pub, wrongly thinks a stranger reaching into a coat is pulling a knife, and punches him: can he rely on that belief?
+Will (scenario pause): <think>
+Will: He cannot: the mistake is attributable to voluntary intoxication. The tempting answer is that a genuine mistake counts even when unreasonable, which is the normal rule, but drink takes this one outside it.
+Hannah: Yes: a sober mistake would have counted, and the drunken one does not.
+Will: Now householder cases: how much force may a householder use against an intruder? There are three requirements. One: the force was used while the defendant was in or partly in a building, or part of a building, that is a dwelling or forces accommodation or both. Two: the defendant was not a trespasser. Three: the defendant believed the victim to be in or entering the building as a trespasser.
+Hannah: Does that cover every kind of defensive force at home?
+Will: It covers defending yourself or another person, but not defending property or preventing crime.
+Hannah: So what is the special rule on force?
+Will: In a householder case, force that was grossly disproportionate is never reasonable. Force that was disproportionate, but not grossly so, may be reasonable, and the jury still decides whether it was reasonable in all the circumstances as the defendant believed them. So a man at home who uses that middle level of force on a burglar climbing in, to protect his family, may be acting reasonably. Use the same force on an attacker in the street, and it is not reasonable.
+Hannah (summing up): In a householder case, grossly disproportionate force is never reasonable, but force disproportionate and not grossly so may be reasonable; in any other case, disproportionate force is not reasonable.
+Will: Yes: only a householder can have merely disproportionate force treated as reasonable, and even then the jury decides.
+
+## Block 5: Consent obtained by deception
+Hannah: Before consent obtained by deception, a question on householder cases. Priit, at home, finds a burglar in his hallway holding his laptop, and uses disproportionate force purely to protect the laptop: does the householder rule help him?
+Will (scenario pause): <think>
+Will: It does not. A householder case covers defending yourself or another person, not property, so his disproportionate force is not reasonable. The tempting answer is that he was at home facing a trespasser, but that is not enough when the force only protects property.
+Hannah: Yes: the purpose of the force decided it, and protecting property falls outside the rule.
+Will: Now consent obtained by deception: which lies stop consent from counting? Consent is vitiated by deception as to the defendant's identity, or as to the nature or quality of the act, such as touching for a pretended medical purpose. It is not vitiated by deception as to attributes or qualifications, such as a dentist who conceals her suspension.
+Hannah (summing up): Deception as to the defendant's identity, or the nature or quality of the act, vitiates consent; deception as to the defendant's attributes or qualifications does not.
+Will: Yes: the question is what the lie was about, and only a lie about identity or the act itself undoes the consent.
+
+## Recap
+Hannah: One last question, on deception. Corin, a qualified physiotherapist, tells his patient Odalys that an intimate touching is a medical test, when it has no medical purpose: does her consent count?
+Will (scenario pause): <think>
+Will: It does not: he deceived her as to the nature or quality of the act. The tempting answer is that he really is qualified, but the lie was about the act and not about him.
+Hannah: Yes: a pretended medical purpose is a lie about what the act is.
+Will: Now the quick-fire round, with one summary for each area.
+Hannah: What's the summary for intoxication?
+Will (quick-fire pause): <think>
+Will: A drunken intent is still an intent; without mens rea, voluntary intoxication helps only on specific intent offences, and involuntary intoxication helps on any offence.
+Hannah: What's the summary for consent to harm?
+Will (quick-fire pause): <think>
+Will: Consent fails for ABH or worse, intended or caused, unless a recognised exception applies or the defendant, intending only a consensual battery, neither intended nor foresaw the risk of harm.
+Hannah: What's the summary for self-defence, on belief and reasonable force?
+Will (quick-fire pause): <think>
+Will: Judge the defendant on the facts as they genuinely believed them, unless the mistake is attributable to voluntary intoxication; the force must then be reasonable, or self-defence fails completely.
+Hannah: What's the summary for householder cases?
+Will (quick-fire pause): <think>
+Will: In a householder case, grossly disproportionate force is never reasonable, but force disproportionate and not grossly so may be reasonable; in any other case, disproportionate force is not reasonable.
+Hannah: What's the summary for consent obtained by deception?
+Will (quick-fire pause): <think>
+Will: Deception as to the defendant's identity, or the nature or quality of the act, vitiates consent; deception as to the defendant's attributes or qualifications does not.
+Hannah: And how would you put the whole workshop in one sentence?
+Will: Ask what the defendant intended or genuinely believed, then apply the law's limits, so a mistaken belief in the need for force attributable to voluntary intoxication cannot be relied on, the force must be reasonable, and consent where ABH is intended needs a recognised exception.

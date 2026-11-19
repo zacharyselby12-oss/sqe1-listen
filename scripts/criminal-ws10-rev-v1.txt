@@ -1,0 +1,216 @@
+---
+id: criminal-ws10-rev-v1
+unit: u-bpp-Criminal-10
+guide_hash: 19bc109906
+made: 2026-11-19T21:44:06+00:00
+kind: revision
+title: Criminal WS10 · Revision · 23 min
+map:
+- Attempts: actus reus (more than merely preparatory)
+- Attempts: mens rea
+- Attempts: impossibility
+- Parties to a crime: principals and innocent agents
+- Parties to a crime: withdrawal; acquittal of the principal, unclear roles and attempts
+- Secondary parties: actus reus (aid, abet, counsel, procure)
+- Secondary parties: joint enterprise
+- Secondary parties: mens rea
+- Also examinable: abandonment, penalty, supervening acts and crimes never committed
+recap:
+- An attempt needs an act beyond preparation, embarking on the crime proper, though not necessarily the last act; whether the act goes beyond preparation, the jury decides as fact.
+- An attempt needs intention as to each consequence of the full offence, but recklessness as to a circumstance is enough where the full offence accepts it.
+- Impossibility on the facts is no defence, and intent is judged on the facts as the defendant believed them; but there's no attempt of an offence that doesn't exist.
+- A liable actor is the principal and the instigator an accomplice; an innocent agent makes the instigator who intentionally used them the principal.
+- Withdrawal must be timely and effective, before the offence; the principal needn't be convicted or identified, but the actus reus must actually be committed.
+- Aiding needn't be known to the principal; abetting and counselling need the principal aware of the encouragement; procuring needs a causal link; mere presence isn't enough.
+- Joint enterprise has no special rules: liability for the further crime needs assistance or encouragement of it, intended at least conditionally.
+- An accomplice must intend to assist or encourage the crime, knowing the facts that make it criminal; foresight is only evidence, but conditional intent is enough.
+- Abandoning a complete attempt is no defence, though it may reduce sentence; and there's no accessory liability if the principal never commits or attempts the offence.
+summary: An attempt needs intent as to the full offence and an act beyond preparation; an accomplice needs intentional assistance or encouragement of a crime actually committed, knowing the facts.
+invented:
+- Marcus
+- Dan
+- Leo
+- Nadia
+- Owen
+- Priya
+- Sam
+- Rob
+- Neil
+- Jay
+- Ellie
+guide_only:
+- P:CR-6.1-08
+- P:CR-6.1-06
+---
+## Map
+Will: Today's question: when is someone guilty of a crime they didn't finish, or didn't commit themselves? Nine short areas, in four groups.
+Hannah: What are those groups, in order?
+Will: Attempts, then parties to a crime, then secondary parties, and last some other examinable points.
+
+## Block 1: Attempts: actus reus (more than merely preparatory)
+Hannah: Shall we start with the actus reus of attempts?
+Will: Yes. If someone, intending to commit an offence, does an act that's more than merely preparatory to committing it, they're guilty of attempting it. The offence must be one whose completed form is triable on indictment, so a summary-only offence can't be attempted, except low-value shoplifting. Certain other offences are excluded, and they come later.
+Hannah: What does more than merely preparatory mean?
+Will: The defendant has gone beyond preparation and embarked on the crime proper, so they're actually trying to commit it. They needn't have reached the last act or the point of no return. Getting into the victim's car and pointing a loaded gun at them is attempted murder, and examining or damaging a building's lock to get in is attempted burglary. But lurking near a post office with an imitation gun without entering is only preparation, and so is hiding in school toilets with a knife and tape without contacting a pupil.
+Hannah: And who decides that question?
+Will: The jury, as a question of fact. The judge decides only whether there's sufficient evidence in law for the jury to find it was more than merely preparatory.
+Hannah (summing up): An attempt needs an act beyond preparation, embarking on the crime proper, though not necessarily the last act; whether the act goes beyond preparation, the jury decides as fact.
+Will: Yes: an act beyond preparation, not necessarily the last act, and the jury decides whether it gets that far.
+
+## Block 2: Attempts: mens rea
+Hannah: Before the mens rea of attempts, a question. Marcus lurks outside a post office with an imitation gun, but never goes in. Is that attempted robbery?
+Will (scenario pause): <think>
+Will: It's no attempt: lurking outside without entering is only preparation. The tempting answer is that his intent makes it an attempt, but intent needs an act beyond preparation.
+Hannah: Yes, he never embarked on the robbery itself.
+Will: Now the mens rea of an attempt. The defendant must intend to commit the full offence, meaning each consequence that forms part of it, by direct or oblique intention. Recklessness as to a consequence is not enough, even where it's enough for the full offence.
+Hannah: How does that work for attempted murder?
+Will: Attempted murder requires an intention to kill. An intention to cause serious harm, though enough for murder, isn't enough. So someone who intended only grievous bodily harm and failed to kill is guilty of the section 18 offence, if the harm occurred, or of attempting it, not of attempted murder. Conditional intent is sufficient, though: someone who intends to steal only if there's something worth taking can be guilty of attempted theft, charged as an attempt to steal some or all of the contents.
+Hannah: And where does recklessness come in?
+Will: With circumstances: where recklessness about a circumstance is enough for the full offence, it's enough for the attempt too. So attempted rape can rest on recklessness as to consent. Don't confuse the two: reckless about a consequence never supports an attempt; reckless about a circumstance can.
+Hannah (summing up): An attempt needs intention as to each consequence of the full offence, but recklessness as to a circumstance is enough where the full offence accepts it.
+Will: Yes: consequences need intention, and circumstances may not.
+
+## Block 3: Attempts: impossibility
+Hannah: Before impossibility, a question on intent. Dan stabs a rival meaning to hurt him badly but not to kill, and the rival escapes serious injury. Is that attempted murder?
+Will (scenario pause): <think>
+Will: It isn't, because attempted murder needs an intention to kill. The tempting answer is yes, since intending serious harm is enough for murder itself, but it isn't enough for the attempt.
+Hannah: Yes, intending serious harm falls short for the attempt.
+Will: Now impossibility in attempts. Impossibility is no defence: the defendant can be guilty of an attempt even though the facts make the offence impossible, and their intent is judged on the facts as they believed them. Dealing in harmless powder they think is a drug is an attempt.
+Hannah: Then when does a mistaken belief give no attempt?
+Will: When the offence is imaginary. There's no attempt where what the defendant thinks is a crime is not an offence at all, even though they believe it's illegal. So ask whether the offence they have in mind exists, with only the facts making it impossible.
+Hannah (summing up): Impossibility on the facts is no defence, and intent is judged on the facts as the defendant believed them; but there's no attempt of an offence that doesn't exist.
+Will: Yes: impossible facts, an attempt; imaginary offence, none.
+
+## Block 4: Parties to a crime: principals and innocent agents
+Hannah: Before principals, a question on impossibility. Leo sells harmless powder, sure it's an illegal drug. Can that be an attempt?
+Will (scenario pause): <think>
+Will: It can: impossibility is no defence, and he's judged on the facts as he believed them. The tempting answer is no attempt because no drug was sold, but that works only for an offence that doesn't exist.
+Hannah: Yes, the offence he had in mind is real.
+Will: Now parties to a crime: principals and innocent agents. A principal is someone whose own conduct, with the required mens rea, satisfies the actus reus. So is someone who intentionally brings it about through an innocent agent lacking mens rea or capacity. Anyone who only assists, encourages or procures is an accomplice. There can be joint principals, too: where two or more people each do part of the actus reus with mens rea, each is a principal.
+Hannah: And who is an innocent agent?
+Will: Someone not criminally liable for the act. There are three kinds: a child, a person who lacks mens rea because the defendant deceived them, and a person with a defence such as insanity. The defendant who caused the act through them is the principal, and the agent commits no offence. The child must be under 10.
+Hannah: What changes when the person doing the act knows the truth?
+Will: Then they're the principal. If the person who carries out the act has mens rea and no defence, the instigator is an accomplice, a counsellor or procurer, not a principal through innocent agency.
+Hannah (summing up): A liable actor is the principal and the instigator an accomplice; an innocent agent makes the instigator who intentionally used them the principal.
+Will: Yes: it turns on whether the actor is liable.
+
+## Block 5: Parties to a crime: withdrawal; acquittal of the principal, unclear roles and attempts
+Hannah: Before withdrawal, a question on principals. Nadia pays a man, who knows everything, to burn down a rival's shop, and he does. Is Nadia the principal?
+Will (scenario pause): <think>
+Will: She isn't; he is, having done the act with mens rea and no defence. The tempting answer is innocent agency, but an agent who knows isn't innocent, so Nadia is an accomplice.
+Hannah: Yes, the knowing agent is the principal.
+Will: Now withdrawal, then the acquittal of the principal, unclear roles and attempts. An accomplice escapes liability only by withdrawing before the offence is committed, in a way that's timely and effective.
+Hannah: What does that take in a planned crime?
+Will: Mere absence or a change of heart is not enough. They must at least give unequivocal communication to the others that, should they go ahead, it will be without their help. Once the crime is under way, more may be needed, such as trying to stop it. In spontaneous violence, by contrast, communication may not be needed: the defendant may withdraw by ceasing to fight and walking away. But one authority says communication is needed save in exceptional circumstances.
+Hannah: Must the principal be convicted first?
+Will: No, the principal need not be convicted or identified. But accessory liability is derivative: the actus reus must actually be committed, or no one is an accomplice. So an accomplice may be liable where the principal lacks mens rea or has a personal defence, but not where the principal's act was lawful, such as reasonable self-defence.
+Hannah: What happens when the roles are unclear?
+Will: The prosecution need not prove whether the defendant was principal or accomplice. If the jury is sure they either did the act or intentionally assisted or encouraged the person who did, they can be convicted. So where it's unclear which of two attackers struck the fatal blow, both can be convicted if each was at least an accomplice.
+Hannah: And which offences can't be attempted?
+Will: Attempt applies only to offences triable on indictment, including either-way ones, plus low-value shoplifting. So it can't be charged for other summary-only offences, such as common assault and battery.
+Hannah: Is anything else excluded?
+Will: Yes: conspiracy, and aiding, abetting, counselling or procuring.
+Hannah: And what else besides?
+Will: Two more groups: assisting offenders or concealing offences, and encouraging or assisting suicide or serious self-harm. But a defendant can be an accomplice to another's attempt.
+Hannah: So what decides it for a helper?
+Will: Whether the principal went on to commit, or at least attempt, the offence. Where they did, the helper can be an accomplice, including to the attempt. Where they never did, there's no accessory liability and no charge of attempting to aid, abet, counsel or procure; liability lies, if at all, under a separate statute.
+Hannah (summing up): Withdrawal must be timely and effective, before the offence; the principal needn't be convicted or identified, but the actus reus must actually be committed.
+Will: Yes: a committed actus reus, not a convicted principal.
+
+## Block 6: Secondary parties: actus reus (aid, abet, counsel, procure)
+Hannah: Before the actus reus of secondary parties, a question on withdrawal. Owen helps plan a burglary and supplies tools, then silently stays home on the night. Has he withdrawn?
+Will (scenario pause): <think>
+Will: He hasn't: in a planned crime, mere absence or a change of heart isn't enough; he had to at least tell the others unequivocally that, if they went ahead, it would be without his help. The tempting answer is that staying away was enough.
+Hannah: Yes, and supplying the tools didn't make it too late: he could still withdraw, timely and effectively, before the offence was committed.
+Will: Now the actus reus of a secondary party: aiding, abetting, counselling or procuring the principal's offence. The four words overlap, so the charge may simply allege all of them.
+Hannah: What does procuring involve?
+Will: Setting out to see that the offence happens and taking appropriate steps to bring it about. It needs a causal link between the defendant's conduct and the offence, but no consensus. So you can procure an offence the principal doesn't know about, like secretly lacing a driver's drink.
+Hannah: And what does aiding need?
+Will: Aiding means giving help, support or assistance, before or at the time of the offence. It doesn't need agreement with the principal, or the principal's knowledge, but the help must actually be given. And help given only after the offence is completed doesn't make someone an accomplice to that offence. They may instead commit a separate offence, such as assisting an offender or handling stolen goods.
+Hannah: How do abetting and counselling differ?
+Will: They mean encouraging, at the time or before. The principal must be aware of the encouragement, some meeting of minds, and act within its scope. But it needn't cause the offence, so the encourager is liable even if the principal would have committed it anyway.
+Hannah: Is being present at the crime enough?
+Will: No, mere presence at the scene is not enough, even where the defendant does nothing to stop the crime. The prosecution must prove they actually encouraged or assisted, and intended to. But presence by prior agreement can amount to encouragement, and so can voluntary presence at an unlawful event as a supporting spectator.
+Hannah: Can doing nothing ever count, then?
+Will: Yes, where the defendant has a right or power of control over the principal. Failing to use it can amount to aiding and abetting where they know of the offence and have an opportunity to intervene but don't, so the failure is a form of encouragement.
+Hannah (summing up): Aiding needn't be known to the principal; abetting and counselling need the principal aware of the encouragement; procuring needs a causal link; mere presence isn't enough.
+Will: Yes: secret help counts, and unknown encouragement doesn't.
+
+## Block 7: Secondary parties: joint enterprise
+Hannah: Before joint enterprise, a question on presence. Priya happens upon a street fight, watches and does nothing. Is she an accomplice?
+Will (scenario pause): <think>
+Will: She isn't: mere presence isn't enough without proof she actually encouraged or assisted, and intended to. The tempting answer is that failing to intervene makes her liable, but that needs a right or power of control over the principal.
+Hannah: Yes, a mere bystander is not an accomplice.
+Will: Now joint enterprise: two set out on one crime and one commits another. Joint enterprise is not a separate form of liability. The second person is guilty of the further crime only on the ordinary principles of secondary liability: they must have assisted or encouraged it, intending to do so.
+Hannah: Can joining the first crime supply that?
+Will: It may, for instance by adding to the force of numbers, and the intention may be conditional. But association with the other person, or presence at the scene, is evidence of assistance or encouragement, not proof.
+Hannah: What happens when the principal attacks a different victim?
+Will: Where the principal commits the intended crime against a different victim by mistake, the accomplice remains liable through transferred malice. Where the principal deliberately commits a different crime, or attacks a different target, the accomplice is liable only if they intended to assist or encourage that crime too, including conditionally, which is a question for the jury.
+Hannah (summing up): Joint enterprise has no special rules: liability for the further crime needs assistance or encouragement of it, intended at least conditionally.
+Will: Yes: the ordinary rules, applied to the further crime.
+
+## Block 8: Secondary parties: mens rea
+Hannah: Before the mens rea of secondary parties, a question. Sam urges Rob to beat up Neil, and Rob deliberately beats up Neil's brother instead. Is Sam automatically liable?
+Will (scenario pause): <think>
+Will: Not automatically: Rob deliberately chose a different target, so Sam is liable only if he intended to assist or encourage that attack too, even conditionally, which is for the jury. The tempting answer is transferred malice, but that covers a victim hit by mistake.
+Hannah: Yes, a deliberate change needs intention as to the new crime.
+Will: Now the mens rea of a secondary party, the Jogee test. The accomplice must intend to assist or encourage the principal to commit the crime, with knowledge of any existing facts necessary for it to be criminal. Where the offence needs a particular intent, the accomplice must intend to assist or encourage the principal to act with that intent: for murder, to kill or cause serious harm. They needn't know the exact details: it's enough that they knew the type of crime intended, or that the offence was within a range of possible offences they intentionally assisted or encouraged.
+Hannah: Must the accomplice want the crime?
+Will: No, intention to assist doesn't require desire. And conditional intent is enough. When the pair set out on a crime intending that the principal will use force or a weapon if necessary, the accomplice intends to assist that further crime. But foresight that the principal might commit the crime is evidence from which intention to assist or encourage may be inferred, but it's not itself enough. The old rule that foresight sufficed, parasitic accessorial liability, was abolished by Jogee. So ask whether they merely foresaw the further crime, or intended it should the need arise.
+Hannah: When the principal kills, when is the accomplice guilty of murder?
+Will: When they intended to assist or encourage the principal to act with intent to kill or cause serious harm, knowing the necessary facts. That's provided the killing was unlawful and not an overwhelming supervening act, and unless the accomplice has a defence of their own.
+Hannah: And when is it manslaughter?
+Will: When the accomplice intentionally assisted or encouraged an unlawful act which all sober and reasonable people would recognise carried a risk of some harm, and the principal kills. That's manslaughter even without the intention for murder, unless the principal's act was an overwhelming supervening act. Failing both tests, they're not guilty of the killing as an accomplice.
+Hannah: Can the two be convicted of different offences?
+Will: Yes, because each party's liability is decided on their own mens rea and defences. The principal might be guilty of murder and the accomplice of manslaughter, or the principal of manslaughter through a partial defence and the accomplice of murder.
+Hannah (summing up): An accomplice must intend to assist or encourage the crime, knowing the facts that make it criminal; foresight is only evidence, but conditional intent is enough.
+Will: Yes: intention and knowledge, with foresight as evidence.
+
+## Block 9: Also examinable: abandonment, penalty, supervening acts and crimes never committed
+Hannah: Before abandonment and the other examinable points, a question on foresight. Jay joins a burglary foreseeing, but not intending, that his partner might stab the householder, and the partner does, meaning to kill. Does Jay's foresight make him guilty of murder?
+Will (scenario pause): <think>
+Will: Not by itself: foresight is evidence from which a jury may infer intention to assist or encourage, but it isn't that intention. The tempting answer is that foresight suffices, which was the old rule Jogee abolished.
+Hannah: Yes, foresight is evidence and nothing more.
+Will: Now the last group, also examinable: abandonment and penalty, supervening acts, and crimes never committed. Once the defendant has done a more than merely preparatory act with intent, the attempt is complete. So a later voluntary abandonment or change of mind is not a defence, though it may reduce sentence.
+Hannah: Is there an offence of attempted manslaughter?
+Will: Not of attempting involuntary manslaughter, by unlawful act or gross negligence, because those offences don't require an intended consequence. And where the defendant intended to kill but failed, the charge is attempted murder.
+Hannah: When is an accomplice not liable for the principal's act?
+Will: When it was an overwhelming supervening event: one nobody in the accomplice's position could have contemplated might happen, and which relegates their acts to history.
+Hannah: Does knowing about a weapon matter?
+Will: Only as evidence. The accomplice's knowledge or ignorance that the principal carried a weapon, or of the weapon used, is evidence going to their intention. It may be decisive either way, but it's evidence and no more: a different weapon may not affect their intent to assist.
+Hannah (summing up): Abandoning a complete attempt is no defence, though it may reduce sentence; and there's no accessory liability if the principal never commits or attempts the offence.
+Will: Yes: complete attempts stand, and accomplices need a principal's crime.
+
+## Recap
+Hannah: A last question, mixing the act of an attempt with abandonment. Ellie damages a shop's lock to break in and burgle it, then changes her mind and goes home. Is that attempted burglary?
+Will (scenario pause): <think>
+Will: It is. Damaging the lock to get in is more than merely preparatory, so with her intent the attempt was complete. The tempting answer is that her change of mind clears her, but abandonment is no defence; it may only reduce sentence.
+Hannah: Yes, the attempt was complete at the lock. Now the quick-fire round. What's the summary for the actus reus of attempts?
+Will (quick-fire pause): <think>
+Will: An attempt needs an act beyond preparation, embarking on the crime proper, though not necessarily the last act; whether the act goes beyond preparation, the jury decides as fact.
+Hannah: What's the summary for the mens rea of attempts?
+Will (quick-fire pause): <think>
+Will: An attempt needs intention as to each consequence of the full offence, but recklessness as to a circumstance is enough where the full offence accepts it.
+Hannah: What's the summary for impossibility?
+Will (quick-fire pause): <think>
+Will: Impossibility on the facts is no defence, and intent is judged on the facts as the defendant believed them; but there's no attempt of an offence that doesn't exist.
+Hannah: What's the summary for principals and innocent agents?
+Will (quick-fire pause): <think>
+Will: A liable actor is the principal and the instigator an accomplice; an innocent agent makes the instigator who intentionally used them the principal.
+Hannah: What's the summary for withdrawal and an unconvicted principal?
+Will (quick-fire pause): <think>
+Will: Withdrawal must be timely and effective, before the offence; the principal needn't be convicted or identified, but the actus reus must actually be committed.
+Hannah: What's the summary for aiding, abetting, counselling and procuring?
+Will (quick-fire pause): <think>
+Will: Aiding needn't be known to the principal; abetting and counselling need the principal aware of the encouragement; procuring needs a causal link; mere presence isn't enough.
+Hannah: What's the summary for joint enterprise?
+Will (quick-fire pause): <think>
+Will: Joint enterprise has no special rules: liability for the further crime needs assistance or encouragement of it, intended at least conditionally.
+Hannah: What's the summary for an accomplice's mens rea?
+Will (quick-fire pause): <think>
+Will: An accomplice must intend to assist or encourage the crime, knowing the facts that make it criminal; foresight is only evidence, but conditional intent is enough.
+Hannah: What's the summary for abandonment and crimes never committed?
+Will (quick-fire pause): <think>
+Will: Abandoning a complete attempt is no defence, though it may reduce sentence; and there's no accessory liability if the principal never commits or attempts the offence.
+Hannah: And can you give me the whole workshop in one sentence?
+Will: An attempt needs intent as to the full offence and an act beyond preparation; an accomplice needs intentional assistance or encouragement of a crime actually committed, knowing the facts.
