@@ -5331,7 +5331,7 @@
       ],
       "summary": "On the orthodox view, Parliament can make or unmake any law and no court can set aside an Act: courts may read it narrowly or declare it incompatible, but they apply clear, express words.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers); known-error scan 0 hits; opus episode-check and line-by-line check: 5 fixes applied (fixflow), copies synced; opus verify of changed lines: pass",
@@ -5344,7 +5344,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9149713,
+      "seconds": 1144,
+      "words": 2663,
+      "renderedHash": "72e4a25acbf9",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws09-rev-v1-7dbe6857.mp3",
+      "siteAudio": "audio/public1-ws09-rev-v1-7dbe6857.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "public1-ws10-rev-v1",
@@ -5370,7 +5379,7 @@
       ],
       "summary": "Fix the date, then the regime: Withdrawal Agreement law prevails over inconsistent domestic law unless Parliament uses express or specific words, whereas assimilated direct legislation that can't be read compatibly yields to a domestic enactment unless legislation provides otherwise.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers); known-error scan 0 hits; opus episode-check and line-by-line check: both pass, no fixes",
@@ -5383,7 +5392,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9515427,
+      "seconds": 1189,
+      "words": 2643,
+      "renderedHash": "cb400f8ab72e",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/public1-ws10-rev-v1-f1451a75.mp3",
+      "siteAudio": "audio/public1-ws10-rev-v1-f1451a75.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "eth-ws08-rev-v1",
@@ -5415,7 +5433,7 @@
       ],
       "summary": "Report promptly, without waiting for proof, any facts you reasonably believe are capable of amounting to a serious breach; and be honest and open with clients when things go wrong.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 53/53 items covered); known-error scan 0 hits (1 phrase hit cleared by ke-triage, Opus); episode-check + episode-lines-check (Opus): 5 distortions/problems and 1 scenario fix applied; summary trimmed, a 5-item list split and two repeated runs reworded (script-revise); episode-verify of changed lines: 2 findings, then 1 targeted round (script-revise + fresh episode-verify): pass",
@@ -5431,7 +5449,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11520584,
+      "seconds": 1440,
+      "words": 3385,
+      "renderedHash": "5ddf3e624f95",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws08-rev-v1-e031ce93.mp3",
+      "siteAudio": "audio/eth-ws08-rev-v1-e031ce93.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "ls-ws02-rev-v1",
@@ -5463,7 +5490,7 @@
       ],
       "summary": "Reserved work needs an authorised or exempt person; every SRA-authorised firm carrying on a practice must maintain qualifying insurance and have an approved COLP and COFA; and delegating a task never delegates responsibility.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 71/71 items covered); known-error scan clean; Opus accuracy and line-by-line checks, fixes applied (fixflow), one script-revise for two repeated runs, Opus check of the changed lines passed (run r202611180319)",
@@ -5479,7 +5506,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11000217,
+      "seconds": 1375,
+      "words": 3182,
+      "renderedHash": "d11f5e29ab46",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/ls-ws02-rev-v1-e62792cc.mp3",
+      "siteAudio": "audio/ls-ws02-rev-v1-e62792cc.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "ls-ws04-rev-v1",
@@ -5511,7 +5547,7 @@
       ],
       "summary": "A principal offence needs actual knowledge or suspicion, and an authorised disclosure, with appropriate consent if made before the act, is a defence; regulated-sector failure to disclose needs only reasonable grounds; and due diligence rises with risk.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 89/89 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, 4 fixes (fixflow), one script-revise for a repeated run, fresh Opus verify of the changed lines: pass",
@@ -5527,7 +5563,16 @@
         "b8",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9538614,
+      "seconds": 1192,
+      "words": 2609,
+      "renderedHash": "bc4365069933",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/ls-ws04-rev-v1-d785b76b.mp3",
+      "siteAudio": "audio/ls-ws04-rev-v1-d785b76b.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "ls-ws05-rev-v1",
@@ -5557,7 +5602,7 @@
       ],
       "summary": "Ask in order whether there is a specified investment, a specified activity and business; if so, the firm needs an exclusion with its conditions met or every Part XX condition met, and otherwise must be FCA-authorised or refer the client.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 39/39 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, 6 fixes (fixflow); fresh Opus verify of the changed lines: 2 findings, one targeted round (script-revise, twice for a list-length code error), fresh Opus verify of those lines: pass",
@@ -5572,7 +5617,16 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9595665,
+      "seconds": 1199,
+      "words": 2688,
+      "renderedHash": "d999d48bc530",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/ls-ws05-rev-v1-369c1f0f.mp3",
+      "siteAudio": "audio/ls-ws05-rev-v1-369c1f0f.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "eth-ws09-rev-v1",
@@ -5600,7 +5654,7 @@
       ],
       "summary": "Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint: normally the firm deals with it first, and if it isn't resolved to the client's satisfaction within 8 weeks, the client is told in writing about the Legal Ombudsman.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits; opus x2; changed lines ok",
@@ -5614,7 +5668,16 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8493306,
+      "seconds": 1062,
+      "words": 2527,
+      "renderedHash": "af7567dc955d",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws09-rev-v1-2106ec40.mp3",
+      "siteAudio": "audio/eth-ws09-rev-v1-2106ec40.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     },
     {
       "id": "eth-ws10-rev-v1",
@@ -5638,7 +5701,7 @@
       ],
       "summary": "Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, and a COLP or COFA must take all reasonable steps in their own area, not guarantee compliance, which doesn't displace the managers' responsibility.",
       "madeAt": "2026-11-19T17:44:28+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits; opus x2; changed lines ok",
@@ -5650,7 +5713,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7155831,
+      "seconds": 894,
+      "words": 2228,
+      "renderedHash": "503bce2a0beb",
+      "renderedAt": "2026-11-19T17:46:05+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/eth-ws10-rev-v1-8c7be9d6.mp3",
+      "siteAudio": "audio/eth-ws10-rev-v1-8c7be9d6.mp3",
+      "pubDate": "2026-11-19T17:46:05+00:00"
     }
   ],
   "replays": [
