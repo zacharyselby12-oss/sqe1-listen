@@ -5275,7 +5275,7 @@
       ],
       "summary": "We covered burden of proof and the elements of liability, actus reus, causation, omissions and duties to act, intention and motive, recklessness and dishonesty, coincidence, transferred malice, mistake of fact, strict liability, and the defences of intoxication, consent and self-defence.",
       "madeAt": "2026-11-19T08:43:23+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (v2.3); Opus accuracy + line-by-line checks (16 + 12 problems, 0 missing); fixes applied; Opus changed-lines checks x3 (last two fixes Opus-supplied replacements, code-checked); code ok. Left as staged: the guide line that consent is always available for common assault (fx-p-chk-Criminal-01-consent-common-assault) and the s 5 scope wording (fx-p-chk-CR-4.1-03-s5-scope), both recorded as fix notes.; build chat re-stamp (Tue 10 Nov 01:45, b181 night window): script lines 29, 272 and 291 corrected (consent and common assault; F2, checked by C1), guide patched (N-CR-17 and block b12's map line), check_script_v23 0 errors, guideHash 6ca9c7906c (was 32dbe757a2); held on Zac's word; build chat release (Thu 19 Nov 2026, Zac's go, tracker z158): known-error scan against today's register, 0 hits",
@@ -5296,7 +5296,16 @@
         "b12",
         "b13"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 14742230,
+      "seconds": 1843,
+      "words": 4636,
+      "renderedHash": "626f8a682594",
+      "renderedAt": "2026-11-19T08:44:39+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws01-v23-d86482fb.mp3",
+      "siteAudio": "audio/criminal-ws01-v23-d86482fb.mp3",
+      "pubDate": "2026-11-19T08:44:39+00:00"
     }
   ],
   "replays": [
