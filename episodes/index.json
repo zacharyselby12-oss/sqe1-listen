@@ -5754,7 +5754,7 @@
       ],
       "summary": "Ask first whether the defendant intended to kill or cause GBH: with that intent, an unlawful killing is murder unless a partial defence reduces it to manslaughter; without it, manslaughter needs a dangerous criminal act or a grossly negligent breach of duty.",
       "madeAt": "2026-11-19T21:44:05+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck 71/71 items covered); known-error scan 0 hits left (1 cleared by Opus ke-triage: right statement); Opus accuracy and line-by-line checks, fixflow fixes, changed-lines verify, 1 targeted round (verify pass)",
@@ -5770,7 +5770,16 @@
         "b7",
         "b8"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12071250,
+      "seconds": 1509,
+      "words": 3452,
+      "renderedHash": "3e0e4a8f97be",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws02-rev-v1-5310ca4f.mp3",
+      "siteAudio": "audio/criminal-ws02-rev-v1-5310ca4f.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws03-rev-v1",
@@ -5792,7 +5801,7 @@
       ],
       "summary": "Most questions turn on what D actually foresaw and honestly believed, though whether damage could amount to protecting property is judged objectively, and the aggravated offences need intention or recklessness that the damage itself would endanger another's life.",
       "madeAt": "2026-11-19T21:44:05+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck 43/43 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes, changed-lines verify (pass)",
@@ -5803,7 +5812,16 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7680588,
+      "seconds": 960,
+      "words": 2402,
+      "renderedHash": "c28c67647a00",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws03-rev-v1-fab32347.mp3",
+      "siteAudio": "audio/criminal-ws03-rev-v1-fab32347.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws04-rev-v1",
@@ -5831,7 +5849,7 @@
       ],
       "summary": "Theft needs all five elements together: the dishonesty and the intention to permanently deprive must coincide with an appropriation of property that then belongs to another, and consent goes to dishonesty, not to appropriation.",
       "madeAt": "2026-11-19T21:44:05+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck 19/19 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes (2), changed-lines verify (pass); lines check reported a source point (MCA 1980 s.22A(2) age-18 condition) already filed as fx-p-gflag-u-bpp-Criminal-04-P-CR-2.2.1-16",
@@ -5845,7 +5863,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8714828,
+      "seconds": 1089,
+      "words": 2618,
+      "renderedHash": "7f9b0e197391",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws04-rev-v1-61fdeda5.mp3",
+      "siteAudio": "audio/criminal-ws04-rev-v1-61fdeda5.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws05-rev-v1",
@@ -5867,7 +5894,7 @@
       ],
       "summary": "Ask what was in the defendant's mind and what he had with him or did at the moment that counts: entry or the offence inside for burglary, and the time of stealing or immediately before it for robbery.",
       "madeAt": "2026-11-19T21:44:06+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors after one script-revise; revcheck 45/45 items covered); known-error scan 0 hits; Opus accuracy and line-by-line checks, fixflow fixes (5), changed-lines verify (pass)",
@@ -5878,7 +5905,16 @@
         "b2",
         "b3"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 7116971,
+      "seconds": 890,
+      "words": 2338,
+      "renderedHash": "def02213ba64",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws05-rev-v1-2b410ee3.mp3",
+      "siteAudio": "audio/criminal-ws05-rev-v1-2b410ee3.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws06-rev-v1",
@@ -5902,7 +5938,7 @@
       ],
       "summary": "Fraud is complete on the dishonest conduct, done intending gain, loss or a risk of loss in money or property, so nobody need be deceived and nothing gained; the form turns on a lie, a legal duty to disclose, or an abused position.",
       "madeAt": "2026-11-19T21:44:06+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck 26/26 items covered, 0 errors); known-error scan 0 hits; Opus accuracy check pass, Opus line-by-line check 1 fix applied via fixflow, Opus verify of the changed line pass; code checks and known-error scan clean after the fix",
@@ -5914,7 +5950,16 @@
         "b3",
         "b4"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8529673,
+      "seconds": 1066,
+      "words": 2627,
+      "renderedHash": "067f7a302924",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws06-rev-v1-c7a1d617.mp3",
+      "siteAudio": "audio/criminal-ws06-rev-v1-c7a1d617.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws08-rev-v1",
@@ -5940,7 +5985,7 @@
       ],
       "summary": "Ask what the defendant intended or genuinely believed, then apply the law's limits, so a mistaken belief in the need for force attributable to voluntary intoxication cannot be relied on, the force must be reasonable, and consent where ABH is intended needs a recognised exception.",
       "madeAt": "2026-11-19T21:44:06+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck all items covered, 0 errors); known-error scan 0 hits; Opus accuracy check and Opus line-by-line check: 3 fixes applied (fixflow); Opus check of the changed lines: pass",
@@ -5953,7 +5998,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9777908,
+      "seconds": 1222,
+      "words": 2915,
+      "renderedHash": "a933ff7afc66",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws08-rev-v1-2e676020.mp3",
+      "siteAudio": "audio/criminal-ws08-rev-v1-2e676020.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws09-rev-v1",
@@ -5981,7 +6035,7 @@
       ],
       "summary": "Involuntary manslaughter is killing without malice aforethought, by a dangerous criminal act or grossly negligent breach of duty with a serious and obvious risk of death; self-defence needs honest belief force was necessary, and reasonable force as believed.",
       "madeAt": "2026-11-19T21:44:06+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors after one script-revise of the header summary; revcheck all items covered, 0 errors); known-error scan 0 hits; Opus accuracy check and Opus line-by-line check: 4 fixes applied (fixflow); Opus check of the changed lines: pass",
@@ -5995,7 +6049,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9175002,
+      "seconds": 1147,
+      "words": 2636,
+      "renderedHash": "9f59e1c8f87d",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws09-rev-v1-d0f397b6.mp3",
+      "siteAudio": "audio/criminal-ws09-rev-v1-d0f397b6.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     },
     {
       "id": "criminal-ws10-rev-v1",
@@ -6029,7 +6092,7 @@
       ],
       "summary": "An attempt needs intent as to the full offence and an act beyond preparation; an accomplice needs intentional assistance or encouragement of a crime actually committed, knowing the facts.",
       "madeAt": "2026-11-19T21:44:06+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits; opus x2; changed lines ok after 1 targeted round",
@@ -6046,7 +6109,16 @@
         "b9",
         "b10"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11756526,
+      "seconds": 1470,
+      "words": 3451,
+      "renderedHash": "5bc329dccc4b",
+      "renderedAt": "2026-11-19T21:45:31+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws10-rev-v1-1a378551.mp3",
+      "siteAudio": "audio/criminal-ws10-rev-v1-1a378551.mp3",
+      "pubDate": "2026-11-19T21:45:31+00:00"
     }
   ],
   "replays": [
