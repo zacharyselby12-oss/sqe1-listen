@@ -1,0 +1,217 @@
+---
+id: ls-ws02-rev-v1
+unit: u-bpp-LS-02
+guide_hash: 231bae02bf
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: LS WS02 · Revision · 21 min
+map:
+- SRA authorisation and reserved legal activities
+- Risk-based regulation, the SRA Standards and Regulations and compliance duties
+- Professional indemnity insurance
+- Types of legal business and where solicitors practise
+- The SRA Risk Outlook; competence and supervision of client work
+- Compliance officers, managers and supervision of the firm
+- Running a firm: outgoings and business structures
+- SRA enforcement, fines and SLAPPs (not covered in class)
+recap:
+- Reserved work needs an authorised or exempt person; an unauthorised employee may do litigation tasks for and on behalf of an authorised person under proper supervision and delegation arrangements.
+- The SRA sets high-level standards and expects firms to identify, monitor and manage their own material risks; you must cooperate with it and respond promptly with full and accurate explanations, information and documents.
+- Minimum cover turns on limited liability, not on being an ABS; even if the firm failed to disclose, misrepresented or breached policy terms, the insurer must pay the claimant and can then seek to recover from the insured.
+- A non-authorised manager or interest holder makes a firm a licensed body; a freelancer doing reserved work must meet every condition.
+- Supervisors of client matters need not be solicitors or partners, but must be appropriately qualified and experienced in the relevant law and in supervising, able to exercise proper control, in an effective system where staff know what to escalate.
+- The COLP takes all reasonable steps on regulatory compliance, the COFA on the Accounts Rules; reporting to either satisfies your own duty, on the understanding that they will report.
+- Choosing a business structure, ask who is liable for the firm's debts, who is taxed on its profits, and whether its accounts go on the public record at Companies House.
+- The SRA's own fine on a solicitor or traditional firm stops at £25,000, except for economic crime, where it is unlimited; and you must never act on a SLAPP.
+summary: Reserved work needs an authorised or exempt person; every SRA-authorised firm carrying on a practice must maintain qualifying insurance and have an approved COLP and COFA; and delegating a task never delegates responsibility.
+invented: []
+guide_only:
+- P:LS-1.1.1-05 (what reserved instrument activities cover and exclude)
+- P:LS-1.1.1-03 (examples of unreserved work)
+- P:LS-1.1.3-07 (claims management and immigration advice: separate regimes)
+- P:LS-1.1.1-11 (the business providing reserved activities must itself be authorised)
+- P:LS-1.1.1-06 (unpaid reserved instrument and probate work: an exempt person)
+- P:LS-1.1.1-07 (other exempt persons, such as a litigant in person)
+- P:LS-1.1.1-09 (higher courts rights of audience: not in the guide's text)
+- P:LS-1.1-02 (the seven Principles, taught in their own workshop)
+- P:LS-1.1-08 (firms' material risks, and justifying decisions)
+- P:ETH-CF-04 (what managers answer for: governance, systems and controls)
+- P:LS-1.1.2-05 (cover for the innocent insureds where one partner or employee is dishonest)
+- add:7 (the five business days to notify the SRA and the insurer after failing to renew)
+- P:LS-1.1.2-08 (insurance for civil liability, the Compensation Fund for dishonesty or failure to account)
+- add:8 (the Compensation Fund's £2 million per claim)
+- P:LS-1.1.2-09 (telling clients of a non-SRA-authorised business, and freelancers' insurance)
+- P:ETH-P-16 (the Code's reach, and the Principles outside practice)
+- P:ETH-CS-8-19 (section 8 of the Code and in-house solicitors)
+- P:ETH-CS-5-19 (insurance in a non-commercial body such as a law centre)
+- P:LS-1.1.3-06 (unregulated providers and the protections their clients lack)
+- P:ETH-P-01 (who the Principles bind)
+- P:ETH-CS-3-11 (competent and timely service)
+- P:ETH-CS-3-13 (continuing competence, with no minimum CPD hours)
+- P:ETH-CS-7-01 (keeping up to date with the law and regulation on how you work)
+- P:ETH-CS-3-20 (the competence of those you manage)
+- P:ETH-CF-05 (the firm's system for supervising client matters and staff competence)
+- P:ETH-CF-08 (the COLP's duties in full)
+- P:ETH-CF-10 (the COFA's duties in full)
+- P:ETH-CF-01 (who is a manager)
+- add:10 (the three years' practice of the lawyer who supervises the firm's work, with the not-an-RSL limb)
+- P:LS-1.1-09 (the Enforcement Strategy's factors)
+- P:NEW-LS-01 (the court's power to strike out an economic-crime SLAPP)
+---
+## Map
+Will: Today's big question: who may do legal work, and how does the regulator keep firms and their people in line?
+Hannah: How many areas does that cover?
+Will: Eight, in three groups. First, reserved work, the SRA and insurance. Second, firms and the people who run them. Third, one area not covered in class: enforcement, fines and SLAPPs.
+Hannah: Which areas sit in the first two groups?
+Will: Reserved activities, risk-based regulation and insurance; then firm types, competence and supervision, compliance officers, and business structures.
+## Block 1: SRA authorisation and reserved legal activities
+Hannah: Starting with SRA authorisation and the reserved legal activities: what do we ask?
+Will: Is this work reserved, and if it is, who may lawfully carry it on? There are six reserved legal activities. The first three are exercising a right of audience, conducting litigation and reserved instrument activities.
+Hannah: And what are the other three?
+Will: Probate activities, notarial activities and administering oaths. Probate activities mean preparing the papers on which to found or oppose a grant of probate or letters of administration. So administering the estate after the grant, meaning collecting assets, paying debts and distributing, is not reserved.
+Hannah: Who may carry on a reserved legal activity?
+Will: Only an authorised or exempt person. If an unauthorised person carries one on, or pretends to be entitled, that is a criminal offence, and may be a contempt of court. The maximum is 2 years' imprisonment, a fine, or both.
+Hannah: Is every solicitor authorised?
+Will: A solicitor with a current practising certificate is authorised by the SRA to carry on all reserved legal activities except notarial activities, which need a notary. A solicitor without a practising certificate cannot carry on reserved legal activities.
+Hannah: Now litigation tasks done by unauthorised staff: can a paralegal work on a claim?
+Will: Conduct of litigation means issuing, prosecuting or defending proceedings and taking formal steps in them, and it is reserved. But, following the Court of Appeal in Mazur, an unauthorised employee may lawfully carry out tasks that amount to conduct of litigation for and on behalf of an authorised person, such as a solicitor. That authorised person remains the person conducting the litigation and retains responsibility.
+Hannah: Does the solicitor have to approve each step first?
+Will: No step-by-step prior approval is needed, but appropriate supervision and delegation arrangements are a regulatory requirement. And an unauthorised person acting on their own account commits an offence.
+Hannah: So where does the boundary fall?
+Will: If a solicitor goes on leave, leaving a paralegal to run litigation files with no real supervision or delegation arrangements, the paralegal is not acting on the solicitor's behalf and may commit the offence. With proper supervision and delegation, the work is lawful.
+Hannah (summing up): Reserved work needs an authorised or exempt person; an unauthorised employee may do litigation tasks for and on behalf of an authorised person under proper supervision and delegation arrangements.
+Will: Yes: authorised or exempt, and an employee's litigation tasks are lawful only for and on behalf of an authorised person, under proper supervision and delegation.
+## Block 2: Risk-based regulation, the SRA Standards and Regulations and compliance duties
+Hannah: Before risk-based regulation and compliance duties, a question on reserved work: after the grant of probate, an unqualified adviser charges to collect the assets and pay the debts. Is that an offence?
+Will (scenario pause): <think>
+Will: It isn't, because administering the estate after the grant is not reserved. The tempting answer is that it's a probate activity, but that means only preparing the papers to found or oppose the grant.
+Hannah: Yes: only the papers for the grant are reserved, not the administration afterwards.
+Will: Now risk-based regulation: how does the SRA regulate, and what do firms and solicitors owe it? The SRA sets high-level standards, the Principles and Codes, rather than detailed prescriptive rules. It expects solicitors and firms to use judgement and to identify, monitor and manage their own risks, and it targets supervision and enforcement at the greatest risks to consumers and the public interest.
+Hannah: What does cooperating with the SRA require?
+Will: You must cooperate with the SRA, other regulators and ombudsmen. Respond promptly, and give full and accurate explanations, information and documents. You must also act promptly on any remedial action the SRA requests.
+Hannah: And what must you tell the SRA about yourself?
+Will: You must notify the SRA promptly of any criminal charge, conviction or caution, subject to the Rehabilitation of Offenders Act. You must also notify it promptly of a relevant insolvency event, or a material change in, or inaccuracy of, information you have given it.
+Hannah (summing up): The SRA sets high-level standards and expects firms to identify, monitor and manage their own material risks; you must cooperate with it and respond promptly with full and accurate explanations, information and documents.
+Will: Yes: firms manage their own material risks, and your answers to the SRA must be prompt, full and accurate.
+## Block 3: Professional indemnity insurance
+Hannah: Before professional indemnity insurance, a question on compliance duties: a solicitor is charged with an offence but not yet convicted. Must the solicitor tell the SRA now?
+Will (scenario pause): <think>
+Will: Yes, promptly, because a criminal charge is itself notifiable, subject to the Rehabilitation of Offenders Act. The tempting answer is to wait for a conviction, but a charge triggers the duty.
+Hannah: Yes: a charge alone must be notified promptly.
+Will: Now professional indemnity insurance: what must a firm hold, and what happens if it lapses or a client claims? Every SRA-authorised firm carrying on a practice must take out and maintain qualifying insurance, complying with the SRA's minimum terms and conditions, with a participating insurer.
+Hannah: How much cover is the minimum?
+Will: It is set for any one claim, excluding defence costs. Companies and LLPs, the limited-liability recognised or licensed bodies, need £3 million. Other firms, such as sole practices and unlimited partnerships, need £2 million. And cover is per claim, not an annual aggregate.
+Hannah: So does an ABS always need the higher figure?
+Will: That's the trap. The minimum turns on limited liability, not on whether the firm is an ABS.
+Hannah: Can a firm limit its liability to a client?
+Will: A firm may agree to limit its civil liability to a client, but not below the minimum level of compulsory cover. So the floor is £3 million for a company, LLP or other limited-liability firm, and £2 million in all other cases. Any limitation must be clear and fair, and consumers are protected by the Consumer Rights Act.
+Hannah: Can the insurer refuse to pay because the firm misled it?
+Will: It can't. The insurer may not avoid, repudiate or cancel the policy for non-disclosure or misrepresentation, and may not reduce or refuse payment to a claimant because the firm breached policy terms. It must pay the claimant, and can then seek to recover from the insured.
+Hannah: Can the policy carry an excess?
+Will: It may, but the excess must not reduce the limit of cover or apply to defence costs. Suppose the firm fails to pay a claimant an amount within the excess. After 30 days, the insurer must remedy the default on the firm's behalf.
+Hannah: And what if the firm closes down?
+Will: If a firm ceases practice without a successor practice, the policy must provide run-off cover. The period is 6 years after the end of the policy period.
+Hannah: Now failing to renew: what happens to the firm?
+Will: The expiring policy continues for an extended policy period of up to 30 days, followed by a cessation period of 60 days, in which the firm takes no new instructions.
+Hannah: And what happens at the end of that?
+Will: Unless it obtains qualifying insurance, the firm must cease practice by the end of the cessation period, at most 90 days after the policy expired, and may only do work needed to wind down.
+Hannah (summing up): Minimum cover turns on limited liability, not on being an ABS; even if the firm failed to disclose, misrepresented or breached policy terms, the insurer must pay the claimant and can then seek to recover from the insured.
+Will: Yes: limited liability sets the figure, and the insurer pays the claimant first, even if the firm misled it or broke the policy terms.
+## Block 4: Types of legal business and where solicitors practise
+Hannah: Before the types of legal business, a question mixing insurance with firm types: an LLP that is not an ABS wants to cap its liability to a client at £2 million. Can it?
+Will (scenario pause): <think>
+Will: It can't, because an LLP is a limited-liability firm, so its floor is £3 million. The tempting answer is that the lower figure covers every firm except an ABS, but the minimum turns on limited liability.
+Hannah: Yes: limited liability puts the floor at the higher figure.
+Will: Now the types of legal business: what kind of firm is this, and where else may a solicitor practise? There are three SRA firm types. A recognised sole practice is a solicitor or REL who is sole principal. A recognised body has all its managers and interest holders legally qualified, for example lawyers.
+Hannah: And what is the third type?
+Will: A licensed body, or ABS: a non-authorised person, for example a non-lawyer, is a manager or has an interest, and at least one manager is an authorised person.
+Hannah: What extra rules does a licensed body carry?
+Will: Any non-lawyer holding a material interest must be approved by the licensing authority as fit and proper. A material interest starts at 10%. That means 10% or more of the shares or voting rights in the body or its parent, or significant influence over its management through shares or votes. And the firm must have a Head of Legal Practice and a Head of Finance and Administration: under SRA rules, the COLP and COFA.
+Hannah: Now freelance solicitors: when may one do reserved work without the business being separately authorised?
+Will: Only if seven conditions are all met. First, at least 3 years' practice as a solicitor or REL since admission or registration. Second, being self-employed and practising in their own name, not through a trading name or service company. Third, employing no one in connection with the services.
+Hannah: What are the next three conditions?
+Will: Fourth, being engaged and paid directly by the client. Fifth, a UK practising address. Sixth, adequate and appropriate indemnity insurance.
+Hannah: And what is the last condition?
+Will: Seventh, holding client money only as payments on account of costs and disbursements, the disbursements being costs or expenses incurred on the client's behalf for which they are liable. They must have told the client in advance where and how it will be held.
+Hannah (summing up): A non-authorised manager or interest holder makes a firm a licensed body; a freelancer doing reserved work must meet every condition.
+Will: Yes: one non-authorised manager or interest holder means a licensed body, and the freelance conditions are all or nothing.
+## Block 5: The SRA Risk Outlook; competence and supervision of client work
+Hannah: Before the Risk Outlook, competence and supervision of client work, a question on freelancers: a solicitor admitted last year sets up alone in her own name to conduct litigation, with no authorised firm. Can she?
+Will (scenario pause): <think>
+Will: She can't, because a freelancer needs at least 3 years' practice since admission, and every condition must be met. The tempting answer is that practising in her own name is enough, but that is only one condition.
+Hannah: Yes: without the years of practice the freelance route is closed.
+Will: Now the Risk Outlook, then competence and supervision. The SRA no longer publishes an annual Risk Outlook, only reports on particular risks. Those reports are not rules, but the Codes' competence duties are.
+Hannah: What if you supervise work done by someone else?
+Will: Where you supervise or manage others providing legal services, you remain accountable for the work carried out through them, and you must supervise it effectively. Delegating a task does not delegate responsibility.
+Hannah: Must every supervisor of client work be a solicitor or a partner?
+Will: Neither Code requires that. The firm must have an effective system for supervising client matters, in which supervisors are appropriately qualified and experienced, both in the relevant area of law and in supervising, and can exercise proper control. Staff must know what must be escalated. Only the individual who supervises the work of the firm as a whole must be a lawyer of at least three years' practice, and that lawyer must not be an RSL.
+Hannah (summing up): Supervisors of client matters need not be solicitors or partners, but must be appropriately qualified and experienced in the relevant law and in supervising, able to exercise proper control, in an effective system where staff know what to escalate.
+Will: Yes: not a title, but qualification and experience in the law and in supervising, proper control, and an effective system where staff know what to escalate.
+## Block 6: Compliance officers, managers and supervision of the firm
+Hannah: Before compliance officers and managers, a question on supervision: a solicitor hands a file to a trainee she supervises, who misses a deadline. Is the solicitor still accountable?
+Will (scenario pause): <think>
+Will: She is, because a supervising solicitor remains accountable for work carried out through others. The tempting answer is that the task became the trainee's alone, but handing it over leaves responsibility where it was.
+Hannah: Yes: the supervisor answers for the work, however it was handed out.
+Will: Now compliance officers and managers: who in a firm answers for compliance, and who must report a serious breach? Every SRA-authorised firm must have a COLP and a COFA whose designations the SRA has approved.
+Hannah: What must the COLP do?
+Will: The COLP must take all reasonable steps to ensure compliance with the firm's terms of authorisation and with the SRA's regulatory arrangements, and that a prompt report is made of anything reasonably believed capable of being a serious breach. The COFA does the same for the Accounts Rules. But managers are responsible for the firm's compliance, jointly and severally where they share management.
+Hannah: Now reporting serious breaches: when must you report?
+Will: You must report promptly to the SRA, or another approved regulator, any facts or matters you reasonably believe are capable of amounting to a serious breach of its regulatory arrangements by any person it regulates, including yourself. You need not be certain or investigate fully first.
+Hannah: Do you have to go to the SRA yourself?
+Will: Your duty to notify or report to the SRA is satisfied by reporting to the firm's COLP or COFA, on the understanding that they will report.
+Hannah (summing up): The COLP takes all reasonable steps on regulatory compliance, the COFA on the Accounts Rules; reporting to either satisfies your own duty, on the understanding that they will report.
+Will: Yes: the COFA has the Accounts Rules, and telling either officer is enough on that understanding.
+## Block 7: Running a firm: outgoings and business structures
+Hannah: Before running a firm and its business structures, a question on reporting: a solicitor suspects a colleague of a serious breach, on reasonable grounds, but isn't certain. Must she investigate fully before reporting?
+Will (scenario pause): <think>
+Will: She needn't: she must report promptly once she reasonably believes the facts could be a serious breach. The tempting answer is to wait until she is certain, but certainty is not required.
+Hannah: Yes: reasonable belief is enough, and the report must be prompt.
+Will: Now running a firm and its business structures: a partnership, an LLP or a company. Which suits the firm, and what does each cost its owners?
+Hannah: What should you ask to compare them?
+Will: Three questions. On liability, who answers for the firm's debts? On tax, who pays on the profits? And on filing, are the accounts public at Companies House?
+Hannah (summing up): Choosing a business structure, ask who is liable for the firm's debts, who is taxed on its profits, and whether its accounts go on the public record at Companies House.
+Will: Yes: those three questions do the comparing.
+## Block 8: SRA enforcement, fines and SLAPPs (not covered in class)
+Hannah: Before enforcement, fines and SLAPPs, a question on business structures: founders are choosing between a partnership, an LLP and a company. Which three questions compare them?
+Will (scenario pause): <think>
+Will: Who is liable for the debts, who is taxed on the profits, and whether the accounts become public at Companies House. The tempting answer stops at liability, but there are three questions.
+Hannah: Yes: debts, tax and the public record are the comparison.
+Will: Now enforcement, fines and SLAPPs, which were not covered in class.
+Hannah: Starting with fines: how much can the SRA itself fine?
+Will: For solicitors and traditional firms, meaning those that are not ABSs, the SRA's own fining limit is £25,000. Licensed bodies, and their managers and employees, face much higher limits. And for breaches relating to economic crime, such as money laundering or sanctions, the SRA's fining power is unlimited.
+Hannah: Last, SLAPPs: what must a solicitor not do?
+Will: You must not act on abusive litigation or threats designed to silence public-interest reporting or criticism. Doing so can breach the Principles on the rule of law, public trust and integrity, and the duty not to take unfair advantage.
+Hannah (summing up): The SRA's own fine on a solicitor or traditional firm stops at £25,000, except for economic crime, where it is unlimited; and you must never act on a SLAPP.
+Will: Yes: a capped fine except for economic crime, and never act on a SLAPP.
+## Recap
+Hannah: A last question, on fines: a traditional partnership breaches the money laundering rules. Is the SRA's own fine capped?
+Will (scenario pause): <think>
+Will: It isn't capped, because the breach relates to economic crime, where the SRA's fining power is unlimited. The tempting answer is the usual limit, but that gives way for economic crime.
+Hannah: Yes: economic crime takes the fine outside the limit.
+Will: Now the quick-fire round.
+Hannah: What's the summary for authorisation and reserved legal activities?
+Will (quick-fire pause): <think>
+Will: Reserved work needs an authorised or exempt person; an unauthorised employee may do litigation tasks for and on behalf of an authorised person under proper supervision and delegation arrangements.
+Hannah: What's the summary for risk-based regulation and compliance duties?
+Will (quick-fire pause): <think>
+Will: The SRA sets high-level standards and expects firms to identify, monitor and manage their own material risks; you must cooperate with it and respond promptly with full and accurate explanations, information and documents.
+Hannah: What's the summary for professional indemnity insurance?
+Will (quick-fire pause): <think>
+Will: Minimum cover turns on limited liability, not on being an ABS; even if the firm failed to disclose, misrepresented or breached policy terms, the insurer must pay the claimant and can then seek to recover from the insured.
+Hannah: What's the summary for the types of legal business?
+Will (quick-fire pause): <think>
+Will: A non-authorised manager or interest holder makes a firm a licensed body; a freelancer doing reserved work must meet every condition.
+Hannah: What's the summary for competence and supervision of client work?
+Will (quick-fire pause): <think>
+Will: Supervisors of client matters need not be solicitors or partners, but must be appropriately qualified and experienced in the relevant law and in supervising, able to exercise proper control, in an effective system where staff know what to escalate.
+Hannah: What's the summary for compliance officers and managers?
+Will (quick-fire pause): <think>
+Will: The COLP takes all reasonable steps on regulatory compliance, the COFA on the Accounts Rules; reporting to either satisfies your own duty, on the understanding that they will report.
+Hannah: What's the summary for running a firm and business structures?
+Will (quick-fire pause): <think>
+Will: Choosing a business structure, ask who is liable for the firm's debts, who is taxed on its profits, and whether its accounts go on the public record at Companies House.
+Hannah: What's the summary for enforcement, fines and SLAPPs?
+Will (quick-fire pause): <think>
+Will: The SRA's own fine on a solicitor or traditional firm stops at £25,000, except for economic crime, where it is unlimited; and you must never act on a SLAPP.
+Hannah: And what is the whole workshop in one sentence?
+Will: Reserved work needs an authorised or exempt person; every SRA-authorised firm carrying on a practice must maintain qualifying insurance and have an approved COLP and COFA; and delegating a task never delegates responsibility.

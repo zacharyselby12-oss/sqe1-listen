@@ -1,0 +1,177 @@
+---
+id: ls-ws05-rev-v1
+unit: u-bpp-LS-05
+guide_hash: dc73bf866f
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: LS WS05 · Revision · 18 min
+map:
+- Regulating financial services: the general prohibition
+- Step 1: specified investments
+- Step 2: specified activities
+- Step 3: exclusions
+- Step 4: the Part XX exemption and the SRA's rules
+- Selling shares: financial promotion and public offers
+- Consumer credit: fees paid by instalments
+recap:
+- Only an authorised or exempt person may carry on, or purport to carry on, a regulated activity in the UK.
+- Land, cash and tangible chattels are not specified investments; arranging or advising on a regulated mortgage contract is regulated.
+- Advice on the merits of a particular investment, given to the client as an investor or potential investor, is regulated; generic advice is not.
+- If an exclusion applies, with all its own conditions met, the activity is not regulated at all, so Part XX is not needed.
+- Part XX needs every condition met; with no exclusion or exemption, the firm must be FCA-authorised or refer the client to an authorised person.
+- A business invitation or inducement to invest needs an authorised communicator, an appropriately permitted authorised person's approval, or an exemption.
+- Fees paid by instalments are usually an exempt agreement: count the instalments and the period, and check there is no interest or other charge.
+summary: Ask in order whether there is a specified investment, a specified activity and business; if so, the firm needs an exclusion with its conditions met or every Part XX condition met, and otherwise must be FCA-authorised or refer the client.
+invented:
+- Asha
+- Priya
+- Dev
+- Marlow
+- Leila
+- 6 instalments over 6 months
+guide_only:
+- P:LS-1.2.3.a-05 (when an activity is carried on by way of business)
+- P:LS-1.2.3.b-01 (the full list of specified investments)
+- P:LS-1.2.3.b-03 (the full list of specified activities relevant to solicitors)
+- P:LS-1.2.3.b-05 (what arranging covers)
+- P:LS-1.2.3.b-06 (what managing investments means)
+- P:LS-1.2.3.c-03 (family work, the professional exclusion and non-exempt pension recommendations)
+- P:LS-1.2.3.c-02 (corporate work, falling back on the professional exclusion or Part XX)
+- P:LS-1.2.3.c-01 (probate, estate shares sold through a stockbroker)
+- P:LS-1.2.3.b-07 (the introducing exclusion)
+- P:LS-1.2.3.c-06 (how commission is accounted for to the client)
+- P:LS-1.2.3.a-06 (most firms rely on exclusions or Part XX, mainstream investment business needs FCA authorisation)
+- add:4 (the high net worth company figures for financial promotion)
+---
+## Map
+Will: The big question: is the solicitor's work a regulated activity, and if so, may the firm do it? Seven areas, in two groups. First: is it regulated, and may the firm do it? That's the general prohibition, then four steps: investments, activities, exclusions and Part XX. Second: share sales and fees by instalments.
+## Block 1: Regulating financial services: the general prohibition
+Hannah: Start with regulating financial services. What is the general prohibition?
+Will: No person may carry on a regulated activity in the UK, or purport to, unless they are an authorised or exempt person. Authorised means by the FCA, or by the PRA for deposit-takers and insurers.
+Hannah: What follows a breach?
+Will: It's a criminal offence. The maximum is 2 years' imprisonment, a fine, or both. The defence is taking all reasonable precautions and exercising all due diligence. For a solicitor it's also a regulatory breach.
+Hannah: And agreements made in breach?
+Will: They're unenforceable against the other party, who may recover money or property paid and compensation. But the court may allow enforcement if just and equitable.
+Hannah: What makes an activity regulated?
+Will: It's a specified activity, carried on by way of business, relating to a specified investment or certain property, as the Regulated Activities Order specifies.
+Hannah: How do I test a solicitor's activity?
+Will: Four questions, in order. Is there a specified investment? A specified activity in relation to it? Is it by way of business? Does an exclusion in the Regulated Activities Order apply? Yes to the first three, with no exclusion, means the firm needs authorisation or an exemption, usually the Part XX professional firms exemption.
+Hannah (summing up): Only an authorised or exempt person may carry on, or purport to carry on, a regulated activity in the UK.
+Will: Yes: authorised or exempt, or it's a breach.
+## Block 2: Step 1: specified investments
+Hannah: Before specified investments, a question on the general prohibition. Asha, neither authorised nor exempt, arranges share deals as her business, and no exclusion applies. Can she enforce her fee agreement?
+Will (scenario pause): <think>
+Will: Not as of right: it's unenforceable against the client. The tempting answer is that breach is only a crime, so the contract stands. She can enforce only if the court allows it as just and equitable.
+Hannah: Yes, an offence and an unenforceable agreement, unless the court allows enforcement.
+Will: Now step one, specified investments: is there one, or only land, cash or chattels? Shares, contracts of insurance, personal and stakeholder pension rights and regulated mortgage contracts count.
+Hannah: And what does not count?
+Will: Land and interests in land, freehold or leasehold; cash; and tangible chattels, such as cars, art and antiques. So advising on or arranging their purchase or sale is not regulated. But a regulated mortgage contract is a separate investment.
+Hannah: How does that work in conveyancing?
+Will: The conveyance itself is not regulated, but advising on or arranging a regulated mortgage contract is regulated. That's credit to an individual or trustees, secured by a mortgage on land. The threshold is 40 per cent. At least that much is used, or intended to be used, as or in connection with a dwelling: for trustee borrowers, by a beneficiary or related person.
+Hannah: Where must the land be?
+Will: In the United Kingdom, for a contract entered into on or after IP completion day, the end of the Brexit transition period. Land in an EEA State counts only for a contract entered into before then.
+Hannah: What if the client already has a mortgage arranged?
+Will: Doing the conveyancing on a mortgage the client has already arranged with a lender or broker is not normally arranging or advising on it.
+Hannah (summing up): Land, cash and tangible chattels are not specified investments; arranging or advising on a regulated mortgage contract is regulated.
+Will: Right: land is outside, and the mortgage contract is a separate investment.
+## Block 3: Step 2: specified activities
+Hannah: Before specified activities, a question on investments. A solicitor advises Priya to buy a particular antique painting as an investment. Is that regulated?
+Will (scenario pause): <think>
+Will: No. A painting is a tangible chattel, not a specified investment, so advising on buying it is not regulated. The tempting answer is that it's advice on a particular investment, but it fails at the investment step.
+Hannah: Yes, no specified investment, so the first question ended it.
+Will: Now step two, specified activities: is the solicitor dealing, arranging, managing or advising?
+Hannah: What counts as advising on investments?
+Will: Advice to a person in their capacity as an investor or potential investor, on the merits of a particular investment: a security, structured deposit or relevant investment. That's the merits of buying, selling or subscribing for it; of exchanging, redeeming, holding or underwriting it; or of exercising, or not exercising, rights under it.
+Hannah: And what is not regulated advice?
+Will: Generic advice, and explaining the legal effect of a document. So telling a client to invest in equities rather than property is generic. Telling her to sell her shares in one named company is advice on a particular investment, so it is regulated.
+Hannah (summing up): Advice on the merits of a particular investment, given to the client as an investor or potential investor, is regulated; generic advice is not.
+Will: Yes: a particular investment and investor capacity, or it's only generic.
+## Block 4: Step 3: exclusions
+Hannah: Before the exclusions, a question on advising. A solicitor tells a client that equities are a better bet than property. Is that advising on investments?
+Will (scenario pause): <think>
+Will: No. It's generic, not advice on the merits of a particular investment. The tempting answer is yes, because it's investment advice to an investor.
+Hannah: Yes, generic advice is never advising on investments.
+Will: Now step three, the exclusions: does one apply? Apply them before Part XX. If one applies, the activity is not regulated at all, and Part XX is not needed. Part XX is used only where none applies.
+Hannah: What is the professional exclusion?
+Will: Arranging and advising are excluded where three things are true. They're carried on in the course of a profession. The activity may reasonably be regarded as a necessary part of the legal services. And it's not remunerated separately. Necessary is strict: advising whether to accept a shareholding in a divorce settlement may qualify, but recommending which shares to buy will not.
+Hannah: When is a sale of a body corporate excluded?
+Will: Dealing, arranging and advising are excluded in connection with acquiring or disposing of shares in a company, other than an OEIC. Route one: the shares carry 50 per cent or more of the voting shares. That's alone, or with shares the buyer already holds. And the parties are each a company, partnership, single individual or group of connected individuals.
+Hannah: And if those conditions are not met?
+Will: Route two: it's still excluded if the object may reasonably be regarded as acquiring day-to-day control of the company. Neither route is for contracts of insurance.
+Hannah: What about dealing or arranging through an authorised person?
+Will: Dealing as agent and arranging are excluded where the transaction is entered into with or through an authorised person, such as a stockbroker. And either an authorised person has advised the client, or it's clear the client has not sought, and is not seeking, the solicitor's advice on the merits: execution-only.
+Hannah: Do those two exclusions carry their own conditions?
+Will: Yes, two. They don't cover a contract of insurance. And the solicitor must receive no reward from anyone other than the client for which it does not account to the client.
+Hannah: And trustees and personal representatives?
+Will: Arranging, managing, safeguarding and advising are excluded where the solicitor acts as trustee or personal representative. The advice is to fellow trustees or personal representatives, or beneficiaries. The solicitor must not be remunerated for the activity on top of their remuneration in that role. It doesn't help a solicitor who merely acts for lay executors or trustees.
+Hannah (summing up): If an exclusion applies, with all its own conditions met, the activity is not regulated at all, so Part XX is not needed.
+Will: Yes: exclusions first, and Part XX only when none applies.
+## Block 5: Step 4: the Part XX exemption and the SRA's rules
+Hannah: Before the Part XX exemption, a question mixing two exclusions. A solicitor acting for lay executors arranges a share sale through a stockbroker, on their decision alone. Which exclusion fits?
+Will (scenario pause): <think>
+Will: Dealing or arranging through an authorised person: it's execution-only, provided the firm accounts for any commission. The tempting answer is the trustees and personal representatives exclusion, but that needs the solicitor to act as executor.
+Hannah: Yes, acting for executors is not acting as one.
+Will: Now step four, the Part XX exemption and the SRA's rules: when may the firm rely on it? Part XX lets an SRA-regulated firm that is not FCA-authorised carry on regulated activities, if six conditions are met. One: it's controlled or managed by members of the profession. Two: it accounts to the client for any commission or other reward from a third party. Three: the regulated activity is incidental to its professional services, meaning it arises out of, or is complementary to, a particular professional service to a particular client.
+Hannah: And the other three conditions?
+Will: Four: the activity is not prohibited by the Treasury's Non-Exempt Activities Order or the SRA Scope Rules. Five: the firm does not carry on, or hold itself out as carrying on, other regulated activities. Six: regulated activities are not a major part of its practice.
+Hannah: How do I tell necessary from incidental?
+Will: A necessary part of the legal services, in the course of a profession and not remunerated separately, is the professional exclusion: not regulated at all. Incidental is one Part XX condition among the others: regulated, but allowed without FCA authorisation.
+Hannah: What does Part XX never cover?
+Will: Five things. The main one: recommending that an individual client buy or subscribe for a particular security or contractually based investment, such as units in a collective investment scheme, a life policy, or a personal or stakeholder pension.
+Hannah: Is that main one only about buying or subscribing?
+Will: No: it also covers recommending that a member of a personal pension scheme dispose of rights under it. The exception is endorsing an authorised adviser's recommendation; otherwise refer the client to an authorised adviser. Advice to sell shares is different: it's not non-exempt.
+Hannah: And the other four things?
+Will: Dealing in investments as principal. Establishing or operating collective investment or pension schemes. Acting as insurer or mortgage lender. And buying or subscribing for investments under discretionary management, unless all day-to-day decisions are taken by an authorised person or follow its advice.
+Hannah: May a firm arrange insurance under Part XX?
+Will: Arranging insurance for a client is insurance distribution: indemnity insurance in conveyancing, say. A firm that isn't FCA-authorised may do it under Part XX only as an ancillary insurance intermediary, registered on the FCA's Financial Services Register, with an insurance distribution officer appointed. And it must comply with the SRA's conduct of business rules, such as giving the client a demands-and-needs statement.
+Hannah: And when nothing covers what the client needs?
+Will: The solicitor must refer the client to an authorised person, such as an independent financial adviser, rather than carry on the activity. Doing it anyway is a criminal offence, and a breach of the duty to comply with the law and regulation.
+Hannah (summing up): Part XX needs every condition met; with no exclusion or exemption, the firm must be FCA-authorised or refer the client to an authorised person.
+Will: Right: every condition, or else authorisation or a referral.
+## Block 6: Selling shares: financial promotion and public offers
+Hannah: Before financial promotion, a question on Part XX. A firm that isn't FCA-authorised is asked by Dev, an individual client, which personal pension to buy. May it recommend one?
+Will (scenario pause): <think>
+Will: No. Part XX never covers recommending that an individual buy a particular pension, unless the firm endorses an authorised adviser's recommendation. The tempting answer is that the advice is incidental to the legal work.
+Hannah: Yes, it's non-exempt, so the firm should refer Dev to an authorised adviser.
+Will: Now selling shares, and first financial promotion: when may an invitation to invest be sent? In the course of business, a person must not communicate an invitation or inducement to engage in investment activity. There are three ways through. The person is authorised. Or the content is approved by an appropriately permitted authorised person. Or an exemption applies, such as communications by Part XX professional firms in the course of providing professional services, subject to conditions. Breach is an offence.
+Hannah: Is there an exemption for a share sale?
+Will: Yes, the sale of a body corporate exemption. It covers a communication about acquiring or disposing of shares in a body corporate, not an OEIC. It must be by or on behalf of a company, partnership, single individual or group of connected individuals. The shares carry 50 per cent or more of the voting shares, alone or with those the acquirer already holds, and each party is one of those four. Or the object is acquiring day-to-day control. Don't confuse the two. The exclusion answers whether the firm may do the work: it's not regulated, so the firm needs neither authorisation nor Part XX. The exemption answers whether a communication about the sale may be sent without approval.
+Hannah: When may shares be offered to the public?
+Will: It's unlawful, and an offence, to offer relevant securities, such as shares, to the public in the UK, unless an exception applies. Two examples. An offer made solely to qualified investors. And an offer to fewer than 150 persons in the UK, other than qualified investors.
+Hannah (summing up): A business invitation or inducement to invest needs an authorised communicator, an appropriately permitted authorised person's approval, or an exemption.
+Will: Yes: authorised, approved or exempt.
+## Block 7: Consumer credit: fees paid by instalments
+Hannah: Before consumer credit and fees, a question mixing two areas. Marlow, a company, sells 60 per cent of a private company's voting shares to one individual. Its solicitors advise, and send the buyer an invitation on its behalf. Is either a problem?
+Will (scenario pause): <think>
+Will: Neither. The exclusion means the advice is not regulated, and the matching exemption means the promotion restriction doesn't apply to the communication. The tempting answer is that the invitation still needs an authorised person's approval, because the exclusion covers only the work.
+Hannah: Yes, the exclusion covered the work and the exemption covered the invitation, so no approval was needed.
+Will: Now consumer credit, and fees paid by instalments: is that an exempt agreement? It usually is, within limits on the number of instalments and on the period, and only without interest or other charges.
+Hannah (summing up): Fees paid by instalments are usually an exempt agreement: count the instalments and the period, and check there is no interest or other charge.
+Will: Right: the instalments, the period and no charge decide it.
+## Recap
+Hannah: A last question, on fees. A firm lets Leila pay her bill in 6 instalments over 6 months, with interest. Is that the usual exempt agreement?
+Will (scenario pause): <think>
+Will: No. The usual exempt agreement has no interest or other charges. The tempting answer is yes, because the instalments are few and the period short.
+Hannah: Yes, the interest was the problem. Now quick-fire. What's the summary for the general prohibition?
+Will (quick-fire pause): <think>
+Will: Only an authorised or exempt person may carry on, or purport to carry on, a regulated activity in the UK.
+Hannah: What's the summary for specified investments?
+Will (quick-fire pause): <think>
+Will: Land, cash and tangible chattels are not specified investments; arranging or advising on a regulated mortgage contract is regulated.
+Hannah: What's the summary for advising on investments?
+Will (quick-fire pause): <think>
+Will: Advice on the merits of a particular investment, given to the client as an investor or potential investor, is regulated; generic advice is not.
+Hannah: What's the summary for the exclusions?
+Will (quick-fire pause): <think>
+Will: If an exclusion applies, with all its own conditions met, the activity is not regulated at all, so Part XX is not needed.
+Hannah: What's the summary for the Part XX exemption?
+Will (quick-fire pause): <think>
+Will: Part XX needs every condition met; with no exclusion or exemption, the firm must be FCA-authorised or refer the client to an authorised person.
+Hannah: What's the summary for financial promotion?
+Will (quick-fire pause): <think>
+Will: A business invitation or inducement to invest needs an authorised communicator, an appropriately permitted authorised person's approval, or an exemption.
+Hannah: What's the summary for fees paid by instalments?
+Will (quick-fire pause): <think>
+Will: Fees paid by instalments are usually an exempt agreement: count the instalments and the period, and check there is no interest or other charge.
+Hannah: And the whole workshop in one sentence: what decides most questions?
+Will: Ask in order whether there is a specified investment, a specified activity and business; if so, the firm needs an exclusion with its conditions met or every Part XX condition met, and otherwise must be FCA-authorised or refer the client.

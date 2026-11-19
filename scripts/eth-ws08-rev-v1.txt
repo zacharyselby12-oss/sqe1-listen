@@ -1,0 +1,176 @@
+---
+id: eth-ws08-rev-v1
+unit: u-bpp-ETH-08
+guide_hash: 3c35aa8fd0
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: Ethics WS08 · Revision · 23 min
+map:
+- Compliance with law and regulation
+- Cooperating with the SRA
+- Notifying the SRA
+- Reporting serious breaches, and protecting those who report
+- Putting things right and being open
+- Warning notice: non-disclosure agreements
+- Warning notice: high-volume consumer claims
+- Warning notices: investment schemes and tax avoidance
+recap:
+- Stay up to date with the law and regulation governing how you work and follow it, and record key decisions so you can justify them.
+- Client confidentiality doesn't stop you reporting to the SRA or giving it information it requires, and handing over documents under its notice doesn't waive or breach the client's privilege.
+- An arrest without charge or a fixed penalty notice isn't a charge, conviction or caution, so needn't itself be notified; consider instead whether the SRA should know the facts.
+- If you reasonably believe the facts are capable of amounting to a serious breach, report promptly, without waiting for proof.
+- When things go wrong, be honest and open with the client: concealing a mistake or misleading the client about it breaches that duty, and misleading is usually far more serious than the mistake itself.
+- An NDA must never prevent, impede or deter a protected report or disclosure; and you mustn't take unfair advantage of the other party, especially if unrepresented or vulnerable.
+- Before a no win, no fee client signs, explain every way they could still have to pay if the claim fails or ends early, and the basis of every charge and deduction; and check they've actually understood.
+- Spot the red flags, make sure the client understands the risks, and never lend credibility to a dubious investment scheme or an abusive tax avoidance scheme.
+summary: Report promptly, without waiting for proof, any facts you reasonably believe are capable of amounting to a serious breach; and be honest and open with clients when things go wrong.
+invented:
+- Mira
+- Dev
+- Priya
+- Tom
+- Ana
+- Lena
+- Jo
+guide_only: []
+---
+## Map
+Will: Eight areas, in two sections, on one question: what do you owe the SRA and your clients when something goes wrong? Cooperation and accountability first: complying with law and regulation, cooperating with the SRA, notifying the SRA, and reporting serious breaches.
+Hannah: What completes that section, and what's the second?
+Will: Putting things right and being open. Then the warning notices: non-disclosure agreements, high-volume consumer claims, and investment schemes and tax avoidance.
+Hannah: First, a warm-up from conflicts. A solicitor wants to buy his client Mira's house, and Mira gives informed consent in writing. Can he act?
+Will (scenario pause): <think>
+Will: He must not act: buying a client's property is an own interest conflict, with no exceptions. The tempting answer is that her consent allows it, but consent only matters within the client conflict exceptions.
+Hannah: Yes: with an own interest conflict, informed consent doesn't allow you to act.
+## Block 1: Compliance with law and regulation
+Will: First, compliance with law and regulation: what keeps you within the rules? You must keep up to date with, and follow, the law and regulation governing the way you work: money laundering, data protection and sanctions rules, for example. And you must be able to justify your decisions and actions, to show you complied with your regulatory obligations. So keep a record of key decisions, such as why you relied on a conflict exception or accepted a high-risk client.
+Hannah (summing up): Stay up to date with the law and regulation governing how you work and follow it, and record key decisions so you can justify them.
+Will: Yes: the record of key decisions is how you justify them.
+## Block 2: Cooperating with the SRA
+Hannah: Before cooperating with the SRA, a question on compliance. Dev took on a high-risk client after careful thought, but kept no note of why. What is missing?
+Will (scenario pause): <think>
+Will: A record of a key decision, so Dev can't justify it to show he complied. The tempting answer is that deciding carefully is enough, but he must be able to justify it.
+Hannah: Right: the record is what lets Dev justify the decision.
+Will: Now, cooperating with the SRA: what do you owe a regulator who wants information? You must cooperate with four kinds of body: the SRA, other regulators, ombudsmen such as the Legal Ombudsman, and bodies overseeing or investigating legal services. You must respond promptly to the SRA, with full and accurate explanations, information and documents. And you must ensure that information held by you, or by third parties doing work critical to your services, is available for SRA inspection: an outsourced IT or cloud provider, for example.
+Hannah: May you ever stop someone else informing a regulator?
+Will: You must not try to stop anyone giving information to the SRA. The same goes for any body with regulatory, supervisory, investigatory or prosecuting functions. A settlement or NDA clause is one way of trying, and pressing a client or employee not to report is another.
+Hannah: Doesn't client confidentiality stop you handing things over?
+Will: Client confidentiality is no bar: you can still report to the SRA, and give it information it requires. The SRA can by notice require you to provide information and produce documents, including client documents, for its investigations. And handing them over does not waive or breach the client's privilege. So confidentiality is no answer to an SRA notice.
+Hannah (summing up): Client confidentiality doesn't stop you reporting to the SRA or giving it information it requires, and handing over documents under its notice doesn't waive or breach the client's privilege.
+Will: Right: handing them over neither waives nor breaches the client's privilege.
+## Block 3: Notifying the SRA
+Hannah: Before notifying the SRA, a question on cooperating. A firm settles a complaint on terms that the client won't go to the SRA. Is that term acceptable?
+Will (scenario pause): <think>
+Will: It isn't: you must not try to stop anyone giving information to the SRA. The tempting answer is that it's a private bargain, but a settlement clause is the rule's own example.
+Hannah: Yes: a settlement term can't be used to keep someone from the SRA.
+Will: Now, notifying the SRA: which events in your own life must it hear about? Three, each to be notified promptly. One: you are charged with, convicted of or cautioned for a criminal offence, subject to the Rehabilitation of Offenders Act. Two: a relevant insolvency event occurs, such as bankruptcy or an IVA. Three: you learn of a material change to information you gave the SRA, or that information given is or may be false, misleading, incomplete or inaccurate.
+Hannah: Is an arrest enough to trigger that duty?
+Will: It isn't. An arrest without charge is not a charge, conviction or caution, and nor is a fixed penalty notice, so that duty does not itself require notification. Consider instead whether the facts should be brought to the SRA's attention.
+Hannah (summing up): An arrest without charge or a fixed penalty notice isn't a charge, conviction or caution, so needn't itself be notified; consider instead whether the SRA should know the facts.
+Will: That's it: neither is itself notifiable, but you still consider whether the SRA should know the facts.
+## Block 4: Reporting serious breaches, and protecting those who report
+Hannah: Before reporting serious breaches, a question on notifying. Priya, a solicitor, gets a fixed penalty notice for speeding. Must she notify it like a caution?
+Will (scenario pause): <think>
+Will: That duty doesn't require it: a fixed penalty notice is not a charge, conviction or caution. The tempting answer is that any police matter is notifiable. Priya considers instead whether the SRA should be told the facts.
+Hannah: Yes: it isn't itself notifiable, though she considers telling the SRA.
+Will: Now, reporting serious breaches, and protecting those who report: when must you report? You must report promptly to the SRA any facts or matters you reasonably believe are capable of amounting to a serious breach of its regulatory arrangements by anyone it regulates, including yourself. Where appropriate, the report goes to another approved regulator, such as the BSB for a barrister.
+Hannah: What makes a breach serious?
+Will: Only serious breaches must be reported under that duty. Seriousness turns on factors including dishonesty or lack of integrity, harm or risk to clients, whether it was deliberate, and whether it is part of a pattern. Harm or risk to vulnerable clients counts especially. So repeated minor breaches can be serious, while an isolated, inadvertent and promptly remedied slip usually is not.
+Hannah: How sure must you be before reporting?
+Will: A reasonable belief is enough, and then you report promptly. One: you need not be certain or have proof. Two: you should not delay to investigate fully or gather evidence. Three: you must not hold off because the person is senior or asks you not to. So when a senior partner asks you to wait while he gathers evidence, you still report.
+Hannah: And what if you're unsure it's a serious breach at all?
+Will: Reasonably believe the facts are capable of amounting to a serious breach, and you must report them promptly. Unsure whether a serious breach has occurred, and you must still inform the SRA promptly of facts or matters you reasonably believe should be brought to its attention, so it can investigate or use its powers.
+Hannah: Must you go to the SRA yourself?
+Will: Your duty to report or notify is met by telling your firm's COLP, or the COFA for accounts matters, on the understanding that they will report to the SRA. But if you know or come to believe they will not, you must report directly. Money laundering has its own route. A suspicion that a client is laundering money goes to the firm's MLRO, and from them to the NCA under the Proceeds of Crime Act, not to the SRA. But a belief that a solicitor is involved in money laundering or other serious misconduct must be reported to the SRA as well.
+Hannah: And what if you simply don't report?
+Will: Failing to report a serious breach is itself a breach, and so is failing to cooperate with or respond to the SRA, or to notify it. The SRA can take disciplinary action for it, separately from the underlying misconduct. And whoever reports is protected. You must not subject anyone to detrimental treatment for making or proposing to make a report, or giving information, based on a reasonably held belief. Dismissal, demotion and harassment are the examples. That holds whether or not the SRA later investigates or acts.
+Hannah (summing up): If you reasonably believe the facts are capable of amounting to a serious breach, report promptly, without waiting for proof.
+Will: Yes: you need not be certain or have proof before you report.
+## Block 5: Putting things right and being open
+Hannah: Before putting things right, a question on reporting. Tom reports a matter to his firm's COLP, who says she won't tell the SRA. Has Tom done enough?
+Will (scenario pause): <think>
+Will: He hasn't. Telling the COLP meets the duty only on the understanding that they will report to the SRA, so Tom must now report directly. The tempting answer is that the internal route always discharges the duty.
+Hannah: Right: once Tom knows the COLP won't report, he must report directly himself.
+Will: Now, putting things right and being open: what do you owe when things go wrong? You must act promptly to take any remedial action the SRA requests. And, if the SRA asks, you must investigate whether there have been any serious breaches that should be reported to it.
+Hannah: And what do you owe the client?
+Will: You must be honest and open with clients when things go wrong. Where a client suffers loss or harm, you must put matters right if possible, and explain fully and promptly what happened and the likely impact. And if the SRA asks, three more things follow: you investigate whether anyone may have a claim against you; you report to the SRA; and you notify those who may have a claim.
+Hannah: What if you hide the mistake instead?
+Will: Concealing a mistake from a client, or misleading the client about it, breaches the duty to be honest and open when things go wrong. Misleading the client or the SRA also breaches the duty not to mislead, and, for the SRA in response to a request or requirement, a further paragraph of the Code. It is likely to breach the principles of honesty and integrity too, usually far more serious than the original mistake.
+Hannah (summing up): When things go wrong, be honest and open with the client: concealing a mistake or misleading the client about it breaches that duty, and misleading is usually far more serious than the mistake itself.
+Will: Yes: concealing or misleading breaches that duty of openness, and misleading is usually a far graver matter than the original mistake.
+## Block 6: Warning notice: non-disclosure agreements
+Hannah: Before non-disclosure agreements, a question on being open. Ana misses a deadline, the client loses money, and Ana falsely blames the court. Which is worse, the deadline or the false story?
+Will (scenario pause): <think>
+Will: The false story. Misleading the client about a mistake breaches the duty to be honest and open when things go wrong, and is usually a far graver wrong than the original mistake. The tempting answer is that the missed deadline matters most.
+Hannah: Yes: misleading the client is usually the more serious wrong.
+Will: Now, the warning notice on non-disclosure agreements: what can an NDA never stop? An NDA must not be used to prevent, impede or deter anyone from six things. Three concern crime and regulators: co-operating with a criminal investigation or prosecution; reporting an offence to a law enforcement agency; and reporting misconduct or a serious breach to the SRA, or making an equivalent report to another body regulating the matter.
+Hannah: And what are the other three?
+Will: Making a protected disclosure under PIDA; making any disclosure required by law; and making a proper disclosure to professional advisers: legal, tax or medical. Nor may the NDA state or give the impression that such reporting is prohibited. And it should be clear what disclosures can and cannot be made, and to whom.
+Hannah: What if such a clause goes in anyway?
+Will: Clauses that purport to stop protected disclosures, or reports to regulators and law enforcement, are unenforceable. And drafting or relying on them, or misrepresenting their effect, is a conduct breach. It engages integrity, and the duties not to mislead and not to prevent reporting.
+Hannah: How must you treat the other party?
+Will: You must not take unfair advantage of them, a duty heightened where they are unrepresented or vulnerable. Four don'ts. Don't exploit their lack of legal knowledge, for instance with a clause you know is unenforceable. Don't apply undue pressure or oppressive, artificial time limits. Don't discourage them from taking legal advice. And don't mislead them about the NDA's effect.
+Hannah: Does that change when the complaint is about the firm's own staff?
+Will: The same limits apply when a firm settles a complaint about its own staff, for example harassment by a partner. An NDA cannot be used to cover up conduct that may be a serious breach the firm must report to the SRA.
+Hannah: And what does statute add for victims of crime?
+Will: The Victims and Prisoners Act is now in force. A term in any agreement such as an NDA is void so far as it would stop a person who is, or reasonably believes they are, a victim of crime from disclosing information about that conduct to eight kinds of recipient. Four are: the police or others with law enforcement functions; a qualified lawyer, for legal advice; a regulated professional such as a doctor or counsellor, for support; and a victim support service.
+Hannah: And who are the other four?
+Will: A regulator of a regulated profession, to cooperate with it; the Criminal Injuries Compensation Authority, for a compensation claim; a court or tribunal, only in proceedings for a decision of that Authority; and their child, parent or partner, for support. None of this protects a disclosure made primarily to put the information into the public domain, for example to the press.
+Hannah (summing up): An NDA must never prevent, impede or deter a protected report or disclosure; and you mustn't take unfair advantage of the other party, especially if unrepresented or vulnerable.
+Will: Right: the duty not to take unfair advantage is heightened where the other party is unrepresented or vulnerable.
+## Block 7: Warning notice: high-volume consumer claims
+Hannah: Before high-volume consumer claims, a question mixing non-disclosure agreements with reporting. A firm settles Lena's harassment complaint against a partner, conduct it reasonably believes may be a serious breach, with an NDA barring her from the SRA. Can the firm rely on it, and stay silent itself?
+Will (scenario pause): <think>
+Will: Neither. The clause is unenforceable, and relying on it is a conduct breach. Nor can an NDA cover up conduct that may be a serious breach the firm must report to the SRA. The tempting answer is that a signed settlement closes the matter.
+Hannah: Yes: the NDA neither stops Lena reporting nor covers up what the firm must report.
+Will: Now, the warning notice on high-volume consumer claims: what must a no win, no fee client be told? Before the client signs, the solicitor must explain every situation in which the client could still have to pay if the claim fails or ends early: disbursements, ATE insurance premiums, and cancellation or termination fees. The solicitor must also explain the basis of every charge and deduction from damages: success fees for the firm and any third party, and VAT. And the solicitor must check the client has actually understood.
+Hannah: Are the fees and the marketing limited too?
+Will: Termination fees must be reasonable and reflect work actually done, and success fees must be fair and reasonable. And no win, no fee marketing must not exaggerate the benefits or play down costs and risks.
+Hannah: What must the firm check about referrers and lead generators?
+Will: The firm must carry out due diligence that the claims management companies and lead generators it uses comply with their obligations. And it must ensure referred clients were not acquired in a way that would breach SRA rules if the introducer were SRA-regulated, for example by cold calling.
+Hannah: And what must the firm itself do?
+Will: Four things. Tell clients of any financial or other interest of the referrer and any fee-sharing arrangement, which must be in writing. Act only on instructions from the client or someone properly authorised. Take responsibility for third-party advertising. And do not enter funding or referral arrangements that benefit the firm or third parties more than the client.
+Hannah (summing up): Before a no win, no fee client signs, explain every way they could still have to pay if the claim fails or ends early, and the basis of every charge and deduction; and check they've actually understood.
+Will: Spot on: every way they could still have to pay, and every charge and deduction, is explained and understood before they sign.
+## Block 8: Warning notices: investment schemes and tax avoidance
+Hannah: Before investment schemes and tax avoidance, a question on consumer claims. A lead generator that isn't SRA-regulated found a firm's new clients by cold calling. Can the firm just take them on?
+Will (scenario pause): <think>
+Will: It can't. The firm must ensure referred clients were not acquired in a way that would breach SRA rules if the introducer were SRA-regulated, and cold calling is the example. The tempting answer is that SRA rules don't bind the introducer.
+Hannah: Right: the introducer's methods are judged as though it were SRA-regulated.
+Will: Now, the warning notices on investment schemes and tax avoidance: how do you avoid backing a bad scheme? You must not lend your name, client account or credibility to dubious investment schemes. Watch for red flags such as unrealistic returns; unregulated or off-plan schemes; pressure to release investors' deposits to a developer before completion or without adequate security; and introducer arrangements with the promoter. And advise investor clients fully on the risks.
+Hannah: And what about abusive tax avoidance?
+Will: You must not design, promote or give a misleading veneer of legitimacy to abusive tax avoidance schemes. Consider whether the arrangements are lawful, make sure the client understands the risk of HMRC challenge, and do not mislead HMRC.
+Hannah (summing up): Spot the red flags, make sure the client understands the risks, and never lend credibility to a dubious investment scheme or an abusive tax avoidance scheme.
+Will: Yes: you spot the flags, the client understands the risks, and the scheme gets no credibility.
+## Recap
+Hannah: A last question, on investment schemes. A promoter presses Jo, who holds investors' deposits, to release them to the developer before completion. What should Jo see?
+Will (scenario pause): <think>
+Will: A red flag: pressure to release investors' deposits to a developer before completion or without adequate security. The tempting answer is that paying out just follows instructions, but Jo must not lend a client account or credibility to a dubious investment scheme.
+Hannah: Yes: that pressure is a red flag for a dubious scheme.
+Will: Now the quick-fire round: one line for each area.
+Hannah: What's the summary for complying with law and regulation?
+Will (quick-fire pause): <think>
+Will: Stay up to date with the law and regulation governing how you work and follow it, and record key decisions so you can justify them.
+Hannah: What's the summary for cooperating with the SRA?
+Will (quick-fire pause): <think>
+Will: Client confidentiality doesn't stop you reporting to the SRA or giving it information it requires, and handing over documents under its notice doesn't waive or breach the client's privilege.
+Hannah: What's the summary for notifying the SRA?
+Will (quick-fire pause): <think>
+Will: An arrest without charge or a fixed penalty notice isn't a charge, conviction or caution, so needn't itself be notified; consider instead whether the SRA should know the facts.
+Hannah: What's the summary for reporting serious breaches?
+Will (quick-fire pause): <think>
+Will: If you reasonably believe the facts are capable of amounting to a serious breach, report promptly, without waiting for proof.
+Hannah: What's the summary for putting things right?
+Will (quick-fire pause): <think>
+Will: When things go wrong, be honest and open with the client: concealing a mistake or misleading the client about it breaches that duty, and misleading is usually far more serious than the mistake itself.
+Hannah: What's the summary for non-disclosure agreements?
+Will (quick-fire pause): <think>
+Will: An NDA must never prevent, impede or deter a protected report or disclosure; and you mustn't take unfair advantage of the other party, especially if unrepresented or vulnerable.
+Hannah: What's the summary for high-volume consumer claims?
+Will (quick-fire pause): <think>
+Will: Before a no win, no fee client signs, explain every way they could still have to pay if the claim fails or ends early, and the basis of every charge and deduction; and check they've actually understood.
+Hannah: What's the summary for investment schemes and tax avoidance?
+Will (quick-fire pause): <think>
+Will: Spot the red flags, make sure the client understands the risks, and never lend credibility to a dubious investment scheme or an abusive tax avoidance scheme.
+Hannah: And what's the whole workshop in one sentence?
+Will: Report promptly, without waiting for proof, any facts you reasonably believe are capable of amounting to a serious breach; and be honest and open with clients when things go wrong.

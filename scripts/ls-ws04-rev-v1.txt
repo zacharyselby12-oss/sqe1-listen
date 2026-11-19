@@ -1,0 +1,214 @@
+---
+id: ls-ws04-rev-v1
+unit: u-bpp-LS-04
+guide_hash: 3e046958e2
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: LS WS04 · Revision · 18 min
+map:
+- What money laundering is, who the rules bind, and the firm's officers and risk assessment
+- Risks and warning signs of money laundering; high-risk jurisdictions
+- POCA principal (direct involvement) offences, authorised disclosure and defences
+- Regulated sector: failure to disclose, reports and consent periods, tipping off, penalties
+- Money Laundering Regulations 2017: who they apply to; customer due diligence and beneficial owners
+- Enhanced and simplified due diligence (PEPs, high-risk countries)
+- Ongoing monitoring, timing of verification and reliance on others; CDD evidence of identity
+- Supervision, terrorist financing and threshold exemptions
+recap:
+- The principal offences bind everyone; tipping off and negligent failure to disclose apply only in the regulated sector.
+- Client account is never a bank: every payment in or out must relate to regulated services the firm is delivering.
+- A principal offence needs property in fact criminal and actual knowledge or suspicion; an authorised disclosure, with appropriate consent if made before the act, is a defence.
+- Regulated-sector failure to disclose needs only reasonable grounds to suspect; after a report, the prohibited act waits for consent, given or deemed.
+- Identify and verify the client; identify any beneficial owner and take reasonable measures to verify their identity, such as an individual with more than 25% of a company's shares or voting rights.
+- Enhanced due diligence is mandatory for a PEP, even a domestic one, proportionately; simplified due diligence needs low risk and never removes it.
+- Verify before the relationship or transaction, with one narrow exception; a firm relying on another's due diligence remains liable for any failure.
+- The SRA supervises its own firms for anti-money laundering, and its approval is needed for their beneficial owners, officers and managers.
+summary: A principal offence needs actual knowledge or suspicion, and an authorised disclosure, with appropriate consent if made before the act, is a defence; regulated-sector failure to disclose needs only reasonable grounds; and due diligence rises with risk.
+invented:
+- Kofi
+- Dana
+- Mei
+- Rosa
+guide_only:
+- P:LS-1.2.2.a-01 (the definition and the three stages of laundering)
+- P:LS-1.2.2.a-05 (the international context)
+- P:LS-1.2.2.a-06 (the three sources of the UK framework)
+- P:LS-1.2.2.a-10 (the systems and officers a firm must have)
+- add:1 (the maximum for breach of a relevant requirement of the Regulations)
+- P:ETH-CF-17 (the two officer roles are separate)
+- P:LS-1.2.2.c-03 (the sole practitioner with no nominated officer)
+- P:LS-1.2.2.b-01 (the list of client warning signs)
+- P:LS-1.2.2.b-02 (the list of funds warning signs)
+- P:LS-1.2.2.b-03 (the list of transaction warning signs)
+- P:LS-1.2.2.b-05 (mortgage fraud red flags and acting for buyer and lender)
+- P:LS-1.2.2.d-01 (the limbs of the concealing offence)
+- P:LS-1.2.2.d-03 (ordinary litigation is not an arrangement)
+- P:LS-1.2.2.d-04 (the acquisition, use and possession offence)
+- P:LS-1.2.2.a-04 (what suspicion means)
+- P:LS-1.2.2.b-06 (the regulated-sector solicitor's two duties on suspicion)
+- P:LS-1.2.2.d-06 (the list of defences to all three principal offences)
+- P:LS-1.2.2.d-07 (the overseas conduct defence)
+- add:2 (the overseas conduct defence's figure)
+- P:LS-1.2.2.d-05 (the adequate consideration defence)
+- P:LS-1.2.2.d-09 (the four elements of failure to disclose)
+- P:LS-1.2.2.c-04 (when the required disclosure must be made)
+- P:LS-1.2.2.d-12 (what privileged circumstances are)
+- P:LS-1.2.2.d-14 (the other defences to failure to disclose)
+- P:LS-1.2.2.c-09 (the nominated officer's own duty to report)
+- P:LS-1.2.2.c-10 (a disclosure does not breach confidentiality)
+- P:LS-1.2.2.c-08 (what the solicitor may do while awaiting consent)
+- P:LS-1.2.2.c-12 (a report does not of itself end the retainer)
+- P:LS-1.2.2.d-17 (the permitted disclosures)
+- P:LS-1.2.2.d-18 (the elements of prejudicing an investigation)
+- add:7 (the maximum for prejudicing an investigation)
+- P:LS-1.2.2.d-19 (the defences to prejudicing an investigation)
+- P:LS-1.2.2.d-08 (the maximum for the principal offences)
+- add:8 (the maximum for the principal offences)
+- P:LS-1.2.2.d-15 (the maximum for failure to disclose)
+- add:9 (the maximum for failure to disclose)
+- P:LS-1.2.2.a-07 (the listed kinds of work within the Regulations)
+- P:LS-1.2.2.e-07 (the risk-based approach)
+- P:LS-1.2.2.e-11 (what enhanced measures include)
+- P:LS-1.2.2.e-12 (the definition of a politically exposed person)
+- P:LS-1.2.2.e-14 (source of funds and source of wealth)
+- P:LS-1.2.2.e-09 (when simplified due diligence must stop)
+- P:LS-1.2.2.e-06 (what follows when due diligence cannot be completed)
+- P:LS-1.2.2.e-13 (the three measures for a politically exposed person)
+- P:LS-1.2.2.e-16 (when a politically exposed person leaves office)
+- add:13 (how long enhanced measures continue after office)
+- P:LS-1.2.2.e-18 (how long records are kept)
+- add:14 (how long records are kept)
+- P:LS-1.2.2.d-16 (the elements of tipping off)
+- add:6 (the maximum for tipping off)
+- P:LS-1.2.2.e-04 (what ongoing monitoring involves)
+---
+## Map
+Will: The big question: when does handling a client's money become a crime, and what must a firm do to prevent it? Eight areas in three groups. First, money laundering and the offences: what it is and who's bound, the warning signs, the principal offences, and regulated-sector reporting.
+Hannah: And what are the other two groups?
+Will: The Money Laundering Regulations and due diligence: standard, then enhanced and simplified, then timing and reliance. Last, supervision and terrorist financing.
+## Block 1: What money laundering is, who the rules bind, and the firm's officers and risk assessment
+Will: First, what money laundering is, and who the rules bind. Criminal property is property which constitutes or represents a person's benefit from criminal conduct, in whole or part and directly or indirectly, where the alleged offender knows or suspects that it does. Criminal conduct is conduct that's an offence in any part of the UK, or would be if it occurred there.
+Hannah: Is there a minimum value for criminal property?
+Will: None. It includes the proceeds of tax evasion and savings made by committing an offence, but not lawful tax avoidance. The only value threshold is a narrow regulated-sector exemption for handing property back to a client to end the relationship, after completing due diligence. The property must be worth under £3,000.
+Hannah: And who do the offences bind?
+Will: The three principal offences apply to everyone: concealing, arrangements, and acquisition, use or possession. So does prejudicing an investigation. Tipping off applies only in the regulated sector. So do the failure-to-disclose offences for its employees and nominated officers, which can be committed negligently, on reasonable grounds to suspect. A nominated officer outside the regulated sector has a narrower failure-to-disclose offence, committed only on actual knowledge or suspicion.
+Hannah (summing up): The principal offences bind everyone; tipping off and negligent failure to disclose apply only in the regulated sector.
+Will: Yes: the principal offences catch everyone.
+## Block 2: Risks and warning signs of money laundering; high-risk jurisdictions
+Hannah: Before the warning signs of money laundering, a question on who's bound. Kofi, a trainee in the regulated sector who has had the firm's required training, ignored obvious signs on a client matter but never actually suspected. Can he commit failure to disclose?
+Will (scenario pause): <think>
+Will: He can: there, reasonable grounds to suspect are enough. The tempting answer is that actual suspicion is needed, which is the principal offences' test.
+Hannah: Yes, reasonable grounds will do there.
+Will: Now the risks and warning signs. Look for them in the client, the funds and the transaction. The rule to carry is that client account must not be used to provide banking facilities to clients or third parties. Payments into and out of it must be in respect of regulated services the firm is delivering, so an underlying transaction or a retainer alone isn't enough. A request to pass money through it without such services must be refused, and it's a laundering red flag.
+Hannah (summing up): Client account is never a bank: every payment in or out must relate to regulated services the firm is delivering.
+Will: Yes: regulated services behind every payment.
+## Block 3: POCA principal (direct involvement) offences, authorised disclosure and defences
+Hannah: Before the POCA principal offences, a question on client account. Dana has a retainer with a firm, and asks it to receive her buyer's money and pay her supplier, with no legal work. Can the firm do it?
+Will (scenario pause): <think>
+Will: It must refuse: the payments aren't in respect of regulated services the firm is delivering. The tempting answer is that the retainer is enough.
+Hannah: Yes, a retainer alone doesn't justify the payment.
+Will: Now the three principal offences under POCA, starting with arrangements. That's entering into or becoming concerned in an arrangement you know or suspect facilitates the acquisition, retention, use or control of criminal property by or on behalf of another person, by whatever means. It's the main risk for solicitors in transactional work such as conveyancing, company formation or trusts. It's committed on entering or becoming concerned, so consent is needed before that point.
+Hannah: What state of mind do the principal offences need?
+Will: Actual knowledge or suspicion that the property is criminal property, so the test is subjective. And the property must in fact be criminal property.
+Hannah: And how does reporting protect a solicitor who suspects?
+Will: Inside a firm, the solicitor or employee reports to the nominated officer. That discharges their personal duty to disclose, and can be an authorised disclosure. The nominated officer then decides whether to report to the NCA.
+Hannah: When is an authorised disclosure a defence to a principal offence?
+Will: At three times. Before the prohibited act, with appropriate consent. Or during the act, if the person began it without knowing or suspecting, and discloses on their own initiative as soon as practicable after first knowing or suspecting.
+Hannah: And a disclosure after the act?
+Will: Only if they had a reasonable excuse for not disclosing before, and they disclose as soon as practicable, again on their own initiative.
+Hannah (summing up): A principal offence needs property in fact criminal and actual knowledge or suspicion; an authorised disclosure, with appropriate consent if made before the act, is a defence.
+Will: Yes: actual suspicion of property that really is criminal.
+## Block 4: Regulated sector: failure to disclose, reports and consent periods, tipping off, penalties
+Hannah: Before failure to disclose in the regulated sector, a question on the principal offences. Mid-purchase, Mei first suspects the funds are criminal property, and reports to her nominated officer that afternoon. Is her disclosure in time?
+Will (scenario pause): <think>
+Will: It is: she began without knowing or suspecting, and disclosed on her own initiative as soon as practicable. The tempting answer is that only a disclosure before the act counts.
+Hannah: Yes, disclosure during the act can work.
+Will: Now the regulated sector: failure to disclose, consent and tipping off. The failure-to-disclose test here is objective as well as subjective: reasonable grounds are enough, so negligence suffices. A nominated officer outside the regulated sector commits an offence only on actual knowledge or suspicion.
+Hannah: Does legal privilege let a solicitor carry on with the deal?
+Will: That's the trap. The privilege exemption only removes the duty to report; it's not a defence to the principal offences. So a solicitor who can't report because information is privileged must not go on to act in a transaction that would be an arrangements offence. They may need to withdraw.
+Hannah: Who does the nominated officer report to?
+Will: The NCA, by a suspicious activity report. Not the police, the SRA or the Law Society.
+Hannah: How long is the wait for consent?
+Will: The notice period is 7 working days. It starts with the first working day after the disclosure. If the NCA doesn't refuse consent within it, consent is deemed and the solicitor may proceed.
+Hannah: And when the NCA does refuse in that period?
+Will: Then the solicitor must not proceed for a moratorium of 31 days. It starts with the day the refusal is received. Consent is then deemed, unless the Crown Court extends the moratorium. It can extend by up to 31 days at a time.
+Hannah: Is there a ceiling on those extensions?
+Will: A maximum of 186 days beyond the initial moratorium.
+Hannah: And how does tipping off differ from prejudicing an investigation?
+Will: Tipping off concerns disclosing that a suspicious activity report has been made, or that an investigation is contemplated, and it applies only in the regulated sector. Prejudicing an investigation applies to anyone, and also covers tampering with documents.
+Hannah (summing up): Regulated-sector failure to disclose needs only reasonable grounds to suspect; after a report, the prohibited act waits for consent, given or deemed.
+Will: Yes: reasonable grounds, then consent before the act.
+## Block 5: Money Laundering Regulations 2017: who they apply to; customer due diligence and beneficial owners
+Hannah: Before the Money Laundering Regulations and customer due diligence, a question on consent. The NCA refuses consent within the notice period. When may the solicitor proceed?
+Will (scenario pause): <think>
+Will: Once 31 days have passed, starting with the day the refusal was received, unless the Crown Court extends the moratorium. The tempting answer is the end of the 7 working days.
+Hannah: Yes, a refusal brings the moratorium.
+Will: Now the Regulations and customer due diligence. Due diligence is required in four cases. On establishing a business relationship. On an occasional transaction that's a transfer of funds over £800. Or on any other occasional transaction of £12,000 or more, single or linked. On suspecting money laundering or terrorist financing. And on doubting whether identification information obtained earlier is reliable. It must also be applied to existing clients at appropriate times on a risk-sensitive basis.
+Hannah: What does due diligence involve?
+Will: Four measures. Identify the client and verify their identity, using documents or information from a reliable source independent of the client. Identify any beneficial owner and also take reasonable measures to verify their identity, understanding the ownership and control structure of entities. Assess, and where appropriate obtain information on, the purpose and intended nature of the relationship or transaction. And verify that anyone acting for the client is authorised, identifying and verifying them.
+Hannah: Who counts as a beneficial owner?
+Will: The key figure is more than 25%. For a company, it's any individual who ultimately owns or controls that much of the shares or voting rights, directly or indirectly, or otherwise exercises control over its management. For a partnership, it's that much of the capital, profits or voting rights. For a trust, it's the settlor, the trustees and the beneficiaries or class of beneficiaries, plus anyone with control. If no beneficial owner can be found, the senior managing official is identified.
+Hannah (summing up): Identify and verify the client; identify any beneficial owner and take reasonable measures to verify their identity, such as an individual with more than 25% of a company's shares or voting rights.
+Will: Yes: verify the client, and take reasonable measures to verify whoever stands behind them.
+## Block 6: Enhanced and simplified due diligence (PEPs, high-risk countries)
+Hannah: Before enhanced and simplified due diligence, a question on beneficial owners. Rosa owns exactly 25% of a company client's shares and voting rights, with no other control. Is she a beneficial owner?
+Will (scenario pause): <think>
+Will: She isn't: the test is more than that figure, or otherwise exercising control over the management. The tempting answer is that a quarter is enough.
+Hannah: Yes, the holding must exceed a quarter, absent other control.
+Will: Now enhanced and simplified due diligence. Enhanced due diligence, with enhanced ongoing monitoring, is mandatory in six cases. One: the firm's risk assessment, or information from the SRA, identifies a high risk. Two: any business relationship or relevant transaction with a person established in a FATF call-for-action country. That's one on the FATF list of high-risk jurisdictions subject to a call for action. The wider UK high-risk third country list no longer triggers it automatically.
+Hannah: And what are the other four cases?
+Will: Three: the client or beneficial owner is a PEP, a politically exposed person, or a family member or known close associate of one. Four: the client has provided false or stolen identification and the firm proposes to continue. Five: a transaction is unusually complex or unusually large for its kind, is part of an unusual pattern, or has no apparent economic or legal purpose. Six: any other case of higher risk.
+Hannah: Is a UK politician treated like a foreign one?
+Will: The starting point is that a domestic PEP presents a lower risk than a non-domestic one, absent other risk factors. But enhanced due diligence still applies, proportionately.
+Hannah: When may a firm do less than standard due diligence?
+Will: Simplified due diligence may be applied where the relationship or transaction presents a low risk of money laundering, having regard to the firm's risk assessment and listed factors. It reduces the extent, timing or type of due diligence but doesn't remove it, and ongoing monitoring sufficient to detect unusual transactions must continue.
+Hannah (summing up): Enhanced due diligence is mandatory for a PEP, even a domestic one, proportionately; simplified due diligence needs low risk and never removes it.
+Will: Yes: more for a PEP, less only for low risk, never none.
+## Block 7: Ongoing monitoring, timing of verification and reliance on others; CDD evidence of identity
+Hannah: Before ongoing monitoring and the timing of verification, a question on PEPs. A UK MP instructs a firm, with no other risk factors. May the firm apply just standard due diligence because she's a domestic PEP?
+Will (scenario pause): <think>
+Will: It may not: a domestic PEP starts as a lower risk, but the enhanced kind still applies, proportionately. The tempting answer is that lower risk means standard checks.
+Hannah: Yes, lower risk changes how much, not whether.
+Will: Now the timing of verification, and reliance on others. Verification must be completed before establishing the business relationship or carrying out the transaction. There's one exception. It may be completed during the establishment of the relationship if that's necessary not to interrupt the normal conduct of business and there's little risk of money laundering. Even then, it must be completed as soon as practicable.
+Hannah: Can a firm rely on someone else's due diligence?
+Will: On another regulated firm or financial institution, with its agreement, but it remains liable for any failure. It must immediately obtain the due diligence information from the third party, and have arrangements allowing it to obtain copies of identification and verification data immediately on request. It may not rely on a third party established in a FATF call-for-action country.
+Hannah (summing up): Verify before the relationship or transaction, with one narrow exception; a firm relying on another's due diligence remains liable for any failure.
+Will: Yes: reliance never shifts liability.
+## Block 8: Supervision, terrorist financing and threshold exemptions
+Hannah: Before supervision and terrorist financing, a question on reliance. A firm relies, by agreement, on a bank's due diligence, which proves defective. Who is liable for the failure?
+Will (scenario pause): <think>
+Will: The relying firm remains liable. The tempting answer is that liability passes to the bank that did the checks.
+Hannah: Yes, the firm that relies stays liable.
+Will: Last, supervision and terrorist financing. The SRA is the anti-money laundering supervisor for the firms it regulates, itself overseen by OPBAS within the FCA. It can inspect and fine, and its approval is needed for a firm's beneficial owners, officers and managers, who must not have a relevant criminal conviction.
+Hannah (summing up): The SRA supervises its own firms for anti-money laundering, and its approval is needed for their beneficial owners, officers and managers.
+Will: Yes: the SRA supervises and approves.
+## Recap
+Hannah: A last question, mixing supervision with reporting. A nominated officer decides to report a suspicion. Does the report go to the SRA, as the firm's supervisor?
+Will (scenario pause): <think>
+Will: It goes to the NCA, by a suspicious activity report. The tempting answer is the SRA, because it supervises the firm.
+Hannah: Yes, the NCA takes the report and the SRA supervises. Now quick-fire. What's the summary for who the rules bind?
+Will (quick-fire pause): <think>
+Will: The principal offences bind everyone; tipping off and negligent failure to disclose apply only in the regulated sector.
+Hannah: What's the summary for client account?
+Will (quick-fire pause): <think>
+Will: Client account is never a bank: every payment in or out must relate to regulated services the firm is delivering.
+Hannah: What's the summary for the principal offences?
+Will (quick-fire pause): <think>
+Will: A principal offence needs property in fact criminal and actual knowledge or suspicion; an authorised disclosure, with appropriate consent if made before the act, is a defence.
+Hannah: What's the summary for reporting in the regulated sector?
+Will (quick-fire pause): <think>
+Will: Regulated-sector failure to disclose needs only reasonable grounds to suspect; after a report, the prohibited act waits for consent, given or deemed.
+Hannah: What's the summary for customer due diligence?
+Will (quick-fire pause): <think>
+Will: Identify and verify the client; identify any beneficial owner and take reasonable measures to verify their identity, such as an individual with more than 25% of a company's shares or voting rights.
+Hannah: What's the summary for enhanced and simplified due diligence?
+Will (quick-fire pause): <think>
+Will: Enhanced due diligence is mandatory for a PEP, even a domestic one, proportionately; simplified due diligence needs low risk and never removes it.
+Hannah: What's the summary for verification and reliance?
+Will (quick-fire pause): <think>
+Will: Verify before the relationship or transaction, with one narrow exception; a firm relying on another's due diligence remains liable for any failure.
+Hannah: What's the summary for supervision?
+Will (quick-fire pause): <think>
+Will: The SRA supervises its own firms for anti-money laundering, and its approval is needed for their beneficial owners, officers and managers.
+Hannah: And what's the whole workshop in one sentence?
+Will: A principal offence needs actual knowledge or suspicion, and an authorised disclosure, with appropriate consent if made before the act, is a defence; regulated-sector failure to disclose needs only reasonable grounds; and due diligence rises with risk.

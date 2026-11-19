@@ -1,0 +1,117 @@
+---
+id: eth-ws10-rev-v1
+unit: u-bpp-ETH-10
+guide_hash: d82a150541
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: ETH WS10 · Revision · 15 min
+map:
+- Fair treatment of staff; governance, systems and supervision
+- Reporting and notifying the SRA
+- Managers' responsibility
+- Compliance officers (COLP and COFA)
+recap:
+- A firm must treat its people fairly and with respect; a manager must also challenge colleagues who fall short, and answers for effective compliance systems and supervision.
+- Minor breaches need not be reported, but should be recorded, put right and monitored, because a pattern of them can together become a serious breach that must be reported.
+- Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, so the SRA can act against any or all of them personally.
+- The Accounts Rules belong to the COFA, the authorisation terms and all other regulatory arrangements to the COLP; each must take all reasonable steps, not guarantee compliance.
+summary: Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, and a COLP or COFA must take all reasonable steps in their own area, not guarantee compliance, which doesn't displace the managers' responsibility.
+invented:
+- Omar
+- Priya
+- Tom
+- Elena
+- Grace
+guide_only: []
+---
+## Map
+Will: The big question: what does the Code of Conduct for Firms demand of a firm, and who answers when it falls short? There are four areas. First, fair treatment of staff, with the firm's governance and supervision. Then reporting and notifying the SRA, managers' responsibility and the compliance officers: the COLP and the COFA.
+## Block 1: Fair treatment of staff; governance, systems and supervision
+Hannah: First, fair treatment of staff; after that, the firm's governance and its systems and supervision. How must a firm treat its people?
+Will: The firm must treat those who work for and with it fairly and with respect. It must not bully, harass or unfairly discriminate against them, and it must require its employees to meet that standard too.
+Hannah: And what does that ask of a manager personally?
+Will: This is the rule the questions turn on. A manager must not only avoid bullying, harassment and unfair discrimination personally, but must also challenge colleagues' behaviour that falls below that standard. And because managers are jointly and severally responsible for the firm's compliance with the Code for Firms, a manager who tolerates a bullying culture is personally exposed.
+Hannah: Now governance: what must the firm have in place, and who answers for it?
+Will: The managers answer for it, and there are five things, in two groups. The first group is about compliance. The firm must have effective governance, systems and controls for compliance, and it must keep records that show compliance.
+Hannah: And what are the three things in the second group?
+Will: One, staying accountable for work done through others, meaning staff, agents and outsourced providers. Two, monitoring financial stability, and winding down in an orderly way if the firm will close. Three, identifying and managing material risks.
+Hannah: What do the managers answer for on supervision and competence?
+Will: They answer for the firm having an effective system for supervising client matters, and for making sure managers and staff are competent and keep their knowledge up to date. For example, trainees and paralegals must be properly supervised.
+Hannah (summing up): A firm must treat its people fairly and with respect; a manager must also challenge colleagues who fall short, and answers for effective compliance systems and supervision.
+Will: Yes: avoiding bullying yourself isn't enough, and the systems are the managers' job.
+## Block 2: Reporting and notifying the SRA
+Hannah: Before reporting and notifying the SRA, a question on fair treatment. Omar is a partner who has never bullied anyone. He knows another partner regularly humiliates the paralegals and he lets it pass. Has Omar done anything wrong?
+Will (scenario pause): <think>
+Will: He has. A manager must challenge colleagues' behaviour that falls below the standard, so letting it pass is Omar's own failure. The tempting wrong answer is that he's safe because he never bullied anyone himself.
+Hannah: Yes, the duty is to challenge the behaviour, not just to avoid it.
+Will: Now, reporting and notifying the SRA. Start by asking whether the breach is serious. Breaches that are not serious need not be reported, but they should be recorded, put right and monitored. That's because a pattern of minor breaches can together become a serious breach, and a serious breach must be reported.
+Hannah: So could small slips ever need reporting?
+Will: It could. Say the same small filing slip turns up month after month: each alone is minor, but the pattern can together become a serious breach, which is why each is recorded and monitored.
+Hannah: Apart from breaches, which events must the firm tell the SRA about?
+Will: There are four, and the firm must notify the SRA promptly of each. The first two are indicators of serious financial difficulty, and any relevant insolvency event.
+Hannah: And what are the other two events?
+Will: The third is an intention to close or cease operating, which includes becoming aware that it will cease operating as a legal business. The fourth is a change to information on the register.
+Hannah: And who is protected for making a report?
+Will: Everyone is. No one may be subjected to detrimental treatment for making or proposing to make a report, or for providing or proposing to provide information. The report must be based on a reasonable belief that the facts are capable of amounting to a serious breach, or should be brought to the SRA's attention.
+Hannah: Does it matter who the report goes to, or whether anything comes of it?
+Will: The protection covers a report to the SRA or another approved regulator, and also one made to the firm's COLP or COFA. And it applies whether or not the SRA or another approved regulator then investigates or acts.
+Hannah: Where do money laundering suspicions go instead?
+Will: Money laundering suspicions go to the firm's nominated officer, the MLRO, and, if well founded, to the NCA. The MLRO and the money laundering compliance officer are separate roles under the Money Laundering Regulations, even if they are held by the COLP or COFA.
+Hannah (summing up): Minor breaches need not be reported, but should be recorded, put right and monitored, because a pattern of them can together become a serious breach that must be reported.
+Will: Yes: record and fix the small ones, and watch for the pattern.
+## Block 3: Managers' responsibility
+Hannah: Before managers' responsibility, a question on reporting. Priya, an associate, reasonably believes a partner has committed a serious breach and tells the firm's COLP. The SRA never investigates, and the firm then drops her from its promotion list for causing trouble. Is the firm allowed to do that?
+Will (scenario pause): <think>
+Will: It isn't allowed. No one may be subjected to detrimental treatment for making a report based on a reasonable belief that the facts are capable of amounting to a serious breach, and a report to the COLP counts. The tempting wrong answer is that she loses protection because the SRA took no action: the protection applies whether or not the SRA investigates or acts.
+Hannah: Yes, her reasonable belief is what protects her, not the outcome.
+Will: Now, managers' responsibility. First, who is a manager? There are four: a partner in a partnership, a member of an LLP, a director of a company, or a member of the governing body of any other body.
+Hannah: What about someone who is called a partner but only draws a salary?
+Will: A person held out as a partner, for example a salaried partner, is treated as a partner.
+Hannah: And how far does each manager's responsibility go?
+Will: This is the deciding rule. Each manager is responsible for the firm complying with the Code for Firms, and where management is shared that responsibility is joint and several. So a partner can't avoid it by saying the area belonged to another partner, or to the COLP. Picture a firm of two partners where one runs all the conveyancing: when the firm breaches the Code there, the other partner can't answer that it was his colleague's department.
+Hannah: What can the SRA actually do about a firm's breach, then?
+Will: Because responsibility is joint and several, the SRA can take action against any or all of the managers personally for the firm's breach, as well as against the firm.
+Hannah (summing up): Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, so the SRA can act against any or all of them personally.
+Will: Yes: no manager can point at someone else's department.
+## Block 4: Compliance officers (COLP and COFA)
+Hannah: Before the compliance officers, a question that mixes managers and notifying the SRA. Tom and Elena are a firm's only partners. Elena runs the finances and ignores clear indicators of serious financial difficulty, so the SRA is never told. Tom says finance was Elena's area. Can the SRA act against Tom?
+Will (scenario pause): <think>
+Will: It can. The firm had to notify the SRA promptly of indicators of serious financial difficulty, and the managers' responsibility for the firm's compliance is joint and several where management is shared. So the SRA can act against Tom personally, or Elena, or both, as well as against the firm. The tempting wrong answer is that only Elena answers, because it was her area.
+Hannah: Yes, the SRA can act against any or all of the managers, whoever ran the area.
+Will: Now the compliance officers, the COLP and the COFA. Start by asking whose area the breach falls in. The COFA covers the SRA Accounts Rules. The COLP covers the terms of the firm's authorisation and all other regulatory arrangements. So a client account shortfall is a COFA matter, and a conflict or confidentiality breach is a COLP matter.
+Hannah: What exactly must the COLP make sure of?
+Will: The COLP must take all reasonable steps to ensure three things. One, compliance with the terms and conditions of the firm's authorisation. Two, compliance with the SRA's regulatory arrangements by the firm, its managers, employees and interest holders. Three, that managers, interest holders and those they employ or contract with do not cause or substantially contribute to a breach.
+Hannah: And what is the COLP's part in reporting to the SRA?
+Will: Again it's all reasonable steps, this time to ensure two things. First, that a prompt report is made to the SRA of facts or matters reasonably believed capable of amounting to a serious breach, whether of the firm's authorisation terms or of the SRA's regulatory arrangements. Second, that the SRA is informed promptly of facts or matters reasonably believed should be brought to its attention, so that it can investigate.
+Hannah: How do the COFA's duties compare with those?
+Will: The COFA must take all reasonable steps to do three things. One, ensure the firm, its managers and employees comply with the SRA Accounts Rules. Two, ensure that any facts or matters the COFA reasonably believes are capable of amounting to a serious breach of those rules are reported promptly to the SRA.
+Hannah: And what is the third of the COFA's duties?
+Will: Three, inform the SRA promptly of any facts or matters that the officer reasonably believes should be brought to its attention. That is so the SRA may investigate whether a serious breach has occurred or otherwise exercise its regulatory powers.
+Hannah: So is a compliance officer liable for every breach in the firm?
+Will: They aren't, and that's the deciding rule here. A COLP or COFA must take all reasonable steps, not guarantee compliance. So they are not automatically liable for every breach in the firm, but they are liable for failing to take reasonable steps. That includes the steps to ensure a prompt report to the SRA of facts they reasonably believe capable of amounting to a serious breach. The tempting neighbour is a guarantee: a breach in the officer's area doesn't by itself make the officer liable.
+Hannah: Does having compliance officers take the weight off everyone else?
+Will: Having compliance officers does not displace the managers' joint and several responsibility, nor each individual's own duty to report serious breaches. An individual can discharge that duty by reporting to the COLP or COFA, on the understanding that they will report it.
+Hannah: Those two reporting duties sound alike; how do I tell them apart?
+Will: Ask whether the question is about the person who found the breach, or about the compliance officer who must make sure the SRA is told. The finder's own duty can be discharged by telling the compliance officer, on that understanding. The officer's duty is to take all reasonable steps to ensure the prompt report to the SRA is made.
+Hannah (summing up): The Accounts Rules belong to the COFA, the authorisation terms and all other regulatory arrangements to the COLP; each must take all reasonable steps, not guarantee compliance.
+Will: Yes: find whose area it is, then ask about reasonable steps.
+## Recap
+Hannah: Before the quick-fire round, a last question, on the compliance officers. A firm's client account is short. Its COFA is Grace. She had taken all reasonable steps to keep the firm within the Accounts Rules and to ensure a prompt report to the SRA once the shortfall came to light. Is Grace liable simply because the breach happened in her area?
+Will (scenario pause): <think>
+Will: She isn't. A client account shortfall is a COFA matter, but a COFA must take all reasonable steps, not guarantee compliance. So she isn't automatically liable for every breach; she would be liable for failing to take reasonable steps, and she took them. The tempting wrong answer is that the officer for the area answers for every breach in it.
+Hannah: Yes, the test is whether she took all reasonable steps, and she did.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for fair treatment of staff, and the firm's systems and supervision?
+Will (quick-fire pause): <think>
+Will: A firm must treat its people fairly and with respect; a manager must also challenge colleagues who fall short, and answers for effective compliance systems and supervision.
+Hannah: What's the summary for reporting and notifying the SRA?
+Will (quick-fire pause): <think>
+Will: Minor breaches need not be reported, but should be recorded, put right and monitored, because a pattern of them can together become a serious breach that must be reported.
+Hannah: What's the summary for managers' responsibility?
+Will (quick-fire pause): <think>
+Will: Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, so the SRA can act against any or all of them personally.
+Hannah: And what's the summary for the compliance officers?
+Will (quick-fire pause): <think>
+Will: The Accounts Rules belong to the COFA, the authorisation terms and all other regulatory arrangements to the COLP; each must take all reasonable steps, not guarantee compliance.
+Hannah: And what's the whole workshop in one sentence?
+Will: Managers who share management are jointly and severally responsible for the firm's compliance with the Code for Firms, and a COLP or COFA must take all reasonable steps in their own area, not guarantee compliance, which doesn't displace the managers' responsibility.

@@ -1,0 +1,154 @@
+---
+id: public1-ws09-rev-v1
+unit: u-bpp-Public1-09
+guide_hash: 8c96af051e
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: Public1 WS09 · Revision · 18 min
+map:
+- Dicey's sovereignty and the courts
+- Binding successors
+- Sovereignty, devolution and independence
+- EU membership
+- Human Rights Act
+recap:
+- No court sets aside an Act, even for procedural irregularity or treaty breach; general or ambiguous words are read as not restricting fundamental rights, but clear express words are applied.
+- A later inconsistent Act impliedly repeals an earlier one so far as they conflict, even if the earlier forbids repeal; a constitutional statute needs express or unmistakably specific words.
+- A Westminster Act passed without the Senedd's consent is still valid, because Sewel is a convention courts won't enforce; but a Senedd Act outside competence is not law.
+- During membership courts disapplied conflicting Acts, not repealed them, only because the ECA said so; Parliament could reverse that, and EU supremacy was abolished from the end of 2023.
+- A court reads legislation compatibly so far as possible; failing that, a court from the High Court up may only declare an Act incompatible, which leaves it valid and enforceable, for Parliament to decide.
+summary: On the orthodox view, Parliament can make or unmake any law and no court can set aside an Act: courts may read it narrowly or declare it incompatible, but they apply clear, express words.
+invented: []
+guide_only: []
+---
+## Map
+Will: Parliamentary sovereignty asks one big question: is there anything Parliament can't do by Act, and can a court ever refuse to apply one? There are five areas. First, Dicey's theory and how the courts treat an Act. Second, whether one Parliament can bind its successors.
+Hannah: And what are the other three areas?
+Will: Third, devolution and independence. Fourth, EU membership. Fifth, the Human Rights Act.
+Hannah: Before we start, a warm-up from the royal prerogative. A statute covers the same ground as a prerogative power, but the government prefers the prerogative, to skip the statute's conditions. Can it do that?
+Will (scenario pause): <think>
+Will: It can't. Where a statute covers the same ground, the prerogative goes into abeyance, and the government must use the statute with its conditions, such as paying compensation. The tempting answer is that the government can choose, and that's wrong because the statute displaces the prerogative.
+Hannah: Yes: the prerogative is in abeyance, so the statutory conditions apply.
+
+## Block 1: Dicey's sovereignty and the courts
+Will: Now, Dicey's sovereignty and the courts: is there any law Parliament cannot make, and can a court set aside an Act? Parliament can make or unmake any law on any subject. And no person or body, including the courts, can override or set aside an Act of Parliament.
+Hannah: How far does "any law" really go?
+Will: Parliament's power includes legislating retrospectively, extra-territorially and in breach of international law or a treaty, and the courts will apply the Act. The example is the War Damage Act, which reversed the Burmah Oil decision.
+Hannah: And what about a treaty the UK has signed but never incorporated?
+Will: The UK is dualist, so an unincorporated treaty creates no domestic rights, which means a conflicting Act still applies.
+Hannah: Can a court at least look into the way an Act was passed?
+Will: It can't, and this is the enrolled Act rule. An Act needs the Commons, the Lords and Royal Assent, although under the Parliament Acts a Bill can become an Act without the Lords' consent. Courts will not examine how an Act was passed. Once it has Royal Assent and is on the Parliament Roll, an allegation of procedural irregularity, or of fraud on Parliament, is no ground to invalidate it.
+Hannah: So where do fundamental rights come in?
+Will: Through interpretation: the principle of legality, in two steps. First, the court asks whether the provision restricts a fundamental right, and if so, general or ambiguous words are read as not doing so. Second, if the words are clear and express, the court applies the Act. So the principle is interpretive only.
+Hannah: Does that way of reading have real effects?
+Will: Yes. Secondary legislation that restricts access to the courts, made under general enabling words, is ultra vires. And ouster clauses are read narrowly, so review stays available for errors of law that make a decision a nullity. So in Anisminic the ouster clause was not held invalid: it was read narrowly, and did not protect such a decision.
+Hannah: And do these rights depend on the Human Rights Act?
+Will: They don't: the common law protects rights independently of it, including oral parole hearings, access to justice and open justice.
+Hannah (summing up): No court sets aside an Act, even for procedural irregularity or treaty breach; general or ambiguous words are read as not restricting fundamental rights, but clear express words are applied.
+Will: Yes: rights are protected by how general words are read, never by overriding clear ones.
+
+## Block 2: Binding successors
+Hannah: Before binding successors, a question on Dicey's sovereignty and the courts. A claimant says Parliament was misled when an Act was passed, and asks the court to declare the Act invalid. What does the court do?
+Will (scenario pause): <think>
+Will: It applies the Act. That's the enrolled Act rule: fraud on Parliament is no ground to invalidate it. The tempting answer is that fraud unravels everything, and it's wrong because the court won't look at how the Act got through.
+Hannah: Yes: once the Act has Royal Assent and is on the Roll, the court doesn't look behind it.
+Will: Now, binding successors: can one Parliament stop a later one from changing the law? Start with repeal, in two steps. First, where the later Act expressly repeals the earlier one, the earlier provision goes. Second, failing that, the court tries to reconcile the two Acts, and if they can be reconciled, both stand.
+Hannah: And what happens when they can't be reconciled?
+Will: Parliament cannot bind its successors as to the substance of legislation. So a later Act inconsistent with an earlier one impliedly repeals it, to the extent of the inconsistency, even if the earlier Act says it is not to be repealed.
+Hannah: Is that the same thing as disapplying an Act?
+Will: It isn't. Disapplication of a later Act applied only to conflicts with EU law, under the ECA. Ordinary conflicts between one Act and another are resolved by implied repeal.
+Hannah: Are there limits on implied repeal?
+Will: A later general provision does not normally impliedly repeal an earlier specific one. Then two limits: a constitutional statute can be repealed only expressly, or by unmistakably specific words, and whether an Act can bind successors as to the manner and form of repeal is unresolved.
+Hannah: How do I know whether a statute is a constitutional one?
+Will: The test asks: does the Act condition the relationship between citizen and state in a general way, or enlarge or diminish fundamental constitutional rights? If so, it's a constitutional statute. Without express words, or words so specific that the intention is irresistible, it survives a later inconsistent Act, because there is no implied repeal.
+Hannah: Which Acts count as constitutional statutes?
+Will: Examples include Magna Carta and the Bill of Rights, and among modern Acts the ECA, the Human Rights Act and the devolution Acts.
+Hannah: Does expressly repealing one of those need a special majority?
+Will: It doesn't: express repeal needs only an ordinary majority, with no special procedure. The doctrine rests on obiter in Thoburn, endorsed by the Supreme Court, so treat it as the answer.
+Hannah: What have the courts said about manner and form?
+Will: Whether Parliament can bind itself that way is still unresolved. Obiter in Jackson suggested Parliament may redefine itself, and that courts might not uphold an Act abolishing judicial review. That obiter also suggested sovereignty is qualified, so wholly oppressive, undemocratic legislation might not be upheld. But no UK court has refused to apply an Act on rule-of-law grounds. Acts were disapplied only for conflict with EU law under the ECA, in Factortame.
+Hannah: Can Parliament impose procedures on other legislatures?
+Will: Yes: Parliament can impose procedural limits on subordinate legislatures, such as the devolved bodies.
+Hannah: And what did Jackson decide about the Parliament Acts?
+Will: That an Act passed under the Parliament Acts is primary legislation, so the second Parliament Act and the Hunting Act are valid.
+Hannah: Is there anything the Parliament Acts can't be used for?
+Will: The Parliament Acts cannot be used to extend Parliament's life beyond five years.
+Hannah: Could they be used first to remove that bar, and then to extend Parliament's life?
+Will: The majority obiter in Jackson is that they cannot be used in two steps to remove that bar.
+Hannah (summing up): A later inconsistent Act impliedly repeals an earlier one so far as they conflict, even if the earlier forbids repeal; a constitutional statute needs express or unmistakably specific words.
+Will: Yes: implied repeal is the default, and a constitutional statute resists it.
+
+## Block 3: Sovereignty, devolution and independence
+Hannah: Before sovereignty, devolution and independence, a question on binding successors. An ordinary Act says it is never to be repealed. A later Act is inconsistent with it but doesn't mention it. Which one does the court apply?
+Will (scenario pause): <think>
+Will: The later Act. It impliedly repeals the earlier one to the extent of the inconsistency, because Parliament cannot bind its successors on substance. The tempting answer is that the earlier Act wins because it forbade repeal, and that's wrong for an ordinary Act.
+Hannah: Yes: the no-repeal clause makes no difference, so the later Act prevails.
+Will: Now, sovereignty, devolution and independence: can Westminster still legislate on devolved matters, and could it undo devolution or independence? Start with the Senedd's competence. The test asks whether the matter is devolved. If so, the Senedd may legislate, but Westminster keeps full power to legislate for Wales.
+Hannah: How do I tell whether a matter is devolved in Wales?
+Will: Wales uses a reserved powers model, in which the Senedd may legislate on any matter that is not reserved. A Senedd Act outside legislative competence is not law, unlike an Act of Parliament. And a devolved Act cannot make Westminster legislation conditional on devolved consent, because that is outside competence.
+Hannah: So what protects devolved matters from Westminster?
+Will: The Sewel convention. Westminster will not normally legislate on devolved matters, or change devolved competence, without the devolved legislature's consent, given by a legislative consent motion. It's recognised in statute, but it remains a political convention. So an Act passed without consent is valid, and courts will not enforce the convention.
+Hannah: Could Westminster go further and undo devolution altogether?
+Will: On the orthodox view, yes. Political reality does not limit legal validity, so Parliament could legally repeal grants of independence or the devolution Acts. But statute now declares the Senedd and the Scottish Parliament permanent, not to be abolished except after a referendum. And no court has decided whether that binds Parliament.
+Hannah: And when did a Westminster Act extend to a Dominion?
+Will: A UK Act extends to a Dominion only if it declares the Dominion's request and consent, and courts check only that declaration.
+Hannah (summing up): A Westminster Act passed without the Senedd's consent is still valid, because Sewel is a convention courts won't enforce; but a Senedd Act outside competence is not law.
+Will: Yes: Westminster keeps full legal power, and only the Senedd's Acts can fail for want of competence.
+
+## Block 4: EU membership
+Hannah: Before EU membership, a question on devolution. The Senedd refuses consent, and Westminster legislates on the devolved matter anyway. Can a court set that Act aside?
+Will (scenario pause): <think>
+Will: It can't. The Act is valid, because the Sewel convention is political and courts will not enforce it. The tempting answer is that the convention binds because statute recognises it, and that's wrong: recognition did not make it legally enforceable.
+Hannah: Yes: consent is normally sought, but it isn't a legal requirement, so the Act stands.
+Will: Now, EU membership: how did it fit with Parliament's sovereignty? During membership, the ECA gave EU law direct effect and priority. So courts disapplied conflicting Acts, and granted an interim injunction against the Crown. This was explained as Parliament's own choice, which it could reverse by repealing the ECA.
+Hannah: Why wasn't that Act itself impliedly repealed by a later conflicting Act?
+Will: It subjected past and future Acts to EU law. And it was not impliedly repealed because it is a constitutional statute.
+Hannah: So were the conflicting Acts repealed by EU law?
+Will: That's the trap. Conflicting Acts were disapplied, not repealed, because the ECA so provided.
+Hannah: And where does that leave EU supremacy today?
+Will: EU supremacy no longer applies. It was abolished from the end of 2023.
+Hannah (summing up): During membership courts disapplied conflicting Acts, not repealed them, only because the ECA said so; Parliament could reverse that, and EU supremacy was abolished from the end of 2023.
+Will: Yes: disapplication came from Parliament's own Act, and EU supremacy has now gone.
+
+## Block 5: Human Rights Act
+Hannah: Before the Human Rights Act, a question that mixes EU membership with binding successors. Today, two ordinary Acts conflict, and the later one doesn't mention the earlier. Does the court disapply one of them, as it did in the EU cases?
+Will (scenario pause): <think>
+Will: It doesn't: the later Act impliedly repeals the earlier one to the extent of the inconsistency. The tempting answer is disapplication, and it's wrong because that applied only to conflicts with EU law under the ECA.
+Hannah: Yes: Act against Act is settled by implied repeal, and disapplication belonged to EU law alone.
+Will: Now, the Human Rights Act: what can a court do when legislation breaches a Convention right? Three steps. First, the court reads the legislation compatibly with Convention rights so far as possible, but not against the grain of the Act. Second, if that is impossible, a court may make a declaration of incompatibility. Third, the Act remains valid and enforceable, and Parliament decides whether to change it.
+Hannah: Which courts can make that declaration, and what does it do?
+Will: A court from the High Court up, and a declaration is all it may make. It does not affect the Act's validity, continuing operation or enforcement, and it does not bind the parties. The duty to read compatibly does not affect the validity of incompatible primary legislation either. So the Human Rights Act preserves sovereignty. The contrast is EU membership, when courts disapplied Acts, but only because the ECA so provided.
+Hannah: Is a declaration an alternative to reading the Act compatibly?
+Will: It's a last resort, not an alternative. A court may make one only if the legislation cannot be read compatibly.
+Hannah: Does the duty to read compatibly cover every kind of legislation?
+Will: It applies to primary and subordinate legislation, whenever enacted. But the outcome differs: incompatible subordinate legislation can be quashed, unless the parent Act prevents removal of the incompatibility.
+Hannah: What can happen after a declaration is made?
+Will: A minister may amend the legislation by remedial order.
+Hannah: And how much weight does Strasbourg case law carry?
+Will: Courts must take Strasbourg case law into account, not follow it as binding.
+Hannah: Is there any check before a Bill becomes law?
+Will: Before Second Reading, the minister states either that the Bill is compatible, or that it cannot be but the government wishes to proceed. And the EU and Human Rights Act limits were self-imposed and removable by a later Parliament, so sovereignty survives.
+Hannah (summing up): A court reads legislation compatibly so far as possible; failing that, a court from the High Court up may only declare an Act incompatible, which leaves it valid and enforceable, for Parliament to decide.
+Will: Yes: compatible reading comes first, a declaration from the High Court up is the last resort, and the Act's validity is untouched.
+
+## Recap
+Hannah: A last question, on the Human Rights Act. A High Court judge decides that a section of an Act cannot be read compatibly with a Convention right. Can the judge refuse to apply that section to the parties?
+Will (scenario pause): <think>
+Will: The judge can't. The court may only make a declaration of incompatibility, which does not affect the Act's validity or enforcement and does not bind the parties. The tempting answer is to disapply the section, as courts did in the EU cases, and that's wrong because disapplication came only from the ECA, for conflicts with EU law.
+Hannah: Yes: a declaration is all the court can give, and the Act carries on in force, because disapplication belonged to EU law alone. Now the quick-fire round. What's the summary for Dicey's sovereignty and the courts?
+Will (quick-fire pause): <think>
+Will: No court sets aside an Act, even for procedural irregularity or treaty breach; general or ambiguous words are read as not restricting fundamental rights, but clear express words are applied.
+Hannah: What's the summary for binding successors?
+Will (quick-fire pause): <think>
+Will: A later inconsistent Act impliedly repeals an earlier one so far as they conflict, even if the earlier forbids repeal; a constitutional statute needs express or unmistakably specific words.
+Hannah: What's the summary for sovereignty, devolution and independence?
+Will (quick-fire pause): <think>
+Will: A Westminster Act passed without the Senedd's consent is still valid, because Sewel is a convention courts won't enforce; but a Senedd Act outside competence is not law.
+Hannah: What's the summary for EU membership?
+Will (quick-fire pause): <think>
+Will: During membership courts disapplied conflicting Acts, not repealed them, only because the ECA said so; Parliament could reverse that, and EU supremacy was abolished from the end of 2023.
+Hannah: What's the summary for the Human Rights Act?
+Will (quick-fire pause): <think>
+Will: A court reads legislation compatibly so far as possible; failing that, a court from the High Court up may only declare an Act incompatible, which leaves it valid and enforceable, for Parliament to decide.
+Hannah: And what is the whole workshop in one sentence?
+Will: On the orthodox view, Parliament can make or unmake any law and no court can set aside an Act: courts may read it narrowly or declare it incompatible, but they apply clear, express words.

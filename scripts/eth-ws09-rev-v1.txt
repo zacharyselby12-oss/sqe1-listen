@@ -1,0 +1,148 @@
+---
+id: eth-ws09-rev-v1
+unit: u-bpp-ETH-09
+guide_hash: d319f8f382
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: Ethics WS09 · Revision · 17 min
+map:
+- Scope of section 8 and identifying the client
+- Complaints handling
+- The Legal Ombudsman
+- Client information and costs
+- Publicity and unsolicited approaches
+- Regulatory status and protections
+recap:
+- This section applies only when you provide services to the public or a section of it; the client is normally the company, not the director who instructs.
+- Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint; unresolved to the client's satisfaction after 8 weeks, the Ombudsman information goes out in writing.
+- A poor-service complaint from an individual or small body goes to the Legal Ombudsman, normally after complaining to the firm first; a professional misconduct complaint goes to the SRA.
+- Clients get information they can understand, and the best possible information on pricing and likely overall cost, at engagement and when appropriate as the matter progresses.
+- Publicity must be accurate and not misleading; and no direct or specifically targeted unsolicited approaches advertising legal services to members of the public, except current or former clients.
+- Clients must understand whether and how your services are regulated, and which regulatory protections they have, especially where the business isn't authorised by the SRA.
+summary: Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint: normally the firm deals with it first, and if it isn't resolved to the client's satisfaction within 8 weeks, the client is told in writing about the Legal Ombudsman.
+invented: []
+guide_only: []
+---
+## Map
+Will: Today's big question: who is your client, and what must you tell them, above all when they complain? There are six areas. First, the scope of this section of the Code and identifying the client. Then complaints handling. Then the Legal Ombudsman.
+Hannah: And what are the last three?
+Will: Client information and costs. Then publicity and unsolicited approaches. And last, regulatory status and protections.
+## Block 1: Scope of section 8 and identifying the client
+Hannah: Let's start with the scope of the section and identifying the client: does it apply, and who is the client? When does it apply at all?
+Will: This section of the Code covers client identification, complaints handling, client information and publicity. All of it applies only when you provide your services to the public or a section of the public. So an in-house solicitor acting only for their employer isn't doing that, and the section doesn't apply to that work, although the rest of the Code does.
+Hannah: And once it does apply, who counts as the client?
+Will: You must identify who you're acting for in each matter. If a director gives the instructions, the client is normally the company, not the director. But advising the director personally makes him a separate client, so you check for a conflict first.
+Hannah: What about a relative who gives instructions on someone else's behalf?
+Will: Then the client is that person, not the relative, so you act only on instructions from someone properly authorised. And if you suspect the instructions don't reflect the client's wishes, you don't act until you're satisfied that they do.
+Hannah: Does that mean checking identity documents in every matter?
+Will: Not in every matter. You must be satisfied that you know who you're dealing with at the start of each matter, mainly to avoid being caught up in fraud. But you take a proportionate approach, so you needn't get proof of identity and address every time.
+Hannah: So how does that differ from customer due diligence?
+Will: Customer due diligence is a separate duty, under the money laundering regulations. It applies only to work within those regulations, such as property or company transactions. It has four parts: identify and verify the client; identify its beneficial owners; take reasonable measures to verify them; and understand its ownership and control structure.
+Hannah (summing up): This section applies only when you provide services to the public or a section of it; the client is normally the company, not the director who instructs.
+Will: Yes: services to the public bring the section in, and the company is normally the client.
+## Block 2: Complaints handling
+Hannah: Before complaints handling, a question on identifying the client. A director instructs you on his company's lease, then asks you to advise him personally on it as well. Who is your client, and what must you do first?
+Will (scenario pause): <think>
+Will: The client is normally the company. The tempting answer is the director, because he's the one giving the instructions, but he gives them for the company. Advising him personally would make him a separate client, so you check for a conflict first.
+Hannah: Yes: the company is normally the client, and the conflict check comes before any personal advice.
+Will: Now complaints handling: what is a complaint, and what must the firm do about it? A complaint is any oral or written expression of dissatisfaction which alleges that the complainant has suffered, or may suffer, some detriment.
+Hannah: What kinds of detriment does the definition name?
+Will: Financial loss, distress, inconvenience or other detriment.
+Hannah: So does it have to be in writing, or use the word complaint?
+Will: It needs neither. So an angry phone call about delay or a bill engages the complaints duties.
+Hannah: What procedure does the firm need to have?
+Will: You must establish and maintain, or take part in, a procedure for handling complaints about your legal services, as appropriate in the circumstances. An employee normally takes part in the firm's procedure.
+Hannah: And what are clients told when you're first engaged?
+Will: Three things, in writing, at the time of engagement. One: their right to complain to you about your services and your charges. Two: how a complaint can be made, and to whom. Three: any right to complain to the Legal Ombudsman, and when they can do so.
+Hannah: Can the firm bill for the time it spends on a complaint?
+Will: It can't. Complaints must be dealt with promptly, fairly and free of charge, so you cannot charge the client for handling the complaint.
+Hannah: And what happens when a complaint drags on?
+Will: The trigger is 8 weeks. If the complaint hasn't been resolved to the client's satisfaction within that time of being made, you must tell the client in writing of three things: any right to complain to the Legal Ombudsman, the time limit for doing so, and full contact details.
+Hannah: Is there anything more once the firm's own procedure has been exhausted?
+Will: Yes, three more things, again in writing. One: that you cannot settle the complaint. Two: the name and website of a competent, approved alternative dispute resolution body. Three: whether you agree to use its scheme.
+Hannah: Can you give me the whole order of a complaint in one go?
+Will: Four steps. The client complains to the firm. The firm deals with it under its procedure. If it's unresolved after 8 weeks, or a final response is given, the firm gives the Ombudsman and dispute resolution information in writing. Then the client may go to the Ombudsman, within its time limits.
+Hannah (summing up): Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint; unresolved to the client's satisfaction after 8 weeks, the Ombudsman information goes out in writing.
+Will: Yes: no writing and no special word is needed, and the Ombudsman information is itself in writing.
+## Block 3: The Legal Ombudsman
+Hannah: Before the Legal Ombudsman, a question on complaints handling. A client rings, furious about delay and saying it has caused her real distress, but puts nothing in writing. Is that a complaint?
+Will (scenario pause): <think>
+Will: It is a complaint. She has expressed dissatisfaction orally and alleged distress. The tempting answer is that it only counts once it's written down or called a complaint, but neither is needed. So it must be dealt with promptly, fairly and free of charge.
+Hannah: Yes: a phone call alleging distress is a complaint, with nothing in writing.
+Will: Now the Legal Ombudsman: when can a client go to it, and what can it direct? A client must normally complain to the firm first. They may then go to the Ombudsman after 8 weeks, or once the firm has given its final response.
+Hannah: And how long does the client have to bring the Ombudsman complaint?
+Will: There are two limits, and the complaint must be inside both. The first is 6 months. It runs from the firm's final response, if that response explained this.
+Hannah: And what's the second limit?
+Will: The second is 1 year. It runs from the act or omission, or from when the client should reasonably have known there was cause to complain.
+Hannah: So one clock starts with the firm's answer, and the other with the problem itself?
+Will: Yes: the shorter one from the final response, and the longer one from the act or omission, or the client's reasonable knowledge.
+Hannah: Which complaints does the Ombudsman actually take?
+Will: Complaints about poor service, from individuals and small bodies. Small bodies means micro-enterprises, and charities, clubs and trusts below set financial limits. But complaints of professional misconduct, such as dishonesty or a breach of the Code, are for the SRA. So ask: is this about poor service, or about professional misconduct?
+Hannah: And what can the Ombudsman direct the firm to do?
+Will: Four things: an apology; a refund or reduction of fees; putting things right; and compensation. The compensation limit is £50,000.
+Hannah (summing up): A poor-service complaint from an individual or small body goes to the Legal Ombudsman, normally after complaining to the firm first; a professional misconduct complaint goes to the SRA.
+Will: Yes: poor service from an individual or small body goes to the Ombudsman, normally after the firm, and misconduct goes to the SRA.
+## Block 4: Client information and costs
+Hannah: Before client information and costs, a question on the Legal Ombudsman. A client's only complaint is that her solicitor was dishonest. Is that for the Legal Ombudsman, or for the SRA?
+Will (scenario pause): <think>
+Will: It's for the SRA, because dishonesty is professional misconduct. The tempting answer is the Ombudsman, because an individual client is complaining, but the Ombudsman deals with poor service.
+Hannah: Yes: dishonesty is misconduct, so that one belongs to the SRA.
+Will: Now client information and costs: what must clients be told about their matter, and what it will cost? You must give clients information in a way they can understand. And you must make sure they can make informed decisions about three things: the services they need, how their matter will be handled, and the options available.
+Hannah: What sort of options does that include?
+Will: Funding options, for example: legal aid, legal expenses insurance, or a conditional fee agreement.
+Hannah: And what must clients be told about the price?
+Will: You must ensure clients receive the best possible information about how their matter will be priced. The same goes for the likely overall cost and any costs incurred. That information is due at the time of engagement, and also, when appropriate, as the matter progresses. So if an estimate is likely to be exceeded, you tell the client promptly.
+Hannah (summing up): Clients get information they can understand, and the best possible information on pricing and likely overall cost, at engagement and when appropriate as the matter progresses.
+Will: Yes: information clients can understand, and costs information that continues after engagement.
+## Block 5: Publicity and unsolicited approaches
+Hannah: Before publicity and unsolicited approaches, a question on costs. Halfway through a matter, a solicitor sees that her estimate is likely to be exceeded. Can she leave it until the final bill?
+Will (scenario pause): <think>
+Will: She can't leave it. Costs information is also due when appropriate as the matter progresses, so she tells the client promptly. The tempting answer is that the estimate given at engagement was enough, but the duty carries on through the matter.
+Hannah: Yes: an estimate likely to be exceeded means telling the client promptly.
+Will: Now publicity and unsolicited approaches: is the publicity accurate, and whom may a firm approach? Publicity about your practice must be accurate and not misleading. That includes publicity about your charges, and about when interest is payable by or to clients.
+Hannah: Where could publicity about charges mislead?
+Will: For example, on whether VAT and disbursements are included, or on what a no win, no fee client actually pays.
+Hannah: And what's the rule on approaching people for work?
+Will: You must not make unsolicited approaches to members of the public to advertise legal services, except to current or former clients. Guidance from the SRA treats that as direct or specifically targeted approaches, in person, by telephone or otherwise. It doesn't treat it as non-targeted advertising.
+Hannah: Can you give me one case on each side of that line?
+Will: Say a firm writes to people it has identified as recent accident victims, who aren't current or former clients. That's specifically targeted, so it's banned. But an untargeted leaflet drop, or online adverts, is non-targeted advertising, so it isn't caught.
+Hannah: Who is the ban there to protect?
+Will: Members of the public. So approaching businesses, or current and former clients, is not caught. And you can't get round the ban by taking clients from an introducer who obtained them by cold calling.
+Hannah (summing up): Publicity must be accurate and not misleading; and no direct or specifically targeted unsolicited approaches advertising legal services to members of the public, except current or former clients.
+Will: Yes: accuracy for all publicity, and the ban is on targeted approaches to the public, other than current or former clients.
+## Block 6: Regulatory status and protections
+Hannah: Before regulatory status and protections, a question on unsolicited approaches. A firm puts leaflets through every door on an estate, advertising its injury work. Is that a banned unsolicited approach?
+Will (scenario pause): <think>
+Will: It isn't banned. An untargeted leaflet drop is non-targeted advertising. The tempting answer is that it's banned because nobody asked for the leaflet, but the ban is treated as covering direct or specifically targeted approaches.
+Hannah: Yes: an untargeted leaflet drop is advertising, not a targeted approach.
+Will: Now regulatory status and protections: do clients know who regulates your services, and what protects them? You must make sure clients understand whether and how your services are regulated.
+Hannah: What do you actually have to explain to them?
+Will: Two things. First, which activities you carry out as an authorised person. Second, which services of you, your firm and any separate business are regulated, and by whom. And you never present an unregulated business as SRA-regulated.
+Hannah: And what about the protections themselves?
+Will: You must make sure clients understand the regulatory protections available to them: for example, the SRA Compensation Fund, compulsory indemnity insurance and the Legal Ombudsman. That matters especially where you work in a business not authorised by the SRA, and some protections don't apply.
+Hannah (summing up): Clients must understand whether and how your services are regulated, and which regulatory protections they have, especially where the business isn't authorised by the SRA.
+Will: Yes: clients must understand both the regulation and the protections.
+## Recap
+Hannah: A last question, mixing regulatory protections with the scope of the section. An in-house solicitor acts only for her employer. Does this section of the Code make her explain regulatory protections to it?
+Will (scenario pause): <think>
+Will: It doesn't. The section applies only to services provided to the public, or to a section of the public, and acting only for your employer isn't that. The tempting answer is yes, because she's a solicitor with a client, but it's the rest of the Code that applies to that work.
+Hannah: Yes: no services to the public, so the section is out, though the rest of the Code still applies. Now the quick-fire round. What's the summary for the scope of the section and identifying the client?
+Will (quick-fire pause): <think>
+Will: This section applies only when you provide services to the public or a section of it; the client is normally the company, not the director who instructs.
+Hannah: What's the summary for complaints handling?
+Will (quick-fire pause): <think>
+Will: Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint; unresolved to the client's satisfaction after 8 weeks, the Ombudsman information goes out in writing.
+Hannah: What's the summary for the Legal Ombudsman?
+Will (quick-fire pause): <think>
+Will: A poor-service complaint from an individual or small body goes to the Legal Ombudsman, normally after complaining to the firm first; a professional misconduct complaint goes to the SRA.
+Hannah: What's the summary for client information and costs?
+Will (quick-fire pause): <think>
+Will: Clients get information they can understand, and the best possible information on pricing and likely overall cost, at engagement and when appropriate as the matter progresses.
+Hannah: What's the summary for publicity and unsolicited approaches?
+Will (quick-fire pause): <think>
+Will: Publicity must be accurate and not misleading; and no direct or specifically targeted unsolicited approaches advertising legal services to members of the public, except current or former clients.
+Hannah: What's the summary for regulatory status and protections?
+Will (quick-fire pause): <think>
+Will: Clients must understand whether and how your services are regulated, and which regulatory protections they have, especially where the business isn't authorised by the SRA.
+Hannah: And what's the whole workshop in one sentence?
+Will: Any oral or written expression of dissatisfaction alleging actual or possible detriment is a complaint: normally the firm deals with it first, and if it isn't resolved to the client's satisfaction within 8 weeks, the client is told in writing about the Legal Ombudsman.

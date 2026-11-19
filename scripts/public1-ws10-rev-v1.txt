@@ -1,0 +1,155 @@
+---
+id: public1-ws10-rev-v1
+unit: u-bpp-Public1-10
+guide_hash: 8304350d46
+made: 2026-11-19T17:44:28+00:00
+kind: revision
+title: Public1 WS10 · Revision · 18 min
+map:
+- Leaving the EU: the Withdrawal Acts
+- The Withdrawal Agreement
+- Assimilated law
+- CJEU case law after exit
+- Rights after exit
+recap:
+- EU law applied through the European Communities Act, its effect saved, until IP completion day; Parliament remains sovereign despite the Withdrawal Agreement.
+- For citizens' rights and the Windsor Framework, Withdrawal Agreement law prevails over inconsistent domestic law, even a later Act, unless Parliament uses express or specific words.
+- If assimilated direct legislation can't be read compatibly with a domestic enactment, the enactment prevails whenever made, unless legislation provides otherwise; the court then makes an incompatibility order.
+- On unmodified assimilated law, lower courts must follow pre-2021 case law and may only have regard to later CJEU decisions; only the Supreme Court and listed appeal courts may depart.
+- The Charter and Francovich damages, save transitional claims, ended at IP completion day; the general principles ended at the end of 2023 outside Withdrawal Agreement law; Convention rights are unaffected.
+summary: Fix the date, then the regime: Withdrawal Agreement law prevails over inconsistent domestic law unless Parliament uses express or specific words, whereas assimilated direct legislation that can't be read compatibly yields to a domestic enactment unless legislation provides otherwise.
+invented:
+- June 2020
+guide_only: []
+---
+## Map
+Will: The big question: once the UK has left the EU, which law applies to the facts, and what wins in a conflict? Five areas. First, leaving the EU and the Withdrawal Acts, then the Withdrawal Agreement, then assimilated law.
+Hannah: And what are the last two areas?
+Will: CJEU case law after exit, and the rights a claimant can still rely on.
+
+## Block 1: Leaving the EU: the Withdrawal Acts
+Will: Now, leaving the EU and the Withdrawal Acts: when did EU law stop applying, and is Parliament still sovereign? On exit day, 31 January 2020, the European Communities Act was repealed, but its effect was saved during the implementation period.
+Hannah: When did that saving run out?
+Will: At IP completion day, eleven at night on 31 December 2020. From then, EU law ceased to apply as such in the UK. So EU law didn't stop on exit day, tempting as the repeal makes that.
+Hannah: What happened to EU law at that point?
+Will: It was converted into retained EU law at IP completion day, not at the end of 2023. And EU-derived domestic legislation made under the European Communities Act survived the repeal, displacing the rule that subordinate legislation falls with its parent Act.
+Hannah: How do I decide which law applies to the facts?
+Will: Four steps. One, fix the date: before or after IP completion day? Two, before it, EU law applied through the European Communities Act, whose effect was saved after exit day. Three, after it, if the matter is citizens' rights or the Windsor Framework, apply Withdrawal Agreement law. Four, otherwise apply assimilated law, checking whether the facts fall before or after the end of 2023.
+Hannah: Did the Withdrawal Agreement cost Parliament its sovereignty?
+Will: It didn't. The Withdrawal Agreement Act recognises that the UK Parliament is sovereign, that its sovereignty subsists notwithstanding the Withdrawal Agreement's continued domestic effect, and that nothing in that Act derogates from it. So Parliament can legislate inconsistently with assimilated law and, as a matter of domestic law, with the Withdrawal Agreement or the TCA.
+Hannah: Can a court still disapply an Act for clashing with EU law?
+Will: Generally not. Since the end of 2023, courts don't disapply an Act for incompatibility with assimilated law, unless legislation gives that law priority. But directly effective Withdrawal Agreement rights, on citizens' rights and the Windsor Framework, still prevail over incompatible enactments.
+Hannah (summing up): EU law applied through the European Communities Act, its effect saved, until IP completion day; Parliament remains sovereign despite the Withdrawal Agreement.
+Will: Yes: saved until IP completion day, and Parliament still sovereign.
+
+## Block 2: The Withdrawal Agreement
+Hannah: Before the Withdrawal Agreement, a question on dates. A dispute turns on facts from June 2020, after exit day. Did EU law still apply?
+Will (scenario pause): <think>
+Will: It did. June 2020 is before IP completion day, so EU law applied through the European Communities Act, whose effect was saved. The tempting answer, that the repeal on exit day ended it, is wrong.
+Hannah: Yes: those facts fall inside the implementation period.
+Will: Now the Withdrawal Agreement: when does it prevail over domestic law? The UK withdrew under Article 50, and the agreement was concluded through that process. Two parts matter. Citizens' rights protect EU citizens and their families resident in the UK by the end of the transition period. The Windsor Framework, formerly the Northern Ireland Protocol, covers mainly goods and customs and keeps the Irish land border open. And it's a separate regime, not assimilated law.
+Hannah: How does it rank against domestic law?
+Will: Three steps. One, does the matter fall within Withdrawal Agreement law: citizens' rights, or the Windsor Framework? Two, if so, it has effect through the Withdrawal Act and prevails: courts disapply inconsistent domestic law, even a later Act. Three, Parliament can override it only by express or specific words.
+Hannah: So is "the later Act prevails" the wrong rule here?
+Will: Yes, that's the trap: it's the rule for assimilated law, not for Withdrawal Agreement law.
+Hannah: How far does that priority reach?
+Will: Rights and obligations under the Withdrawal Agreement have direct effect and priority in domestic law. That even modified article six of the Acts of Union of 1800, though Parliament remains sovereign.
+Hannah: How are questions on it interpreted?
+Will: In accordance with the agreement: courts conform to CJEU case law from before the end of the transition period, and have due regard to later case law.
+Hannah: Can UK courts still refer questions to the CJEU?
+Will: On citizens' rights, they can still make references. The window is 8 years after the transition period.
+Hannah (summing up): For citizens' rights and the Windsor Framework, Withdrawal Agreement law prevails over inconsistent domestic law, even a later Act, unless Parliament uses express or specific words.
+Will: Yes: it beats even a later Act, short of express or specific words.
+
+## Block 3: Assimilated law
+Hannah: Before assimilated law, a question on the Withdrawal Agreement. A new Act imposes a customs requirement on goods entering Northern Ireland that conflicts with the Windsor Framework, without mentioning it. How should a court treat that provision?
+Will (scenario pause): <think>
+Will: Disapply it. Windsor Framework goods law has effect through the Withdrawal Act and beats even a later Act, and there are no express or specific words here. The tempting answer, that the later Act wins, is the assimilated law rule.
+Hannah: Yes: silence isn't enough to override Withdrawal Agreement law.
+Will: Now assimilated law: what became assimilated law, and what wins in a conflict? It means EU-derived law preserved in domestic law after 31 December 2020 by the Withdrawal Act.
+Hannah: Wasn't that called retained EU law?
+Will: Yes, until 1 January 2024. Since then, the supremacy of EU law and the general principles of EU law no longer apply to it.
+Hannah: What did retained EU law consist of?
+Will: Three categories continued as domestic law after IP completion day: EU-derived domestic legislation, retained direct EU legislation and retained directly effective rights. From 1 January 2024 it is called assimilated law. The retained directly effective rights were abolished from that date, so a Treaty article's directly effective rights, kept at IP completion day, have ceased.
+Hannah: How did each EU source fare?
+Will: The Treaties are primary law; regulations, directives and decisions are secondary; delegated and implementing acts are tertiary. Regulations and decisions were converted and are now assimilated direct legislation. Soft law never bound and has no effect.
+Hannah: And were directives converted too?
+Will: They weren't: only the UK legislation implementing them continues, as assimilated law. Directives bound as to result, with direct effect against the state; recognised direct effect rights were kept at IP completion day, but ended at the end of 2023.
+Hannah: How do I test whether a rule survived?
+Will: Three steps. One, is it EU-derived domestic legislation, or direct EU legislation, meaning a regulation or decision? If so, it's assimilated law, part of UK domestic law. Two, was it listed in Schedule 1 to the Retained EU Law Act? If so, it was revoked at the end of 2023.
+Hannah: And what is the third step?
+Will: Three, does the argument rely on something removed? If so, it fails. Five things were removed, in two groups. Two kinds of direct effect: retained directly effective rights, and the direct effect of directives. And three protections: the general principles, the Charter and Francovich damages.
+Hannah: Was all retained law revoked at the end of 2023?
+Will: It wasn't. Only the instruments listed in Schedule 1 were revoked automatically then; the Bill's sunset for all retained law was dropped. And some lost rights, such as equal pay, were restated in domestic regulations.
+Hannah: Now conflicts: what else changed at the end of 2023?
+Will: Four things in all. One, EU supremacy and the general principles no longer apply. Two, retained directly effective rights are no longer recognised. Three, assimilated direct legislation must be read compatibly with domestic legislation, which prevails in a conflict. Four, the listed instruments were revoked. So assimilated law is interpreted using domestic rules and any binding assimilated case law, and CJEU rulings after 2020 do not bind.
+Hannah: What was the position before 2024?
+Will: Supremacy applied to domestic law made before IP completion day, so inconsistent Acts were disapplied: that's Factortame. Enactments made after IP completion day were never subject to supremacy.
+Hannah: So which rule prevails in a conflict today?
+Will: Four steps. One, if the EU-derived provision is Withdrawal Agreement law, it prevails. Two, if assimilated direct legislation conflicts with a domestic enactment, read it compatibly with domestic enactments so far as possible.
+Hannah: And what if that is impossible?
+Will: Three, the domestic enactment prevails, whether an Act or subordinate legislation and whenever passed or made, unless legislation, such as regulations under the Retained EU Law Act, gives the assimilated provision priority. Four, the court or tribunal must then make an incompatibility order.
+Hannah: What can an incompatibility order do?
+Will: Three things: set out the provision's effect in the case, delay its own commencement, and limit the provision's effect before then. Don't confuse it with a declaration of incompatibility: that's the Human Rights Act remedy for primary legislation that conflicts with Convention rights.
+Hannah: And how can assimilated law be changed?
+Will: Two steps. One, is there an Act of Parliament, or a statutory power to make secondary legislation that is still in force? Two, if so, assimilated law can be amended or repealed like any domestic law; if not, only Parliament can change it.
+Hannah: Which powers have already gone?
+Will: Ministers' powers under the Retained EU Law Act to restate, revoke or replace assimilated law by regulations ended after 23 June 2026. Ministers and devolved authorities held them.
+Hannah: Did any other power expire, or survive?
+Will: One of each. The Withdrawal Act power to fix deficiencies arising from withdrawal expired at the end of 2022. But the power to update secondary assimilated law for technological or scientific developments has no end date.
+Hannah (summing up): If assimilated direct legislation can't be read compatibly with a domestic enactment, the enactment prevails whenever made, unless legislation provides otherwise; the court then makes an incompatibility order.
+Will: Yes: a compatible reading first, then the domestic enactment, then the order.
+
+## Block 4: CJEU case law after exit
+Hannah: Before CJEU case law after exit, a question on assimilated law. A statutory instrument made before IP completion day conflicts with an assimilated EU regulation, and no compatible reading is possible. Which prevails, and what must the court do?
+Will (scenario pause): <think>
+Will: The statutory instrument prevails, though it's secondary and older, unless legislation gives the assimilated provision priority, and the court must make an incompatibility order. The tempting answer, that the regulation wins by supremacy, fails: supremacy ended at the end of 2023.
+Hannah: Yes: the domestic enactment wins whenever it was made, and the order must follow.
+Will: Now CJEU case law after exit: who is bound, and who may depart? Three steps. One, a CJEU decision made after IP completion day is not binding; the court may have regard to it so far as relevant. Two, on unmodified assimilated law, lower courts must follow assimilated case law, meaning CJEU and UK decisions from before 2021.
+Hannah: And which courts may depart from it?
+Will: Three, the Supreme Court, the Court of Appeal, the High Court of Justiciary and other listed appellate courts. They're listed in regulations, and the High Court is not one of them.
+Hannah: What test do they apply in departing?
+Will: The test the Supreme Court applies when departing from its own decisions. A newer statutory test, adding factors such as foreign decisions not being binding, was not in force on 11 September 2026.
+Hannah: Can a court refer the question to the CJEU instead?
+Will: Generally not. The limited exceptions include certain citizens' rights proceedings, and Northern Ireland or Windsor Framework matters. On assimilated law, don't reach for a reference to the CJEU or to a higher court: a lower court applies assimilated case law itself. The Retained EU Law Act's reference procedure wasn't in force at that date either.
+Hannah (summing up): On unmodified assimilated law, lower courts must follow pre-2021 case law and may only have regard to later CJEU decisions; only the Supreme Court and listed appeal courts may depart.
+Will: Yes: lower courts follow, later CJEU decisions only inform, and only those top courts depart.
+
+## Block 5: Rights after exit
+Hannah: Before rights after exit, a question on case law. The High Court must interpret an unmodified assimilated regulation. A CJEU ruling from 2018 supports the claimant; one from 2024 supports the defendant. Which must it follow?
+Will (scenario pause): <think>
+Will: The 2018 ruling, though it may consider the 2024 one. The High Court cannot depart, so the earlier case law binds it. The tempting answers are to follow the newer ruling or refer the point upwards, and neither is open.
+Hannah: Yes: the earlier ruling binds the High Court, and the later one is only considered.
+Will: Now rights after exit: which EU rights can a claimant still rely on? The EU Charter of Fundamental Rights is not part of domestic law after IP completion day. And there is no right to Francovich damages for state breaches of EU law, subject to transitional cases.
+Hannah: What counts as a transitional case?
+Will: A claim about earlier facts, begun within a window. The window is 2 years from IP completion day. If the claim was begun in time, it survives. If it was begun later, there are no Francovich damages, however old the breach.
+Hannah: And what about the general principles of EU law?
+Will: Before 2024, they could interpret retained law, but could not found a claim or disapply law. From the end of 2023 they went altogether, so proportionality as an EU principle survives only where Withdrawal Agreement law applies.
+Hannah: Has proportionality gone from domestic law, then?
+Will: It hasn't, and that's the trap: it still applies as a ground of review where Convention rights are engaged under the Human Rights Act. Brexit did not affect the ECHR or the Human Rights Act. The ECHR belongs to the Council of Europe, and its court, in Strasbourg, is distinct from the CJEU, in Luxembourg.
+Hannah (summing up): The Charter and Francovich damages, save transitional claims, ended at IP completion day; the general principles ended at the end of 2023 outside Withdrawal Agreement law; Convention rights are unaffected.
+Will: Yes: the Charter and Francovich went first, the general principles later, and Convention rights never moved.
+
+## Recap
+Hannah: One last question, on rights after exit. In March 2026 a business sues the government for losses from the UK's faulty implementation of a directive in 2019, adding that the failure breached the EU principle of proportionality. Will either argument succeed?
+Will (scenario pause): <think>
+Will: Neither succeeds. The claim was begun after the transitional window for Francovich damages had closed, and the general principles left domestic law at the end of 2023. The tempting answer is that early facts keep the old remedies alive, but only a claim begun in time survives.
+Hannah: Yes: the claim came too late, and the general principles had already gone.
+Will: Now the quick-fire round.
+Hannah: What's the summary for leaving the EU and the Withdrawal Acts?
+Will (quick-fire pause): <think>
+Will: EU law applied through the European Communities Act, its effect saved, until IP completion day; Parliament remains sovereign despite the Withdrawal Agreement.
+Hannah: What's the summary for the Withdrawal Agreement?
+Will (quick-fire pause): <think>
+Will: For citizens' rights and the Windsor Framework, Withdrawal Agreement law prevails over inconsistent domestic law, even a later Act, unless Parliament uses express or specific words.
+Hannah: What's the summary for assimilated law?
+Will (quick-fire pause): <think>
+Will: If assimilated direct legislation can't be read compatibly with a domestic enactment, the enactment prevails whenever made, unless legislation provides otherwise; the court then makes an incompatibility order.
+Hannah: What's the summary for CJEU case law after exit?
+Will (quick-fire pause): <think>
+Will: On unmodified assimilated law, lower courts must follow pre-2021 case law and may only have regard to later CJEU decisions; only the Supreme Court and listed appeal courts may depart.
+Hannah: What's the summary for rights after exit?
+Will (quick-fire pause): <think>
+Will: The Charter and Francovich damages, save transitional claims, ended at IP completion day; the general principles ended at the end of 2023 outside Withdrawal Agreement law; Convention rights are unaffected.
+Hannah: And what's the whole workshop in one sentence?
+Will: Fix the date, then the regime: Withdrawal Agreement law prevails over inconsistent domestic law unless Parliament uses express or specific words, whereas assimilated direct legislation that can't be read compatibly yields to a domestic enactment unless legislation provides otherwise.
