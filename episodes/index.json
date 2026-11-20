@@ -6156,7 +6156,7 @@
       ],
       "summary": "Whether to answer is the client's decision; an inference from silence needs each of its conditions met and cannot convict alone; a breach of Code D does not automatically exclude the identification.",
       "madeAt": "2026-11-20T08:44:21+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits (3 cleared by Opus triage); opus x2 (episode-check, episode-lines-check); fixflow 11 fixes; changed lines verified after 1 targeted round (3 turns) - pass",
@@ -6175,7 +6175,16 @@
         "b10",
         "b11"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9877581,
+      "seconds": 1235,
+      "words": 2745,
+      "renderedHash": "af6bd8534f7d",
+      "renderedAt": "2026-11-20T08:45:21+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws02-rev-v1-120f2a19.mp3",
+      "siteAudio": "audio/clp-ws02-rev-v1-120f2a19.mp3",
+      "pubDate": "2026-11-20T08:45:21+00:00"
     },
     {
       "id": "clp-ws03-rev-v1",
@@ -6213,7 +6222,7 @@
       ],
       "summary": "Classify the offence first, because its class fixes the route to trial and the magistrates' sentencing limit; for an either-way offence, venue is the client's choice only once the magistrates accept jurisdiction, and his solicitor must never mislead the court.",
       "madeAt": "2026-11-20T08:44:21+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits (1 cleared by Opus triage); opus x2 (accuracy, line by line) + fixes; script-revise; targeted round 1 (verify finding) with fresh verify: pass",
@@ -6232,7 +6241,16 @@
         "b10",
         "b11"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 11665847,
+      "seconds": 1458,
+      "words": 3303,
+      "renderedHash": "942d58dfef4d",
+      "renderedAt": "2026-11-20T08:45:21+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws03-rev-v1-444f0161.mp3",
+      "siteAudio": "audio/clp-ws03-rev-v1-444f0161.mp3",
+      "pubDate": "2026-11-20T08:45:21+00:00"
     },
     {
       "id": "clp-ws03-rev-v1-p2",
@@ -6260,7 +6278,7 @@
       ],
       "summary": "Start from the right to bail and ask which ground displaces it; conditions must be necessary for a statutory purpose, breaking one is not itself an offence, and a custody time limit that expires without extension means bail.",
       "madeAt": "2026-11-20T08:44:21+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits (none); opus x2 (accuracy, line by line) + fixes; script-revise; targeted round 1 (verify finding) with fresh verify: pass",
@@ -6274,7 +6292,16 @@
         "b16",
         "b17"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8378180,
+      "seconds": 1047,
+      "words": 2552,
+      "renderedHash": "7bb7ecf7953f",
+      "renderedAt": "2026-11-20T08:45:21+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws03-rev-v1-p2-5532a21c.mp3",
+      "siteAudio": "audio/clp-ws03-rev-v1-p2-5532a21c.mp3",
+      "pubDate": "2026-11-20T08:45:21+00:00"
     },
     {
       "id": "clp-ws04-rev-v1",
@@ -6300,7 +6327,7 @@
       ],
       "summary": "Disclosure runs in order: the prosecution discloses unused material that might reasonably be considered capable of undermining its case or assisting the accused's, the defence statement follows, and only a served defence statement opens a section eight application.",
       "madeAt": "2026-11-20T08:44:21+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers, per part); known-error scan 0 hits; opus episode-check and line-by-line check: 6 problems, fixes applied (fixflow); one script-revise (repeated 8-word run); changed-lines verify: 1 finding; targeted round 1 (script-revise), code checks ok, fresh changed-lines verify pass",
@@ -6313,7 +6340,16 @@
         "b4",
         "b5"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8691859,
+      "seconds": 1086,
+      "words": 2594,
+      "renderedHash": "09ca6f1f30c8",
+      "renderedAt": "2026-11-20T08:45:21+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws04-rev-v1-f19ddd88.mp3",
+      "siteAudio": "audio/clp-ws04-rev-v1-f19ddd88.mp3",
+      "pubDate": "2026-11-20T08:45:21+00:00"
     }
   ],
   "replays": [
