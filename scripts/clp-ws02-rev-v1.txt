@@ -1,0 +1,274 @@
+---
+id: clp-ws02-rev-v1
+unit: u-bpp-CLP-02
+guide_hash: 7a7a9b260b
+made: 2026-11-20T08:44:21+00:00
+kind: revision
+title: CLP WS02 · Revision · 20 min
+map:
+- The solicitor's role at the police station
+- Vulnerable suspects and appropriate adults
+- Advising the client before interview
+- The interview and the client's options
+- The right to silence: ss.34, 35 and 38
+- Sections 36 and 37 and the special warning
+- Advising whether to answer questions
+- When an identification procedure must be held
+- Identification procedures
+- Breach of Code D
+- Charging, starting proceedings and the relevant time
+recap:
+- A solicitor is removed only for conduct that prevents or unreasonably obstructs proper questioning or the recording of answers.
+- Rights are given again once the appropriate adult is present; no interview without the adult unless a superintendent authorises an urgent one.
+- The client decides whether to answer; the solicitor must not mislead the police, but has no duty to disclose what the client said.
+- A prepared statement prevents a section 34 inference only about the facts it contains; selective answering is usually the worst option.
+- Section 34 needs a fact later relied on that he could reasonably have been expected to mention; silence alone cannot convict.
+- No special warning, no section 36 or 37 inference; presence also needs the arresting constable to have found him there at or about the time of the offence.
+- Inadequate disclosure or an unfit client points to silence; a credible defence, or strong evidence where admissions would count as mitigation, points to answering.
+- A disputed street identification still needs a formal procedure, unless that would be impracticable or serve no useful purpose.
+- Video identification is normally offered first; a suspect who refuses or fails to co-operate may face covert procedures, and the refusal may be given in evidence.
+- A Code D breach does not exclude the identification automatically: the defence must apply under section 78.
+- A summary-only offence cannot be tried unless the information is laid or the written charge issued within 6 months of the offence.
+summary: Whether to answer is the client's decision; an inference from silence needs each of its conditions met and cannot convict alone; a breach of Code D does not automatically exclude the identification.
+invented:
+- Sacha
+guide_only:
+- P:CP-5.1-01 (advice that avoids strengthening the prosecution case)
+- P:CP-5.1-05 (the solicitor's opening statement and note of the interview)
+- P:CP-1-11 (the definition of vulnerable)
+- P:CP-5.2-05 (the appropriate adult's role)
+- P:CP-5.2-08 (the adult asking for a solicitor; removing the adult)
+- P:CP-5.2-02 (who may act for a vulnerable adult)
+- add:0 (a responsible adult aged 18 or over)
+- P:CP-5.2-03 (who may not act)
+- P:CP-5.2-07 (the urgent interview's grounds; charge, reviews and searches)
+- P:CP-5.3-01 (what an interview is)
+- P:CP-5.1-02 (the solicitor's four interventions)
+- P:CP-4.1-01 (the caution's wording)
+- P:CP-4.2-02 (judging whether the fact could reasonably have been mentioned)
+- P:CP-12.2-04 (cross-examination after waiving privilege)
+- P:CP-4.2-08 (when the jury may draw the inference)
+- P:CP-12.2-11 (an independent case to answer; the direction to the jury)
+- P:CP-4.2-06 (the special warning's five contents)
+- P:CP-5.3-03 (significant statements and silences)
+- P:CP-1-17 (assessing fitness for interview)
+- P:CP-5.3-06 (unfit detainees; interview room conditions)
+- P:CP-3.1-04 (before the suspect is known)
+- P:CP-3.1-05 (known and available suspects)
+- P:CP-3.1-02 (examples of no useful purpose)
+- P:CP-3.3-01 (the identification officer)
+- P:CP-3.3-03 (the record of the first description)
+- P:CP-3.3-02 (the written notice's contents)
+- P:CP-3.3-07 (consent for a juvenile)
+- add:6 (the juvenile consent ages)
+- P:CP-3.2-02 (what a video identification shows)
+- add:1 (at least 8 others in a video identification)
+- P:CP-3.3-04 (seeing the images first; the solicitor at a video identification)
+- P:CP-3.3-05 (how the witness views the images)
+- add:4 (the witness views the whole set at least twice)
+- P:CP-3.2-03 (the parade line)
+- add:2 (at least 8 others on a parade)
+- P:CP-3.3-06 (how a parade is run)
+- add:5 (each witness looks at each parade member at least twice)
+- P:CP-3.2-04 (two suspects in one procedure)
+- add:3 (at least 12 others for two suspects)
+- P:CP-3.2-05 (group identification)
+- P:CP-3.2-08 (the advice on taking part)
+- P:CP-3.3-08 (significant breaches and the jury direction)
+- P:CP-3.1-06 (the direction where no procedure was held)
+- P:CP-1-24 (release on bail or under investigation)
+- add:7 (the initial bail period)
+- P:CP-6-02 (how proceedings start)
+- P:CP-2.3-01 (voluntary attendance; the 24-hour cap cases)
+- add:9 (the 24-hour cap)
+---
+
+## Map
+
+Will: Today's big question: at the police station, when can silence or an identification count against the client?
+Hannah: How many areas are there?
+Will: Eleven, in four groups: at the police station; silence, inferences and the advice; identification; and charge and the detention clock.
+Hannah: A warm-up from last time: Sacha, who is 17, is arrested. Is she a juvenile?
+Will (scenario pause): <think>
+Will: She is: anyone who appears to be under 18 is treated as a juvenile, in the absence of clear evidence that they are older. The tempting answer is that she is nearly adult.
+Hannah: Yes: under 18 means a juvenile.
+
+## Block 1: The solicitor's role at the police station
+
+Will: Now the solicitor's role at the police station. It is only to protect and advance the client's legal rights.
+Hannah: When can the solicitor be removed from an interview?
+Will: Only if their conduct prevents or unreasonably obstructs proper questions being put, or the client's response being recorded, for example by answering for the client. The interviewer then stops the interview and consults an officer of at least superintendent rank or, if none is readily available, an inspector not connected with the investigation, who decides.
+Hannah (summing up): A solicitor is removed only for conduct that prevents or unreasonably obstructs proper questioning or the recording of answers.
+Will: Yes: only preventing or unreasonably obstructing the interview is a ground.
+
+## Block 2: Vulnerable suspects and appropriate adults
+
+Hannah: Before appropriate adults: can a solicitor be removed for advising no comment?
+Will (scenario pause): <think>
+Will: Not for that: the advice does not stop proper questions being put or answers being recorded. The tempting answer is that silence obstructs the interview.
+Hannah: Yes: advising no comment is no ground for removal.
+Will: Now vulnerable suspects and appropriate adults. A juvenile needs an appropriate adult, and so does anyone an officer has any reason to suspect may be vulnerable, unless clear evidence dispels that suspicion.
+Hannah: What must the custody officer do?
+Will: As soon as practicable, tell the appropriate adult the grounds for detention and where the person is, and ask them to come to the station. Rights given before the adult arrives must be given again in their presence. And the adult must be present for interview unless a superintendent authorises an urgent one.
+Hannah (summing up): Rights are given again once the appropriate adult is present; no interview without the adult unless a superintendent authorises an urgent one.
+Will: Yes: rights repeated, and only an urgent interview without the adult.
+
+## Block 3: Advising the client before interview
+
+Hannah: Before advising the client: a vulnerable suspect was told his rights before the appropriate adult arrived. Is that enough?
+Will (scenario pause): <think>
+Will: It is not: they must be given again in the adult's presence. The tempting answer is that telling him once will do.
+Hannah: Yes: the rights are given again.
+Will: Now advising the client before interview. The decision whether to answer questions is the client's. The solicitor advises, records the advice and reasons, and must not mislead the police, for example by putting forward an account known to be false.
+Hannah: Must the solicitor reveal what the client admits?
+Will: There is no such duty. What the client has said must be kept confidential unless disclosure is required or permitted by law, or the client consents.
+Hannah (summing up): The client decides whether to answer; the solicitor must not mislead the police, but has no duty to disclose what the client said.
+Will: Yes: no misleading, and no duty to disclose.
+
+## Block 4: The interview and the client's options
+
+Hannah: Before the client's options in interview: a client admits guilt but wants the solicitor to give the police a false alibi. Is that allowed?
+Will (scenario pause): <think>
+Will: It is not: an account known to be false misleads the police. The tempting answer is that the client's instructions decide it, but the solicitor must never put forward an account known to be false; and the admission itself stays confidential.
+Hannah: Yes: the client's wishes never allow an account known to be false, and the admission stays confidential.
+Will: Now the interview and the client's options. There are four: answer all questions, give no comment to all questions, hand in a prepared statement and then make no comment, or answer some questions only. Selective answering is usually the worst, because each refusal can found an inference and looks evasive.
+Hannah: What does a prepared statement achieve?
+Will: It prevents a section 34 inference about facts it contains. An inference may still be drawn about facts relied on at trial that were not in it, or that differ from it.
+Hannah (summing up): A prepared statement prevents a section 34 inference only about the facts it contains; selective answering is usually the worst option.
+Will: Yes: the statement protects only what is in it.
+
+## Block 5: The right to silence: ss.34, 35 and 38
+
+Hannah: Before the right to silence: a prepared statement gives an alibi, and at trial the defendant adds a new explanation. Is that explanation protected?
+Will (scenario pause): <think>
+Will: It is not, because that fact was not in the statement. The tempting answer is that any statement blocks every inference.
+Hannah: Yes: a fact left out can still found an inference.
+Will: Now the right to silence. Under section 34, a court or jury may draw a proper inference where the defendant, when questioned under caution before charge, or on being charged or officially informed that he might be prosecuted, failed to mention a fact later relied on in his defence which in the circumstances he could reasonably have been expected to mention.
+Hannah: What counts as relying on a fact?
+Will: He or a defence witness gives evidence of it, or defence counsel puts a specific positive case to a prosecution witness. A bare denial, or simply putting the prosecution to proof, is not relying on a fact, so no inference arises.
+Hannah: Does legal advice to stay silent prevent the inference?
+Will: Not of itself: the jury decides whether he genuinely and reasonably relied on the advice, and if he gives the reasons for it in evidence he may waive privilege over it.
+Hannah: What are the safeguards?
+Will: No inference may be drawn under this section or the two failure-to-account sections if he was at an authorised place of detention and had not been allowed an opportunity to consult a solicitor before being questioned, charged or informed, or before the request to account. And he cannot be convicted solely on an inference from silence.
+Hannah: And what about silence at trial?
+Will: Under section 35, the court or jury may draw a proper inference from his failure to give evidence at trial, or his refusal without good cause to answer any question, once the court has satisfied itself that he is aware of this. The exceptions are where his guilt is not in issue, or his physical or mental condition makes it undesirable for him to give evidence.
+Hannah (summing up): Section 34 needs a fact later relied on that he could reasonably have been expected to mention; silence alone cannot convict.
+Will: Yes: a fact relied on, and no conviction on silence alone.
+
+## Block 6: Sections 36 and 37 and the special warning
+
+Hannah: Before the special warning: a defendant made no comment in interview and at trial only tests the prosecution witnesses. Can a section 34 inference be drawn from his interview silence?
+Will (scenario pause): <think>
+Will: None arises under section 34, because putting the prosecution to proof is not relying on a fact. The tempting answer is that any silence in interview allows an inference.
+Hannah: Yes: no fact relied on, so no section 34 inference.
+Will: Now the special warning and the two failures to account. Under section 36, an inference may be drawn where an arrested person fails or refuses to account for an object, substance or mark which an investigating officer reasonably believes may be attributable to his part in a specified offence. It may be on his person, clothing or footwear; otherwise in his possession; or at the place of arrest.
+Hannah: And what does section 37 cover?
+Will: Failing or refusing to account for his presence at a place, where an investigating officer reasonably believes it may be attributable to his part in the offence. He must have been arrested by a constable who found him there at or about the time of the offence. A mark needs no arrest at or near the scene.
+Hannah: What must the officer do before either inference?
+Will: Tell him of that belief, ask him to account for it, and give a special warning in ordinary language of the effect of failing to. No special warning means no inference.
+Hannah: How do both differ from section 34?
+Will: Neither depends on him later relying on any fact at trial: the inference arises from the failure to account when asked.
+Hannah (summing up): No special warning, no section 36 or 37 inference; presence also needs the arresting constable to have found him there at or about the time of the offence.
+Will: Yes: the warning for both, and place and time for presence only.
+
+## Block 7: Advising whether to answer questions
+
+Hannah: Before advising whether to answer: a suspect arrested at home, days after a burglary, never explains being near the scene. Which inference is ruled out?
+Will (scenario pause): <think>
+Will: The presence inference, because the arresting constable did not find him there at or about the time of the offence. The tempting answer is that nothing can be inferred, but section 34 can still apply on its own conditions.
+Hannah: Yes: presence is out, but section 34 may still bite.
+Will: Now advising whether to answer questions. Silence is commonly advised in five situations. Police disclosure is inadequate. Or the client is unfit: tired, emotional, intoxicated or vulnerable.
+Hannah: And what are the other three?
+Will: The case is complex or the allegation old, the police evidence is weak, or an account would incriminate the client or others.
+Hannah: When is answering advised instead?
+Will: Where the client has a credible defence, or the evidence is strong and admissions in interview would count as mitigation. That mitigation is separate from guilty-plea credit, which depends on the stage of plea.
+Hannah (summing up): Inadequate disclosure or an unfit client points to silence; a credible defence, or strong evidence where admissions would count as mitigation, points to answering.
+Will: Yes: poor disclosure or unfitness points to silence; a credible defence, or strong evidence with admissions as mitigation, points to answering.
+
+## Block 8: When an identification procedure must be held
+
+Hannah: Before the duty to hold an identification procedure: the police disclose almost nothing before interview. Which way does that point?
+Will (scenario pause): <think>
+Will: Towards silence, commonly advised where police disclosure is inadequate. The tempting answer is to answer everything to avoid an inference.
+Hannah: Yes: inadequate disclosure points to silence.
+Will: Now when an identification procedure must be held. One must be held where the suspect disputes being the person seen, and an eye-witness has not yet had the chance to identify them in a formal procedure. That witness must have identified or purported to identify the suspect, express an ability to, or have a reasonable chance of doing so.
+Hannah: Does an identification in the street change that?
+Will: The duty applies even then: a street identification does not make a formal procedure unnecessary if the suspect disputes it. But no procedure is needed where one is impracticable, or would serve no useful purpose in proving or disproving the suspect's involvement.
+Hannah (summing up): A disputed street identification still needs a formal procedure, unless that would be impracticable or serve no useful purpose.
+Will: Yes: a dispute means a procedure, with two exceptions.
+
+## Block 9: Identification procedures
+
+Hannah: Before the identification procedures: a witness picks a man out in the street, and he says she is wrong. Must a formal procedure still be held?
+Will (scenario pause): <think>
+Will: It must, because he disputes it and she has had no formal procedure. The tempting answer is that the street identification makes one unnecessary.
+Hannah: Yes: a disputed street identification does not replace it.
+Will: Now the identification procedures. A video identification must be offered first, with three exceptions. It is not practicable; or a parade is both practicable and more suitable; or the officer in charge considers a group identification more suitable and the identification officer considers it practicable.
+Hannah: What if the suspect refuses the procedure offered?
+Will: They must be asked why, and may get legal advice, and the identification officer may offer a suitable alternative. If the suspect refuses or fails to co-operate, the police may proceed covertly: by covert video, group identification or confrontation. The refusal may be given in evidence. A confrontation is used only if none of the other procedures is practicable.
+Hannah (summing up): Video identification is normally offered first; a suspect who refuses or fails to co-operate may face covert procedures, and the refusal may be given in evidence.
+Will: Yes: video first, and the refusal can go in evidence.
+
+## Block 10: Breach of Code D
+
+Hannah: Before breach of Code D: a suspect who disputes identification refuses the video identification. What may the police do?
+Will (scenario pause): <think>
+Will: Proceed covertly, and the refusal may be given in evidence. The tempting view is that refusing blocks the identification.
+Hannah: Yes: refusal allows a covert procedure and evidence of it.
+Will: Now breach of Code D. A breach, such as failing to hold a procedure when the suspect disputes identification and one is practicable and would serve a useful purpose, does not automatically exclude the identification. The defence applies to exclude it under section 78 of PACE, and if it is admitted the judge should tell the jury about the breach.
+Hannah (summing up): A Code D breach does not exclude the identification automatically: the defence must apply under section 78.
+Will: Yes: exclusion is never automatic; it takes an application.
+
+## Block 11: Charging, starting proceedings and the relevant time
+
+Hannah: Before charging and the relevant time: an investigating officer ran the parade. Is the identification automatically excluded?
+Will (scenario pause): <think>
+Will: It is not: the defence must apply to exclude it under section 78. The tempting answer is that any breach knocks the evidence out.
+Hannah: Yes: a breach grounds an application, not automatic exclusion.
+Will: Now charging, starting proceedings and the relevant time. For a summary-only offence, the limit is 6 months from the offence. The written charge must be issued, or the information laid, within that time, or the offence cannot be tried. There is no general time limit for either-way or indictable-only offences.
+Hannah: And when does the detention clock start?
+Will: At the relevant time, which is normally arrival at the first police station after arrest.
+Hannah (summing up): A summary-only offence cannot be tried unless the information is laid or the written charge issued within 6 months of the offence.
+Will: Yes: six months for summary-only offences only.
+
+## Recap
+
+Hannah: One last question, on time limits: a written charge for common assault, a summary-only offence, is issued 7 months after the assault. Can it be tried?
+Will (scenario pause): <think>
+Will: It cannot, because the written charge was not issued within 6 months of the offence. The tempting answer is that there is no limit, which is true only of either-way and indictable-only offences.
+Hannah: Yes: summary-only and out of time, so no trial.
+Hannah: Now the quick-fire round. What's the summary for the solicitor's role?
+Will (quick-fire pause): <think>
+Will: A solicitor is removed only for conduct that prevents or unreasonably obstructs proper questioning or the recording of answers.
+Hannah: What's the summary for appropriate adults?
+Will (quick-fire pause): <think>
+Will: Rights are given again once the appropriate adult is present; no interview without the adult unless a superintendent authorises an urgent one.
+Hannah: What's the summary for advising before interview?
+Will (quick-fire pause): <think>
+Will: The client decides whether to answer; the solicitor must not mislead the police, but has no duty to disclose what the client said.
+Hannah: What's the summary for the client's options in interview?
+Will (quick-fire pause): <think>
+Will: A prepared statement prevents a section 34 inference only about the facts it contains; selective answering is usually the worst option.
+Hannah: What's the summary for the right to silence?
+Will (quick-fire pause): <think>
+Will: Section 34 needs a fact later relied on that he could reasonably have been expected to mention; silence alone cannot convict.
+Hannah: What's the summary for failing to account and the special warning?
+Will (quick-fire pause): <think>
+Will: No special warning, no section 36 or 37 inference; presence also needs the arresting constable to have found him there at or about the time of the offence.
+Hannah: What's the summary for advising whether to answer questions?
+Will (quick-fire pause): <think>
+Will: Inadequate disclosure or an unfit client points to silence; a credible defence, or strong evidence where admissions would count as mitigation, points to answering.
+Hannah: What's the summary for when an identification procedure must be held?
+Will (quick-fire pause): <think>
+Will: A disputed street identification still needs a formal procedure, unless that would be impracticable or serve no useful purpose.
+Hannah: What's the summary for the identification procedures?
+Will (quick-fire pause): <think>
+Will: Video identification is normally offered first; a suspect who refuses or fails to co-operate may face covert procedures, and the refusal may be given in evidence.
+Hannah: What's the summary for breach of Code D?
+Will (quick-fire pause): <think>
+Will: A Code D breach does not exclude the identification automatically: the defence must apply under section 78.
+Hannah: What's the summary for charging and time limits?
+Will (quick-fire pause): <think>
+Will: A summary-only offence cannot be tried unless the information is laid or the written charge issued within 6 months of the offence.
+Hannah: And in one sentence, what decides most of the questions in this whole workshop?
+Will: Whether to answer is the client's decision; an inference from silence needs each of its conditions met and cannot convict alone; a breach of Code D does not automatically exclude the identification.

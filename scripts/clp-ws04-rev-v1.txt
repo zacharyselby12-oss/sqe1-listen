@@ -1,0 +1,136 @@
+---
+id: clp-ws04-rev-v1
+unit: u-bpp-CLP-04
+guide_hash: 3d44d03b91
+made: 2026-11-20T08:44:21+00:00
+kind: revision
+part: 1 of 2
+blocks: 1-5
+title: CLP WS04 (part 1 of 2) · Revision · 17 min
+map:
+- Pre-trial matters in the magistrates' court
+- Sending to the Crown Court and the Plea and Trial Preparation Hearing
+- Prosecution disclosure: used and unused material
+- Defence disclosure: defence statement, witness notice and failures
+- Disclosure: the continuing duty, s.8 applications, prosecution failure and third parties
+recap:
+- A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, unless discharged by sending for trial or by a section forty count on indictment.
+- First indicated at the PTPH, a guilty plea normally earns at most one-quarter; and a Goodyear indication comes only when the defendant seeks one.
+- Unused material is disclosed if it might reasonably be considered capable of assisting the accused's case, or of undermining the prosecution's.
+- A defence statement is compulsory in the Crown Court, within 28 days of initial disclosure, and voluntary before magistrates, within 14 days; the court may extend either on an application made before it expires.
+- Disclosure stays under review until the case ends; a section eight order needs a defence statement first; prosecution failure has no automatic sanction.
+summary: Disclosure runs in order: the prosecution discloses unused material that might reasonably be considered capable of undermining its case or assisting the accused's, the defence statement follows, and only a served defence statement opens a section eight application.
+invented:
+- Priya
+- Dev
+- Marta
+- Omar
+- Chloe
+- Idris
+- a week later
+- camera footage
+guide_only: []
+---
+## Map
+Will: This is part one of two on the road from plea to trial; part two covers evidence. The big question here: what happens at the pre-trial hearings, and who must disclose what, and when? Five areas under pre-trial hearings and disclosure. First pre-trial matters in the magistrates' court, then the Plea and Trial Preparation Hearing in the Crown Court. Then three on disclosure: the prosecution's, the defence's, and the continuing duty with its remedies.
+Hannah: First, a warm-up from last time. On an either-way offence, Priya indicates a guilty plea at plea before venue. Can she still elect trial by jury?
+Will (scenario pause): <think>
+Will: She can't. Once she indicates guilty, the magistrates convict her, with no allocation and no right to elect. They sentence within their powers, or commit her to the Crown Court for sentence where they consider their powers inadequate. The tempting answer is that an either-way offence always carries the right to elect.
+Hannah: Yes: a guilty indication means conviction, with no allocation and no election.
+## Block 1: Pre-trial matters in the magistrates' court
+Will: So, pre-trial matters in the magistrates' court. When a defendant pleads not guilty there, the court gives case management directions at that hearing and fixes the trial date. It uses the Preparation for Effective Trial form completed by the parties. The aim is an effective trial at the next hearing, without further pre-trial hearings.
+Hannah: What do the standard directions usually require?
+Will: Three things. The prosecution serves any outstanding evidence and initial disclosure of unused material. Any defence statement, which is voluntary in this court, and the defence witness notice then follow. That's within 14 days. And applications such as hearsay, bad character and special measures come by set dates.
+Hannah: And does a pre-trial ruling by the magistrates bind?
+Will: It does, and questions turn on this. A ruling on admissibility or another point of law remains binding until the case is disposed of. It is discharged if the defendant is sent to the Crown Court for trial, or a count for the offence is included in an indictment under section forty of the Criminal Justice Act.
+Hannah: When can the court discharge or vary it?
+Will: Of its own motion or on a party's application, on three conditions. One: an unrepresented defendant has been asked whether he wants legal aid, with arrangements made where he does. Two: the parties have had an opportunity to be heard. Three: it is in the interests of justice. And a party's application needs a material change of circumstances, so merely disliking the ruling is not enough.
+Hannah (summing up): A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, unless discharged by sending for trial or by a section forty count on indictment.
+Will: Yes: it binds until disposal, and either of those two events discharges it.
+## Block 2: Sending to the Crown Court and the Plea and Trial Preparation Hearing
+Hannah: Before the Crown Court, a question on magistrates' rulings. Dev's interview is ruled admissible. A week later, with nothing new, his solicitor applies to vary the ruling. Does that succeed?
+Will (scenario pause): <think>
+Will: It fails: a party's application needs a material change of circumstances. The tempting answer is that the interests of justice are enough, but that's only one condition.
+Hannah: Yes: nothing has changed, so the ruling stands.
+Will: Now sending to the Crown Court and the Plea and Trial Preparation Hearing, the PTPH. After sending, it's normally the first Crown Court hearing. It's usually within about 28 days of sending. The parties complete the PTPH form online beforehand. There the defendant is arraigned, unless there is good reason not to: the indictment is put and they plead to each count. On a guilty plea the judge sentences, or adjourns for a pre-sentence report. On a not guilty plea the judge fixes the trial date and sets a timetable for the case.
+Hannah: Can the defendant offer a plea to something less?
+Will: Yes: to a lesser offence, or to some counts only. A guilty plea to a lesser offence stands only if the prosecutor and the court accept it; otherwise it's treated as a not guilty plea. Once accepted, the remaining counts are left on the file or not guilty verdicts are entered. And the judge may indicate disagreement and invite the prosecution to reconsider.
+Hannah: How much credit does a guilty plea at the PTPH earn?
+Will: This decides questions. Take a defendant who pleads guilty at the PTPH, having not indicated a guilty plea at the first stage in the magistrates' court. They normally receive a maximum reduction of one-quarter. Full one-third credit requires an indication at that first stage. So the first Crown Court hearing is not the first stage.
+Hannah: And what is a Goodyear indication?
+Will: An advance indication of sentence from the judge, normally confined to the maximum sentence if the defendant pleads guilty at the stage it is sought. It's normally sought at the PTPH, but may be sought later. The judge must not give one unless the defendant has sought it. Even then the judge has an unfettered discretion to refuse, or may defer it, for example until a pre-sentence report is available.
+Hannah: How is it heard, and does it bind?
+Will: Normally in open court, with both sides represented and the defendant present. Where appropriate there must be an agreed written basis of plea. Once given, it binds the judge and any other judge dealing with the case, unless the defendant does not plead guilty after a reasonable opportunity to consider it. The Attorney General may still refer an unduly lenient sentence, where that power arises.
+Hannah: What must the defence advocate do before asking for one?
+Will: The advocate must not seek an indication without written authority, signed by the defendant, that they wish to seek one. The advocate is also personally responsible for ensuring the client fully appreciates four things. One: they should not plead guilty unless they are guilty. Two: any indication remains subject to the Attorney General's entitlement, where it arises, to refer an unduly lenient sentence.
+Hannah: And what are the last two?
+Will: Three: the indication reflects the situation when it is given, and ceases to have effect if a guilty plea is not tendered in the light of it. Four: it relates only to the matters about which it is sought. So steps that follow automatically, such as confiscation proceedings, still follow.
+Hannah: Finally, what timetable does the PTPH set?
+Will: Four stages. The prosecution serves its main case and initial disclosure. Then the defence statement and defence witness notice, within 28 days of initial disclosure. Then further prosecution disclosure. Then any defence section eight disclosure application.
+Hannah (summing up): First indicated at the PTPH, a guilty plea normally earns at most one-quarter; and a Goodyear indication comes only when the defendant seeks one.
+Will: Yes: one-quarter without an earlier indication, and the judge never volunteers one.
+## Block 3: Prosecution disclosure: used and unused material
+Hannah: Before prosecution disclosure, a question on plea credit. Marta gives no indication in the magistrates' court, then pleads guilty at the PTPH. What's her maximum credit, normally?
+Will (scenario pause): <think>
+Will: One-quarter. The tempting answer is one-third, as it's her first Crown Court hearing, but one-third requires an indication at the first stage in the magistrates' court.
+Hannah: Yes: without a first-stage indication, one-quarter is normally the ceiling.
+Will: Now prosecution disclosure, which splits into used and unused material. Used material is the evidence the prosecution will rely on, and it must be served. For unused material, the investigator must record and retain relevant material. The disclosure officer lists non-sensitive unused material on a schedule given to the defence. Sensitive material goes on a separate schedule not given to the defence. Material is withheld on public interest immunity grounds only with the court's approval, and if fairness requires disclosure the prosecution must disclose or abandon the case.
+Hannah: And what's the test for initial disclosure?
+Will: The deciding rule. The prosecutor must disclose any prosecution material not previously disclosed which might reasonably be considered capable of undermining the prosecution case against the accused, or of assisting the case for the accused. Otherwise the prosecutor gives a written statement that there is none. So it asks what the material might do for the defence, not whether the prosecution wants to use it.
+Hannah: When does that statutory duty start?
+Will: In the magistrates' court, when the defendant pleads not guilty; in the Crown Court, when the case is sent. Before then the prosecution has a common law duty to disclose material that would help the defence at an early stage. An example is a complainant's previous convictions relevant to bail or abuse of process.
+Hannah (summing up): Unused material is disclosed if it might reasonably be considered capable of assisting the accused's case, or of undermining the prosecution's.
+Will: Right: that's the test, with a written statement when nothing meets it.
+## Block 4: Defence disclosure: defence statement, witness notice and failures
+Hannah: Before defence disclosure, a question on the prosecution's duty. Omar hasn't yet entered a plea in the magistrates' court. The prosecution holds the complainant's previous convictions, which matter for his bail application. Must it disclose them yet?
+Will (scenario pause): <think>
+Will: It must, under the common law duty covering material that would help the defence at an early stage. The tempting answer is not yet, because the statutory duty there starts only on a not guilty plea.
+Hannah: Yes: before the statutory duty arises, the common law duty reaches early material like that.
+Will: Now defence disclosure: the defence statement, the witness notice and failures. A defence statement is compulsory in the Crown Court and voluntary in the magistrates' court. In the Crown Court it must be served within 28 days of the prosecution's initial disclosure. In the magistrates' court, where one is given, the limit is 14 days. The court may extend the period on an application made before it expires.
+Hannah: What must the statement set out?
+Will: Five things, in two groups. Three are about the case itself. One: the nature of the defence, including any particular defences relied on. Two: the matters of fact on which the accused takes issue with the prosecution, and why. Three: particulars of the matters of fact on which they intend to rely.
+Hannah: And what are the other two?
+Will: Four: any point of law, including admissibility or abuse of process, and any authority relied on. Five: for an alibi, the name, address and date of birth of any alibi witness, or information to help find them. And a statement given by the solicitor is deemed given with the client's authority unless the contrary is proved, so the client should check and approve it.
+Hannah: Is there a separate duty about defence witnesses?
+Will: Yes, in both courts. The defence must also serve a defence witness notice, within the same time limits. It names each witness the defence intends to call, other than the defendant, with their address and date of birth.
+Hannah: And what follows a failure?
+Will: There are five failures. Three concern the statement: failing to serve a compulsory one, serving late, or setting out inconsistent defences. Two concern the trial: relying on a defence or fact not mentioned, or calling an alibi witness or other witness not notified. Then the court or any other party may comment, with leave in some cases. The court or jury may draw such inferences as appear proper, but cannot convict solely on that inference.
+Hannah: When does another party need the court's leave to comment?
+Will: In two situations. One: the matter not mentioned in the statement is a point of law, including admissibility or abuse of process, or an authority. Two: the witness notice was late, or did not include, or adequately identify, a witness the defendant calls.
+Hannah (summing up): A defence statement is compulsory in the Crown Court, within 28 days of initial disclosure, and voluntary before magistrates, within 14 days; the court may extend either on an application made before it expires.
+Will: Yes: and the extension must be sought before the period runs out.
+## Block 5: Disclosure: the continuing duty, s.8 applications, prosecution failure and third parties
+Hannah: Before the continuing duty of disclosure, a question on defence failures. At her Crown Court trial, Chloe relies on an alibi missing from her defence statement. Can the jury convict on that omission alone?
+Will (scenario pause): <think>
+Will: It can't. The jury may draw such inferences as appear proper, but no one is convicted solely on an inference. The tempting answer is that the omission proves the case.
+Hannah: Yes: an inference can count against her, never as the sole basis.
+Will: Now the continuing duty of disclosure, and the remedies. The prosecutor's duty is continuing: they must keep under review whether there is material meeting the test until the case ends, especially after receiving a defence statement.
+Hannah: And what if the defence thinks something is still held back?
+Will: Then a section eight application, and its gateway decides questions. Only after serving a defence statement may the defence apply to the court for an order for disclosure. It must have reasonable cause to believe there is prosecution material which should have been disclosed but has not been. So even where the statement is voluntary, this route needs one.
+Hannah: Does a prosecution failure to disclose end the case?
+Will: Not automatically: there is no automatic sanction. The defence has three options: apply for disclosure under section eight, after serving a defence statement; ask for an adjournment; or ask for evidence to be excluded under section seventy-eight of PACE. In a serious case the proceedings may be stayed as an abuse of process. A conviction may also be quashed on appeal as unsafe.
+Hannah: What about material held by a third party, such as a hospital or a bank?
+Will: Third parties have no duty under the CPIA to reveal or retain material. But the investigator's duty to pursue all reasonable lines of enquiry may extend to it. That needs some reason to believe the third party holds relevant material, so not speculative enquiries. If access is refused, the prosecutor should consider applying for a witness summons to produce it.
+Hannah (summing up): Disclosure stays under review until the case ends; a section eight order needs a defence statement first; prosecution failure has no automatic sanction.
+Will: That's it: the review never stops, and the statement is the gateway.
+## Recap
+Hannah: A last question, mixing defence and prosecution disclosure. In the magistrates' court, Idris serves no defence statement, then applies for a section eight order for camera footage he believes the police hold. Will the court entertain it?
+Will (scenario pause): <think>
+Will: It won't: that application comes only after serving a defence statement. The tempting answer is that he needn't serve one, because it's voluntary there, but it's still the gateway.
+Hannah: Yes: no defence statement, no section eight application. Now the quick-fire round. What's the summary for pre-trial matters in the magistrates' court?
+Will (quick-fire pause): <think>
+Will: A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, unless discharged by sending for trial or by a section forty count on indictment.
+Hannah: What's the summary for the Plea and Trial Preparation Hearing?
+Will (quick-fire pause): <think>
+Will: First indicated at the PTPH, a guilty plea normally earns at most one-quarter; and a Goodyear indication comes only when the defendant seeks one.
+Hannah: What's the summary for prosecution disclosure?
+Will (quick-fire pause): <think>
+Will: Unused material is disclosed if it might reasonably be considered capable of assisting the accused's case, or of undermining the prosecution's.
+Hannah: What's the summary for defence disclosure?
+Will (quick-fire pause): <think>
+Will: A defence statement is compulsory in the Crown Court, within 28 days of initial disclosure, and voluntary before magistrates, within 14 days; the court may extend either on an application made before it expires.
+Hannah: What's the summary for the continuing duty and prosecution failures?
+Will (quick-fire pause): <think>
+Will: Disclosure stays under review until the case ends; a section eight order needs a defence statement first; prosecution failure has no automatic sanction.
+Hannah: And what's this whole part in one sentence?
+Will: Disclosure runs in order: the prosecution discloses unused material that might reasonably be considered capable of undermining its case or assisting the accused's, the defence statement follows, and only a served defence statement opens a section eight application.

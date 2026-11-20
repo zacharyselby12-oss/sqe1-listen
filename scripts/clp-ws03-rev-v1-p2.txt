@@ -1,0 +1,155 @@
+---
+id: clp-ws03-rev-v1-p2
+unit: u-bpp-CLP-03
+guide_hash: 9be8627d67
+made: 2026-11-20T08:44:21+00:00
+kind: revision
+part: 2 of 2
+blocks: 12-17
+title: CLP WS03 (part 2 of 2) · Revision · 17 min
+map:
+- Right to bail, exceptions and factors
+- Bail conditions, sureties, security and variation
+- Duty to surrender, breach of bail and failure to surrender
+- Bail applications and appeals
+- Custody time limits and remands
+- Custody for offenders aged 18 to 20
+recap:
+- Start from the right to bail: a ground is a reason bail need not be granted, and a factor only helps decide whether a ground applies.
+- A condition must be necessary for a statutory purpose; a surety undertakes to pay if the defendant fails to surrender, while a security is given before release.
+- Failing to surrender without reasonable cause is an offence; breaking a bail condition is not itself an offence, but it can lead to arrest without warrant.
+- At the first hearing after a refusal any argument may be used again; at later hearings the court need not hear arguments it has heard before.
+- When a custody time limit expires without extension, bail must be granted; before conviction, a custody remand is normally for at most eight clear days at a time.
+- For an offender aged eighteen to twenty at conviction, custody means detention in a young offender institution; imprisonment applies only from twenty-one.
+summary: Start from the right to bail and ask which ground displaces it; conditions must be necessary for a statutory purpose, breaking one is not itself an offence, and a custody time limit that expires without extension means bail.
+invented:
+- sixty days
+- three hours
+guide_only:
+- P:CP-7.1-03 (the other exceptions to bail for indictable and either-way offences)
+- P:CP-7.1-04 (the full list of factors, including pregnancy, primary carers and domestic abuse victims)
+- P:CP-7.1-09 (reasons for bail decisions and the note of reasons)
+- P:NEW-CP-1-3-06 (the prosecution's application to reconsider bail on new information)
+- P:CP-7.2-02 (common conditions matched to objections)
+- P:CP-7.2-04 (forfeiture of a surety's recognisance and release from the obligation)
+- P:CP-7.2-06 (applications to vary conditions, and the appeal after one)
+- P:CP-7.6-06 (warrants for arrest, and bail after a failure to surrender)
+- P:CP-7.5-03 (the defence's appeal against particular bail conditions)
+---
+## Map
+Will: This is part two of two. Part one covered classification, funding and first hearings. Now bail, and the big question: when can a court keep a defendant in custody before trial, and for how long? There are six areas.
+Hannah: And what are the six, in order?
+Will: Five on bail. First the right to bail, conditions, and failure to surrender; then applications and appeals, and custody time limits. Last, one beyond the workshop's sessions: custody for offenders aged eighteen to twenty.
+Hannah: So where does bail start?
+## Block 12: Right to bail, exceptions and factors
+Will: With the right to bail: when can a court refuse it? A defendant has a general right to bail when appearing before a court before conviction, and after conviction when the case is adjourned for reports before sentence. It doesn't apply on committal to the Crown Court for sentence, or on appeal against conviction. And once he's remanded in custody, the court must consider at each later hearing whether he ought to be granted bail.
+Hannah: Who can grant bail on a murder charge?
+Will: Only a Crown Court judge, and only if the court is of the opinion that there's no significant risk of him committing an offence likely to cause physical or mental injury to another while on bail. The magistrates commit him in custody if necessary.
+Hannah: And how quickly must the judge decide?
+Will: As soon as reasonably practicable, and within forty-eight hours beginning with the day after the magistrates' court appearance. That excludes weekends, Christmas Day, Good Friday and bank holidays.
+Hannah: What about serious offences after a previous conviction?
+Will: Four groups of offence are listed: murder and attempted murder; manslaughter; rape and attempted rape; and other specified serious sexual offences. Someone charged with one, who has a previous conviction for any of them, may be granted bail only if the court is satisfied there are exceptional circumstances that justify it. A previous manslaughter conviction counts only where it led to custody. So the two offences needn't match: a rape charge after an attempted murder conviction is caught.
+Hannah: For other imprisonable indictable or either-way offences, when need bail not be granted?
+Will: Where the court is satisfied there are substantial grounds for believing he would do one of three things if released, with or without conditions: fail to surrender, commit an offence on bail, or interfere with witnesses or otherwise obstruct the course of justice.
+Hannah: And do those grounds still work where prison isn't a real prospect?
+Will: No. Where he's eighteen or over and there's no real prospect of a custodial sentence, other than a suspended sentence, in the proceedings, those three grounds can't be relied on. Nor can the exception for being on bail at the time of the alleged offence, or the one for a defendant bailed in these proceedings and then arrested under the Bail Act. But the domestic violence exception still applies: substantial grounds for believing he'd commit an offence causing physical or mental injury, or fear of it, to an associated person.
+Hannah: How do factors differ from those grounds?
+Will: A ground, such as substantial grounds for believing he'd fail to surrender, is a reason why bail need not be granted. A factor, such as community ties, his bail record or the strength of the evidence, is what the court considers in deciding whether such a ground applies.
+Hannah (summing up): Start from the right to bail: a ground is a reason bail need not be granted, and a factor only helps decide whether a ground applies.
+Will: Yes: grounds are the reasons, and factors only test them.
+## Block 13: Bail conditions, sureties, security and variation
+Hannah: Before bail conditions, a question on the grounds. An adult faces no real prospect of custody other than a suspended sentence, and the only objection is that he'd fail to surrender: can bail be refused?
+Will (scenario pause): <think>
+Will: No: that ground can't be relied on for an adult with no real prospect of a custodial sentence other than a suspended one. The tempting answer is that a risk of absconding always justifies refusal.
+Hannah: Yes: for an adult with no real prospect of a custodial sentence other than a suspended one, that ground is removed.
+Will: Now bail conditions: when can a court attach them? Only where necessary for a statutory purpose. Those are to ensure he surrenders, doesn't commit an offence on bail, and doesn't interfere with witnesses or obstruct justice; for his own protection; or to make him available for reports or to see his lawyer.
+Hannah: What exactly is a surety?
+Will: A person who undertakes to pay a sum fixed by the court if the defendant fails to surrender. No money is paid at the time. The court considers the surety's financial resources, character and previous convictions, and relationship or proximity to the defendant.
+Hannah: And how is a security different?
+Will: A security is money or other valuables given before release, by the defendant or someone on his behalf. If he fails to surrender without reasonable cause, the court may order it forfeited, in full or in part. So ask whether anything is handed over before release.
+Hannah (summing up): A condition must be necessary for a statutory purpose; a surety undertakes to pay if the defendant fails to surrender, while a security is given before release.
+Will: Yes: a promise to pay only if he fails to surrender, against valuables handed over first.
+## Block 14: Duty to surrender, breach of bail and failure to surrender
+Hannah: Before failure to surrender, a question on sureties. A defendant's aunt offers to stand surety and names the amount herself: who fixes the sum?
+Will (scenario pause): <think>
+Will: The court fixes it, and she pays nothing at the time. The tempting answer is that the person offering decides the value.
+Hannah: Yes: the sum is the court's to fix.
+Will: Now failure to surrender: what happens when a defendant doesn't attend? Someone released on bail who fails without reasonable cause to surrender to custody commits an offence, and he must prove reasonable cause on the balance of probabilities. Even with reasonable cause, he commits an offence if he fails to surrender as soon after the appointed time as is reasonably practicable.
+Hannah: And what's the maximum penalty?
+Will: For police or magistrates' bail it's a summary offence, with a maximum of three months' imprisonment, a fine, or both. But the magistrates may commit it to the Crown Court for sentence where their powers are inadequate, and there the maximum is twelve months.
+Hannah: And for failing to surrender to Crown Court bail?
+Will: The Crown Court deals with it as if it were criminal contempt: a maximum of twelve months, a fine, or both. Sentences are normally consecutive to the sentence for the main offence.
+Hannah: Is breaking a bail condition an offence too?
+Will: No: breaking a condition, like a curfew or residence, is not itself an offence. But a constable may arrest without warrant in three cases. One, reasonable grounds for believing he's not likely to surrender. Two, reasonable grounds for believing he's likely to break a condition, or for suspecting he has broken one. Three, a surety gives written notice that he's unlikely to surrender and that the surety wishes to be relieved of the obligation.
+Hannah: What happens after that arrest?
+Will: He must be brought before a magistrate as soon as practicable, and in any event within twenty-four hours, not counting Christmas Day, Good Friday or any Sunday. If he's arrested within twenty-four hours of the surrender time, it's before the court where he was due to surrender.
+Hannah: And what does the magistrate decide?
+Will: Whether he's unlikely to surrender, or a condition has been or is likely to be broken. If so, the magistrate may remand him in custody or grant bail on the same or new conditions. If not, he must be released on the same conditions.
+Hannah (summing up): Failing to surrender without reasonable cause is an offence; breaking a bail condition is not itself an offence, but it can lead to arrest without warrant.
+Will: Yes: not attending without reasonable cause is the offence, and a broken condition risks arrest.
+## Block 15: Bail applications and appeals
+Hannah: Before bail applications, a question mixing sureties and breach. A surety tells the police in writing that the defendant is unlikely to surrender, and that she wants out: can he be arrested?
+Will (scenario pause): <think>
+Will: Yes: on that written notice a constable may arrest him without warrant, though he's committed no offence yet. The tempting answer is that the police must wait until he fails to attend.
+Hannah: Right: the surety's written notice is enough for the arrest.
+Will: Now bail applications and appeals: what can each side do? At the hearing the prosecution goes first, stating its objections and the grounds and facts relied on. The defence then applies, addressing each objection and offering conditions, and the court decides and gives reasons.
+Hannah: How often can the defence run the same arguments?
+Will: At the first hearing after the one where bail was refused, he may use any argument of fact or law, whether or not used before. So in practice he has two full applications. At later hearings the court need not hear arguments it has heard previously, but must still consider bail and hear any new argument. So a further application should raise a change in circumstances or new considerations, and the defence should meet every objection at the first full hearing.
+Hannah: What is the certificate of full argument?
+Will: When magistrates remand in custody after hearing full argument, they must issue one where they hadn't heard full argument before, or are satisfied of a change in circumstances or new considerations, which it states. The defendant gets a copy, and the Crown Court may grant bail after a magistrates' refusal only if full argument has been certified.
+Hannah: And how does the defence appeal?
+Will: A defendant refused bail by the magistrates after full argument may appeal to the Crown Court, serving notice on the court and the prosecution with the certificate. The Crown Court hears it afresh as soon as practicable, and no later than the business day after the application is served, unless it directs otherwise.
+Hannah: When can the prosecution appeal a grant of bail by the magistrates?
+Will: Only the CPS or another prescribed prosecutor may, only for an offence punishable with imprisonment, and only if it opposed bail before it was granted. It must give oral notice at the end of the hearing, before release.
+Hannah: And what about written notice?
+Will: It must be served within two hours of the end of the proceedings, or the appeal is treated as disposed of and he's released. Meanwhile he stays in custody, and the Crown Court must hear the appeal within forty-eight hours of the oral notice, excluding weekends and public holidays. That hearing is a rehearing: the judge may remand him in custody or grant bail, with or without conditions.
+Hannah (summing up): At the first hearing after a refusal any argument may be used again; at later hearings the court need not hear arguments it has heard before.
+Will: Yes: two full applications, then only something new must be heard.
+## Block 16: Custody time limits and remands
+Hannah: Before custody time limits, a question on appeals. The prosecution gives oral notice of appeal against bail, but serves written notice three hours after the proceedings end: what happens?
+Will (scenario pause): <think>
+Will: The appeal is treated as disposed of and he's released, because written notice was due within two hours. The tempting answer is that oral notice alone keeps the appeal alive.
+Hannah: Yes: written notice within two hours, or the appeal is disposed of.
+Will: Now custody time limits: how long can he be held before trial? For a summary-only offence, fifty-six days from first appearance to the start of summary trial.
+Hannah: And for an either-way offence?
+Will: Seventy days, or fifty-six days if the court decides on summary trial before day fifty-six.
+Hannah: What about a case sent to the Crown Court?
+Will: 182 days from the date of sending to the start of the Crown Court trial, less any time already spent in custody in the magistrates' court. When any limit expires without extension, he must be granted bail.
+Hannah: And how long is each remand in custody before conviction?
+Will: Normally no more than eight clear days at a time. A further remand of up to twenty-eight clear days is possible, with three requirements: the court has previously remanded him in custody for the same offence, he's before the court, and it has set a date for the next stage. It ends on that date or when those clear days run out, whichever is sooner.
+Hannah: And after conviction, on a remand for reports?
+Will: No more than three weeks at a time in custody, or four weeks on bail.
+Hannah (summing up): When a custody time limit expires without extension, bail must be granted; before conviction, a custody remand is normally for at most eight clear days at a time.
+Will: Yes: an expired limit means bail, and remands stay short.
+## Block 17: Custody for offenders aged 18 to 20
+Hannah: Before custody for young adult offenders, a question on time limits. An either-way defendant has spent sixty days in custody since first appearance, with no decision on summary trial: has his limit expired?
+Will (scenario pause): <think>
+Will: No: the either-way limit is seventy days, and fifty-six applies only if summary trial is decided before day fifty-six. The tempting answer is fifty-six days for everything in the magistrates' court.
+Hannah: Yes: seventy days for either-way, so he's still inside it.
+Will: Now custody for offenders aged eighteen to twenty: what sentence do they get? Someone of that age at conviction gets detention in a young offender institution as the custodial sentence, and imprisonment applies only from twenty-one. The same threshold, term, suspension and presumption-of-suspension rules apply to both.
+Hannah (summing up): For an offender aged eighteen to twenty at conviction, custody means detention in a young offender institution; imprisonment applies only from twenty-one.
+Will: Yes: age at conviction decides, and twenty-one is the line.
+## Recap
+Hannah: A last question, on those young adult offenders. A twenty-year-old is convicted and the court passes a custodial sentence: is that imprisonment?
+Will (scenario pause): <think>
+Will: No: at twenty at conviction, it's detention in a young offender institution. The tempting answer is imprisonment, but that applies only from twenty-one.
+Hannah: Right: detention, because he's under twenty-one at conviction. Now the quick-fire round. What's the summary for the right to bail?
+Will (quick-fire pause): <think>
+Will: Start from the right to bail: a ground is a reason bail need not be granted, and a factor only helps decide whether a ground applies.
+Hannah: What's the summary for conditions and sureties?
+Will (quick-fire pause): <think>
+Will: A condition must be necessary for a statutory purpose; a surety undertakes to pay if the defendant fails to surrender, while a security is given before release.
+Hannah: What's the summary for failure to surrender?
+Will (quick-fire pause): <think>
+Will: Failing to surrender without reasonable cause is an offence; breaking a bail condition is not itself an offence, but it can lead to arrest without warrant.
+Hannah: What's the summary for bail applications and appeals?
+Will (quick-fire pause): <think>
+Will: At the first hearing after a refusal any argument may be used again; at later hearings the court need not hear arguments it has heard before.
+Hannah: What's the summary for custody time limits and remands?
+Will (quick-fire pause): <think>
+Will: When a custody time limit expires without extension, bail must be granted; before conviction, a custody remand is normally for at most eight clear days at a time.
+Hannah: What's the summary for custody at eighteen to twenty?
+Will (quick-fire pause): <think>
+Will: For an offender aged eighteen to twenty at conviction, custody means detention in a young offender institution; imprisonment applies only from twenty-one.
+Hannah: And this part in one sentence: what decides most of its questions?
+Will: Start from the right to bail and ask which ground displaces it; conditions must be necessary for a statutory purpose, breaking one is not itself an offence, and a custody time limit that expires without extension means bail.

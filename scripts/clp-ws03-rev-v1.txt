@@ -1,0 +1,229 @@
+---
+id: clp-ws03-rev-v1
+unit: u-bpp-CLP-03
+guide_hash: 9be8627d67
+made: 2026-11-20T08:44:21+00:00
+kind: revision
+part: 1 of 2
+blocks: 1-11
+title: CLP WS03 (part 1 of 2) · Revision · 23 min
+map:
+- Classification of offences
+- Magistrates' court sentencing powers
+- Funding: free legal advice at the police station
+- Funding: representation orders, and acting for co-defendants in publicly funded cases
+- Charging decision and the first hearing: timing, venue and attendance
+- Initial details of the prosecution case
+- First hearings by classification: summary-only and indictable-only offences; related summary offences
+- Either-way offences: plea before venue and committal for sentence
+- Either-way offences: allocation and indication of sentence
+- Either-way offences: election and advice on venue
+- Exceptions: low-value shoplifting, low-value criminal damage, fraud and child witness notices
+recap:
+- The class fixes the route to trial; criminal damage other than arson, worth £5,000 or less, is tried as if summary-only, with no election.
+- The magistrates' most is six months for summary offences, or the offence's lower maximum, and twelve months for either-way offences; each also caps the aggregate.
+- Police station advice is free to every arrested detainee, whatever his means: the financial eligibility test doesn't apply.
+- A representation order needs the interests of justice test, automatic in the Crown Court except on appeals to it, and the means test unless passported.
+- The maximum one-third credit normally needs guilt admitted or indicated at the first stage; the solicitor may put the prosecution to proof, but must never mislead the court.
+- Initial details are due no later than the beginning of the day of the first hearing; unserved material means time to consider it.
+- An adult's indictable-only offence is sent forthwith with no plea, with related either-way offences and related summary ones that are imprisonable or carry disqualification from driving.
+- A guilty indication means conviction with no allocation and no right to elect, then sentence or committal for sentence; anything else leads to allocation.
+- Either-way offences should generally be tried summarily, unless the sentence would clearly exceed the magistrates' powers or the case is unusually complex.
+- The client chooses venue, after balanced advice, only where the magistrates accept jurisdiction; summary conviction can still lead to committal for sentence.
+- Low-value shoplifting is summary-only, but an adult may elect Crown Court trial; low-value criminal damage, other than arson, allows no election.
+summary: Classify the offence first, because its class fixes the route to trial and the magistrates' sentencing limit; for an either-way offence, venue is the client's choice only once the magistrates accept jurisdiction, and his solicitor must never mislead the court.
+invented: []
+guide_only:
+- P:CP-8.1-02 (when burglary is indictable-only)
+- P:CP-8.2-04 (the magistrates' court means test: passporting benefits and the income thresholds)
+- P:CP-8.2-02 (the five interests of justice factors)
+- P:CP-8.3-03 (what follows a guilty or not guilty plea to a summary offence)
+- P:CP-8.3-04 (remand on adjournment and the duty to remand; trial in absence after bail)
+- P:NEW-CP-1-3-07 (trial in absence in each court; what the court must tell the defendant)
+- P:CP-8.4-04 (a false name, denied convictions or false evidence: not misleading the court, and ceasing to act)
+- P:CP-8.4-01 (the defence solicitor's preparation before the hearing)
+- P:CP-8.4-06 (the defence's duty to assist case management and not ambush)
+- P:CP-10.2-02 (the order of steps where an adult is sent for an indictable-only offence or under a notice)
+- P:CP-10.2-04 (jointly charged adults and youths: must or may be sent)
+- P:CP-10.1-01 (representations and previous convictions before the allocation decision)
+- P:CP-10.1-03 (the sentencing limits the likely sentence is compared with)
+- P:CP-9.2-03 (the six disadvantages of the Crown Court)
+- P:CP-10.1-07 (what follows consent to summary trial or an election)
+---
+## Map
+Will: This is part one of two, from charge to the trial court: how is the offence triable, and which court deals with it? Eleven areas in three groups: classification and the magistrates' powers, funding, and first hearings. Part two is bail.
+Hannah: First, a warm-up on silence in interview. At trial the defendant simply puts the prosecution to proof: can an inference be drawn from what he didn't mention when questioned?
+Will (scenario pause): <think>
+Will: No inference: that needs a fact relied on in his defence, and a bare denial, or simply putting the prosecution to proof, isn't relying on a fact. The tempting answer is that silence always allows one.
+Hannah: Yes: no fact relied on, so no inference.
+## Block 1: Classification of offences
+Will: Now classification of offences: how is each offence triable? There are three classes. Summary-only offences, like common assault, are tried only in the magistrates' court, so they stay there. Either-way offences, like theft, are tried in either court, so they go to plea before venue and allocation. Indictable-only offences, like robbery, are tried only in the Crown Court, so they're sent straight there.
+Hannah: And how much prison can a summary-only offence carry?
+Will: At most six months' imprisonment, and many carry less or are non-imprisonable.
+Hannah: How does value change criminal damage?
+Will: Criminal damage other than arson is triable either way. The line is £5,000. Where the value involved is that or less, the court must proceed as if it were summary-only: no election, and at most three months' imprisonment, a level four fine or both. Simple arson is the contrast: it's either-way whatever the value.
+Hannah (summing up): The class fixes the route to trial; criminal damage other than arson, worth £5,000 or less, is tried as if summary-only, with no election.
+Will: Yes: class first, then value where there's no fire.
+## Block 2: Magistrates' court sentencing powers
+Hannah: Before the magistrates' sentencing powers, on classification: a shed worth far less than £5,000 is burned down. Is that tried as if summary-only?
+Will (scenario pause): <think>
+Will: No: simple arson is either-way whatever the value, because damage by fire is never treated as summary-only on value. The tempting answer is the low-value rule.
+Hannah: Yes: fire takes it outside the value rule.
+Will: Now the magistrates' sentencing powers: what's the most prison they can impose? For a summary offence, six months or the offence's lower maximum, and consecutive terms for summary offences can't exceed six months in aggregate.
+Hannah: And for either-way offences?
+Will: Twelve months, whether for a single either-way offence or in aggregate for two or more. The shortest term they can impose is five days, and the Crown Court can go up to the statutory maximum for the offence.
+Hannah (summing up): The magistrates' most is six months for summary offences, or the offence's lower maximum, and twelve months for either-way offences; each also caps the aggregate.
+Will: Yes: six for summary, twelve for either-way, alone or in aggregate.
+## Block 3: Funding: free legal advice at the police station
+Hannah: Before free advice at the police station, on those powers: the magistrates sentence three either-way offences together. What's the most prison in aggregate?
+Will (scenario pause): <think>
+Will: Twelve months. The tempting answer is twelve months each, added up, but the aggregate for two or more either-way offences can't exceed that.
+Hannah: Yes: one limit covers them all.
+Will: Now free legal advice at the police station: does a detainee pay? Someone arrested and held in custody is entitled, on request, to consult a solicitor privately at any time: free, independent of the police, and out of the hearing of officers.
+Hannah: And does his income matter there?
+Will: No: initial advice and assistance is free to every arrested detainee regardless of means, because it isn't subject to the financial eligibility test, though the decision has regard to the interests of justice. The duty solicitor or his own solicitor gives it, requested through the Defence Solicitor Call Centre.
+Hannah (summing up): Police station advice is free to every arrested detainee, whatever his means: the financial eligibility test doesn't apply.
+Will: Yes: no means test for police station advice.
+## Block 4: Funding: representation orders, and acting for co-defendants in publicly funded cases
+Hannah: Before representation orders, on police station advice: a wealthy director is arrested and wants a solicitor. Must she pay for the advice?
+Will (scenario pause): <think>
+Will: No: it's free to every arrested detainee regardless of means. The tempting answer is a means test, but that belongs to representation orders.
+Hannah: Yes: no financial eligibility test at the police station.
+Will: Now representation orders: will the client get one? He must pass both the interests of justice test and, unless passported, the means test; passporting covers, for example, under-eighteens and those on a passporting benefit.
+Hannah: How does the means test work in the Crown Court?
+Will: The line is household disposable income of £37,500. Below it he gets a representation order, but may have to pay contributions from income during the case and, if convicted, from capital; they're refunded with interest on acquittal. At that figure or more he's ineligible and must pay privately, with some costs recoverable on acquittal.
+Hannah: And when is the interests of justice test passed automatically?
+Will: In Crown Court proceedings other than appeals to it, so cases sent for trial or committed for sentence pass it. In the magistrates' court, and on appeals to the Crown Court, it must be argued on the facts against the statutory factors.
+Hannah (summing up): A representation order needs the interests of justice test, automatic in the Crown Court except on appeals to it, and the means test unless passported.
+Will: Yes: two tests, and passporting answers only the means test.
+## Block 5: Charging decision and the first hearing: timing, venue and attendance
+Hannah: Before the first hearing, on funding: a client is sent to the Crown Court for trial. Must he still argue the interests of justice test?
+Will (scenario pause): <think>
+Will: No: it's met automatically for Crown Court proceedings other than appeals to it. The tempting answer is that it's always argued, but that's the magistrates' court.
+Hannah: Yes: sent for trial passes that test automatically.
+Will: Now the first hearing: what happens to an adult there? The legal adviser confirms his name, date of birth, address and nationality. The charge is read, and then the class decides: plea for summary-only offences, plea before venue and allocation for either-way, and immediate sending for indictable-only.
+Hannah: And what will the court ask about credit for a guilty plea?
+Will: Whether he's been advised about it. The maximum reduction is one-third, available only if guilt is admitted or indicated at the first stage of the proceedings, usually the first hearing in the magistrates' court.
+Hannah: Is there any way to keep the full third later?
+Will: One exception: where particular circumstances significantly reduced his ability to understand what was alleged, or otherwise made it unreasonable to expect a guilty indication sooner. Needing advice or sight of the evidence to understand whether he's guilty can count; merely delaying to assess the strength of the prosecution evidence doesn't.
+Hannah: Can a solicitor act for a client who admits guilt but pleads not guilty?
+Will: Yes: she may put the prosecution to proof and challenge the evidence. But she mustn't suggest someone else committed the offence, call evidence she knows to be false or assert his innocence, and if he persists in a false defence or false evidence despite advice, she must cease to act.
+Hannah: And must she tell the court why she's stopped acting?
+Will: No: she ceases to act without disclosing the confidential reason, because what he told her stays confidential.
+Hannah: Must she volunteer convictions the prosecution has missed?
+Will: No: they're confidential, so she mustn't reveal them without his consent. But she mustn't mislead the court by acts or omissions, or by allowing him to, so she mustn't say or suggest he's of good character. She must still draw the court's attention to relevant cases and statutory provisions, or procedural irregularities, that she's aware of and that are likely to have a material effect on the outcome.
+Hannah (summing up): The maximum one-third credit normally needs guilt admitted or indicated at the first stage; the solicitor may put the prosecution to proof, but must never mislead the court.
+Will: Yes: early indication for full credit, and proof without misleading.
+## Block 6: Initial details of the prosecution case
+Hannah: Before initial details of the prosecution case, on conduct: the prosecutor misses the client's previous convictions. May his solicitor tell the court he's of good character?
+Will (scenario pause): <think>
+Will: No: she can't reveal the convictions without his consent, but saying or suggesting good character would mislead the court. The tempting answer is that confidentiality lets her say it.
+Hannah: Yes: she keeps the confidence, but never suggests good character.
+Will: Now initial details of the prosecution case: what must the prosecution give, and when? It must serve them on the court, and on the defendant if requested; otherwise it makes them available. The deadline is as soon as practicable, and no later than the beginning of the day of the first hearing.
+Hannah: And what must they contain?
+Will: Where he was in police custody for the offence charged immediately before the first hearing, at least a summary of the circumstances and his criminal record. Otherwise five things: a summary of the circumstances; any account given in interview; any witness statement or exhibit the prosecutor then has available and considers material to plea, allocation or sentence; his criminal record; and any available victim impact statement.
+Hannah: And what if the prosecutor wants to introduce information from a document in those details that was never served or made available?
+Will: The court mustn't allow that unless it first allows the defendant sufficient time to consider it. So the remedy is time, typically an adjournment.
+Hannah (summing up): Initial details are due no later than the beginning of the day of the first hearing; unserved material means time to consider it.
+Will: Yes: that day's start, and time as the remedy.
+## Block 7: First hearings by classification: summary-only and indictable-only offences; related summary offences
+Hannah: Before indictable-only offences, on initial details: he was in police custody for the offence charged immediately before the first hearing. What must the details contain?
+Will (scenario pause): <think>
+Will: At least a summary of the circumstances and his criminal record. The tempting answer is the full list, with interview accounts and statements, but that's for other defendants.
+Hannah: Yes: in a custody case, the summary and the record are the minimum.
+Will: Now indictable-only offences at the first hearing: what happens? An adult must be sent to the Crown Court for trial forthwith. No plea is taken, and the magistrates deal only with bail, legal aid and directions for the Plea and Trial Preparation Hearing. That's normally the first Crown Court hearing, usually within about twenty-eight days of sending.
+Hannah: What goes up with the indictable-only offence?
+Will: When the court sends an adult for an offence, it must also send any related either-way offence, and any related summary offence that's imprisonable or carries disqualification from driving. A related offence charged later may be sent.
+Hannah: And what can the Crown Court do with that summary offence?
+Will: Deal with it only if he's convicted of the indictable offence and pleads guilty to the summary one, and then only as the magistrates could. Otherwise it returns to the magistrates, unless the prosecution offers no evidence and it's dismissed. Certain summary offences can instead be included as a count on the indictment.
+Hannah (summing up): An adult's indictable-only offence is sent forthwith with no plea, with related either-way offences and related summary ones that are imprisonable or carry disqualification from driving.
+Will: Yes: sent at once, and the related offences travel with it.
+## Block 8: Either-way offences: plea before venue and committal for sentence
+Hannah: Before plea before venue, on sending: a related summary offence reaches the Crown Court, but he's acquitted of the indictable offence. Can the Crown Court deal with the summary one?
+Will (scenario pause): <think>
+Will: No: it needs a conviction of the indictable offence and a guilty plea to the summary one. The tempting answer is that sending gives the Crown Court the whole case.
+Hannah: Yes: no conviction on the indictable offence, so no power over the summary one.
+Will: Now plea before venue for either-way offences: what happens when an adult indicates a plea? The charge is read. The court then explains that if he indicates guilty he'll be treated as having pleaded guilty at a summary trial, and may be committed to the Crown Court for sentence.
+Hannah: And what follows a guilty indication?
+Will: The magistrates convict him, and either sentence within their powers or commit him to the Crown Court for sentence where they consider their powers inadequate. There's no allocation and no right to elect. He still gets the maximum one-third credit, even if he's committed for sentence. A not guilty indication, or none, which is treated as not guilty, leads to allocation.
+Hannah (summing up): A guilty indication means conviction with no allocation and no right to elect, then sentence or committal for sentence; anything else leads to allocation.
+Will: Yes: guilty ends the venue question, and anything else opens allocation.
+## Block 9: Either-way offences: allocation and indication of sentence
+Hannah: Before allocation, on plea before venue: he indicates guilty to theft, then says he'd like a jury. Can he elect?
+Will (scenario pause): <think>
+Will: No: a guilty indication means he's convicted, with no allocation and no right to elect. The tempting answer is that every either-way defendant gets the choice.
+Hannah: Yes: once he indicates guilty, there's nothing left to elect.
+Will: Now allocation: how do the magistrates decide where an either-way case is tried? The allocation guideline says either-way offences should generally be tried summarily. There are two ways out: the outcome would clearly be a sentence in excess of the court's powers; or the case involves unusual legal, procedural or factual complexity.
+Hannah: And how do they judge the likely sentence?
+Will: On the facts alleged by the prosecution, taking into account all aspects of the case, including those put forward by the defence and any personal mitigation. They may also take into account the power to commit for sentence after a summary trial.
+Hannah: And what if they choose trial on indictment?
+Will: Where they decide trial on indictment is more suitable, they send him to the Crown Court, and he can't insist on summary trial.
+Hannah: Can he ask about sentence before choosing?
+Will: Once they decide summary trial is more suitable, he may ask whether a custodial or non-custodial sentence would be more likely if he were tried summarily and pleaded guilty. The court may decline.
+Hannah: And what does an indication do?
+Will: If the court indicates and he then says he'd plead guilty, the case proceeds as a summary trial on a guilty plea. Then no court may impose a custodial sentence unless custody was indicated, subject to one statutory qualification. That bar is the only way it binds: otherwise no court is bound, and no appeal lies for inconsistency with it. So without his guilty plea, the indication binds no court.
+Hannah (summing up): Either-way offences should generally be tried summarily, unless the sentence would clearly exceed the magistrates' powers or the case is unusually complex.
+Will: Yes: summary trial is the starting point, bar those two cases.
+## Block 10: Either-way offences: election and advice on venue
+Hannah: Before election, on indications of sentence: the court indicates a non-custodial sentence and he then pleads guilty. Can it send him to prison?
+Will (scenario pause): <think>
+Will: No: after that plea, no court may impose custody unless custody was indicated, subject to the statutory qualification. The tempting answer is that an indication never binds.
+Hannah: Yes: after his guilty plea, the indication bars custody.
+Will: Now election and advice on venue: who chooses? Where the court decides summary trial is more suitable, it must explain that he may consent to summary trial or elect trial by jury, and that if tried summarily and convicted he may be committed to the Crown Court for sentence.
+Hannah: Does he get that choice in every case?
+Will: No: the right to elect exists only where the magistrates have decided the case is suitable for summary trial. Where they decline jurisdiction, it's sent to the Crown Court whatever he prefers. The choice is the client's, after balanced advice, and the solicitor mustn't make it for him.
+Hannah: What favours the Crown Court?
+Will: Three things: historically higher acquittal rates before a jury; disputed admissibility decided by the judge in the jury's absence, whereas in the magistrates' court the same bench that rules evidence inadmissible decides guilt; and more time to prepare, with fuller pre-trial procedure.
+Hannah (summing up): The client chooses venue, after balanced advice, only where the magistrates accept jurisdiction; summary conviction can still lead to committal for sentence.
+Will: Yes: his choice, but only where the magistrates keep the case.
+## Block 11: Exceptions: low-value shoplifting, low-value criminal damage, fraud and child witness notices
+Hannah: Before the exceptions, on election: the magistrates decide trial on indictment is more suitable, but the client wants a summary trial. Can he insist?
+Will (scenario pause): <think>
+Will: No: where they decline jurisdiction, it's sent to the Crown Court whatever he prefers. The tempting answer is that venue is always the client's choice.
+Hannah: Yes: his choice only begins once they accept jurisdiction.
+Will: Now the exceptions, starting with low-value shoplifting. Shoplifting of goods worth £200 or less is summary-only, with a maximum of six months. But a defendant aged eighteen or over may elect Crown Court trial, and the court must give him that opportunity before any plea is taken.
+Hannah: And what happens when he elects?
+Will: The court sends the case straight to the Crown Court, with no plea before venue and no allocation hearing. Low-value criminal damage is the contrast: there the court proceeds as if it were summary-only, so there's no election at all.
+Hannah: And what do the fraud and child witness notices do?
+Will: Where a designated authority serves a notice in a serious or complex fraud case, or in certain cases involving child witnesses, the offence is sent to the Crown Court without allocation.
+Hannah (summing up): Low-value shoplifting is summary-only, but an adult may elect Crown Court trial; low-value criminal damage, other than arson, allows no election.
+Will: Yes: shoplifting keeps the election, and low-value damage has none.
+## Recap
+Hannah: A last question, mixing classification and those exceptions. An adult is charged with stealing goods worth exactly £200 from a shop: can he choose a jury?
+Will (scenario pause): <think>
+Will: Yes: £200 or less is low-value shoplifting, which is summary-only, but an adult may elect Crown Court trial. The tempting answer is that a summary-only offence never reaches a jury.
+Hannah: Right: summary-only, yet the election survives. Now the quick-fire round. What's the summary for classification?
+Will (quick-fire pause): <think>
+Will: The class fixes the route to trial; criminal damage other than arson, worth £5,000 or less, is tried as if summary-only, with no election.
+Hannah: What's the summary for the magistrates' sentencing powers?
+Will (quick-fire pause): <think>
+Will: The magistrates' most is six months for summary offences, or the offence's lower maximum, and twelve months for either-way offences; each also caps the aggregate.
+Hannah: What's the summary for police station advice?
+Will (quick-fire pause): <think>
+Will: Police station advice is free to every arrested detainee, whatever his means: the financial eligibility test doesn't apply.
+Hannah: What's the summary for representation orders?
+Will (quick-fire pause): <think>
+Will: A representation order needs the interests of justice test, automatic in the Crown Court except on appeals to it, and the means test unless passported.
+Hannah: What's the summary for the first hearing?
+Will (quick-fire pause): <think>
+Will: The maximum one-third credit normally needs guilt admitted or indicated at the first stage; the solicitor may put the prosecution to proof, but must never mislead the court.
+Hannah: What's the summary for initial details?
+Will (quick-fire pause): <think>
+Will: Initial details are due no later than the beginning of the day of the first hearing; unserved material means time to consider it.
+Hannah: What's the summary for indictable-only offences?
+Will (quick-fire pause): <think>
+Will: An adult's indictable-only offence is sent forthwith with no plea, with related either-way offences and related summary ones that are imprisonable or carry disqualification from driving.
+Hannah: What's the summary for plea before venue?
+Will (quick-fire pause): <think>
+Will: A guilty indication means conviction with no allocation and no right to elect, then sentence or committal for sentence; anything else leads to allocation.
+Hannah: What's the summary for allocation?
+Will (quick-fire pause): <think>
+Will: Either-way offences should generally be tried summarily, unless the sentence would clearly exceed the magistrates' powers or the case is unusually complex.
+Hannah: What's the summary for election and venue?
+Will (quick-fire pause): <think>
+Will: The client chooses venue, after balanced advice, only where the magistrates accept jurisdiction; summary conviction can still lead to committal for sentence.
+Hannah: What's the summary for the low-value exceptions?
+Will (quick-fire pause): <think>
+Will: Low-value shoplifting is summary-only, but an adult may elect Crown Court trial; low-value criminal damage, other than arson, allows no election.
+Hannah: And this part in one sentence: what decides most of its questions?
+Will: Classify the offence first, because its class fixes the route to trial and the magistrates' sentencing limit; for an either-way offence, venue is the client's choice only once the magistrates accept jurisdiction, and his solicitor must never mislead the court.
