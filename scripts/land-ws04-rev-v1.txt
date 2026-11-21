@@ -1,0 +1,181 @@
+---
+id: land-ws04-rev-v1
+unit: u-bpp-Land-04
+guide_hash: 13a301717a
+made: 2026-11-21T21:43:39+00:00
+kind: revision
+title: Land Law WS04 · Revision · 18 min
+map:
+- Nature, creation and types of freehold covenant
+- Passing the burden: common law and equity (Tulk v Moxhay)
+- Passing the benefit in equity; the original covenantee and remedies
+- Burden at common law: indirect enforcement of positive covenants
+- Passing the benefit at common law
+- Discharge and modification
+- Easements
+recap:
+- Ask who sues whom: a successor claimant needs the benefit passed; a successor defendant needs the burden passed, which happens only in equity and only for negative covenants.
+- The burden never runs at law; in equity it runs only for a negative covenant protecting land then retained, intended to run, with notice to the successor.
+- In equity the benefit passes if the covenant touches and concerns the land and is annexed, assigned or under a building scheme; remedies against a successor are equitable.
+- A positive burden never passes to a successor: sue the original covenantor, liable unless the covenant limits liability to the period of ownership, or use an indirect way.
+- A non-party takes the benefit if the covenant is made with them as an identifiable existing person, or under the third parties Act's conditions for covenants from 11 May 2000.
+- If a statutory ground applies, the Upper Tribunal may discharge or modify a restrictive covenant.
+- A licence is personal and revocable, but a conveyance by deed can upgrade it into a legal easement under section 62, provided the right is capable of being an easement.
+summary: Ask who sues whom: the burden can run only in equity and only for negative covenants, a successor claimant needs the benefit passed, and the original covenantor stays liable unless the covenant limits liability to the period of ownership.
+invented:
+- Delia
+- Ana
+- Ben
+- Dev
+- Carl
+- Eve
+- Fay
+- Gus
+- a covenant made this year
+guide_only:
+- P:LL-1.6-11 (signed writing to create or dispose of an interest in land, and its exemptions: taught in Land WS01, and not said whole in the time)
+- P:LL-4.3-07 (the benefit passing at common law by its own conditions: the guide text given does not state them whole, so they are not said)
+---
+## Map
+Will: Today's big question: who can enforce a freehold covenant against whom once the land changes hands? There are seven areas: six on freehold covenants and one on easements.
+Hannah: Which six areas make up the covenants part?
+Will: What a covenant is, passing the burden, and passing the benefit in equity; then indirect enforcement, the benefit at law, and discharge.
+Hannah: First, a warm-up from easements. Delia's right over her neighbour's field adds value to her house but has nothing to do with its normal use. Does it accommodate her land?
+Will (scenario pause): <think>
+Will: No. The right must benefit the dominant land itself, connected with its normal use and enjoyment, not just the owner personally. Added value is the tempting answer, but it isn't enough.
+Hannah: Got it: it must serve the land's normal use, and extra value alone fails.
+## Block 1: Nature, creation and types of freehold covenant
+Will: First, the nature of a freehold covenant. A restrictive covenant is always equitable, whatever formality is used. Estate contracts are too: contracts to buy, options and rights of pre-emption.
+Hannah: Which other interests are always equitable, whatever the formality?
+Will: Three more: beneficial interests under trusts, life interests, and easements for life.
+Hannah: Then who can enforce a covenant against whom?
+Will: Name the claimant and the defendant first. If the original covenantee sues the original covenantor, it's contract, and everything is enforceable. If a successor of the covenantee sues the original covenantor, the benefit must have passed.
+Hannah: And what if the defendant is a successor of the covenantor?
+Will: Then the burden must have passed, which it does only in equity, and only for a negative covenant.
+Hannah: How do you tell whether a covenant is positive or negative?
+Will: It's a test of substance. If complying means the covenantor must spend money or take action, it's positive, whatever the wording. So a covenant not to allow the fence to fall into disrepair is positive.
+Hannah (summing up): Ask who sues whom: a successor claimant needs the benefit passed; a successor defendant needs the burden passed, which happens only in equity and only for negative covenants.
+Will: Yes: name both parties, then see who has changed.
+## Block 2: Passing the burden: common law and equity (Tulk v Moxhay)
+Hannah: Before passing the burden, a question on who sues whom. Ana promised Ben not to build on her plot, then Ben sold his land to Dev. Dev sues Ana. What has to have passed?
+Will (scenario pause): <think>
+Will: Only the benefit, because Dev is a successor suing the original covenantor. The tempting answer is the burden, but Ana made the promise herself, so no burden needs to pass.
+Hannah: Nicely put: the successor is the claimant, so only the benefit has to travel.
+Will: Now passing the burden: when does a covenant bind a later owner of the burdened land? At common law, never. Neither positive nor negative covenants bind a successor of the covenantor at law.
+Hannah: Then when does the burden run in equity?
+Will: Under Tulk v Moxhay, only when four conditions are all met. One: the covenant is negative in substance. Two: it was made to protect land the covenantee retained at the time.
+Hannah: What are the other two conditions?
+Will: Three: the original parties intended the burden to run, which statute presumes. Four: the successor has notice.
+Hannah: And what counts as notice?
+Will: In registered land, a notice on the register. In unregistered land, a covenant made after 1925 needs a D two land charge.
+Hannah: Can you give me the contrast that decides it?
+Will: Say a buyer builds, breaking a covenant not to build: bound in equity, if the other conditions are met. Say the buyer lets the fence fall, breaking a covenant to maintain it: not bound, at law or in equity.
+Hannah (summing up): The burden never runs at law; in equity it runs only for a negative covenant protecting land then retained, intended to run, with notice to the successor.
+Will: Right: and the first condition rules out positive covenants.
+## Block 3: Passing the benefit in equity; the original covenantee and remedies
+Hannah: Before passing the benefit in equity, a question on the burden. Ana's registered plot carries a covenant not to build; she sells to Carl, and nothing was ever noted on the register. Is Carl bound?
+Will (scenario pause): <think>
+Will: No. In registered land, notice means a notice on the register, and there isn't one. The tempting answer is that a negative covenant always binds, but all four conditions must be met.
+Hannah: Agreed: negative isn't enough without notice on the register.
+Will: Now passing the benefit in equity: when can a later owner of the benefited land enforce? Where the burden has passed in equity, the benefit must pass in equity too: the covenant must touch and concern the land, and pass by annexation, assignment or a building scheme.
+Hannah: What does touching and concerning the land mean?
+Will: Three things. The covenant benefits only the owner for the time being of the land. It affects the land's nature, quality, use or value. And it isn't expressed to be personal.
+Hannah: And how does annexation attach the benefit?
+Will: There are three kinds: express, by wording that attaches the benefit to identified land; implied; and statutory.
+Hannah: What does statutory annexation do, then?
+Will: Under section 78, as read in Federated Homes, the benefit of a covenant made after 1925 is annexed automatically to each and every part of the land, unless excluded, provided the benefited land is identifiable from the deed. So no express words are needed.
+Hannah: And what about assignment and building schemes?
+Will: In an assignment, the benefit is expressly assigned when the benefited land is transferred, with a chain of assignments to the claimant. In a building scheme, a common seller laid out a defined estate in plots under common covenants intended to benefit all of them, and buyers bought on that basis. Then every plot owner can enforce against every other.
+Hannah: Which remedies follow when the covenant is enforced?
+Will: Against a successor bound in equity, the remedies are equitable: an injunction, or damages in lieu. Against the original covenantor, common law damages for breach of contract are available.
+Hannah (summing up): In equity the benefit passes if the covenant touches and concerns the land and is annexed, assigned or under a building scheme; remedies against a successor are equitable.
+Will: That's it: touch and concern, plus a route.
+## Block 4: Burden at common law: indirect enforcement of positive covenants
+Hannah: Before indirect enforcement of positive covenants, a question on annexation. A covenant made after 1925 touches and concerns the land, the deed identifies that land, and nothing excludes annexation. Dev buys part of it. Does he get the benefit in equity?
+Will (scenario pause): <think>
+Will: Yes: statute annexes it automatically to each and every part. The tempting answer is that without express words of annexation the benefit stays behind, but it doesn't.
+Hannah: Good: statutory annexation reaches every part, so buying only part doesn't matter.
+Will: Now indirect enforcement of positive covenants: how can one still be enforced after the land is sold? The original covenantor stays liable even after selling, for its own breaches and its successors', unless the covenant limits liability to the period of ownership.
+Hannah: What do sellers do to protect themselves from that?
+Will: They take an indemnity covenant from their buyer, because they stay liable after the sale.
+Hannah: What other indirect ways make a positive burden effective?
+Will: Six, in two groups. First, a chain of indemnity covenants, and mutual benefit and burden.
+Hannah: And which ways make up the second group?
+Will: Four structures: an estate rentcharge with a right of entry, a long lease, commonhold, and a deed of covenant enforced via a restriction.
+Hannah: How does mutual benefit and burden work?
+Will: Under Halsall v Brizell, a successor who exercises a benefit, say using a road, must comply with a reciprocal burden, like contributing to its upkeep.
+Hannah: When does that rule actually apply?
+Will: Three conditions. One: the benefit and burden were conferred in or by the same transaction. Two: enjoying the benefit is relevant to the burden, meaning conditional on it or reciprocal to it. Three: the successor has or had the opportunity to give up the benefit, even if only in theory.
+Hannah: And what's the trap with that rule?
+Will: Thinking it passes the burden at common law. It doesn't: the burden never runs at law; a successor who exercises the benefit must comply with a reciprocal burden relevant to it, conferred in the same transaction, if they could, even if only in theory, give up the benefit.
+Hannah (summing up): A positive burden never passes to a successor: sue the original covenantor, liable unless the covenant limits liability to the period of ownership, or use an indirect way.
+Will: Spot on: liability stays, and indirect ways fill the gap.
+## Block 5: Passing the benefit at common law
+Hannah: Before passing the benefit at common law, a question mixing two areas. Ana promised Ben to maintain a fence, then sold to Carl, who lets it fall down. Should Ben sue Carl or Ana?
+Will (scenario pause): <think>
+Will: Ana. A positive burden doesn't pass to Carl, but Ana stays liable for her successor's breach, unless the covenant limited her liability to her period of ownership. The tempting answer is Carl, but he isn't bound.
+Hannah: Neat: a positive burden, so not Carl, and Ana's continuing liability is the answer.
+Will: Now passing the benefit at common law: who can take it at law, apart from the original covenantee? One way is express assignment as a legal thing in action: an absolute assignment in writing, signed by the assignor, with express written notice to the covenantor, effective from the date of the notice.
+Hannah: Can a non-party take the benefit, though?
+Will: Yes, in two ways. First, if the covenant is made with them as an identifiable person in existence when it was made. Under section 56, it must be made with them, not merely for their benefit.
+Hannah: What is the second way, then?
+Will: The Contracts (Rights of Third Parties) Act. It applies to covenants entered into on or after 11 May 2000.
+Hannah: And what does that Act require?
+Will: Two requirements. First, either the deed expressly provides that they may enforce it, or the covenant purports to benefit them, unless the parties didn't intend it to be enforceable.
+Hannah: And what's the second requirement?
+Will: They must be expressly identified by name, class or description, such as owners for the time being of adjoining plots, and they need not exist yet. Under the first route, by contrast, they must exist when the covenant is made.
+Hannah (summing up): A non-party takes the benefit if the covenant is made with them as an identifiable existing person, or under the third parties Act's conditions for covenants from 11 May 2000.
+Will: Correct: two routes, the second only for newer covenants.
+## Block 6: Discharge and modification
+Hannah: Before discharge and modification, a question on non-parties. A covenant made this year expressly lets the owners for the time being of the adjoining plots enforce it. Eve owns one but wasn't a party. Can she take the benefit?
+Will (scenario pause): <think>
+Will: Yes, under the third parties Act: the deed expressly provides for it, and she's identified by class. The tempting answer is no, because the covenant wasn't made with her, but that's only the first route's requirement.
+Hannah: That works: express provision and identification by class are enough under the Act.
+Will: Now discharge and modification: how can a restrictive covenant be discharged or modified? If one of the statutory grounds applies, the Upper Tribunal may discharge or modify it.
+Hannah: What does the reasonable-use ground actually require?
+Will: First, the covenant must impede reasonable user of the land. Second, it must secure no practical benefits of substantial value or advantage, or else be contrary to the public interest.
+Hannah: Is that the whole of the reasonable-use test?
+Will: Not quite: money must also be adequate compensation. The trap is requiring no practical value at all: a practical benefit that isn't of substantial value or advantage doesn't save the covenant.
+Hannah (summing up): If a statutory ground applies, the Upper Tribunal may discharge or modify a restrictive covenant.
+Will: Yes: a ground first, and then the tribunal may act.
+## Block 7: Easements
+Hannah: Before easements, a last covenant question. A covenant impedes reasonable use but secures a practical benefit of substantial value, and isn't contrary to the public interest. Can it be discharged on the reasonable-use ground?
+Will (scenario pause): <think>
+Will: No: it must secure no practical benefits of substantial value or advantage, or be contrary to the public interest. The tempting answer is yes, because it impedes reasonable use, but that's only the first requirement.
+Hannah: Fair: impeding reasonable use isn't enough while it still secures a substantial benefit.
+Will: Finally, easements, starting with ouster. A right so extensive that it leaves the servient owner without reasonable use of its land, which is exclusive possession, can't be an easement. So parking or storage can be easements, as long as they don't oust.
+Hannah: And how is a licence different from an easement?
+Will: A licence is personal permission, so it isn't an easement: it doesn't bind successors, and it's revocable. But it may be converted into an easement by section 62 on a conveyance.
+Hannah: How does section 62 manage that?
+Will: A conveyance of land by deed, including a written legal lease, passes with it all rights appertaining to or enjoyed with the land. That can upgrade a licence or quasi-easement into a legal easement, provided that right is capable of being an easement.
+Hannah (summing up): A licence is personal and revocable, but a conveyance by deed can upgrade it into a legal easement under section 62, provided the right is capable of being an easement.
+Will: Yes: the deed can turn permission into an easement.
+## Recap
+Hannah: One last question, on easements. Fay lets her tenant Gus keep bins in her yard by personal permission, then grants him a new written legal lease of the house. Does Gus now have an easement?
+Will (scenario pause): <think>
+Will: He can. A written legal lease is a conveyance for section 62, so his licence can become a legal easement, if the storage doesn't oust Fay. The tempting answer is that a revocable licence can't bind, but the conveyance converts it.
+Hannah: Nicely done: the new lease carries the old permission with it.
+Will: Now the quick-fire round: one summary for each area, in order.
+Hannah: What's the summary for the nature of a freehold covenant and who sues whom?
+Will (quick-fire pause): <think>
+Will: Ask who sues whom: a successor claimant needs the benefit passed; a successor defendant needs the burden passed, which happens only in equity and only for negative covenants.
+Hannah: What's the summary for passing the burden?
+Will (quick-fire pause): <think>
+Will: The burden never runs at law; in equity it runs only for a negative covenant protecting land then retained, intended to run, with notice to the successor.
+Hannah: What's the summary for passing the benefit in equity, with remedies?
+Will (quick-fire pause): <think>
+Will: In equity the benefit passes if the covenant touches and concerns the land and is annexed, assigned or under a building scheme; remedies against a successor are equitable.
+Hannah: What's the summary for indirect enforcement of positive covenants?
+Will (quick-fire pause): <think>
+Will: A positive burden never passes to a successor: sue the original covenantor, liable unless the covenant limits liability to the period of ownership, or use an indirect way.
+Hannah: What's the summary for passing the benefit at common law?
+Will (quick-fire pause): <think>
+Will: A non-party takes the benefit if the covenant is made with them as an identifiable existing person, or under the third parties Act's conditions for covenants from 11 May 2000.
+Hannah: What's the summary for discharge and modification?
+Will (quick-fire pause): <think>
+Will: If a statutory ground applies, the Upper Tribunal may discharge or modify a restrictive covenant.
+Hannah: What's the summary for easements?
+Will (quick-fire pause): <think>
+Will: A licence is personal and revocable, but a conveyance by deed can upgrade it into a legal easement under section 62, provided the right is capable of being an easement.
+Hannah: And what decides most of this workshop's questions, in one sentence?
+Will: Ask who sues whom: the burden can run only in equity and only for negative covenants, a successor claimant needs the benefit passed, and the original covenantor stays liable unless the covenant limits liability to the period of ownership.

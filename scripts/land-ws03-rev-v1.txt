@@ -1,0 +1,206 @@
+---
+id: land-ws03-rev-v1
+unit: u-bpp-Land-03
+guide_hash: e9e8c2c693
+made: 2026-11-21T21:43:38+00:00
+kind: revision
+title: Land WS03 · Revision · 22 min
+map:
+- Nature of an easement: legal or equitable, and licences
+- Capability: the Re Ellenborough Park characteristics
+- Disqualifying factors
+- Grant, reservation and express creation
+- Implied acquisition: necessity, common intention, Wheeldon v Burrows and s62
+- Prescription
+- Enforceability: the benefit, the burden and remedies
+- Adverse possession and proprietary estoppel
+recap:
+- An easement can be legal only if equivalent to a term of years absolute or a fee simple absolute in possession; a licence is a personal, revocable permission.
+- A right must meet all four requirements, and it accommodates the land only if it benefits the land's normal use and enjoyment, not merely its value or its owner.
+- A right that leaves the servient owner without reasonable use of its land can't be an easement, though parking or storage can be if not ousting.
+- Without a deed, or without registration in registered land, an express easement can take effect only in equity, and an agreement not complying with section 2 creates none.
+- Necessity and common intention can imply a grant or a reservation, construed strictly for a reservation; Wheeldon v Burrows and section 62 imply grants only, never reservations.
+- Prescription needs 20 years' continuous use as of right by or on behalf of one fee simple owner against another; that means without force, secrecy or permission.
+- In registered land, express legal easements must be registered, implied and prescriptive ones can override, and equitable ones bind a buyer only if protected by a notice.
+- Adverse possession needs factual possession and an intention to possess, without the owner's consent; estoppel needs an assurance, reasonable reliance and detriment, and unconscionability in going back on it.
+summary: Most questions turn on two things: whether the right can be an easement at all, with all four requirements met and no disqualifying factor, and how it was created, which decides whether it's legal and whether it binds a buyer.
+invented:
+- Ana
+- Ben
+- Cal
+- Gus
+- Hal
+- Ivo
+- Jo
+- Kit
+- Lee
+- Mo
+- Ned
+- Ola
+- eight months
+- Pia
+- Tom
+- Sam
+guide_only:
+- P:LL-1.3-01 (the full list of interests that can be legal, taught in the first land workshop; the easement limb is said)
+- P:LL-1.6-11 (signed writing for interests in land and declarations of trust, taught in the first land workshop)
+- P:LL-1.3-04 (a failed deed complying with section 2 in equity, taught in the first land workshop; one line is said with express easements)
+---
+## Map
+Will: Today's big question: can a right over someone else's land be an easement, how is one created, and who is bound by it? Eight areas, in four groups: capability, can the right be an easement; acquisition, express, implied or by long use; enforcement, the benefit, the burden and remedies; and beyond easements, adverse possession and estoppel.
+Hannah: First, a warm-up from mortgages: a lender sells when its power of sale has arisen but isn't yet exercisable. Does the buyer get good title?
+Will (scenario pause): <think>
+Will: Yes. The buyer need only check that the power has arisen, and the borrower's remedy is damages against the lender. The tempting answer is that the sale fails, but the buyer still gets good title.
+Hannah: Good: arisen is all the buyer checks, and the borrower gets damages.
+## Block 1: Nature of an easement: legal or equitable, and licences
+Will: Now, the nature of an easement: when is it legal, and is a licence one? An easement can be legal only for an interest equivalent to a fee simple absolute in possession or a term of years absolute; otherwise it's equitable.
+Hannah: And is a licence a kind of easement?
+Will: No: a licence is a personal permission, so it doesn't bind successors and it's revocable, though section 62 may convert it into an easement on a conveyance.
+Hannah (summing up): An easement can be legal only if equivalent to a term of years absolute or a fee simple absolute in possession; a licence is a personal, revocable permission.
+Will: Yes: the interest it matches decides whether it can be legal, and a licence binds no successor.
+## Block 2: Capability: the Re Ellenborough Park characteristics
+Hannah: Before capability, a question on licences: Ana lets her neighbour Ben park on her drive as a favour, then sells to Cal. Is Cal bound to let Ben park?
+Will (scenario pause): <think>
+Will: No. A licence is a personal permission, so it doesn't bind Cal as Ana's successor. The tempting answer is that any arrangement over land binds a buyer, but a licence isn't an easement.
+Hannah: Right: a personal permission doesn't bind Cal.
+Will: Now, capability: can the right be an easement at all? It must meet all four Re Ellenborough Park requirements. One, a dominant and a servient tenement. Two, the right accommodates the dominant tenement. Three, the tenements are owned or occupied by different persons. Four, the right is capable of forming the subject matter of a grant.
+Hannah: Why must there be a dominant tenement?
+Will: Because an easement can't exist in gross: there must be land that benefits. A profit à prendre, a right to take something from land, like fishing or grazing, can exist in gross.
+Hannah: Accommodation is where questions turn, so what does it need?
+Will: The right must benefit the dominant land itself, connected with its normal use and enjoyment, not just the current owner personally, and adding to its value is not enough. The plots must be sufficiently close, though not necessarily adjoining. A business right counts only if the business is closely tied to the land's use: a pub's right to hang its sign on neighbouring land benefited the pub, but an exclusive right to hire boats on a canal was a personal monopoly.
+Hannah: What does the different-owners requirement mean?
+Will: The plots mustn't be both owned and occupied by the same person, so a tenant can have an easement over its landlord's other land. If the plots come into the same ownership and possession, the easement is extinguished.
+Hannah: And when is a right capable of grant?
+Will: There must be a capable grantor and grantee, and the right must be sufficiently definite and within the general nature of recognised easements. Those include rights of way, light, support and drainage. Storage, parking and recreational use of facilities count too. But a view, privacy or protection from the weather can't be easements, and nor can a general flow of air not through a defined channel.
+Hannah (summing up): A right must meet all four requirements, and it accommodates the land only if it benefits the land's normal use and enjoyment, not merely its value or its owner.
+Will: Right: benefit to the land's use counts; extra value or a personal advantage doesn't.
+## Block 3: Disqualifying factors
+Hannah: Before the disqualifying factors, a question on capability: Gus has a right of way over Hal's field, near Gus's farm but not touching it. Does the right fail because the plots don't adjoin?
+Will (scenario pause): <think>
+Will: No. The plots must be sufficiently close, but needn't adjoin. The tempting answer is that they must share a boundary, but closeness is enough.
+Hannah: Yes: being close enough is what counts.
+Will: Now, the disqualifying factors: even a right that seems to pass the four tests fails when one applies. The deciding one is ouster: a right so extensive that it leaves the servient owner without reasonable use of its land, which is exclusive possession, can't be an easement. Parking or storage can be easements if they're not ousting.
+Hannah: How do we tell whether a right ousts the owner?
+Will: The test is uncertain. Batchelor v Marlow asks whether the servient owner has any reasonable use left; Moncrieff, obiter, asks whether it retains possession and, subject to the reasonable exercise of the right, control. Examiners usually give facts that clearly satisfy or fail both.
+Hannah: Can an easement make the servient owner spend money?
+Will: No: it mustn't require the servient owner to spend money or do positive acts, and the duty to maintain fencing is an anomalous exception. The dominant owner may enter to repair, say, a path, at its own cost.
+Hannah: And what about a right that lasts only as long as the servient owner allows?
+Will: That's precarious: a right exercisable only so far as the servient owner allows from time to time, like parking a van that's moved whenever it asks, could not be the subject of a grant. At most it's a revocable licence.
+Hannah (summing up): A right that leaves the servient owner without reasonable use of its land can't be an easement, though parking or storage can be if not ousting.
+Will: Yes: reasonable use left for the owner is what saves parking and storage.
+## Block 4: Grant, reservation and express creation
+Hannah: Before express grant and reservation, a question on disqualifying factors: Ivo's cars fill Jo's yard all day, every day, and he keeps it locked, so Jo has no reasonable use or control. Can Ivo's parking right be an easement?
+Will (scenario pause): <think>
+Will: No. On both tests it's ouster. The tempting answer is yes because parking can be an easement, but only when it isn't ousting.
+Hannah: Right: parking that shuts Jo out of her own yard is ouster.
+Will: Now, express grant and reservation: when is an express easement legal? In a grant, the seller grants the buyer a right over land the seller keeps; in a reservation, the seller reserves a right over the land it sells. Either is legal only if it's for the equivalent of a fee simple absolute in possession or a term of years absolute, made by deed and, in registered land, completed by registration.
+Hannah: And what happens when one of those is missing?
+Will: Then it can take effect only in equity, for example under a contract complying with section 2, and an agreement that doesn't comply creates no easement. So no deed means look to equity, not no easement.
+Hannah (summing up): Without a deed, or without registration in registered land, an express easement can take effect only in equity, and an agreement not complying with section 2 creates none.
+Will: Yes: no deed or registration means equity at best.
+## Block 5: Implied acquisition: necessity, common intention, Wheeldon v Burrows and s62
+Hannah: Before implied easements, a question on express ones: Kit and Lee sign a contract complying with section 2 for a right of way for ever, but never execute a deed. Is Kit's easement legal, equitable, or nothing?
+Will (scenario pause): <think>
+Will: Equitable. With no deed it isn't legal, but a specifically enforceable contract that complies creates an equitable easement. The tempting answer is nothing, but that's only for an agreement that doesn't comply.
+Hannah: Yes: the compliant contract saves Kit's easement in equity.
+Will: Now, implied acquisition: when will the law imply an easement? First ask whether it's a grant or a reservation. An implied grant by necessity is for land that would be landlocked and unusable without the right; strict necessity is judged at the time of the grant, and mere inconvenience or a difficult alternative route is not enough.
+Hannah: And when does common intention imply one?
+Will: Where both parties intended the land to be used for a definite and particular purpose and the easement is necessary to give effect to that purpose.
+Hannah: What does Wheeldon v Burrows need?
+Will: It works for grants only, on a sale or lease of part: the buyer gets as easements the quasi-easements the seller used over the retained land for the part sold. There are three conditions. One: they were continuous and apparent, so visible on inspection, like a worn track or a drain. Two: they're necessary for the reasonable enjoyment of the land granted. Three: the common owner used them at the time of the grant for the benefit of the part granted.
+Hannah: Is reasonable enjoyment the same as strict necessity?
+Will: No, it's a lower standard: the easement needn't be essential, but if there's a convenient alternative access, it isn't necessary.
+Hannah: And how does section 62 work?
+Will: A conveyance of land by deed, including a written legal lease, passes with it all rights appertaining to or enjoyed with the land, which can upgrade a licence or quasi-easement into a legal easement, provided the right is capable of being an easement. It needs prior diversity of occupation, the plots occupied by different people, except where the right was continuous and apparent.
+Hannah: When doesn't that conveyance rule apply?
+Will: It doesn't apply to a contract or an equitable lease, which isn't a conveyance, and it can be excluded by express words in the conveyance, which is common in practice.
+Hannah: What about a seller who wants a right over the land it keeps?
+Will: That's the deciding rule: an implied reservation for the seller's retained land arises only by necessity or common intention, construed strictly. Wheeldon v Burrows and section 62 never imply a reservation, so don't give the seller the buyer's routes.
+Hannah (summing up): Necessity and common intention can imply a grant or a reservation, construed strictly for a reservation; Wheeldon v Burrows and section 62 imply grants only, never reservations.
+Will: Yes: a buyer has all four routes, a seller only two.
+## Block 6: Prescription
+Hannah: Before prescription, a question on implied easements: Mo sells the front of his land, keeps the back, and forgets to reserve the drive he's always used, though the back has another road access. Can Wheeldon v Burrows or section 62 give Mo the drive?
+Will (scenario pause): <think>
+Will: No. Neither ever implies a reservation, and with another access there's no necessity either. The tempting answer is Wheeldon v Burrows, because the drive was continuous and apparent, but it works for grants only.
+Hannah: Right: as the seller, Mo needs necessity or common intention, and the other access rules out necessity.
+Will: Now, prescription: can long use make an easement? It needs continuous use as of right, by or on behalf of a fee simple owner against a fee simple owner. The period is 20 years.
+Hannah: What does using a right as of right mean?
+Will: Without force, without secrecy and without permission. The deciding rule is permission: oral or written permission given by the servient owner defeats prescription during its currency. Use that's a crime the owner could not have authorised can't found prescription, but use that could have been lawfully authorised can.
+Hannah: What if the servient land is let to a tenant?
+Will: Use while it's let counts only if the freeholder knew, or should have known, of it and could have stopped it. But if use began while the freeholder was in possession and knew of it, a later letting doesn't stop time running.
+Hannah: And can a tenant prescribe?
+Will: Not against its own landlord, or another tenant of the same landlord. But use by a tenant of the dominant land counts for the dominant freeholder.
+Hannah: How many methods of prescription are there?
+Will: Three. First, common law, which needs use since 1189. That's presumed from 20 years' use, but it's defeated by showing the right could not have existed at some point since then.
+Hannah: And what are the other two methods?
+Will: Second, lost modern grant: 20 years' use at any time. Third, the Prescription Act: the 20 years immediately before the action.
+Hannah: Does longer use help under the Act?
+Will: Yes. After 40 years' use, the claim can't be defeated by oral permission.
+Hannah: And what counts as an interruption under the Act?
+Will: An interruption defeats the claim only if the claimant submitted to it or acquiesced in it long enough. That's 1 year, after having notice of it and of the person making it. Use must be continuous in the sense of regular use appropriate to the right, not necessarily daily.
+Hannah (summing up): Prescription needs 20 years' continuous use as of right by or on behalf of one fee simple owner against another; that means without force, secrecy or permission.
+Will: Yes: twenty years as of right, fee simple against fee simple, with no permission.
+## Block 7: Enforceability: the benefit, the burden and remedies
+Hannah: Before enforceability, a question on prescription: Ola blocks Ned's path, and Ned, knowing it was Ola, submits for eight months before suing under the Prescription Act. Does the interruption defeat his claim?
+Will (scenario pause): <think>
+Will: No. Under the Act an interruption defeats the claim only if the claimant submitted to or acquiesced in it for a year after notice of it and of who made it, and eight months falls short. The tempting answer is that any obstruction stops time, but it must be put up with for a year.
+Hannah: Right: under a year of putting up with it, so the interruption doesn't defeat Ned's claim.
+Will: Now, enforceability: who is bound by an easement? The benefit of a legal easement passes with the dominant land without being mentioned. For the burden, ask whether the easement is legal or equitable, and how it was created.
+Hannah: What does an express legal easement need?
+Will: Over a registered estate, it operates at law only once registered: a notice on the servient title and, if the dominant estate is registered, its proprietor entered as proprietor of the easement. A legal charge likewise needs the lender entered as proprietor of the charge.
+Hannah: And what about implied or prescriptive easements?
+Will: They're legal without registration, if the grant is of a legal estate, and in registered land they can override. Equitable easements need a notice in registered land, or a D(iii) land charge in unregistered land.
+Hannah: When does such a legal easement override a buyer?
+Will: Here's the deciding rule: only if one of three things is true. One, the buyer actually knew of it. Two, it would have been obvious on a reasonably careful inspection.
+Hannah: And what's the third way it overrides?
+Will: Three, it was exercised in the year before the disposition. Any one is enough. Express legal easements granted out of registered land must be completed by registration, so they don't override this way.
+Hannah: Is first registration any different?
+Will: It's similar but wider: there are no disclosure or obviousness conditions on actual occupation, and legal easements override without the knowledge or use tests.
+Hannah: Can an equitable easement override a buyer?
+Will: No: the overriding rule covers only legal easements, so an equitable easement binds a buyer of a registered estate for valuable consideration only if protected by a notice on the servient title.
+Hannah (summing up): In registered land, express legal easements must be registered, implied and prescriptive ones can override, and equitable ones bind a buyer only if protected by a notice.
+Will: Yes: express ones registered, equitable ones noted.
+## Block 8: Adverse possession and proprietary estoppel
+Hannah: Before adverse possession and estoppel, a question on enforceability: Pia buys registered land subject to her neighbour's implied legal right of way. She didn't know of it and it wasn't obvious on a reasonably careful inspection, but it was used last month. Is Pia bound?
+Will (scenario pause): <think>
+Will: Yes. It was exercised in the year before the disposition, and that alone makes it override. The tempting answer is no because Pia neither knew nor could see it, but any one of the three is enough.
+Hannah: Right: recent use alone binds Pia, whatever she knew.
+Will: Now, adverse possession and estoppel, beyond easements. A squatter needs factual possession, meaning sufficient physical control, dealing with the land as an owner would, and an intention to possess, not necessarily to own, without the owner's consent. So using land with permission is not adverse.
+Hannah: And when does proprietary estoppel arise?
+Will: There are three elements. One, the owner gives an assurance, clear enough in its context. Two, the claimant reasonably relies on it and suffers detriment. Three, it would be unconscionable for the owner to go back on it.
+Hannah: How does the court satisfy the equity?
+Will: Since Guest v Guest, the starting point is to fulfil the expectation or pay its value, reduced if that would be out of all proportion to the detriment, or to allow for receiving it early. Awards range from the fee simple to a money sum.
+Hannah (summing up): Adverse possession needs factual possession and an intention to possess, without the owner's consent; estoppel needs an assurance, reasonable reliance and detriment, and unconscionability in going back on it.
+Will: Yes: permission defeats adverse possession, and estoppel needs all three elements.
+## Recap
+Hannah: One last question, mixing two areas: Tom has used a strip of Sam's land as his garden for years, all with Sam's written permission. Does Tom have adverse possession, or a prescriptive easement?
+Will (scenario pause): <think>
+Will: Neither. Use with permission isn't adverse, and permission defeats prescription during its currency. The tempting answer is that long, open use wins, but permission defeats both.
+Hannah: Yes: Sam's permission defeats Tom on both fronts.
+Will: Now the quick-fire round: one summary for each area, in order.
+Hannah: What's the summary for the nature of an easement and licences?
+Will (quick-fire pause): <think>
+Will: An easement can be legal only if equivalent to a term of years absolute or a fee simple absolute in possession; a licence is a personal, revocable permission.
+Hannah: What's the summary for capability and the four requirements?
+Will (quick-fire pause): <think>
+Will: A right must meet all four requirements, and it accommodates the land only if it benefits the land's normal use and enjoyment, not merely its value or its owner.
+Hannah: What's the summary for the disqualifying factors?
+Will (quick-fire pause): <think>
+Will: A right that leaves the servient owner without reasonable use of its land can't be an easement, though parking or storage can be if not ousting.
+Hannah: What's the summary for express grant and reservation?
+Will (quick-fire pause): <think>
+Will: Without a deed, or without registration in registered land, an express easement can take effect only in equity, and an agreement not complying with section 2 creates none.
+Hannah: What's the summary for implied easements?
+Will (quick-fire pause): <think>
+Will: Necessity and common intention can imply a grant or a reservation, construed strictly for a reservation; Wheeldon v Burrows and section 62 imply grants only, never reservations.
+Hannah: What's the summary for prescription?
+Will (quick-fire pause): <think>
+Will: Prescription needs 20 years' continuous use as of right by or on behalf of one fee simple owner against another; that means without force, secrecy or permission.
+Hannah: What's the summary for enforceability and the burden?
+Will (quick-fire pause): <think>
+Will: In registered land, express legal easements must be registered, implied and prescriptive ones can override, and equitable ones bind a buyer only if protected by a notice.
+Hannah: What's the summary for adverse possession and proprietary estoppel?
+Will (quick-fire pause): <think>
+Will: Adverse possession needs factual possession and an intention to possess, without the owner's consent; estoppel needs an assurance, reasonable reliance and detriment, and unconscionability in going back on it.
+Hannah: And in one sentence, what decides most of this workshop's questions?
+Will: Most questions turn on two things: whether the right can be an easement at all, with all four requirements met and no disqualifying factor, and how it was created, which decides whether it's legal and whether it binds a buyer.

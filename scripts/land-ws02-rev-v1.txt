@@ -1,0 +1,179 @@
+---
+id: land-ws02-rev-v1
+unit: u-bpp-Land-02
+guide_hash: c5f08ed57b
+made: 2026-11-21T21:43:38+00:00
+kind: revision
+title: Land WS02 · Revision · 18 min
+map:
+- Equity of redemption: clogs, collateral advantages and unconscionable terms
+- Creating legal and equitable mortgages; discharge
+- Undue influence and the lender's protection
+- Priority of mortgages
+- Lender's remedies: debt action, receiver and foreclosure
+- Lender's right to possession and the borrower's safeguards
+- Lender's power of sale and duties on sale
+- Further points: tacking, forged mortgages and adverse possession
+recap:
+- A collateral advantage that outlives redemption is normally void as a clog, unless it's a separate, independent bargain between commercial parties at arm's length.
+- A legal mortgage needs a charge by deed and, in registered land, registration; otherwise a written section two contract can make it equitable.
+- Surety for another's debts in a non-commercial relationship puts the lender on inquiry; a joint advance for joint purposes doesn't, unless the lender knows otherwise or more than a trivial part pays one borrower's own debts.
+- Registered charges rank by order of entry, two equitable charges by date of creation, and an unprotected equitable charge loses to a later registered one.
+- A receiver is deemed the borrower's agent, so the borrower alone answers for its acts or defaults unless the mortgage deed says otherwise.
+- A dwelling-house borrower likely to pay the arrears within a reasonable period may be given time, but not time to sell in negative equity.
+- A buyer need only check the power of sale has arisen; if it wasn't exercisable, the buyer keeps good title and the borrower sues the lender.
+- A further advance beats a later registered charge only without notice from that chargee, with an obligation or maximum already registered, or by its agreement.
+summary: Most questions turn on order and timing: a legal charge needs a deed and, in registered land, registration; registered charges rank by order of entry; and a buyer need only check the power of sale has arisen.
+invented:
+- Ana
+- Gail
+- Priya
+- Tom
+- Cara
+guide_only:
+- P:LL-1.6-08 (a deed's formalities: taught in Land WS01; one pointer line only)
+- P:LL-1.6-01 (a section two contract's formalities and exclusions: taught in Land WS01; one pointer line only)
+- P:LL-4.4-19 (a lender in possession accounts strictly; foreclosure needs a court order and is rare: left to the guide for time)
+- P:LL-2.2.1-03 (title deeds as evidence of ownership: homed in the unregistered land workshop; left to the guide for time)
+- P:LL-1.2-13 (a rejected squatter reapplying after a further two years: homed in the adverse possession workshop; left to the guide for time)
+- P:LL-1.2-14 (squatting in a residential building is an offence but still counts: homed in the adverse possession workshop; left to the guide for time)
+- add:5 (the two-year figure for a rejected squatter's reapplication, with P:LL-1.2-13)
+- P:LL-4.4-11 (the right to possession before the ink is dry: left to the guide for time)
+- P:NEW-LL-10 (possession without a court order, and section thirty-six only in court proceedings: left to the guide for time)
+- P:LL-4.4-23 (a tenant under a lease granted before the mortgage binds the lender; a later unauthorised lease does not: left to the guide for time)
+- P:LL-4.4-24 (a forged mortgage by one co-owner charges only the forger's share and severs a joint tenancy: left to the guide for time)
+---
+## Map
+Will: Today is mortgages: is the lender's charge valid and first in line, and what can it do on default? Eight areas, in four groups.
+Hannah: What are the four groups, then?
+Will: Creating the mortgage and protecting the borrower; priority; the lender's remedies, from suing on the debt to sale; and further points, like tacking.
+Hannah: First, a warm-up on last time's registration gap. Ana has completed her purchase of a registered house, but it isn't registered. Who holds the legal estate?
+Will (scenario pause): <think>
+Will: The seller, on bare trust for Ana, who has only an equitable interest until registration. The trap is thinking completion passes legal title.
+Hannah: Yes: in registered land, until registration the buyer is only an equitable owner.
+## Block 1: Equity of redemption: clogs, collateral advantages and unconscionable terms
+Will: Now the equity of redemption: when is a term a clog, or unconscionable? The borrower may redeem on repaying the debt, free of any clog or fetter, so an option for the lender to buy, granted as part of the mortgage transaction, is void.
+Hannah: Can a mortgage postpone the redemption date?
+Will: In a commercial mortgage negotiated at arm's length, yes, unless that makes redemption illusory or is oppressive or unconscionable.
+Hannah: When is a collateral advantage, such as a solus tie, valid?
+Will: When it's not unfair or unconscionable, not in the nature of a penalty clogging the equity of redemption, and not inconsistent with or repugnant to the right to redeem. But one continuing after redemption is normally void as a clog, as in Noakes v Rice, unless in substance it's a separate and independent bargain struck at arm's length between commercial parties, as in Kreglinger.
+Hannah: When will a court strike down an interest term?
+Will: Only where it's unconscionable, imposed in a morally reprehensible way, not merely unreasonable. A power to vary the rate carries an implied term against setting rates dishonestly, for an improper purpose, capriciously or arbitrarily, or as no reasonable lender would. The Consumer Credit Act's unfair relationship powers don't apply to FCA-regulated mortgage contracts, which most residential first mortgages are; those borrowers rely on FCA rules.
+Hannah (summing up): A collateral advantage that outlives redemption is normally void as a clog, unless it's a separate, independent bargain between commercial parties at arm's length.
+Will: Yes: outliving redemption is normally the clog, unless it's truly a separate bargain between commercial parties at arm's length.
+## Block 2: Creating legal and equitable mortgages; discharge
+Hannah: Before creating mortgages, a question on clogs. Gail's garage mortgage includes, as a term of the loan and not as any separate deal, a tie to the lender's fuel that continues after redemption. Once she redeems, is she still tied?
+Will (scenario pause): <think>
+Will: Normally not: a tie outliving redemption is void as a clog. Calling it a fair commercial deal is the trap: it's part of the mortgage, not a separate bargain.
+Hannah: Right: a tie inside the mortgage falls with redemption.
+Will: Now creating legal and equitable mortgages. A legal mortgage is made by a charge by deed expressed to be by way of legal mortgage, the only method for registered land, where it's legal only once registered in the charges register.
+Hannah: What happens when there's no deed, or no registration?
+Will: It can take effect in equity where there's a written contract complying with section two; deposit of title deeds alone no longer creates an equitable mortgage. A mortgage of an equitable interest, such as a beneficial share, is necessarily equitable and needs signed writing, or it's void. Deed and contract formalities were last workshop's.
+Hannah (summing up): A legal mortgage needs a charge by deed and, in registered land, registration; otherwise a written section two contract can make it equitable.
+Will: Right: deed plus registration, or at best equity.
+## Block 3: Undue influence and the lender's protection
+Hannah: Before undue influence, a question on legal mortgages. Priya charges her registered flat by deed but never registers it. Is the mortgage legal?
+Will (scenario pause): <think>
+Will: No: in registered land it's legal only once registered, so at best it takes effect in equity. The deed alone, the tempting answer, is only half of it.
+Hannah: Agreed: no registration means no legal mortgage.
+Will: Now undue influence and the lender's protection. A lender is put on inquiry whenever someone stands surety for the debts of another in a non-commercial relationship, such as a wife for her husband's business debts; but not for a joint advance for joint purposes, unless it knows otherwise. But in a non-commercial hybrid joint loan, any more than trivial part discharging one borrower's own debts puts the lender on inquiry.
+Hannah: How does a lender on inquiry protect its charge?
+Will: By four reasonable steps: communicating directly with the surety; explaining that it requires her to get independent legal advice; giving the solicitor the financial information; and getting the solicitor's written confirmation that she was advised. Otherwise, where the borrower's undue influence over her is proved, the charge may be set aside against her.
+Hannah (summing up): Surety for another's debts in a non-commercial relationship puts the lender on inquiry; a joint advance for joint purposes doesn't, unless the lender knows otherwise or more than a trivial part pays one borrower's own debts.
+Will: Yes: a non-commercial surety triggers inquiry; a joint advance for joint purposes doesn't, unless the lender knows otherwise, or, in a non-commercial hybrid loan, more than a trivial part pays one borrower's own debts.
+## Block 4: Priority of mortgages
+Hannah: Before priority, a question on undue influence. A married couple borrow jointly on their home, and their application says most of the loan will clear the husband's own debts. Is the lender on inquiry?
+Will (scenario pause): <think>
+Will: Yes: in a non-commercial hybrid loan, a more than trivial part paying one borrower's own debts triggers inquiry. It isn't simply a joint advance, the tempting answer.
+Hannah: Right: his own debts take it beyond a joint advance.
+Will: Now priority of mortgages. Registered charges rank by order of entry on the register, not date of creation, and an unprotected equitable charge loses to a later registered charge. Between two equitable charges, it's date of creation, and entering a notice doesn't change that: a notice protects only against a later registrable disposition for value, like a registered charge.
+Hannah: How does priority work in unregistered land?
+Will: A first legal mortgage protected by deposit of deeds isn't registrable. A later mortgage without deeds must be registered as a land charge, a puisne mortgage if legal, a general equitable charge if equitable, and ranks by date of registration; unregistered, it's void against a later purchaser, including a mortgagee.
+Hannah: When does an occupying co-owner's interest bind the lender?
+Will: Money paid to two trustees, or a trust corporation, overreaches it. Paid to a sole owner, an occupying beneficiary's interest overrides the mortgage, as in Boland, unless one of four exceptions applies.
+Hannah: What are those four exceptions?
+Will: One, they failed to disclose it on inquiry when they could reasonably have been expected to. Two, when the mortgage was made, their occupation wasn't obvious on a reasonably careful inspection, and the lender didn't actually know of their interest. Three, they knew of and consented to the mortgage, to the extent of the sum consented to. Four, it's an acquisition mortgage, which beats interests the buyer creates out of the property, because purchase and mortgage are one transaction.
+Hannah (summing up): Registered charges rank by order of entry, two equitable charges by date of creation, and an unprotected equitable charge loses to a later registered one.
+Will: Right: on the register, entry order beats creation date.
+## Block 5: Lender's remedies: debt action, receiver and foreclosure
+Hannah: Before the lender's remedies, a question on priority. Of two registered charges, one was created first but registered second. Which ranks first?
+Will (scenario pause): <think>
+Will: The one registered first: registered charges rank by order of entry. Date of creation, the tempting answer, is the rule for equitable charges.
+Hannah: Yes: for registered charges, the register's order decides.
+Will: Now the lender's remedies: debt action, receiver and foreclosure. Besides enforcing its security, the lender can sue on the borrower's personal covenant to repay.
+Hannah: How long does the lender have to sue?
+Will: For the principal, twelve years from the right to receive it accruing. For arrears of interest, six years from the interest falling due.
+Hannah: When can a lender appoint a receiver, and who answers for it?
+Will: It can appoint a receiver of the income once the mortgage money is due and it's entitled to exercise the power of sale. The receiver is deemed the borrower's agent, and the borrower is solely responsible for the receiver's acts or defaults, unless the mortgage deed provides otherwise.
+Hannah (summing up): A receiver is deemed the borrower's agent, so the borrower alone answers for its acts or defaults unless the mortgage deed says otherwise.
+Will: Yes: the borrower carries the receiver, unless the deed says otherwise.
+## Block 6: Lender's right to possession and the borrower's safeguards
+Hannah: Before possession, a question on receivers. A receiver of Tom's let shop negligently fails to collect rents, and the mortgage deed is silent. As between Tom and the lender, who answers for the receiver's default?
+Will (scenario pause): <think>
+Will: Tom: the receiver is deemed the borrower's agent, and the deed doesn't say otherwise. Not the lender, the tempting answer, though it made the appointment.
+Hannah: Yes: the lender picks the receiver, but the borrower carries its defaults.
+Will: Now the lender's right to possession and the borrower's safeguards. Before residential possession proceedings, the lender must follow the pre-action protocol: engage with the borrower, consider alternatives and give information, though the protocol doesn't apply to buy-to-let mortgages. And an unauthorised tenant can get possession postponed for up to two months.
+Hannah: When can the court give the borrower time to pay?
+Will: For a dwelling-house, it may adjourn the proceedings, or stay or suspend an order, if the borrower is likely within a reasonable period to pay the sums due. Those are the arrears, not the whole accelerated debt, and the period can be the remaining term.
+Hannah: And what about a borrower who wants time to sell?
+Will: Relief to sell is given only where the proceeds will cover the whole debt within a reasonable time. So the court can't use section thirty-six to let a borrower in negative equity sell, though it may order a sale on the borrower's application under a separate power.
+Hannah (summing up): A dwelling-house borrower likely to pay the arrears within a reasonable period may be given time, but not time to sell in negative equity.
+Will: Yes: arrears likely to be paid earn time; negative equity doesn't.
+## Block 7: Lender's power of sale and duties on sale
+Hannah: Before the power of sale, a question on possession. Cara, in negative equity, wants time to sell her house herself. Can section thirty-six give it?
+Will (scenario pause): <think>
+Will: No: that needs proceeds covering the whole debt, though the court may order a sale on her application. The remaining-term rule, the tempting answer, is for paying arrears.
+Hannah: Right: the remaining term helps with arrears, not with selling short.
+Will: Now the lender's power of sale and its duties. The power arises when the mortgage is by deed and the mortgage money is due, once the legal redemption date has passed.
+Hannah: And when does the power become exercisable?
+Will: In three cases, which the deed usually varies. One: a notice requiring repayment is served and three months pass in default. Two: interest is two months in arrears. Three: another mortgage term is breached.
+Hannah: What does a buyer from the lender need to check?
+Will: Only that the power of sale has arisen. If it had arisen but wasn't exercisable, the buyer still gets good title, and the borrower's remedy is damages against the lender.
+Hannah: Can the borrower still stop the sale by paying off the debt?
+Will: Only before exchange. Once the lender has a binding contract to sell, the equity of redemption is suspended, and tendering the full debt can't stop the sale.
+Hannah: What duties does the lender owe when it sells?
+Will: It may choose when to sell; it needn't wait for a market rise or improve the property. But it must act in good faith, take reasonable care to obtain the true market value at the time it sells, and not sell to itself. A sale to a connected party must be shown to be at the best price reasonably obtainable.
+Hannah: In what order are the sale proceeds applied?
+Will: They're held on trust and applied in four steps: first, any prior mortgage the sale isn't made subject to; second, the costs of sale; third, the selling lender's money, interest and costs; and fourth, the residue, to later lenders in order of priority, then the borrower. Otherwise, the sale is subject to the prior mortgages.
+Hannah (summing up): A buyer need only check the power of sale has arisen; if it wasn't exercisable, the buyer keeps good title and the borrower sues the lender.
+Will: Right: once the power has arisen, a sale before it's exercisable still stands, and the borrower's claim is against the lender.
+## Block 8: Further points: tacking, forged mortgages and adverse possession
+Hannah: Before the further points, a question on sale. A lender sells after the redemption date but before its power is exercisable. Does the buyer get good title?
+Will (scenario pause): <think>
+Will: Yes: the buyer need only check that the power had arisen. The sale isn't void, the tempting answer: the borrower gets damages from the lender.
+Hannah: Right: good title for the buyer, damages from the lender.
+Will: Now further points, starting with tacking. A prior chargee's further advance ranks ahead of a later registered charge in three cases: it hadn't received notice of the later charge from that chargee; the advance was obligatory; or a maximum was agreed. For the last two, that obligation or maximum must have been on the register when the later charge was created. Otherwise, the advance ranks ahead only with the later chargee's agreement.
+Hannah (summing up): A further advance beats a later registered charge only without notice from that chargee, with an obligation or maximum already registered, or by its agreement.
+Will: Yes: notice blocks tacking, barring a registered obligation or maximum, or the later lender's agreement.
+## Recap
+Hannah: Last, mixing priority and tacking. A first registered lender is told by a second lender of its later registered charge, then makes an optional further advance with no registered maximum. Does it rank ahead?
+Will (scenario pause): <think>
+Will: No, unless the later lender agrees: the first lender had notice, and nothing was registered. Its first place, the tempting answer, doesn't cover new money.
+Hannah: Correct: once it has notice, the new money queues behind.
+Will: Now the quick-fire round.
+Hannah: What's the summary for the equity of redemption and collateral advantages?
+Will (quick-fire pause): <think>
+Will: A collateral advantage that outlives redemption is normally void as a clog, unless it's a separate, independent bargain between commercial parties at arm's length.
+Hannah: What's the summary for creating legal and equitable mortgages?
+Will (quick-fire pause): <think>
+Will: A legal mortgage needs a charge by deed and, in registered land, registration; otherwise a written section two contract can make it equitable.
+Hannah: What's the summary for undue influence and the lender's protection?
+Will (quick-fire pause): <think>
+Will: Surety for another's debts in a non-commercial relationship puts the lender on inquiry; a joint advance for joint purposes doesn't, unless the lender knows otherwise or more than a trivial part pays one borrower's own debts.
+Hannah: What's the summary for priority between mortgages?
+Will (quick-fire pause): <think>
+Will: Registered charges rank by order of entry, two equitable charges by date of creation, and an unprotected equitable charge loses to a later registered one.
+Hannah: What's the summary for the debt action, receivers and foreclosure?
+Will (quick-fire pause): <think>
+Will: A receiver is deemed the borrower's agent, so the borrower alone answers for its acts or defaults unless the mortgage deed says otherwise.
+Hannah: What's the summary for possession and the borrower's safeguards?
+Will (quick-fire pause): <think>
+Will: A dwelling-house borrower likely to pay the arrears within a reasonable period may be given time, but not time to sell in negative equity.
+Hannah: What's the summary for the power of sale and the duties on sale?
+Will (quick-fire pause): <think>
+Will: A buyer need only check the power of sale has arisen; if it wasn't exercisable, the buyer keeps good title and the borrower sues the lender.
+Hannah: What's the summary for tacking further advances?
+Will (quick-fire pause): <think>
+Will: A further advance beats a later registered charge only without notice from that chargee, with an obligation or maximum already registered, or by its agreement.
+Hannah: And in one sentence, what decides most of this workshop's questions?
+Will: Most questions turn on order and timing: a legal charge needs a deed and, in registered land, registration; registered charges rank by order of entry; and a buyer need only check the power of sale has arisen.

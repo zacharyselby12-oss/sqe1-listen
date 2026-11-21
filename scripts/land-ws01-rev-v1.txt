@@ -1,0 +1,231 @@
+---
+id: land-ws01-rev-v1
+unit: u-bpp-Land-01
+guide_hash: e029ff5898
+made: 2026-11-21T21:43:38+00:00
+kind: revision
+title: Land WS01 · Revision · 24 min
+map:
+- Proprietary and personal rights in land
+- Estates in land: freehold, leasehold and commonhold
+- Interests in land: legal and equitable
+- Transfer of the freehold estate
+- Land contracts
+- Introduction to land registration
+- Principles of land registration
+- What is land?
+- Fixtures and chattels
+- Further points: finds, formalities and root of title
+recap:
+- A proprietary right can bind later owners, generally only if protected; a licence, or a right that doesn't bind, leaves only a personal claim against the original grantor.
+- Only freehold and leasehold can be legal estates; any other estate, like a life interest, is equitable, behind a trust of land.
+- An expressly created interest is legal only if it's a legal kind, granted by deed and registered where required; otherwise it's at best equitable.
+- Registered land passes at law on registration; unregistered land passes on completion, but without a first registration application within two months, unless extended, the transfer is void at law.
+- Unless an exception applies, a land contract needs all the agreed terms in writing, signed by or for each party, or it's void; a compliant, specifically enforceable one gives an equitable interest.
+- Miss two months, unless extended, and a transfer leaves a bare trust; a new lease or first legal mortgage takes effect as a contract to grant or create it.
+- In registered land, a transfer, a lease over seven years or another registrable disposition has no effect at law until the registration requirements are met.
+- Land goes up as far as ordinary use needs and down with no fixed limit; from 300 metres down, anyone may exploit petroleum or deep geothermal energy.
+- Purpose, judged objectively, decides: fixed to improve the land permanently, it's a fixture passing with the land unless excluded; fixed only to enjoy the object, it's a chattel.
+- Creating or disposing of an interest in land needs writing signed by the grantor or their agent authorised in writing, unless it's done by will or operation of law.
+summary: A right binds later owners only if it's proprietary and, generally, protected, and an expressly created interest is legal only if it's a legal kind, made by deed and registered where required; otherwise it's at best equitable.
+invented:
+- Priya
+- Joan
+- Omar
+- Leah
+- Monday
+- a week later
+- Grace
+- Sam
+- Kemi
+- a twelve-year lease
+- Dev
+- Ruth
+- Noor
+guide_only:
+- P:LL-2.2.1-02 (a good root of title: its source check is unresolved and the checked guide text gives no line for it)
+- P:CL-6.3-01 (specific performance: taught in its own workshop in contract; left out for time)
+- P:LL-2.1.1-04 (the three parts of the register: look-up detail, left out for time)
+- P:LL-1.1-09 (a lease as a chattel real: left out for time)
+- P:LL-1.1-05 (typical fixtures and chattels: a list, left out for time)
+- P:LL-1.6-05 (rectification and collateral contracts: left out for time)
+- P:LL-5.1-01 (the lease and the reversion: taught in depth with leases; left out for time)
+---
+## Map
+Will: Today's big question: when does a right in land bind the land, and when is it legal rather than equitable? Ten areas, in five parts. First, rights in land: proprietary rights, estates and interests.
+Hannah: And what are the other four parts?
+Will: Transfer and land contracts; land registration; what land is, fixtures included; and further points: finds, formalities and the root of title.
+## Block 1: Proprietary and personal rights in land
+Will: First, proprietary and personal rights: can a right bind later owners? It's proprietary only if it's on the fixed list, meets that right's definition and was created with the required formalities. The fixed list is the two legal estates and the legal interests, plus the interests that take effect in equity, such as a restrictive covenant, an estate contract or a beneficial interest under a trust.
+Hannah: And who can a proprietary right bind?
+Will: It can be enforced in rem, and it's capable of binding later owners of the burdened land, generally only if protected: in registered land, by registration or as an overriding interest. A licence is just personal permission to occupy, not an estate or interest in land, so it doesn't bind the licensor's successors.
+Hannah: How is a binding right enforced?
+Will: Against the current owner, by the remedy that fits: an injunction for a covenant or easement, possession or sale for a mortgage, specific performance of an estate contract. A right that doesn't bind gives nothing against that owner, so the holder can only sue whoever granted it.
+Hannah (summing up): A proprietary right can bind later owners, generally only if protected; a licence, or a right that doesn't bind, leaves only a personal claim against the original grantor.
+Will: Yes: proprietary and protected can bind, and personal stays with the grantor.
+## Block 2: Estates in land: freehold, leasehold and commonhold
+Hannah: Before estates in land, a question on rights: Priya's neighbour lets her park on his drive, then sells the house. Must the buyer let her park?
+Will (scenario pause): <think>
+Will: No: that's a licence, personal permission, so it doesn't bind the buyer. The trap is thinking the right goes with the drive.
+Hannah: Good: a licence stops with whoever gave it.
+Will: Yes. Now estates in land. Only two can exist at law: the fee simple absolute in possession, or freehold, and the term of years absolute, or leasehold. Any other estate, such as a life interest or a future interest, exists only in equity, behind a trust of land.
+Hannah: What do "in possession" and "absolute" add?
+Will: "In possession" includes the right to receive rents and profits, so a freeholder who has let her house still holds a legal fee simple. "Absolute" excludes a determinable fee simple, which is equitable, but a fee simple on condition subsequent can be legal.
+Hannah: And why are flats a problem for freehold?
+Will: The burden of a positive covenant doesn't run with freehold land, so flats are sold leasehold, making repairing and service charge covenants bind successive tenants and landlords. Commonhold, a form of freehold, solves it. Each unit holder owns its unit freehold, a commonhold association owns and manages the common parts, and the commonhold community statement binds each new unit-holder.
+Hannah (summing up): Only freehold and leasehold can be legal estates; any other estate, like a life interest, is equitable, behind a trust of land.
+Will: Yes: two legal estates, and the rest behind a trust.
+## Block 3: Interests in land: legal and equitable
+Hannah: Before interests in land, a question on estates: a will leaves a farm to Joan for life, then to her son. Is Joan's interest a legal estate?
+Will (scenario pause): <think>
+Will: No: a life interest isn't one of the two legal estates, so it's equitable, behind a trust. The trap is calling it a freehold for life.
+Hannah: That's it: a life interest always sits behind a trust.
+Will: Right. Now interests in land: when can one be legal? Only five kinds can. An easement equivalent to a fee simple absolute in possession or a term of years absolute; a rentcharge in possession, perpetual or for a term of years absolute; and a charge by way of legal mortgage.
+Hannah: And what are the other two legal kinds?
+Will: Any similar charge on land not created by an instrument, and rights of entry over a legal lease or annexed to a legal rentcharge. Every other interest is equitable.
+Hannah: Which interests are always equitable?
+Will: Two groups, whatever the formality used: restrictive covenants and estate contracts, meaning contracts to buy, options and rights of pre-emption; and beneficial interests under trusts, life interests and easements for life.
+Hannah: So when is an expressly created interest legal?
+Will: Three steps. One, it's one of the five legal kinds. Two, it's granted by deed. Three, in registered land, it's completed by registration where required: that covers express easements, rentcharges, rights of entry and legal charges. Fail a step and it's at best equitable. An easement can also be legal by implication or prescription, without an express grant by deed.
+Hannah (summing up): An expressly created interest is legal only if it's a legal kind, granted by deed and registered where required; otherwise it's at best equitable.
+Will: Yes: right kind, deed and registration, or equity at best.
+## Block 4: Transfer of the freehold estate
+Hannah: Before transfer of the freehold, a question on interests: Omar grants a neighbour a permanent right of way in a signed document that isn't a deed. Is it a legal easement?
+Will (scenario pause): <think>
+Will: No, at best equitable: a legal easement needs a deed. Being the right kind of interest isn't enough.
+Hannah: Agreed: the kind is only the first step.
+Will: Right. Now transfer of the freehold estate. A sale has three stages: a contract complying with section two, giving the buyer an equitable interest, an estate contract; completion by deed; and, for registered land, registration, which is when the legal estate passes.
+Hannah: When can you do without a deed?
+Will: A conveyance of land or an interest in it is void to convey or create a legal estate unless made by deed. Exceptions include an assent by personal representatives, and a lease taking effect in possession for up to three years at the best rent without a fine, which can be oral.
+Hannah: And what must an individual's deed do?
+Will: Make clear on its face that it's intended to be a deed; be signed by the maker in the presence of a witness who attests the signature, or at the maker's direction in their presence and that of two attesting witnesses; and be delivered as a deed. No seal is needed.
+Hannah: What happens between completion and registration?
+Will: That's the registration gap: the seller still holds the legal estate on bare trust for the buyer, who has only an equitable interest until registration.
+Hannah: And what about land that was never registered?
+Will: The legal estate passes on completion by deed, but a triggering event makes first registration compulsory. Triggers include a sale, gift or assent, a first legal mortgage, and a lease of more than seven years. The buyer must apply within two months of completion, sending the deeds.
+Hannah: What if the buyer misses the two months?
+Will: The transfer becomes void as to the legal estate: legal title reverts to the transferor, who holds it on bare trust for the transferee, while a lease or first mortgage takes effect as a contract to grant it. The registrar may extend the period for good reason, and a late application can still be accepted.
+Hannah (summing up): Registered land passes at law on registration; unregistered land passes on completion, but without a first registration application within two months, unless extended, the transfer is void at law.
+Will: Yes: registration passes registered land, completion the rest, but apply within two months unless extended.
+## Block 5: Land contracts
+Hannah: Before land contracts, a question on transfer: Leah completes on a registered house on Monday, and it's registered a week later. Who held the legal estate that week?
+Will (scenario pause): <think>
+Will: The seller, on bare trust for Leah. The trap is completion, which passes the legal estate only in unregistered land.
+Hannah: Yes: in the gap, Leah's interest is only equitable.
+Will: Yes. Now land contracts. A contract to sell or otherwise dispose of an interest in land must be in writing incorporating all the terms expressly agreed. They go in one document or, on exchange, in each; set out or referred to in another document. And it must be signed by or on behalf of each party, though on exchange each signs only one part.
+Hannah: What happens to one that fails section two?
+Will: It's void, not merely unenforceable: neither party can sue on it. A variation of a material term must itself comply, and a typed name in an email can be a signature if intended to authenticate the document. Section two doesn't apply to contracts for leases of up to three years in possession at the best rent without a fine, auction contracts or certain regulated financial contracts, and doesn't affect resulting, implied or constructive trusts.
+Hannah: So what does a compliant contract give?
+Will: If it's specifically enforceable, an equitable interest, because equity treats as done what ought to be done. So a failed deed that satisfies section two creates an equitable lease, easement or mortgage.
+Hannah: And how does section two treat an option?
+Will: The grant of an option must satisfy section two, but the grantee's later exercise of it alone needn't.
+Hannah (summing up): Unless an exception applies, a land contract needs all the agreed terms in writing, signed by or for each party, or it's void; a compliant, specifically enforceable one gives an equitable interest.
+Will: Yes: outside the exceptions, section two or no contract, and enforceable means equity.
+## Block 6: Introduction to land registration
+Hannah: Before land registration, a question on contracts: a ten-year lease is signed by both sides and meets section two, but isn't a deed. What does the tenant get?
+Will (scenario pause): <think>
+Will: An equitable lease, because the contract is specifically enforceable. The trap is a legal lease, but ten years is far too long to escape the deed.
+Hannah: Spot on: no deed, no legal lease, but equity steps in.
+Will: Right. Now land registration. A freehold can be registered with its own title, as can a legal lease with more than seven years left to run, and so can rentcharges, franchises and profits à prendre in gross.
+Hannah: How is unregistered title proved?
+Will: By title deeds: a good root of title at least fifteen years old, and an unbroken chain of documents from the root to the seller.
+Hannah: What makes first registration compulsory?
+Will: Five triggers. A transfer of a qualifying estate for value, by gift, by court order or by assent; the grant of a lease of more than seven years; and the assignment of a lease with more than seven years left.
+Hannah: And what are the last two triggers?
+Will: The grant of a reversionary lease taking effect more than three months after grant, and a protected first legal mortgage of a qualifying estate. And on death a legal estate vests in the personal representatives, who pass it on by a signed, written assent naming the recipient; in unregistered land, that's a trigger too.
+Hannah: What happens when the two months are missed?
+Will: A transfer, of a freehold or of a lease with more than seven years left, leaves the transferor holding the legal title on bare trust for the transferee. But a new lease or first legal mortgage becomes void as a legal estate or charge, taking effect as a contract for valuable consideration to grant or create it: equitable only. So a ten-year lease that's never registered is equitable.
+Hannah (summing up): Miss two months, unless extended, and a transfer leaves a bare trust; a new lease or first legal mortgage takes effect as a contract to grant or create it.
+Will: Yes: transfers give bare trusts, new grants contracts.
+## Block 7: Principles of land registration
+Hannah: Before the principles of land registration, a question mixing two areas: Grace gives her unregistered cottage to her nephew Sam, who hasn't applied to register after three months, with no extension. Who holds the legal estate?
+Will (scenario pause): <think>
+Will: Grace, on bare trust for Sam: a gift is a trigger, so the transfer is void at law, though a late application can still be accepted. The trap is thinking only a sale triggers registration.
+Hannah: Fair: a gift counts, so Grace is a bare trustee.
+Will: Yes. Now the principles of land registration. The mirror principle: the register is meant to reflect all interests affecting the land. The curtain principle: trusts are kept off it, behind a restriction. The insurance principle: indemnity is payable for loss caused by mistakes in it.
+Hannah: What classes of title are there?
+Will: Freehold title is absolute, qualified or possessory. Leasehold adds good leasehold, where the landlord's title wasn't examined, so the lease isn't guaranteed to have been validly granted. An owner first registered with absolute freehold takes subject only to four things, starting with interests on the register and Schedule 1 overriding interests.
+Hannah: And what are the other two things?
+Will: Squatters' rights under the Limitation Act that it has notice of, and, if it's a trustee, the beneficiaries' interests it has notice of.
+Hannah: So when does a dealing with registered land work at law?
+Will: A registrable disposition, including a transfer, a lease over seven years, an express legal easement and a legal charge, doesn't operate at law until it meets the registration requirements.
+Hannah (summing up): In registered land, a transfer, a lease over seven years or another registrable disposition has no effect at law until the registration requirements are met.
+Will: Yes: no registration, no legal disposition.
+## Block 8: What is land?
+Hannah: Before what land is, a question on registration: Kemi grants a twelve-year lease of her registered flat by deed, and nobody registers it. Is it a legal lease?
+Will (scenario pause): <think>
+Will: No: it's a registrable disposition, so it doesn't operate at law until registered. The trap is thinking the deed alone is enough.
+Hannah: True: in registered land, the deed isn't the last step.
+Will: Yes. Now what land is. Land includes the ground, buildings and parts of buildings, and the subsoil and minerals; airspace to the height needed for ordinary use; and intangible rights such as easements. Everything else is personal property: chattels.
+Hannah: And how far down does ownership go?
+Will: There's no fixed depth limit: the surface owner owns the strata beneath, including the minerals, unless alienated by conveyance, at common law or by statute. But gold and silver, and petroleum by statute, belong to the Crown; coal is vested in the Coal Authority; and found treasure vests in the Crown or a franchisee.
+Hannah: So what is the depth figure about?
+Will: The figure is 300 metres. Anyone may use land at least that far down to exploit petroleum or deep geothermal energy without the owner's consent.
+Hannah (summing up): Land goes up as far as ordinary use needs and down with no fixed limit; from 300 metres down, anyone may exploit petroleum or deep geothermal energy.
+Will: Yes: the deep figure is about others' use, not ownership.
+## Block 9: Fixtures and chattels
+Hannah: Before fixtures and chattels, a question on what land is: Dev is told his minerals stop at 300 metres down. Is that right?
+Will (scenario pause): <think>
+Will: No: ownership has no fixed depth limit. The trap is the 300 metres, which only marks where anyone may exploit petroleum or deep geothermal energy without his consent.
+Hannah: Got it: that figure is about use, not ownership.
+Will: Yes. Now fixtures and chattels. Degree of annexation comes first: attached other than by its own weight, an item is presumed a fixture; resting by its own weight, a chattel.
+Hannah: And what actually decides it?
+Will: Purpose, judged objectively: fixed to improve the land permanently, it's a fixture; fixed only so it can be better enjoyed as an object, it stays a chattel. Either presumption can be rebutted. So a heavy statue resting by its own weight in a garden design is a fixture, and a tapestry tacked up for display is a chattel.
+Hannah: Whose intention counts, then?
+Will: Nobody's private one: it's judged from the circumstances, not from what the fixer privately intended or the parties agreed. And a structure that can only be removed by destroying it is part of the land.
+Hannah: And what passes on a sale?
+Will: Fixtures pass automatically with the land on a sale, gift or mortgage unless the contract excludes them, and a seller who removes one after exchange is in breach. Chattels pass only if the contract includes them.
+Hannah (summing up): Purpose, judged objectively, decides: fixed to improve the land permanently, it's a fixture passing with the land unless excluded; fixed only to enjoy the object, it's a chattel.
+Will: Yes: judged objectively, fixed to improve the land permanently, it's a fixture.
+## Block 10: Further points: finds, formalities and root of title
+Hannah: Before the further points on finds and formalities, a question on fixtures: Ruth tacks a tapestry to her wall for display and sells the house without mentioning it. Does it pass?
+Will (scenario pause): <think>
+Will: No: fixed only to be enjoyed as an object, it's a chattel, which passes only if the contract includes it. Attachment only raises a presumption.
+Hannah: Nice: purpose beats attachment, so Ruth keeps it.
+Will: Yes. Now the further points: finds, formalities and root of title. Things buried in or attached to land belong to the landowner rather than a finder. Things merely lying on it belong to the finder, unless the occupier showed a clear intention to control the land and things on it.
+Hannah: So who keeps a coin found on a shop floor?
+Will: The finder, unless the shopkeeper showed that intention. A buried find goes to the landowner, unless it's treasure.
+Hannah: Which contracts fall outside section two?
+Will: Three. A contract for a lease of a term not exceeding three years, in possession, at the best rent without a fine; one made in the course of a public auction; and one regulated under FSMA, except a regulated mortgage contract, home reversion plan, home purchase plan or sale and rent back agreement, which need section two.
+Hannah: And how must an interest in land itself be created?
+Will: By writing signed by the person creating or conveying it, or their agent authorised in writing, or by will or operation of law. A declaration of trust of land must be evidenced by signed writing, but resulting, implied and constructive trusts are exempt. So an equitable charge granted orally fails.
+Hannah (summing up): Creating or disposing of an interest in land needs writing signed by the grantor or their agent authorised in writing, unless it's done by will or operation of law.
+Will: Yes: signed writing, will or operation of law.
+## Recap
+Hannah: Last question, on formalities: Noor tells her brother aloud that she holds her house on trust for him. What does he need to prove it?
+Will (scenario pause): <think>
+Will: Signed writing evidencing the declaration. The trap is thinking trusts are exempt, but only resulting, implied and constructive ones are.
+Hannah: Right: an express trust of land needs signed writing behind it.
+Will: Yes. Now the quick-fire round, area by area.
+Hannah: What's the summary for proprietary and personal rights?
+Will (quick-fire pause): <think>
+Will: A proprietary right can bind later owners, generally only if protected; a licence, or a right that doesn't bind, leaves only a personal claim against the original grantor.
+Hannah: What's the summary for estates in land?
+Will (quick-fire pause): <think>
+Will: Only freehold and leasehold can be legal estates; any other estate, like a life interest, is equitable, behind a trust of land.
+Hannah: What's the summary for legal and equitable interests?
+Will (quick-fire pause): <think>
+Will: An expressly created interest is legal only if it's a legal kind, granted by deed and registered where required; otherwise it's at best equitable.
+Hannah: What's the summary for transferring the freehold?
+Will (quick-fire pause): <think>
+Will: Registered land passes at law on registration; unregistered land passes on completion, but without a first registration application within two months, unless extended, the transfer is void at law.
+Hannah: What's the summary for land contracts?
+Will (quick-fire pause): <think>
+Will: Unless an exception applies, a land contract needs all the agreed terms in writing, signed by or for each party, or it's void; a compliant, specifically enforceable one gives an equitable interest.
+Hannah: What's the summary for first registration?
+Will (quick-fire pause): <think>
+Will: Miss two months, unless extended, and a transfer leaves a bare trust; a new lease or first legal mortgage takes effect as a contract to grant or create it.
+Hannah: What's the summary for the principles of registration?
+Will (quick-fire pause): <think>
+Will: In registered land, a transfer, a lease over seven years or another registrable disposition has no effect at law until the registration requirements are met.
+Hannah: What's the summary for what counts as land?
+Will (quick-fire pause): <think>
+Will: Land goes up as far as ordinary use needs and down with no fixed limit; from 300 metres down, anyone may exploit petroleum or deep geothermal energy.
+Hannah: What's the summary for fixtures and chattels?
+Will (quick-fire pause): <think>
+Will: Purpose, judged objectively, decides: fixed to improve the land permanently, it's a fixture passing with the land unless excluded; fixed only to enjoy the object, it's a chattel.
+Hannah: What's the summary for finds and formalities?
+Will (quick-fire pause): <think>
+Will: Creating or disposing of an interest in land needs writing signed by the grantor or their agent authorised in writing, unless it's done by will or operation of law.
+Hannah: And what one sentence decides most of this workshop's questions?
+Will: A right binds later owners only if it's proprietary and, generally, protected, and an expressly created interest is legal only if it's a legal kind, made by deed and registered where required; otherwise it's at best equitable.
