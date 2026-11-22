@@ -6618,7 +6618,7 @@
       ],
       "summary": "Name the body, then the duty: the SRA handles misconduct and the Legal Ombudsman poor service; the wider public interest and the court outrank the client; confidentiality to one client outranks disclosure to another; and direct discrimination, age apart, can't be justified.",
       "madeAt": "2026-11-22T17:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers); known-error scan 0 hits; opus episode-check and line-by-line check: 9 fixes applied; one script-revise (repeated run); changed-lines verify: 3 findings; targeted round 1 (script-revise x2), code checks ok, fresh changed-lines verify pass",
@@ -6638,7 +6638,16 @@
         "b11",
         "b12"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12057863,
+      "seconds": 1507,
+      "words": 3312,
+      "renderedHash": "7ac13ad79789",
+      "renderedAt": "2026-11-22T17:46:10+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/ls-ws01-rev-v1-99af22c5.mp3",
+      "siteAudio": "audio/ls-ws01-rev-v1-99af22c5.mp3",
+      "pubDate": "2026-11-22T17:46:10+00:00"
     },
     {
       "id": "ls-ws03-rev-v1",
@@ -6666,7 +6675,7 @@
       ],
       "summary": "Before acting, check that the instructions are the client's own and that no conflict bars you, and before choosing funding, work out what the client still pays on a win and on a loss, then tell them.",
       "madeAt": "2026-11-22T17:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck: 112/112 items covered); known-error scan clean; Opus accuracy and line-by-line checks, fixes applied (fixflow), one script-revise for a repeated speaker, Opus check of the changed lines passed (run r202611181049)",
@@ -6680,7 +6689,16 @@
         "b5",
         "b6"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8852743,
+      "seconds": 1107,
+      "words": 2676,
+      "renderedHash": "499bc38a6f3f",
+      "renderedAt": "2026-11-22T17:46:10+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/ls-ws03-rev-v1-4e0cb2de.mp3",
+      "siteAudio": "audio/ls-ws03-rev-v1-4e0cb2de.mp3",
+      "pubDate": "2026-11-22T17:46:10+00:00"
     },
     {
       "id": "criminal-ws07-rev-v1",
@@ -6710,7 +6728,7 @@
       ],
       "summary": "Match the harm actually caused with what the defendant intended or foresaw, choose the most serious offence where both are present, and remember that voluntary intoxication can defeat only a specific intent offence such as section eighteen.",
       "madeAt": "2026-11-22T17:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck 88/88 items covered, 0 errors); known-error scan 0 hits; Opus accuracy check 1 fix and Opus line-by-line check 3 problems, applied via fixflow and one script-revise; Opus verify of the changed lines pass; code checks and known-error scan clean after the fixes",
@@ -6725,7 +6743,16 @@
         "b6",
         "b7"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9320869,
+      "seconds": 1165,
+      "words": 2590,
+      "renderedHash": "f835962f1151",
+      "renderedAt": "2026-11-22T17:46:10+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/criminal-ws07-rev-v1-e50d9fa5.mp3",
+      "siteAudio": "audio/criminal-ws07-rev-v1-e50d9fa5.mp3",
+      "pubDate": "2026-11-22T17:46:10+00:00"
     },
     {
       "id": "clp-ws04-rev-v1-p2",
@@ -6749,7 +6776,7 @@
       ],
       "summary": "Timing separates dismissal from no case to answer, and for evidence, section seventy-eight gives a discretion based on fairness, while a confession challenged for oppression or unreliability must be excluded unless the prosecution proves beyond reasonable doubt that it was not so obtained.",
       "madeAt": "2026-11-22T17:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23; revcheck covers, per part); known-error scan 0 hits; opus episode-check and line-by-line check: 6 problems, fixes applied (fixflow); one script-revise (repeated 8-word run); changed-lines verify pass",
@@ -6761,7 +6788,16 @@
         "b8",
         "b9"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 8726758,
+      "seconds": 1091,
+      "words": 2663,
+      "renderedHash": "067f447fc38f",
+      "renderedAt": "2026-11-22T17:46:10+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws04-rev-v1-p2-97f056fe.mp3",
+      "siteAudio": "audio/clp-ws04-rev-v1-p2-97f056fe.mp3",
+      "pubDate": "2026-11-22T17:46:10+00:00"
     },
     {
       "id": "clp-ws06-rev-v1",
@@ -6805,7 +6841,7 @@
       ],
       "summary": "Bad character comes in only through a gateway, which turns on whose character it is and who adduces it; only a non-defendant's needs leave, unless all parties agree.",
       "madeAt": "2026-11-22T17:44:54+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck covers 63/63, 24.9 min); known-error scan: 3 hits (ke-gateway-f-no-exclusion-at-all) judged false positives by the Opus ke-triage check, cleared; Opus accuracy and line-by-line checks: 21 fixes merged and applied, one script-revise (unapplied fixes and three repeated runs); changed-lines check found 2 narrow points; targeted round 1 (revision-mech) fixed them; its changed-lines check passed; code checks and scan clean after each change.",
@@ -6827,7 +6863,16 @@
         "b13",
         "b14"
       ],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 12413548,
+      "seconds": 1552,
+      "words": 3407,
+      "renderedHash": "47aa3c859b27",
+      "renderedAt": "2026-11-22T17:46:10+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws06-rev-v1-d0dc4ef8.mp3",
+      "siteAudio": "audio/clp-ws06-rev-v1-d0dc4ef8.mp3",
+      "pubDate": "2026-11-22T17:46:10+00:00"
     }
   ],
   "replays": [
