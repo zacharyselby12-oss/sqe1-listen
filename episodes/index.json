@@ -6565,11 +6565,20 @@
       ],
       "summary": "Co-owned land is always held on trust: survivorship always operates at law but in equity only while the beneficial joint tenancy is unsevered, and the court settles sale disputes, weighing factors including the purpose and creditors' interests.",
       "madeAt": "2026-11-22T12:43:47+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23 0 errors; revcheck covers 60/60, 16.8 min); known-error scan 0 hits (1 match cleared by the Opus ke-triage: the line states the undue-influence exception); Opus accuracy and line-by-line checks: 6 fixes merged and applied by fixflow; code checks and scan clean after; fresh Opus check of the changed lines: pass",
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9131317,
+      "seconds": 1141,
+      "words": 2606,
+      "renderedHash": "7af48ff73a87",
+      "renderedAt": "2026-11-22T12:44:51+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/land-ws07-rev-v1-2830be2f.mp3",
+      "siteAudio": "audio/land-ws07-rev-v1-2830be2f.mp3",
+      "pubDate": "2026-11-22T12:44:51+00:00"
     }
   ],
   "replays": [
