@@ -1,0 +1,204 @@
+---
+id: land-ws07-rev-v1
+unit: u-bpp-Land-07
+guide_hash: 536cc78231
+made: 2026-11-22T12:43:47+00:00
+kind: revision
+title: Land WS07 · Revision · 18 min
+map:
+- Introduction to co-ownership and types of trust
+- Concepts and rules on legal and equitable titles
+- Severance: nature, methods and effect
+- Severance by notice in writing
+- Severance by other acts or things (Williams v Hensman)
+- Resolution of disputes relating to co-owned land (TOLATA ss14-15)
+- Also examinable: deaths, occupation, bankruptcy and more
+recap:
+- Co-owned land is always held on a trust of land; an express declaration needs signed written evidence, but resulting, implied and constructive trusts don't.
+- Survivorship always operates at law, where the title is always a joint tenancy; in equity, only while the beneficial joint tenancy is unsevered.
+- Only the beneficial joint tenancy can be severed, never by will, and the severing party takes an equal share in common, whatever they contributed.
+- Written notice to all the other joint tenants severs if it shows an immediate, unconditional intention to sever and is validly served, read or not.
+- Selling, mortgaging or charging your own share severs, as does bankruptcy; so does all the joint tenants' conduct showing a common intention to hold separately, but not mere negotiations.
+- On a section fourteen application, sale is likely once the purpose of buying has ended, and usual where a creditor is owed money and not being paid.
+- On a trustee in bankruptcy's application, section fifteen doesn't apply: after one year from vesting, creditors' interests are presumed to prevail unless the circumstances are exceptional.
+summary: Co-owned land is always held on trust: survivorship always operates at law but in equity only while the beneficial joint tenancy is unsevered, and the court settles sale disputes, weighing factors including the purpose and creditors' interests.
+invented:
+- Olly
+- Pia
+- Ana
+- Ben
+- Cal
+- Dee
+- Ed
+- Fay
+- Gus
+- Hal
+- Ivy
+- Joe
+- Kim
+- Lena
+- Max
+- Nia
+- two years after vesting
+guide_only:
+- P:LL-3.1-01 (the four unities: not in the checked guide's lines, so not spoken)
+- P:LL-3.1-04 (words of severance in the grant: not in the checked guide's lines, so not spoken)
+- P:LL-3.1-05 (the presumptions of a tenancy in common: not in the checked guide's lines, so not spoken)
+- P:LL-3.3-06 (severance by mutual agreement: not in the checked guide's lines, so not spoken)
+- P:LL-2.1.1-06 (the register's mirror, curtain and insurance principles: taught in Land WS01; left out for time)
+- P:LL-1.6-04 (constructive trusts and proprietary estoppel despite non-compliance with s2: a contract-formality point, not said whole in the time)
+- P:NEW-LL-02 (adverse possession, stopping time and continuity: taught with adverse possession in Land WS06; not said whole in the time)
+- add:8 (the 10 years for adverse possession of registered land, with P:NEW-LL-02)
+- P:LL-3.4-10 (the right to occupy under s12: an occupation extra the workshop doesn't teach; left out for time)
+- P:LL-3.4-11 (the trustees' power to exclude or restrict occupation under s13: left out for time, with P:LL-3.4-10)
+- P:LL-3.4-12 (the s11 duty to consult: left out for time, with P:LL-3.4-10)
+- add:5 (before 1997: the s11 duty's start, with P:LL-3.4-12)
+- P:NEW-LL-06 (the s335A(2) factors on a trustee in bankruptcy's application: not said whole in the time)
+- P:LL-3.4-05 (the beneficiaries' wishes under s15(3) and s15(2): not said whole in the time)
+- P:LL-3.2-03 (deaths in uncertain order, LPA s184: an extra the workshop doesn't teach; left out for time)
+- P:LL-3.2-04 (the forfeiture rule: an extra the workshop doesn't teach; not said whole in the time)
+- add:4 (the 3 months to modify the forfeiture rule, with P:LL-3.2-04)
+- P:NEW-LL-07 (re-vesting in the bankrupt after 3 years under s283A: not said whole in the time)
+- add:7 (the 3 years for re-vesting, with P:NEW-LL-07)
+---
+## Map
+Will: Today's big question: when people own land together, who owns what, and what happens when one dies or wants to sell? There are six taught areas: the trust behind co-ownership, the two titles, three on severance, and disputes over selling. A seventh holds also-examinable extras, chiefly bankruptcy.
+Hannah: First, a warm-up on overreaching: Olly holds his house alone on trust for himself and Pia, who lives there, and sells it. Does overreaching protect the buyer?
+Will (scenario pause): <think>
+Will: No: overreaching needs payment to at least two trustees or a trust corporation. The tempting answer is that the buyer takes free, but as Pia is in actual occupation her interest can bind him as an overriding interest.
+Hannah: Right: one trustee means no overreaching.
+## Block 1: Introduction to co-ownership and types of trust
+Will: Start with the introduction to co-ownership. Co-ownership of land always takes effect behind a trust of land. Successive interests created after 1996 do too, since no new strict settlement can arise.
+Hannah: And who holds the land as trustees?
+Will: The legal owners, at most four; the beneficial owners have equitable interests. One trap: the Law of Property Act imposes the trust, and TOLATA only defines a trust of land.
+Hannah: Does a beneficial co-owner have to be on the register?
+Will: No. A sole legal owner can hold on trust for others, expressly or by implied trust, so someone not on the register can still be a beneficial co-owner.
+Hannah: When does a trust of land need writing?
+Will: An express declaration of trust of land must be evidenced in writing signed by the person able to declare it; without it, the trust is unenforceable, not void, and the writing can come later. Resulting, implied and constructive trusts need no formality, and section two doesn't affect them, so a common intention constructive trust can give an interest without writing.
+Hannah: And what about a couple who buy a home in joint names without declaring their shares?
+Will: The deciding rule: the starting point is a beneficial joint tenancy, and whoever claims otherwise must show a different common intention from the whole course of dealing. Unequal contributions alone don't displace it.
+Hannah (summing up): Co-owned land is always held on a trust of land; an express declaration needs signed written evidence, but resulting, implied and constructive trusts don't.
+Will: Yes: always a trust, and writing only for an express declaration.
+## Block 2: Concepts and rules on legal and equitable titles
+Hannah: Before the legal and equitable titles, a question on the trust: Ana and Ben buy a home in joint names with no declaration, and Ana pays most. How do they hold it in equity?
+Will (scenario pause): <think>
+Will: As beneficial joint tenants, unless Ana shows a different common intention from their whole course of dealing. The tempting answer is shares matching contributions, but paying more isn't enough.
+Hannah: Right: the joint tenancy stands despite Ana's bigger payment.
+Will: Now the titles. Joint tenants own the whole together with no distinct shares, though each is entitled to an equal share on severance. Tenants in common own distinct undivided shares, which can be unequal and pass under a will or intestacy.
+Hannah: And what happens when a joint tenant dies?
+Will: Their interest passes automatically to the surviving joint tenants by survivorship; it isn't part of their estate and can't pass under their will or intestacy.
+Hannah: Can one co-owner keep another out of the land?
+Will: No. That's unity of possession: every co-owner, joint or in common, may occupy the whole, and none can exclude another except under section thirteen of TOLATA or a court order.
+Hannah: How many people can hold the legal title?
+Will: No more than four, as trustees, and only as joint tenants: the legal estate can't be severed, and only the beneficial interest can be held as tenants in common. On a transfer to more, the first four named who are able and willing to act hold it on trust for all.
+Hannah: Can a minor hold the legal title?
+Will: No: a purported transfer to a minor takes effect as a declaration of trust in their favour.
+Hannah: Then what happens to each title on a death?
+Will: The deciding rule: survivorship always operates at law, so the surviving trustees take the legal title. In equity, it operates only if the beneficial joint tenancy hasn't been severed; a tenant in common's share passes under their will or intestacy.
+Hannah: And when one of two registered co-owners dies, can the survivor sell alone?
+Will: Only with no Form A restriction, which means they were beneficial joint tenants; then the survivor produces the death certificate. With a restriction, the survivor must appoint a second trustee, so the money is paid to two trustees, giving a valid receipt and overreaching the deceased's share.
+Hannah: Is there any way round that second trustee?
+Will: Yes, where the survivor is now solely beneficially entitled and applies, with evidence, to cancel the restriction.
+Hannah: Does survivorship work between tenants in common?
+Will: No. Say A holds a third as a tenant in common, and B and C are joint tenants of two thirds: when B dies, C takes B's interest by survivorship, and A's share is unaffected.
+Hannah: How is the equitable title decided in the first place?
+Will: The other deciding rule: an express declaration of the beneficial interests in the transfer is conclusive. That holds unless it's set aside for fraud, mistake or undue influence, rectified, or varied by a later agreement or proprietary estoppel.
+Hannah (summing up): Survivorship always operates at law, where the title is always a joint tenancy; in equity, only while the beneficial joint tenancy is unsevered.
+Will: Yes: at law survivorship always works, and in equity it depends on severance.
+## Block 3: Severance: nature, methods and effect
+Hannah: Before severance, a question on the titles: the transfer to Cal and Dee declares them tenants in common in equal shares, but Cal paid most. Does he get more?
+Will (scenario pause): <think>
+Will: No. The declaration is conclusive, and nothing suggests it should be set aside, rectified or varied. The tempting answer is to look at who paid more, but with an express declaration contributions don't come into it.
+Hannah: Right: the express declaration wins, whatever each of them paid.
+Will: Now severance: its nature, methods and effect. Only the beneficial joint tenancy can be severed, and severance turns the severing party's interest into a tenancy in common of an equal share, one over n, irrespective of contributions. That's the deciding rule.
+Hannah: Can a joint tenant sever by will?
+Will: No: not by will, nor, on the prevailing view, by an oral unilateral declaration; the will leaves survivorship untouched.
+Hannah: What about three joint tenants where only one severs?
+Will: With three or more, the one who severs becomes a tenant in common of an equal share, and the others remain joint tenants of the rest among themselves.
+Hannah: Does severance touch the legal title?
+Will: No, the legal joint tenancy is unaffected. In registered land a Form A restriction should be entered, so a sale needs two trustees, protecting the severed share through overreaching.
+Hannah (summing up): Only the beneficial joint tenancy can be severed, never by will, and the severing party takes an equal share in common, whatever they contributed.
+Will: Yes: an equal share regardless of contributions, and never by will.
+## Block 4: Severance by notice in writing
+Hannah: Before written notice, a question on severance: Ed, Fay and Gus are joint tenants, and Ed's will leaves his share to his daughter. When Ed dies, who takes his interest?
+Will (scenario pause): <think>
+Will: Fay and Gus, by survivorship. The tempting answer is the daughter, but a will can't sever.
+Hannah: Right: survivorship beats the will.
+Will: Now severance by notice in writing. A joint tenant can sever alone by giving written notice to all the other joint tenants of an intention to sever now; no consent or reasons are needed.
+Hannah: What does the notice have to show?
+Will: An immediate, unconditional intention to sever. A request for future court action isn't enough, but an application seeking immediate sale and division can be.
+Hannah: And how must the notice be served?
+Will: The deciding rule: it's validly served if left at the recipient's last known abode or business address, or sent by recorded delivery and not returned undelivered. Once delivered, it's effective even if it's never read, or the sender later destroys it.
+Hannah (summing up): Written notice to all the other joint tenants severs if it shows an immediate, unconditional intention to sever and is validly served, read or not.
+Will: Yes: immediate, unconditional and properly served, read or not.
+## Block 5: Severance by other acts or things (Williams v Hensman)
+Hannah: Before the other acts that sever, a question on written notice: Hal and Ivy are the only joint tenants, and Hal sends Ivy a notice of his immediate intention to sever by recorded delivery; it isn't returned, and Ivy never opens it. Has Hal severed?
+Will (scenario pause): <think>
+Will: Yes. Recorded delivery not returned undelivered is valid service, and a delivered notice works unread. The tempting answer is that Ivy must read it, but delivery is what counts.
+Hannah: Right: an unread notice is still served.
+Will: Now severance by other acts or things, the Williams v Hensman ways. The deciding rule is an act operating on your own share: an inter vivos sale, mortgage or charge of a joint tenant's beneficial interest severs it. So does involuntary alienation, especially bankruptcy, as the interest vests in the trustee in bankruptcy.
+Hannah: What if all the joint tenants mortgage the land together?
+Will: That doesn't sever. But a joint tenant who forges the other's signature on a mortgage of the whole creates an equitable charge over their own beneficial interest only, and that severs. So does a forged transfer of the whole, or a charge that's ineffective against the other co-owner for undue influence.
+Hannah: And what else severs, apart from acting on your own share?
+Will: A mutual course of dealing: conduct of all the joint tenants showing a common intention that their shares are held separately. Mere negotiations that don't reach agreement aren't enough.
+Hannah (summing up): Selling, mortgaging or charging your own share severs, as does bankruptcy; so does all the joint tenants' conduct showing a common intention to hold separately, but not mere negotiations.
+Will: Yes: alone on your own share, or together by conduct.
+## Block 6: Resolution of disputes relating to co-owned land (TOLATA ss14-15)
+Hannah: Before disputes over co-owned land, a mixed question: Joe and Kim are beneficial joint tenants of their house, and Joe secretly charges his beneficial share, then defaults. Has he severed, and can the lender apply to court for a sale?
+Will (scenario pause): <think>
+Will: Yes to both. Charging his own share severs without Kim, and as chargee of a beneficiary's share, the lender can apply. The tempting answer is that severance needs everyone, but an act on your own share severs alone.
+Hannah: Right: charging his own share severs alone, and the chargee can go to court.
+Will: Now resolving disputes over co-owned land. Trustees of land must act unanimously, so if co-owners disagree, say one wants to sell and the other refuses, the dispute goes to court under section fourteen of TOLATA.
+Hannah: Who can make that application?
+Will: Any trustee, or anyone with an interest in the property, including a beneficiary, a mortgagee or chargee of a beneficiary's share and a trustee in bankruptcy.
+Hannah: What can the court order?
+Will: Any order it thinks fit about the trustees' functions, such as ordering or postponing sale, regulating occupation or requiring payments; it can also relieve trustees of consultation or consent duties, or declare the nature or extent of a person's interest.
+Hannah: What must the court weigh?
+Will: Factors that include these four. One, the intentions of whoever created the trust. Two, the purposes for which the property is held. Three, the welfare of any minor who occupies, or might reasonably be expected to occupy, the land as a home. Four, the interests of any secured creditor of any beneficiary.
+Hannah: How does the purpose factor play out?
+Will: If the purpose has ended, for example the relationship broke down or the children have grown up, sale is likely to be ordered. If it continues, for example it's still a home for the children, sale may be postponed.
+Hannah: And how is a creditor treated?
+Will: The deciding rule: a creditor's interest is one factor only, not automatically paramount, but where a creditor is owed money and isn't being paid, the court will usually order sale.
+Hannah (summing up): On a section fourteen application, sale is likely once the purpose of buying has ended, and usual where a creditor is owed money and not being paid.
+Will: Yes: an ended purpose or an unpaid creditor usually means sale.
+## Block 7: Also examinable: deaths, occupation, bankruptcy and more
+Hannah: Before the examinable extras, a question on disputes: Lena and Max have separated, their children are grown up, and Lena wants to sell the family home but Max refuses. What will the court probably do?
+Will (scenario pause): <think>
+Will: Order a sale, because the purpose the house was bought for has ended. The tempting answer is that Max's refusal blocks it, since trustees must act unanimously, but that deadlock is what the court resolves.
+Hannah: Right: an ended purpose points to sale, whatever Max wants.
+Will: Now the examinable extras, chiefly a co-owner's bankruptcy.
+Hannah: What happens when the trustee in bankruptcy applies for sale?
+Will: The deciding rule: section fifteen doesn't apply; the Insolvency Act does. Once more than one year has passed since the estate first vested in the trustee, the court must assume the creditors' interests outweigh all other considerations unless the circumstances are exceptional.
+Hannah: What counts as exceptional circumstances?
+Will: More than the usual melancholy consequences of bankruptcy, such as losing the home or disrupted schooling. Serious illness or disability of a family member may qualify and justify postponement.
+Hannah (summing up): On a trustee in bankruptcy's application, section fifteen doesn't apply: after one year from vesting, creditors' interests are presumed to prevail unless the circumstances are exceptional.
+Will: Yes: after the first year, the creditors win unless something exceptional is shown.
+## Recap
+Hannah: A last question, mixing bankruptcy with the court's factors: two years after vesting, Nia's trustee in bankruptcy applies to sell her home, and her husband says a move would disrupt the children's schooling. Will the court postpone the sale?
+Will (scenario pause): <think>
+Will: Probably not: after the first year the creditors' interests are presumed to prevail unless the circumstances are exceptional, and disrupted schooling is a usual melancholy consequence of bankruptcy. The tempting answer is to weigh the children's welfare under section fifteen, but that section doesn't apply here.
+Hannah: Right: schooling disruption isn't exceptional, so a postponement is unlikely.
+Will: Now the quick-fire round, area by area.
+Hannah: What's the summary for the trust behind co-ownership?
+Will (quick-fire pause): <think>
+Will: Co-owned land is always held on a trust of land; an express declaration needs signed written evidence, but resulting, implied and constructive trusts don't.
+Hannah: What's the summary for the legal and equitable titles?
+Will (quick-fire pause): <think>
+Will: Survivorship always operates at law, where the title is always a joint tenancy; in equity, only while the beneficial joint tenancy is unsevered.
+Hannah: What's the summary for severance in general?
+Will (quick-fire pause): <think>
+Will: Only the beneficial joint tenancy can be severed, never by will, and the severing party takes an equal share in common, whatever they contributed.
+Hannah: What's the summary for severance by written notice?
+Will (quick-fire pause): <think>
+Will: Written notice to all the other joint tenants severs if it shows an immediate, unconditional intention to sever and is validly served, read or not.
+Hannah: What's the summary for the other acts that sever?
+Will (quick-fire pause): <think>
+Will: Selling, mortgaging or charging your own share severs, as does bankruptcy; so does all the joint tenants' conduct showing a common intention to hold separately, but not mere negotiations.
+Hannah: What's the summary for disputes over selling co-owned land?
+Will (quick-fire pause): <think>
+Will: On a section fourteen application, sale is likely once the purpose of buying has ended, and usual where a creditor is owed money and not being paid.
+Hannah: And what's the summary for bankruptcy and the other extras?
+Will (quick-fire pause): <think>
+Will: On a trustee in bankruptcy's application, section fifteen doesn't apply: after one year from vesting, creditors' interests are presumed to prevail unless the circumstances are exceptional.
+Hannah: Finally, in one sentence, what decides most of this workshop's questions?
+Will: Co-owned land is always held on trust: survivorship always operates at law but in equity only while the beneficial joint tenancy is unsevered, and the court settles sale disputes, weighing factors including the purpose and creditors' interests.

@@ -6536,6 +6536,40 @@
       "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/land-ws04-rev-v1-f03223cb.mp3",
       "siteAudio": "audio/land-ws04-rev-v1-f03223cb.mp3",
       "pubDate": "2026-11-21T21:44:52+00:00"
+    },
+    {
+      "id": "land-ws07-rev-v1",
+      "unitId": "u-bpp-Land-07",
+      "title": "Land WS07 · Revision · 18 min",
+      "guideHash": "536cc78231",
+      "script": "scripts/land-ws07-rev-v1.txt",
+      "scriptHash": "7af48ff73a87",
+      "audio": "audio/land-ws07-rev-v1.mp3",
+      "recap": [
+        "Co-owned land is always held on a trust of land; an express declaration needs signed written evidence, but resulting, implied and constructive trusts don't.",
+        "Survivorship always operates at law, where the title is always a joint tenancy; in equity, only while the beneficial joint tenancy is unsevered.",
+        "Only the beneficial joint tenancy can be severed, never by will, and the severing party takes an equal share in common, whatever they contributed.",
+        "Written notice to all the other joint tenants severs if it shows an immediate, unconditional intention to sever and is validly served, read or not.",
+        "Selling, mortgaging or charging your own share severs, as does bankruptcy; so does all the joint tenants' conduct showing a common intention to hold separately, but not mere negotiations.",
+        "On a section fourteen application, sale is likely once the purpose of buying has ended, and usual where a creditor is owed money and not being paid.",
+        "On a trustee in bankruptcy's application, section fifteen doesn't apply: after one year from vesting, creditors' interests are presumed to prevail unless the circumstances are exceptional."
+      ],
+      "map": [
+        "Introduction to co-ownership and types of trust",
+        "Concepts and rules on legal and equitable titles",
+        "Severance: nature, methods and effect",
+        "Severance by notice in writing",
+        "Severance by other acts or things (Williams v Hensman)",
+        "Resolution of disputes relating to co-owned land (TOLATA ss14-15)",
+        "Also examinable: deaths, occupation, bankruptcy and more"
+      ],
+      "summary": "Co-owned land is always held on trust: survivorship always operates at law but in equity only while the beneficial joint tenancy is unsevered, and the court settles sale disputes, weighing factors including the purpose and creditors' interests.",
+      "madeAt": "2026-11-22T12:43:47+00:00",
+      "status": "queued",
+      "pilot": false,
+      "approved": false,
+      "checks": "code ok (check_script_v23 0 errors; revcheck covers 60/60, 16.8 min); known-error scan 0 hits (1 match cleared by the Opus ke-triage: the line states the undue-influence exception); Opus accuracy and line-by-line checks: 6 fixes merged and applied by fixflow; code checks and scan clean after; fresh Opus check of the changed lines: pass",
+      "spec": "2.2"
     }
   ],
   "replays": [
