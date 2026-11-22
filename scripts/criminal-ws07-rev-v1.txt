@@ -1,0 +1,185 @@
+---
+id: criminal-ws07-rev-v1
+unit: u-bpp-Criminal-07
+guide_hash: c1e1a0c2fd
+made: 2026-11-22T17:44:54+00:00
+kind: revision
+title: Criminal WS07 · Revision · 18 min
+map:
+- Overview: the hierarchy of non-fatal offences
+- Assault
+- Battery
+- Assault occasioning actual bodily harm (s.47)
+- Malicious wounding or inflicting GBH (s.20)
+- Wounding or causing GBH with intent (s.18)
+- Intoxication
+recap:
+- Match the harm actually caused with the defendant's mens rea, and choose the most serious offence for which both are present.
+- Assault is intentionally or recklessly causing the victim actually to apprehend immediate unlawful force, even on an inaccurate belief.
+- Battery is any intentional or reckless application of unlawful force, however slight; neither injury nor pain is needed.
+- Section forty-seven is an assault or battery causing actual bodily harm; no harm need be intended or foreseen.
+- Section twenty needs a wound or really serious harm, plus intent or foresight that some physical harm, however minor, might result.
+- Section eighteen needs intent to do GBH, or intent to resist or prevent lawful arrest plus foresight of some harm; intent only to wound gives section twenty.
+- Intoxication helps only where the defendant did not form the mens rea: involuntary intoxication for any offence, voluntary intoxication only for a specific intent offence.
+summary: Match the harm actually caused with what the defendant intended or foresaw, choose the most serious offence where both are present, and remember that voluntary intoxication can defeat only a specific intent offence such as section eighteen.
+invented:
+- Tom
+- Mia
+- Dan
+- Priya
+- Leo
+- Ben
+- Asha
+- Kofi
+- Nell
+- Mara
+- Rob
+guide_only:
+- P:CR-1-01 (what liability for any offence needs: homed in another workshop)
+- P:CR-2.1.1-10 (consent and unlawful force: homed in another workshop)
+- P:CR-3.2-01 (direct intention: homed in another workshop)
+- P:CR-3.2-05 (the full subjective recklessness test: homed in another workshop)
+- P:CR-3.1-06 (the duty after inadvertently creating a danger: homed in another workshop)
+- P:CR-3.1-05 (the sources of a duty to act: homed in another workshop)
+- P:CR-3.1-08 (factual causation: homed in another workshop)
+- P:CR-3.1-09 (legal causation: homed in another workshop)
+- P:CR-3.2-12 (the general rule that mens rea is proved for each element, and the offences needing less: left out for length)
+- P:CR-3.1-13 (the thin skull rule: homed in another workshop)
+- P:CR-3.2-06 (the subjective test for maliciously and for criminal damage: homed in another workshop)
+- P:CR-2.1.4-02 (the wording caused against inflict: left out for length)
+- P:CR-3.2-03 (the oblique intention test: homed in another workshop)
+- P:CR-3.2-08 (transferred malice in general: homed in another workshop)
+- P:CR-1-02 (the burden of proof where a defence is raised: homed in another workshop)
+- P:CR-4.1-02 (the full list of specific intent offences, and attempts: homed in another workshop)
+- P:CR-4.1-03 (the full list of basic intent offences, and the criminal damage points: homed in another workshop)
+- P:CR-4.1-04 (the sober foresight question on a basic intent charge: homed in another workshop)
+- P:CR-4.1-05 (the basic intent fallbacks, and the offences with none: homed in another workshop)
+- P:CR-2.1.1-12 (an honest, drunken belief in consent to touching: homed in another workshop)
+- P:CR-4.1-10 (the drunken belief in the owner's consent to criminal damage: homed in another workshop)
+- P:CR-4.1-12 (voluntary intoxication in loss of control: homed in another workshop)
+- P:CR-5.2-09 (alcohol dependency syndrome in diminished responsibility: homed in another workshop)
+---
+## Map
+Will: The big question is which non-fatal offence the defendant has committed, and what follows where one element isn't proved. Seven areas: the ladder of offences, assault, battery and section forty-seven.
+Hannah: Then section twenty, section eighteen and intoxication. Where do we begin?
+## Block 1: Overview: the hierarchy of non-fatal offences
+Will: With the overview: the hierarchy of non-fatal offences is a ladder. You pick the rung by matching the harm actually caused with the defendant's mens rea.
+Hannah: What does each rung need?
+Will: On harm, apprehension of force alone is assault, and a touch is battery. Actual bodily harm is section forty-seven, and a wound or GBH is section twenty or section eighteen. On mens rea, assault, battery and section forty-seven need intent or recklessness as to force. Section twenty needs foresight of some harm. Section eighteen needs intent to do GBH, or intent to resist or prevent lawful arrest plus foresight of some harm.
+Hannah: What happens where the jury acquits of the offence charged?
+Will: It may convict of a lesser offence whose elements are included in it. Four examples: section twenty on a section eighteen count, section forty-seven on section twenty, manslaughter on murder, or theft on robbery.
+Hannah (summing up): Match the harm actually caused with the defendant's mens rea, and choose the most serious offence for which both are present.
+Will: Yes: the top rung with both harm and mens rea wins.
+## Block 2: Assault
+Hannah: Before assault, a question on the ladder. Tom shoves Mia, foreseeing only a touch, and she suffers a wound. Which offence is it?
+Will (scenario pause): <think>
+Will: Section forty-seven. The tempting answer is section twenty, because of the wound, but that needs foresight of some harm.
+Hannah: What Tom foresaw decided it, not the wound.
+Will: Now assault: when is there an offence without any touching? Assault is intentionally or recklessly causing the victim to apprehend immediate unlawful force. The victim must expect force, not necessarily fear it, and no touching is needed.
+Hannah: What happens where the victim never notices the threat?
+Will: There's no assault, because the victim must actually apprehend force. Someone asleep, or with their back turned, apprehends nothing, though touching them can still be a battery. But the belief need not be accurate: an imitation or unloaded gun still counts where the victim believes it real.
+Hannah: How immediate must the force be?
+Will: Immediate is read generously: it's enough that the victim fears force at some time not excluding the immediate future. Silent or threatening phone calls, letters or messages can therefore be assaults where the victim fears force in the imminent future, but fear of force at a remote future time is not enough.
+Hannah: Can words alone be an assault?
+Will: They can, and words can also negate an apparent threat by showing that no force will be used. But a conditional threat that demands something the defendant has no right to is still an assault. The mens rea is intention or subjective recklessness as to causing that apprehension, or, for battery, as to applying unlawful force. Recklessness means the defendant actually foresaw the risk and unreasonably took it.
+Hannah (summing up): Assault is intentionally or recklessly causing the victim actually to apprehend immediate unlawful force, even on an inaccurate belief.
+Will: Right: actual apprehension counts, even on a false belief.
+## Block 3: Battery
+Hannah: Before battery, a question on assault. Dan makes a silent phone call to Priya, who fears he is about to arrive and attack her. Can that be an assault?
+Will (scenario pause): <think>
+Will: It can. The tempting answer is that a silent call threatens nothing, but it can be an assault where the victim fears force in the imminent future.
+Hannah: Her fear of imminent force was enough.
+Will: Now battery: when is a touch a battery, and when does it become section forty-seven? Battery is the intentional or reckless application of unlawful force to another, however slight. No injury or pain is needed, and touching the victim's clothing while it's being worn is enough.
+Hannah: Must the defendant apply the force directly?
+Will: Battery can be indirect: force applied through an object or another person counts. It can also be committed by omission: where the defendant creates a dangerous situation and fails to avert the resulting force, that failure to act can be a battery. The example is the defendant who says he has no needles before a search.
+Hannah: When does battery become something more serious?
+Will: When the assault or battery causes hurt or injury that is more than merely transient and trifling. The harm may be short-lived, like momentary unconsciousness, as long as it isn't trivial. The offence is then section forty-seven, with no extra mens rea; otherwise it stays common assault or battery.
+Hannah (summing up): Battery is any intentional or reckless application of unlawful force, however slight; neither injury nor pain is needed.
+Will: Yes: the slightest unlawful touch is enough.
+## Block 4: Assault occasioning actual bodily harm (s.47)
+Hannah: Before actual bodily harm, a question on battery. Leo punches a woman, and she drops her baby. Is that a battery on the baby?
+Will (scenario pause): <think>
+Will: It is. The tempting answer is that Leo never touched the baby, but force applied through another person counts.
+Hannah: Indirect force was still force Leo applied.
+Will: Now section forty-seven, assault occasioning actual bodily harm. It has three parts: an assault or battery, actual bodily harm, and causation of that harm by the assault or battery.
+Hannah: What counts as actual bodily harm?
+Will: Any hurt or injury calculated to interfere with the victim's health or comfort. It need not be permanent or serious, but must be more than merely transient and trifling, which means brief harm counts when it isn't trivial. Examples include bruising, a broken tooth and cutting off a substantial amount of hair. Psychiatric injury is ABH only where it's a recognised clinical condition, such as PTSD. Mere fear, panic, distress or other emotions are not ABH.
+Hannah: What does occasioning require?
+Will: Causation: the assault or battery must be a factual and legal cause of the harm. The victim's reasonably foreseeable reaction doesn't break the chain. Only a response so daft or unexpected that no reasonable person could have foreseen it does that.
+Hannah: What mens rea is needed?
+Will: Only that of the assault or battery: intention or subjective recklessness as to apprehension of force, or as to applying force. Neither intention nor foresight of any harm is needed. Section twenty, by contrast, needs a wound or GBH and foresight of some harm. A defendant who foresaw only a touch is therefore correctly charged with section forty-seven even if the victim suffered a wound.
+Hannah (summing up): Section forty-seven is an assault or battery causing actual bodily harm; no harm need be intended or foreseen.
+Will: Right: the mens rea attaches to the assault or battery.
+## Block 5: Malicious wounding or inflicting GBH (s.20)
+Hannah: Before malicious wounding, a question on actual bodily harm. After Ben's threats, Asha feels fear and panic, but has no recognised clinical condition. Is that ABH?
+Will (scenario pause): <think>
+Will: It isn't. The tempting answer is that real distress must be harm, but psychiatric injury is ABH only where it's a recognised clinical condition.
+Hannah: Mere fear and panic are emotions, not ABH.
+Will: Now section twenty: malicious wounding or inflicting GBH. The offence is unlawfully and maliciously wounding, or inflicting grievous bodily harm upon, any other person, which gives two alternative forms of actus reus: a wound, or inflicting GBH.
+Hannah: What exactly is a wound?
+Will: A break in the continuity of the whole skin, both dermis and epidermis. Internal bleeding, a ruptured blood vessel in the eye, or a scratch of the outer skin only is not a wound, though it may be ABH. But any wound, however minor, satisfies the actus reus: there's no seriousness threshold, unlike GBH, although in practice a minor wound is often charged as section forty-seven.
+Hannah: And what does GBH mean?
+Will: Really serious harm, or simply serious harm, judged on all the circumstances, including the victim's age and health. Several injuries can be considered together, and serious psychiatric injury that is a recognised condition can be GBH. Inflicting it needs no assault or direct application of force, because inflict means cause: GBH caused by stalking that leads to psychiatric harm, or by infecting the victim with a disease, can be inflicted.
+Hannah: And what does maliciously demand?
+Will: The defendant must intend, or subjectively foresee, that some physical harm to some person might result, albeit of a minor nature. There's no need to foresee a wound or GBH.
+Hannah (summing up): Section twenty needs a wound or really serious harm, plus intent or foresight that some physical harm, however minor, might result.
+Will: Yes: foresight of only some physical harm is enough.
+## Block 6: Wounding or causing GBH with intent (s.18)
+Hannah: Before wounding with intent, a question on section twenty. Kofi scratches Nell's outer skin only. Is that a wound?
+Will (scenario pause): <think>
+Will: It isn't. The tempting answer is yes, because even a minor wound counts, but a scratch of the outer skin only doesn't break the whole skin.
+Hannah: Minor is fine, but only once the whole skin is broken.
+Will: Now section eighteen: wounding or causing GBH with intent. The offence is unlawfully and maliciously wounding or causing GBH to any person, with one of two intents: intent to do GBH, or intent to resist or prevent the lawful apprehension or detainer of any person.
+Hannah: What counts as intent to do GBH?
+Will: Direct or oblique intent. An intent only to wound is not enough, which means a wound with intent to wound but not to do GBH is section twenty, not section eighteen. Recklessness is never enough either: offences requiring intention need proof of direct or oblique intention. They include murder, section eighteen, attempts as to the consequence and theft's intention permanently to deprive.
+Hannah: And what about the second intent, resisting arrest?
+Will: The defendant must have that specific intent, to resist or prevent the lawful apprehension or detainer of any person, the defendant included. An intent to cause GBH is not needed on this limb. But the defendant must also act maliciously as to the wound or GBH, which means at least foreseeing that some harm might result, as for section twenty.
+Hannah: What separates section eighteen from section twenty?
+Will: They share the actus reus. Section eighteen requires a specific intent, to cause GBH or to resist arrest, while section twenty needs only foresight of some harm. And transferred malice applies: an intent to cause GBH to one person transfers to another person whom the blow injures instead.
+Hannah: What follows where less harm, drink or death comes in?
+Will: A defendant who intended GBH but caused only ABH is not guilty of section eighteen: the charge is section forty-seven, or attempted section eighteen. Section eighteen is a specific intent offence, which means evidence that voluntary intoxication prevented the defendant from forming the intent to cause GBH negates it, and the fall-back is section twenty, which is basic intent. And where the victim dies from injuries inflicted with intent to cause GBH, the charge is murder, because GBH intent is sufficient malice aforethought.
+Hannah (summing up): Section eighteen needs intent to do GBH, or intent to resist or prevent lawful arrest plus foresight of some harm; intent only to wound gives section twenty.
+Will: Yes: without one of those intents, section eighteen fails.
+## Block 7: Intoxication
+Hannah: Before intoxication, a question mixing section eighteen and section twenty. Intending to resist a lawful arrest, Mara causes GBH, foreseeing some harm but not intending GBH. Which offence is it?
+Will (scenario pause): <think>
+Will: Section eighteen. The tempting answer is section twenty, because Mara didn't intend GBH, but the second limb needs only intent to resist lawful arrest plus foresight of some harm.
+Hannah: Intent to resist arrest did the work of intent to do GBH.
+Will: Now intoxication: when does being drunk or drugged help the defendant? It's not a free-standing defence: it matters only where, because of it, the defendant did not in fact form the mens rea. A drunken intent is still an intent, which means a defendant who formed the mens rea is guilty, even if only because disinhibited by drink or drugs. And Dutch courage doesn't help: a defendant who forms the intention while sober, and then gets drunk for the courage to carry it out, cannot rely on the intoxication, even for a specific intent offence.
+Hannah: When is intoxication voluntary, and when involuntary?
+Will: It's voluntary where the defendant knowingly took alcohol or a dangerous drug, even if the defendant underestimated its strength or effect. It's treated as involuntary where the defendant took a drug as medically prescribed, or a non-dangerous drug such as a sedative that the defendant did not know to be liable to cause aggression or unpredictability. That holds unless the defendant was reckless in taking it.
+Hannah: What does involuntary intoxication achieve?
+Will: It's a defence to any offence, specific or basic intent, provided the defendant did not in fact form the mens rea. A spiked drink is the example. It's no defence where the defendant still formed the mens rea, even though the defendant would not have acted that way when sober.
+Hannah: And what does voluntary intoxication do on a basic intent charge?
+Will: Section twenty is a basic intent offence, and voluntary intoxication is no defence to it, which is why a drunk defendant lacking the intent for section eighteen is typically convicted of section twenty instead.
+Hannah: What about a drunken mistake that force is needed?
+Will: A mistaken belief in the need to use force cannot be relied on where it's attributable to voluntary intoxication, for any offence, including murder. That covers self-defence, defence of another or of property, and prevention of crime or arrest. The bar covers a mistake immediately and proximately caused by earlier voluntary drink or drugs, such as an induced psychotic episode, even if the defendant is no longer intoxicated. But it doesn't cover long-term mental illness caused by past misuse.
+Hannah (summing up): Intoxication helps only where the defendant did not form the mens rea: involuntary intoxication for any offence, voluntary intoxication only for a specific intent offence.
+Will: Yes: no mens rea first, then the kind of intoxication and offence.
+## Recap
+Hannah: One last scenario, on intoxication. Because he is very drunk, Rob wrongly thinks a stranger is about to hit him, and punches first. Can Rob rely on that mistake for self-defence?
+Will (scenario pause): <think>
+Will: He can't. The tempting answer is that an honest mistake is judged as Rob saw things, but a mistaken belief in the need for force can't be relied on where voluntary intoxication caused it.
+Hannah: The drink caused the mistake, which is why it couldn't help. Now the quick-fire round. What's the summary for the ladder of offences?
+Will (quick-fire pause): <think>
+Will: Match the harm actually caused with the defendant's mens rea, and choose the most serious offence for which both are present.
+Hannah: What's the summary for assault?
+Will (quick-fire pause): <think>
+Will: Assault is intentionally or recklessly causing the victim actually to apprehend immediate unlawful force, even on an inaccurate belief.
+Hannah: What's the summary for battery?
+Will (quick-fire pause): <think>
+Will: Battery is any intentional or reckless application of unlawful force, however slight; neither injury nor pain is needed.
+Hannah: What's the summary for section forty-seven?
+Will (quick-fire pause): <think>
+Will: Section forty-seven is an assault or battery causing actual bodily harm; no harm need be intended or foreseen.
+Hannah: What's the summary for section twenty?
+Will (quick-fire pause): <think>
+Will: Section twenty needs a wound or really serious harm, plus intent or foresight that some physical harm, however minor, might result.
+Hannah: What's the summary for section eighteen?
+Will (quick-fire pause): <think>
+Will: Section eighteen needs intent to do GBH, or intent to resist or prevent lawful arrest plus foresight of some harm; intent only to wound gives section twenty.
+Hannah: What's the summary for intoxication?
+Will (quick-fire pause): <think>
+Will: Intoxication helps only where the defendant did not form the mens rea: involuntary intoxication for any offence, voluntary intoxication only for a specific intent offence.
+Hannah: And can you give me the whole workshop in one sentence?
+Will: Match the harm actually caused with what the defendant intended or foresaw, choose the most serious offence where both are present, and remember that voluntary intoxication can defeat only a specific intent offence such as section eighteen.

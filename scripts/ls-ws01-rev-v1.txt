@@ -1,0 +1,298 @@
+---
+id: ls-ws01-rev-v1
+unit: u-bpp-LS-01
+guide_hash: ca93b27360
+made: 2026-11-22T17:44:54+00:00
+kind: revision
+title: LS WS01 · Revision · 23 min
+map:
+- Regulators and the regulatory framework
+- Client complaints: the firm, the Legal Ombudsman, the SRA and the Tribunal
+- The SRA's Standards and Regulations, the Principles and maintaining trust
+- Equality, diversity and inclusion; the Equality Act 2010
+- Undertakings
+- Duties to the court
+- Service, competence, supervision and client money
+- Publicity, unsolicited approaches and the Transparency Rules
+- Introductions, referrals and fee sharing
+- Bribery and data protection
+- Confidentiality, disclosure and adverse interests
+- More equality rules: employers, proof and time limits
+recap:
+- The SRA regulates solicitors, the Law Society only represents them, and the Legal Services Board oversees every approved regulator.
+- Poor service goes to the Legal Ombudsman and misconduct to the SRA, but striking off needs the Tribunal.
+- Where Principles conflict, the wider public interest outranks the client's; and integrity is wider than honesty.
+- Direct discrimination can't be justified, except for age; a service provider's reasonable adjustments duty is anticipatory, an employer's reactive.
+- An undertaking binds the solicitor personally, whatever the client later says or fails to pay.
+- A client about to mislead the court means stop acting; one who already has means advise correction, ceasing to act only on refusal.
+- Money on account of costs before a bill is client money, and pays costs only once a bill or written notification of costs is given.
+- Unsolicited approaches to members of the public are banned, except to current or former clients; approaching businesses isn't caught.
+- Referral fees are banned for clients subject to criminal proceedings and, by statute, in personal injury and death claims; disclosure cures neither.
+- A firm commits an offence when a person associated with it bribes, but it has a defence if it had adequate procedures.
+- Confidentiality survives the retainer and the client's death, and beats the duty of disclosure to another client in a clash.
+- An employer is liable for employees' discrimination, harassment and victimisation in the course of employment, known or not, unless it shows it took all reasonable steps.
+summary: Name the body, then the duty: the SRA handles misconduct and the Legal Ombudsman poor service; the wider public interest and the court outrank the client; confidentiality to one client outranks disclosure to another; and direct discrimination, age apart, can't be justified.
+invented:
+- none
+guide_only:
+- P:LS-1.1.3-01 (the list of other approved regulators)
+- P:LS-1.1.3-05 (legal executives, licensed conveyancers and others act within their authorisation; unauthorised persons under supervision)
+- P:LS-1.1.2-10 (when things go wrong on your own matter)
+- add:4 (£1 million: charities, clubs and trusts complaining to the Legal Ombudsman)
+- P:NEW-LS-02 (the Tribunal's standard of proof, the prosecutor and appeals)
+- P:ETH-P-01 (whom the Principles bind)
+- P:ETH-P-21 (the Principles sit above the Codes; which standard to name)
+- P:ETH-P-19 (personal accountability; instructions are no defence)
+- P:LS-1.1-02 (the seven Principles listed)
+- P:ETH-P-02 (Principle 1 in detail)
+- P:ETH-P-03 (Principle 2 in detail)
+- P:ETH-P-04 (Principle 3 in detail)
+- P:ETH-P-06 (Principle 6 in detail)
+- P:ETH-P-07 (Principle 7 in detail)
+- P:ETH-P-08 (which Principles override which)
+- P:ETH-P-10 (the client who insists: refuse, then cease to act)
+- P:ETH-P-13 (integrity as the higher standards society expects of professionals)
+- P:ETH-P-14 (recklessness and other conduct showing a lack of integrity; mere mistakes)
+- P:ETH-P-16 (the Code's scope boundary)
+- P:ETH-P-18 (private conduct must also engage a standard in the SRA's rules)
+- P:ETH-CS-1-01 (unfair discrimination through personal views)
+- P:ETH-CS-1-04 (abusing position, unfair advantage)
+- P:ETH-CS-1-05 (litigants in person)
+- P:ETH-CS-1-26 (misleading a client)
+- P:ETH-CS-1-27 (letting a client mislead others)
+- P:LS-1.2.1-01 (the nine protected characteristics listed)
+- P:LS-1.2.1-02 (the capacities in which Equality Act duties are owed)
+- P:ETH-CS-3-15 (the client's attributes, needs and circumstances)
+- P:ETH-CS-1-03 (reasonable adjustments for disabled clients, at no cost to them)
+- P:LS-1.2.1-21 (treating colleagues fairly and with respect)
+- P:ETH-CS-8-04 (a complaints procedure)
+- P:LS-1.2.1-05 (more favourable treatment of a disabled person)
+- P:LS-1.2.1-11 (the definition of harassment)
+- P:LS-1.2.1-12 (harassment in the provision of services)
+- P:LS-1.2.1-13 (victimisation)
+- P:LS-1.2.1-10 (the definition of disability)
+- add:6 (12 months: a long-term effect)
+- P:LS-1.2.1-07 (discrimination arising from disability)
+- P:LS-1.2.1-08 (the three requirements of the reasonable adjustments duty)
+- P:ETH-CS-1-16 (the definition of an undertaking)
+- P:ETH-CS-1-17 (performing an undertaking in time)
+- P:ETH-CS-1-19 (the client's authority for an undertaking)
+- P:ETH-CS-1-21 (staff undertakings bind the firm; ambiguity)
+- P:ETH-CS-2-02 (tampering with evidence)
+- P:ETH-CS-2-03 (influencing the substance of evidence)
+- P:ETH-CS-2-07 (benefits to witnesses)
+- P:ETH-CS-2-09 (properly arguable assertions)
+- P:ETH-CS-2-11 (contempt and court orders)
+- P:ETH-CS-2-14 (wasting the court's time)
+- P:ETH-CS-2-16 (adverse authorities and procedural irregularities)
+- P:ETH-CS-3-11 (competent, timely service)
+- P:ETH-CS-3-13 (maintaining competence)
+- P:ETH-CS-3-17 (accountability for supervised work)
+- P:ETH-CS-3-20 (managers ensuring others' competence)
+- P:ETH-CS-4-05 (safeguarding money and assets)
+- P:ETH-CS-4-14 (the Code standard and the Accounts Rules)
+- P:ETH-CS-8-14 (accurate publicity)
+- P:LS-2.1-07 (what the Transparency Rules require firms to publish)
+- add:12 (£100,000: debt recovery under the Transparency Rules)
+- P:LS-2.4-05 (cost information with a fixed fee; what to publish)
+- P:ETH-CS-5-01 (telling the client of interests in a referral)
+- P:ETH-CS-5-03 (telling clients of fee sharing)
+- P:ETH-CS-5-04 (fee-sharing agreements in writing)
+- P:ETH-CS-5-08 (a payment that appears to be a referral fee)
+- P:ETH-CS-5-06 (clients obtained improperly)
+- P:ETH-CS-5-09 (independence in referral arrangements)
+- P:ETH-CS-5-10 (own interest conflict in a referral)
+- P:ETH-CS-6-25 (disclosure required by law)
+- P:ETH-CS-6-26 (disclosure in exceptional cases)
+- P:ETH-CS-6-27 (third parties have no right to the client's information)
+- P:ETH-CS-6-29 (the duty of disclosure)
+- P:ETH-CS-6-30 (no disclosure where the law prohibits it)
+- P:ETH-CS-6-31 (no disclosure with the client's informed consent)
+- P:ETH-CS-6-32 (no disclosure where serious injury would follow)
+- P:ETH-CS-6-33 (mistakenly disclosed privileged documents)
+- P:ETH-CS-6-21 (acting with effective measures against disclosure)
+- P:ETH-CS-6-22 (acting with informed consent)
+- P:LS-1.2.1-15 (the duty to prevent sexual harassment)
+- add:8 (25%: the uplift for breach of that duty)
+- P:LS-1.2.1-16 (positive action and positive discrimination)
+- P:LS-1.2.1-17 (sex and gender reassignment)
+- add:7 (26 weeks: pregnancy and maternity in services)
+---
+## Map
+Will: This is the regulatory and legal environment. The big question: who regulates a solicitor, which standards bind them, and what follows a breach? There are twelve areas, in four groups.
+Hannah: What are the four groups?
+Will: Regulators and complaints. Standards, equality and the core duties. Business conduct and confidentiality. And more equality rules.
+## Block 1: Regulators and the regulatory framework
+Hannah: Let's start with the regulators and the regulatory framework. Who regulates solicitors, and who oversees the regulators?
+Will: Solicitors are regulated by the SRA, the independent regulatory arm of the Law Society, which is the approved regulator under the Legal Services Act. The Legal Services Board oversees all approved regulators. The Law Society itself represents the profession: it doesn't investigate or discipline solicitors.
+Hannah: And what may a self-employed barrister do?
+Will: Barristers are regulated by the Bar Standards Board. A self-employed barrister may be instructed by solicitors, or directly by the public if qualified for public access. But they may not conduct litigation unless the Bar Standards Board authorises it, and they may not hold client money.
+Hannah (summing up): The SRA regulates solicitors, the Law Society only represents them, and the Legal Services Board oversees every approved regulator.
+Will: Yes: the SRA regulates, the Law Society represents, and the Legal Services Board oversees.
+## Block 2: Client complaints: the firm, the Legal Ombudsman, the SRA and the Tribunal
+Hannah: Before client complaints: a client thinks her solicitor was dishonest and writes to the Law Society. Is that the right body?
+Will (scenario pause): <think>
+Will: It isn't: the SRA investigates and disciplines solicitors. The tempting answer is the Law Society, but it only represents the profession.
+Hannah: Yes: discipline belongs to the SRA.
+Will: Now, client complaints: who deals with one, and with what powers? The Legal Ombudsman deals with service complaints about all authorised persons, such as delay, poor communication or excessive fees. The SRA, or the lawyer's other regulator, deals with professional misconduct, such as dishonesty or breach of rules. The same facts can go to both.
+Hannah: Can the client go straight to the Ombudsman?
+Will: Normally not: the client must first use the firm's complaints procedure. The Ombudsman will accept the complaint after the firm's final response, or after 8 weeks. And where a complaint isn't resolved to the client's satisfaction within 8 weeks of being made, you must tell the client in writing of any right to complain to the Ombudsman, the time limit and full contact details.
+Hannah: How long does the client then have?
+Will: Two limits, and both apply. The complaint must normally be referred within 6 months of the firm's final response, if that response gave the Ombudsman's details and the time limit. And within 1 year of the act or omission, or of when the complainant should reasonably have known of it.
+Hannah: What can the Ombudsman award?
+Will: Remedies include an apology, reducing or refunding fees, and putting the error right at the firm's expense. Compensation is up to £50,000. The decision binds the firm if the complainant accepts it.
+Hannah: Now misconduct. What can the SRA do itself?
+Will: The SRA can itself rebuke, fine, and impose conditions on a practising certificate or a firm's authorisation. It can also make section 43 orders, revoke a firm's authorisation and intervene. Its fine is up to £25,000, but unlimited where the breach or misconduct inhibits the prevention or detection of economic crime.
+Hannah: And what needs the Tribunal?
+Will: Striking off, suspension and other unlimited fines require prosecution before the Solicitors Disciplinary Tribunal.
+Hannah (summing up): Poor service goes to the Legal Ombudsman and misconduct to the SRA, but striking off needs the Tribunal.
+Will: Yes: service or misconduct picks the body, and the SRA can't strike off itself.
+## Block 3: The SRA's Standards and Regulations, the Principles and maintaining trust
+Hannah: Before the SRA's standards and Principles: the SRA wants a dishonest solicitor struck off. Can it do that itself?
+Will (scenario pause): <think>
+Will: It can't: striking off requires prosecution before the Solicitors Disciplinary Tribunal. The tempting answer is yes, since the SRA can fine, but its own powers stop short.
+Hannah: Yes: the SRA prosecutes, and the Tribunal strikes off.
+Will: Now the SRA's Standards and Regulations, and the Principles. Take a conflict between Principles first. Those that safeguard the wider public interest, such as the rule of law and public confidence in a trustworthy profession, take precedence over an individual client's interests. And where relevant, you tell the client when your duty to the court and other professional obligations will outweigh your duty to them.
+Hannah: How is dishonesty judged?
+Will: By the Ivey test, in two stages. First, establish what the solicitor actually knew or believed about the facts. Then ask whether the conduct was dishonest by the standards of ordinary decent people. It's irrelevant that the solicitor didn't think it dishonest.
+Hannah: And is integrity the same as honesty?
+Will: They're separate Principles, and integrity is wider: it means adherence to the ethical standards of your own profession. So a solicitor can lack integrity without being dishonest, but dishonesty always shows a lack of integrity too. For example, recklessly allowing the court to be misled shows a lack of integrity, not dishonesty.
+Hannah: Do the Principles reach a solicitor's private life?
+Will: Only where the conduct realistically touches on the solicitor's practice or the standing of the profession, and engages a standard in or necessarily implicit from the SRA's rules: for example dishonesty, criminal offences, or sexual misconduct towards a junior colleague at a work social event. Purely private conduct with no such link isn't regulated.
+Hannah (summing up): Where Principles conflict, the wider public interest outranks the client's; and integrity is wider than honesty.
+Will: Yes: the public interest comes first, and lacking integrity doesn't need dishonesty.
+## Block 4: Equality, diversity and inclusion; the Equality Act 2010
+Hannah: Before equality and the Equality Act: a solicitor backdated a document but sincerely thought that wasn't dishonest. Does his own view save him?
+Will (scenario pause): <think>
+Will: It doesn't: the Ivey test takes what he actually knew, then applies ordinary decent people's standards. The tempting answer is his own sincere view, but that's irrelevant.
+Hannah: Yes: his knowledge is subjective, but the standard is objective.
+Will: Now equality, diversity and inclusion: what counts as discrimination? In the provision of services, marriage and civil partnership isn't protected: it's protected only in employment. And in services, age discrimination protection doesn't apply to under-18s.
+Hannah: What is direct discrimination, and can it be justified?
+Will: It's treating someone less favourably than others are or would be treated, because of a protected characteristic. That includes one they're perceived to have, or that someone they associate with has, though marriage and civil partnership is covered only at work and only for the person's own marriage. It can't be justified, except for age, which can be justified as a proportionate way of achieving a legitimate aim.
+Hannah: How is indirect discrimination different?
+Will: It's a provision, criterion or practice applied to everyone. It must put people sharing a protected characteristic at a particular disadvantage, and put the claimant at that disadvantage. And it's unlawful unless the provider shows it's a proportionate means of achieving a legitimate aim. It doesn't apply to pregnancy and maternity. The test is a particular disadvantage, not a significant one.
+Hannah: Is the reasonable adjustments duty the same for clients and for staff?
+Will: It isn't. For service providers the duty is anticipatory: it's owed to disabled people generally, so the firm must plan ahead. For employers it's reactive: it's owed to a particular disabled employee or applicant, and arises only if the employer knows, or ought reasonably to know, of the disability and the likely disadvantage.
+Hannah (summing up): Direct discrimination can't be justified, except for age; a service provider's reasonable adjustments duty is anticipatory, an employer's reactive.
+Will: Yes: direct discrimination is justifiable only for age, and only the employer's duty waits until it knows, or ought reasonably to know, of both the disability and the disadvantage it's likely to cause.
+## Block 5: Undertakings
+Hannah: Before undertakings: a firm's office has steps at the door, and no disabled client has asked for help. Does the firm owe a duty yet?
+Will (scenario pause): <think>
+Will: It does: for a service provider the duty to make reasonable adjustments is anticipatory, owed to disabled people generally. The tempting answer is to wait for a request, but that's the employer's reactive duty.
+Hannah: Yes: a service provider must plan ahead.
+Will: Now undertakings: who is bound, and for how long? An undertaking is personal to the solicitor. It binds you even where the client later countermands it or fails to put you in funds, and it can't be withdrawn or varied without the recipient's agreement. So give one only about matters within your control: for example, undertake to pay costs only from funds already held or irrevocably authorised.
+Hannah (summing up): An undertaking binds the solicitor personally, whatever the client later says or fails to pay.
+Will: Yes: it's the solicitor's own promise, so give it only within your control.
+## Block 6: Duties to the court
+Hannah: Before duties to the court: a solicitor undertakes to pay the other side's costs, and the client never sends the money. Is the solicitor still bound?
+Will (scenario pause): <think>
+Will: Yes, personally. The tempting answer is that the promise falls with the funds, but an undertaking binds even where the client fails to provide them.
+Hannah: Yes: the client's default doesn't release the solicitor.
+Will: Now duties to the court: when do they override the client's wishes? If the client insists on giving evidence you know is false, or on otherwise misleading the court, you must stop acting. In court proceedings, you apply to come off the record on the ground of professional embarrassment. You must not tell the court the underlying reason, because the client's communications are confidential and privileged.
+Hannah: And what about a client who has already misled the court?
+Will: If you discover the client has already misled the court, for example by a false name or date of birth, you must advise the client to correct it. You must cease to act only if the client refuses, and you must not continue to rely on the false information. Ceasing to act straight away is the trap.
+Hannah (summing up): A client about to mislead the court means stop acting; one who already has means advise correction, ceasing to act only on refusal.
+Will: Yes: stop for the client about to mislead, and advise correction for the one who already has.
+## Block 7: Service, competence, supervision and client money
+Hannah: Before service, competence and client money: a solicitor learns mid-trial that her client gave a false date of birth in evidence. Must she cease to act at once?
+Will (scenario pause): <think>
+Will: Not at once: she must first advise the client to correct it, and cease to act only on refusal. The tempting answer is to withdraw immediately, but that's for a client who insists on misleading the court.
+Hannah: Yes: advice to correct comes first.
+Will: Now service, competence, supervision and client money. Money received on account of costs and unpaid disbursements, before a bill is delivered, is client money. It must be paid promptly into client account, and may be taken for costs only after a bill or other written notification of costs is given.
+Hannah: Is there any exception to paying it into client account?
+Will: One, with four conditions. It's the only client money held. The disbursements are ones you're liable for. You keep no client account for any other reason. And the client is told in advance where and how it will be held.
+Hannah (summing up): Money on account of costs before a bill is client money, and pays costs only once a bill or written notification of costs is given.
+Will: Yes: no bill or written notification, no payment of costs.
+## Block 8: Publicity, unsolicited approaches and the Transparency Rules
+Hannah: Before publicity and unsolicited approaches: a client pays money on account of costs, and no bill has been sent. Is it the firm's money?
+Will (scenario pause): <think>
+Will: It isn't: before a bill it's client money, paid promptly into client account. The tempting answer is that money for costs is the firm's, but that needs a bill or other written notification of costs.
+Hannah: Yes: it stays client money until billed or notified.
+Will: Now publicity, unsolicited approaches and the Transparency Rules. You must not make unsolicited approaches to members of the public to advertise legal services, except to current or former clients. Guidance treats that as direct or specifically targeted approaches, in person, by telephone or otherwise, such as writing to people identified as recent accident victims. Non-targeted advertising, such as an untargeted leaflet drop or an online advert, isn't caught.
+Hannah: Does the ban cover approaches to businesses?
+Will: It doesn't: the ban protects members of the public, so approaching businesses, or current and former clients, isn't caught. But you can't get round it by taking clients an introducer obtained by cold calling.
+Hannah (summing up): Unsolicited approaches to members of the public are banned, except to current or former clients; approaching businesses isn't caught.
+Will: Yes: the ban protects the public from targeted approaches, not businesses.
+## Block 9: Introductions, referrals and fee sharing
+Hannah: Before introductions and referrals: a firm writes unasked to local companies offering its services. Has it broken the ban on unsolicited approaches?
+Will (scenario pause): <think>
+Will: It hasn't: the ban protects members of the public, so businesses fall outside it. The tempting answer is that every unsolicited approach is banned, but the ban covers only members of the public who aren't current or former clients.
+Hannah: Yes: a business isn't a member of the public here.
+Will: Now introductions, referrals and fee sharing: which payments are banned outright? There are two bans. First, for clients who are the subject of criminal proceedings, you must not receive payments relating to a referral, or make payments to an introducer. Disclosure and consent don't make that acceptable. The ban doesn't extend to publicly funded clients as such.
+Hannah: And what is the second ban?
+Will: In personal injury and death claims, paying or receiving a referral fee is banned by statute, so disclosing it under the Code doesn't make it lawful. Paying a genuine fee for services such as advertising isn't caught, but paying for the referral itself is.
+Hannah (summing up): Referral fees are banned for clients subject to criminal proceedings and, by statute, in personal injury and death claims; disclosure cures neither.
+Will: Yes: both bans are absolute, whatever the client is told.
+## Block 10: Bribery and data protection
+Hannah: Before bribery and data protection: in a personal injury claim, a firm pays a referral fee and tells the client, who doesn't mind. Is the payment now lawful?
+Will (scenario pause): <think>
+Will: It isn't: in personal injury claims the fee is banned by statute. The tempting answer is that disclosure cures it, but disclosing it doesn't make it lawful.
+Hannah: Yes: the statute bans the fee itself.
+Will: Now bribery and data protection, where the guide gives only an outline. Know the bribery offences, including a firm's offence when an associated person bribes, and the firm's adequate procedures defence. And know what makes information personal data.
+Hannah (summing up): A firm commits an offence when a person associated with it bribes, but it has a defence if it had adequate procedures.
+Will: Yes: the firm answers for its associate's bribe, unless it can rely on the adequate procedures defence.
+## Block 11: Confidentiality, disclosure and adverse interests
+Hannah: Next, confidentiality, disclosure and adverse interests. How long does the duty of confidentiality last?
+Will: You must keep the affairs of current and former clients confidential, unless disclosure is required or permitted by law or the client consents. The duty continues after the retainer ends and after the client's death, and covers even the fact that someone is your client.
+Hannah: What happens when one client's confidence is something another client needs to know?
+Will: Confidentiality prevails over your duty of disclosure to the other client, so you must not pass the information on. If you cannot act properly for the second client without it, you must not act, or must stop acting, unless the first client consents.
+Hannah (summing up): Confidentiality survives the retainer and the client's death, and beats the duty of disclosure to another client in a clash.
+Will: Yes: it outlasts the client, and it beats disclosure.
+## Block 12: More equality rules: employers, proof and time limits
+Hannah: Before the remaining equality rules, on employers, proof and time limits: you know something confidential from one client, who hasn't consented to its disclosure, that a second client needs to hear. Do you tell the second client?
+Will (scenario pause): <think>
+Will: You don't: confidentiality prevails. The tempting answer is your duty of disclosure to the second client, but that duty gives way.
+Hannah: Yes: confidentiality beats disclosure.
+Will: Now more equality rules, starting with employers. Employers are liable for discrimination, harassment and victimisation by employees in the course of employment, whether or not they knew or approved, unless they show they took all reasonable steps to prevent it. The employee can also be personally liable.
+Hannah: Who has to prove what in a discrimination claim?
+Will: If the claimant proves facts from which the tribunal or court could decide, without other explanation, that a contravention occurred, it must so find unless the respondent shows it did not contravene the Act. For direct discrimination, the comparator must be in no materially different circumstances, and a hypothetical comparator can be used.
+Hannah: The employment time limit changes for acts from the first of October 2026, doesn't it?
+Will: Yes. For acts before that date, an employment discrimination claim goes to the employment tribunal within 3 months less one day of the act.
+Hannah: And what is the limit for acts from that date?
+Will: Within 6 months of the act. Either limit is extended by ACAS early conciliation, and may be extended if just and equitable.
+Hannah: Where do claims about services go?
+Will: To the county court, within 6 months.
+Hannah (summing up): An employer is liable for employees' discrimination, harassment and victimisation in the course of employment, known or not, unless it shows it took all reasonable steps.
+Will: Yes: not knowing is no defence, and all reasonable steps is the only one.
+## Recap
+Hannah: One last question, on employers. A paralegal harasses a colleague at work, the partners knew nothing about it, and the firm had taken no steps to prevent harassment: is the firm liable?
+Will (scenario pause): <think>
+Will: It is: an employer is liable for an employee's harassment in the course of employment, whether or not it knew. The tempting answer is that ignorance protects the firm, but only all reasonable steps to prevent it would.
+Hannah: Yes: all reasonable steps is the defence, not ignorance. Now the quick-fire round. What's the summary for the regulators?
+Will (quick-fire pause): <think>
+Will: The SRA regulates solicitors, the Law Society only represents them, and the Legal Services Board oversees every approved regulator.
+Hannah: What's the summary for client complaints?
+Will (quick-fire pause): <think>
+Will: Poor service goes to the Legal Ombudsman and misconduct to the SRA, but striking off needs the Tribunal.
+Hannah: What's the summary for the Principles and maintaining trust?
+Will (quick-fire pause): <think>
+Will: Where Principles conflict, the wider public interest outranks the client's; and integrity is wider than honesty.
+Hannah: What's the summary for equality and the Equality Act?
+Will (quick-fire pause): <think>
+Will: Direct discrimination can't be justified, except for age; a service provider's reasonable adjustments duty is anticipatory, an employer's reactive.
+Hannah: What's the summary for undertakings?
+Will (quick-fire pause): <think>
+Will: An undertaking binds the solicitor personally, whatever the client later says or fails to pay.
+Hannah: What's the summary for duties to the court?
+Will (quick-fire pause): <think>
+Will: A client about to mislead the court means stop acting; one who already has means advise correction, ceasing to act only on refusal.
+Hannah: What's the summary for client money?
+Will (quick-fire pause): <think>
+Will: Money on account of costs before a bill is client money, and pays costs only once a bill or written notification of costs is given.
+Hannah: What's the summary for unsolicited approaches?
+Will (quick-fire pause): <think>
+Will: Unsolicited approaches to members of the public are banned, except to current or former clients; approaching businesses isn't caught.
+Hannah: What's the summary for referrals and fee sharing?
+Will (quick-fire pause): <think>
+Will: Referral fees are banned for clients subject to criminal proceedings and, by statute, in personal injury and death claims; disclosure cures neither.
+Hannah: What's the summary for bribery and data protection?
+Will (quick-fire pause): <think>
+Will: A firm commits an offence when a person associated with it bribes, but it has a defence if it had adequate procedures.
+Hannah: What's the summary for confidentiality and disclosure?
+Will (quick-fire pause): <think>
+Will: Confidentiality survives the retainer and the client's death, and beats the duty of disclosure to another client in a clash.
+Hannah: What's the summary for employers and the other equality rules?
+Will (quick-fire pause): <think>
+Will: An employer is liable for employees' discrimination, harassment and victimisation in the course of employment, known or not, unless it shows it took all reasonable steps.
+Hannah: And in one sentence, what decides most of this workshop's questions?
+Will: Name the body, then the duty: the SRA handles misconduct and the Legal Ombudsman poor service; the wider public interest and the court outrank the client; confidentiality to one client outranks disclosure to another; and direct discrimination, age apart, can't be justified.

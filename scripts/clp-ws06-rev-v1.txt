@@ -1,0 +1,262 @@
+---
+id: clp-ws06-rev-v1
+unit: u-bpp-CLP-06
+guide_hash: 1c902b3366
+made: 2026-11-22T17:44:54+00:00
+kind: revision
+title: CLP WS06 · Revision · 25 min
+map:
+- Definition of bad character and evidence outside s98
+- The s101 gateways; gateways (a) to (c)
+- Gateway (d): important matter in issue between D and the prosecution
+- Gateways (e) to (g): co-defendant, false impression, attack on another's character
+- Directing the jury; summary of the defendant gateways
+- Non-defendant's bad character (s100)
+- Exclusion and safeguards (s101(3), s103(3), s78, ss107-110)
+- Proving previous convictions; procedure for adducing and opposing bad character
+- Good character
+- Crown Court pre-trial: plea, PTPH and service of evidence
+- Further applications: evidence applications and pre-trial rulings
+- Special measures for witnesses; vulnerable defendants
+- Witness summonses
+- Change of plea
+recap:
+- Misconduct needs a gateway, unless it concerns this offence's alleged facts, or its investigation or prosecution.
+- A defendant's bad character needs one of seven gateways, never leave; agreement and his own evidence need nothing more.
+- Only the prosecution uses gateway (d); untruthfulness needs lying, not mere dishonesty.
+- A co-defendant alone uses (e), which can't be excluded; false impression and attack are the prosecution's.
+- Bad character mustn't bolster a weak case, the jury is told it can't alone prove guilt, and its weight is for them.
+- A non-defendant's bad character needs one of three gateways, and leave unless all parties agree.
+- The fairness exclusion covers only (d) and (g), on the defendant's application; nothing excludes a co-defendant's evidence under (e).
+- Where evidence of an offence is admissible, a proved UK or Service court conviction means he committed it, unless he proves otherwise.
+- Absolute good character earns the direction; credibility only if he gave evidence or made pre-trial answers or statements.
+- At the PTPH he's arraigned unless there's good reason not to; before arraignment, once the papers are served, he may apply to dismiss, on the ground the evidence isn't sufficient for a jury properly to convict.
+- A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, and is discharged if he's sent to the Crown Court for trial or a count for it is included in an indictment.
+- Special measures are never for the accused; an eligible witness gets one only if it's likely to improve their evidence's quality.
+- A summons must issue if the person is likely to give material evidence, or produce a document or thing likely to be material evidence, and it's in the interests of justice.
+- He can plead guilty until the verdict on that count, but vacating a guilty plea needs the court's permission.
+summary: Bad character comes in only through a gateway, which turns on whose character it is and who adduces it; only a non-defendant's needs leave, unless all parties agree.
+invented: []
+guide_only:
+- P:CP-12.5.2-03 (the test for important explanatory evidence)
+- P:CP-12.5.2-05 (showing propensity to offend: same description or category, other misconduct, one conviction)
+- num:N2 (under 16: the category of sexual offences against children)
+- P:CP-12.5.2-09 (what counts as an attack on another person's character for gateway (g))
+- P:CP-12.5.3-03 (important explanatory evidence for non-defendants)
+- P:CP-12.5.3-04 (the factors for substantial probative value)
+- P:CP-12.5.4-06 (contamination: directing an acquittal or discharging the jury)
+- P:CP-13.7-05 (good character is put in by D; a false claim risks opening gateway (f))
+- P:CP-11.3-02 (initial disclosure)
+- P:CP-11.2-04 (the PTPH timetable's stages)
+- P:CP-12.6.1-01 (excluding prosecution evidence under s78 PACE, taught in depth in CLP WS01)
+- P:CP-13.6-02 (the list of special measures and their limits)
+- P:CP-13.6-08 (the jury warning after a special measures direction)
+- P:CP-13.6-04 (child witnesses: video-recorded evidence-in-chief and live link)
+- num:N5 (under 18: the child witness primary rule)
+- P:CP-13.6-06 (no cross-examination in person)
+- add:3 (under 18 or under 14: child complainant or witness D may not cross-examine in person)
+---
+## Map
+Will: Three areas today: bad character, which is most of it; good character; and pre-trial matters. The question throughout: when can character, bad or good, go before the jury, and what happens before a Crown Court trial?
+Hannah: A warm-up on trial procedure first: the defendant will testify and call only a character witness. Can the defence make an opening speech?
+Will (scenario pause): <think>
+Will: No: the defence opens only if it calls a witness of fact other than the defendant. A character witness is tempting, but doesn't count.
+Hannah: Yes: no witness of fact besides him, so no opening.
+## Block 1: Definition of bad character and evidence outside s98
+Will: First, the definition of bad character: evidence of misconduct, or of a disposition towards it. Misconduct means an offence or other reprehensible behaviour, so it covers conduct that never led to a conviction.
+Hannah: What falls outside the definition?
+Will: The deciding rule: evidence to do with the alleged facts of the offence charged, or of misconduct in connection with its investigation or prosecution, isn't bad character, so it needs no gateway. It's admissible if relevant, though prosecution evidence can still be excluded under section 78 of PACE. A threat to the victim the day before is an example.
+Hannah (summing up): Misconduct needs a gateway, unless it concerns this offence's alleged facts, or its investigation or prosecution.
+Will: Yes: this offence's own facts and process are outside.
+## Block 2: The s101 gateways; gateways (a) to (c)
+Hannah: Before the gateways, a question on the definition: the defendant threatened the witness in his case and has a theft caution. Which needs a gateway?
+Will (scenario pause): <think>
+Will: Only the caution: the threat is connected with this prosecution. Both is tempting, but the exclusion decides.
+Hannah: Yes: the caution needs one; the threat doesn't. Now the defendant gateways: how many are there?
+Will: Seven. The first three: all parties agree; the defendant adduces it himself, or it answers his own cross-examination question intended to elicit it; and important explanatory evidence.
+Hannah: And what are the other four gateways?
+Will: An important matter in issue with the prosecution; substantial probative value on an important matter in issue with a co-defendant; correcting a false impression he gave; and his attack on another person's character.
+Hannah: Which gateways need no further test?
+Will: The deciding point: agreement, by the prosecution, the defendant and any co-defendant; and his own evidence, such as revealing minor convictions himself, or his counsel's questions meant to draw them out. Not a prosecution witness volunteering it unprompted. And no defendant gateway needs leave.
+Hannah: What if he just tells the jury he's never been in trouble?
+Will: That's the trap: he's asserting good character, not revealing his record, so the gateway is false impression.
+Hannah (summing up): A defendant's bad character needs one of seven gateways, never leave; agreement and his own evidence need nothing more.
+Will: Yes: seven routes, no leave, and two need no extra test.
+## Block 3: Gateway (d): important matter in issue between D and the prosecution
+Hannah: Before gateway (d), a question on the first three: a prosecution witness blurts out the defendant's conviction, unprompted. Is that his own evidence?
+Will (scenario pause): <think>
+Will: No: nobody on his side set out to elicit it. The jury knowing is tempting, but volunteered isn't adduced.
+Hannah: Right: volunteered isn't his. Now gateway (d), a matter in issue with the prosecution: what does it cover?
+Will: Only the prosecution uses it. The matters in issue it covers include a propensity to commit offences of the kind charged, unless that makes guilt no more likely; and a propensity to be untruthful, unless it's not suggested his case is untruthful in any respect.
+Hannah: How is untruthfulness shown?
+Will: That's the deciding one: it isn't dishonesty. It needs convictions where he lied, say evidence the court rejected, or where lying was an element, like fraud by false representation; not simply theft or burglary.
+Hannah (summing up): Only the prosecution uses gateway (d); untruthfulness needs lying, not mere dishonesty.
+Will: Yes: prosecution only, and theft alone doesn't make him a liar.
+## Block 4: Gateways (e) to (g): co-defendant, false impression, attack on another's character
+Hannah: Before the co-defendant's gateway, a question on propensity: does a burglary conviction show a propensity to be untruthful?
+Will (scenario pause): <think>
+Will: Not by itself. It's tempting because burglary is dishonest, but untruthfulness needs lying.
+Hannah: Yes: dishonest isn't untruthful. Now the co-defendant's gateway: who uses it, and on what test?
+Will: Only a co-defendant. It needs substantial probative value on an important matter in issue between him and the defendant, and untruthfulness counts only if the defendant's defence undermines his. Neither the fairness exclusion nor section 78 can exclude it. False impression and attack, by contrast, are for the prosecution only.
+Hannah: Does an emphatic denial count as an attack on another's character?
+Will: Not by itself, and that's the deciding line: "the complainant is mistaken" isn't an attack. Saying the witness fabricated evidence, committed other offences or behaved reprehensibly is, like claiming the police planted the drugs.
+Hannah (summing up): A co-defendant alone uses (e), which can't be excluded; false impression and attack are the prosecution's.
+Will: Yes: one gateway for the co-defendant, two for the prosecution.
+## Block 5: Directing the jury; summary of the defendant gateways
+Hannah: Before directing the jury, a question on attacks: the defendant says the incident never happened. Has he opened the attack gateway?
+Will (scenario pause): <think>
+Will: No: an emphatic denial alone isn't an attack. It's tempting to count contradicting the complainant, but he'd need to allege lies or misconduct.
+Hannah: Right: denial isn't attack. Now directing the jury: what must the judge guard against?
+Will: Deciding rule: bad character mustn't bolster a weak case or prejudice the jury; on fairness the court weighs factors including the strength of the other evidence, the age and number of convictions, their similarity to the charge, and whether the propensity makes guilt more likely.
+Hannah: And what is the jury told?
+Will: That bad character can't alone prove guilt, so they mustn't convict mainly on it. The judge explains what it's relevant to, and its weight is for the jury.
+Hannah (summing up): Bad character mustn't bolster a weak case, the jury is told it can't alone prove guilt, and its weight is for them.
+Will: Yes: never a prop, never enough alone.
+## Block 6: Non-defendant's bad character (s100)
+Hannah: Before non-defendants, a question on the jury direction: the identification evidence is thin, but there are similar convictions. Can they carry the case?
+Will (scenario pause): <think>
+Will: No: they can't bolster a weak case or prove guilt alone. Similar convictions are tempting, but they can't fill the gap.
+Hannah: Yes: no rescuing a weak case. Now a non-defendant's bad character, like a witness's: when can it come in?
+Will: Through one of three gateways: it's important explanatory evidence; it has substantial probative value on a matter in issue of substantial importance in the case as a whole; or all parties agree.
+Hannah: Does it need the court's permission?
+Will: That's the deciding rule: unless all parties agree, it needs leave, even to cross-examine on it. And attacking a prosecution witness or the victim this way may open the attack gateway, letting in the defendant's own bad character.
+Hannah (summing up): A non-defendant's bad character needs one of three gateways, and leave unless all parties agree.
+Will: Right: three gateways, and leave without agreement.
+## Block 7: Exclusion and safeguards (s101(3), s103(3), s78, ss107-110)
+Hannah: Before exclusion and safeguards, a question on non-defendants: without agreement, the defence wants to cross-examine the complainant on her perjury conviction. What does it need?
+Will (scenario pause): <think>
+Will: Leave. It's tempting to think questions alone need none, but leave covers cross-examination too.
+Hannah: Yes: leave even to ask. Now exclusion: how can the defendant keep his bad character out?
+Will: On his application, the court must not admit evidence under (d) or (g) if it would have such an adverse effect on the fairness of the proceedings that it ought not to be admitted. It must have regard in particular to the time between the matters and the offence charged.
+Hannah: Does that work for the other gateways?
+Will: No, and that's the deciding line: only (d) and (g), only on his application. Prosecution evidence under (c) or (f) can face section 78, but nothing excludes a co-defendant's evidence under (e).
+Hannah: And what about old convictions?
+Will: Same-description or same-category convictions can show propensity, but not if the court is satisfied that, because of the time since the conviction or any other reason, that would be unjust. That needs no application.
+Hannah: And a conviction from childhood?
+Will: For an offence at 21 or over, convictions for offences under 14 are inadmissible. They come in only if both offences are triable only on indictment and the court is satisfied the interests of justice require it.
+Hannah (summing up): The fairness exclusion covers only (d) and (g), on the defendant's application; nothing excludes a co-defendant's evidence under (e).
+Will: Yes: two gateways, his application, and the co-defendant's evidence stays in.
+## Block 8: Proving previous convictions; procedure for adducing and opposing bad character
+Hannah: Before proving previous convictions, a question on old convictions: the defence makes no application against a very old conviction. Can the judge still stop its use for propensity?
+Will (scenario pause): <think>
+Will: Yes: the court can find that unjust because of its age, unasked. The fairness exclusion is tempting, but that needs an application.
+Hannah: Yes: no application needed. Now proving previous convictions: what follows once one is proved?
+Will: The deciding rule: where evidence that he committed an offence is admissible, proof that a UK court, or a Service court outside the UK, convicted him means he's taken to have committed it, unless he proves otherwise.
+Hannah (summing up): Where evidence of an offence is admissible, a proved UK or Service court conviction means he committed it, unless he proves otherwise.
+Will: Yes: the conviction proves the offence, unless he disproves it.
+## Block 9: Good character
+Hannah: Before good character, a question on convictions: his old conviction is proved, but he denies doing it. Who must prove what?
+Will (scenario pause): <think>
+Will: He must prove he didn't. Making the prosecution prove the old offence again is tempting, but the conviction does that.
+Hannah: Right: the burden is his. Now good character: who's entitled to the direction?
+Will: A defendant of absolute good character: no convictions or cautions, and no other reprehensible conduct alleged, admitted or proven, even beside a co-defendant of bad character. The judge must give two limbs: propensity, that it may make it less likely he did it; and credibility, which the jury may weigh in his favour.
+Hannah: Does he always get both limbs?
+Will: No, and that's the deciding rule: credibility needs evidence or pre-trial answers or statements, say in interview; with neither, he gets propensity only. And it isn't a defence: each limb only says the jury may take it into account.
+Hannah: And if he has a few old convictions?
+Will: If they're old, minor and irrelevant to the charge, the judge may treat him as of effective good character, and must then give both limbs, modified so as not to mislead. Otherwise there's no entitlement, only a broad discretion to give a modified direction or none.
+Hannah (summing up): Absolute good character earns the direction; credibility only if he gave evidence or made pre-trial answers or statements.
+Will: Yes: the direction is owed, and credibility needs his own account.
+## Block 10: Crown Court pre-trial: plea, PTPH and service of evidence
+Hannah: Before the Crown Court plea hearing, a question on good character: no record, a no comment interview, and no evidence at trial. Which limbs does he get?
+Will (scenario pause): <think>
+Will: Propensity only, as he gave no account. Both limbs is tempting for absolute good character, but credibility needs one.
+Hannah: Yes: no account, no credibility limb. Now the Crown Court pre-trial stage: what's the first hearing?
+Will: Normally the Plea and Trial Preparation Hearing, the PTPH. It's usually within about 28 days of sending. The parties complete its form online first, and there he's arraigned unless there's good reason not to. A guilty plea leads to sentence or a pre-sentence report; a not guilty plea, to a trial date and timetable.
+Hannah: Is that the same as plea before venue?
+Will: No, that's the trap: plea before venue is for either-way offences in the magistrates' court. An indictable-only offence like robbery is first pleaded to on arraignment here.
+Hannah: When does the prosecution serve its case papers?
+Will: Usually within 50 days if he's in custody, 70 days if on bail. Then the deciding point: before arraignment, he can apply for the charge to be dismissed, on the ground that the evidence would not be sufficient for a jury properly to convict.
+Hannah: And when is the defence statement due?
+Will: With the defence witness notice, within 28 days of initial disclosure.
+Hannah (summing up): At the PTPH he's arraigned unless there's good reason not to; before arraignment, once the papers are served, he may apply to dismiss, on the ground the evidence isn't sufficient for a jury properly to convict.
+Will: Yes: plea at the PTPH, and any application to dismiss for evidence too weak for a jury properly to convict comes before it.
+## Block 11: Further applications: evidence applications and pre-trial rulings
+Hannah: Before further applications, a question on the plea hearing: the papers are served and the evidence looks thin. When must the defence apply to dismiss?
+Will (scenario pause): <think>
+Will: Before arraignment. Any time before trial is tempting, but it must come before he pleads.
+Hannah: Yes: before arraignment. Now further applications and pre-trial rulings: how long does a magistrates' ruling bind?
+Will: The deciding rule: a pre-trial ruling by magistrates on admissibility or another point of law stays binding until the case is disposed of. Sending him to the Crown Court for trial discharges it, and so does including a count for the offence in an indictment.
+Hannah: Can the court vary it?
+Will: Yes, of its own motion or on application, on three conditions: an unrepresented defendant has been asked about legal aid, with arrangements made where he wants it; the parties have had a chance to be heard; and it's in the interests of justice. A party's application also needs a material change of circumstances.
+Hannah (summing up): A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, and is discharged if he's sent to the Crown Court for trial or a count for it is included in an indictment.
+Will: Yes: rulings hold until disposal, unless sending or an indictment discharges them.
+## Block 12: Special measures for witnesses; vulnerable defendants
+Hannah: Before special measures, a question on rulings: nothing has changed since the magistrates' ruling, but the prosecution applies to vary it. Can they?
+Will (scenario pause): <think>
+Will: Not on that application: a party needs a material change of circumstances. It's tempting because rulings can be varied, but not that way.
+Hannah: Yes: no change, no variation on application. Now special measures for witnesses: who's eligible?
+Will: Never the accused. Vulnerable witnesses are those under 18 at the time of the hearing. So are those whose evidence is likely to be diminished by mental disorder, significant impairment of intelligence and social functioning, or physical disability or disorder.
+Hannah: And who counts as an intimidated witness?
+Will: Anyone whose evidence fear or distress about testifying is likely to diminish. The complainant in a sexual, modern slavery or domestic abuse offence, and witnesses in listed weapons cases, qualify automatically unless they tell the court they don't want to.
+Hannah: Does eligibility guarantee a measure?
+Will: No, that's the trap. The court decides whether any measure would be likely to improve the quality of the evidence, and if so which would be likely to maximise it so far as practicable. It considers all the circumstances, including the witness's views and whether a measure might inhibit effective testing.
+Hannah: And what help can a vulnerable defendant get?
+Will: The deciding rule: no special measures. He may give evidence by live link under the general power, if it's in the interests of justice, once the parties, and for a defendant under 18 or being dealt with as if under 18 the youth offending team, have had a chance to make representations; and he may have an intermediary under the court's inherent powers.
+Hannah (summing up): Special measures are never for the accused; an eligible witness gets one only if it's likely to improve their evidence's quality.
+Will: Yes: no special measures for the defendant, and eligibility alone guarantees nothing.
+## Block 13: Witness summonses
+Hannah: Before witness summonses, a question on special measures: a 16-year-old defendant asks to testify behind screens. Can he?
+Will (scenario pause): <think>
+Will: No: he's the accused, whatever his age. Treating him as a witness under 18 is tempting, but he's the defendant.
+Hannah: Right: the accused is outside the scheme. Now witness summonses: when must the court issue one?
+Will: When satisfied the person is likely to be able to give material evidence, or to produce a document or thing that's likely to be material evidence, and that issuing it is in the interests of justice. Disobeying a Crown Court summons without just excuse is contempt of court.
+Hannah (summing up): A summons must issue if the person is likely to give material evidence, or produce a document or thing likely to be material evidence, and it's in the interests of justice.
+Will: Yes: likely material evidence, from the witness or from a document or thing, plus the interests of justice.
+## Block 14: Change of plea
+Hannah: Before change of plea, a question on summonses: a summonsed witness skips a Crown Court trial with no excuse. What follows?
+Will (scenario pause): <think>
+Will: Contempt of court. The magistrates' rule is tempting: there, a witness who without just excuse refuses to give evidence or produce the document may be committed to custody and/or fined. But disobeying a Crown Court summons without just excuse is a contempt.
+Hannah: Yes: contempt in the Crown Court, not the magistrates' rule. Now change of plea: can a defendant switch to guilty during the trial?
+Will: Yes, unless the jury has already reached its verdict on that count. The reverse needs the court to allow the guilty plea to be vacated.
+Hannah: And what must the solicitor make sure of?
+Will: The deciding point: the plea is the client's free choice. Strong advice, normally including the credit for a guilty plea, isn't improper pressure, but he mustn't plead guilty unless he is guilty. If he changes plea after advice, the decision must be his own, made freely and with full advice.
+Hannah (summing up): He can plead guilty until the verdict on that count, but vacating a guilty plea needs the court's permission.
+Will: Yes: guilty is open until verdict; undoing it needs the court.
+## Recap
+Hannah: Last question, mixing the plea hearing and plea changes: a client pleaded guilty at the PTPH after strong advice, and now feels pressured. Can he simply take it back?
+Will (scenario pause): <think>
+Will: No: strong advice isn't improper pressure, and a guilty plea is vacated only if the court allows it. His free choice is tempting here, but once he's pleaded guilty, only the court can undo it.
+Hannah: Yes: strong advice is fine, and only the court can let him vacate a guilty plea. Now the quick-fire round. What's the summary for what counts as bad character?
+Will (quick-fire pause): <think>
+Will: Misconduct needs a gateway, unless it concerns this offence's alleged facts, or its investigation or prosecution.
+Hannah: What's the summary for the defendant gateways?
+Will (quick-fire pause): <think>
+Will: A defendant's bad character needs one of seven gateways, never leave; agreement and his own evidence need nothing more.
+Hannah: What's the summary for the prosecution's propensity gateway?
+Will (quick-fire pause): <think>
+Will: Only the prosecution uses gateway (d); untruthfulness needs lying, not mere dishonesty.
+Hannah: What's the summary for the co-defendant, false impression and attack gateways?
+Will (quick-fire pause): <think>
+Will: A co-defendant alone uses (e), which can't be excluded; false impression and attack are the prosecution's.
+Hannah: What's the summary for directing the jury?
+Will (quick-fire pause): <think>
+Will: Bad character mustn't bolster a weak case, the jury is told it can't alone prove guilt, and its weight is for them.
+Hannah: What's the summary for a non-defendant's bad character?
+Will (quick-fire pause): <think>
+Will: A non-defendant's bad character needs one of three gateways, and leave unless all parties agree.
+Hannah: What's the summary for exclusion and safeguards?
+Will (quick-fire pause): <think>
+Will: The fairness exclusion covers only (d) and (g), on the defendant's application; nothing excludes a co-defendant's evidence under (e).
+Hannah: What's the summary for proving previous convictions?
+Will (quick-fire pause): <think>
+Will: Where evidence of an offence is admissible, a proved UK or Service court conviction means he committed it, unless he proves otherwise.
+Hannah: What's the summary for good character?
+Will (quick-fire pause): <think>
+Will: Absolute good character earns the direction; credibility only if he gave evidence or made pre-trial answers or statements.
+Hannah: What's the summary for the plea hearing?
+Will (quick-fire pause): <think>
+Will: At the PTPH he's arraigned unless there's good reason not to; before arraignment, once the papers are served, he may apply to dismiss, on the ground the evidence isn't sufficient for a jury properly to convict.
+Hannah: What's the summary for pre-trial rulings?
+Will (quick-fire pause): <think>
+Will: A magistrates' pre-trial ruling on admissibility or law binds until the case is disposed of, and is discharged if he's sent to the Crown Court for trial or a count for it is included in an indictment.
+Hannah: What's the summary for special measures?
+Will (quick-fire pause): <think>
+Will: Special measures are never for the accused; an eligible witness gets one only if it's likely to improve their evidence's quality.
+Hannah: What's the summary for witness summonses?
+Will (quick-fire pause): <think>
+Will: A summons must issue if the person is likely to give material evidence, or produce a document or thing likely to be material evidence, and it's in the interests of justice.
+Hannah: What's the summary for changing a plea?
+Will (quick-fire pause): <think>
+Will: He can plead guilty until the verdict on that count, but vacating a guilty plea needs the court's permission.
+Hannah: And the whole workshop in one sentence: what decides most of its questions?
+Will: Bad character comes in only through a gateway, which turns on whose character it is and who adduces it; only a non-defendant's needs leave, unless all parties agree.

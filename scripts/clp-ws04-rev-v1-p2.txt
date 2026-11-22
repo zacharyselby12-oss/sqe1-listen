@@ -1,0 +1,128 @@
+---
+id: clp-ws04-rev-v1-p2
+unit: u-bpp-CLP-04
+guide_hash: 3d44d03b91
+made: 2026-11-22T17:44:54+00:00
+kind: revision
+part: 2 of 2
+blocks: 6-9
+title: CLP WS04 (part 2 of 2) · Revision · 18 min
+map:
+- Basic principles of evidence
+- Stopping a case: dismissal, no case to answer, abuse of process and the common law discretion
+- Excluding evidence under s78 PACE
+- Confessions: definition and exclusion under s76 and s78
+recap:
+- The tribunal of law decides admissibility, the tribunal of fact weight; a section nine statement is read unless a party objects in time.
+- Apply to dismiss before arraignment; submit no case to answer at the close of the prosecution case; a stay for abuse of process is separate.
+- Section seventy-eight asks whether admission would be unfair, not whether rules were broken; a breach normally has to be significant and substantial.
+- Once oppression or unreliability is raised, the court must exclude a confession unless the prosecution proves beyond reasonable doubt it was not so obtained.
+summary: Timing separates dismissal from no case to answer, and for evidence, section seventy-eight gives a discretion based on fairness, while a confession challenged for oppression or unreliability must be excluded unless the prosecution proves beyond reasonable doubt that it was not so obtained.
+invented:
+- Lena
+- Tom
+- Nadia
+- Ravi
+- the stolen watch
+guide_only: []
+---
+## Map
+Will: This is part two of two. Part one covered pre-trial hearings and disclosure. Now evidence: stopping a case, excluding evidence and confessions. The big question: how does the defence stop a case, or keep evidence out? There are four areas. First the basic principles of evidence, then the ways of stopping a case. Then unfairness under section seventy-eight of PACE, and last confessions.
+## Block 6: Basic principles of evidence
+Will: So, the basic principles of evidence: what gets in, and who decides. Evidence is admissible only if it is relevant to a fact in issue, and not excluded by an exclusionary rule or discretion.
+Hannah: And who decides admissibility, as against weight?
+Will: Admissibility is a question of law for the tribunal of law: the judge in the Crown Court, the magistrates in the magistrates' court. The weight of admitted evidence is for the tribunal of fact: the jury, or the magistrates.
+Hannah: Does that split make the Crown Court more attractive?
+Will: It's one of three advantages of the Crown Court. Disputed admissibility is decided by the judge in the jury's absence, whereas in the magistrates' court the same bench that rules evidence inadmissible decides guilt. The other two are historically higher acquittal rates before a jury, and more time to prepare with fuller pre-trial procedure.
+Hannah: And can a fact be proved without calling a live witness?
+Will: In two ways, and the first decides questions. A written witness statement served under section nine is read as evidence at trial, unless another party objects within the time allowed. So the defence must say whether it requires each prosecution witness to attend. Don't confuse that with a formal admission under section ten. A fact formally admitted is conclusively proved against the party who admitted it, unless the court gives leave to withdraw the admission.
+Hannah (summing up): The tribunal of law decides admissibility, the tribunal of fact weight; a section nine statement is read unless a party objects in time.
+Will: Yes: law for what goes in, fact for what it's worth.
+## Block 7: Stopping a case: dismissal, no case to answer, abuse of process and the common law discretion
+Hannah: Before the ways of stopping a case, a question on proving facts. Lena's solicitor formally admits that she was at the scene. At trial she wants to deny it. Can she?
+Will (scenario pause): <think>
+Will: Only with the court's leave to withdraw the admission: a formally admitted fact is conclusively proved against her. The tempting answer is that it's just evidence for the jury to weigh, but a formal admission isn't weighed.
+Hannah: Yes: conclusive, unless the court lets her withdraw it.
+Will: Now stopping a case: dismissal, no case to answer and abuse of process. Timing separates the first two. After sending, the prosecution serves its case papers. That's usually within 50 days if the defendant is in custody. It's usually 70 days on bail. The defendant may then apply to dismiss the charge, before arraignment. The ground is that the evidence would not be sufficient for a jury properly to convict.
+Hannah: And when does a submission of no case to answer come, and on what test?
+Will: At the close of the prosecution case, and in the Crown Court in the absence of the jury. The Galbraith test decides questions. The judge must stop the case if there is no evidence that the defendant committed the crime. The judge must also stop it if the prosecution evidence taken at its highest is such that a properly directed jury could not properly convict on it. That's evidence which is inherently weak, vague or inconsistent.
+Hannah: So does the judge stop a case whenever the witnesses look shaky?
+Will: That's the tempting neighbour, and the judge doesn't. Sometimes the strength of the prosecution evidence depends on the reliability of witnesses, or other matters within the jury's province. Where on one view that evidence could lead a jury to convict, the judge should let the case go to the jury.
+Hannah: Is the test the same in the magistrates' court?
+Will: The same test applies. There a submission may be upheld where there is no evidence to prove an essential element. It may also be upheld where the evidence has been so discredited in cross-examination, or is so manifestly unreliable, that no reasonable tribunal could safely convict on it.
+Hannah: And what follows a successful submission, or a failed one?
+Will: On success, the judge directs the jury to acquit, or the magistrates dismiss the charge. On failure, the trial continues with the defence case. The jury, who were absent, is not told of the failed submission.
+Hannah: Now abuse of process: when will a court stay the proceedings?
+Will: In two categories. One: the accused cannot receive a fair trial, and the court then stays without any balancing exercise. Two: trying the accused would offend the court's sense of justice and propriety, or undermine public confidence in the criminal justice system. There the court weighs the public interest in trying those charged with grave crimes against the public interest in not conveying the impression that the end justifies any means.
+Hannah: Is entrapment an example of that second category?
+Will: Yes. Entrapment is where the police have incited an offence that would not otherwise have been committed, going beyond giving an unexceptional opportunity to commit it. The usual remedy is a stay of the proceedings as an abuse of process, with exclusion under section seventy-eight as an alternative.
+Hannah: And when is an application to exclude evidence argued?
+Will: A section seventy-eight application is normally made before the evidence is given. In the Crown Court it's argued in the absence of the jury. A voir dire is held only where facts must be decided, for example when it's combined with a section seventy-six challenge. In the magistrates' court it's often decided in the course of the trial. And the common law discretion to exclude evidence whose prejudicial effect outweighs its probative value is preserved.
+Hannah (summing up): Apply to dismiss before arraignment; submit no case to answer at the close of the prosecution case; a stay for abuse of process is separate.
+Will: Yes: timing separates the first two, and the stay stands apart.
+## Block 8: Excluding evidence under s78 PACE
+Hannah: Before excluding evidence under PACE, a question on no case to answer. The only eyewitness against Tom contradicted herself, though on one view a jury could still believe her. Should the judge stop the case?
+Will (scenario pause): <think>
+Will: The judge should let it go to the jury: reliability is within the jury's province, and on one view it could convict. The tempting answer is that a shaky witness means no case.
+Hannah: Yes: reliability is for the jury, so the trial carries on.
+Will: Now excluding evidence under section seventy-eight of PACE. The court may refuse to allow evidence on which the prosecution proposes to rely. The test is whether, having regard to all the circumstances, including the circumstances in which it was obtained, its admission would have such an adverse effect on the fairness of the proceedings that the court ought not to admit it.
+Hannah: So is a breach of PACE or the Codes enough to get evidence excluded?
+Will: Not by itself, and this is the deciding rule. Section seventy-eight is discretionary: the court asks whether admission would make the proceedings unfair, not whether the police broke the rules. A breach must normally be significant and substantial. Bad faith by the police makes exclusion more likely, but is not required.
+Hannah: Does a breach at least make a confession or an interview inadmissible automatically?
+Will: It doesn't. A breach of PACE or the Codes of Practice does not of itself make a confession inadmissible: exclusion must be sought under section seventy-six or section seventy-eight. Breaches of Code C do not automatically make an interview inadmissible either. But the court may exclude it under section seventy-eight where admitting it would be so unfair that it ought not to be admitted, and significant and substantial breaches commonly lead to exclusion.
+Hannah: And what changes once oppression or unreliability is alleged?
+Will: Then section seventy-six applies. Where it is represented that a confession was or may have been obtained by oppression, or in consequence of anything said or done likely to make it unreliable, it must be excluded unless the prosecution proves beyond reasonable doubt that it was not so obtained.
+Hannah: What about evidence the police obtained illegally?
+Will: Illegally or improperly obtained evidence, for example from an unlawful search, is not automatically inadmissible. The question is only whether its admission would make the trial unfair, and real evidence found is often admitted.
+Hannah: Where does section seventy-eight commonly come up?
+Will: In five common situations, in two groups. Three concern the interview. One: wrongful denial or delay of access to legal advice. Two: interviews without a caution, or without an appropriate adult for a juvenile or vulnerable suspect. Three: failure to record an interview or show the defendant the record. The other two are failure to hold an identification procedure when Code D requires one, and deception or trickery by police.
+Hannah: And does a denial of legal advice always lead to exclusion?
+Will: Not always. Take an experienced suspect who knew his rights and would have answered anyway, so that a solicitor would have added nothing. There, denial of legal advice may not make admission unfair. Where the breach probably caused the admission, exclusion is likely.
+Hannah (summing up): Section seventy-eight asks whether admission would be unfair, not whether rules were broken; a breach normally has to be significant and substantial.
+Will: Right: fairness is the question, and bad faith is not required.
+## Block 9: Confessions: definition and exclusion under s76 and s78
+Hannah: Before confessions, a question on unfairness. The police search Nadia's flat unlawfully and find the stolen watch. Is the watch automatically inadmissible?
+Will (scenario pause): <think>
+Will: It isn't: the only question is whether admitting it would make the trial unfair, and real evidence is often admitted. The tempting answer is that an unlawful search taints whatever it finds.
+Hannah: Yes: fairness decides it, and the illegality alone doesn't.
+Will: Now confessions: the definition, then exclusion. A confession includes any statement wholly or partly adverse to the person who made it. It can be made to a person in authority or not, and in words or otherwise. So a mixed statement, partly adverse and partly self-serving, is a confession. The whole statement is admissible and the jury considers both parts, though the excuses may carry less weight. But a wholly exculpatory statement is not a confession, even if the prosecution later uses it to show the defendant lied.
+Hannah: And why is a confession admissible at all?
+Will: A confession made by the defendant may be given in evidence against him as evidence of the truth of its contents, so far as relevant and not excluded by the court. It's an exception to the rule against hearsay.
+Hannah: When must the court exclude one?
+Will: Under section seventy-six, and this decides questions. Suppose the defendant represents, or the court of its own motion raises, that the confession was or may have been obtained by oppression, or in consequence of anything said or done likely to make it unreliable. The court must exclude it, unless the prosecution proves beyond reasonable doubt that it was not so obtained. Exclusion is mandatory, not discretionary. And the test is how the confession was obtained, not whether it is true.
+Hannah: Is the standard the same when a defendant must prove a fact?
+Will: It's lower. The prosecution must prove facts relevant to admissibility beyond reasonable doubt, for example that a confession was not obtained by oppression. Where a defendant or co-defendant must prove a fact for admissibility, the standard is the balance of probabilities.
+Hannah: What does oppression mean?
+Will: Oppression includes torture, inhuman or degrading treatment, and the use or threat of violence. Otherwise it means the wrongful exercise of authority, for example shouting, bullying or hostile questioning. It usually involves deliberate impropriety by the police.
+Hannah: And how is unreliability different?
+Will: Unreliability asks whether something said or done was likely to render any confession unreliable. That's something said or done by someone other than the defendant, usually the police, in the circumstances existing at the time. Bad faith is not required. And the defendant's own vulnerability is part of the circumstances: for example age, mental condition or withdrawal symptoms. So oppression asks whether authority was wrongfully exercised over the defendant. Unreliability asks about what was said or done, deliberately or not.
+Hannah: What commonly makes a confession likely to be unreliable?
+Will: Four things, and questions turn on them. One: an inducement, for example a promise of bail, or that the defendant will not be prosecuted, if he confesses. Two: hostile or aggressive questioning. Three: breaches of Code C on detention, such as too little rest before interview. Four: interviewing a juvenile or mentally vulnerable suspect without an appropriate adult.
+Hannah: Is the thing said or done enough by itself?
+Will: It isn't: there must be a causal link. The confession must have been obtained in consequence of the thing said or done, so a confession unaffected by the impropriety is not excluded on the unreliability ground.
+Hannah: How is admissibility decided in practice?
+Will: On a voir dire, a trial within a trial. In the Crown Court that's in the absence of the jury. In the magistrates' court the bench holds a trial within a trial, and where the confession is excluded the same bench continues to try the case.
+Hannah: And once a confession is excluded under section seventy-six, does anything survive?
+Will: Two things survive exclusion under section seventy-six. Facts discovered as a result of it remain admissible. So does so much of it as is necessary to show that the defendant speaks, writes or expresses himself in a particular way. But evidence that a fact was discovered as a result of the defendant's statement is inadmissible, unless evidence of how it was discovered is given by the defendant or on his behalf.
+Hannah: And where does section seventy-eight fit with confessions?
+Will: It applies to confessions as well as other evidence, so the defence can argue both sections together. A confession that survives section seventy-six may still be excluded as unfair, and its weight challenged before the jury. Section seventy-eight is used where there is no causal link to unreliability, or no oppression, but the process was unfair. The difference is the outcome: under section seventy-six, the court must exclude once oppression or unreliability is raised, unless the prosecution proves beyond reasonable doubt that it was not so obtained; under section seventy-eight it may exclude as unfair.
+Hannah (summing up): Once oppression or unreliability is raised, the court must exclude a confession unless the prosecution proves beyond reasonable doubt it was not so obtained.
+Will: Yes: mandatory there, while section seventy-eight stays discretionary.
+## Recap
+Hannah: A last question, mixing unfairness and confessions. Ravi confesses in an interview held without a caution. There was no oppression, and nothing said or done that was likely to make a confession unreliable. Is his confession safe from challenge?
+Will (scenario pause): <think>
+Will: It isn't. Section seventy-eight applies to confessions too, and it's used where there is no oppression and no causal link to unreliability but the process was unfair. An interview without a caution is a common situation for it. The tempting answer is that surviving section seventy-six lets the confession in.
+Hannah: Yes: surviving the mandatory test still leaves the fairness discretion. Now the quick-fire round. What's the summary for the basic principles of evidence?
+Will (quick-fire pause): <think>
+Will: The tribunal of law decides admissibility, the tribunal of fact weight; a section nine statement is read unless a party objects in time.
+Hannah: What's the summary for stopping a case?
+Will (quick-fire pause): <think>
+Will: Apply to dismiss before arraignment; submit no case to answer at the close of the prosecution case; a stay for abuse of process is separate.
+Hannah: What's the summary for excluding unfair evidence?
+Will (quick-fire pause): <think>
+Will: Section seventy-eight asks whether admission would be unfair, not whether rules were broken; a breach normally has to be significant and substantial.
+Hannah: What's the summary for confessions?
+Will (quick-fire pause): <think>
+Will: Once oppression or unreliability is raised, the court must exclude a confession unless the prosecution proves beyond reasonable doubt it was not so obtained.
+Hannah: And what's this whole part in one sentence?
+Will: Timing separates dismissal from no case to answer, and for evidence, section seventy-eight gives a discretion based on fairness, while a confession challenged for oppression or unreliability must be excluded unless the prosecution proves beyond reasonable doubt that it was not so obtained.

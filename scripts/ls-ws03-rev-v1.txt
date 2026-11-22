@@ -1,0 +1,210 @@
+---
+id: ls-ws03-rev-v1
+unit: u-bpp-LS-03
+guide_hash: bf66650ffe
+made: 2026-11-22T17:44:54+00:00
+kind: revision
+title: LS WS03 · Revision · 18 min
+map:
+- Taking on a new client
+- Conflicts of interest
+- Client care: competence, ending the retainer and client information
+- Funding options and ways of charging
+- Legal aid: civil and criminal
+- Bills, cancellation, funders' costs and more on legal aid (not covered in class)
+recap:
+- Act only on instructions from the client, or from someone properly authorised, and only if satisfied they represent the client's wishes.
+- An own interest conflict, or a significant risk of one, bars you even with consent; a client conflict, or such a risk, needs an exception and all three conditions.
+- Tell the client promptly if an estimate is likely to be exceeded, and end a retainer only for good reason and on reasonable notice.
+- Under a CFA, a client who loses still owes the opponent's costs, unless protected by ATE insurance or, in personal injury, by qualified one-way costs shifting.
+- Civil legal aid needs scope, or exceptional case funding, plus means and merits; a representation order needs the interests of justice test and, unless passported, the means test.
+- Assessment of a bill is as of right only within 1 month of delivery; a consumer who instructs at a distance or off-premises has 14 days to cancel.
+summary: Before acting, check that the instructions are the client's own and that no conflict bars you, and before choosing funding, work out what the client still pays on a win and on a loss, then tell them.
+invented:
+- Dora
+- Marcus
+- Tariq
+- Lena
+guide_only:
+- P:ETH-CS-3-09 (the full list of reasons you must not act)
+- P:ETH-CS-1-01 (no unfair discrimination)
+- P:ETH-CS-1-02 (declining for a legitimate reason)
+- P:ETH-CS-6-03 (typical own interest conflicts)
+- P:ETH-CS-6-08 (the substantially common interest exception)
+- P:ETH-CS-6-09 (the competing for the same objective exception)
+- P:ETH-CS-6-16 (two clients bidding for the same asset)
+- P:ETH-CS-6-11 (when it is not reasonable to act for both)
+- P:ETH-CS-6-35 (conflicts and confidentiality judged across the whole firm)
+- P:ETH-CS-6-36 (the firm-wide check before accepting instructions)
+- P:ETH-CS-3-11 (a competent and timely service)
+- P:ETH-CS-3-13 (continuing competence)
+- P:ETH-CS-3-15 (the client's attributes, needs and circumstances)
+- P:ETH-CS-3-17 (accountability for supervised work)
+- P:ETH-CS-3-20 (competence of those you manage)
+- P:ETH-CF-05 (managers and the firm's supervision system)
+- P:ETH-CS-8-12 (information the client can understand)
+- P:LS-1.1.3-13 (whether and how services are regulated)
+- P:ETH-CS-8-14 (publicity)
+- P:ETH-CS-8-04 (having a complaints procedure)
+- P:ETH-CS-8-08 (complaints handled promptly, fairly and free of charge)
+- P:ETH-CS-8-07 (the approved ADR body once the procedure is exhausted)
+- P:LS-1.1.3-11 (complaints information at the time of engagement)
+- P:LS-2.1-01 (the private retainer)
+- P:LS-2.1-02 (the costs shortfall and the indemnity principle)
+- P:LS-2.4-03 (fixed, estimated and capped fees compared)
+- P:LS-2.4-01 (what a fixed fee retainer must state)
+- P:LS-2.7-01 (what before-the-event insurance covers)
+- P:LS-2.7-03 (panel solicitors and freedom to choose a lawyer)
+- P:LS-2.2-03 (where a CFA cannot be used)
+- P:LS-2.2-07 (what to explain before a CFA)
+- P:LS-2.3-03 (what a DBA must state)
+- P:LS-2.3-04 (where a DBA cannot be used)
+- P:LS-2.3-06 (hybrid DBAs and counsel's fees)
+- P:LS-2.3-07 (when a DBA is unsuitable)
+- P:LS-2.7-06 (ATE combined with a CFA or DBA)
+- P:LS-2.7-07 (recommending or arranging an insurance policy)
+- P:LS-2.6-01 (how litigation funding works)
+- P:LS-2.6-02 (funding lawful, but not funder control)
+- P:LS-2.6-04 (a funder's return as a percentage of damages)
+- P:LS-2.6-06 (other third-party payers)
+- P:LS-2.6-08 (a third-party payer and the source of funds)
+- P:LS-2.5-02 (the list of in-scope examples)
+- P:LS-2.5-03 (the list of out-of-scope examples)
+- P:LS-2.5-07 (the cost-benefit and other merits tests; the prospects rule is said)
+- add:9 (the cost-benefit ratios)
+- P:LS-2.5-10 (raising legal aid with the client)
+- P:NEW-CP-1-3-05 (free advice at the police station)
+- P:CP-8.2-04 (the magistrates' court means test)
+- P:CP-8.2-05 (the Crown Court means test and contributions)
+- P:CP-8.2-02 (the list of interests of justice factors)
+- P:NEW-LS-05 (business agreements)
+- P:LS-2.4-04 (fixed recoverable costs)
+- P:LS-2.6-03 (a funder's liability for the opponent's costs)
+- P:LS-2.5-04 (exceptional case funding in detail)
+- P:LS-2.5-09 (costs protection)
+---
+## Map
+Will: The big question here: can you take this client on, and how is the work paid for? Six areas, in three groups. First, taking on and caring for the client: taking on a new client, conflicts of interest and client care.
+Hannah: And what are the other two groups?
+Will: Second, paying for legal services: funding options, then legal aid. Third, a group not covered in class: bills, cancellation, funders' costs and more on legal aid.
+Hannah: Where do we start?
+## Block 1: Taking on a new client
+Will: With taking on a new client, and whose instructions you can act on. Only the client's, or those of someone properly authorised to instruct on the client's behalf, such as an attorney under a registered lasting power of attorney.
+Hannah: What if a relative who benefits passes the instructions on?
+Will: If you have reason to suspect the instructions don't represent the client's wishes, you must not act unless you're satisfied that they do. The usual step is to see the client alone and confirm the instructions directly.
+Hannah (summing up): Act only on instructions from the client, or from someone properly authorised, and only if satisfied they represent the client's wishes.
+Will: Yes: an authorised voice, and the client's real wishes behind it.
+## Block 2: Conflicts of interest
+Hannah: Before conflicts of interest, a question on taking on a client. Dora's son rings to say she wants her house transferred to him. Can you act on that?
+Will (scenario pause): <think>
+Will: Not yet. Nothing shows he's properly authorised, and he benefits, so there's reason to suspect these aren't her wishes. The tempting answer is to act on the family's word, but first you see Dora alone.
+Hannah: Yes: he benefits and shows no authority, so Dora confirms it herself. Now conflicts of interest: when does one stop you acting?
+Will: An own interest conflict is where your duty to act in a client's best interests conflicts, or there's a significant risk it may, with your own interests in that or a related matter. Your own interests include financial interests, personal relationships and your firm's interests. If there is one, or a significant risk of one, then you must not act, or must stop acting. Unlike a client conflict there are no exceptions, so the client's informed consent doesn't let you act.
+Hannah: How is a client conflict different?
+Will: It's where your separate duties to act in the best interests of two or more clients conflict, in the same or related matters. It needs clients you act for or intend to act for, not former clients, and the same or a related matter, so acting for two clients on unrelated matters isn't one. Where there's a client conflict or a significant risk of one, you must not act in the matter or a particular aspect of it, unless one of the two exceptions applies and all its conditions are met. You check at the outset and throughout the matter.
+Hannah: And what conditions come with an exception?
+Will: There are three. One: all the clients give informed consent, given or evidenced in writing. Two: where appropriate, effective safeguards protect each client's confidential information. Three: you're satisfied it's reasonable to act for all of them.
+Hannah (summing up): An own interest conflict, or a significant risk of one, bars you even with consent; a client conflict, or such a risk, needs an exception and all three conditions.
+Will: Yes: consent never cures an own interest conflict.
+## Block 3: Client care: competence, ending the retainer and client information
+Hannah: Before client care, a question on conflicts. You'd like to buy your client's flat, and she consents in writing. Can you act for her on the sale?
+Will (scenario pause): <think>
+Will: I can't. My own interest conflicts with my duty to her, so I must not act. The tempting answer is that informed written consent solves it, but consent only matters for a client conflict within an exception.
+Hannah: Yes: an own interest conflict has no exceptions, so her consent changes nothing. Now client care, and ending the retainer first: when may you stop acting?
+Will: Only for good reason and on reasonable notice. Good reasons include the client instructing you to act improperly, a conflict arising, a breakdown of confidence, or failure to pay a reasonable sum on account of costs in contentious business. In litigation you must also come off the court record.
+Hannah: What must you tell the client about costs?
+Will: At the time of engagement, and when appropriate as the matter progresses, the best possible information about how the matter will be priced and its likely overall cost. That means fees, disbursements, VAT and possible liability for the other side's costs. You also discuss how it can be funded, so the client can make informed decisions.
+Hannah: What if the estimate proves too low?
+Will: An estimate must be realistic, and if it's likely to be exceeded you must tell the client promptly. A client may challenge fees that significantly exceed an estimate without warning.
+Hannah: And when a complaint isn't resolved?
+Will: The trigger is 8 weeks. If a complaint hasn't been resolved to the client's satisfaction within 8 weeks of being made, you must tell the client in writing of any right to complain to the Legal Ombudsman, the time limit for doing so and full contact details.
+Hannah: And what must you tell the client once the complaints procedure is exhausted?
+Will: And once your complaints procedure is exhausted, you must also tell the client in writing that you can't settle the complaint, the name and website of a competent approved ADR body, and whether you agree to use its scheme.
+Hannah (summing up): Tell the client promptly if an estimate is likely to be exceeded, and end a retainer only for good reason and on reasonable notice.
+Will: Yes: prompt news on estimates, and good reason plus reasonable notice to leave.
+## Block 4: Funding options and ways of charging
+Hannah: Before funding options, a question on client care. A client's complaint about Marcus's firm has sat unresolved for 8 weeks. What must the firm do now?
+Will (scenario pause): <think>
+Will: Write to the client about any right to complain to the Legal Ombudsman, with the time limit and full contact details. The tempting answer is to wait until the firm's own procedure is finished, but the duty bites at 8 weeks.
+Hannah: Yes: 8 weeks unresolved means the written notice, finished procedure or not. Now funding options and ways of charging: what if fixed-fee work overruns?
+Will: The firm can't charge more for work within the agreed scope, even if it takes longer than expected. But if work outside the scope becomes necessary, it must tell the client promptly and agree the extra charge before doing the work.
+Hannah: What should you check before suggesting other funding?
+Will: Whether the client has before-the-event insurance, BTE for short, by asking about and seeing relevant policies. You do that before recommending other funding, such as a CFA with after-the-event insurance, ATE. Failing to do so may breach the best-interests duty and be negligent.
+Hannah: How does a conditional fee agreement work?
+Will: Under a CFA the solicitor's fees and expenses, or part of them, are payable only in specified circumstances, usually success: no win, no fee, or a discounted no win, lower fee. It may include a success fee, an uplift on base costs. It must be in writing and, if it has a success fee, state the percentage. The success fee must not exceed 100 per cent of base costs. A CFA that doesn't comply is unenforceable, so the solicitor can't recover fees from the client, and so nothing from the opponent.
+Hannah: Is there a tighter cap in personal injury?
+Will: Yes, at first instance. The success fee the client pays is capped at 25 per cent. That's a share of the damages for pain, suffering and loss of amenity and past financial loss, net of sums recoverable by the CRU. Damages for future loss are protected.
+Hannah: Who ends up paying the success fee?
+Will: The client, usually from damages. That's been so since 1 April 2013. It isn't recoverable from the losing opponent, save in diffuse mesothelioma claims and for CFAs made before that date. Base costs remain recoverable from the opponent if the client wins.
+Hannah: And what if the client loses?
+Will: A CFA covers only the client's own solicitor's fees. So a client who loses remains liable for the opponent's costs unless protected by ATE insurance or, in personal injury, qualified one-way costs shifting.
+Hannah: How does a damages-based agreement differ?
+Will: A DBA is a contingency fee: the solicitor's payment is a percentage of the financial benefit the client obtains. If the client loses, the solicitor receives no fee, though the client may still be liable for expenses such as expert fees.
+Hannah: What are the caps on a DBA?
+Will: There are three, each including VAT. In personal injury, 25 per cent of the damages for pain, suffering and loss of amenity and past financial loss, net of CRU. In all other civil claims, 50 per cent of the sums ultimately recovered.
+Hannah: And what is the third cap?
+Will: In employment matters, 35 per cent. The first two caps apply at first instance only.
+Hannah: What happens to costs when a DBA client wins?
+Will: The opponent pays costs assessed in the normal way, and those are set against the DBA payment. The client pays any shortfall from damages. And under the indemnity principle the costs recoverable from the opponent can't exceed the total payable under the DBA.
+Hannah: What does ATE insurance cover?
+Will: It's bought after the dispute arises, and covers the client's liability for the opponent's costs if the claim fails, and often their own disbursements. Since 1 April 2013 the premium isn't recoverable from the losing opponent, so the client bears it. The limited exceptions include the part covering expert reports on liability and causation in clinical negligence claims.
+Hannah: Is an outside funder or payer your client?
+Will: The funder or payer is not the client. You take instructions from the client, or someone the client authorises, act in the client's best interests and keep their affairs confidential. So you need the client's consent before giving information to the funder, and you must check that the funder's involvement doesn't create a conflict or compromise your independence.
+Hannah (summing up): Under a CFA, a client who loses still owes the opponent's costs, unless protected by ATE insurance or, in personal injury, by qualified one-way costs shifting.
+Will: Yes: a CFA covers the client's own solicitor's fees and nothing more.
+## Block 5: Legal aid: civil and criminal
+Hannah: Before legal aid, a question mixing funding with taking on a client. A trade union pays for Tariq's claim and tells you to settle it. Whose instructions count?
+Will (scenario pause): <think>
+Will: Tariq's. The payer is not the client, so I take instructions from Tariq and act in his best interests. The tempting answer is that whoever pays decides.
+Hannah: Yes: paying the bill doesn't make the union the client. Now legal aid, civil first: what must the client show?
+Will: Civil legal aid has three tests. One: the matter is within scope, or qualifies for exceptional case funding. Two: the client is financially eligible on income and capital. Three: the case satisfies the merits criteria. And only a provider with a Legal Aid Agency contract can provide it.
+Hannah: How does the means test work?
+Will: It assesses gross income, disposable income and disposable capital. A client receiving a passporting benefit, universal credit for example, automatically passes the income test, but capital is still assessed. Contributions from income or capital may be payable. And some proceedings are non-means tested, such as parents and children in care proceedings.
+Hannah: And what do the merits require?
+Will: For full representation, the prospects of success must generally be at least 50 per cent. Poor prospects, under 45 per cent, fail.
+Hannah: What about prospects between those two?
+Will: Marginal prospects, 45 to 50 per cent, or borderline ones qualify only if the case is of significant wider public interest or of overwhelming importance to the client.
+Hannah: Now criminal legal aid: what does representation in court need?
+Will: A representation order, which needs two tests passed: the interests of justice test and, unless the applicant is passported, the means test. Passported means under 18, for example, or on a passporting benefit.
+Hannah (summing up): Civil legal aid needs scope, or exceptional case funding, plus means and merits; a representation order needs the interests of justice test and, unless passported, the means test.
+Will: Yes: three civil tests, and two for a representation order.
+## Block 6: Bills, cancellation, funders' costs and more on legal aid (not covered in class)
+Hannah: Before bills and cancellation, a question on legal aid. Lena receives universal credit and has substantial savings. Does the benefit get her through the civil means test?
+Will (scenario pause): <think>
+Will: Only through the income part. A passporting benefit automatically passes the income test, but capital is still assessed, so her savings may make her ineligible. The tempting answer is that passporting settles means altogether.
+Hannah: Yes: passporting answers the income question only. Now bills: when can a client challenge one?
+Will: A client may apply to the court for assessment of a bill, and time since delivery decides. Within 1 month of delivery, assessment is as of right. After that and within 12 months of delivery, it's at the court's discretion.
+Hannah: And what about later than that?
+Will: After 12 months from delivery, after judgment or after payment, only in special circumstances, and never more than 12 months after payment.
+Hannah: When can the solicitor sue on the bill?
+Will: Not until one month after delivery.
+Hannah: When can a client cancel the retainer?
+Will: A consumer client who instructs the firm at a distance or off-premises has a right to cancel. The period is 14 days. The firm must give cancellation information. If the client expressly asks for work to begin within that period, on a durable medium where the contract is off-premises, and then cancels, they pay a proportionate amount for work done. But they pay nothing if the firm failed to give the cancellation information.
+Hannah: And what does a legally aided client give up on winning?
+Will: That's the statutory charge. Where a legally aided client recovers or preserves money or property in the proceedings, the Legal Aid Agency's costs of the case, so far as not recovered from the opponent, are a first charge on it. The client must be warned at the outset, and a charge on a home can be postponed, with interest.
+Hannah (summing up): Assessment of a bill is as of right only within 1 month of delivery; a consumer who instructs at a distance or off-premises has 14 days to cancel.
+Will: Yes: one month for assessment as of right, and 14 days to cancel.
+## Recap
+Hannah: A last question, on bills. A client's bill was delivered two months ago and is still unpaid. Can the client insist on having it assessed?
+Will (scenario pause): <think>
+Will: Not as of right. That ran out one month after delivery, so now assessment is at the court's discretion. The tempting answer is a right to assessment for a whole year.
+Hannah: Yes: as of right within the first month, and discretion after it. Now the quick-fire round. What's the summary for taking on a new client?
+Will (quick-fire pause): <think>
+Will: Act only on instructions from the client, or from someone properly authorised, and only if satisfied they represent the client's wishes.
+Hannah: What's the summary for conflicts of interest?
+Will (quick-fire pause): <think>
+Will: An own interest conflict, or a significant risk of one, bars you even with consent; a client conflict, or such a risk, needs an exception and all three conditions.
+Hannah: What's the summary for client care?
+Will (quick-fire pause): <think>
+Will: Tell the client promptly if an estimate is likely to be exceeded, and end a retainer only for good reason and on reasonable notice.
+Hannah: What's the summary for the funding options?
+Will (quick-fire pause): <think>
+Will: Under a CFA, a client who loses still owes the opponent's costs, unless protected by ATE insurance or, in personal injury, by qualified one-way costs shifting.
+Hannah: What's the summary for legal aid?
+Will (quick-fire pause): <think>
+Will: Civil legal aid needs scope, or exceptional case funding, plus means and merits; a representation order needs the interests of justice test and, unless passported, the means test.
+Hannah: What's the summary for bills and cancellation?
+Will (quick-fire pause): <think>
+Will: Assessment of a bill is as of right only within 1 month of delivery; a consumer who instructs at a distance or off-premises has 14 days to cancel.
+Hannah: And what's the whole workshop in one sentence?
+Will: Before acting, check that the instructions are the client's own and that no conflict bars you, and before choosing funding, work out what the client still pays on a win and on a loss, then tell them.
