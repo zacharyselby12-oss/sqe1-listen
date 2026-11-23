@@ -6908,14 +6908,23 @@
       ],
       "summary": "Most questions turn on which clock and which rank: reviews run from when detention was first authorised, detention limits from the relevant time; delaying a solicitor needs at least a superintendent, delaying having someone told at least an inspector.",
       "madeAt": "2026-11-23T08:43:39+00:00",
-      "status": "queued",
+      "status": "published",
       "pilot": false,
       "approved": false,
       "checks": "code ok (check_script_v23, revcheck); ke scan 0 hits (1 cleared by Opus triage: PACE s37 pre-charge line, not the s38 error); opus x2 (4 fixes); script-revise of 1 code error; changed lines ok; re-stamped r202611221850 (guide changed: b7.3 P:CP-4.1-05, b9.5 P:CP-17-04 added): ke scan 0 hits (1 cleared by Opus triage), Opus restamp-check pass",
       "part": 1,
       "of": 1,
       "blocks": [],
-      "spec": "2.2"
+      "spec": "2.2",
+      "bytes": 9182933,
+      "seconds": 1148,
+      "words": 2557,
+      "renderedHash": "f6917dedb3ec",
+      "renderedAt": "2026-11-23T08:45:03+00:00",
+      "voices": "pair:voice_7636x92kz2nd+voice_7hvws5hbx3yt",
+      "audioUrl": "https://github.com/zacharyselby12-oss/sqe1-listen/releases/download/audio/clp-ws01-rev-v1-b8e660f5.mp3",
+      "siteAudio": "audio/clp-ws01-rev-v1-b8e660f5.mp3",
+      "pubDate": "2026-11-23T08:45:03+00:00"
     }
   ],
   "replays": [
