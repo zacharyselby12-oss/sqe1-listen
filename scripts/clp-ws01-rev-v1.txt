@@ -1,0 +1,250 @@
+---
+id: clp-ws01-rev-v1
+unit: u-bpp-CLP-01
+guide_hash: 47802066bf
+made: 2026-11-23T08:43:39+00:00
+kind: revision
+title: CLP WS01 · Revision · 18 min
+map:
+- Police powers, arrest and procedure at the station
+- Custody officer, custody record and conditions of detention
+- Reviews and detention time limits
+- Right to legal advice and delaying it
+- Right to have someone informed of arrest
+- Appropriate adults, vulnerable suspects and interpreters
+- Interviews: caution, conduct, recording and the solicitor's role
+- Confessions and exclusion of evidence (ss.76 and 78 PACE)
+- Introduction: the criminal process, the Criminal Procedure Rules and case management
+- Professional conduct in criminal litigation
+recap:
+- Pre-charge bail is allowed only if necessary and proportionate, may carry conditions and has an initial period of 3 months; release under investigation has no conditions and no time limit.
+- The custody officer must be at least a sergeant and not investigating the offence; an officer of any rank may act if no custody officer is readily available.
+- Reviews are timed from when detention was first authorised; the 24 hours are timed from the relevant time, normally arrival at the first station after arrest.
+- Delay in access to a solicitor is allowed only for an indictable offence, before charge, on a superintendent's authority on the listed grounds, and never beyond 36 hours from the relevant time.
+- Delaying having someone told has four limits: an indictable offence, the authority of at least an inspector, the legal-advice grounds, and at most 36 hours from the relevant time.
+- Anyone who appears to be under 18 is treated as a juvenile, absent clear evidence that they are older, so even a 17-year-old needs an appropriate adult at the station.
+- Once arrest is decided, questioning about the offence is an interview that must wait for the police station, unless delay would lead to one of the four listed risks, and then only until that risk is averted.
+- Once oppression or unreliability is represented, the court must exclude the confession unless the prosecution proves beyond reasonable doubt it was not so obtained; under section 78 the court may exclude prosecution evidence whose admission would make the proceedings unfair.
+- Every adult case starts in the magistrates' court: summary-only stays, either-way goes through plea before venue and allocation, and indictable-only is sent straight to the Crown Court.
+- A solicitor must never mislead or attempt to mislead the court, or let others, including the client, do so; where a client insists on giving evidence the solicitor knows is false, the solicitor must withdraw without telling the court why.
+summary: Most questions turn on which clock and which rank: reviews run from when detention was first authorised, detention limits from the relevant time; delaying a solicitor needs at least a superintendent, delaying having someone told at least an inspector.
+invented:
+- 9.30pm
+- 10pm
+- 4am
+guide_only:
+- P:CP-1-19 (intimate samples)
+- add:0 (the 6 hours at a non-designated station)
+- P:CP-1-05 (the rights told on booking in)
+- P:CP-1-06 (the custody record and the solicitor's inspection of it)
+- P:CP-2.3-01 (the 24-hour cap on the relevant time for arrests in another area or abroad, and voluntary attendance; the normal relevant time is said)
+- add:13 (24 hours as the maximum for a summary-only offence)
+- add:15 (the warrant of further detention, up to 36 more hours)
+- P:CP-2.3-06 (the late application for a warrant)
+- add:16 (the 6 hours for a late warrant application)
+- P:CP-2.3-07 (extending a warrant, and the 96 hours)
+- add:17 (the 96 hours in total)
+- P:CP-2.3-10 (release at the limit and re-arrest)
+- P:CP-2.1-07 (being told and reminded of the right to advice)
+- P:CP-2.1-03 (the grounds in full and the particular solicitor)
+- P:CP-2.1-04 (no delay because of advice to stay silent; choosing another solicitor)
+- P:CP-2.1-05 (telling the detainee the reason for delay and recording it; the 36 hours and the end of the delay are said)
+- P:CP-2.1-06 (no interview before advice, and its four exceptions)
+- P:CP-2.1-09 (the effect of a breach of the right to advice)
+- P:CP-2.2-01 (the right to have one person told)
+- add:19 (1 person told of the arrest)
+- P:CP-2.2-02 (alternatives when the nominated person cannot be contacted)
+- add:20 (up to 2 alternatives)
+- P:CP-2.2-04 (the reason for delay, the record, and the end of the delay)
+- P:CP-2.2-06 (the telephone call and writing materials)
+- add:22 (the telephone call to 1 person)
+- P:CP-1-11 (who is treated as vulnerable)
+- P:CP-5.2-01 (who may be a juvenile's appropriate adult)
+- add:24 (another responsible adult aged 18 or over)
+- P:CP-5.2-02 (who may be a vulnerable adult's appropriate adult)
+- P:CP-5.2-03 (who may not act as appropriate adult)
+- P:CP-5.2-05 (the appropriate adult's role)
+- P:CP-5.2-08 (the adult asking for a solicitor, and removal from interview)
+- P:CP-5.2-07 (no interview without the appropriate adult, and the urgent interview)
+- P:CP-4.1-01 (the words of the caution)
+- P:CP-4.2-06 (the five parts of a special warning)
+- P:CP-1-17 (fitness to be interviewed)
+- P:CP-5.3-06 (unfit detainees and interview rooms)
+- P:CP-4.1-03 (the options in interview)
+- P:CP-5.3-03 (the officer's steps at the start of an interview)
+- P:CP-5.3-07 (recording interviews)
+- P:CP-5.3-04 (no oppression, and saying what action the police will take)
+- P:CP-5.3-05 (rest and breaks)
+- add:25 (the 8 hours' rest)
+- add:26 (breaks about every 2 hours)
+- P:CP-5.1-01 (the solicitor's only role)
+- P:CP-5.1-05 (the solicitor's opening statement and note)
+- P:CP-5.1-02 (the solicitor's four interventions)
+- P:CP-5.1-04 (an excluded solicitor)
+- P:CP-5.1-06 (not misleading the police, and confidentiality)
+- P:CP-5.3-09 (breaches of the interview rules and exclusion)
+- P:CP-12.4.2-01 (a confession as evidence against its maker)
+- P:CP-12.4.3-02 (what oppression means)
+- P:CP-12.4.3-03 (what unreliability asks)
+- P:CP-12.4.3-05 (the causal link)
+- P:CP-12.6.1-01 (the wording of the fairness discretion)
+- P:CP-12.6.1-08 (entrapment)
+- P:CP-12.4.2-03 (a co-accused relying on the confession)
+- P:CP-12.4.2-05 (what survives exclusion)
+- P:CP-6-05 (the single justice procedure)
+- P:CP-6-01 (the overriding objective)
+- P:CP-11.1-02 (the parties' duty to assist case management and identify the issues)
+- P:CP-11.1-06 (sanctions and trial in absence)
+- P:CP-12.3.3-05 (hearsay notices)
+- P:CP-11.3-07 (the contents of a defence statement)
+- P:CP-17-01 (the right to speak Welsh in proceedings in Wales)
+- P:CP-17-03 (telling the court that Welsh may be used)
+- P:CP-17-04 (raising Welsh at the first case management hearing)
+- P:CP-17-05 (costs where Welsh is used without notice)
+- P:CP-17-07 (the oath or affirmation in Welsh)
+- P:ETH-CS-3-01 (who may give instructions)
+- P:ETH-CS-3-02 (suspecting the instructions are not the client's wishes)
+- P:ETH-CS-6-17 (acting for co-defendants)
+- P:ETH-CS-6-24 (confidentiality)
+- P:ETH-CS-6-29 (the duty to disclose material information to the client)
+- P:ETH-CS-6-35 (conflicts judged across the firm)
+- P:ETH-P-08 (which Principles take precedence, in full)
+- P:CP-13.8-06 (the four duties to the court)
+- P:ETH-CS-2-20 (the client who admits guilt but pleads not guilty)
+- P:CP-13.8-07 (a false name, address or date of birth)
+- P:CP-13.8-05 (previous convictions)
+- P:CP-13.8-08 (a change of plea)
+---
+## Map
+Will: Today's big question: what may the police do with a suspect at the station, and what follows in court? Ten areas, in two groups: eight on police detention and suspect rights, then two introducing the criminal process, case management and professional conduct.
+## Block 1: Police powers, arrest and procedure at the station
+Hannah: First, police powers, arrest and procedure at the station: who decides whether an arrested suspect is held?
+Will: The custody officer, who must decide whether there is enough evidence to charge. Without enough, the person must be released, on bail if the pre-conditions are met and otherwise without bail. That is unless the custody officer has reasonable grounds for believing detention without charge is necessary to secure or preserve evidence of the offence, or to obtain such evidence by questioning.
+Hannah: And how can a suspect be released before charge?
+Will: Release on bail is allowed only if it is necessary and proportionate, and it may carry conditions. Its initial bail period is 3 months. Release under investigation carries no conditions and has no time limit.
+Hannah (summing up): Pre-charge bail is allowed only if necessary and proportionate, may carry conditions and has an initial period of 3 months; release under investigation has no conditions and no time limit.
+Will: Yes: only bail carries conditions and a clock.
+## Block 2: Custody officer, custody record and conditions of detention
+Hannah: Before the custody officer, a question on release: what time limit applies to a suspect released under investigation?
+Will (scenario pause): <think>
+Will: None, and no conditions either. The tempting answer is 3 months, but that is the initial period for bail.
+Hannah: Yes: the 3 months belongs to bail before charge.
+Will: Now the custody officer: who runs a suspect's detention? It is the custody officer, who must be at least a sergeant and must not be an officer investigating the offence for which the person is detained. An officer of any rank may act as custody officer if no custody officer is readily available. The custody officer, not the investigating officer, decides on detention and keeps the custody record. The custody officer is also responsible for the detainee's welfare.
+Hannah (summing up): The custody officer must be at least a sergeant and not investigating the offence; an officer of any rank may act if no custody officer is readily available.
+Will: Right: rank and independence, with that one fallback.
+## Block 3: Reviews and detention time limits
+Hannah: Before reviews and detention time limits, a question on the custody officer: can the sergeant investigating a theft act as custody officer for that suspect?
+Will (scenario pause): <think>
+Will: No: the custody officer must not be an officer investigating the offence. The tempting answer is that a sergeant's rank is enough.
+Hannah: Yes: being a sergeant doesn't cure investigating the case.
+Will: Now reviews and detention time limits: two clocks run. Before charge, a review officer of at least inspector rank, not directly involved in the investigation, must review detention. The first review is due no later than 6 hours after detention was first authorised.
+Hannah: And when are the later reviews due?
+Will: The second is due no later than 9 hours after the first. Later reviews follow at intervals of no more than 9 hours. After charge, reviews are by the custody officer.
+Hannah: So what does the detention clock run from?
+Will: From the relevant time, which is normally the time of arrival at the first police station after arrest. Police detention without charge may not last more than 24 hours from the relevant time. At the end of that period the person must be released, with or without bail, unless an extension has been authorised.
+Hannah: Who can authorise an extension?
+Will: An officer of superintendent rank or above, responsible for the station, may extend detention. The new limit is 36 hours from the relevant time. There are three conditions. One, the offence is indictable. Two, detention without charge is necessary to secure or preserve evidence, or obtain evidence by questioning. Three, the investigation is being conducted diligently and expeditiously. And it can only be authorised before the 24 hours expire and after the second review.
+Hannah (summing up): Reviews are timed from when detention was first authorised; the 24 hours are timed from the relevant time, normally arrival at the first station after arrest.
+Will: Yes: two clocks, with two different starting points.
+## Block 4: Right to legal advice and delaying it
+Hannah: Before the right to legal advice, a question on reviews: a suspect arrives at the station at 9.30pm after arrest, and detention is authorised at 10pm, so when is the first review due?
+Will (calculation pause): <think>
+Will: By 4am: the first review is due no later than 6 hours after detention was first authorised. The tempting answer counts from arrival, which normally starts the detention clock instead.
+Hannah: Yes: 6 hours from authorisation gives 4am.
+Will: Now the right to legal advice and delaying it. Access to a solicitor can be delayed only where three things are true. One, the person is in police detention for an indictable offence, which includes either-way. Two, they have not yet been charged. Three, the delay is authorised by an officer of at least superintendent rank.
+Hannah: On what grounds can that officer authorise it?
+Will: On reasonable grounds for believing access would lead to interference with or harm to evidence or people, alerting other suspects, or hindering recovery of property or of the benefit of criminal conduct. Access must be allowed within 36 hours of the relevant time, and delay must end as soon as the grounds cease.
+Hannah (summing up): Delay in access to a solicitor is allowed only for an indictable offence, before charge, on a superintendent's authority on the listed grounds, and never beyond 36 hours from the relevant time.
+Will: Right: all three conditions are needed, and even then the delay can never run past 36 hours from the relevant time.
+## Block 5: Right to have someone informed of arrest
+Hannah: Before having someone informed of the arrest, a question on legal advice: can a superintendent delay access to a solicitor after charge?
+Will (scenario pause): <think>
+Will: No: delay is allowed only before charge. The tempting answer is yes, because the rank is right.
+Hannah: Yes: after charge, access can no longer be delayed.
+Will: Now the right to have someone informed of the arrest. The police can delay it only on four conditions. One, the offence is indictable. Two, an officer of at least inspector rank authorises it. Three, the grounds are the same as for delaying legal advice: harm to evidence or people, alerting other suspects, or hindering recovery of property. Four, the delay lasts no longer than 36 hours from the relevant time. So an inspector can delay having someone told, while delaying access to a solicitor takes a superintendent.
+Hannah (summing up): Delaying having someone told has four limits: an indictable offence, the authority of at least an inspector, the legal-advice grounds, and at most 36 hours from the relevant time.
+Will: Yes: an inspector is enough here, within those limits.
+## Block 6: Appropriate adults, vulnerable suspects and interpreters
+Hannah: Before appropriate adults, a question on delay: can an inspector authorise delaying a suspect's access to a solicitor?
+Will (scenario pause): <think>
+Will: No: that needs an officer of at least superintendent rank. The tempting answer is yes, because an inspector can delay having someone told of the arrest.
+Hannah: Yes: the solicitor needs the higher rank.
+Will: Now appropriate adults: who is treated as a juvenile? Anyone who appears to be under 18 must be treated as a juvenile, in the absence of clear evidence that they are older. So a 17-year-old is a juvenile at the police station, and needs an appropriate adult.
+Hannah (summing up): Anyone who appears to be under 18 is treated as a juvenile, absent clear evidence that they are older, so even a 17-year-old needs an appropriate adult at the station.
+Will: Right: appearance decides it, unless clear evidence shows otherwise.
+## Block 7: Interviews: caution, conduct, recording and the solicitor's role
+Hannah: Before interviews, a question on juveniles: a suspect appears to be 17 and no appropriate adult has come, so can the police interview him as an adult?
+Will (scenario pause): <think>
+Will: No: without clear evidence that he is older, he is treated as a juvenile and needs an appropriate adult. The tempting answer treats 17 as adult.
+Hannah: Yes: at the police station, 17 still means juvenile.
+Will: Now interviews: what counts as one? An interview is the questioning of a person about their involvement or suspected involvement in a criminal offence, and it must be carried out under caution.
+Hannah: And where must an interview take place?
+Will: After a decision to arrest, the suspect must not be interviewed about the offence except at a police station, with four exceptions. They are where delay would lead to harm to evidence or people, serious loss of or damage to property, alerting other suspects, or hindering recovery of property. Questioning must stop once that risk is averted.
+Hannah (summing up): Once arrest is decided, questioning about the offence is an interview that must wait for the police station, unless delay would lead to one of the four listed risks, and then only until that risk is averted.
+Will: Yes: station first, apart from those four risks, and even then only until the risk is averted.
+## Block 8: Confessions and exclusion of evidence (ss.76 and 78 PACE)
+Hannah: Before confessions and exclusion of evidence, a question on interviews: an officer chats to an arrested suspect in the van about what happened, with no risk in waiting, so is that allowed?
+Will (scenario pause): <think>
+Will: No: that is questioning about his involvement in an offence, so it is an interview and must wait for the police station. The tempting answer is that a chat isn't an interview.
+Hannah: Yes: a chat about the offence still counts as an interview.
+Will: Now confessions and the exclusion of evidence: when must the court exclude a confession? The trigger is a representation by the defendant, or the court raising it of its own motion. It is that the confession was or may have been obtained by oppression, or in consequence of anything said or done likely to make it unreliable. The court must then exclude it, unless the prosecution proves beyond reasonable doubt that it was not so obtained. Exclusion is mandatory, not discretionary.
+Hannah: And where does the court have a discretion?
+Will: Under section 78, the court has a discretion: it asks whether admission would make the proceedings unfair, not whether the police broke the rules. So a breach of PACE or the Codes is not enough by itself, and must normally be significant and substantial. Bad faith by the police makes exclusion more likely, but is not required.
+Hannah (summing up): Once oppression or unreliability is represented, the court must exclude the confession unless the prosecution proves beyond reasonable doubt it was not so obtained; under section 78 the court may exclude prosecution evidence whose admission would make the proceedings unfair.
+Will: Right: section 76 is a duty to exclude, section 78 a discretion.
+## Block 9: Introduction: the criminal process, the Criminal Procedure Rules and case management
+Hannah: Before the introduction to the criminal process, a question on confessions: the defence says a confession may have been obtained by oppression, so who must prove what?
+Will (scenario pause): <think>
+Will: The prosecution must prove beyond reasonable doubt that it was not so obtained, or the court must exclude it. The tempting answer is that the defence must prove oppression.
+Hannah: Yes: the prosecution carries that burden, beyond reasonable doubt.
+Will: Now the introduction to the criminal process. Every adult criminal case starts in the magistrates' court, and what happens next depends on classification. Summary-only cases stay there. Either-way cases go through plea before venue and allocation. Indictable-only cases are sent straight to the Crown Court.
+Hannah (summing up): Every adult case starts in the magistrates' court: summary-only stays, either-way goes through plea before venue and allocation, and indictable-only is sent straight to the Crown Court.
+Will: Yes: classification decides where the case goes next.
+## Block 10: Professional conduct in criminal litigation
+Hannah: Before professional conduct, a question on classification: where does an adult's indictable-only case start?
+Will (scenario pause): <think>
+Will: The magistrates' court, like every adult criminal case, before being sent straight to the Crown Court. The tempting answer is the Crown Court itself.
+Hannah: Yes: it starts with the magistrates and is sent on from there.
+Will: Now professional conduct in criminal litigation. A solicitor must not mislead or attempt to mislead the court, by their own acts or omissions, or by allowing or being complicit in those of others, including the client. And where Principles conflict, those protecting the proper administration of justice and public trust take precedence over the client's best interests.
+Hannah: So what happens when the solicitor knows the client's evidence is false, but the client is determined to give it anyway?
+Will: Then the solicitor must decline to act further and withdraw, without telling the court why, because the duty of confidentiality continues.
+Hannah (summing up): A solicitor must never mislead or attempt to mislead the court, or let others, including the client, do so; where a client insists on giving evidence the solicitor knows is false, the solicitor must withdraw without telling the court why.
+Will: Right: no misleading by anyone, and withdraw with the reason kept confidential.
+## Recap
+Hannah: One last question, on professional conduct: a client admits his alibi is untrue but insists on giving it in evidence, so what must the solicitor do?
+Will (scenario pause): <think>
+Will: Decline to act further and withdraw, without telling the court why. The tempting answer is to explain the withdrawal to the court.
+Hannah: Yes: the solicitor goes, and the reason stays confidential.
+Will: Now the quick-fire round.
+Hannah: What's the summary for release before charge?
+Will (quick-fire pause): <think>
+Will: Pre-charge bail is allowed only if necessary and proportionate, may carry conditions and has an initial period of 3 months; release under investigation has no conditions and no time limit.
+Hannah: What's the summary for the custody officer?
+Will (quick-fire pause): <think>
+Will: The custody officer must be at least a sergeant and not investigating the offence; an officer of any rank may act if no custody officer is readily available.
+Hannah: What's the summary for reviews and detention time limits?
+Will (quick-fire pause): <think>
+Will: Reviews are timed from when detention was first authorised; the 24 hours are timed from the relevant time, normally arrival at the first station after arrest.
+Hannah: What's the summary for delaying legal advice?
+Will (quick-fire pause): <think>
+Will: Delay in access to a solicitor is allowed only for an indictable offence, before charge, on a superintendent's authority on the listed grounds, and never beyond 36 hours from the relevant time.
+Hannah: What's the summary for having someone informed of the arrest?
+Will (quick-fire pause): <think>
+Will: Delaying having someone told has four limits: an indictable offence, the authority of at least an inspector, the legal-advice grounds, and at most 36 hours from the relevant time.
+Hannah: What's the summary for appropriate adults and juveniles?
+Will (quick-fire pause): <think>
+Will: Anyone who appears to be under 18 is treated as a juvenile, absent clear evidence that they are older, so even a 17-year-old needs an appropriate adult at the station.
+Hannah: What's the summary for interviews?
+Will (quick-fire pause): <think>
+Will: Once arrest is decided, questioning about the offence is an interview that must wait for the police station, unless delay would lead to one of the four listed risks, and then only until that risk is averted.
+Hannah: What's the summary for confessions?
+Will (quick-fire pause): <think>
+Will: Once oppression or unreliability is represented, the court must exclude the confession unless the prosecution proves beyond reasonable doubt it was not so obtained; under section 78 the court may exclude prosecution evidence whose admission would make the proceedings unfair.
+Hannah: What's the summary for classifying offences?
+Will (quick-fire pause): <think>
+Will: Every adult case starts in the magistrates' court: summary-only stays, either-way goes through plea before venue and allocation, and indictable-only is sent straight to the Crown Court.
+Hannah: What's the summary for professional conduct?
+Will (quick-fire pause): <think>
+Will: A solicitor must never mislead or attempt to mislead the court, or let others, including the client, do so; where a client insists on giving evidence the solicitor knows is false, the solicitor must withdraw without telling the court why.
+Hannah: And what decides most of this workshop's questions, in one sentence?
+Will: Most questions turn on which clock and which rank: reviews run from when detention was first authorised, detention limits from the relevant time; delaying a solicitor needs at least a superintendent, delaying having someone told at least an inspector.
